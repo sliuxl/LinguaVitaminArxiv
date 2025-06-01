@@ -1,10 +1,10 @@
 ---
-title: cs.SE @ 2025-06-01
+title: "cs.SE @ 2025-06-01: 117"
 date: 2025-06-01
 layout: post
 ---
 
-- [00](#article-0) | 05-29 | How to Elicit Explainability Requirements? A Comparison of Interviews,   Focus Groups, and Surveys | Wie zu Elicit Erklärbarkeit Anforderungen? Ein Vergleich von Interviews, Fokusgruppen und Umfragen | 如何制定明确的解释要求?访谈、焦点小组和调查的比较 | [2505.23684v1](http://arxiv.org/abs/2505.23684v1)
+- [00](#article-0) | **05-29 (4)** | How to Elicit Explainability Requirements? A Comparison of Interviews,   Focus Groups, and Surveys | Wie zu Elicit Erklärbarkeit Anforderungen? Ein Vergleich von Interviews, Fokusgruppen und Umfragen | 如何制定明确的解释要求?访谈、焦点小组和调查的比较 | [2505.23684v1](http://arxiv.org/abs/2505.23684v1)
 - [01](#article-1) | 05-29 | Quantum-Based Software Engineering | Quantenbasierte Software-Engineering | 基于量子的软件工程 | [2505.23674v1](http://arxiv.org/abs/2505.23674v1)
 - [02](#article-2) | 05-29 | GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents | GSO: Herausfordernde Software-Optimierungsaufgaben zur Bewertung von SWE-Agenten | GSO:评估SWE-Agentics的有挑战的软件优化任务 | [2505.23671v1](http://arxiv.org/abs/2505.23671v1)
 - [03](#article-3) | 05-29 | Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software   Engineering | Satori-SWE: Evolutionäre Test-Zeit-Skalierung für probeneffiziente Software-Engineering | Satori-SWE:样本高效软件工程的进化测试-时间尺度 | [2505.23604v1](http://arxiv.org/abs/2505.23604v1)
@@ -32,7 +32,7 @@ layout: post
 - [25](#article-25) | 05-29 | Structural Abstraction and Selective Refinement for Formal Verification | Strukturelle Abstraktion und selektive Verfeinerung für formale Verifizierung | 正式核查的结构性抽象和选择性改进 | [2505.22982v1](http://arxiv.org/abs/2505.22982v1)
 - [26](#article-26) | 05-29 | CodeSteer: Symbolic-Augmented Language Models via Code/Text Guidance | CodeSteer: Symbolisch-Augmentierte Sprachmodelle über Code/Text Anleitung | 代码器:通过编码/文本指导的代码/文本指导的代码器:代号辅助语言模式 | [2502.04350v2](http://arxiv.org/abs/2502.04350v2)
 - [27](#article-27) | 05-29 | BYOS: Knowledge-driven Large Language Models Bring Your Own Operating   System More Excellent | BYOS: Wissensgetriebene große Sprachmodelle bringen Ihr eigenes Betriebssystem hervorragender | BYOS: 知识驱动的大型语言模式使自己的操作系统更加出色 | [2503.09663v2](http://arxiv.org/abs/2503.09663v2)
-- [28](#article-28) | 05-28 | Unlocking Mental Health: Exploring College Students' Well-being through   Smartphone Behaviors | Entsperren der psychischen Gesundheit: Erforschen des Wohlbefindens der Studenten durch Smartphone-Verhalten | 解锁心理健康:通过智能手机行为探索大学生福祉 | [2502.08766v2](http://arxiv.org/abs/2502.08766v2)
+- [28](#article-28) | **05-28 (3)** | Unlocking Mental Health: Exploring College Students' Well-being through   Smartphone Behaviors | Entsperren der psychischen Gesundheit: Erforschen des Wohlbefindens der Studenten durch Smartphone-Verhalten | 解锁心理健康:通过智能手机行为探索大学生福祉 | [2502.08766v2](http://arxiv.org/abs/2502.08766v2)
 - [29](#article-29) | 05-28 | Evolution analysis of software quality metrics in an open-source java   project: A case study on TestNG | Evolutionsanalyse von Software-Qualitätsmetriken in einem Open-Source-Java-Projekt: Eine Fallstudie zu TestNG | 开放源码 Java项目软件质量衡量标准演变分析:测试NG案例研究 | [2505.22884v1](http://arxiv.org/abs/2505.22884v1)
 - [30](#article-30) | 05-28 | Visualizing Cloud-native Applications with KubeDiagrams | Cloud-native Anwendungen mit KubeDiagrammen visualisieren | 带有KubeDiagrams 的可视化云源应用 | [2505.22879v1](http://arxiv.org/abs/2505.22879v1)
 - [31](#article-31) | 05-28 | RocqStar: Leveraging Similarity-driven Retrieval and Agentic Systems for   Rocq generation | RocqStar: Leveraging-ähnliche Retrieval- und Agentiksysteme für die Rocq-Generation | RocqStar:利用利用相似度驱动回收系统和干系统来生成Rocq | [2505.22846v1](http://arxiv.org/abs/2505.22846v1)
@@ -55,7 +55,7 @@ layout: post
 - [48](#article-48) | 05-28 | System-driven Cloud Architecture Design Support with Structured State   Management and Guided Decision Assistance | Systemgesteuerte Cloud-Architektur-Design-Unterstützung mit strukturiertem Staatsmanagement und beratender Entscheidungshilfe | 提供结构化国家管理和指导决策援助的系统驱动云层结构设计支持 | [2505.20701v2](http://arxiv.org/abs/2505.20701v2)
 - [49](#article-49) | 05-28 | Larger Is Not Always Better: Exploring Small Open-source Language Models   in Logging Statement Generation | Größere ist nicht immer besser: Erforschen von kleinen Open-Source-Sprachenmodellen bei der Erstellung von Protokollierungsanweisungen | 大并非总是更好:探索记录报表生成中的小型开放源语言模式 | [2505.16590v2](http://arxiv.org/abs/2505.16590v2)
 - [50](#article-50) | 05-28 | Co-Saving: Resource Aware Multi-Agent Collaboration for Software   Development | Co-Saving: Ressourcenschonende Multi-Agenten-Kollaboration für Software-Entwicklung | 共同节省:为开发软件进行有意识的资源、多机构协作 | [2505.21898v1](http://arxiv.org/abs/2505.21898v1)
-- [51](#article-51) | 05-27 | Augmenting Software Bills of Materials with Software Vulnerability   Description: A Preliminary Study on GitHub | Augmenting Software Bills of Materials with Software Vulnerability Beschreibung: Eine Vorstudie zu GitHub | 增加具有软件脆弱性说明的软件材料账单:关于GitHub的初步研究 | [2503.13998v2](http://arxiv.org/abs/2503.13998v2)
+- [51](#article-51) | **05-27 (2)** | Augmenting Software Bills of Materials with Software Vulnerability   Description: A Preliminary Study on GitHub | Augmenting Software Bills of Materials with Software Vulnerability Beschreibung: Eine Vorstudie zu GitHub | 增加具有软件脆弱性说明的软件材料账单:关于GitHub的初步研究 | [2503.13998v2](http://arxiv.org/abs/2503.13998v2)
 - [52](#article-52) | 05-27 | Leveraging XP and CRISP-DM for Agile Data Science Projects | Nutzung von XP und CRISP-DM für agile Data Science Projekte | 利用XP和CRISP-DM为敏感数据科学项目发挥杠杆作用 | [2505.21603v1](http://arxiv.org/abs/2505.21603v1)
 - [53](#article-53) | 05-27 | JITScope: Interactive Visualization of JIT Compiler IR Transformations | JITScope: Interaktive Visualisierung von JIT Compiler IR-Transformationen | JIT编辑器 IR 转换的交互式视觉化 | [2505.21599v1](http://arxiv.org/abs/2505.21599v1)
 - [54](#article-54) | 05-27 | GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural   Code Generation | GUARD:Dual-Agent-basierte Backdoor-Verteidigung auf Ketten-of-Thought in Neural Code Generation | GUARD: 在神经代码生成过程中寻求的连锁研究中,基于 " 以企业为基地 " 的后门防御 | [2505.21425v1](http://arxiv.org/abs/2505.21425v1)
@@ -71,7 +71,7 @@ layout: post
 - [64](#article-64) | 05-27 | Can Agents Fix Agent Issues? | Können Agenten Probleme mit Agenten beheben? | 特工能解决代理问题吗? | [2505.20749v1](http://arxiv.org/abs/2505.20749v1)
 - [65](#article-65) | 05-27 | Enhancing Code LLMs with Reinforcement Learning in Code Generation: A   Survey | Verbesserung von Code LLMs mit Verstärkungslernen in der Codegenerierung: Eine Umfrage | 增强法典制定中强化学习的加强守则LLMS 代码生成:调查 | [2412.20367v3](http://arxiv.org/abs/2412.20367v3)
 - [66](#article-66) | 05-27 | SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large   Language Models for Source Code Vulnerability Analysis | SV-TrustEval-C: Bewertung von Struktur und semantischer Vernunft in großen Sprachmodellen für die Analyse von Quellencode-Anfälligkeiten | SV-信任值-C:在源码脆弱性分析大语言模型中评估结构和语义理由 | [2505.20630v1](http://arxiv.org/abs/2505.20630v1)
-- [67](#article-67) | 05-26 | Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated   Systematic Literature Review | Smart Contract Vulnerabilitys, Tools und Benchmarks: Ein aktualisierter systematischer Literaturbericht | 智能合同脆弱性、工具和基准:更新的系统文献审查 | [2412.01719v2](http://arxiv.org/abs/2412.01719v2)
+- [67](#article-67) | **05-26 (1)** | Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated   Systematic Literature Review | Smart Contract Vulnerabilitys, Tools und Benchmarks: Ein aktualisierter systematischer Literaturbericht | 智能合同脆弱性、工具和基准:更新的系统文献审查 | [2412.01719v2](http://arxiv.org/abs/2412.01719v2)
 - [68](#article-68) | 05-26 | Large Language Models for IT Automation Tasks: Are We There Yet? | Große Sprachmodelle für IT-Automatisierungsaufgaben: Sind wir noch da? | 信息技术自动化任务大语言模型:我们是否还存在? | [2505.20505v1](http://arxiv.org/abs/2505.20505v1)
 - [69](#article-69) | 05-26 | Modeling and Analysis of the Landing Gear System with the Generalized   Contracts | Modellierung und Analyse des Landing Gear Systems mit den Generalized Contracts | 通用合同着陆器系统的建模和分析 | [2111.10426v3](http://arxiv.org/abs/2111.10426v3)
 - [70](#article-70) | 05-26 | SWE-rebench: An Automated Pipeline for Task Collection and   Decontaminated Evaluation of Software Engineering Agents | SWE-Rebench: Eine automatisierte Pipeline für die Task Collection und die dekontaminierte Evaluation von Software Engineering Agents | SWE-rebench:软件工程剂任务收集和除污评价自动管道 | [2505.20411v1](http://arxiv.org/abs/2505.20411v1)
@@ -104,7 +104,7 @@ layout: post
 - [97](#article-97) | 05-26 | Regulating Algorithmic Management: A Multi-Stakeholder Study of   Challenges in Aligning Software and the Law for Workplace Scheduling | Regulierung des algorithmischen Managements: Eine Multi-Stakeholder-Studie über Herausforderungen bei der Ausrichtung von Software und dem Gesetz für die Arbeitsplanung | 规范工资管理:多方利益攸关方研究软件和工作场所时间安排法在调整软件和工作场所时间安排法方面面临的挑战 | [2505.02329v2](http://arxiv.org/abs/2505.02329v2)
 - [98](#article-98) | 05-26 | Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications   of Agentic AI | Vibe Coding vs. Agentic Coding: Grundlagen und praktische Implikationen von Agentic AI | Vibe 编码与 Agentic 编码:Agent AI 的基本要素和实际影响 | [2505.19443v1](http://arxiv.org/abs/2505.19443v1)
 - [99](#article-99) | 05-26 | Simple and Effective Baselines for Code Summarisation Evaluation | Einfache und effektive Grundlagen für die Code-Summarisation-Bewertung | 用于代码摘要评价的简单有效基线 | [2505.19392v1](http://arxiv.org/abs/2505.19392v1)
-- [100](#article-100) | 05-25 | Architectures of Error: A Philosophical Inquiry into AI and Human Code   Generation | Architekturen des Irrtums: Eine philosophische Untersuchung der KI- und menschlichen Code-Generation | 错误结构结构:对大赦国际和人类代码生成的哲学调查 | [2505.19353v1](http://arxiv.org/abs/2505.19353v1)
+- [100](#article-100) | **05-25 (7)** | Architectures of Error: A Philosophical Inquiry into AI and Human Code   Generation | Architekturen des Irrtums: Eine philosophische Untersuchung der KI- und menschlichen Code-Generation | 错误结构结构:对大赦国际和人类代码生成的哲学调查 | [2505.19353v1](http://arxiv.org/abs/2505.19353v1)
 - [101](#article-101) | 05-25 | Retrieval-Augmented Generation for Service Discovery: Chunking   Strategies and Benchmarking | Retrieval-Augmented Generation for Service Discovery: Chunking Strategien und Benchmarking | 服务发现回收-启动型服务生成:启动战略和基准制定 | [2505.19310v1](http://arxiv.org/abs/2505.19310v1)
 - [102](#article-102) | 05-25 | VerifyThisBench: Generating Code, Specifications, and Proofs All at Once | VerifyThisBench: Code, Spezifikationen und Beweise auf einmal generieren | 校验时间: 生成代码、规格和证明 | [2505.19271v1](http://arxiv.org/abs/2505.19271v1)
 - [103](#article-103) | 05-25 | CLEVER: A Curated Benchmark for Formally Verified Code Generation | CLEVER: Ein kuratierter Benchmark für die formal verifizierte Codegenerierung | 正式核实的代码生成基准 | [2505.13938v3](http://arxiv.org/abs/2505.13938v3)
@@ -114,7 +114,7 @@ layout: post
 - [107](#article-107) | 05-25 | On-Demand Scenario Generation for Testing Automated Driving Systems | On-Demand-Szenario-Generierung für die Prüfung automatisierter Fahrsysteme | 自动驾驶系统测试的 " 现场需求 " 情景生成 | [2505.14053v2](http://arxiv.org/abs/2505.14053v2)
 - [108](#article-108) | 05-25 | Automated Trustworthiness Oracle Generation for Machine Learning Text   Classifiers | Automatisierte Vertrauenswürdigkeit Oracle Generation für Machine Learning Text Klassifikatoren | 机械学习文字分类的自动可信赖性甲骨文生成 | [2410.22663v4](http://arxiv.org/abs/2410.22663v4)
 - [109](#article-109) | 05-25 | Co-PatcheR: Collaborative Software Patching with Component(s)-specific   Small Reasoning Models | Co-PatcheR: Kollaborative Software-Patching mit Komponenten-spezifischen Small-Reasoning-Modellen | 共同配给R:与特定组成部分的小型理由模型合作的软件补补补 | [2505.18955v1](http://arxiv.org/abs/2505.18955v1)
-- [110](#article-110) | 05-24 | From Output to Evaluation: Does Raw Instruction-Tuned Code LLMs Output   Suffice for Fill-in-the-Middle Code Generation? | Von der Ausgabe bis zur Auswertung: Reicht die Ausgabe von LLMs mit rohem Instruktionscode für die Generierung von Fill-in-the-Middle Code aus? | 从输出到评价:原始指令-指令代码LLMs 输出足量是否用于中代代号的填充? | [2505.18789v1](http://arxiv.org/abs/2505.18789v1)
+- [110](#article-110) | **05-24 (6)** | From Output to Evaluation: Does Raw Instruction-Tuned Code LLMs Output   Suffice for Fill-in-the-Middle Code Generation? | Von der Ausgabe bis zur Auswertung: Reicht die Ausgabe von LLMs mit rohem Instruktionscode für die Generierung von Fill-in-the-Middle Code aus? | 从输出到评价:原始指令-指令代码LLMs 输出足量是否用于中代代号的填充? | [2505.18789v1](http://arxiv.org/abs/2505.18789v1)
 - [111](#article-111) | 05-24 | ARMS: A Vision for Actor Reputation Metric Systems in the Open-Source   Software Supply Chain | ARMS: Vision für Actor Reputation Metric Systems in der Open Source Software Supply Chain | ARMS:开放源码软件供应链中行为名声计量系统展望 | [2505.18760v1](http://arxiv.org/abs/2505.18760v1)
 - [112](#article-112) | 05-24 | AutoP2C: An LLM-Based Agent Framework for Code Repository Generation   from Multimodal Content in Academic Papers | AutoP2C: Ein LLM-basiertes Agent-Framework für die Code-Repository-Generierung aus multimodalen Inhalten in wissenschaftlichen Papieren | 自动P2C: 学术论文中多种形式内容的法规存储器生成基于LLM的LLM代理框架 | [2504.20115v2](http://arxiv.org/abs/2504.20115v2)
 - [113](#article-113) | 05-24 | Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair | Beheben von 7.400 Fehlern für 1$: Günstige Crash-Site-Programm-Reparatur | 为1美元固定7 400个臭虫:低廉的撞车-点火方案维修 | [2505.13103v2](http://arxiv.org/abs/2505.13103v2)
@@ -123,7 +123,7 @@ layout: post
 - [116](#article-116) | 05-24 | On the Structure and Semantics of Identifier Names Containing Closed   Syntactic Category Words | Über die Struktur und Semantik von Identifier-Namen, die geschlossene syntaktische Kategorie Wörter enthalten | 关于含有闭合同步词类的标识名称的结构和语义 | [2505.18444v1](http://arxiv.org/abs/2505.18444v1)
 
 ## Article 0
-### Title@2025-05-29: How to Elicit Explainability Requirements? A Comparison of Interviews,   Focus Groups, and Surveys
+### Title@2025-05-29 (4): How to Elicit Explainability Requirements? A Comparison of Interviews,   Focus Groups, and Surveys
 **Title**: How to Elicit Explainability Requirements? A Comparison of Interviews,   Focus Groups, and Surveys | Wie zu Elicit Erklärbarkeit Anforderungen? Ein Vergleich von Interviews, Fokusgruppen und Umfragen | 如何制定明确的解释要求?访谈、焦点小组和调查的比较 [2505.23684v1](http://arxiv.org/abs/2505.23684v1)
 
 **Authors**: Martin Obaidi, Jakob Droste, Hannah Deters, Marc Herrmann, Raymond Ochsner, Jil Klünder, Kurt Schneider
@@ -133,7 +133,7 @@ As software systems grow increasingly complex, explainability has become a cruci
 ---
 
 ## Article 1
-### Title@2025-05-29: Quantum-Based Software Engineering
+### Title@2025-05-29 (4): Quantum-Based Software Engineering
 **Title**: Quantum-Based Software Engineering | Quantenbasierte Software-Engineering | 基于量子的软件工程 [2505.23674v1](http://arxiv.org/abs/2505.23674v1)
 
 **Authors**: Jianjun Zhao
@@ -143,7 +143,7 @@ Quantum computing has demonstrated potential for solving computationally intensi
 ---
 
 ## Article 2
-### Title@2025-05-29: GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents
+### Title@2025-05-29 (4): GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents
 **Title**: GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents | GSO: Herausfordernde Software-Optimierungsaufgaben zur Bewertung von SWE-Agenten | GSO:评估SWE-Agentics的有挑战的软件优化任务 [2505.23671v1](http://arxiv.org/abs/2505.23671v1)
 
 **Authors**: Manish Shetty, Naman Jain, Jinjian Liu, Vijay Kethanaboyina, Koushik Sen, Ion Stoica
@@ -153,7 +153,7 @@ Developing high-performance software is a complex task that requires specialized
 ---
 
 ## Article 3
-### Title@2025-05-29: Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software   Engineering
+### Title@2025-05-29 (4): Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software   Engineering
 **Title**: Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software   Engineering | Satori-SWE: Evolutionäre Test-Zeit-Skalierung für probeneffiziente Software-Engineering | Satori-SWE:样本高效软件工程的进化测试-时间尺度 [2505.23604v1](http://arxiv.org/abs/2505.23604v1)
 
 **Authors**: Guangtao Zeng, Maohao Shen, Delin Chen, Zhenting Qi, Subhro Das, Dan Gutfreund, David Cox, Gregory Wornell, Wei Lu, Zhang-Wei Hong, Chuang Gan
@@ -163,7 +163,7 @@ Language models (LMs) perform well on standardized coding benchmarks but struggl
 ---
 
 ## Article 4
-### Title@2025-05-29: LLM Performance for Code Generation on Noisy Tasks
+### Title@2025-05-29 (4): LLM Performance for Code Generation on Noisy Tasks
 **Title**: LLM Performance for Code Generation on Noisy Tasks | LLM-Performance für Code-Generierung bei lauten Aufgaben | LLM 噪音任务代码生成的LLM性能 [2505.23598v1](http://arxiv.org/abs/2505.23598v1)
 
 **Authors**: Radzim Sendyka, Christian Cabrera, Andrei Paleyes, Diana Robinson, Neil Lawrence
@@ -173,7 +173,7 @@ This paper investigates the ability of large language models (LLMs) to recognise
 ---
 
 ## Article 5
-### Title@2025-05-29: LLM-based Property-based Test Generation for Guardrailing Cyber-Physical   Systems
+### Title@2025-05-29 (4): LLM-based Property-based Test Generation for Guardrailing Cyber-Physical   Systems
 **Title**: LLM-based Property-based Test Generation for Guardrailing Cyber-Physical   Systems | LLM-basierte property-based Test Generation for Guardrailing Cyber-Physical Systems | 以LLM为基础的保护网络-物理系统基于财产的 [2505.23549v1](http://arxiv.org/abs/2505.23549v1)
 
 **Authors**: Khashayar Etemadi, Marjan Sirjani, Mahshid Helali Moghadam, Per Strandberg, Paul Pettersson
@@ -183,7 +183,7 @@ Cyber-physical systems (CPSs) are complex systems that integrate physical, compu
 ---
 
 ## Article 6
-### Title@2025-05-29: The CASE Framework -- A New Architecture for Participatory Research and   Digital Health Surveillance
+### Title@2025-05-29 (4): The CASE Framework -- A New Architecture for Participatory Research and   Digital Health Surveillance
 **Title**: The CASE Framework -- A New Architecture for Participatory Research and   Digital Health Surveillance | Der CASE Framework - Eine neue Architektur für partizipative Forschung und digitale Gesundheitsüberwachung | CASE框架 -- -- 参与性研究和数字健康监测的新架构 [2505.23516v1](http://arxiv.org/abs/2505.23516v1)
 
 **Authors**: Marco Hirsch, Peter Hevesi, Paul Lukowicz
@@ -193,7 +193,7 @@ We present the CASE framework, an open-source platform for adaptive, context-awa
 ---
 
 ## Article 7
-### Title@2025-05-29: Identity resolution of software metadata using Large Language Models
+### Title@2025-05-29 (4): Identity resolution of software metadata using Large Language Models
 **Title**: Identity resolution of software metadata using Large Language Models | Identitätsauflösung von Software-Metadaten mit großen Sprachmodellen | 使用大语言模式的软件元数据的识别分辨率 [2505.23500v1](http://arxiv.org/abs/2505.23500v1)
 
 **Authors**: Eva Martín del Pico, Josep Lluís Gelpí, Salvador Capella-Gutiérrez
@@ -203,7 +203,7 @@ Software is an essential component of research. However, little attention has be
 ---
 
 ## Article 8
-### Title@2025-05-29: Synthesizing Performance Constraints for Evaluating and Improving Code   Efficiency
+### Title@2025-05-29 (4): Synthesizing Performance Constraints for Evaluating and Improving Code   Efficiency
 **Title**: Synthesizing Performance Constraints for Evaluating and Improving Code   Efficiency | Synthese von Leistungsbeschränkungen zur Bewertung und Verbesserung der Code-Effizienz | 综合评估和提高《守则》效率的绩效制约因素 [2505.23471v1](http://arxiv.org/abs/2505.23471v1)
 
 **Authors**: Jun Yang, Cheng-Chi Wang, Bogdan Alexandru Stoica, Kexin Pei
@@ -213,7 +213,7 @@ Large Language Models (LLMs) have been increasingly used to optimize code effici
 ---
 
 ## Article 9
-### Title@2025-05-29: What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile   App Reviews
+### Title@2025-05-29 (4): What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile   App Reviews
 **Title**: What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile   App Reviews | Was ist mit Emotionen? Guiding Fine-Grained Emotion Extraction aus Mobile App Bewertungen | 情感呢?指导从移动应用程序评论中抽取精美情感的导师 [2505.23452v1](http://arxiv.org/abs/2505.23452v1)
 
 **Authors**: Quim Motger, Marc Oriol, Max Tiessler, Xavier Franch, Jordi Marco
@@ -223,7 +223,7 @@ Opinion mining plays a vital role in analysing user feedback and extracting insi
 ---
 
 ## Article 10
-### Title@2025-05-29: From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory   in Software Engineering Agents
+### Title@2025-05-29 (4): From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory   in Software Engineering Agents
 **Title**: From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory   in Software Engineering Agents | Vom Wissen zum Lärm: CTIM-Rover und die Pitfalls des episodischen Gedächtnisses in Software Engineering Agents | 从知识到噪音:CTIM-Rover和软件工程代理器中电离内存的空洞 [2505.23422v1](http://arxiv.org/abs/2505.23422v1)
 
 **Authors**: Tobias Lindenbauer, Georg Groh, Hinrich Schütze
@@ -233,7 +233,7 @@ We introduce CTIM-Rover, an AI agent for Software Engineering (SE) built on top 
 ---
 
 ## Article 11
-### Title@2025-05-29: SWE-bench Goes Live!
+### Title@2025-05-29 (4): SWE-bench Goes Live!
 **Title**: SWE-bench Goes Live! | SWE-Bench geht live! | SWE -BECHE GOES 现场直播! [2505.23419v1](http://arxiv.org/abs/2505.23419v1)
 
 **Authors**: Linghao Zhang, Shilin He, Chaoyun Zhang, Yu Kang, Bowen Li, Chengxing Xie, Junhao Wang, Maoquan Wang, Yufan Huang, Shengyu Fu, Elsie Nallipogu, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, Dongmei Zhang
@@ -243,7 +243,7 @@ The issue-resolving task, where a model generates patches to fix real-world bugs
 ---
 
 ## Article 12
-### Title@2025-05-29: Toward Effective AI Governance: A Review of Principles
+### Title@2025-05-29 (4): Toward Effective AI Governance: A Review of Principles
 **Title**: Toward Effective AI Governance: A Review of Principles | Auf dem Weg zu einer effektiven KI-Governance: Eine Überprüfung der Grundsätze | 实现有效的独立大赦国际治理:原则审查 [2505.23417v1](http://arxiv.org/abs/2505.23417v1)
 
 **Authors**: Danilo Ribeiro, Thayssa Rocha, Gustavo Pinto, Bruno Cartaxo, Marcelo Amaral, Nicole Davila, Ana Camargo
@@ -253,7 +253,7 @@ Artificial Intelligence (AI) governance is the practice of establishing framewor
 ---
 
 ## Article 13
-### Title@2025-05-29: BugRepro: Enhancing Android Bug Reproduction with Domain-Specific   Knowledge Integration
+### Title@2025-05-29 (4): BugRepro: Enhancing Android Bug Reproduction with Domain-Specific   Knowledge Integration
 **Title**: BugRepro: Enhancing Android Bug Reproduction with Domain-Specific   Knowledge Integration | BugRepro: Verbesserung der Android Bug Reproduction mit Domain-spezifischer Wissensintegration | Bugrepro: 利用特定域知识集成增强Android虫复制 [2505.14528v2](http://arxiv.org/abs/2505.14528v2)
 
 **Authors**: Hongrong Yin, Jinhong Huang, Yao Li, Yunwei Dong, Tao Zhang
@@ -263,7 +263,7 @@ Mobile application development is a fast-paced process where maintaining high-qu
 ---
 
 ## Article 14
-### Title@2025-05-29: Afterburner: Reinforcement Learning Facilitates Self-Improving Code   Efficiency Optimization
+### Title@2025-05-29 (4): Afterburner: Reinforcement Learning Facilitates Self-Improving Code   Efficiency Optimization
 **Title**: Afterburner: Reinforcement Learning Facilitates Self-Improving Code   Efficiency Optimization | Nachbrenner: Verstärktes Lernen erleichtert selbstverbessernde Code-Effizienz-Optimierung | 事后焚烧:强化学习促进自我改进法规效率优化 [2505.23387v1](http://arxiv.org/abs/2505.23387v1)
 
 **Authors**: Mingzhe Du, Luu Tuan Tuan, Yue Liu, Yuhao Qing, Dong Huang, Xinyi He, Qian Liu, Zejun Ma, See-kiong Ng
@@ -273,7 +273,7 @@ Large Language Models (LLMs) generate functionally correct solutions but often f
 ---
 
 ## Article 15
-### Title@2025-05-29: Personality-Guided Code Generation Using Large Language Models
+### Title@2025-05-29 (4): Personality-Guided Code Generation Using Large Language Models
 **Title**: Personality-Guided Code Generation Using Large Language Models | Personalitätsgeführte Code-Generierung mit großen Sprachmodellen | 使用大语言模式的 个人 使用大语言模式的 人 性 指导 代码 生成 [2411.00006v2](http://arxiv.org/abs/2411.00006v2)
 
 **Authors**: Yaoqi Guo, Zhenpeng Chen, Jie M. Zhang, Yang Liu, Yun Ma
@@ -283,7 +283,7 @@ Code generation, the automatic creation of source code from natural language des
 ---
 
 ## Article 16
-### Title@2025-05-29: OSS-UAgent: An Agent-based Usability Evaluation Framework for Open   Source Software
+### Title@2025-05-29 (4): OSS-UAgent: An Agent-based Usability Evaluation Framework for Open   Source Software
 **Title**: OSS-UAgent: An Agent-based Usability Evaluation Framework for Open   Source Software | OSS-UAgent: Ein Agent-basiertes Usability Evaluation Framework für Open Source Software | OSS-UUA代理:基于代理的开放源码软件使用性评价框架 [2505.23239v1](http://arxiv.org/abs/2505.23239v1)
 
 **Authors**: Lingkai Meng, Yu Shao, Long Yuan, Longbin Lai, Peng Cheng, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou
@@ -293,7 +293,7 @@ Usability evaluation is critical to the impact and adoption of open source softw
 ---
 
 ## Article 17
-### Title@2025-05-29: Artemis: Toward Accurate Detection of Server-Side Request Forgeries   through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis
+### Title@2025-05-29 (4): Artemis: Toward Accurate Detection of Server-Side Request Forgeries   through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis
 **Title**: Artemis: Toward Accurate Detection of Server-Side Request Forgeries   through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis | Artemis: Auf dem Weg zur genauen Erkennung von Server-Side Request Forgeries durch LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis | 人工制品:通过LLM协助的跨程序间路由感知性图解分析,力求准确探测服务器-Side请求的伪造情况 [2502.21026v3](http://arxiv.org/abs/2502.21026v3)
 
 **Authors**: Yuchen Ji, Ting Dai, Zhichao Zhou, Yutian Tang, Jingzhu He
@@ -303,7 +303,7 @@ Server-side request forgery (SSRF) vulnerabilities are inevitable in PHP web app
 ---
 
 ## Article 18
-### Title@2025-05-29: Two Is Better Than One: Rotations Scale LoRAs
+### Title@2025-05-29 (4): Two Is Better Than One: Rotations Scale LoRAs
 **Title**: Two Is Better Than One: Rotations Scale LoRAs | Zwei ist besser als eins: Rotationsskala LoRAs | 二比一好:轮作规模LORAs [2505.23184v1](http://arxiv.org/abs/2505.23184v1)
 
 **Authors**: Hongcan Guo, Guoshun Nan, Yuan Yang, Diyang Zhang, Haotian Li, Zhican Chen, Qinchuan Zhou, Yuhan Ran, Xinye Cao, Sicong Leng, Xiaofeng Tao, Xudong Jiang
@@ -313,7 +313,7 @@ Scaling Low-Rank Adaptation (LoRA)-based Mixture-of-Experts (MoE) facilitates la
 ---
 
 ## Article 19
-### Title@2025-05-29: An open-source Modular Online Psychophysics Platform (MOPP)
+### Title@2025-05-29 (4): An open-source Modular Online Psychophysics Platform (MOPP)
 **Title**: An open-source Modular Online Psychophysics Platform (MOPP) | Eine Open-Source-Plattform für modulare Online-Psychophysik (MOPP) | 开放源码模块在线心理物理学平台(MOPP) [2505.23137v1](http://arxiv.org/abs/2505.23137v1)
 
 **Authors**: Yuval Samoilov-Kats, Matan Noach, Noam Beer, Yuval Efrati, Adam Zaidel
@@ -323,7 +323,7 @@ In recent years, there is a growing need and opportunity to use online platforms
 ---
 
 ## Article 20
-### Title@2025-05-29: VERINA: Benchmarking Verifiable Code Generation
+### Title@2025-05-29 (4): VERINA: Benchmarking Verifiable Code Generation
 **Title**: VERINA: Benchmarking Verifiable Code Generation | VERINA: Benchmarking der überprüfbaren Code-Generierung | VERINA:可核实代码生成基准 [2505.23135v1](http://arxiv.org/abs/2505.23135v1)
 
 **Authors**: Zhe Ye, Zhengxu Yan, Jingxuan He, Timothe Kasriel, Kaiyu Yang, Dawn Song
@@ -333,7 +333,7 @@ Large language models (LLMs) are increasingly integrated in software development
 ---
 
 ## Article 21
-### Title@2025-05-29: Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of   LLMs on Formal Specification Inference
+### Title@2025-05-29 (4): Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of   LLMs on Formal Specification Inference
 **Title**: Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of   LLMs on Formal Specification Inference | Kann LLMs Grund über Programm Semantik? Eine umfassende Bewertung von LLMs auf formale Spezifikation Inferenz | CLLMs 方案语义学理由:全面评价关于正式具体推断的LLMs [2503.04779v4](http://arxiv.org/abs/2503.04779v4)
 
 **Authors**: Thanh Le-Cong, Bach Le, Toby Murray
@@ -343,7 +343,7 @@ Large Language Models (LLMs) are increasingly being used to automate programming
 ---
 
 ## Article 22
-### Title@2025-05-29: DINGO: Constrained Inference for Diffusion LLMs
+### Title@2025-05-29 (4): DINGO: Constrained Inference for Diffusion LLMs
 **Title**: DINGO: Constrained Inference for Diffusion LLMs | DINGO: Beschränkte Schlussfolgerung für Diffusion LLMs | DINGO: 扩散长效LMM的连续推论 [2505.23061v1](http://arxiv.org/abs/2505.23061v1)
 
 **Authors**: Tarun Suresh, Debangshu Banerjee, Shubham Ugare, Sasa Misailovic, Gagandeep Singh
@@ -353,7 +353,7 @@ Diffusion LLMs have emerged as a promising alternative to conventional autoregre
 ---
 
 ## Article 23
-### Title@2025-05-29: HACMony: Automatically Detecting Hopping-related Audio-stream Conflict   Issues on HarmonyOS
+### Title@2025-05-29 (4): HACMony: Automatically Detecting Hopping-related Audio-stream Conflict   Issues on HarmonyOS
 **Title**: HACMony: Automatically Detecting Hopping-related Audio-stream Conflict   Issues on HarmonyOS | HACMony: Automatische Erkennung von Hopping-bezogenen Audio-Stream-Konflikten auf HarmonyOS | HACMonny:自动检测与Happing有关的和谐OS音频流冲突问题 [2504.07472v2](http://arxiv.org/abs/2504.07472v2)
 
 **Authors**: Jinlong He, Binru Huang, Changwei Xia, Hengqin Yang, Jiwei Yan, Jun Yan
@@ -363,7 +363,7 @@ HarmonyOS is emerging as a popular distributed operating system for diverse mobi
 ---
 
 ## Article 24
-### Title@2025-05-29: Chain of Grounded Objectives: Bridging Process and Goal-oriented   Prompting for Code Generation
+### Title@2025-05-29 (4): Chain of Grounded Objectives: Bridging Process and Goal-oriented   Prompting for Code Generation
 **Title**: Chain of Grounded Objectives: Bridging Process and Goal-oriented   Prompting for Code Generation | Kette der geerdeten Ziele: Überbrückungsprozess und zielorientiertes Prompting für die Codegenerierung | 基本目标链链:搭桥进程和以目标为导向的促进代码生成 [2501.13978v2](http://arxiv.org/abs/2501.13978v2)
 
 **Authors**: Sangyeop Yeo, Seung-won Hwang, Yu-Seung Ma
@@ -373,7 +373,7 @@ The use of Large Language Models (LLMs) for code generation has gained significa
 ---
 
 ## Article 25
-### Title@2025-05-29: Structural Abstraction and Selective Refinement for Formal Verification
+### Title@2025-05-29 (4): Structural Abstraction and Selective Refinement for Formal Verification
 **Title**: Structural Abstraction and Selective Refinement for Formal Verification | Strukturelle Abstraktion und selektive Verfeinerung für formale Verifizierung | 正式核查的结构性抽象和选择性改进 [2505.22982v1](http://arxiv.org/abs/2505.22982v1)
 
 **Authors**: Christoph Luckeneder, Ralph Hoch, Hermann Kaindl
@@ -383,7 +383,7 @@ Safety verification of robot applications is extremely challenging due to the co
 ---
 
 ## Article 26
-### Title@2025-05-29: CodeSteer: Symbolic-Augmented Language Models via Code/Text Guidance
+### Title@2025-05-29 (4): CodeSteer: Symbolic-Augmented Language Models via Code/Text Guidance
 **Title**: CodeSteer: Symbolic-Augmented Language Models via Code/Text Guidance | CodeSteer: Symbolisch-Augmentierte Sprachmodelle über Code/Text Anleitung | 代码器:通过编码/文本指导的代码/文本指导的代码器:代号辅助语言模式 [2502.04350v2](http://arxiv.org/abs/2502.04350v2)
 
 **Authors**: Yongchao Chen, Yilun Hao, Yueying Liu, Yang Zhang, Chuchu Fan
@@ -393,7 +393,7 @@ Existing methods fail to effectively steer Large Language Models (LLMs) between 
 ---
 
 ## Article 27
-### Title@2025-05-29: BYOS: Knowledge-driven Large Language Models Bring Your Own Operating   System More Excellent
+### Title@2025-05-29 (4): BYOS: Knowledge-driven Large Language Models Bring Your Own Operating   System More Excellent
 **Title**: BYOS: Knowledge-driven Large Language Models Bring Your Own Operating   System More Excellent | BYOS: Wissensgetriebene große Sprachmodelle bringen Ihr eigenes Betriebssystem hervorragender | BYOS: 知识驱动的大型语言模式使自己的操作系统更加出色 [2503.09663v2](http://arxiv.org/abs/2503.09663v2)
 
 **Authors**: Hongyu Lin, Yuchen Li, Haoran Luo, Kaichun Yao, Libo Zhang, Mingjie Xing, Yanjun Wu
@@ -403,7 +403,7 @@ Operating System (OS) kernel tuning involves systematically adjusting kernel con
 ---
 
 ## Article 28
-### Title@2025-05-28: Unlocking Mental Health: Exploring College Students' Well-being through   Smartphone Behaviors
+### Title@2025-05-28 (3): Unlocking Mental Health: Exploring College Students' Well-being through   Smartphone Behaviors
 **Title**: Unlocking Mental Health: Exploring College Students' Well-being through   Smartphone Behaviors | Entsperren der psychischen Gesundheit: Erforschen des Wohlbefindens der Studenten durch Smartphone-Verhalten | 解锁心理健康:通过智能手机行为探索大学生福祉 [2502.08766v2](http://arxiv.org/abs/2502.08766v2)
 
 **Authors**: Wei Xuan, Meghna Roy Chowdhury, Yi Ding, Yixue Zhao
@@ -413,7 +413,7 @@ The global mental health crisis is a pressing concern, with college students par
 ---
 
 ## Article 29
-### Title@2025-05-28: Evolution analysis of software quality metrics in an open-source java   project: A case study on TestNG
+### Title@2025-05-28 (3): Evolution analysis of software quality metrics in an open-source java   project: A case study on TestNG
 **Title**: Evolution analysis of software quality metrics in an open-source java   project: A case study on TestNG | Evolutionsanalyse von Software-Qualitätsmetriken in einem Open-Source-Java-Projekt: Eine Fallstudie zu TestNG | 开放源码 Java项目软件质量衡量标准演变分析:测试NG案例研究 [2505.22884v1](http://arxiv.org/abs/2505.22884v1)
 
 **Authors**: Venkata Sai Sravya Sambaturu
@@ -423,7 +423,7 @@ Software quality is critical in modern software engineering, especially in large
 ---
 
 ## Article 30
-### Title@2025-05-28: Visualizing Cloud-native Applications with KubeDiagrams
+### Title@2025-05-28 (3): Visualizing Cloud-native Applications with KubeDiagrams
 **Title**: Visualizing Cloud-native Applications with KubeDiagrams | Cloud-native Anwendungen mit KubeDiagrammen visualisieren | 带有KubeDiagrams 的可视化云源应用 [2505.22879v1](http://arxiv.org/abs/2505.22879v1)
 
 **Authors**: Philippe Merle, Fabio Petrillo
@@ -433,7 +433,7 @@ Modern distributed applications increasingly rely on cloud-native platforms to a
 ---
 
 ## Article 31
-### Title@2025-05-28: RocqStar: Leveraging Similarity-driven Retrieval and Agentic Systems for   Rocq generation
+### Title@2025-05-28 (3): RocqStar: Leveraging Similarity-driven Retrieval and Agentic Systems for   Rocq generation
 **Title**: RocqStar: Leveraging Similarity-driven Retrieval and Agentic Systems for   Rocq generation | RocqStar: Leveraging-ähnliche Retrieval- und Agentiksysteme für die Rocq-Generation | RocqStar:利用利用相似度驱动回收系统和干系统来生成Rocq [2505.22846v1](http://arxiv.org/abs/2505.22846v1)
 
 **Authors**: Nikita Khramov, Andrei Kozyrev, Gleb Solovev, Anton Podkopaev
@@ -443,7 +443,7 @@ Interactive Theorem Proving was repeatedly shown to be fruitful combined with Ge
 ---
 
 ## Article 32
-### Title@2025-05-28: A Tool for Generating Exceptional Behavior Tests With Large Language   Models
+### Title@2025-05-28 (3): A Tool for Generating Exceptional Behavior Tests With Large Language   Models
 **Title**: A Tool for Generating Exceptional Behavior Tests With Large Language   Models | Ein Tool zur Generierung außergewöhnlicher Verhaltenstests mit großen Sprachmodellen | 生成使用大语言模式的特殊行为测试工具 [2505.22818v1](http://arxiv.org/abs/2505.22818v1)
 
 **Authors**: Linghan Zhong, Samuel Yuan, Jiyang Zhang, Yu Liu, Pengyu Nie, Junyi Jessy Li, Milos Gligoric
@@ -453,7 +453,7 @@ Exceptional behavior tests (EBTs) are crucial in software development for verify
 ---
 
 ## Article 33
-### Title@2025-05-28: What Needs Attention? Prioritizing Drivers of Developers' Trust and   Adoption of Generative AI
+### Title@2025-05-28 (3): What Needs Attention? Prioritizing Drivers of Developers' Trust and   Adoption of Generative AI
 **Title**: What Needs Attention? Prioritizing Drivers of Developers' Trust and   Adoption of Generative AI | Was braucht Aufmerksamkeit? Priorisieren von Treibern des Entwicklervertrauens und der Annahme Generativer KI | 需要注意什么?将开发者信任的驱动因素列为优先事项,并采用创新的AI [2505.17418v2](http://arxiv.org/abs/2505.17418v2)
 
 **Authors**: Rudrajit Choudhuri, Bianca Trinkenreich, Rahul Pandita, Eirini Kalliamvakou, Igor Steinmacher, Marco Gerosa, Christopher Sanchez, Anita Sarma
@@ -463,7 +463,7 @@ Generative AI (genAI) tools are advertised as productivity aids. Yet, issues rel
 ---
 
 ## Article 34
-### Title@2025-05-28: LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for   Scientific Embodied Agents
+### Title@2025-05-28 (3): LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for   Scientific Embodied Agents
 **Title**: LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for   Scientific Embodied Agents | LabUtopia: High-Fidelity-Simulation und hierarchischer Benchmark für wissenschaftliche körpereigene Wirkstoffe | LabUtopia:科学渗透剂的高纤维模拟和等级基准 [2505.22634v1](http://arxiv.org/abs/2505.22634v1)
 
 **Authors**: Rui Li, Zixuan Hu, Wenxi Qu, Jinouwen Zhang, Zhenfei Yin, Sha Zhang, Xuantuo Huang, Hanqing Wang, Tai Wang, Jiangmiao Pang, Wanli Ouyang, Lei Bai, Wangmeng Zuo, Ling-Yu Duan, Dongzhan Zhou, Shixiang Tang
@@ -473,7 +473,7 @@ Scientific embodied agents play a crucial role in modern laboratories by automat
 ---
 
 ## Article 35
-### Title@2025-05-28: Smart Contracts for SMEs and Large Companies
+### Title@2025-05-28 (3): Smart Contracts for SMEs and Large Companies
 **Title**: Smart Contracts for SMEs and Large Companies | Intelligente Verträge für KMU und Großunternehmen | 中小企业和大公司的智能合同 [2505.22619v1](http://arxiv.org/abs/2505.22619v1)
 
 **Authors**: C. G. Liu, P. Bodorik, D. Jutla
@@ -483,7 +483,7 @@ Research on blockchains addresses multiple issues, with one being writing smart 
 ---
 
 ## Article 36
-### Title@2025-05-28: BPMN to Smart Contract by Business Analyst
+### Title@2025-05-28 (3): BPMN to Smart Contract by Business Analyst
 **Title**: BPMN to Smart Contract by Business Analyst | BPMN auf Smart Contract von Business Analyst | 商业分析员将BPMN改为智能合同 [2505.22612v1](http://arxiv.org/abs/2505.22612v1)
 
 **Authors**: C. G. Liu, P. Bodorik, D. Jutla
@@ -493,7 +493,7 @@ This paper addresses the challenge of creating smart contracts for applications 
 ---
 
 ## Article 37
-### Title@2025-05-28: GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On   Git
+### Title@2025-05-28 (3): GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On   Git
 **Title**: GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On   Git | GitGoodBench: Ein neuartiger Benchmark für die Bewertung Agentischer Performance auf Git | GitGoodbunch:评估基特生物表现的新基准 [2505.22583v1](http://arxiv.org/abs/2505.22583v1)
 
 **Authors**: Tobias Lindenbauer, Egor Bogomolov, Yaroslav Zharov
@@ -503,7 +503,7 @@ Benchmarks for Software Engineering (SE) AI agents, most notably SWE-bench, have
 ---
 
 ## Article 38
-### Title@2025-05-28: LAMBDA: A Large Model Based Data Agent
+### Title@2025-05-28 (3): LAMBDA: A Large Model Based Data Agent
 **Title**: LAMBDA: A Large Model Based Data Agent | LAMBDA: Ein großer modellbasierter Datenagent | LAMBDA:一个大型模型数据代理 [2407.17535v3](http://arxiv.org/abs/2407.17535v3)
 
 **Authors**: Maojun Sun, Ruijian Han, Binyan Jiang, Houduo Qi, Defeng Sun, Yancheng Yuan, Jian Huang
@@ -513,7 +513,7 @@ We introduce LArge Model Based Data Agent (LAMBDA), a novel open-source, code-fr
 ---
 
 ## Article 39
-### Title@2025-05-28: Advancing Expert Specialization for Better MoE
+### Title@2025-05-28 (3): Advancing Expert Specialization for Better MoE
 **Title**: Advancing Expert Specialization for Better MoE | Advancing Experten-Spezialisierung für bessere MoE | 推进专家专业专业促进改善教育部 [2505.22323v1](http://arxiv.org/abs/2505.22323v1)
 
 **Authors**: Hongcan Guo, Haolang Lu, Guoshun Nan, Bolun Chu, Jialin Zhuang, Yuan Yang, Wenhao Che, Sicong Leng, Qimei Cui, Xudong Jiang
@@ -523,7 +523,7 @@ Mixture-of-Experts (MoE) models enable efficient scaling of large language model
 ---
 
 ## Article 40
-### Title@2025-05-28: Evolution of repositories and privacy laws: commit activities in the   GDPR and CCPA era
+### Title@2025-05-28 (3): Evolution of repositories and privacy laws: commit activities in the   GDPR and CCPA era
 **Title**: Evolution of repositories and privacy laws: commit activities in the   GDPR and CCPA era | Entwicklung von Repositorys und Datenschutzgesetzen: Aktivitäten in der DSGVO und CCPA-Ära verpflichten | 保管库和隐私法的演变演变:在GDPR和CCPA时代开展活动 [2505.22234v1](http://arxiv.org/abs/2505.22234v1)
 
 **Authors**: Georgia M. Kapitsaki, Maria Papoutsoglou
@@ -533,7 +533,7 @@ Free and open source software has gained a lot of momentum in the industry and t
 ---
 
 ## Article 41
-### Title@2025-05-28: Thermal Modeling and Optimal Allocation of Avionics Safety-critical   Tasks on Heterogeneous MPSoCs
+### Title@2025-05-28 (3): Thermal Modeling and Optimal Allocation of Avionics Safety-critical   Tasks on Heterogeneous MPSoCs
 **Title**: Thermal Modeling and Optimal Allocation of Avionics Safety-critical   Tasks on Heterogeneous MPSoCs | Thermische Modellierung und optimale Allokation von Avionik Sicherheitskritische Aufgaben auf heterogenen MPSoCs | 热建模和最佳分配航空气象安全关键任务 [2505.22214v1](http://arxiv.org/abs/2505.22214v1)
 
 **Authors**: Ondřej Benedikt, Michal Sojka, Přemysl Šůcha, Pavel Zaykov, Zdeněk Hanzálek
@@ -543,7 +543,7 @@ Multi-Processor Systems-on-Chip (MPSoC) can deliver high performance needed in m
 ---
 
 ## Article 42
-### Title@2025-05-28: Towards Conversational Development Environments: Using Theory-of-Mind   and Multi-Agent Architectures for Requirements Refinement
+### Title@2025-05-28 (3): Towards Conversational Development Environments: Using Theory-of-Mind   and Multi-Agent Architectures for Requirements Refinement
 **Title**: Towards Conversational Development Environments: Using Theory-of-Mind   and Multi-Agent Architectures for Requirements Refinement | Hin zu konversatorischen Entwicklungsumgebungen: Verwendung von Theorie-von-Mind- und Multi-Agent-Architekturen für Anforderungen Verfeinerung | 走向对话型发展环境:利用理论和多机构架构改进要求 [2505.20973v2](http://arxiv.org/abs/2505.20973v2)
 
 **Authors**: Keheliya Gallaba, Ali Arabat, Dayi Lin, Mohammed Sayagh, Ahmed E. Hassan
@@ -553,7 +553,7 @@ Foundation Models (FMs) have shown remarkable capabilities in various natural la
 ---
 
 ## Article 43
-### Title@2025-05-28: Towards Practical Defect-Focused Automated Code Review
+### Title@2025-05-28 (3): Towards Practical Defect-Focused Automated Code Review
 **Title**: Towards Practical Defect-Focused Automated Code Review | Auf dem Weg zu einer praktischen fehlerorientierten automatisierten Code-Überprüfung | 走向实际失效-受污染的自动编码审查 [2505.17928v2](http://arxiv.org/abs/2505.17928v2)
 
 **Authors**: Junyi Lu, Lili Jiang, Xiaojia Li, Jianbing Fang, Fengjun Zhang, Li Yang, Chun Zuo
@@ -563,7 +563,7 @@ The complexity of code reviews has driven efforts to automate review comments, b
 ---
 
 ## Article 44
-### Title@2025-05-28: SVA-ICL: Improving LLM-based Software Vulnerability Assessment via   In-Context Learning and Information Fusion
+### Title@2025-05-28 (3): SVA-ICL: Improving LLM-based Software Vulnerability Assessment via   In-Context Learning and Information Fusion
 **Title**: SVA-ICL: Improving LLM-based Software Vulnerability Assessment via   In-Context Learning and Information Fusion | SVA-ICL: Verbesserung der LLM-basierten Software Vulnerability Assessment durch In-Context Learning und Information Fusion | SVA-ICL:通过文内学习和信息融合改进基于LLM的软件脆弱性评估 [2505.10008v2](http://arxiv.org/abs/2505.10008v2)
 
 **Authors**: Chaoyang Gao, Xiang Chen, Guangbei Zhang
@@ -573,7 +573,7 @@ Context: Software vulnerability assessment (SVA) is critical for identifying, ev
 ---
 
 ## Article 45
-### Title@2025-05-28: Jailbreak Distillation: Renewable Safety Benchmarking
+### Title@2025-05-28 (3): Jailbreak Distillation: Renewable Safety Benchmarking
 **Title**: Jailbreak Distillation: Renewable Safety Benchmarking | Jailbreak Destillation: Benchmarking für erneuerbare Sicherheit | 蒸馏:可再生能源安全基准 [2505.22037v1](http://arxiv.org/abs/2505.22037v1)
 
 **Authors**: Jingyu Zhang, Ahmed Elgohary, Xiawei Wang, A S M Iftekhar, Ahmed Magooda, Benjamin Van Durme, Daniel Khashabi, Kyle Jackson
@@ -583,7 +583,7 @@ Large language models (LLMs) are rapidly deployed in critical applications, rais
 ---
 
 ## Article 46
-### Title@2025-05-28: Securing the Software Package Supply Chain for Critical Systems
+### Title@2025-05-28 (3): Securing the Software Package Supply Chain for Critical Systems
 **Title**: Securing the Software Package Supply Chain for Critical Systems | Sicherung der Softwarepaket-Lieferkette für kritische Systeme | 保障关键系统软件包供应链 [2505.22023v1](http://arxiv.org/abs/2505.22023v1)
 
 **Authors**: Ritwik Murali, Akash Ravi
@@ -593,7 +593,7 @@ Software systems have grown as an indispensable commodity used across various in
 ---
 
 ## Article 47
-### Title@2025-05-28: How Do Experts Make Sense of Integrated Process Models?
+### Title@2025-05-28 (3): How Do Experts Make Sense of Integrated Process Models?
 **Title**: How Do Experts Make Sense of Integrated Process Models? | Wie verstehen Experten integrierte Prozessmodelle? | 专家如何看待综合进程模式? [2505.20667v2](http://arxiv.org/abs/2505.20667v2)
 
 **Authors**: Tianwa Chen, Barbara Weber, Graeme Shanks, Gianluca Demartini, Marta Indulska, Shazia Sadiq
@@ -603,7 +603,7 @@ A range of integrated modeling approaches have been developed to enable a holist
 ---
 
 ## Article 48
-### Title@2025-05-28: System-driven Cloud Architecture Design Support with Structured State   Management and Guided Decision Assistance
+### Title@2025-05-28 (3): System-driven Cloud Architecture Design Support with Structured State   Management and Guided Decision Assistance
 **Title**: System-driven Cloud Architecture Design Support with Structured State   Management and Guided Decision Assistance | Systemgesteuerte Cloud-Architektur-Design-Unterstützung mit strukturiertem Staatsmanagement und beratender Entscheidungshilfe | 提供结构化国家管理和指导决策援助的系统驱动云层结构设计支持 [2505.20701v2](http://arxiv.org/abs/2505.20701v2)
 
 **Authors**: Ryosuke Kohita, Akira Kasuga
@@ -613,7 +613,7 @@ Cloud architecture design is a complex process requiring both technical expertis
 ---
 
 ## Article 49
-### Title@2025-05-28: Larger Is Not Always Better: Exploring Small Open-source Language Models   in Logging Statement Generation
+### Title@2025-05-28 (3): Larger Is Not Always Better: Exploring Small Open-source Language Models   in Logging Statement Generation
 **Title**: Larger Is Not Always Better: Exploring Small Open-source Language Models   in Logging Statement Generation | Größere ist nicht immer besser: Erforschen von kleinen Open-Source-Sprachenmodellen bei der Erstellung von Protokollierungsanweisungen | 大并非总是更好:探索记录报表生成中的小型开放源语言模式 [2505.16590v2](http://arxiv.org/abs/2505.16590v2)
 
 **Authors**: Renyi Zhong, Yichen Li, Guangba Yu, Wenwei Gu, Jinxi Kuang, Yintong Huo, Michael R. Lyu
@@ -623,7 +623,7 @@ Developers use logging statements to create logs that document system behavior a
 ---
 
 ## Article 50
-### Title@2025-05-28: Co-Saving: Resource Aware Multi-Agent Collaboration for Software   Development
+### Title@2025-05-28 (3): Co-Saving: Resource Aware Multi-Agent Collaboration for Software   Development
 **Title**: Co-Saving: Resource Aware Multi-Agent Collaboration for Software   Development | Co-Saving: Ressourcenschonende Multi-Agenten-Kollaboration für Software-Entwicklung | 共同节省:为开发软件进行有意识的资源、多机构协作 [2505.21898v1](http://arxiv.org/abs/2505.21898v1)
 
 **Authors**: Rennai Qiu, Chen Qian, Ran Li, Yufan Dang, Weize Chen, Cheng Yang, Yingli Zhang, Ye Tian, Xuantang Xiong, Lei Han, Zhiyuan Liu, Maosong Sun
@@ -633,7 +633,7 @@ Recent advancements in Large Language Models (LLMs) and autonomous agents have d
 ---
 
 ## Article 51
-### Title@2025-05-27: Augmenting Software Bills of Materials with Software Vulnerability   Description: A Preliminary Study on GitHub
+### Title@2025-05-27 (2): Augmenting Software Bills of Materials with Software Vulnerability   Description: A Preliminary Study on GitHub
 **Title**: Augmenting Software Bills of Materials with Software Vulnerability   Description: A Preliminary Study on GitHub | Augmenting Software Bills of Materials with Software Vulnerability Beschreibung: Eine Vorstudie zu GitHub | 增加具有软件脆弱性说明的软件材料账单:关于GitHub的初步研究 [2503.13998v2](http://arxiv.org/abs/2503.13998v2)
 
 **Authors**: Davide Fucci, Massimiliano Di Penta, Simone Romano, Giuseppe Scanniello
@@ -643,7 +643,7 @@ Software Bills of Material (SBOMs) are becoming a consolidated, often enforced b
 ---
 
 ## Article 52
-### Title@2025-05-27: Leveraging XP and CRISP-DM for Agile Data Science Projects
+### Title@2025-05-27 (2): Leveraging XP and CRISP-DM for Agile Data Science Projects
 **Title**: Leveraging XP and CRISP-DM for Agile Data Science Projects | Nutzung von XP und CRISP-DM für agile Data Science Projekte | 利用XP和CRISP-DM为敏感数据科学项目发挥杠杆作用 [2505.21603v1](http://arxiv.org/abs/2505.21603v1)
 
 **Authors**: Andre Massahiro Shimaoka, Renato Cordeiro Ferreira, Alfredo Goldman
@@ -653,7 +653,7 @@ This study explores the integration of eXtreme Programming (XP) and the Cross-In
 ---
 
 ## Article 53
-### Title@2025-05-27: JITScope: Interactive Visualization of JIT Compiler IR Transformations
+### Title@2025-05-27 (2): JITScope: Interactive Visualization of JIT Compiler IR Transformations
 **Title**: JITScope: Interactive Visualization of JIT Compiler IR Transformations | JITScope: Interaktive Visualisierung von JIT Compiler IR-Transformationen | JIT编辑器 IR 转换的交互式视觉化 [2505.21599v1](http://arxiv.org/abs/2505.21599v1)
 
 **Authors**: Kyra Dalbo, Yumna Ahmed, HeuiChan Lim
@@ -663,7 +663,7 @@ The complexity of modern Just-In-Time (JIT) compiler optimization poses signific
 ---
 
 ## Article 54
-### Title@2025-05-27: GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural   Code Generation
+### Title@2025-05-27 (2): GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural   Code Generation
 **Title**: GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural   Code Generation | GUARD:Dual-Agent-basierte Backdoor-Verteidigung auf Ketten-of-Thought in Neural Code Generation | GUARD: 在神经代码生成过程中寻求的连锁研究中,基于 " 以企业为基地 " 的后门防御 [2505.21425v1](http://arxiv.org/abs/2505.21425v1)
 
 **Authors**: Naizhu Jin, Zhong Li, Tian Zhang, Qingkai Zeng
@@ -673,7 +673,7 @@ With the widespread application of large language models in code generation, rec
 ---
 
 ## Article 55
-### Title@2025-05-27: A first look at ROS~2 applications written in asynchronous Rust
+### Title@2025-05-27 (2): A first look at ROS~2 applications written in asynchronous Rust
 **Title**: A first look at ROS~2 applications written in asynchronous Rust | Ein erster Blick auf ROS~2 Anwendungen geschrieben in asynchronen Rust | 首先看一看ROS~2的申请,这些申请是以非同步鲁斯特书写的。 [2505.21323v1](http://arxiv.org/abs/2505.21323v1)
 
 **Authors**: Martin Škoudlil, Michal Sojka, Zdeněk Hanzálek
@@ -683,7 +683,7 @@ The increasing popularity of the Rust programming language in building robotic a
 ---
 
 ## Article 56
-### Title@2025-05-27: Computational Reproducibility of R Code Supplements on OSF
+### Title@2025-05-27 (2): Computational Reproducibility of R Code Supplements on OSF
 **Title**: Computational Reproducibility of R Code Supplements on OSF | Berechnung der Reproduzierbarkeit von R-Code-Ergänzungen auf OSF | OSF的R代码补编的计算可复制性 [2505.21590v1](http://arxiv.org/abs/2505.21590v1)
 
 **Authors**: Lorraine Saju, Tobias Holtdirk, Meetkumar Pravinbhai Mangroliya, Arnim Bleier
@@ -693,7 +693,7 @@ Computational reproducibility is fundamental to scientific research, yet many pu
 ---
 
 ## Article 57
-### Title@2025-05-27: ColorGo: Directed Concolic Execution
+### Title@2025-05-27 (2): ColorGo: Directed Concolic Execution
 **Title**: ColorGo: Directed Concolic Execution | ColorGo: Direkte konkolische Ausführung | 颜色 Go : 指向排列执行 [2505.21130v1](http://arxiv.org/abs/2505.21130v1)
 
 **Authors**: Jia Li, Jiacheng Shen, Yuxin Su, Michael R. Lyu
@@ -703,7 +703,7 @@ Directed fuzzing is a critical technique in cybersecurity, targeting specific se
 ---
 
 ## Article 58
-### Title@2025-05-27: CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software   Building
+### Title@2025-05-27 (2): CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software   Building
 **Title**: CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software   Building | CXXCrafter: Ein LLM-basierter Agent für automatisiertes C/C++ Open Source Software Building | CXXCFFF: 一个基于LLM的自动 C/C++ 开放源码软件大楼LLM代理 [2505.21069v1](http://arxiv.org/abs/2505.21069v1)
 
 **Authors**: Zhengmin Yu, Yuan Zhang, Ming Wen, Yinan Nie, Wenhui Zhang, Min Yang
@@ -713,7 +713,7 @@ Project building is pivotal to support various program analysis tasks, such as g
 ---
 
 ## Article 59
-### Title@2025-05-27: Thinking Before Running! Efficient Code Generation with Thorough   Exploration and Optimal Refinement
+### Title@2025-05-27 (2): Thinking Before Running! Efficient Code Generation with Thorough   Exploration and Optimal Refinement
 **Title**: Thinking Before Running! Efficient Code Generation with Thorough   Exploration and Optimal Refinement | Vor dem Laufen denken! Effiziente Codegenerierung mit gründlicher Exploration und optimaler Verfeinerung | 在运行前思考! 高效的代码生成, 彻底探索和优化精炼 [2502.17442v2](http://arxiv.org/abs/2502.17442v2)
 
 **Authors**: Xiaoqing Zhang, Yuhan Liu, Flood Sung, Xiuying Chen, Shuo Shang, Rui Yan
@@ -723,7 +723,7 @@ Code generation is crucial in software engineering for automating the coding pro
 ---
 
 ## Article 60
-### Title@2025-05-27: Optimizing Case-Based Reasoning System for Functional Test Script   Generation with Large Language Models
+### Title@2025-05-27 (2): Optimizing Case-Based Reasoning System for Functional Test Script   Generation with Large Language Models
 **Title**: Optimizing Case-Based Reasoning System for Functional Test Script   Generation with Large Language Models | Optimierung des Case-Based-Reasoning-Systems für die Generierung funktionaler Testskripte mit großen Sprachmodellen | 为具有大语言模型的功能测试脚本生成优化基于个案的理由说明系统 [2503.20576v3](http://arxiv.org/abs/2503.20576v3)
 
 **Authors**: Siyuan Guo, Huiwu Liu, Xiaolong Chen, Yuming Xie, Liang Zhang, Tao Han, Hechang Chen, Yi Chang, Jun Wang
@@ -733,7 +733,7 @@ In this work, we explore the potential of large language models (LLMs) for gener
 ---
 
 ## Article 61
-### Title@2025-05-27: RepoMaster: Autonomous Exploration and Understanding of GitHub   Repositories for Complex Task Solving
+### Title@2025-05-27 (2): RepoMaster: Autonomous Exploration and Understanding of GitHub   Repositories for Complex Task Solving
 **Title**: RepoMaster: Autonomous Exploration and Understanding of GitHub   Repositories for Complex Task Solving | RepoMaster: Autonome Exploration und Verständnis von GitHub-Lagerstätten für komplexe Aufgabenlösung | RepoMaster:为复杂任务解决而自主探索和了解GitHub储存库 [2505.21577v1](http://arxiv.org/abs/2505.21577v1)
 
 **Authors**: Huacan Wang, Ziyi Ni, Shuo Zhang, Shuo Lu, Sen Hu, Ziyang He, Chen Hu, Jiaye Lin, Yifu Guo, Yuntao Du, Pin Lyu
@@ -743,7 +743,7 @@ The ultimate goal of code agents is to solve complex tasks autonomously. Althoug
 ---
 
 ## Article 62
-### Title@2025-05-27: An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE   Tasks
+### Title@2025-05-27 (2): An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE   Tasks
 **Title**: An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE   Tasks | Ein LLM-as-Judge Metric zur Überwindung der Lücke mit menschlicher Bewertung in SE-Aufgaben | 消除社会经济任务中与人的评价差距的法学硕士法官 [2505.20854v1](http://arxiv.org/abs/2505.20854v1)
 
 **Authors**: Xin Zhou, Kisub Kim, Ting Zhang, Martin Weyssow, Luis F. Gomes, Guang Yang, David Lo
@@ -753,7 +753,7 @@ Large Language Models (LLMs) and other automated techniques have been increasing
 ---
 
 ## Article 63
-### Title@2025-05-27: Why do Machine Learning Notebooks Crash? An Empirical Study on Public   Python Jupyter Notebooks
+### Title@2025-05-27 (2): Why do Machine Learning Notebooks Crash? An Empirical Study on Public   Python Jupyter Notebooks
 **Title**: Why do Machine Learning Notebooks Crash? An Empirical Study on Public   Python Jupyter Notebooks | Warum zerfallen Machine-Learning-Notebooks? Eine empirische Studie über öffentliche Python-Jupyter-Notebooks | 为什么机器学习笔记本崩溃? [2411.16795v3](http://arxiv.org/abs/2411.16795v3)
 
 **Authors**: Yiran Wang, Willem Meijer, José Antonio Hernández López, Ulf Nilsson, Dániel Varró
@@ -763,7 +763,7 @@ Jupyter notebooks have become central in data science, integrating code, text an
 ---
 
 ## Article 64
-### Title@2025-05-27: Can Agents Fix Agent Issues?
+### Title@2025-05-27 (2): Can Agents Fix Agent Issues?
 **Title**: Can Agents Fix Agent Issues? | Können Agenten Probleme mit Agenten beheben? | 特工能解决代理问题吗? [2505.20749v1](http://arxiv.org/abs/2505.20749v1)
 
 **Authors**: Alfin Wijaya Rahardja, Junwei Liu, Weitong Chen, Zhenpeng Chen, Yiling Lou
@@ -773,7 +773,7 @@ LLM-based agent systems are emerging as a new software paradigm and have been wi
 ---
 
 ## Article 65
-### Title@2025-05-27: Enhancing Code LLMs with Reinforcement Learning in Code Generation: A   Survey
+### Title@2025-05-27 (2): Enhancing Code LLMs with Reinforcement Learning in Code Generation: A   Survey
 **Title**: Enhancing Code LLMs with Reinforcement Learning in Code Generation: A   Survey | Verbesserung von Code LLMs mit Verstärkungslernen in der Codegenerierung: Eine Umfrage | 增强法典制定中强化学习的加强守则LLMS 代码生成:调查 [2412.20367v3](http://arxiv.org/abs/2412.20367v3)
 
 **Authors**: Junqiao Wang, Zeng Zhang, Yangfan He, Zihao Zhang, Yuyang Song, Tianyu Shi, Yuchen Li, Hengyuan Xu, Kunyu Wu, Xin Yi, Zhongwei Wan, Xinhang Yuan, Kuan Lu, Menghao Huo, Guangwu Qian, Keqin Li, Qiuwu Chen, Lewei He
@@ -783,7 +783,7 @@ Reinforcement learning (RL) has emerged as a powerful paradigm for enhancing lar
 ---
 
 ## Article 66
-### Title@2025-05-27: SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large   Language Models for Source Code Vulnerability Analysis
+### Title@2025-05-27 (2): SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large   Language Models for Source Code Vulnerability Analysis
 **Title**: SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large   Language Models for Source Code Vulnerability Analysis | SV-TrustEval-C: Bewertung von Struktur und semantischer Vernunft in großen Sprachmodellen für die Analyse von Quellencode-Anfälligkeiten | SV-信任值-C:在源码脆弱性分析大语言模型中评估结构和语义理由 [2505.20630v1](http://arxiv.org/abs/2505.20630v1)
 
 **Authors**: Yansong Li, Paula Branco, Alexander M. Hoole, Manish Marwah, Hari Manassery Koduvely, Guy-Vincent Jourdan, Stephan Jou
@@ -793,7 +793,7 @@ As Large Language Models (LLMs) evolve in understanding and generating code, acc
 ---
 
 ## Article 67
-### Title@2025-05-26: Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated   Systematic Literature Review
+### Title@2025-05-26 (1): Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated   Systematic Literature Review
 **Title**: Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated   Systematic Literature Review | Smart Contract Vulnerabilitys, Tools und Benchmarks: Ein aktualisierter systematischer Literaturbericht | 智能合同脆弱性、工具和基准:更新的系统文献审查 [2412.01719v2](http://arxiv.org/abs/2412.01719v2)
 
 **Authors**: Gerardo Iuliano, Dario Di Nucci
@@ -803,7 +803,7 @@ Smart contracts are self-executing programs on blockchain platforms like Ethereu
 ---
 
 ## Article 68
-### Title@2025-05-26: Large Language Models for IT Automation Tasks: Are We There Yet?
+### Title@2025-05-26 (1): Large Language Models for IT Automation Tasks: Are We There Yet?
 **Title**: Large Language Models for IT Automation Tasks: Are We There Yet? | Große Sprachmodelle für IT-Automatisierungsaufgaben: Sind wir noch da? | 信息技术自动化任务大语言模型:我们是否还存在? [2505.20505v1](http://arxiv.org/abs/2505.20505v1)
 
 **Authors**: Md Mahadi Hassan, John Salvador, Akond Rahman, Santu Karmaker
@@ -813,7 +813,7 @@ LLMs show promise in code generation, yet their effectiveness for IT automation 
 ---
 
 ## Article 69
-### Title@2025-05-26: Modeling and Analysis of the Landing Gear System with the Generalized   Contracts
+### Title@2025-05-26 (1): Modeling and Analysis of the Landing Gear System with the Generalized   Contracts
 **Title**: Modeling and Analysis of the Landing Gear System with the Generalized   Contracts | Modellierung und Analyse des Landing Gear Systems mit den Generalized Contracts | 通用合同着陆器系统的建模和分析 [2111.10426v3](http://arxiv.org/abs/2111.10426v3)
 
 **Authors**: Abdelkader Khouass, christian attiogbé, mohamed messabihi
@@ -823,7 +823,7 @@ Nowadays, there are several complex systems in different sectors such as aviatio
 ---
 
 ## Article 70
-### Title@2025-05-26: SWE-rebench: An Automated Pipeline for Task Collection and   Decontaminated Evaluation of Software Engineering Agents
+### Title@2025-05-26 (1): SWE-rebench: An Automated Pipeline for Task Collection and   Decontaminated Evaluation of Software Engineering Agents
 **Title**: SWE-rebench: An Automated Pipeline for Task Collection and   Decontaminated Evaluation of Software Engineering Agents | SWE-Rebench: Eine automatisierte Pipeline für die Task Collection und die dekontaminierte Evaluation von Software Engineering Agents | SWE-rebench:软件工程剂任务收集和除污评价自动管道 [2505.20411v1](http://arxiv.org/abs/2505.20411v1)
 
 **Authors**: Ibragim Badertdinov, Alexander Golubev, Maksim Nekrashevich, Anton Shevtsov, Simon Karasik, Andrei Andriushchenko, Maria Trofimova, Daria Litvintseva, Boris Yangel
@@ -833,7 +833,7 @@ LLM-based agents have shown promising capabilities in a growing range of softwar
 ---
 
 ## Article 71
-### Title@2025-05-26: GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency
+### Title@2025-05-26 (1): GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency
 **Title**: GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency | GPUMC: Ein staatenloser Modellprüfer für GPU-Schwachspeicherkonkurrenz | GPUMC: GPU 弱内存调制货币的无国籍模式检查器 [2505.20207v1](http://arxiv.org/abs/2505.20207v1)
 
 **Authors**: Soham Chakraborty, S. Krishna, Andreas Pavlogiannis, Omkar Tuppe
@@ -843,7 +843,7 @@ GPU computing is embracing weak memory concurrency for performance improvement. 
 ---
 
 ## Article 72
-### Title@2025-05-26: Evaluating Large Language Models for Code Review
+### Title@2025-05-26 (1): Evaluating Large Language Models for Code Review
 **Title**: Evaluating Large Language Models for Code Review | Bewertung großer Sprachmodelle für die Code-Überprüfung | 评价用于守则审查的大语言模式 [2505.20206v1](http://arxiv.org/abs/2505.20206v1)
 
 **Authors**: Umut Cihan, Arda İçöz, Vahid Haratian, Eray Tüzün
@@ -853,7 +853,7 @@ Context: Code reviews are crucial for software quality. Recent AI advances have 
 ---
 
 ## Article 73
-### Title@2025-05-26: Exposing Go's Hidden Bugs: A Novel Concolic Framework
+### Title@2025-05-26 (1): Exposing Go's Hidden Bugs: A Novel Concolic Framework
 **Title**: Exposing Go's Hidden Bugs: A Novel Concolic Framework | Aufdecken der versteckten Bugs von Go: Ein neuartiges konkolisches Rahmenwerk | 展露 Go 隐藏的臭虫: 新分类框架 [2505.20183v1](http://arxiv.org/abs/2505.20183v1)
 
 **Authors**: Karolina Gorna, Nicolas Iooss, Yannick Seurin, Rida Khatoun
@@ -863,7 +863,7 @@ The widespread adoption of the Go programming language in infrastructure backend
 ---
 
 ## Article 74
-### Title@2025-05-26: An Empirical Study on Strong-Weak Model Collaboration for Repo-level   Code Generation
+### Title@2025-05-26 (1): An Empirical Study on Strong-Weak Model Collaboration for Repo-level   Code Generation
 **Title**: An Empirical Study on Strong-Weak Model Collaboration for Repo-level   Code Generation | Eine empirische Studie zur stark schwachen Modellkooperation für die Codegenerierung auf Repo-Ebene | 关于回收层代码生成的 " 强弱 " 示范协作经验研究 [2505.20182v1](http://arxiv.org/abs/2505.20182v1)
 
 **Authors**: Shubham Gandhi, Atharva Naik, Yiqing Xie, Carolyn Rose
@@ -873,7 +873,7 @@ We study cost-efficient collaboration between strong and weak language models fo
 ---
 
 ## Article 75
-### Title@2025-05-26: Evaluating Software Plagiarism Detection in the Age of AI: Automated   Obfuscation and Lessons for Academic Integrity
+### Title@2025-05-26 (1): Evaluating Software Plagiarism Detection in the Age of AI: Automated   Obfuscation and Lessons for Academic Integrity
 **Title**: Evaluating Software Plagiarism Detection in the Age of AI: Automated   Obfuscation and Lessons for Academic Integrity | Bewertung von Software Plagiaterkennung im Zeitalter der KI: Automatisierte Verschleierung und Lehren für akademische Integrität | 评价AI时代软件高射率检测:学术廉正方面的自动读写和教益 [2505.20158v1](http://arxiv.org/abs/2505.20158v1)
 
 **Authors**: Timur Sağlam, Larissa Schmid
@@ -883,7 +883,7 @@ Plagiarism in programming assignments is a persistent issue in computer science 
 ---
 
 ## Article 76
-### Title@2025-05-26: The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary   Decompilation with LLMs
+### Title@2025-05-26 (1): The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary   Decompilation with LLMs
 **Title**: The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary   Decompilation with LLMs | Die CodeInverter Suite: Control-Flow und Data-Mapping Augmented Binary Decompilation mit LLMs | 代码输入器套件:控制-光和数据-制表增强的二进制解析与LLMS [2503.07215v2](http://arxiv.org/abs/2503.07215v2)
 
 **Authors**: Peipei Liu, Jian Sun, Rongkang Sun, Li Chen, Zhaoteng Yan, Peizheng Zhang, Dapeng Sun, Dawei Wang, Xiaoling Zhang, Dan Li
@@ -893,7 +893,7 @@ Binary decompilation plays a vital role in various cybersecurity and software en
 ---
 
 ## Article 77
-### Title@2025-05-26: StructEval: Benchmarking LLMs' Capabilities to Generate Structural   Outputs
+### Title@2025-05-26 (1): StructEval: Benchmarking LLMs' Capabilities to Generate Structural   Outputs
 **Title**: StructEval: Benchmarking LLMs' Capabilities to Generate Structural   Outputs | StructEval: Benchmarking der Kapazitäten von LLM zur Erzeugung struktureller Outputs | DructEval:将LLMs的能力与产生结构性产出挂钩 [2505.20139v1](http://arxiv.org/abs/2505.20139v1)
 
 **Authors**: Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, Ziyan Jiang, Ping Nie, Wenhu Chen
@@ -903,7 +903,7 @@ As Large Language Models (LLMs) become integral to software development workflow
 ---
 
 ## Article 78
-### Title@2025-05-26: Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge   Proofs
+### Title@2025-05-26 (1): Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge   Proofs
 **Title**: Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge   Proofs | Engineering Vertrauenswürdige Maschinen-Learning-Operationen mit Null-Wissens-Proofs | 具有零知识证明的工程可信赖的机械学习操作 [2505.20136v1](http://arxiv.org/abs/2505.20136v1)
 
 **Authors**: Filippo Scaramuzza, Giovanni Quattrocchi, Damian A. Tamburri
@@ -913,7 +913,7 @@ As Artificial Intelligence (AI) systems, particularly those based on machine lea
 ---
 
 ## Article 79
-### Title@2025-05-26: Grammars of Formal Uncertainty: When to Trust LLMs in Automated   Reasoning Tasks
+### Title@2025-05-26 (1): Grammars of Formal Uncertainty: When to Trust LLMs in Automated   Reasoning Tasks
 **Title**: Grammars of Formal Uncertainty: When to Trust LLMs in Automated   Reasoning Tasks | Grammatik der formalen Unsicherheit: Wann man LLMs bei automatisierten Aufgaben zur Begründung vertraut | 正式不确定性的语法:在自动说明理由任务中何时信任LLMs [2505.20047v1](http://arxiv.org/abs/2505.20047v1)
 
 **Authors**: Debargha Ganguly, Vikash Singh, Sreehari Sankar, Biyao Zhang, Xuecen Zhang, Srinivasan Iyengar, Xiaotian Han, Amit Sharma, Shivkumar Kalyanaraman, Vipin Chaudhary
@@ -923,7 +923,7 @@ Large language models (LLMs) show remarkable promise for democratizing automated
 ---
 
 ## Article 80
-### Title@2025-05-26: A Survey on the Safety and Security Threats of Computer-Using Agents:   JARVIS or Ultron?
+### Title@2025-05-26 (1): A Survey on the Safety and Security Threats of Computer-Using Agents:   JARVIS or Ultron?
 **Title**: A Survey on the Safety and Security Threats of Computer-Using Agents:   JARVIS or Ultron? | Eine Umfrage über die Sicherheitsbedrohungen von Computer-Verwendern: JARVIS oder Ultron? | JARVIS还是ULTRON? 调查计算机用户的安全和安保威胁:JARVIS还是ULTRON? [2505.10924v2](http://arxiv.org/abs/2505.10924v2)
 
 **Authors**: Ada Chen, Yongjiang Wu, Junyuan Zhang, Jingyu Xiao, Shu Yang, Jen-tse Huang, Kun Wang, Wenxuan Wang, Shuai Wang
@@ -933,7 +933,7 @@ Recently, AI-driven interactions with computing devices have advanced from basic
 ---
 
 ## Article 81
-### Title@2025-05-26: Ontology- and LLM-based Data Harmonization for Federated Learning in   Healthcare
+### Title@2025-05-26 (1): Ontology- and LLM-based Data Harmonization for Federated Learning in   Healthcare
 **Title**: Ontology- and LLM-based Data Harmonization for Federated Learning in   Healthcare | Ontologie- und LLM-basierte Datenharmonisierung für das Federated Learning in Healthcare | 以本体学和LLM为基础的保健方面联邦学习数据统一 [2505.20020v1](http://arxiv.org/abs/2505.20020v1)
 
 **Authors**: Natallia Kokash, Lei Wang, Thomas H. Gillespie, Adam Belloum, Paola Grosso, Sara Quinney, Lang Li, Bernard de Bono
@@ -943,7 +943,7 @@ The rise of electronic health records (EHRs) has unlocked new opportunities for 
 ---
 
 ## Article 82
-### Title@2025-05-26: Requirements Coverage-Guided Minimization for Natural Language Test   Cases
+### Title@2025-05-26 (1): Requirements Coverage-Guided Minimization for Natural Language Test   Cases
 **Title**: Requirements Coverage-Guided Minimization for Natural Language Test   Cases | Anforderungen Abdeckungsgeführte Minimierung für natürliche Sprachtests | 以涵盖范围为指导的尽量减少自然语言测试案件 [2505.20004v1](http://arxiv.org/abs/2505.20004v1)
 
 **Authors**: Rongqi Pan, Feifei Niu, Lionel C. Briand, Hanyang Hu
@@ -953,7 +953,7 @@ As software systems evolve, test suites tend to grow in size and often contain r
 ---
 
 ## Article 83
-### Title@2025-05-26: The Invisible Hand: Unveiling Provider Bias in Large Language Models for   Code Generation
+### Title@2025-05-26 (1): The Invisible Hand: Unveiling Provider Bias in Large Language Models for   Code Generation
 **Title**: The Invisible Hand: Unveiling Provider Bias in Large Language Models for   Code Generation | Die unsichtbare Hand: Enthüllen von Provider-Bias in großen Sprachmodellen für die Codegenerierung | 无形手:守则生成大语言模式中的 " 无形手 " : " 不可忽视的提供者 " 。 [2501.07849v2](http://arxiv.org/abs/2501.07849v2)
 
 **Authors**: Xiaoyu Zhang, Juan Zhai, Shiqing Ma, Qingshuang Bao, Weipeng Jiang, Qian Wang, Chao Shen, Yang Liu
@@ -963,7 +963,7 @@ Large Language Models (LLMs) have emerged as the new recommendation engines, sur
 ---
 
 ## Article 84
-### Title@2025-05-26: Systems of Twinned Systems: A Systematic Literature Review
+### Title@2025-05-26 (1): Systems of Twinned Systems: A Systematic Literature Review
 **Title**: Systems of Twinned Systems: A Systematic Literature Review | Systeme von Zwillingssystemen: Ein Systematischer Literaturbericht | 结对系统系统系统:系统文献审查 [2505.19916v1](http://arxiv.org/abs/2505.19916v1)
 
 **Authors**: Feyi Adesanya, Kanan Castro Silva, Valdemar V. Graciano Neto, Istvan David
@@ -973,7 +973,7 @@ Modern systems exhibit unprecedented complexity due to their increased scale, in
 ---
 
 ## Article 85
-### Title@2025-05-26: Deconstructing Obfuscation: A four-dimensional framework for evaluating   Large Language Models assembly code deobfuscation capabilities
+### Title@2025-05-26 (1): Deconstructing Obfuscation: A four-dimensional framework for evaluating   Large Language Models assembly code deobfuscation capabilities
 **Title**: Deconstructing Obfuscation: A four-dimensional framework for evaluating   Large Language Models assembly code deobfuscation capabilities | Dekonstruieren von Obfuscation: Ein vierdimensionaler Rahmen für die Auswertung von Großsprachenmodellen Assembly Code Deobfuscation Fähigkeiten | 解构腐蚀:四维框架,用于评价大语言模型组装编码脱腐能力 [2505.19887v1](http://arxiv.org/abs/2505.19887v1)
 
 **Authors**: Anton Tkachenko, Dmitrij Suskevic, Benjamin Adolphi
@@ -983,7 +983,7 @@ Large language models (LLMs) have shown promise in software engineering, yet the
 ---
 
 ## Article 86
-### Title@2025-05-26: SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability   Detection
+### Title@2025-05-26 (1): SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability   Detection
 **Title**: SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability   Detection | SecVulEval: Benchmarking LLMs für real-World C/C++ Sicherheitserkennung | SecVulEval:确定真实世界C/C+++脆弱性检测LLMs基准 [2505.19828v1](http://arxiv.org/abs/2505.19828v1)
 
 **Authors**: Md Basim Uddin Ahmed, Nima Shiri Harzevili, Jiho Shin, Hung Viet Pham, Song Wang
@@ -993,7 +993,7 @@ Large Language Models (LLMs) have shown promise in software engineering tasks, b
 ---
 
 ## Article 87
-### Title@2025-05-26: A Python workflow definition for computational materials design
+### Title@2025-05-26 (1): A Python workflow definition for computational materials design
 **Title**: A Python workflow definition for computational materials design | Eine Python-Workflow-Definition für die Berechnung von Materialien | 计算材料设计中的 Python 工作流程定义 [2505.20366v1](http://arxiv.org/abs/2505.20366v1)
 
 **Authors**: Jan Janssen, Janine George, Julian Geiger, Marnik Bercx, Xing Wang, Christina Ertural, Joerg Schaarschmidt, Alex M. Ganose, Giovanni Pizzi, Tilmann Hickel, Joerg Neugebauer
@@ -1003,7 +1003,7 @@ Numerous Workflow Management Systems (WfMS) have been developed in the field of 
 ---
 
 ## Article 88
-### Title@2025-05-26: CIDRe: A Reference-Free Multi-Aspect Criterion for Code Comment Quality   Measurement
+### Title@2025-05-26 (1): CIDRe: A Reference-Free Multi-Aspect Criterion for Code Comment Quality   Measurement
 **Title**: CIDRe: A Reference-Free Multi-Aspect Criterion for Code Comment Quality   Measurement | CIDRe: Ein referenzfreies Multi-Aspekt-Kriterium für die Qualitätsmessung von Code Comment | CIDRe: 守则评论质量衡量的无参考性、无参考性、多特征的多标准标准 [2505.19757v1](http://arxiv.org/abs/2505.19757v1)
 
 **Authors**: Maria Dziuba, Valentin Malykh
@@ -1013,7 +1013,7 @@ Effective generation of structured code comments requires robust quality metrics
 ---
 
 ## Article 89
-### Title@2025-05-26: RDFGraphGen: An RDF Graph Generator based on SHACL Shapes
+### Title@2025-05-26 (1): RDFGraphGen: An RDF Graph Generator based on SHACL Shapes
 **Title**: RDFGraphGen: An RDF Graph Generator based on SHACL Shapes | RDFGraphGen: Ein RDF Graph Generator auf Basis von SHACL Shapes | RDFGraphGen:基于 SHACL 形状的 RDF 图形生成器 [2407.17941v2](http://arxiv.org/abs/2407.17941v2)
 
 **Authors**: Milos Jovanovik, Marija Vecovska, Maxime Jakubowski, Katja Hose
@@ -1023,7 +1023,7 @@ Developing and testing modern RDF-based applications often requires access to RD
 ---
 
 ## Article 90
-### Title@2025-05-26: SETBVE: Quality-Diversity Driven Exploration of Software Boundary   Behaviors
+### Title@2025-05-26 (1): SETBVE: Quality-Diversity Driven Exploration of Software Boundary   Behaviors
 **Title**: SETBVE: Quality-Diversity Driven Exploration of Software Boundary   Behaviors | SETBVE: Qualität-Diversität treibt die Erforschung von Software-Grenzverhalten an | SETVE: 软件边界行为的质量-多样性驱动探索 [2505.19736v1](http://arxiv.org/abs/2505.19736v1)
 
 **Authors**: Sabinakhon Akbarova, Felix Dobslaw, Francisco Gomes de Oliveira Neto, Robert Feldt
@@ -1033,7 +1033,7 @@ Software systems exhibit distinct behaviors based on input characteristics, and 
 ---
 
 ## Article 91
-### Title@2025-05-26: Large Language Models in Code Co-generation for Safe Autonomous Vehicles
+### Title@2025-05-26 (1): Large Language Models in Code Co-generation for Safe Autonomous Vehicles
 **Title**: Large Language Models in Code Co-generation for Safe Autonomous Vehicles | Große Sprachmodelle in der Kogeneration Code für sichere autonome Fahrzeuge | 安全自治车辆代码共同生成大语言模式 [2505.19658v1](http://arxiv.org/abs/2505.19658v1)
 
 **Authors**: Ali Nouri, Beatriz Cabrero-Daniel, Zhennan Fei, Krishna Ronanki, Håkan Sivencrona, Christian Berger
@@ -1043,7 +1043,7 @@ Software engineers in various industrial domains are already using Large Languag
 ---
 
 ## Article 92
-### Title@2025-05-26: Software Engineering for Self-Adaptive Robotics: A Research Agenda
+### Title@2025-05-26 (1): Software Engineering for Self-Adaptive Robotics: A Research Agenda
 **Title**: Software Engineering for Self-Adaptive Robotics: A Research Agenda | Software-Engineering für selbstadaptive Robotik: Eine Forschungsagenda | 自我适应机器人学软件工程:研究议程 [2505.19629v1](http://arxiv.org/abs/2505.19629v1)
 
 **Authors**: Shaukat Ali, Ana Cavalcanti, Cláudio Ângelo Gonçalves Gomes, Peter Gorm Larsen, Hassan Sartaj, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
@@ -1053,7 +1053,7 @@ Self-adaptive robotic systems are designed to operate autonomously in dynamic an
 ---
 
 ## Article 93
-### Title@2025-05-26: Search-Based Software Engineering in the Landscape of AI Foundation   Models
+### Title@2025-05-26 (1): Search-Based Software Engineering in the Landscape of AI Foundation   Models
 **Title**: Search-Based Software Engineering in the Landscape of AI Foundation   Models | Search-Based Software Engineering in der Landschaft der AI-Stiftung Modelle | AI基金会模型景观中的搜索软件工程 [2505.19625v1](http://arxiv.org/abs/2505.19625v1)
 
 **Authors**: Hassan Sartaj, Shaukat Ali
@@ -1063,7 +1063,7 @@ Search-based software engineering (SBSE), at the intersection of artificial inte
 ---
 
 ## Article 94
-### Title@2025-05-26: LEGO-Compiler: Enhancing Neural Compilation Through Translation   Composability
+### Title@2025-05-26 (1): LEGO-Compiler: Enhancing Neural Compilation Through Translation   Composability
 **Title**: LEGO-Compiler: Enhancing Neural Compilation Through Translation   Composability | LEGO-Compiler: Neurale Kompilierung durch Übersetzungskompatibilität verbessern | LEGO-Compuper:通过翻译集成加强神经汇编 [2505.20356v1](http://arxiv.org/abs/2505.20356v1)
 
 **Authors**: Shuoming Zhang, Jiacheng Zhao, Chunwei Xia, Zheng Wang, Yunji Chen, Xiaobing Feng, Huimin Cui
@@ -1073,7 +1073,7 @@ Large language models (LLMs) have the potential to revolutionize how we design a
 ---
 
 ## Article 95
-### Title@2025-05-26: CODE-DITING: A Reasoning-Based Metric for Functional Alignment in Code   Evaluation
+### Title@2025-05-26 (1): CODE-DITING: A Reasoning-Based Metric for Functional Alignment in Code   Evaluation
 **Title**: CODE-DITING: A Reasoning-Based Metric for Functional Alignment in Code   Evaluation | CODE-DITING: Ein auf Vernunft basierendes Metric für die funktionelle Ausrichtung in der Code-Evaluation | 代码化:守则评价中功能一致性的基于理由的计量标准 [2505.19502v1](http://arxiv.org/abs/2505.19502v1)
 
 **Authors**: Guang Yang, Yu Zhou, Xiang Chen, Wei Zheng, Xing Hu, Xin Zhou, David Lo, Taolue Chen
@@ -1083,7 +1083,7 @@ Trustworthy evaluation methods for code snippets play a crucial role in neural c
 ---
 
 ## Article 96
-### Title@2025-05-26: Benchmarking and Enhancing LLM Agents in Localizing Linux Kernel Bugs
+### Title@2025-05-26 (1): Benchmarking and Enhancing LLM Agents in Localizing Linux Kernel Bugs
 **Title**: Benchmarking and Enhancing LLM Agents in Localizing Linux Kernel Bugs | Benchmarking und Verbesserung von LLM-Agenten bei der Lokalisierung von Linux-Kernel-Fehlern | 确定和加强Linux内核虫本地化的Linux Kernel 虫的基准和加强LLM代理物 [2505.19489v1](http://arxiv.org/abs/2505.19489v1)
 
 **Authors**: Zhenhao Zhou, Zhuochen Huang, Yike He, Chong Wang, Jiajun Wang, Yijian Wu, Xin Peng, Yiling Lou
@@ -1093,7 +1093,7 @@ The Linux kernel is a critical system, serving as the foundation for numerous sy
 ---
 
 ## Article 97
-### Title@2025-05-26: Regulating Algorithmic Management: A Multi-Stakeholder Study of   Challenges in Aligning Software and the Law for Workplace Scheduling
+### Title@2025-05-26 (1): Regulating Algorithmic Management: A Multi-Stakeholder Study of   Challenges in Aligning Software and the Law for Workplace Scheduling
 **Title**: Regulating Algorithmic Management: A Multi-Stakeholder Study of   Challenges in Aligning Software and the Law for Workplace Scheduling | Regulierung des algorithmischen Managements: Eine Multi-Stakeholder-Studie über Herausforderungen bei der Ausrichtung von Software und dem Gesetz für die Arbeitsplanung | 规范工资管理:多方利益攸关方研究软件和工作场所时间安排法在调整软件和工作场所时间安排法方面面临的挑战 [2505.02329v2](http://arxiv.org/abs/2505.02329v2)
 
 **Authors**: Jonathan Lynn, Rachel Y. Kim, Sicun Gao, Daniel Schneider, Sachin S. Pandya, Min Kyung Lee
@@ -1103,7 +1103,7 @@ Algorithmic management (AM)'s impact on worker well-being has led to calls for r
 ---
 
 ## Article 98
-### Title@2025-05-26: Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications   of Agentic AI
+### Title@2025-05-26 (1): Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications   of Agentic AI
 **Title**: Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications   of Agentic AI | Vibe Coding vs. Agentic Coding: Grundlagen und praktische Implikationen von Agentic AI | Vibe 编码与 Agentic 编码:Agent AI 的基本要素和实际影响 [2505.19443v1](http://arxiv.org/abs/2505.19443v1)
 
 **Authors**: Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee
@@ -1113,7 +1113,7 @@ This review presents a comprehensive analysis of two emerging paradigms in AI-as
 ---
 
 ## Article 99
-### Title@2025-05-26: Simple and Effective Baselines for Code Summarisation Evaluation
+### Title@2025-05-26 (1): Simple and Effective Baselines for Code Summarisation Evaluation
 **Title**: Simple and Effective Baselines for Code Summarisation Evaluation | Einfache und effektive Grundlagen für die Code-Summarisation-Bewertung | 用于代码摘要评价的简单有效基线 [2505.19392v1](http://arxiv.org/abs/2505.19392v1)
 
 **Authors**: Jade Robinson, Jonathan K. Kummerfeld
@@ -1123,7 +1123,7 @@ Code documentation is useful, but writing it is time-consuming. Different techni
 ---
 
 ## Article 100
-### Title@2025-05-25: Architectures of Error: A Philosophical Inquiry into AI and Human Code   Generation
+### Title@2025-05-25 (7): Architectures of Error: A Philosophical Inquiry into AI and Human Code   Generation
 **Title**: Architectures of Error: A Philosophical Inquiry into AI and Human Code   Generation | Architekturen des Irrtums: Eine philosophische Untersuchung der KI- und menschlichen Code-Generation | 错误结构结构:对大赦国际和人类代码生成的哲学调查 [2505.19353v1](http://arxiv.org/abs/2505.19353v1)
 
 **Authors**: Camilo Chacón Sartori
@@ -1133,7 +1133,7 @@ With the rise of generative AI (GenAI), Large Language Models are increasingly e
 ---
 
 ## Article 101
-### Title@2025-05-25: Retrieval-Augmented Generation for Service Discovery: Chunking   Strategies and Benchmarking
+### Title@2025-05-25 (7): Retrieval-Augmented Generation for Service Discovery: Chunking   Strategies and Benchmarking
 **Title**: Retrieval-Augmented Generation for Service Discovery: Chunking   Strategies and Benchmarking | Retrieval-Augmented Generation for Service Discovery: Chunking Strategien und Benchmarking | 服务发现回收-启动型服务生成:启动战略和基准制定 [2505.19310v1](http://arxiv.org/abs/2505.19310v1)
 
 **Authors**: Robin D. Pesl, Jerin G. Mathew, Massimo Mecella, Marco Aiello
@@ -1143,7 +1143,7 @@ Integrating multiple (sub-)systems is essential to create advanced Information S
 ---
 
 ## Article 102
-### Title@2025-05-25: VerifyThisBench: Generating Code, Specifications, and Proofs All at Once
+### Title@2025-05-25 (7): VerifyThisBench: Generating Code, Specifications, and Proofs All at Once
 **Title**: VerifyThisBench: Generating Code, Specifications, and Proofs All at Once | VerifyThisBench: Code, Spezifikationen und Beweise auf einmal generieren | 校验时间: 生成代码、规格和证明 [2505.19271v1](http://arxiv.org/abs/2505.19271v1)
 
 **Authors**: Xun Deng, Sicheng Zhong, Andreas Veneris, Fan Long, Xujie Si
@@ -1153,7 +1153,7 @@ Large language models (LLMs) have demonstrated remarkable progress in code gener
 ---
 
 ## Article 103
-### Title@2025-05-25: CLEVER: A Curated Benchmark for Formally Verified Code Generation
+### Title@2025-05-25 (7): CLEVER: A Curated Benchmark for Formally Verified Code Generation
 **Title**: CLEVER: A Curated Benchmark for Formally Verified Code Generation | CLEVER: Ein kuratierter Benchmark für die formal verifizierte Codegenerierung | 正式核实的代码生成基准 [2505.13938v3](http://arxiv.org/abs/2505.13938v3)
 
 **Authors**: Amitayush Thakur, Jasper Lee, George Tsoukalas, Meghana Sistla, Matthew Zhao, Stefan Zetzsche, Greg Durrett, Yisong Yue, Swarat Chaudhuri
@@ -1163,7 +1163,7 @@ We introduce ${\rm C{\small LEVER}}$, a high-quality, curated benchmark of 161 p
 ---
 
 ## Article 104
-### Title@2025-05-25: An Empirical Study of Vulnerability Handling Times in CPython
+### Title@2025-05-25 (7): An Empirical Study of Vulnerability Handling Times in CPython
 **Title**: An Empirical Study of Vulnerability Handling Times in CPython | Eine empirische Studie über die Zeiten des Umgangs mit Gefährlichkeit in CPython | CPython 脆弱性处理时间经验研究 [2411.00447v2](http://arxiv.org/abs/2411.00447v2)
 
 **Authors**: Jukka Ruohonen
@@ -1173,7 +1173,7 @@ The paper examines the handling times of software vulnerabilities in CPython, th
 ---
 
 ## Article 105
-### Title@2025-05-25: An Initial Exploration of Fine-tuning Small Language Models for Smart   Contract Reentrancy Vulnerability Detection
+### Title@2025-05-25 (7): An Initial Exploration of Fine-tuning Small Language Models for Smart   Contract Reentrancy Vulnerability Detection
 **Title**: An Initial Exploration of Fine-tuning Small Language Models for Smart   Contract Reentrancy Vulnerability Detection | Eine erste Erkundung von Feinsteuerungs-Kleinsprachenmodellen für intelligente Vertragsrepentrancy Sicherheitserkennung | 初步探索智能合同留置率易变性探测智能合同微调小型语言模型 [2505.19059v1](http://arxiv.org/abs/2505.19059v1)
 
 **Authors**: Ignacio Mariano Andreozzi Pofcher, Joshua Ellul
@@ -1183,7 +1183,7 @@ Large Language Models (LLMs) are being used more and more for various coding tas
 ---
 
 ## Article 106
-### Title@2025-05-25: AIGCodeSet: A New Annotated Dataset for AI Generated Code Detection
+### Title@2025-05-25 (7): AIGCodeSet: A New Annotated Dataset for AI Generated Code Detection
 **Title**: AIGCodeSet: A New Annotated Dataset for AI Generated Code Detection | AIGCodeSet: Ein neuer kommentierter Datensatz für KI Generated Code Detection | AIGCodeSet:AI 生成代码探测新附加说明数据集 [2412.16594v3](http://arxiv.org/abs/2412.16594v3)
 
 **Authors**: Basak Demirok, Mucahid Kutlu
@@ -1193,7 +1193,7 @@ While large language models provide significant convenience for software develop
 ---
 
 ## Article 107
-### Title@2025-05-25: On-Demand Scenario Generation for Testing Automated Driving Systems
+### Title@2025-05-25 (7): On-Demand Scenario Generation for Testing Automated Driving Systems
 **Title**: On-Demand Scenario Generation for Testing Automated Driving Systems | On-Demand-Szenario-Generierung für die Prüfung automatisierter Fahrsysteme | 自动驾驶系统测试的 " 现场需求 " 情景生成 [2505.14053v2](http://arxiv.org/abs/2505.14053v2)
 
 **Authors**: Songyang Yan, Xiaodong Zhang, Kunkun Hao, Haojie Xin, Yonggang Luo, Jucheng Yang, Ming Fan, Chao Yang, Jun Sun, Zijiang Yang
@@ -1203,7 +1203,7 @@ The safety and reliability of Automated Driving Systems (ADS) are paramount, nec
 ---
 
 ## Article 108
-### Title@2025-05-25: Automated Trustworthiness Oracle Generation for Machine Learning Text   Classifiers
+### Title@2025-05-25 (7): Automated Trustworthiness Oracle Generation for Machine Learning Text   Classifiers
 **Title**: Automated Trustworthiness Oracle Generation for Machine Learning Text   Classifiers | Automatisierte Vertrauenswürdigkeit Oracle Generation für Machine Learning Text Klassifikatoren | 机械学习文字分类的自动可信赖性甲骨文生成 [2410.22663v4](http://arxiv.org/abs/2410.22663v4)
 
 **Authors**: Lam Nguyen Tung, Steven Cho, Xiaoning Du, Neelofar Neelofar, Valerio Terragni, Stefano Ruberto, Aldeida Aleti
@@ -1213,7 +1213,7 @@ Machine learning (ML) for text classification has been widely used in various do
 ---
 
 ## Article 109
-### Title@2025-05-25: Co-PatcheR: Collaborative Software Patching with Component(s)-specific   Small Reasoning Models
+### Title@2025-05-25 (7): Co-PatcheR: Collaborative Software Patching with Component(s)-specific   Small Reasoning Models
 **Title**: Co-PatcheR: Collaborative Software Patching with Component(s)-specific   Small Reasoning Models | Co-PatcheR: Kollaborative Software-Patching mit Komponenten-spezifischen Small-Reasoning-Modellen | 共同配给R:与特定组成部分的小型理由模型合作的软件补补补 [2505.18955v1](http://arxiv.org/abs/2505.18955v1)
 
 **Authors**: Yuheng Tang, Hongwei Li, Kaijie Zhu, Michael Yang, Yangruibo Ding, Wenbo Guo
@@ -1223,7 +1223,7 @@ Motivated by the success of general-purpose large language models (LLMs) in soft
 ---
 
 ## Article 110
-### Title@2025-05-24: From Output to Evaluation: Does Raw Instruction-Tuned Code LLMs Output   Suffice for Fill-in-the-Middle Code Generation?
+### Title@2025-05-24 (6): From Output to Evaluation: Does Raw Instruction-Tuned Code LLMs Output   Suffice for Fill-in-the-Middle Code Generation?
 **Title**: From Output to Evaluation: Does Raw Instruction-Tuned Code LLMs Output   Suffice for Fill-in-the-Middle Code Generation? | Von der Ausgabe bis zur Auswertung: Reicht die Ausgabe von LLMs mit rohem Instruktionscode für die Generierung von Fill-in-the-Middle Code aus? | 从输出到评价:原始指令-指令代码LLMs 输出足量是否用于中代代号的填充? [2505.18789v1](http://arxiv.org/abs/2505.18789v1)
 
 **Authors**: Wasi Uddin Ahmad, Somshubra Majumdar, Boris Ginsburg
@@ -1233,7 +1233,7 @@ Post-processing is crucial for the automatic evaluation of LLMs in fill-in-the-m
 ---
 
 ## Article 111
-### Title@2025-05-24: ARMS: A Vision for Actor Reputation Metric Systems in the Open-Source   Software Supply Chain
+### Title@2025-05-24 (6): ARMS: A Vision for Actor Reputation Metric Systems in the Open-Source   Software Supply Chain
 **Title**: ARMS: A Vision for Actor Reputation Metric Systems in the Open-Source   Software Supply Chain | ARMS: Vision für Actor Reputation Metric Systems in der Open Source Software Supply Chain | ARMS:开放源码软件供应链中行为名声计量系统展望 [2505.18760v1](http://arxiv.org/abs/2505.18760v1)
 
 **Authors**: Kelechi G. Kalu, Sofia Okorafor, Betül Durak, Kim Laine, Radames C. Moreno, Santiago Torres-Arias, James C. Davis
@@ -1243,7 +1243,7 @@ Many critical information technology and cyber-physical systems rely on a supply
 ---
 
 ## Article 112
-### Title@2025-05-24: AutoP2C: An LLM-Based Agent Framework for Code Repository Generation   from Multimodal Content in Academic Papers
+### Title@2025-05-24 (6): AutoP2C: An LLM-Based Agent Framework for Code Repository Generation   from Multimodal Content in Academic Papers
 **Title**: AutoP2C: An LLM-Based Agent Framework for Code Repository Generation   from Multimodal Content in Academic Papers | AutoP2C: Ein LLM-basiertes Agent-Framework für die Code-Repository-Generierung aus multimodalen Inhalten in wissenschaftlichen Papieren | 自动P2C: 学术论文中多种形式内容的法规存储器生成基于LLM的LLM代理框架 [2504.20115v2](http://arxiv.org/abs/2504.20115v2)
 
 **Authors**: Zijie Lin, Yiqing Shen, Qilin Cai, He Sun, Jinrui Zhou, Mingjun Xiao
@@ -1253,7 +1253,7 @@ Machine Learning (ML) research is spread through academic papers featuring rich 
 ---
 
 ## Article 113
-### Title@2025-05-24: Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair
+### Title@2025-05-24 (6): Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair
 **Title**: Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair | Beheben von 7.400 Fehlern für 1$: Günstige Crash-Site-Programm-Reparatur | 为1美元固定7 400个臭虫:低廉的撞车-点火方案维修 [2505.13103v2](http://arxiv.org/abs/2505.13103v2)
 
 **Authors**: Han Zheng, Ilia Shumailov, Tianqi Fan, Aiden Hall, Mathias Payer
@@ -1263,7 +1263,7 @@ The rapid advancement of bug-finding techniques has led to the discovery of more
 ---
 
 ## Article 114
-### Title@2025-05-24: SEW: Self-Evolving Agentic Workflows for Automated Code Generation
+### Title@2025-05-24 (6): SEW: Self-Evolving Agentic Workflows for Automated Code Generation
 **Title**: SEW: Self-Evolving Agentic Workflows for Automated Code Generation | SEW: Selbst-evolvierende Agentische Workflows für die automatisierte Codegenerierung | SEW:自动代码生成的自演动态制剂工作流程 [2505.18646v1](http://arxiv.org/abs/2505.18646v1)
 
 **Authors**: Siwei Liu, Jinyuan Fang, Han Zhou, Yingxu Wang, Zaiqiao Meng
@@ -1273,7 +1273,7 @@ Large Language Models (LLMs) have demonstrated effectiveness in code generation 
 ---
 
 ## Article 115
-### Title@2025-05-24: ACECODER: Acing Coder RL via Automated Test-Case Synthesis
+### Title@2025-05-24 (6): ACECODER: Acing Coder RL via Automated Test-Case Synthesis
 **Title**: ACECODER: Acing Coder RL via Automated Test-Case Synthesis | ACECODER: Acing Coder RL über automatisierte Test-Case-Synthese | 通过自动测试-案件综合合成检索编码器 RL [2502.01718v4](http://arxiv.org/abs/2502.01718v4)
 
 **Authors**: Huaye Zeng, Dongfu Jiang, Haozhe Wang, Ping Nie, Xiaotong Chen, Wenhu Chen
@@ -1283,7 +1283,7 @@ Most progress in recent coder models has been driven by supervised fine-tuning (
 ---
 
 ## Article 116
-### Title@2025-05-24: On the Structure and Semantics of Identifier Names Containing Closed   Syntactic Category Words
+### Title@2025-05-24 (6): On the Structure and Semantics of Identifier Names Containing Closed   Syntactic Category Words
 **Title**: On the Structure and Semantics of Identifier Names Containing Closed   Syntactic Category Words | Über die Struktur und Semantik von Identifier-Namen, die geschlossene syntaktische Kategorie Wörter enthalten | 关于含有闭合同步词类的标识名称的结构和语义 [2505.18444v1](http://arxiv.org/abs/2505.18444v1)
 
 **Authors**: Christian D. Newman, Anthony Peruma, Eman Abdullah AlOmar, Mahie Crabbe, Syreen Banabilah, Reem S. AlSuhaibani, Michael J. Decker, Farhad Akhbardeh, Marcos Zampieri, Mohamed Wiem Mkaouer, Jonathan I. Maletic
