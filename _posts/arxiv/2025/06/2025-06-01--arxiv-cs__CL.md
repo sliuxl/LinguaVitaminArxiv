@@ -1366,6 +1366,7 @@ layout: post
 
 ## Article 0
 ### Title@2025-05-29 (4): From Chat Logs to Collective Insights: Aggregative Question Answering
+
 **Title**: From Chat Logs to Collective Insights: Aggregative Question Answering | Von Chat Logs zu Collective Insights: Aggregative Question Answering | 从聊天日志到集体透视:聚合问题解答 [2505.23765v1](http://arxiv.org/abs/2505.23765v1)
 
 **Authors**: Wentao Zhang, Woojeong Kim, Yuntian Deng
@@ -1376,6 +1377,7 @@ Conversational agents powered by large language models (LLMs) are rapidly becomi
 
 ## Article 1
 ### Title@2025-05-29 (4): MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence
+
 **Title**: MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence | MMSI-Bench: Ein Benchmark für multi-Image-Spatial Intelligence | MMSI-Bunch:多图像空间情报基准 [2505.23764v1](http://arxiv.org/abs/2505.23764v1)
 
 **Authors**: Sihan Yang, Runsen Xu, Yiman Xie, Sizhe Yang, Mo Li, Jingli Lin, Chenming Zhu, Xiaochen Chen, Haodong Duan, Xiangyu Yue, Dahua Lin, Tai Wang, Jiangmiao Pang
@@ -1386,6 +1388,7 @@ Spatial intelligence is essential for multimodal large language models (MLLMs) o
 
 ## Article 2
 ### Title@2025-05-29 (4): ZeroGUI: Automating Online GUI Learning at Zero Human Cost
+
 **Title**: ZeroGUI: Automating Online GUI Learning at Zero Human Cost | ZeroGUI: Automatisieren des Online-GUI-Lernens zu null menschlichen Kosten | 零GUI: 实现零人成本在线用户界面学习自动化 [2505.23762v1](http://arxiv.org/abs/2505.23762v1)
 
 **Authors**: Chenyu Yang, Shiqian Su, Shi Liu, Xuan Dong, Yue Yu, Weijie Su, Xuehui Wang, Zhaoyang Liu, Jinguo Zhu, Hao Li, Wenhai Wang, Yu Qiao, Xizhou Zhu, Jifeng Dai
@@ -1396,6 +1399,7 @@ The rapid advancement of large Vision-Language Models (VLMs) has propelled the d
 
 ## Article 3
 ### Title@2025-05-29 (4): Differential Information: An Information-Theoretic Perspective on   Preference Optimization
+
 **Title**: Differential Information: An Information-Theoretic Perspective on   Preference Optimization | Differentialinformation: Eine informationstheoretische Perspektive zur Preference-Optimierung | 差别信息:关于首选优化的信息理论观点 [2505.23761v1](http://arxiv.org/abs/2505.23761v1)
 
 **Authors**: Yunjae Won, Hyunji Lee, Hyeonbin Hwang, Minjoon Seo
@@ -1406,6 +1410,7 @@ Direct Preference Optimization (DPO) has become a standard technique for alignin
 
 ## Article 4
 ### Title@2025-05-29 (4): Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint
+
 **Title**: Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint | Puzzlet von Puzzles: Wenn Vision-Language-Modelle keinen Hinweis aufnehmen können | 由谜题拼取的谜题: 当视觉语言模型无法使用提示时 [2505.23759v1](http://arxiv.org/abs/2505.23759v1)
 
 **Authors**: Heekyung Lee, Jiaxin Ge, Tsung-Han Wu, Minwoo Kang, Trevor Darrell, David M. Chan
@@ -1416,6 +1421,7 @@ Rebus puzzles, visual riddles that encode language through imagery, spatial arra
 
 ## Article 5
 ### Title@2025-05-29 (4): DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural   Language and Reinforcement Learning
+
 **Title**: DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural   Language and Reinforcement Learning | DeepTheorem: Verbesserung der LLM-Gründung für Theorem Proving durch natürliche Sprache und Stärkung Lernen | 深理理论:通过自然语言和加强学习提高理论力的理论力和强化学习 [2505.23754v1](http://arxiv.org/abs/2505.23754v1)
 
 **Authors**: Ziyin Zhang, Jiahao Xu, Zhiwei He, Tian Liang, Qiuzhi Liu, Yansi Li, Linfeng Song, Zhengwen Liang, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu
@@ -1426,6 +1432,7 @@ Theorem proving serves as a major testbed for evaluating complex reasoning abili
 
 ## Article 6
 ### Title@2025-05-29 (4): ATLAS: Learning to Optimally Memorize the Context at Test Time
+
 **Title**: ATLAS: Learning to Optimally Memorize the Context at Test Time | ATLAS: Optimales Erlernen des Kontextes zur Testzeit | ATLAS: 学习在测试时最充分记住上下文 [2505.23735v1](http://arxiv.org/abs/2505.23735v1)
 
 **Authors**: Ali Behrouz, Zeman Li, Praneeth Kacham, Majid Daliri, Yuan Deng, Peilin Zhong, Meisam Razaviyayn, Vahab Mirrokni
@@ -1436,6 +1443,7 @@ Transformers have been established as the most popular backbones in sequence mod
 
 ## Article 7
 ### Title@2025-05-29 (4): Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time
+
 **Title**: Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time | Begrenzte Rationalität für LLMs: Zufriedene Ausrichtung zur Folgezeit | LLM女士的理 理 理 理:在推断时满足一致 [2505.23729v1](http://arxiv.org/abs/2505.23729v1)
 
 **Authors**: Mohamad Chehade, Soumya Suvra Ghosal, Souradip Chakraborty, Avinash Reddy, Dinesh Manocha, Hao Zhu, Amrit Singh Bedi
@@ -1446,6 +1454,7 @@ Aligning large language models with humans is challenging due to the inherently 
 
 ## Article 8
 ### Title@2025-05-29 (4): ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning   Engineering
+
 **Title**: ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning   Engineering | ML-Agent: Verstärkung von LLM-Agenten für autonome Maschinenbautechnik | ML-代理:加强自动机械学习工程的LLM代理 [2505.23723v1](http://arxiv.org/abs/2505.23723v1)
 
 **Authors**: Zexi Liu, Jingyi Chai, Xinyu Zhu, Shuo Tang, Rui Ye, Bo Zhang, Lei Bai, Siheng Chen
@@ -1456,6 +1465,7 @@ The emergence of large language model (LLM)-based agents has significantly advan
 
 ## Article 9
 ### Title@2025-05-29 (4): Label-Guided In-Context Learning for Named Entity Recognition
+
 **Title**: Label-Guided In-Context Learning for Named Entity Recognition | Labelgeführtes In-Context-Lernen für die benannte Entitätserkennung | 为识别命名实体进行Label-Guided InFincle 学习 [2505.23722v1](http://arxiv.org/abs/2505.23722v1)
 
 **Authors**: Fan Bai, Hamid Hassanzadeh, Ardavan Saeedi, Mark Dredze
@@ -1466,6 +1476,7 @@ In-context learning (ICL) enables large language models (LLMs) to perform new ta
 
 ## Article 10
 ### Title@2025-05-29 (4): Length-Controlled Margin-Based Preference Optimization without Reference   Model
+
 **Title**: Length-Controlled Margin-Based Preference Optimization without Reference   Model | Längengesteuerte Margenbasierte Preference-Optimierung ohne Referenzmodell | 无参考模型的优化 [2502.14643v2](http://arxiv.org/abs/2502.14643v2)
 
 **Authors**: Gengxu Li, Tingyu Xia, Yi Chang, Yuan Wu
@@ -1476,6 +1487,7 @@ Direct Preference Optimization (DPO) is a widely adopted offline algorithm for p
 
 ## Article 11
 ### Title@2025-05-29 (4): Don't Take the Premise for Granted: Evaluating the Premise Critique   Ability of Large Language Models
+
 **Title**: Don't Take the Premise for Granted: Evaluating the Premise Critique   Ability of Large Language Models | Nehmen Sie nicht die Prämisse für gewährt: Bewertung der Premise Critique Fähigkeit von großen Sprachmodellen | 评估大语言模型的精密克里米亚能力 [2505.23715v1](http://arxiv.org/abs/2505.23715v1)
 
 **Authors**: Jinzhe Li, Gengxu Li, Yi Chang, Yuan Wu
@@ -1486,6 +1498,7 @@ Large language models (LLMs) have witnessed rapid advancements, demonstrating re
 
 ## Article 12
 ### Title@2025-05-29 (4): SenWiCh: Sense-Annotation of Low-Resource Languages for WiC using Hybrid   Methods
+
 **Title**: SenWiCh: Sense-Annotation of Low-Resource Languages for WiC using Hybrid   Methods | SenWiCh: Sense-Annotation von Low-Resource-Sprachen für WiC mit Hybrid-Methoden | SenWiCH: 使用混合方法为无线电通信中心提供低资源语言的高级说明 [2505.23714v1](http://arxiv.org/abs/2505.23714v1)
 
 **Authors**: Roksana Goworek, Harpal Karlcut, Muhammad Shezad, Nijaguna Darshana, Abhishek Mane, Syam Bondada, Raghav Sikka, Ulvi Mammadov, Rauf Allahverdiyev, Sriram Purighella, Paridhi Gupta, Muhinyia Ndegwa, Haim Dubossarsky
@@ -1496,6 +1509,7 @@ This paper addresses the critical need for high-quality evaluation datasets in l
 
 ## Article 13
 ### Title@2025-05-29 (4): SocialMaze: A Benchmark for Evaluating Social Reasoning in Large   Language Models
+
 **Title**: SocialMaze: A Benchmark for Evaluating Social Reasoning in Large   Language Models | SocialMaze: Ein Benchmark für die Bewertung sozialer Vernunft in großen Sprachmodellen | 社会领域:用大语言模式评价社会原因的基准 [2505.23713v1](http://arxiv.org/abs/2505.23713v1)
 
 **Authors**: Zixiang Xu, Yanbo Wang, Yue Huang, Jiayi Ye, Haomin Zhuang, Zirui Song, Lang Gao, Chenxi Wang, Zhaorun Chen, Yujun Zhou, Sixian Li, Wang Pan, Yue Zhao, Jieyu Zhao, Xiangliang Zhang, Xiuying Chen
@@ -1506,6 +1520,7 @@ Large language models (LLMs) are increasingly applied to socially grounded tasks
 
 ## Article 14
 ### Title@2025-05-29 (4): Neuro-symbolic Training for Reasoning over Spatial Language
+
 **Title**: Neuro-symbolic Training for Reasoning over Spatial Language | Neuro-symbolisches Training zur Vernunft über räumliche Sprache | 以空间语言为借口的神经主义培训 [2406.13828v3](http://arxiv.org/abs/2406.13828v3)
 
 **Authors**: Tanawan Premsri, Parisa Kordjamshidi
@@ -1516,6 +1531,7 @@ Spatial reasoning based on natural language expressions is essential for everyda
 
 ## Article 15
 ### Title@2025-05-29 (4): Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's   Math Capability
+
 **Title**: Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's   Math Capability | Let's Reason Formally: Natürlich-Formal Hybrid Reasoning verbessert LLMs Math Capability | 让我们正式解释一下: 自然-正规混合理由提高LLM的数学能力 [2505.23703v1](http://arxiv.org/abs/2505.23703v1)
 
 **Authors**: Ruida Wang, Yuxin Li, Yi R., Fung, Tong Zhang
@@ -1526,6 +1542,7 @@ Enhancing the mathematical reasoning capabilities of LLMs has garnered significa
 
 ## Article 16
 ### Title@2025-05-29 (4): Can LLMs Reason Abstractly Over Math Word Problems Without CoT?   Disentangling Abstract Formulation From Arithmetic Computation
+
 **Title**: Can LLMs Reason Abstractly Over Math Word Problems Without CoT?   Disentangling Abstract Formulation From Arithmetic Computation | Kann LLMs abstrakt über Math Word Probleme ohne CoT? Entwirren Abstrakte Formulierung von Arithmetik Computation | 没有 CoT,LLMs 理学原理可以抽象地克服数学词问题吗? [2505.23701v1](http://arxiv.org/abs/2505.23701v1)
 
 **Authors**: Ziling Cheng, Meng Cao, Leila Pishdad, Yanshuai Cao, Jackie Chi Kit Cheung
@@ -1536,6 +1553,7 @@ Final-answer-based metrics are commonly used for evaluating large language model
 
 ## Article 17
 ### Title@2025-05-29 (4): VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC   Videos
+
 **Title**: VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC   Videos | VF-Eval: Bewertung multimodaler LLMs zur Erzeugung von Feedback auf AIGC-Videos | VF-Eval:评价多式LLMs,以生成对AIGC视频的反馈 [2505.23693v1](http://arxiv.org/abs/2505.23693v1)
 
 **Authors**: Tingyu Song, Tongyan Hu, Guo Gan, Yilun Zhao
@@ -1546,6 +1564,7 @@ MLLMs have been widely studied for video question answering recently. However, m
 
 ## Article 18
 ### Title@2025-05-29 (4): Child-Directed Language Does Not Consistently Boost Syntax Learning in   Language Models
+
 **Title**: Child-Directed Language Does Not Consistently Boost Syntax Learning in   Language Models | Kinderorientierte Sprache fördert nicht konsequent das Syntax-Lernen in Sprachmodellen | 在语言模式中促进语法学习 [2505.23689v1](http://arxiv.org/abs/2505.23689v1)
 
 **Authors**: Francesca Padovani, Jaap Jumelet, Yevgen Matusevych, Arianna Bisazza
@@ -1556,6 +1575,7 @@ Seminal work by Huebner et al. (2021) showed that language models (LMs) trained 
 
 ## Article 19
 ### Title@2025-05-29 (4): Automatic classification of stop realisation with wav2vec2.0
+
 **Title**: Automatic classification of stop realisation with wav2vec2.0 | Automatische Klassifizierung der Stop-Umsetzung mit wav2vec2.0 | 以 wav2vec2. 0 自动分类停止实现时间 [2505.23688v1](http://arxiv.org/abs/2505.23688v1)
 
 **Authors**: James Tanner, Morgan Sonderegger, Jane Stuart-Smith, Jeff Mielke, Tyler Kendall
@@ -1566,6 +1586,7 @@ Modern phonetic research regularly makes use of automatic tools for the annotati
 
 ## Article 20
 ### Title@2025-05-29 (4): GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents
+
 **Title**: GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents | GSO: Herausfordernde Software-Optimierungsaufgaben zur Bewertung von SWE-Agenten | GSO:评估SWE-Agentics的有挑战的软件优化任务 [2505.23671v1](http://arxiv.org/abs/2505.23671v1)
 
 **Authors**: Manish Shetty, Naman Jain, Jinjian Liu, Vijay Kethanaboyina, Koushik Sen, Ion Stoica
@@ -1576,6 +1597,7 @@ Developing high-performance software is a complex task that requires specialized
 
 ## Article 21
 ### Title@2025-05-29 (4): LoLA: Low-Rank Linear Attention With Sparse Caching
+
 **Title**: LoLA: Low-Rank Linear Attention With Sparse Caching | LoLA: Low-Rank Lineare Aufmerksamkeit mit Sparse Caching | LoLA: 低兰克线性注意, 以粗糙的缓存 [2505.23666v1](http://arxiv.org/abs/2505.23666v1)
 
 **Authors**: Luke McDermott, Robert W. Heath Jr., Rahul Parhi
@@ -1586,6 +1608,7 @@ Transformer-based large language models suffer from quadratic complexity at infe
 
 ## Article 22
 ### Title@2025-05-29 (4): Multilingual Question Answering in Low-Resource Settings: A   Dzongkha-English Benchmark for Foundation Models
+
 **Title**: Multilingual Question Answering in Low-Resource Settings: A   Dzongkha-English Benchmark for Foundation Models | Mehrsprachige Frage-Antworten in Low-Resource-Einstellungen: Ein Dzongkha-Englischer Benchmark für Stiftungsmodelle | 低资源环境下的多语言问题解答:基础模型的Dzongkha-英语基准 [2505.18638v2](http://arxiv.org/abs/2505.18638v2)
 
 **Authors**: Md. Tanzib Hosain, Rajan Das Gupta, Md. Kishor Morol
@@ -1596,6 +1619,7 @@ In this work, we provide DZEN, a dataset of parallel Dzongkha and English test q
 
 ## Article 23
 ### Title@2025-05-29 (4): ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic   Long-Term Interactions
+
 **Title**: ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic   Long-Term Interactions | ToolHaystack: Stress-Testing Tool-Augmented Language Models in realistischen Langzeit-Interaktionen | 工具 Haystack:现实长期互动中的压力测试工具增强语言模式 [2505.23662v1](http://arxiv.org/abs/2505.23662v1)
 
 **Authors**: Beong-woo Kwak, Minju Kim, Dongha Lim, Hyungjoo Chae, Dongjin Kang, Sunghwan Kim, Dongil Yang, Jinyoung Yeo
@@ -1606,6 +1630,7 @@ Large language models (LLMs) have demonstrated strong capabilities in using exte
 
 ## Article 24
 ### Title@2025-05-29 (4): Active Layer-Contrastive Decoding Reduces Hallucination in Large   Language Model Generation
+
 **Title**: Active Layer-Contrastive Decoding Reduces Hallucination in Large   Language Model Generation | Aktives Layer-Kontrastives Decodieren reduziert Halluzination bei der Generierung von Großsprachenmodellen | 大型语言模式生成中活性多语言解层解码减少幻觉 [2505.23657v1](http://arxiv.org/abs/2505.23657v1)
 
 **Authors**: Hongxiang Zhang, Hao Chen, Tianyi Zhang, Muhao Chen
@@ -1616,6 +1641,7 @@ Recent decoding methods improve the factuality of large language models~(LLMs) b
 
 ## Article 25
 ### Title@2025-05-29 (4): ARC: Argument Representation and Coverage Analysis for Zero-Shot Long   Document Summarization with Instruction Following LLMs
+
 **Title**: ARC: Argument Representation and Coverage Analysis for Zero-Shot Long   Document Summarization with Instruction Following LLMs | ARC: Argumentationsdarstellungs- und Coverage-Analyse für eine Null-Shot-Lang-Dokument-Zusammenfassung mit Instruktion nach LLMs | ARC: " 零张长文件摘要 " 的参数代表性和覆盖面分析,在 " LLM " 之后指示 [2505.23654v1](http://arxiv.org/abs/2505.23654v1)
 
 **Authors**: Mohamed Elaraby, Diane Litman
@@ -1626,6 +1652,7 @@ Integrating structured information has long improved the quality of abstractive 
 
 ## Article 26
 ### Title@2025-05-29 (4): Small Language Models: Architectures, Techniques, Evaluation, Problems   and Future Adaptation
+
 **Title**: Small Language Models: Architectures, Techniques, Evaluation, Problems   and Future Adaptation | Kleine Sprachmodelle: Architekturen, Techniken, Evaluation, Probleme und zukünftige Anpassung | 小型语言模式:建筑、技术、评价、问题和未来适应 [2505.19529v2](http://arxiv.org/abs/2505.19529v2)
 
 **Authors**: Tanjil Hasan Sakib, Md. Tanzib Hosain, Md. Kishor Morol
@@ -1636,6 +1663,7 @@ Small Language Models (SLMs) have gained substantial attention due to their abil
 
 ## Article 27
 ### Title@2025-05-29 (4): Are Reasoning Models More Prone to Hallucination?
+
 **Title**: Are Reasoning Models More Prone to Hallucination? | Sind vernünftigere Modelle eher halluzinierend? | 理性模型更能让人产生幻觉吗? [2505.23646v1](http://arxiv.org/abs/2505.23646v1)
 
 **Authors**: Zijun Yao, Yantao Liu, Yanxu Chen, Jianhui Chen, Junfeng Fang, Lei Hou, Juanzi Li, Tat-Seng Chua
@@ -1646,6 +1674,7 @@ Recently evolved large reasoning models (LRMs) show powerful performance in solv
 
 ## Article 28
 ### Title@2025-05-29 (4): Position: Scaling LLM Agents Requires Asymptotic Analysis with LLM   Primitives
+
 **Title**: Position: Scaling LLM Agents Requires Asymptotic Analysis with LLM   Primitives | Position: Skalierung von LLM-Agenten erfordert asymptotische Analyse mit LLM-Primitiven | 位置: 缩放 LLM 代理需要用 LLM 原始功能进行抗药性分析 [2502.04358v2](http://arxiv.org/abs/2502.04358v2)
 
 **Authors**: Elliot Meyerson, Xin Qiu
@@ -1656,6 +1685,7 @@ Decomposing hard problems into subproblems often makes them easier and more effi
 
 ## Article 29
 ### Title@2025-05-29 (4): YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering
+
 **Title**: YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering | YESciEval: Robuster LLM-as-a-Richter für die Beantwortung wissenschaftlicher Fragen | YESciEval: 科学问题回答优异的LLM-as-a法官 [2505.14279v2](http://arxiv.org/abs/2505.14279v2)
 
 **Authors**: Jennifer D'Souza, Hamed Babaei Giglou, Quentin Münch
@@ -1666,6 +1696,7 @@ Large Language Models (LLMs) drive scientific question-answering on modern searc
 
 ## Article 30
 ### Title@2025-05-29 (4): Human Empathy as Encoder: AI-Assisted Depression Assessment in Special   Education
+
 **Title**: Human Empathy as Encoder: AI-Assisted Depression Assessment in Special   Education | Menschliche Empathie als Encoder: KI-Assisted Depression Assessment in Special Education | 人类的同情作为编码器:大赦国际协助的特殊教育中抑郁症评估 [2505.23631v1](http://arxiv.org/abs/2505.23631v1)
 
 **Authors**: Boning Zhao
@@ -1676,6 +1707,7 @@ Assessing student depression in sensitive environments like special education is
 
 ## Article 31
 ### Title@2025-05-29 (4): GeNRe: A French Gender-Neutral Rewriting System Using Collective Nouns
+
 **Title**: GeNRe: A French Gender-Neutral Rewriting System Using Collective Nouns | GeNRe: Ein französisches Gender-Neutral-Rewriting-System mit kollektiven Substantiven | GENRe:法国使用集体名词的性别-新书改写系统 [2505.23630v1](http://arxiv.org/abs/2505.23630v1)
 
 **Authors**: Enzo Doyen, Amalia Todirascu
@@ -1686,6 +1718,7 @@ A significant portion of the textual data used in the field of Natural Language 
 
 ## Article 32
 ### Title@2025-05-29 (4): AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic   Schema Induction from Web-Scale Corpora
+
 **Title**: AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic   Schema Induction from Web-Scale Corpora | AutoSchemaKG: Autonome Wissensgraphenkonstruktion durch dynamische Schemainduktion aus Web-Scale Corpora | AutoSchemaKG:通过网络规模公司动态气相引入,建立自主知识图 [2505.23628v1](http://arxiv.org/abs/2505.23628v1)
 
 **Authors**: Jiaxin Bai, Wei Fan, Qi Hu, Qing Zong, Chunyang Li, Hong Ting Tsang, Hongyu Luo, Yauwai Yim, Haoyu Huang, Xiao Zhou, Feng Qin, Tianshi Zheng, Xi Peng, Xin Yao, Huiwen Yang, Leijie Wu, Yi Ji, Gong Zhang, Renhai Chen, Yangqiu Song
@@ -1696,6 +1729,7 @@ We present AutoSchemaKG, a framework for fully autonomous knowledge graph constr
 
 ## Article 33
 ### Title@2025-05-29 (4): RULEBREAKERS: Challenging LLMs at the Crossroads between Formal Logic   and Human-like Reasoning
+
 **Title**: RULEBREAKERS: Challenging LLMs at the Crossroads between Formal Logic   and Human-like Reasoning | RULEBREAKERS: Herausfordernde LLMs an der Kreuzung zwischen formaler Logik und menschlicher Vernunft | RULEBRATIERS: 在正式逻辑和类似人类的理由之间的十字路口挑战LLMS [2410.16502v2](http://arxiv.org/abs/2410.16502v2)
 
 **Authors**: Jason Chan, Robert Gaizauskas, Zhixue Zhao
@@ -1706,6 +1740,7 @@ Formal logic enables computers to reason in natural language by representing sen
 
 ## Article 34
 ### Title@2025-05-29 (4): Characterizing the Expressivity of Transformer Language Models
+
 **Title**: Characterizing the Expressivity of Transformer Language Models | Charakterisierung der Expressivität von Transformer-Sprachmodellen | 描述变换语言模式的表达性 [2505.23623v1](http://arxiv.org/abs/2505.23623v1)
 
 **Authors**: Jiaoda Li, Ryan Cotterell
@@ -1716,6 +1751,7 @@ Transformer-based language models (LMs) have achieved widespread empirical succe
 
 ## Article 35
 ### Title@2025-05-29 (4): Table-R1: Inference-Time Scaling for Table Reasoning
+
 **Title**: Table-R1: Inference-Time Scaling for Table Reasoning | Tabelle-R1: Inferenz-Zeit-Skalierung für Tabellenveranlagung | 表-R1:表格理由推理的推断时间尺度 [2505.23621v1](http://arxiv.org/abs/2505.23621v1)
 
 **Authors**: Zheyuan Yang, Lyuhao Chen, Arman Cohan, Yilun Zhao
@@ -1726,6 +1762,7 @@ In this work, we present the first study to explore inference-time scaling on ta
 
 ## Article 36
 ### Title@2025-05-29 (4): EXIT: Context-Aware Extractive Compression for Enhancing   Retrieval-Augmented Generation
+
 **Title**: EXIT: Context-Aware Extractive Compression for Enhancing   Retrieval-Augmented Generation | EXIT: Context-Aware Extractive Compression zur Verbesserung der Retrieval-Augmented Generation | EXIT: 为加强回流-提款一代而实行的背景软件抽取压缩 [2412.12559v3](http://arxiv.org/abs/2412.12559v3)
 
 **Authors**: Taeho Hwang, Sukmin Cho, Soyeong Jeong, Hoyun Song, SeungYoon Han, Jong C. Park
@@ -1736,6 +1773,7 @@ We introduce EXIT, an extractive context compression framework that enhances bot
 
 ## Article 37
 ### Title@2025-05-29 (4): Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software   Engineering
+
 **Title**: Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software   Engineering | Satori-SWE: Evolutionäre Test-Zeit-Skalierung für probeneffiziente Software-Engineering | Satori-SWE:样本高效软件工程的进化测试-时间尺度 [2505.23604v1](http://arxiv.org/abs/2505.23604v1)
 
 **Authors**: Guangtao Zeng, Maohao Shen, Delin Chen, Zhenting Qi, Subhro Das, Dan Gutfreund, David Cox, Gregory Wornell, Wei Lu, Zhang-Wei Hong, Chuang Gan
@@ -1746,6 +1784,7 @@ Language models (LMs) perform well on standardized coding benchmarks but struggl
 
 ## Article 38
 ### Title@2025-05-29 (4): STeCa: Step-level Trajectory Calibration for LLM Agent Learning
+
 **Title**: STeCa: Step-level Trajectory Calibration for LLM Agent Learning | STeCa: Schritt-Level-Trajektorienkalibrierung für LLM Agent Learning | STeCa:LLM代理学习的职级轨迹校准 [2502.14276v2](http://arxiv.org/abs/2502.14276v2)
 
 **Authors**: Hanlin Wang, Jian Wang, Chak Tou Leong, Wenjie Li
@@ -1756,6 +1795,7 @@ Large language model (LLM)-based agents have shown promise in tackling complex t
 
 ## Article 39
 ### Title@2025-05-29 (4): X-TURING: Towards an Enhanced and Efficient Turing Test for Long-Term   Dialogue Agents
+
 **Title**: X-TURING: Towards an Enhanced and Efficient Turing Test for Long-Term   Dialogue Agents | X-TURING: Auf dem Weg zu einem verbesserten und effizienten Turing-Test für Langzeit-Dialogagenten | XTurning:争取对长期对话代理机构进行强化和高效率的图示测试 [2408.09853v2](http://arxiv.org/abs/2408.09853v2)
 
 **Authors**: Weiqi Wu, Hongqiu Wu, Hai Zhao
@@ -1766,6 +1806,7 @@ The Turing test examines whether AIs exhibit human-like behaviour in natural lan
 
 ## Article 40
 ### Title@2025-05-29 (4): Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with   Jigsaw Puzzles
+
 **Title**: Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with   Jigsaw Puzzles | Jigsaw-R1: Eine Studie über regelbasiertes Visuelles Verstärkungslernen mit Puzzle-Puzzles | Jigsaw-R1:用Jigsaw谜语进行基于规则的视觉强化学习研究 [2505.23590v1](http://arxiv.org/abs/2505.23590v1)
 
 **Authors**: Zifu Wang, Junyi Zhu, Bo Tang, Zhiyu Li, Feiyu Xiong, Jiaqian Yu, Matthew B. Blaschko
@@ -1776,6 +1817,7 @@ The application of rule-based reinforcement learning (RL) to multimodal large la
 
 ## Article 41
 ### Title@2025-05-29 (4): On-Policy RL with Optimal Reward Baseline
+
 **Title**: On-Policy RL with Optimal Reward Baseline | On-Policy RL mit optimaler Prämienbasis | 具有最佳回报基准的 政策性RL [2505.23585v1](http://arxiv.org/abs/2505.23585v1)
 
 **Authors**: Yaru Hao, Li Dong, Xun Wu, Shaohan Huang, Zewen Chi, Furu Wei
@@ -1786,6 +1828,7 @@ Reinforcement learning algorithms are fundamental to align large language models
 
 ## Article 42
 ### Title@2025-05-29 (4): Multi-Domain Explainability of Preferences
+
 **Title**: Multi-Domain Explainability of Preferences | Multi-Domain-Erklärbarkeit von Präferenzen | 优惠的多功能可解释性 [2505.20088v2](http://arxiv.org/abs/2505.20088v2)
 
 **Authors**: Nitay Calderon, Liat Ein-Dor, Roi Reichart
@@ -1796,6 +1839,7 @@ Preference mechanisms, such as human preference, LLM-as-a-Judge (LaaJ), and rewa
 
 ## Article 43
 ### Title@2025-05-29 (4): Evaluating AI capabilities in detecting conspiracy theories on YouTube
+
 **Title**: Evaluating AI capabilities in detecting conspiracy theories on YouTube | Bewertung von KI-Fähigkeiten bei der Entdeckung von Verschwörungstheorien auf YouTube | 评价大赦国际在YouTube上发现阴谋论的能力 [2505.23570v1](http://arxiv.org/abs/2505.23570v1)
 
 **Authors**: Leonardo La Rocca, Francesco Corso, Francesco Pierri
@@ -1806,6 +1850,7 @@ As a leading online platform with a vast global audience, YouTube's extensive re
 
 ## Article 44
 ### Title@2025-05-29 (4): Segment Policy Optimization: Effective Segment-Level Credit Assignment   in RL for Large Language Models
+
 **Title**: Segment Policy Optimization: Effective Segment-Level Credit Assignment   in RL for Large Language Models | Segment Policy Optimization: Effektive Segment-Level-Kreditvergabe in RL für große Sprachmodelle | 政策优化优化:大语言模式RL中有效的分部一级信用分配 [2505.23564v1](http://arxiv.org/abs/2505.23564v1)
 
 **Authors**: Yiran Guo, Lijie Xu, Jie Liu, Dan Ye, Shuang Qiu
@@ -1816,6 +1861,7 @@ Enhancing the reasoning capabilities of large language models effectively using 
 
 ## Article 45
 ### Title@2025-05-29 (4): LEXam: Benchmarking Legal Reasoning on 340 Law Exams
+
 **Title**: LEXam: Benchmarking Legal Reasoning on 340 Law Exams | LEXam: Benchmarking der rechtlichen Begründung von 340 Rechtsprüfungen | LEXam:340项法律考试的法律依据基准 [2505.12864v2](http://arxiv.org/abs/2505.12864v2)
 
 **Authors**: Yu Fan, Jingwei Ni, Jakob Merane, Etienne Salimbeni, Yang Tian, Yoan Hermstrüwer, Yinya Huang, Mubashara Akhtar, Florian Geering, Oliver Dreyer, Daniel Brunner, Markus Leippold, Mrinmaya Sachan, Alexander Stremitzer, Christoph Engel, Elliott Ash, Joel Niklaus
@@ -1826,6 +1872,7 @@ Long-form legal reasoning remains a key challenge for large language models (LLM
 
 ## Article 46
 ### Title@2025-05-29 (4): Understanding Refusal in Language Models with Sparse Autoencoders
+
 **Title**: Understanding Refusal in Language Models with Sparse Autoencoders | Ablehnung in Sprachmodellen mit Sparse Autoencodern verstehen | 使用 sparse 自动解析器理解语言模式中的拒绝拒绝模式 [2505.23556v1](http://arxiv.org/abs/2505.23556v1)
 
 **Authors**: Wei Jie Yeo, Nirmalendu Prakash, Clement Neo, Roy Ka-Wei Lee, Erik Cambria, Ranjan Satapathy
@@ -1836,6 +1883,7 @@ Refusal is a key safety behavior in aligned language models, yet the internal me
 
 ## Article 47
 ### Title@2025-05-29 (4): Enhancing Automated Interpretability with Output-Centric Feature   Descriptions
+
 **Title**: Enhancing Automated Interpretability with Output-Centric Feature   Descriptions | Verbesserte Automatisierte Dolmetschbarkeit mit Output-Centric-Feature-Beschreibungen | 加强自动解释与产出中心特点描述的可解释性 [2501.08319v2](http://arxiv.org/abs/2501.08319v2)
 
 **Authors**: Yoav Gur-Arieh, Roy Mayan, Chen Agassy, Atticus Geiger, Mor Geva
@@ -1846,6 +1894,7 @@ Automated interpretability pipelines generate natural language descriptions for 
 
 ## Article 48
 ### Title@2025-05-29 (4): Translation in the Wild
+
 **Title**: Translation in the Wild | Übersetzung in der Wildnis | 《野生》翻译 [2505.23548v1](http://arxiv.org/abs/2505.23548v1)
 
 **Authors**: Yuri Balashov
@@ -1856,6 +1905,7 @@ Large Language Models (LLMs) excel in translation among other things, demonstrat
 
 ## Article 49
 ### Title@2025-05-29 (4): Probability-Consistent Preference Optimization for Enhanced LLM   Reasoning
+
 **Title**: Probability-Consistent Preference Optimization for Enhanced LLM   Reasoning | Wahrscheinlichkeitskonsistente Preference-Optimierung für verbesserte LLM-Reasoning | 增强 LLM 理由说明的优化 [2505.23540v1](http://arxiv.org/abs/2505.23540v1)
 
 **Authors**: Yunqiao Yang, Houxing Ren, Zimu Lu, Ke Wang, Weikang Shi, Aojun Zhou, Junting Pan, Mingjie Zhan, Hongsheng Li
@@ -1866,6 +1916,7 @@ Recent advances in preference optimization have demonstrated significant potenti
 
 ## Article 50
 ### Title@2025-05-29 (4): Fast Large Language Model Collaborative Decoding via Speculation
+
 **Title**: Fast Large Language Model Collaborative Decoding via Speculation | Schnelles Large Language Model Kollaboratives Decodieren über Spekulation | 通过投机进行快速大语言合作示范模式 [2502.01662v2](http://arxiv.org/abs/2502.01662v2)
 
 **Authors**: Jiale Fu, Yuchu Jiang, Junkai Chen, Jiaming Fan, Xin Geng, Xu Yang
@@ -1876,6 +1927,7 @@ Large Language Model (LLM) collaborative decoding techniques improve output qual
 
 ## Article 51
 ### Title@2025-05-29 (4): CLaC at SemEval-2025 Task 6: A Multi-Architecture Approach for Corporate   Environmental Promise Verification
+
 **Title**: CLaC at SemEval-2025 Task 6: A Multi-Architecture Approach for Corporate   Environmental Promise Verification | CLaC bei SemEval-2025 Task 6: Ein Multi-Architektur-Ansatz für die Verifikation von Unternehmensumweltversprechen | SemEval-2025任务6:公司环境承诺核查的多建筑方法 [2505.23538v1](http://arxiv.org/abs/2505.23538v1)
 
 **Authors**: Nawar Turk, Eeham Khan, Leila Kosseim
@@ -1886,6 +1938,7 @@ This paper presents our approach to the SemEval-2025 Task~6 (PromiseEval), which
 
 ## Article 52
 ### Title@2025-05-29 (4): Domain-Aware Tensor Network Structure Search
+
 **Title**: Domain-Aware Tensor Network Structure Search | Domain-Aware Tensor Netzwerkstruktur Suche | 域- 软件显示器网络网络结构搜索 [2505.23537v1](http://arxiv.org/abs/2505.23537v1)
 
 **Authors**: Giorgos Iacovides, Wuyang Zhou, Chao Li, Qibin Zhao, Danilo Mandic
@@ -1896,6 +1949,7 @@ Tensor networks (TNs) provide efficient representations of high-dimensional data
 
 ## Article 53
 ### Title@2025-05-29 (4): Joint Localization and Activation Editing for Low-Resource Fine-Tuning
+
 **Title**: Joint Localization and Activation Editing for Low-Resource Fine-Tuning | Gemeinsame Lokalisierungs- und Aktivierungsbearbeitung für Low-Resource Fine-Tuning | 低资源微调联合定位和启动编辑 [2502.01179v4](http://arxiv.org/abs/2502.01179v4)
 
 **Authors**: Wen Lai, Alexander Fraser, Ivan Titov
@@ -1906,6 +1960,7 @@ Parameter-efficient fine-tuning (PEFT) methods, such as LoRA, are commonly used 
 
 ## Article 54
 ### Title@2025-05-29 (4): Towards Logically Sound Natural Language Reasoning with Logic-Enhanced   Language Model Agents
+
 **Title**: Towards Logically Sound Natural Language Reasoning with Logic-Enhanced   Language Model Agents | Auf dem Weg zu logisch klingender natürlicher Sprache mit logisch-erweiterten Sprachmodell-Agenten | 与逻辑增强语言示范代理商一道,争取实现逻辑合理自然语言合理 [2408.16081v2](http://arxiv.org/abs/2408.16081v2)
 
 **Authors**: Agnieszka Mensfelt, Kostas Stathis, Vince Trencsenyi
@@ -1916,6 +1971,7 @@ Large language models (LLMs) are increasingly explored as general-purpose reason
 
 ## Article 55
 ### Title@2025-05-29 (4): Hijacking Large Language Models via Adversarial In-Context Learning
+
 **Title**: Hijacking Large Language Models via Adversarial In-Context Learning | Entführen von großen Sprachmodellen über das adversarische In-Context-Lernen | 通过对抗性内书学习劫持大语言模式 [2311.09948v3](http://arxiv.org/abs/2311.09948v3)
 
 **Authors**: Xiangyu Zhou, Yao Qiang, Saleh Zare Zade, Prashant Khanduri, Dongxiao Zhu
@@ -1926,6 +1982,7 @@ In-context learning (ICL) has emerged as a powerful paradigm leveraging LLMs for
 
 ## Article 56
 ### Title@2025-05-29 (4): Identity resolution of software metadata using Large Language Models
+
 **Title**: Identity resolution of software metadata using Large Language Models | Identitätsauflösung von Software-Metadaten mit großen Sprachmodellen | 使用大语言模式的软件元数据的识别分辨率 [2505.23500v1](http://arxiv.org/abs/2505.23500v1)
 
 **Authors**: Eva Martín del Pico, Josep Lluís Gelpí, Salvador Capella-Gutiérrez
@@ -1936,6 +1993,7 @@ Software is an essential component of research. However, little attention has be
 
 ## Article 57
 ### Title@2025-05-29 (4): Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More   Reliable Benchmarking
+
 **Title**: Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More   Reliable Benchmarking | Diagnose und Bewältigung von Pitfalls in KG-RAG-Datensätzen: Zu zuverlässigerem Benchmarking | 分析和处理KG-RAG数据集的缺陷:争取更可靠的基准 [2505.23495v1](http://arxiv.org/abs/2505.23495v1)
 
 **Authors**: Liangliang Zhang, Zhuorui Jiang, Hongliang Chi, Haoyang Chen, Mohammed Elkoumy, Fali Wang, Qiong Wu, Zhengyi Zhou, Shirui Pan, Suhang Wang, Yao Ma
@@ -1946,6 +2004,7 @@ Knowledge Graph Question Answering (KGQA) systems rely on high-quality benchmark
 
 ## Article 58
 ### Title@2025-05-29 (4): Spoken Language Modeling with Duration-Penalized Self-Supervised Units
+
 **Title**: Spoken Language Modeling with Duration-Penalized Self-Supervised Units | Gesprochene Sprachmodellierung mit Dauer-Penalisierten Selbstüberwachten Einheiten | 长期惩罚性自督单位的口语模拟模式 [2505.23494v1](http://arxiv.org/abs/2505.23494v1)
 
 **Authors**: Nicol Visser, Herman Kamper
@@ -1956,6 +2015,7 @@ Spoken language models (SLMs) operate on acoustic units obtained by discretizing
 
 ## Article 59
 ### Title@2025-05-29 (4): R2I-Bench: Benchmarking Reasoning-Driven Text-to-Image Generation
+
 **Title**: R2I-Bench: Benchmarking Reasoning-Driven Text-to-Image Generation | R2I-Bench: Benchmarking Reasoning-Driven Text-to-Image Generation | R2I-Bench: 基准推理-驱动生成文本到图像 [2505.23493v1](http://arxiv.org/abs/2505.23493v1)
 
 **Authors**: Kaijie Chen, Zihao Lin, Zhiyang Xu, Ying Shen, Yuguang Yao, Joy Rimchala, Jiaxin Zhang, Lifu Huang
@@ -1966,6 +2026,7 @@ Reasoning is a fundamental capability often required in real-world text-to-image
 
 ## Article 60
 ### Title@2025-05-29 (4): Learning to Poison Large Language Models for Downstream Manipulation
+
 **Title**: Learning to Poison Large Language Models for Downstream Manipulation | Große Sprachmodelle für Downstream-Manipulation zu vergiften | 学习下游操作毒物大语言模式 [2402.13459v3](http://arxiv.org/abs/2402.13459v3)
 
 **Authors**: Xiangyu Zhou, Yao Qiang, Saleh Zare Zade, Mohammad Amin Roshani, Prashant Khanduri, Douglas Zytko, Dongxiao Zhu
@@ -1976,6 +2037,7 @@ The advent of Large Language Models (LLMs) has marked significant achievements i
 
 ## Article 61
 ### Title@2025-05-29 (4): Understanding In-Context Machine Translation for Low-Resource Languages:   A Case Study on Manchu
+
 **Title**: Understanding In-Context Machine Translation for Low-Resource Languages:   A Case Study on Manchu | In-Context Machine Translation für Low-Resource-Sprachen verstehen: Eine Fallstudie zu Mandschu | 理解低资源语言的文内机翻译:关于满字的个案研究 [2502.11862v2](http://arxiv.org/abs/2502.11862v2)
 
 **Authors**: Renhao Pei, Yihong Liu, Peiqin Lin, François Yvon, Hinrich Schütze
@@ -1986,6 +2048,7 @@ In-context machine translation (MT) with large language models (LLMs) is a promi
 
 ## Article 62
 ### Title@2025-05-29 (4): Firm or Fickle? Evaluating Large Language Models Consistency in   Sequential Interactions
+
 **Title**: Firm or Fickle? Evaluating Large Language Models Consistency in   Sequential Interactions | Firm oder Fickle? Bewertung großer Sprachmodelle Konsistenz in sequenziellen Interaktionen | 公司或Fickle?评估大语言模型在序列相互作用中的一致性 [2503.22353v2](http://arxiv.org/abs/2503.22353v2)
 
 **Authors**: Yubo Li, Yidi Miao, Xueying Ding, Ramayya Krishnan, Rema Padman
@@ -1996,6 +2059,7 @@ Large Language Models (LLMs) have shown remarkable capabilities across various t
 
 ## Article 63
 ### Title@2025-05-29 (4): Revisiting Overthinking in Long Chain-of-Thought from the Perspective of   Self-Doubt
+
 **Title**: Revisiting Overthinking in Long Chain-of-Thought from the Perspective of   Self-Doubt | Überdenken in der langen Kette des Denkens aus der Perspektive des Selbstzweifels | 从自杜卜特的视角重新思考长期思维链中的过度思考问题 [2505.23480v1](http://arxiv.org/abs/2505.23480v1)
 
 **Authors**: Keqin Peng, Liang Ding, Yuanxin Ouyang, Meng Fang, Dacheng Tao
@@ -2006,6 +2070,7 @@ Reasoning Large Language Models (RLLMs) have demonstrated impressive performance
 
 ## Article 64
 ### Title@2025-05-29 (4): Evaluating the performance and fragility of large language models on the   self-assessment for neurological surgeons
+
 **Title**: Evaluating the performance and fragility of large language models on the   self-assessment for neurological surgeons | Bewertung der Leistungsfähigkeit und Fragilität großer Sprachmodelle auf der Selbsteinschätzung für neurologische Chirurgen | 评价神经外科医生自我评估大语言模型的性能和脆弱性 [2505.23477v1](http://arxiv.org/abs/2505.23477v1)
 
 **Authors**: Krithik Vishwanath, Anton Alyakin, Mrigayu Ghosh, Jin Vivian Lee, Daniel Alexander Alber, Karl L. Sangwon, Douglas Kondziolka, Eric Karl Oermann
@@ -2016,6 +2081,7 @@ The Congress of Neurological Surgeons Self-Assessment for Neurological Surgeons 
 
 ## Article 65
 ### Title@2025-05-29 (4): Socratic-PRMBench: Benchmarking Process Reward Models with Systematic   Reasoning Patterns
+
 **Title**: Socratic-PRMBench: Benchmarking Process Reward Models with Systematic   Reasoning Patterns | Scratic-PRMBench: Benchmarking-Prozess-Reward-Modelle mit systematischen Begründungsmustern | Scorti-PRMBench:有系统说明理由模式的基准进程奖励模式 [2505.23474v1](http://arxiv.org/abs/2505.23474v1)
 
 **Authors**: Xiang Li, Haiyang Yu, Xinghua Zhang, Ziyang Huang, Shizhu He, Kang Liu, Jun Zhao, Fei Huang, Yongbin Li
@@ -2026,6 +2092,7 @@ Process Reward Models (PRMs) are crucial in complex reasoning and problem-solvin
 
 ## Article 66
 ### Title@2025-05-29 (4): BenchmarkCards: Large Language Model and Risk Reporting
+
 **Title**: BenchmarkCards: Large Language Model and Risk Reporting | BenchmarkCards: Großes Sprachmodell und Risikoberichterstattung | 基准目录:大语言模式和风险报告 [2410.12974v2](http://arxiv.org/abs/2410.12974v2)
 
 **Authors**: Anna Sokol, Elizabeth Daly, Michael Hind, David Piorkowski, Xiangliang Zhang, Nuno Moniz, Nitesh Chawla
@@ -2036,6 +2103,7 @@ Large language models (LLMs) are powerful tools capable of handling diverse task
 
 ## Article 67
 ### Title@2025-05-29 (4): Agentic Knowledgeable Self-awareness
+
 **Title**: Agentic Knowledgeable Self-awareness | Agentisch sachkundiges Selbstbewußtsein | A. 动态知识自觉意识 [2504.03553v2](http://arxiv.org/abs/2504.03553v2)
 
 **Authors**: Shuofei Qiao, Zhisong Qiu, Baochang Ren, Xiaobin Wang, Xiangyuan Ru, Ningyu Zhang, Xiang Chen, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen
@@ -2046,6 +2114,7 @@ Large Language Models (LLMs) have achieved considerable performance across vario
 
 ## Article 68
 ### Title@2025-05-29 (4): UAQFact: Evaluating Factual Knowledge Utilization of LLMs on   Unanswerable Questions
+
 **Title**: UAQFact: Evaluating Factual Knowledge Utilization of LLMs on   Unanswerable Questions | UAQFact: Bewertung der tatsächlichen Wissensnutzung von LLMs auf unbeantwortbaren Fragen | UAQFact:评估关于无法回答问题LLMs的实情知识利用情况 [2505.23461v1](http://arxiv.org/abs/2505.23461v1)
 
 **Authors**: Chuanyuan Tan, Wenbiao Shao, Hao Xiong, Tong Zhu, Zhenhua Liu, Kai Shi, Wenliang Chen
@@ -2056,6 +2125,7 @@ Handling unanswerable questions (UAQ) is crucial for LLMs, as it helps prevent m
 
 ## Article 69
 ### Title@2025-05-29 (4): Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language   Models
+
 **Title**: Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language   Models | Teilen und Erobern: Eine hybride Strategie besiegt multimodale große Sprachmodelle | 差异和征服:混合战略失败 多种多模式大语言模式 [2412.16555v3](http://arxiv.org/abs/2412.16555v3)
 
 **Authors**: Yanxu Mao, Peipei Liu, Tiehan Cui, Zhaoteng Yan, Congying Liu, Datao You
@@ -2066,6 +2136,7 @@ Large language models (LLMs) are widely applied in various fields of society due
 
 ## Article 70
 ### Title@2025-05-29 (4): GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training   for LLMs On-Device Fine-tuning
+
 **Title**: GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training   for LLMs On-Device Fine-tuning | GSQ-Tuning: Group-Shared Exponents integer in einer voll quantifizierten Schulung für LLMs On-Device-Fine-Tuning | GSQ-Turning:为在线设计精微调LLM女士提供全面量化培训的集团共享指数整数 [2502.12913v3](http://arxiv.org/abs/2502.12913v3)
 
 **Authors**: Sifan Zhou, Shuo Wang, Zhihang Yuan, Mingjia Shi, Yuzhang Shang, Dawei Yang
@@ -2076,6 +2147,7 @@ Large Language Models (LLMs) fine-tuning technologies have achieved remarkable r
 
 ## Article 71
 ### Title@2025-05-29 (4): CodePMP: Scalable Preference Model Pretraining for Large Language Model   Reasoning
+
 **Title**: CodePMP: Scalable Preference Model Pretraining for Large Language Model   Reasoning | CodePMP: Skalierbares Präferenzmodell Vorschulung für großsprachliche Modellaufklärung | 守则PMP:可缩放的特惠模式大语言示范理由预培训模式 [2410.02229v2](http://arxiv.org/abs/2410.02229v2)
 
 **Authors**: Huimu Yu, Xing Wu, Haotian Xu, Debing Zhang, Songlin Hu
@@ -2086,6 +2158,7 @@ Large language models (LLMs) have made significant progress in natural language 
 
 ## Article 72
 ### Title@2025-05-29 (4): Rethinking Regularization Methods for Knowledge Graph Completion
+
 **Title**: Rethinking Regularization Methods for Knowledge Graph Completion | Überdenken von Regularisierungsmethoden für Wissensgraphenvervollständigung | 重新思考知识图完成正规化方法 [2505.23442v1](http://arxiv.org/abs/2505.23442v1)
 
 **Authors**: Linyu Li, Zhi Jin, Yuanpeng He, Dongming Jin, Haoran Duan, Zhengwei Tao, Xuan Zhang, Jiandong Li
@@ -2096,6 +2169,7 @@ Knowledge graph completion (KGC) has attracted considerable attention in recent 
 
 ## Article 73
 ### Title@2025-05-29 (4): DeepSeek vs. o3-mini: How Well can Reasoning LLMs Evaluate MT and   Summarization?
+
 **Title**: DeepSeek vs. o3-mini: How Well can Reasoning LLMs Evaluate MT and   Summarization? | DeepSeek vs. o3-mini: Wie gut können LLMs mit Vernunft bewerten MT und Zusammenfassung? | DeepSeek对 o3-min:如何合理解释LLMs评价MT和总结? [2504.08120v2](http://arxiv.org/abs/2504.08120v2)
 
 **Authors**: Daniil Larionov, Sotaro Takeshita, Ran Zhang, Yanran Chen, Christoph Leiter, Zhipin Wang, Christian Greisinger, Steffen Eger
@@ -2106,6 +2180,7 @@ Reasoning-enabled large language models (LLMs) excel in logical tasks, yet their
 
 ## Article 74
 ### Title@2025-05-29 (4): LLM as Effective Streaming Processor: Bridging Streaming-Batch   Mismatches with Group Position Encoding
+
 **Title**: LLM as Effective Streaming Processor: Bridging Streaming-Batch   Mismatches with Group Position Encoding | LLM als Effektiver Streaming-Prozessor: Überbrückung von Streaming-Batch-Mismatches mit Gruppenpositionskodierung | LLM 有效流化处理程序: 将流流-批量错误与群居位置编码连接起来 [2505.16983v2](http://arxiv.org/abs/2505.16983v2)
 
 **Authors**: Junlong Tong, Jinlan Fu, Zixuan Lin, Yingqi Fan, Anhao Zhao, Hui Su, Xiaoyu Shen
@@ -2116,6 +2191,7 @@ Large Language Models (LLMs) are primarily designed for batch processing. Existi
 
 ## Article 75
 ### Title@2025-05-29 (4): SPRI: Aligning Large Language Models with Context-Situated Principles
+
 **Title**: SPRI: Aligning Large Language Models with Context-Situated Principles | SPRI: Ausrichtung großer Sprachmodelle mit kontext-situierten Prinzipien | SPRI:使大语言模式与上下文原则相一致 [2502.03397v2](http://arxiv.org/abs/2502.03397v2)
 
 **Authors**: Hongli Zhan, Muneeza Azmat, Raya Horesh, Junyi Jessy Li, Mikhail Yurochkin
@@ -2126,6 +2202,7 @@ Aligning Large Language Models to integrate and reflect human values, especially
 
 ## Article 76
 ### Title@2025-05-29 (4): DynaCode: A Dynamic Complexity-Aware Code Benchmark for Evaluating Large   Language Models in Code Generation
+
 **Title**: DynaCode: A Dynamic Complexity-Aware Code Benchmark for Evaluating Large   Language Models in Code Generation | DynaCode: Dynamischer Code Benchmark für die Bewertung großer Sprachmodelle in der Codegenerierung | DynCode:在代码生成过程中评价大语言模型的动态复杂度-软件编码基准 [2503.10452v2](http://arxiv.org/abs/2503.10452v2)
 
 **Authors**: Wenhao Hu, Jinhao Duan, Chunchen Wei, Li Zhang, Yue Zhang, Kaidi Xu
@@ -2136,6 +2213,7 @@ The rapid advancement of large language models (LLMs) has significantly improved
 
 ## Article 77
 ### Title@2025-05-29 (4): Sample-Efficient Human Evaluation of Large Language Models via Maximum   Discrepancy Competition
+
 **Title**: Sample-Efficient Human Evaluation of Large Language Models via Maximum   Discrepancy Competition | Probeneffiziente menschliche Bewertung großer Sprachmodelle durch maximalen Diskrepanzwettbewerb | 通过最大差异竞争对大语言模式进行抽样有效人力评价 [2404.08008v2](http://arxiv.org/abs/2404.08008v2)
 
 **Authors**: Kehua Feng, Keyan Ding, Hongzhi Tan, Kede Ma, Zhihua Wang, Shuangquan Guo, Yuzhou Cheng, Ge Sun, Guozhou Zheng, Qiang Zhang, Huajun Chen
@@ -2146,6 +2224,7 @@ Reliable evaluation of large language models (LLMs) is impeded by two key challe
 
 ## Article 78
 ### Title@2025-05-29 (4): The Warmup Dilemma: How Learning Rate Strategies Impact Speech-to-Text   Model Convergence
+
 **Title**: The Warmup Dilemma: How Learning Rate Strategies Impact Speech-to-Text   Model Convergence | Das Warmup-Dilemma: Wie sich Lernratenstrategien auf die Konvergenz von Sprach-Text-Modellen auswirken | 暖化困境:学习速率战略如何影响演讲到文字模式模式汇合 [2505.23420v1](http://arxiv.org/abs/2505.23420v1)
 
 **Authors**: Marco Gaido, Sara Papi, Luisa Bentivogli, Alessio Brutti, Mauro Cettolo, Roberto Gretter, Marco Matassoni, Mohamed Nabih, Matteo Negri
@@ -2156,6 +2235,7 @@ Training large-scale models presents challenges not only in terms of resource re
 
 ## Article 79
 ### Title@2025-05-29 (4): SWE-bench Goes Live!
+
 **Title**: SWE-bench Goes Live! | SWE-Bench geht live! | SWE -BECHE GOES 现场直播! [2505.23419v1](http://arxiv.org/abs/2505.23419v1)
 
 **Authors**: Linghao Zhang, Shilin He, Chaoyun Zhang, Yu Kang, Bowen Li, Chengxing Xie, Junhao Wang, Maoquan Wang, Yufan Huang, Shengyu Fu, Elsie Nallipogu, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, Dongmei Zhang
@@ -2166,6 +2246,7 @@ The issue-resolving task, where a model generates patches to fix real-world bugs
 
 ## Article 80
 ### Title@2025-05-29 (4): On-Device Collaborative Language Modeling via a Mixture of Generalists   and Specialists
+
 **Title**: On-Device Collaborative Language Modeling via a Mixture of Generalists   and Specialists | On-Device Collaborative Language Modeling über eine Mischung aus Generalisten und Spezialisten | 通过通识主义者和专家混合组合的在线合作语言建模 [2409.13931v4](http://arxiv.org/abs/2409.13931v4)
 
 **Authors**: Dongyang Fan, Bettina Messmer, Nikita Doikov, Martin Jaggi
@@ -2176,6 +2257,7 @@ On-device LLMs have gained increasing attention for their ability to enhance pri
 
 ## Article 81
 ### Title@2025-05-29 (4): LLMs Can Achieve High-quality Simultaneous Machine Translation as   Efficiently as Offline
+
 **Title**: LLMs Can Achieve High-quality Simultaneous Machine Translation as   Efficiently as Offline | LLMs können qualitativ hochwertige Simultane Machine Translation so effizient wie Offline erreichen | LLM Can 能够像离线那样高效率地实现高质量同声机翻译 [2504.09570v2](http://arxiv.org/abs/2504.09570v2)
 
 **Authors**: Biao Fu, Minpeng Liao, Kai Fan, Chengxi Li, Liang Zhang, Yidong Chen, Xiaodong Shi
@@ -2186,6 +2268,7 @@ When the complete source sentence is provided, Large Language Models (LLMs) perf
 
 ## Article 82
 ### Title@2025-05-29 (4): From Parameters to Prompts: Understanding and Mitigating the Factuality   Gap between Fine-Tuned LLMs
+
 **Title**: From Parameters to Prompts: Understanding and Mitigating the Factuality   Gap between Fine-Tuned LLMs | Von Parametern zu Prompts: Den Factuality Gap zwischen fein getunen LLMs verstehen und abschwächen | 从参数到提示:了解并缩小微量贷款商之间的实际质量差距 [2505.23410v1](http://arxiv.org/abs/2505.23410v1)
 
 **Authors**: Xuan Gong, Hanbo Huang, Shiyu Liang
@@ -2196,6 +2279,7 @@ Factual knowledge extraction aims to explicitly extract knowledge parameterized 
 
 ## Article 83
 ### Title@2025-05-29 (4): EFIM: Efficient Serving of LLMs for Infilling Tasks with Improved KV   Cache Reuse
+
 **Title**: EFIM: Efficient Serving of LLMs for Infilling Tasks with Improved KV   Cache Reuse | EFIM: Effizientes Servieren von LLMs zur Erfüllung von Aufgaben mit verbesserter KV Cache Reuse | EFIM:以改进的KV缓存再利用高效率地为完成任务的LLMs服务 [2505.21889v2](http://arxiv.org/abs/2505.21889v2)
 
 **Authors**: Tianyu Guo, Hande Dong, Yichong Leng, Feng Liu, Cheater Lin, Nong Xiao, Xianwei Zhang
@@ -2206,6 +2290,7 @@ Large language models (LLMs) are often used for infilling tasks, which involve p
 
 ## Article 84
 ### Title@2025-05-29 (4): VietASR: Achieving Industry-level Vietnamese ASR with 50-hour labeled   data and Large-Scale Speech Pretraining
+
 **Title**: VietASR: Achieving Industry-level Vietnamese ASR with 50-hour labeled   data and Large-Scale Speech Pretraining | VietASR: Erzielen von vietnamesischen ASR auf Branchenebene mit 50-Stunden-Daten und großformatigen Sprachvorschulungen | 越南:在越南工业一级实现有50小时标签数据和大型演讲预科培训的有50小时标签的数据的越南ASR [2505.21527v2](http://arxiv.org/abs/2505.21527v2)
 
 **Authors**: Jianheng Zhuo, Yifan Yang, Yiwen Shao, Yong Xu, Dong Yu, Kai Yu, Xie Chen
@@ -2216,6 +2301,7 @@ Automatic speech recognition (ASR) has made remarkable progress but heavily reli
 
 ## Article 85
 ### Title@2025-05-29 (4): Adaptive Jailbreaking Strategies Based on the Semantic Understanding   Capabilities of Large Language Models
+
 **Title**: Adaptive Jailbreaking Strategies Based on the Semantic Understanding   Capabilities of Large Language Models | Adaptive Jailbreaking-Strategien basierend auf dem semantischen Verständnis von Fähigkeiten großer Sprachmodelle | 基于大语言模型的语义理解能力 [2505.23404v1](http://arxiv.org/abs/2505.23404v1)
 
 **Authors**: Mingyu Yu, Wei Wang, Yanjie Wei, Sujuan Qin
@@ -2226,6 +2312,7 @@ Adversarial attacks on Large Language Models (LLMs) via jailbreaking techniques-
 
 ## Article 86
 ### Title@2025-05-29 (4): Re-ranking Using Large Language Models for Mitigating Exposure to   Harmful Content on Social Media Platforms
+
 **Title**: Re-ranking Using Large Language Models for Mitigating Exposure to   Harmful Content on Social Media Platforms | Re-Ranking mit großen Sprachmodellen zur Minderung der Exposition gegenüber schädlichen Inhalten auf Social Media-Plattformen | 利用大型语言模式,在社交媒体平台上减少接触有害内容 [2501.13977v3](http://arxiv.org/abs/2501.13977v3)
 
 **Authors**: Rajvardhan Oak, Muhammad Haroon, Claire Jo, Magdalena Wojcieszak, Anshuman Chhabra
@@ -2236,6 +2323,7 @@ Social media platforms utilize Machine Learning (ML) and Artificial Intelligence
 
 ## Article 87
 ### Title@2025-05-29 (4): DREAM: Drafting with Refined Target Features and Entropy-Adaptive   Cross-Attention Fusion for Multimodal Speculative Decoding
+
 **Title**: DREAM: Drafting with Refined Target Features and Entropy-Adaptive   Cross-Attention Fusion for Multimodal Speculative Decoding | DREAM: Entwurf mit raffinierten Target-Features und Entropie-Adaptive Cross-Attention Fusion für multimodale spekulative Dekodierung | DREAM: 与改良目标特征和多模式投机下限的 Entropy-Adpy-Adpic 交叉注意聚变一起起草 [2505.19201v2](http://arxiv.org/abs/2505.19201v2)
 
 **Authors**: Yunhai Hu, Tianhua Xia, Zining Liu, Rahul Raman, Xingyu Liu, Bo Bao, Eric Sather, Vithursan Thangarasa, Sai Qian Zhang
@@ -2246,6 +2334,7 @@ Speculative decoding (SD) has emerged as a powerful method for accelerating auto
 
 ## Article 88
 ### Title@2025-05-29 (4): ReflectionCoder: Learning from Reflection Sequence for Enhanced One-off   Code Generation
+
 **Title**: ReflectionCoder: Learning from Reflection Sequence for Enhanced One-off   Code Generation | ReflectionCoder: Aus Reflexionssequenz lernen für verbesserte Einmal-Code-Generierung | 思考编码:从强化一次性代码生成的反思序列中学习 [2405.17057v2](http://arxiv.org/abs/2405.17057v2)
 
 **Authors**: Houxing Ren, Mingjie Zhan, Zhongyuan Wu, Aojun Zhou, Junting Pan, Hongsheng Li
@@ -2256,6 +2345,7 @@ Code generation plays a crucial role in various tasks, such as code auto-complet
 
 ## Article 89
 ### Title@2025-05-29 (4): BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion   Recognition Datasets for 28 Languages
+
 **Title**: BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion   Recognition Datasets for 28 Languages | BRIGHER: Die Lücke in Text-Emotions-Erkennungs-Datensätzen für 28 Sprachen bohren | 消除28种语言在载人附加说明的文本情感识别识别数据集方面的差距 [2502.11926v4](http://arxiv.org/abs/2502.11926v4)
 
 **Authors**: Shamsuddeen Hassan Muhammad, Nedjma Ousidhoum, Idris Abdulmumin, Jan Philip Wahle, Terry Ruas, Meriem Beloucif, Christine de Kock, Nirmal Surange, Daniela Teodorescu, Ibrahim Said Ahmad, David Ifeoluwa Adelani, Alham Fikri Aji, Felermino D. M. A. Ali, Ilseyar Alimova, Vladimir Araujo, Nikolay Babakov, Naomi Baes, Ana-Maria Bucur, Andiswa Bukula, Guanqun Cao, Rodrigo Tufino Cardenas, Rendi Chevi, Chiamaka Ijeoma Chukwuneke, Alexandra Ciobotaru, Daryna Dementieva, Murja Sani Gadanya, Robert Geislinger, Bela Gipp, Oumaima Hourrane, Oana Ignat, Falalu Ibrahim Lawan, Rooweither Mabuya, Rahmad Mahendra, Vukosi Marivate, Alexander Panchenko, Andrew Piper, Charles Henrique Porto Ferreira, Vitaly Protasov, Samuel Rutunda, Manish Shrivastava, Aura Cristina Udrea, Lilian Diana Awuor Wanzare, Sophie Wu, Florian Valentin Wunderlich, Hanif Muhammad Zhafran, Tianhui Zhang, Yi Zhou, Saif M. Mohammad
@@ -2266,6 +2356,7 @@ People worldwide use language in subtle and complex ways to express emotions. Al
 
 ## Article 90
 ### Title@2025-05-29 (4): GWQ: Gradient-Aware Weight Quantization for Large Language Models
+
 **Title**: GWQ: Gradient-Aware Weight Quantization for Large Language Models | GWQ: Gradient-Aware Weight Quantization für große Sprachmodelle | GWQ: 大语言模型的渐变软件重量 [2411.00850v4](http://arxiv.org/abs/2411.00850v4)
 
 **Authors**: Yihua Shao, Yan Gu, Siyu Chen, Haiyang Liu, Zixian Zhu, Zijian Ling, Minxi Yan, Ziyang Yan, Chenyu Zhang, Michele Magno, Haotong Qin, Yan Wang, Jingcai Guo, Ling Shao, Hao Tang
@@ -2276,6 +2367,7 @@ Large language models (LLMs) show impressive performance in solving complex lang
 
 ## Article 91
 ### Title@2025-05-29 (4): Threading the Needle: Reweaving Chain-of-Thought Reasoning to Explain   Human Label Variation
+
 **Title**: Threading the Needle: Reweaving Chain-of-Thought Reasoning to Explain   Human Label Variation | Threading the Needle: Rewebing Chain-of-Thought Begründung zu erklären, Human Label Variation | 针线串列: 重新编织尝试链 解释人类标签变化的原因 [2505.23368v1](http://arxiv.org/abs/2505.23368v1)
 
 **Authors**: Beiduo Chen, Yang Janet Liu, Anna Korhonen, Barbara Plank
@@ -2286,6 +2378,7 @@ The recent rise of reasoning-tuned Large Language Models (LLMs)--which generate 
 
 ## Article 92
 ### Title@2025-05-29 (4): Graph of Records: Boosting Retrieval Augmented Generation for   Long-context Summarization with Graphs
+
 **Title**: Graph of Records: Boosting Retrieval Augmented Generation for   Long-context Summarization with Graphs | Graph of Records: Steigerung der retrieval Augmented Generation für Langkontext-Zusammenfassung mit Graphen | 记录图图:用图表进行长文本摘要的推进检索增量生成器 [2410.11001v2](http://arxiv.org/abs/2410.11001v2)
 
 **Authors**: Haozhen Zhang, Tao Feng, Jiaxuan You
@@ -2296,6 +2389,7 @@ Retrieval-augmented generation (RAG) has revitalized Large Language Models (LLMs
 
 ## Article 93
 ### Title@2025-05-29 (4): Discriminative Policy Optimization for Token-Level Reward Models
+
 **Title**: Discriminative Policy Optimization for Token-Level Reward Models | Diskriminative Politikoptimierung für Token-Level-Reward-Modelle | 东京级奖励模式的区别对待政策优化 [2505.23363v1](http://arxiv.org/abs/2505.23363v1)
 
 **Authors**: Hongzhan Chen, Tao Yang, Shiping Gao, Ruijun Chen, Xiaojun Quan, Hongtao Tian, Ting Yao
@@ -2306,6 +2400,7 @@ Process reward models (PRMs) provide more nuanced supervision compared to outcom
 
 ## Article 94
 ### Title@2025-05-29 (4): Are Generative Models Underconfident? Better Quality Estimation with   Boosted Model Probability
+
 **Title**: Are Generative Models Underconfident? Better Quality Estimation with   Boosted Model Probability | Sind Generative Modelle unterbewusst? Bessere Qualitätsschätzung mit erhöhter Modellwahrscheinlichkeit | 产生型号是否缺乏自信?更好的质量估算与促进型号的模型概率 [2502.11115v2](http://arxiv.org/abs/2502.11115v2)
 
 **Authors**: Tu Anh Dinh, Jan Niehues
@@ -2316,6 +2411,7 @@ Quality Estimation (QE) is estimating quality of the model output during inferen
 
 ## Article 95
 ### Title@2025-05-29 (4): mOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus
+
 **Title**: mOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus | mOSCAR: Ein multimodaler, mehrsprachiger und multimodaler Korpus auf Dokumentebene | MOSCAR: 大型多语种和多模式文件级公司 [2406.08707v2](http://arxiv.org/abs/2406.08707v2)
 
 **Authors**: Matthieu Futeral, Armel Zebaze, Pedro Ortiz Suarez, Julien Abadji, Rémi Lacroix, Cordelia Schmid, Rachel Bawden, Benoît Sagot
@@ -2326,6 +2422,7 @@ Multimodal Large Language Models (mLLMs) are trained on a large amount of text-i
 
 ## Article 96
 ### Title@2025-05-29 (4): Nosey: Open-source hardware for acoustic nasalance
+
 **Title**: Nosey: Open-source hardware for acoustic nasalance | Nosey: Open-Source-Hardware für akustische Nasalance | 鼻鼻:用于音响鼻鼻腔的开源硬件 [2505.23339v1](http://arxiv.org/abs/2505.23339v1)
 
 **Authors**: Maya Dewhurst, Jack Collins, Justin J. H. Lo, Roy Alderton, Sam Kirkham
@@ -2336,6 +2433,7 @@ We introduce Nosey (Nasalance Open Source Estimation sYstem), a low-cost, custom
 
 ## Article 97
 ### Title@2025-05-29 (4): Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through   Context-Directed Extrapolation from Training Data Priors
+
 **Title**: Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through   Context-Directed Extrapolation from Training Data Priors | Weder Stochastic Parroting noch AGI: LLMs lösen Aufgaben durch kontextorientierte Extrapolation von Trainingsdaten Priors | 既不是蒸蒸碎剖析,也不是AGI:通过根据培训数据前期进行的背景差异外推法解解解任务LLMs Solve任务 [2505.23323v1](http://arxiv.org/abs/2505.23323v1)
 
 **Authors**: Harish Tayyar Madabushi, Melissa Torgbi, Claire Bonial
@@ -2346,6 +2444,7 @@ In this position paper we raise critical awareness of a realistic view of LLM ca
 
 ## Article 98
 ### Title@2025-05-29 (4): DReSD: Dense Retrieval for Speculative Decoding
+
 **Title**: DReSD: Dense Retrieval for Speculative Decoding | DResD: Dense Retrieval für spekulative Dekodierung | DRESD: 用于投机性代号的高级检索值 [2502.15572v2](http://arxiv.org/abs/2502.15572v2)
 
 **Authors**: Milan Gritta, Huiyin Xue, Gerasimos Lampouras
@@ -2356,6 +2455,7 @@ Speculative decoding (SD) accelerates Large Language Model (LLM) generation by u
 
 ## Article 99
 ### Title@2025-05-29 (4): Proximalized Preference Optimization for Diverse Feedback Types: A   Decomposed Perspective on DPO
+
 **Title**: Proximalized Preference Optimization for Diverse Feedback Types: A   Decomposed Perspective on DPO | Proximalisierte Preference-Optimierung für unterschiedliche Feedback-Typen: Eine zersetzte Perspektive auf DPO | 多种反馈类型最佳优化:对残疾人组织拆解的视角 [2505.23316v1](http://arxiv.org/abs/2505.23316v1)
 
 **Authors**: Kaiyang Guo, Yinchuan Li, Zhitang Chen
@@ -2366,6 +2466,7 @@ Direct alignment methods typically optimize large language models (LLMs) by cont
 
 ## Article 100
 ### Title@2025-05-29 (4): Enhancing Marker Scoring Accuracy through Ordinal Confidence Modelling   in Educational Assessments
+
 **Title**: Enhancing Marker Scoring Accuracy through Ordinal Confidence Modelling   in Educational Assessments | Verbesserung der Genauigkeit der Markerbewertung durch ordinelles Vertrauensmodellierung in Bildungsbewertungen | 通过在教育评估中建立常规信任模型,加强标标码的准确度 [2505.23315v1](http://arxiv.org/abs/2505.23315v1)
 
 **Authors**: Abhirup Chakravarty, Mark Brenchley, Trevor Breakspear, Ian Lewin, Yan Huang
@@ -2376,6 +2477,7 @@ A key ethical challenge in Automated Essay Scoring (AES) is ensuring that scores
 
 ## Article 101
 ### Title@2025-05-29 (4): Dataset Featurization: Uncovering Natural Language Features through   Unsupervised Data Reconstruction
+
 **Title**: Dataset Featurization: Uncovering Natural Language Features through   Unsupervised Data Reconstruction | Datensatz-Featurierung: Enthüllen natürlicher Sprach-Features durch unüberwachte Daten-Rekonstruktion | Dataset Featuriz化:通过未受监督的数据重建发现自然语言特征 [2502.17541v2](http://arxiv.org/abs/2502.17541v2)
 
 **Authors**: Michal Bravansky, Vaclav Kubon, Suhas Hariharan, Robert Kirk
@@ -2386,6 +2488,7 @@ Interpreting data is central to modern research. Large language models (LLMs) sh
 
 ## Article 102
 ### Title@2025-05-29 (4): Generalized Category Discovery in Event-Centric Contexts: Latent Pattern   Mining with LLMs
+
 **Title**: Generalized Category Discovery in Event-Centric Contexts: Latent Pattern   Mining with LLMs | Generalisierte Category Discovery in Event-Centric Kontexten: Latent Pattern Mining mit LLMs | 事件发生时发现的情况:利用LLMM公司进行原型采矿 [2505.23304v1](http://arxiv.org/abs/2505.23304v1)
 
 **Authors**: Yi Luo, Qiwen Wang, Junqi Yang, Luyao Tang, Zhenghao Lin, Zhenzhe Ying, Weiqiang Wang, Chen Lin
@@ -2396,6 +2499,7 @@ Generalized Category Discovery (GCD) aims to classify both known and novel categ
 
 ## Article 103
 ### Title@2025-05-29 (4): Data-efficient Meta-models for Evaluation of Context-based Questions and   Answers in LLMs
+
 **Title**: Data-efficient Meta-models for Evaluation of Context-based Questions and   Answers in LLMs | Dateneffiziente Meta-Modelle zur Auswertung kontextbasierter Fragen und Antworten in LLMs | 评价LLMM基于背景的问答的元模型 [2505.23299v1](http://arxiv.org/abs/2505.23299v1)
 
 **Authors**: Julia Belikova, Konstantin Polev, Rauf Parchiev, Dmitry Simakov
@@ -2406,6 +2510,7 @@ Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems ar
 
 ## Article 104
 ### Title@2025-05-29 (4): EmoBench-UA: A Benchmark Dataset for Emotion Detection in Ukrainian
+
 **Title**: EmoBench-UA: A Benchmark Dataset for Emotion Detection in Ukrainian | EmoBench-UA: Ein Benchmark-Datensatz für Emotionserkennung in der Ukraine | EmoBenich-UA:乌克兰情感检测基准数据集 [2505.23297v1](http://arxiv.org/abs/2505.23297v1)
 
 **Authors**: Daryna Dementieva, Nikolay Babakov, Alexander Fraser
@@ -2416,6 +2521,7 @@ While Ukrainian NLP has seen progress in many texts processing tasks, emotion cl
 
 ## Article 105
 ### Title@2025-05-29 (4): How Does Response Length Affect Long-Form Factuality
+
 **Title**: How Does Response Length Affect Long-Form Factuality | Wie wirkt sich die Response-Länge auf die Langform-Faktizität aus? | 反应时间长度如何影响长期事实质量 [2505.23295v1](http://arxiv.org/abs/2505.23295v1)
 
 **Authors**: James Xu Zhao, Jimmy Z. J. Liu, Bryan Hooi, See-Kiong Ng
@@ -2426,6 +2532,7 @@ Large language models (LLMs) are widely used for long-form text generation. Howe
 
 ## Article 106
 ### Title@2025-05-29 (4): Multi-Modal Framing Analysis of News
+
 **Title**: Multi-Modal Framing Analysis of News | Multi-Modal Framing Analyse der Nachrichten | 新闻多模式结构分析 [2503.20960v3](http://arxiv.org/abs/2503.20960v3)
 
 **Authors**: Arnav Arora, Srishti Yadav, Maria Antoniak, Serge Belongie, Isabelle Augenstein
@@ -2436,6 +2543,7 @@ Automated frame analysis of political communication is a popular task in computa
 
 ## Article 107
 ### Title@2025-05-29 (4): ScEdit: Script-based Assessment of Knowledge Editing
+
 **Title**: ScEdit: Script-based Assessment of Knowledge Editing | ScEdit: Script-basierte Bewertung von Wissensbearbeitung | ScEdit: 基于脚本的知识编辑评估 [2505.23291v1](http://arxiv.org/abs/2505.23291v1)
 
 **Authors**: Xinye Li, Zunwen Zheng, Qian Zhang, Dekai Zhuang, Jiabao Kang, Liyan Xu, Qingbin Liu, Xi Chen, Zhiying Tu, Dianhui Chu, Dianbo Sui
@@ -2446,6 +2554,7 @@ Knowledge Editing (KE) has gained increasing attention, yet current KE tasks rem
 
 ## Article 108
 ### Title@2025-05-29 (4): Uncertainty Quantification for LLMs through Minimum Bayes Risk: Bridging   Confidence and Consistency
+
 **Title**: Uncertainty Quantification for LLMs through Minimum Bayes Risk: Bridging   Confidence and Consistency | Unsicherheit Quantifizierung für LLMs durch Minimum Bayes Risiko: Vertrauensüberbrückung und Konsistenz | 通过最低贝谷风险对LLMs的不确定性量化: 建立互信和一致性 [2502.04964v4](http://arxiv.org/abs/2502.04964v4)
 
 **Authors**: Roman Vashurin, Maiya Goloburda, Albina Ilina, Aleksandr Rubashevskii, Preslav Nakov, Artem Shelmanov, Maxim Panov
@@ -2456,6 +2565,7 @@ Uncertainty quantification (UQ) methods for Large Language Models (LLMs) encompa
 
 ## Article 109
 ### Title@2025-05-29 (4): MathArena: Evaluating LLMs on Uncontaminated Math Competitions
+
 **Title**: MathArena: Evaluating LLMs on Uncontaminated Math Competitions | MathArena: Bewertung von LLMs auf nicht kontaminierten Math-Wettbewerben | Matharena:评估未受污染数学竞赛的LLMs [2505.23281v1](http://arxiv.org/abs/2505.23281v1)
 
 **Authors**: Mislav Balunović, Jasper Dekoninck, Ivo Petrov, Nikola Jovanović, Martin Vechev
@@ -2466,6 +2576,7 @@ The rapid advancement of reasoning capabilities in large language models (LLMs) 
 
 ## Article 110
 ### Title@2025-05-29 (4): Sentinel: Attention Probing of Proxy Models for LLM Context Compression   with an Understanding Perspective
+
 **Title**: Sentinel: Attention Probing of Proxy Models for LLM Context Compression   with an Understanding Perspective | Sentinel: Aufmerksamkeitsprobierung von Proxy-Modellen für LLM-Kontextkompression mit verstehender Perspektive | 哨兵:注意从理解角度观察LLM背景压缩的代理模型 [2505.23277v1](http://arxiv.org/abs/2505.23277v1)
 
 **Authors**: Yong Zhang, Yanwen Huang, Ning Cheng, Yang Guo, Yun Zhu, Yanmeng Wang, Shaojun Wang, Jing Xiao
@@ -2476,6 +2587,7 @@ Retrieval-augmented generation (RAG) enhances large language models (LLMs) with 
 
 ## Article 111
 ### Title@2025-05-29 (4): The Arabic AI Fingerprint: Stylometric Analysis and Detection of Large   Language Models Text
+
 **Title**: The Arabic AI Fingerprint: Stylometric Analysis and Detection of Large   Language Models Text | Der arabische KI-Fingerabdruck: Stylometrische Analyse und Erkennung von großen Sprachmodellen Text | 阿拉伯文 AI 指纹:大语言模型文本的tytyllogimics 分析和探测 [2505.23276v1](http://arxiv.org/abs/2505.23276v1)
 
 **Authors**: Maged S. Al-Shaibani, Moataz Ahmed
@@ -2486,6 +2598,7 @@ Large Language Models (LLMs) have achieved unprecedented capabilities in generat
 
 ## Article 112
 ### Title@2025-05-29 (4): BioVL-QR: Egocentric Biochemical Vision-and-Language Dataset Using Micro   QR Codes
+
 **Title**: BioVL-QR: Egocentric Biochemical Vision-and-Language Dataset Using Micro   QR Codes | BioVL-QR: Egozentrischer biochemischer Vision- und Sprachdatensatz mit Micro-QR-Codes | BioVL-QR:使用微质变码的Egocent 生物化学视觉和语言数据集 [2404.03161v3](http://arxiv.org/abs/2404.03161v3)
 
 **Authors**: Tomohiro Nishimoto, Taichi Nishimura, Koki Yamamoto, Keisuke Shirai, Hirotaka Kameko, Yuto Haneji, Tomoya Yoshida, Keiya Kajimura, Taiyu Cui, Chihiro Nishiwaki, Eriko Daikoku, Natsuko Okuda, Fumihito Ono, Shinsuke Mori
@@ -2496,6 +2609,7 @@ This paper introduces BioVL-QR, a biochemical vision-and-language dataset compri
 
 ## Article 113
 ### Title@2025-05-29 (4): Does Machine Unlearning Truly Remove Model Knowledge? A Framework for   Auditing Unlearning in LLMs
+
 **Title**: Does Machine Unlearning Truly Remove Model Knowledge? A Framework for   Auditing Unlearning in LLMs | Entfernt Machine Unlearning wirklich Modellwissen? Ein Rahmen für die Prüfung von Unlearning in LLMs | 机器取消学习是否真正删除了示范知识? 审计框架是否在LLMM中取消学习? [2505.23270v1](http://arxiv.org/abs/2505.23270v1)
 
 **Authors**: Haokun Chen, Yueqi Zhang, Yuan Bi, Yao Zhang, Tong Liu, Jinhe Bi, Jian Lan, Jindong Gu, Claudia Grosser, Denis Krompass, Nassir Navab, Volker Tresp
@@ -2506,6 +2620,7 @@ In recent years, Large Language Models (LLMs) have achieved remarkable advanceme
 
 ## Article 114
 ### Title@2025-05-29 (4): Token Pruning in Multimodal Large Language Models: Are We Solving the   Right Problem?
+
 **Title**: Token Pruning in Multimodal Large Language Models: Are We Solving the   Right Problem? | Token Pruning in multimodalen großen Sprachmodellen: Lösen wir das richtige Problem? | 在多式大语言模式中的 Token Prurning:我们是否解决了正确的问题? [2502.11501v2](http://arxiv.org/abs/2502.11501v2)
 
 **Authors**: Zichen Wen, Yifeng Gao, Weijia Li, Conghui He, Linfeng Zhang
@@ -2516,6 +2631,7 @@ Multimodal large language models (MLLMs) have shown remarkable performance for c
 
 ## Article 115
 ### Title@2025-05-29 (4): A Reality Check on Context Utilisation for Retrieval-Augmented   Generation
+
 **Title**: A Reality Check on Context Utilisation for Retrieval-Augmented   Generation | Ein Realitätscheck auf Kontext-Auslastung für retrieval-Augmented Generation | 关于回收-提款人一代的上下文利用情况的现实检查 [2412.17031v2](http://arxiv.org/abs/2412.17031v2)
 
 **Authors**: Lovisa Hagström, Sara Vera Marjanović, Haeun Yu, Arnav Arora, Christina Lioma, Maria Maistro, Pepa Atanasova, Isabelle Augenstein
@@ -2526,6 +2642,7 @@ Retrieval-augmented generation (RAG) helps address the limitations of parametric
 
 ## Article 116
 ### Title@2025-05-29 (4): Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose   Protein Understanding with LLMs
+
 **Title**: Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose   Protein Understanding with LLMs | Strukturverstärkte Protein-Instruktions-Tuning: Auf dem Weg zu einem allgemeinen Protein-Verständnis mit LLMs | 结构强化的蛋白质指导指示图示:争取与LLMs达成一般用途的蛋白性了解 [2410.03553v3](http://arxiv.org/abs/2410.03553v3)
 
 **Authors**: Wei Wu, Chao Wang, Liyi Chen, Mingze Yin, Yiheng Zhu, Kun Fu, Jieping Ye, Hui Xiong, Zheng Wang
@@ -2536,6 +2653,7 @@ Proteins, as essential biomolecules, play a central role in biological processes
 
 ## Article 117
 ### Title@2025-05-29 (4): Skywork Open Reasoner 1 Technical Report
+
 **Title**: Skywork Open Reasoner 1 Technical Report | Skywork Open Reasoner 1 Technischer Bericht | " 天窗开放理由1 " 技术报告 [2505.22312v2](http://arxiv.org/abs/2505.22312v2)
 
 **Authors**: Jujie He, Jiacai Liu, Chris Yuhao Liu, Rui Yan, Chaojie Wang, Peng Cheng, Xiaoyu Zhang, Fuxiang Zhang, Jiacheng Xu, Wei Shen, Siyuan Li, Liang Zeng, Tianwen Wei, Cheng Cheng, Bo An, Yang Liu, Yahui Zhou
@@ -2546,6 +2664,7 @@ The success of DeepSeek-R1 underscores the significant role of reinforcement lea
 
 ## Article 118
 ### Title@2025-05-29 (4): Tensor Product Attention Is All You Need
+
 **Title**: Tensor Product Attention Is All You Need | Tensor Produkt-Achtung ist alles, was Sie brauchen | 色素产品 关注是所有你需要的 [2501.06425v4](http://arxiv.org/abs/2501.06425v4)
 
 **Authors**: Yifan Zhang, Yifeng Liu, Huizhuo Yuan, Zhen Qin, Yang Yuan, Quanquan Gu, Andrew C Yao
@@ -2556,6 +2675,7 @@ Scaling language models to handle longer input sequences typically necessitates 
 
 ## Article 119
 ### Title@2025-05-29 (4): Automatic Construction of Multiple Classification Dimensions for   Managing Approaches in Scientific Papers
+
 **Title**: Automatic Construction of Multiple Classification Dimensions for   Managing Approaches in Scientific Papers | Automatische Konstruktion mehrerer Klassifizierungsdimensionen für die Verwaltung von Ansätzen in wissenschaftlichen Papieren | 科学文件中管理方法的多重分类方面自动构建 [2505.23252v1](http://arxiv.org/abs/2505.23252v1)
 
 **Authors**: Bing Ma, Hai Zhuge
@@ -2566,6 +2686,7 @@ Approaches form the foundation for conducting scientific research. Querying appr
 
 ## Article 120
 ### Title@2025-05-29 (4): SOTOPIA-$Ω$: Dynamic Strategy Injection Learning and Social   Instruction Following Evaluation for Social Agents
+
 **Title**: SOTOPIA-$Ω$: Dynamic Strategy Injection Learning and Social   Instruction Following Evaluation for Social Agents | SOTOPIA-$Ω$: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents | SOTOPIA-美元/美元/美元:在评估社会代理人后进行动态战略注射学习和社会指导 [2502.15538v3](http://arxiv.org/abs/2502.15538v3)
 
 **Authors**: Wenyuan Zhang, Tianyun Liu, Mengxiao Song, Xiaodong Li, Tingwen Liu
@@ -2576,6 +2697,7 @@ Despite the abundance of prior social strategies possessed by humans, there rema
 
 ## Article 121
 ### Title@2025-05-29 (4): Autonomous Data Selection with Zero-shot Generative Classifiers for   Mathematical Texts
+
 **Title**: Autonomous Data Selection with Zero-shot Generative Classifiers for   Mathematical Texts | Autonome Datenauswahl mit Zero-shot Generative Klassifikatoren für mathematische Texte | 具有数学文本零光生成分类器的自动数据选择 [2402.07625v6](http://arxiv.org/abs/2402.07625v6)
 
 **Authors**: Yifan Zhang, Yifan Luo, Yang Yuan, Andrew C Yao
@@ -2586,6 +2708,7 @@ We present Autonomous Data Selection (AutoDS), a method that leverages base lang
 
 ## Article 122
 ### Title@2025-05-29 (4): ChartMind: A Comprehensive Benchmark for Complex Real-world Multimodal   Chart Question Answering
+
 **Title**: ChartMind: A Comprehensive Benchmark for Complex Real-world Multimodal   Chart Question Answering | ChartMind: Ein umfassender Benchmark für komplexe multimodale Chart-Fragebeantwortung | 图表Mind:复杂现实世界多式联运图表问题回答综合基准 [2505.23242v1](http://arxiv.org/abs/2505.23242v1)
 
 **Authors**: Jingxuan Wei, Nan Xu, Junnan Zhu, Yanni Hao, Gaowei Wu, Bihui Yu, Lei Wang
@@ -2596,6 +2719,7 @@ Chart question answering (CQA) has become a critical multimodal task for evaluat
 
 ## Article 123
 ### Title@2025-05-29 (4): PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts
+
 **Title**: PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts | PolyMath: Mathematische Vernunft in multilingualen Kontexten bewerten | 多语制:多语种背景下的数学理由评估 [2504.18428v3](http://arxiv.org/abs/2504.18428v3)
 
 **Authors**: Yiming Wang, Pei Zhang, Jialong Tang, Haoran Wei, Baosong Yang, Rui Wang, Chenshu Sun, Feitong Sun, Jiran Zhang, Junxuan Wu, Qiqian Cang, Yichang Zhang, Fei Huang, Junyang Lin, Fei Huang, Jingren Zhou
@@ -2606,6 +2730,7 @@ In this paper, we introduce PolyMath, a multilingual mathematical reasoning benc
 
 ## Article 124
 ### Title@2025-05-29 (4): Pandora's Box or Aladdin's Lamp: A Comprehensive Analysis Revealing the   Role of RAG Noise in Large Language Models
+
 **Title**: Pandora's Box or Aladdin's Lamp: A Comprehensive Analysis Revealing the   Role of RAG Noise in Large Language Models | Pandora's Box oder Aladdin's Lampe: Eine umfassende Analyse, die die Rolle des RAG-Geräuschs in großen Sprachmodellen aufzeigt | Pandora的盒子或Aladdin的灯光:全面分析RAG噪音在大语言模型中的作用 [2408.13533v3](http://arxiv.org/abs/2408.13533v3)
 
 **Authors**: Jinyang Wu, Shuai Zhang, Feihu Che, Mingkuan Feng, Pengpeng Shao, Jianhua Tao
@@ -2616,6 +2741,7 @@ Retrieval-Augmented Generation (RAG) has emerged as a crucial method for address
 
 ## Article 125
 ### Title@2025-05-29 (4): MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues   Generation via Principles and Adaptive Exploration
+
 **Title**: MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues   Generation via Principles and Adaptive Exploration | MCTSr-Zero: Selbstreflektierende Psychologische Beratung Dialoge Generation über Prinzipien und Adaptive Exploration | MMCTSr-Zero:通过原则和适应性探索进行自我反应心理辅导对话 [2505.23229v1](http://arxiv.org/abs/2505.23229v1)
 
 **Authors**: Hao Lu, Yanchi Gu, Haoyuan Huang, Yulin Zhou, Ningxin Zhu, Chen Li
@@ -2626,6 +2752,7 @@ The integration of Monte Carlo Tree Search (MCTS) with Large Language Models (LL
 
 ## Article 126
 ### Title@2025-05-29 (4): HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of   Multimodal Large Language Model
+
 **Title**: HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of   Multimodal Large Language Model | HiDe-LlaVA: Hierarchische Entkopplung zur kontinuierlichen Instruktionstuning von multimodalen Großsprachenmodellen | HIDE-LLALAVA:多式大语言模式连续教学制导的等级脱钩 [2503.12941v2](http://arxiv.org/abs/2503.12941v2)
 
 **Authors**: Haiyang Guo, Fanhu Zeng, Ziwei Xiang, Fei Zhu, Da-Han Wang, Xu-Yao Zhang, Cheng-Lin Liu
@@ -2636,6 +2763,7 @@ Instruction tuning is widely used to improve a pre-trained Multimodal Large Lang
 
 ## Article 127
 ### Title@2025-05-29 (4): Fusing Bidirectional Chains of Thought and Reward Mechanisms A Method   for Enhancing Question-Answering Capabilities of Large Language Models for   Chinese Intangible Cultural Heritage
+
 **Title**: Fusing Bidirectional Chains of Thought and Reward Mechanisms A Method   for Enhancing Question-Answering Capabilities of Large Language Models for   Chinese Intangible Cultural Heritage | Bidirektionale Ketten von Gedanken- und Belohnungsmechanismen zusammenführen Eine Methode zur Verbesserung von Frage-Antwort-Fähigkeiten von großen Sprachmodellen für chinesisches immaterielles Kulturerbe | 利用思想和奖赏机制的双向双向两向链 提高中国非物质文化遗产大语言模式的回答问题能力的方法 [2505.08167v3](http://arxiv.org/abs/2505.08167v3)
 
 **Authors**: Ruilin Liu, Zhixiao Zhao, Jieqiong Li, Chang Liu, Dongbo Wang
@@ -2646,6 +2774,7 @@ The rapid development of large language models (LLMs) has provided significant s
 
 ## Article 128
 ### Title@2025-05-29 (4): Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language   Models from Jailbreaking
+
 **Title**: Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language   Models from Jailbreaking | Reasoning-to-Defend: Sicherheitsbewusste Reasoning kann große Sprachmodelle von Jailbreaking verteidigen | 理由到理由:安全意识理由能够捍卫从破室中使用大语言的模型 [2502.12970v2](http://arxiv.org/abs/2502.12970v2)
 
 **Authors**: Junda Zhu, Lingyong Yan, Shuaiqiang Wang, Dawei Yin, Lei Sha
@@ -2656,6 +2785,7 @@ Large Reasoning Models (LRMs) have demonstrated impressive performances across d
 
 ## Article 129
 ### Title@2025-05-29 (4): DiagnosisArena: Benchmarking Diagnostic Reasoning for Large Language   Models
+
 **Title**: DiagnosisArena: Benchmarking Diagnostic Reasoning for Large Language   Models | DiagnoseArena: Benchmarking Diagnostic Reasoning für große Sprachmodelle | 诊断阿勒纳:大语言模型诊断依据基准 [2505.14107v4](http://arxiv.org/abs/2505.14107v4)
 
 **Authors**: Yakun Zhu, Zhongzhen Huang, Linjie Mu, Yutong Huang, Wei Nie, Jiaji Liu, Shaoting Zhang, Pengfei Liu, Xiaofan Zhang
@@ -2666,6 +2796,7 @@ The emergence of groundbreaking large language models capable of performing comp
 
 ## Article 130
 ### Title@2025-05-29 (4): MMBoundary: Advancing MLLM Knowledge Boundary Awareness through   Reasoning Step Confidence Calibration
+
 **Title**: MMBoundary: Advancing MLLM Knowledge Boundary Awareness through   Reasoning Step Confidence Calibration | MMBoundary: MLLM-Wissensgrenzen-Bewusstsein durch vernünftige Schritt-Vertrauens-Kalibrierung | MMMMMMMMMM MMMMMMMM:通过合理步骤信任校准提高MLLM知识边界认识 [2505.23224v1](http://arxiv.org/abs/2505.23224v1)
 
 **Authors**: Zhitao He, Sandeep Polisetty, Zhiyuan Fan, Yuchen Huang, Shujin Wu, Yi R., Fung
@@ -2676,6 +2807,7 @@ In recent years, multimodal large language models (MLLMs) have made significant 
 
 ## Article 131
 ### Title@2025-05-29 (4): KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree   Search
+
 **Title**: KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree   Search | KBQA-o1: Agentische Wissensdatenbank Frage beantworten mit Monte Carlo Baumsuche | KBQA- o1: 用于蒙特卡洛树搜索的代理知识库问题解答 [2501.18922v3](http://arxiv.org/abs/2501.18922v3)
 
 **Authors**: Haoran Luo, Haihong E, Yikai Guo, Qika Lin, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, Yifan Zhu, Luu Anh Tuan
@@ -2686,6 +2818,7 @@ Knowledge Base Question Answering (KBQA) aims to answer natural language questio
 
 ## Article 132
 ### Title@2025-05-29 (4): Reducing Tool Hallucination via Reliability Alignment
+
 **Title**: Reducing Tool Hallucination via Reliability Alignment | Reduzieren der Werkzeughalluzination durch Zuverlässigkeitsanpassung | 通过可靠性调整减少工具幻觉 [2412.04141v3](http://arxiv.org/abs/2412.04141v3)
 
 **Authors**: Hongshen Xu, Zichen Zhu, Lei Pan, Zihan Wang, Su Zhu, Da Ma, Ruisheng Cao, Lu Chen, Kai Yu
@@ -2696,6 +2829,7 @@ Large Language Models (LLMs) have expanded their capabilities beyond language ge
 
 ## Article 133
 ### Title@2025-05-29 (4): Improving Parallel Program Performance with LLM Optimizers via   Agent-System Interfaces
+
 **Title**: Improving Parallel Program Performance with LLM Optimizers via   Agent-System Interfaces | Verbesserung der parallelen Programmleistung mit LLM-Optimierern über Agent-System-Schnittstellen | 通过代理-系统接口改进与LLM优化器的平行方案绩效 [2410.15625v3](http://arxiv.org/abs/2410.15625v3)
 
 **Authors**: Anjiang Wei, Allen Nie, Thiago S. F. X. Teixeira, Rohan Yadav, Wonchan Lee, Ke Wang, Alex Aiken
@@ -2706,6 +2840,7 @@ Modern scientific discovery increasingly relies on high-performance computing fo
 
 ## Article 134
 ### Title@2025-05-29 (4): System-1.5 Reasoning: Traversal in Language and Latent Spaces with   Dynamic Shortcuts
+
 **Title**: System-1.5 Reasoning: Traversal in Language and Latent Spaces with   Dynamic Shortcuts | System-1.5 Reasoning: Traversal in Sprach- und Latentenräumen mit dynamischen Shortcuts | 系统-1.5 理由:具有动态快捷键的语言和隐藏空间的变化 [2505.18962v2](http://arxiv.org/abs/2505.18962v2)
 
 **Authors**: Xiaoqiang Wang, Suyuchen Wang, Yun Zhu, Bang Liu
@@ -2716,6 +2851,7 @@ Chain-of-thought (CoT) reasoning enables large language models (LLMs) to move be
 
 ## Article 135
 ### Title@2025-05-29 (4): FCMR: Robust Evaluation of Financial Cross-Modal Multi-Hop Reasoning
+
 **Title**: FCMR: Robust Evaluation of Financial Cross-Modal Multi-Hop Reasoning | FCMR: Robuste Bewertung der finanziellen Cross-Modal Multi-Hop Reasoning | FCMR: 对跨模式、多渠道金融理由的有力评价 [2412.12567v3](http://arxiv.org/abs/2412.12567v3)
 
 **Authors**: Seunghee Kim, Changhyeon Kim, Taeuk Kim
@@ -2726,6 +2862,7 @@ Real-world decision-making often requires integrating and reasoning over informa
 
 ## Article 136
 ### Title@2025-05-29 (4): Multimodal Inverse Attention Network with Intrinsic Discriminant Feature   Exploitation for Fake News Detection
+
 **Title**: Multimodal Inverse Attention Network with Intrinsic Discriminant Feature   Exploitation for Fake News Detection | Multimodale Inverse Aufmerksamkeit Netzwerk mit Intrinsic Discriminant Feature Exploitation für gefälschte Nachrichten Erkennung | 多式反向关注网络,利用内在差异性地貌特征利用假新闻探测 [2502.01699v2](http://arxiv.org/abs/2502.01699v2)
 
 **Authors**: Tianlin Zhang, En Yu, Yi Shao, Jiande Sun
@@ -2736,6 +2873,7 @@ Multimodal fake news detection has garnered significant attention due to its pro
 
 ## Article 137
 ### Title@2025-05-29 (4): BioProBench: Comprehensive Dataset and Benchmark in Biological Protocol   Understanding and Reasoning
+
 **Title**: BioProBench: Comprehensive Dataset and Benchmark in Biological Protocol   Understanding and Reasoning | BioProBench: Umfassender Datensatz und Benchmark im Biologischen Protokoll Verständnis und Vernunft | BioProBench:生物议定书理解和理由的综合数据集和基准 [2505.07889v2](http://arxiv.org/abs/2505.07889v2)
 
 **Authors**: Yuyang Liu, Liuzhenghao Lv, Xiancheng Zhang, Li Yuan, Yonghong Tian
@@ -2746,6 +2884,7 @@ Biological protocols are fundamental to reproducibility and safety in life scien
 
 ## Article 138
 ### Title@2025-05-29 (4): $T^5Score$: A Methodology for Automatically Assessing the Quality of LLM   Generated Multi-Document Topic Sets
+
 **Title**: $T^5Score$: A Methodology for Automatically Assessing the Quality of LLM   Generated Multi-Document Topic Sets | $T^5Score$: Eine Methode zur automatischen Bewertung der Qualität von LLM Generated Multi-Document Topic Sets | $T$5STR$:自动评估LLM生成的多文件专题集质量的方法 [2407.17390v3](http://arxiv.org/abs/2407.17390v3)
 
 **Authors**: Itamar Trainin, Omri Abend
@@ -2756,6 +2895,7 @@ Using LLMs for Multi-Document Topic Extraction has recently gained popularity du
 
 ## Article 139
 ### Title@2025-05-29 (4): ExpeTrans: LLMs Are Experiential Transfer Learners
+
 **Title**: ExpeTrans: LLMs Are Experiential Transfer Learners | ExpeTrans: LLMs sind erfahrene Transfer-Lerner | Expetrary: LLMs 是经验性转移学习者 [2505.23191v1](http://arxiv.org/abs/2505.23191v1)
 
 **Authors**: Jinglong Gao, Xiao Ding, Lingxiao Zou, Bibo Cai, Bing Qin, Ting Liu
@@ -2766,6 +2906,7 @@ Recent studies provide large language models (LLMs) with textual task-solving ex
 
 ## Article 140
 ### Title@2025-05-29 (4): Cross-Task Experiential Learning on LLM-based Multi-Agent Collaboration
+
 **Title**: Cross-Task Experiential Learning on LLM-based Multi-Agent Collaboration | Erfahrungsübergreifendes Lernen auf LLM-basierter Multi-Agent-Kollaboration | 关于基于LLM的多机构合作的跨任务跨任务经验学习 [2505.23187v1](http://arxiv.org/abs/2505.23187v1)
 
 **Authors**: Yilong Li, Chen Qian, Yu Xia, Ruijie Shi, Yufan Dang, Zihao Xie, Ziming You, Weize Chen, Cheng Yang, Weichuan Liu, Ye Tian, Xuantang Xiong, Lei Han, Zhiyuan Liu, Maosong Sun
@@ -2776,6 +2917,7 @@ Large Language Model-based multi-agent systems (MAS) have shown remarkable progr
 
 ## Article 141
 ### Title@2025-05-29 (4): Unsupervised Word-level Quality Estimation for Machine Translation   Through the Lens of Annotators (Dis)agreement
+
 **Title**: Unsupervised Word-level Quality Estimation for Machine Translation   Through the Lens of Annotators (Dis)agreement | Unüberwachte Bewertung auf Word-Level-Qualität für maschinelle Übersetzung durch die Linse der Annotatoren (Dis)Vereinbarung | 未经监督的通过标注员的镜头进行机器翻译的字级质量估计 [2505.23183v1](http://arxiv.org/abs/2505.23183v1)
 
 **Authors**: Gabriele Sarti, Vilém Zouhar, Malvina Nissim, Arianna Bisazza
@@ -2786,6 +2928,7 @@ Word-level quality estimation (WQE) aims to automatically identify fine-grained 
 
 ## Article 142
 ### Title@2025-05-29 (4): Improving Continual Pre-training Through Seamless Data Packing
+
 **Title**: Improving Continual Pre-training Through Seamless Data Packing | Verbesserung der kontinuierlichen Vorschulung durch nahtloses Datenpaket | 通过无缝无缝数据包装改进持续培训前培训 [2505.22018v2](http://arxiv.org/abs/2505.22018v2)
 
 **Authors**: Ruicheng Yin, Xuan Gao, Changze Lv, Xiaohua Wang, Xiaoqing Zheng, Xuanjing Huang
@@ -2796,6 +2939,7 @@ Continual pre-training has demonstrated significant potential in enhancing model
 
 ## Article 143
 ### Title@2025-05-29 (4): Infinite-Instruct: Synthesizing Scaling Code instruction Data with   Bidirectional Synthesis and Static Verification
+
 **Title**: Infinite-Instruct: Synthesizing Scaling Code instruction Data with   Bidirectional Synthesis and Static Verification | Infinite-Instruct: Synthesizing Scaling Code instruction Daten mit bidirektionaler Synthese und statischer Verifikation | 无限指令:以双向合成和静态核查将缩放码指示数据与双向合成和静态核查结合起来 [2505.23177v1](http://arxiv.org/abs/2505.23177v1)
 
 **Authors**: Wenjing Xing, Wenke Lu, Yeheng Duan, Bing Zhao, Zhenghui kang, Yaolong Wang, Kai Gao, Lei Qiao
@@ -2806,6 +2950,7 @@ Traditional code instruction data synthesis methods suffer from limited diversit
 
 ## Article 144
 ### Title@2025-05-29 (4): Map&Make: Schema Guided Text to Table Generation
+
 **Title**: Map&Make: Schema Guided Text to Table Generation | Map&Make: Schema-Leittext zur Tabellenerstellung | Mag&Make: 生成表格的图表向导文本 [2505.23174v1](http://arxiv.org/abs/2505.23174v1)
 
 **Authors**: Naman Ahuja, Fenil Bardoliya, Chitta Baral, Vivek Gupta
@@ -2816,6 +2961,7 @@ Transforming dense, detailed, unstructured text into an interpretable and summar
 
 ## Article 145
 ### Title@2025-05-29 (4): ZIPA: A family of efficient models for multilingual phone recognition
+
 **Title**: ZIPA: A family of efficient models for multilingual phone recognition | ZIPA: Eine Familie von effizienten Modellen für mehrsprachige Telefonerkennung | ZIPA:一套有效的多语言电话识别模式 [2505.23170v1](http://arxiv.org/abs/2505.23170v1)
 
 **Authors**: Jian Zhu, Farhan Samir, Eleanor Chodroff, David R. Mortensen
@@ -2826,6 +2972,7 @@ We present ZIPA, a family of efficient speech models that advances the state-of-
 
 ## Article 146
 ### Title@2025-05-29 (4): Tell, Don't Show: Leveraging Language Models' Abstractive Retellings to   Model Literary Themes
+
 **Title**: Tell, Don't Show: Leveraging Language Models' Abstractive Retellings to   Model Literary Themes | Tell, Don't Show: Die abstrakten Retellings von Sprachmodellen nutzen, um literarische Themen zu modellieren | Tell, don't show: 利用语言模型对示范文学主题的抽象引用 [2505.23166v1](http://arxiv.org/abs/2505.23166v1)
 
 **Authors**: Li Lucy, Camilla Griffiths, Sarah Levine, Jennifer L. Eberhardt, Dorottya Demszky, David Bamman
@@ -2836,6 +2983,7 @@ Conventional bag-of-words approaches for topic modeling, like latent Dirichlet a
 
 ## Article 147
 ### Title@2025-05-29 (4): Temporal Relation Extraction in Clinical Texts: A Span-based Graph   Transformer Approach
+
 **Title**: Temporal Relation Extraction in Clinical Texts: A Span-based Graph   Transformer Approach | Temporale Beziehungsextraktion in klinischen Texten: Ein Span-basierter Graph Transformer-Ansatz | 临床文本中的时间关系抽取时间关系:基于泛泛面的图形变形器方法 [2503.18085v2](http://arxiv.org/abs/2503.18085v2)
 
 **Authors**: Rochana Chaturvedi, Peyman Baghershahi, Sourav Medya, Barbara Di Eugenio
@@ -2846,6 +2994,7 @@ Temporal information extraction from unstructured text is essential for contextu
 
 ## Article 148
 ### Title@2025-05-29 (4): Too Consistent to Detect: A Study of Self-Consistent Errors in LLMs
+
 **Title**: Too Consistent to Detect: A Study of Self-Consistent Errors in LLMs | Zu konsequent, um zu erkennen: Eine Studie über selbstkonsistente Fehler in LLMs | 过于一致,无法检测:LLMM中自相矛盾错误的研究 [2505.17656v2](http://arxiv.org/abs/2505.17656v2)
 
 **Authors**: Hexiang Tan, Fei Sun, Sha Liu, Du Su, Qi Cao, Xin Chen, Jingang Wang, Xunliang Cai, Yuanzhuo Wang, Huawei Shen, Xueqi Cheng
@@ -2856,6 +3005,7 @@ As large language models (LLMs) often generate plausible but incorrect content, 
 
 ## Article 149
 ### Title@2025-05-29 (4): Cross-Domain Bilingual Lexicon Induction via Pretrained Language Models
+
 **Title**: Cross-Domain Bilingual Lexicon Induction via Pretrained Language Models | Cross-Domain Zweisprachige Lexikoninduktion über vorgebildete Sprachmodelle | 通过预先培训语言模式的跨域双语双语双语 [2505.23146v1](http://arxiv.org/abs/2505.23146v1)
 
 **Authors**: Qiuyu Ding, Zhiqiang Cao, Hailong Cao, Tiejun Zhao
@@ -2866,6 +3016,7 @@ Bilingual Lexicon Induction (BLI) is generally based on common domain data to ob
 
 ## Article 150
 ### Title@2025-05-29 (4): ParamMute: Suppressing Knowledge-Critical FFNs for Faithful   Retrieval-Augmented Generation
+
 **Title**: ParamMute: Suppressing Knowledge-Critical FFNs for Faithful   Retrieval-Augmented Generation | Parammute: Unterdrückende wissenskritische FFNs für treue retrieval-erweiterte Generation | 分量:制止知识-关键FFFF,以用于忠实检索-养殖一代 [2502.15543v2](http://arxiv.org/abs/2502.15543v2)
 
 **Authors**: Pengcheng Huang, Zhenghao Liu, Yukun Yan, Haiyan Zhao, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong
@@ -2876,6 +3027,7 @@ Large language models (LLMs) integrated with retrieval-augmented generation (RAG
 
 ## Article 151
 ### Title@2025-05-29 (4): Enhancing Large Language Models'Machine Translation via Dynamic Focus   Anchoring
+
 **Title**: Enhancing Large Language Models'Machine Translation via Dynamic Focus   Anchoring | Verbesserung der Übersetzung großer Sprachmodelle durch Dynamic Focus Anchoring | 通过动态焦点拼接加强大语言模型的“Machine ”翻译 [2505.23140v1](http://arxiv.org/abs/2505.23140v1)
 
 **Authors**: Qiuyu Ding, Zhiqiang Cao, Hailong Cao, Tiejun Zhao
@@ -2886,6 +3038,7 @@ Large language models have demonstrated exceptional performance across multiple 
 
 ## Article 152
 ### Title@2025-05-29 (4): CLEME2.0: Towards Interpretable Evaluation by Disentangling Edits for   Grammatical Error Correction
+
 **Title**: CLEME2.0: Towards Interpretable Evaluation by Disentangling Edits for   Grammatical Error Correction | CLEME2.0: Auf dem Weg zur Interpretierbaren Bewertung durch Entwirren von Edits für die Korrektur von Grammatikfehlern | CLEME2.0:通过拆分文体错误校正的编辑版实现可解释性评价 [2407.00934v2](http://arxiv.org/abs/2407.00934v2)
 
 **Authors**: Jingheng Ye, Zishan Xu, Yinghui Li, Linlin Song, Qingyu Zhou, Hai-Tao Zheng, Ying Shen, Wenhao Jiang, Hong-Gee Kim, Ruitong Liu, Xin Su, Zifei Shan
@@ -2896,6 +3049,7 @@ The paper focuses on the interpretability of Grammatical Error Correction (GEC) 
 
 ## Article 153
 ### Title@2025-05-29 (4): Learning to Reason under Off-Policy Guidance
+
 **Title**: Learning to Reason under Off-Policy Guidance | Unter außerpolitischer Anleitung zur Vernunft lernen | 根据非政策指导学习理由 [2504.14945v4](http://arxiv.org/abs/2504.14945v4)
 
 **Authors**: Jianhao Yan, Yafu Li, Zican Hu, Zhi Wang, Ganqu Cui, Xiaoye Qu, Yu Cheng, Yue Zhang
@@ -2906,6 +3060,7 @@ Recent advances in large reasoning models (LRMs) demonstrate that sophisticated 
 
 ## Article 154
 ### Title@2025-05-29 (4): EarthSE: A Benchmark Evaluating Earth Scientific Exploration Capability   for Large Language Models
+
 **Title**: EarthSE: A Benchmark Evaluating Earth Scientific Exploration Capability   for Large Language Models | EarthSE: Ein Benchmark für die Bewertung der wissenschaftlichen Explorationsfähigkeit der Erde für große Sprachmodelle | EarthSE:大语言模型地球科学探索能力基准评估 [2505.17139v2](http://arxiv.org/abs/2505.17139v2)
 
 **Authors**: Wanghan Xu, Xiangyu Zhao, Yuhao Zhou, Xiaoyu Yue, Ben Fei, Fenghua Ling, Wenlong Zhang, Lei Bai
@@ -2916,6 +3071,7 @@ Advancements in Large Language Models (LLMs) drive interest in scientific applic
 
 ## Article 155
 ### Title@2025-05-29 (4): Jailbreaking to Jailbreak
+
 **Title**: Jailbreaking to Jailbreak | Gefängnisbruch zum Gefängnisbruch | 破门而入,破门而入, [2502.09638v2](http://arxiv.org/abs/2502.09638v2)
 
 **Authors**: Jeremy Kritz, Vaughn Robinson, Robert Vacareanu, Bijan Varjavand, Michael Choi, Bobby Gogov, Scale Red Team, Summer Yue, Willow E. Primack, Zifan Wang
@@ -2926,6 +3082,7 @@ Large Language Models (LLMs) can be used to red team other models (e.g. jailbrea
 
 ## Article 156
 ### Title@2025-05-29 (4): REVS: Unlearning Sensitive Information in Language Models via Rank   Editing in the Vocabulary Space
+
 **Title**: REVS: Unlearning Sensitive Information in Language Models via Rank   Editing in the Vocabulary Space | REVS: Unlearning Sensible Information in Language Models via Rank Editing im Vokabelfeld | REVS:通过词汇空间排行编辑在语言模型中学习敏感信息 [2406.09325v5](http://arxiv.org/abs/2406.09325v5)
 
 **Authors**: Tomer Ashuach, Martin Tutek, Yonatan Belinkov
@@ -2936,6 +3093,7 @@ Language models (LMs) risk inadvertently memorizing and divulging sensitive or p
 
 ## Article 157
 ### Title@2025-05-29 (4): GETReason: Enhancing Image Context Extraction through Hierarchical   Multi-Agent Reasoning
+
 **Title**: GETReason: Enhancing Image Context Extraction through Hierarchical   Multi-Agent Reasoning | GETReason: Bildkontext-Extraktion durch Hierarchische Multi-Agenten-Reasoning verbessern | GetReason:通过等级式多机构代理理由加强图像背景采掘 [2505.21863v2](http://arxiv.org/abs/2505.21863v2)
 
 **Authors**: Shikhhar Siingh, Abhinav Rawat, Chitta Baral, Vivek Gupta
@@ -2946,6 +3104,7 @@ Publicly significant images from events hold valuable contextual information, cr
 
 ## Article 158
 ### Title@2025-05-29 (4): LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful   Synthetic Data
+
 **Title**: LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful   Synthetic Data | LongFaith: Verbesserung der Langkontext-Reasonierung in LLMs mit treuen synthetischen Daten | 长面:利用忠实合成数据加强LLMs中的长方理由 [2502.12583v2](http://arxiv.org/abs/2502.12583v2)
 
 **Authors**: Cehao Yang, Xueyuan Lin, Chengjin Xu, Xuhui Jiang, Shengjie Ma, Aofan Liu, Hui Xiong, Jian Guo
@@ -2956,6 +3115,7 @@ Despite the growing development of long-context large language models (LLMs), da
 
 ## Article 159
 ### Title@2025-05-29 (4): Human-Readable Adversarial Prompts: An Investigation into LLM   Vulnerabilities Using Situational Context
+
 **Title**: Human-Readable Adversarial Prompts: An Investigation into LLM   Vulnerabilities Using Situational Context | Human-Readable Adversarial Prompts: Eine Untersuchung von LLM-Fehlern mit situationsbezogenem Kontext | 人类可以读取的反向提示:利用情况背景调查LLM脆弱性 [2412.16359v3](http://arxiv.org/abs/2412.16359v3)
 
 **Authors**: Nilanjana Das, Edward Raff, Aman Chadha, Manas Gaur
@@ -2966,6 +3126,7 @@ As the AI systems become deeply embedded in social media platforms, we've uncove
 
 ## Article 160
 ### Title@2025-05-29 (4): PBEBench: A Multi-Step Programming by Examples Reasoning Benchmark   inspired by Historical Linguistics
+
 **Title**: PBEBench: A Multi-Step Programming by Examples Reasoning Benchmark   inspired by Historical Linguistics | PBEBench: Ein mehrstufiges Programmieren nach Beispielen, inspiriert von historischer Linguistik | PBEBench:根据历史语言推导的多层次方案拟定工作 [2505.23126v1](http://arxiv.org/abs/2505.23126v1)
 
 **Authors**: Atharva Naik, Darsh Agrawal, Manav Kapadnis, Yuwei An, Yash Mathur, Carolyn Rose, David Mortensen
@@ -2976,6 +3137,7 @@ Recently, long chain of thought (LCoT), Large Language Models (LLMs), have taken
 
 ## Article 161
 ### Title@2025-05-29 (4): CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark
+
 **Title**: CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark | CASS: Nvidia zu AMD Transpilation mit Daten, Modellen und Benchmark | CASS: Nvidia 到AMD 传输数据、模型和基准 [2505.16968v3](http://arxiv.org/abs/2505.16968v3)
 
 **Authors**: Ahmed Heakl, Sarim Hashmi, Gustavo Bertolo Stahl, Seung Hun Eddie Han, Salman Khan, Abdulrahman Mahmoud
@@ -2986,6 +3148,7 @@ We introduce CASS, the first large-scale dataset and model suite for cross-archi
 
 ## Article 162
 ### Title@2025-05-29 (4): Improving Brain-to-Image Reconstruction via Fine-Grained Text Bridging
+
 **Title**: Improving Brain-to-Image Reconstruction via Fine-Grained Text Bridging | Verbesserung des Brain-to-Image-Reconstructions durch feinkörnige Text-Bridging | 通过完善的文本连接改进脑到图像重建 [2505.22150v2](http://arxiv.org/abs/2505.22150v2)
 
 **Authors**: Runze Xia, Shuo Feng, Renzhi Wang, Congchi Yin, Xuyun Wen, Piji Li
@@ -2996,6 +3159,7 @@ Brain-to-Image reconstruction aims to recover visual stimuli perceived by humans
 
 ## Article 163
 ### Title@2025-05-29 (4): ContextQFormer: A New Context Modeling Method for Multi-Turn Multi-Modal   Conversations
+
 **Title**: ContextQFormer: A New Context Modeling Method for Multi-Turn Multi-Modal   Conversations | ContextQFormer: Eine neue Context-Modellierungsmethode für Multi-Turn Multi-Modal-Gespräche | 上下文前:多发多式多模式对话的新背景建模方法 [2505.23121v1](http://arxiv.org/abs/2505.23121v1)
 
 **Authors**: Yiming Lei, Zhizheng Yang, Zeming Liu, Haitao Leng, Shaoguo Liu, Tingting Gao, Qingjie Liu, Yunhong Wang
@@ -3006,6 +3170,7 @@ Multi-modal large language models have demonstrated remarkable zero-shot abiliti
 
 ## Article 164
 ### Title@2025-05-29 (4): Elicit and Enhance: Advancing Multimodal Reasoning in Medical Scenarios
+
 **Title**: Elicit and Enhance: Advancing Multimodal Reasoning in Medical Scenarios | Elicit und Enhance: Multimodale Reasoning in medizinischen Szenarien fördern | 明确和强化:推进医疗假想中的多式联运理由 [2505.23118v1](http://arxiv.org/abs/2505.23118v1)
 
 **Authors**: Linjie Mu, Zhongzhen Huang, Yakun Zhu, Xiangyu Zhao, Shaoting Zhang, Xiaofan Zhang
@@ -3016,6 +3181,7 @@ Effective clinical decision-making depends on iterative, multimodal reasoning ac
 
 ## Article 165
 ### Title@2025-05-29 (4): Learning to Reason from Feedback at Test-Time
+
 **Title**: Learning to Reason from Feedback at Test-Time | Von Feedback bei Test-Time zur Vernunft lernen | 从测试时的反馈中学习到理由 [2502.15771v2](http://arxiv.org/abs/2502.15771v2)
 
 **Authors**: Yanyang Li, Michael Lyu, Liwei Wang
@@ -3026,6 +3192,7 @@ Solving complex tasks in a single attempt is challenging for large language mode
 
 ## Article 166
 ### Title@2025-05-29 (4): Dataset Cartography for Large Language Model Alignment: Mapping and   Diagnosing Preference Data
+
 **Title**: Dataset Cartography for Large Language Model Alignment: Mapping and   Diagnosing Preference Data | Datensatzkartographie für großsprachliche Modellausrichtung: Mapping und Diagnose von Präferenzdaten | 用于大语言模型对齐的数据集制图:绘图和诊断优先数据 [2505.23114v1](http://arxiv.org/abs/2505.23114v1)
 
 **Authors**: Seohyeong Lee, Eunwon Kim, Hwaran Lee, Buru Chang
@@ -3036,6 +3203,7 @@ Human preference data plays a critical role in aligning large language models (L
 
 ## Article 167
 ### Title@2025-05-29 (4): C$^2$LEVA: Toward Comprehensive and Contamination-Free Language Model   Evaluation
+
 **Title**: C$^2$LEVA: Toward Comprehensive and Contamination-Free Language Model   Evaluation | C$^2$LEVA: Auf dem Weg zu einer umfassenden und kontaminationsfreien Sprachmodellbewertung | C$$2$LEVA:努力实现全面和无污染、无污染的无语言模式评价 [2412.04947v3](http://arxiv.org/abs/2412.04947v3)
 
 **Authors**: Yanyang Li, Tin Long Wong, Cheung To Hung, Jianqiao Zhao, Duo Zheng, Ka Wai Liu, Michael R. Lyu, Liwei Wang
@@ -3046,6 +3214,7 @@ Recent advances in large language models (LLMs) have shown significant promise, 
 
 ## Article 168
 ### Title@2025-05-29 (4): FutureGen: LLM-RAG Approach to Generate the Future Work of Scientific   Article
+
 **Title**: FutureGen: LLM-RAG Approach to Generate the Future Work of Scientific   Article | FutureGen: LLM-RAG Ansatz zur Generierung der zukünftigen Arbeit des wissenschaftlichen Artikels | FutureGen:LLM-RAG 产生科学条款未来工作的方法 [2503.16561v2](http://arxiv.org/abs/2503.16561v2)
 
 **Authors**: Ibrahim Al Azher, Miftahul Jannat Mokarrama, Zhishuai Guo, Sagnik Ray Choudhury, Hamed Alhoori
@@ -3056,6 +3225,7 @@ The future work section of a scientific article outlines potential research dire
 
 ## Article 169
 ### Title@2025-05-29 (4): LLM Meets Scene Graph: Can Large Language Models Understand and Generate   Scene Graphs? A Benchmark and Empirical Study
+
 **Title**: LLM Meets Scene Graph: Can Large Language Models Understand and Generate   Scene Graphs? A Benchmark and Empirical Study | LLM trifft Szenegraph: Können große Sprachmodelle Szenengraphen verstehen und generieren? Eine Benchmark- und Empirische Studie | LLM 满足景象图:大语言模型能够理解和产生景象图吗? 基准和经验研究 [2505.19510v2](http://arxiv.org/abs/2505.19510v2)
 
 **Authors**: Dongil Yang, Minjin Kim, Sunghwan Kim, Beong-woo Kwak, Minjun Park, Jinseok Hong, Woontack Woo, Jinyoung Yeo
@@ -3066,6 +3236,7 @@ The remarkable reasoning and generalization capabilities of Large Language Model
 
 ## Article 170
 ### Title@2025-05-29 (4): Generating Diverse Training Samples for Relation Extraction with Large   Language Models
+
 **Title**: Generating Diverse Training Samples for Relation Extraction with Large   Language Models | Erzeugen von unterschiedlichen Trainingsbeispielen für die Beziehungsextraktion mit großen Sprachmodellen | 生成多种培训样本,用于与大语言模式的抽取关系 [2505.23108v1](http://arxiv.org/abs/2505.23108v1)
 
 **Authors**: Zexuan Li, Hongliang Dai, Piji Li
@@ -3076,6 +3247,7 @@ Using Large Language Models (LLMs) to generate training data can potentially be 
 
 ## Article 171
 ### Title@2025-05-29 (4): Can We Predict Performance of Large Models across Vision-Language Tasks?
+
 **Title**: Can We Predict Performance of Large Models across Vision-Language Tasks? | Können wir die Leistung großer Modelle über Vision-Language-Aufgaben hinweg voraussagen? | 我们能否预测大型模型在愿景-语言任务中的绩效? [2410.10112v2](http://arxiv.org/abs/2410.10112v2)
 
 **Authors**: Qinyu Zhao, Ming Xu, Kartik Gupta, Akshay Asthana, Liang Zheng, Stephen Gould
@@ -3086,6 +3258,7 @@ Evaluating large vision-language models (LVLMs) is very expensive, due to high c
 
 ## Article 172
 ### Title@2025-05-29 (4): Automatic Transmission for LLM Tiers: Optimizing Cost and Accuracy in   Large Language Models
+
 **Title**: Automatic Transmission for LLM Tiers: Optimizing Cost and Accuracy in   Large Language Models | Automatische Übertragung für LLM-Tiers: Kosten- und Genauigkeitsoptimierung in großen Sprachmodellen | LLM Tiers 自动传输: 优化大语言模型的成本和准确度 [2505.20921v2](http://arxiv.org/abs/2505.20921v2)
 
 **Authors**: Injae Na, Keonwoong Noh, Woohwan Jung
@@ -3096,6 +3269,7 @@ LLM providers typically offer multiple LLM tiers, varying in performance and pri
 
 ## Article 173
 ### Title@2025-05-29 (4): RepCali: High Efficient Fine-tuning Via Representation Calibration in   Latent Space for Pre-trained Language Models
+
 **Title**: RepCali: High Efficient Fine-tuning Via Representation Calibration in   Latent Space for Pre-trained Language Models | RepCali: Hocheffizientes Feintuning über Darstellungskalibrierung im Latent Space für vortrainierte Sprachmodelle | RepCali:为预培训语言模型在冷藏空间进行高效的精微微调 Via代表比例校准 [2505.08463v2](http://arxiv.org/abs/2505.08463v2)
 
 **Authors**: Fujun Zhang, Xiaoying Fan, XiangDong Su, Guanglai Gao
@@ -3106,6 +3280,7 @@ Fine-tuning pre-trained language models (PLMs) has become a dominant paradigm in
 
 ## Article 174
 ### Title@2025-05-29 (4): SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven   Retrieval-Augmented Generation
+
 **Title**: SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven   Retrieval-Augmented Generation | SimGRAG: Nutzung ähnlicher Subgraphen für Wissensgraphen Driven Retrieval-Augmented Generation | SimGRAG: 利用知识图形驱动回溯源的类似子集 [2412.15272v2](http://arxiv.org/abs/2412.15272v2)
 
 **Authors**: Yuzheng Cai, Zhenyue Guo, Yiwen Pei, Wanrui Bian, Weiguo Zheng
@@ -3116,6 +3291,7 @@ Recent advancements in large language models (LLMs) have shown impressive versat
 
 ## Article 175
 ### Title@2025-05-29 (4): MAP: Revisiting Weight Decomposition for Low-Rank Adaptation
+
 **Title**: MAP: Revisiting Weight Decomposition for Low-Rank Adaptation | KARTE: Wiederbesuchen der Gewichtsverringerung für Low-Rank-Anpassung | MAP: 重新审视低浓度适应的重量分解 [2505.23094v1](http://arxiv.org/abs/2505.23094v1)
 
 **Authors**: Chongjie Si, Zhiyi Shi, Yadao Wang, Xiaokang Yang, Susanto Rahardja, Wei Shen
@@ -3126,6 +3302,7 @@ The rapid development of large language models has revolutionized natural langua
 
 ## Article 176
 ### Title@2025-05-29 (4): Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased   Reinforcement Learning in Multimodal Small Language Models
+
 **Title**: Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased   Reinforcement Learning in Multimodal Small Language Models | Infi-MMR: Curriculumbasiertes Entsperren multimodaler Vernunft durch schrittweises Verstärktes Lernen in multimodalen Small Language-Modellen | Infi-MMMR:通过在多模式小型语言模式中分阶段强化学习,以课程为基础解锁多模式原因 [2505.23091v1](http://arxiv.org/abs/2505.23091v1)
 
 **Authors**: Zeyu Liu, Yuhang Liu, Guanghao Zhu, Congkai Xie, Zhen Li, Jianbo Yuan, Xinyao Wang, Qing Li, Shing-Chi Cheung, Shengyu Zhang, Fei Wu, Hongxia Yang
@@ -3136,6 +3313,7 @@ Recent advancements in large language models (LLMs) have demonstrated substantia
 
 ## Article 177
 ### Title@2025-05-29 (4): Document-Level Text Generation with Minimum Bayes Risk Decoding using   Optimal Transport
+
 **Title**: Document-Level Text Generation with Minimum Bayes Risk Decoding using   Optimal Transport | Document-Level Text Generierung mit minimalen Bayes Risikodekodierung mit optimalem Transport | 采用最佳运输方式,以文件水平生成具有最低比值风险解码的文本 [2505.23078v1](http://arxiv.org/abs/2505.23078v1)
 
 **Authors**: Yuu Jinnai
@@ -3146,6 +3324,7 @@ Document-level text generation tasks are known to be more difficult than sentenc
 
 ## Article 178
 ### Title@2025-05-29 (4): Contextualized Automatic Speech Recognition with Dynamic Vocabulary   Prediction and Activation
+
 **Title**: Contextualized Automatic Speech Recognition with Dynamic Vocabulary   Prediction and Activation | Kontextualisierte automatische Spracherkennung mit dynamischer Vokabelvorhersage und Aktivierung | 具有动态词汇预测和启动功能的实用自动语音识别 [2505.23077v1](http://arxiv.org/abs/2505.23077v1)
 
 **Authors**: Zhennan Lin, Kaixun Huang, Wei Ren, Linju Yang, Lei Xie
@@ -3156,6 +3335,7 @@ Deep biasing improves automatic speech recognition (ASR) performance by incorpor
 
 ## Article 179
 ### Title@2025-05-29 (4): Shortcut-connected Expert Parallelism for Accelerating   Mixture-of-Experts
+
 **Title**: Shortcut-connected Expert Parallelism for Accelerating   Mixture-of-Experts | Shortcut-verbundene Experten-Parallelität für die Beschleunigung von Mixture-of-Experts | 加速混合专家专家专家平行专家 [2404.05019v3](http://arxiv.org/abs/2404.05019v3)
 
 **Authors**: Weilin Cai, Juyong Jiang, Le Qin, Junwei Cui, Sunghun Kim, Jiayi Huang
@@ -3166,6 +3346,7 @@ Expert parallelism has emerged as a key strategy for distributing the computatio
 
 ## Article 180
 ### Title@2025-05-29 (4): SORSA: Singular Values and Orthonormal Regularized Singular Vectors   Adaptation of Large Language Models
+
 **Title**: SORSA: Singular Values and Orthonormal Regularized Singular Vectors   Adaptation of Large Language Models | SORSA: Singuläre Werte und Orthonormale Regularisierte Singuläre Vektoren Anpassung großer Sprachmodelle | SORSA: 单项价值和正正正的正规化的单项矢量,以适应大语言模式 [2409.00055v6](http://arxiv.org/abs/2409.00055v6)
 
 **Authors**: Yang Cao, Zhao Song
@@ -3176,6 +3357,7 @@ In this paper, we propose Singular Values and Orthonormal Regularized Singular V
 
 ## Article 181
 ### Title@2025-05-29 (4): SNS-Bench-VL: Benchmarking Multimodal Large Language Models in Social   Networking Services
+
 **Title**: SNS-Bench-VL: Benchmarking Multimodal Large Language Models in Social   Networking Services | SNS-Bench-VL: Benchmarking multimodaler Großsprachenmodelle in Social Networking Services | SNS-Bench-VL:确定社会联网服务中多式大语言模式基准 [2505.23065v1](http://arxiv.org/abs/2505.23065v1)
 
 **Authors**: Hongcheng Guo, Zheyong Xie, Shaosheng Cao, Boyang Wang, Weiting Liu, Anjie Le, Lei Li, Zhoujun Li
@@ -3186,6 +3368,7 @@ With the increasing integration of visual and textual content in Social Networki
 
 ## Article 182
 ### Title@2025-05-29 (4): GIVE: Structured Reasoning of Large Language Models with Knowledge Graph   Inspired Veracity Extrapolation
+
 **Title**: GIVE: Structured Reasoning of Large Language Models with Knowledge Graph   Inspired Veracity Extrapolation | GIVE: Strukturierte Begründung großer Sprachmodelle mit Wissensgrafik inspirierte Veracity-Extrapolation | 特具:大语言模式结构原因说明,以知识图激发的多才多艺外推法 [2410.08475v3](http://arxiv.org/abs/2410.08475v3)
 
 **Authors**: Jiashu He, Mingyu Derek Ma, Jinxuan Fan, Dan Roth, Wei Wang, Alejandro Ribeiro
@@ -3196,6 +3379,7 @@ Existing approaches based on context prompting or reinforcement learning (RL) to
 
 ## Article 183
 ### Title@2025-05-29 (4): Speculative Decoding Meets Quantization: Compatibility Evaluation and   Hierarchical Framework Design
+
 **Title**: Speculative Decoding Meets Quantization: Compatibility Evaluation and   Hierarchical Framework Design | Spekulative Dekodierung trifft auf Quantisierung: Kompatibilitätsbewertung und Hierarchisches Framework Design | 投机性下限符合量化:兼容性评价和等级框架设计 [2505.22179v2](http://arxiv.org/abs/2505.22179v2)
 
 **Authors**: Yudi Zhang, Weilin Zhao, Xu Han, Tiejun Zhao, Wang Xu, Hailong Cao, Conghui Zhu
@@ -3206,6 +3390,7 @@ Speculative decoding and quantization effectively accelerate memory-bound infere
 
 ## Article 184
 ### Title@2025-05-29 (4): Self-Correcting Code Generation Using Small Language Models
+
 **Title**: Self-Correcting Code Generation Using Small Language Models | Selbstkorrekte Code-Generierung mit kleinen Sprachmodellen | 使用小型语言模式自行校正代码生成 [2505.23060v1](http://arxiv.org/abs/2505.23060v1)
 
 **Authors**: Jeonghun Cho, Deokhyung Kang, Hyounghun Kim, Gary Geunbae Lee
@@ -3216,6 +3401,7 @@ Self-correction has demonstrated potential in code generation by allowing langua
 
 ## Article 185
 ### Title@2025-05-29 (4): Be.FM: Open Foundation Models for Human Behavior
+
 **Title**: Be.FM: Open Foundation Models for Human Behavior | Be.FM: Open Foundation Modelle für menschliches Verhalten | BeFM: 人类行为开放基础模型 [2505.23058v1](http://arxiv.org/abs/2505.23058v1)
 
 **Authors**: Yutong Xie, Zhuoheng Li, Xiyuan Wang, Yijun Pan, Qijia Liu, Xingzhi Cui, Kuang-Yu Lo, Ruoyi Gao, Xingjian Zhang, Jin Huang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei
@@ -3226,6 +3412,7 @@ Despite their success in numerous fields, the potential of foundation models for
 
 ## Article 186
 ### Title@2025-05-29 (4): OrionBench: A Benchmark for Chart and Human-Recognizable Object   Detection in Infographics
+
 **Title**: OrionBench: A Benchmark for Chart and Human-Recognizable Object   Detection in Infographics | OrionBench: Ein Benchmark für Diagramm- und Mensch-erkennbare Objekterkennung in Infografiken | Orion Bunch:图表和人类可识别的在信息图中探测物体的基准 [2505.17473v3](http://arxiv.org/abs/2505.17473v3)
 
 **Authors**: Jiangning Zhu, Yuxing Zhou, Zheng Wang, Juntao Yao, Yima Gu, Yuhui Yuan, Shixia Liu
@@ -3236,6 +3423,7 @@ Given the central role of charts in scientific, business, and communication cont
 
 ## Article 187
 ### Title@2025-05-29 (4): Distill CLIP (DCLIP): Enhancing Image-Text Retrieval via Cross-Modal   Transformer Distillation
+
 **Title**: Distill CLIP (DCLIP): Enhancing Image-Text Retrieval via Cross-Modal   Transformer Distillation | Destill CLIP (DCLIP): Bild-Text-Retrieval durch Cross-Modal Transformer-Destillation verbessern | 蒸馏 CLIP (DCLIP): 通过跨模式变异器蒸馏加强图像- 文本回收 [2505.21549v2](http://arxiv.org/abs/2505.21549v2)
 
 **Authors**: Daniel Csizmadia, Andrei Codreanu, Victor Sim, Vighnesh Prabhu, Michael Lu, Kevin Zhu, Sean O'Brien, Vasu Sharma
@@ -3246,6 +3434,7 @@ We present Distill CLIP (DCLIP), a fine-tuned variant of the CLIP model that enh
 
 ## Article 188
 ### Title@2025-05-29 (4): Query Routing for Retrieval-Augmented Language Models
+
 **Title**: Query Routing for Retrieval-Augmented Language Models | Abfrage-Routing für Retrieval-Augmented Language-Modelle | 查询检索推荐语言模型的查询路径 [2505.23052v1](http://arxiv.org/abs/2505.23052v1)
 
 **Authors**: Jiarui Zhang, Xiangyu Liu, Yong Hu, Chaoyue Niu, Fan Wu, Guihai Chen
@@ -3256,6 +3445,7 @@ Retrieval-Augmented Generation (RAG) significantly improves the performance of L
 
 ## Article 189
 ### Title@2025-05-29 (4): DenoiseRotator: Enhance Pruning Robustness for LLMs via Importance   Concentration
+
 **Title**: DenoiseRotator: Enhance Pruning Robustness for LLMs via Importance   Concentration | DenoiseRotator: Verbesserung der Beschneidungsfestigkeit für LLMs durch Bedeutungskonzentration | DenoisRotator:通过重视浓度提高LLMs的稳健力 [2505.23049v1](http://arxiv.org/abs/2505.23049v1)
 
 **Authors**: Tianteng Gu, Bei Liu, Bo Xiao, Ke Zeng, Jiacheng Liu, Yanmin Qian
@@ -3266,6 +3456,7 @@ Pruning is a widely used technique to compress large language models (LLMs) by r
 
 ## Article 190
 ### Title@2025-05-29 (4): Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines
+
 **Title**: Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines | Instruction-Tuning LLMs für die Ereignisextraktion mit Annotationsrichtlinien | 说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性说明性准则 [2502.16377v2](http://arxiv.org/abs/2502.16377v2)
 
 **Authors**: Saurabh Srivastava, Sweta Pati, Ziyu Yao
@@ -3276,6 +3467,7 @@ In this work, we study the effect of annotation guidelines -- textual descriptio
 
 ## Article 191
 ### Title@2025-05-29 (4): FlexDuo: A Pluggable System for Enabling Full-Duplex Capabilities in   Speech Dialogue Systems
+
 **Title**: FlexDuo: A Pluggable System for Enabling Full-Duplex Capabilities in   Speech Dialogue Systems | FlexDuo: Ein Pluggable-System zur Ermöglichung von Full-Duplex-Fähigkeiten in Sprachdialogsystemen | FlexDuo:一个促进语音对话系统全面灵活能力的插件系统 [2502.13472v2](http://arxiv.org/abs/2502.13472v2)
 
 **Authors**: Borui Liao, Yulong Xu, Jiao Ou, Kaiyuan Yang, Weihua Jian, Pengfei Wan, Di Zhang
@@ -3286,6 +3478,7 @@ Full-Duplex Speech Dialogue Systems (Full-Duplex SDS) have significantly enhance
 
 ## Article 192
 ### Title@2025-05-29 (4): NeedleInATable: Exploring Long-Context Capability of Large Language   Models towards Long-Structured Tables
+
 **Title**: NeedleInATable: Exploring Long-Context Capability of Large Language   Models towards Long-Structured Tables | NeedleInATable: Erforschen von Langkontext-Kapazität von großen Sprachmodellen zu langstrukturierten Tabellen | 针线表:探索长结构表格中大语言模型的长文能力 [2504.06560v2](http://arxiv.org/abs/2504.06560v2)
 
 **Authors**: Lanrui Wang, Mingyu Zheng, Hongyin Tang, Zheng Lin, Yanan Cao, Jingang Wang, Xunliang Cai, Weiping Wang
@@ -3296,6 +3489,7 @@ Processing structured tabular data, particularly large and lengthy tables, const
 
 ## Article 193
 ### Title@2025-05-29 (4): Cross-modal RAG: Sub-dimensional Retrieval-Augmented Text-to-Image   Generation
+
 **Title**: Cross-modal RAG: Sub-dimensional Retrieval-Augmented Text-to-Image   Generation | Cross-modal RAG: Sub-dimensionale Retrieval-Augmented Text-to-Image Generation | 跨模式RAG:次二维检索增强的文本到图像生成 [2505.21956v2](http://arxiv.org/abs/2505.21956v2)
 
 **Authors**: Mengdan Zhu, Senhao Cheng, Guangji Bai, Yifei Zhang, Liang Zhao
@@ -3306,6 +3500,7 @@ Text-to-image generation increasingly demands access to domain-specific, fine-gr
 
 ## Article 194
 ### Title@2025-05-29 (4): TailorSQL: An NL2SQL System Tailored to Your Query Workload
+
 **Title**: TailorSQL: An NL2SQL System Tailored to Your Query Workload | TailorSQL: Ein NL2SQL-System, das auf Ihre Abfrage-Workloads zugeschnitten ist | 定制SQL: 适合您查询工作量的 NL2SQL 系统 [2505.23039v1](http://arxiv.org/abs/2505.23039v1)
 
 **Authors**: Kapil Vaidya, Jialin Ding, Sebastian Kosak, David Kernert, Chuan Lei, Xiao Qin, Abhinav Tripathy, Ramesh Balan, Balakrishnan Narayanaswamy, Tim Kraska
@@ -3316,6 +3511,7 @@ NL2SQL (natural language to SQL) translates natural language questions into SQL 
 
 ## Article 195
 ### Title@2025-05-29 (4): EL4NER: Ensemble Learning for Named Entity Recognition via Multiple   Small-Parameter Large Language Models
+
 **Title**: EL4NER: Ensemble Learning for Named Entity Recognition via Multiple   Small-Parameter Large Language Models | EL4NER: Ensemble Lernen für die benannte Entity-Erkennung über mehrere kleine Parameter große Sprachmodelle | EL4NER:通过多小口径大语言模型进行命名实体识别的结合学习 [2505.23038v1](http://arxiv.org/abs/2505.23038v1)
 
 **Authors**: Yuzhen Xiao, Jiahe Song, Yongxin Xu, Ruizhe Zhang, Yiqi Xiao, Xin Lu, Runchuan Zhu, Bowen Jiang, Junfeng Zhao
@@ -3326,6 +3522,7 @@ In-Context Learning (ICL) technique based on Large Language Models (LLMs) has ga
 
 ## Article 196
 ### Title@2025-05-29 (4): Improving Multilingual Social Media Insights: Aspect-based Comment   Analysis
+
 **Title**: Improving Multilingual Social Media Insights: Aspect-based Comment   Analysis | Mehrsprachige Social Media-Insights verbessern: Aspect-based Comment Analysis | 改进多语种社会媒体透视:基于背景的评论分析 [2505.23037v1](http://arxiv.org/abs/2505.23037v1)
 
 **Authors**: Longyin Zhang, Bowei Zou, Ai Ti Aw
@@ -3336,6 +3533,7 @@ The inherent nature of social media posts, characterized by the freedom of langu
 
 ## Article 197
 ### Title@2025-05-29 (4): LoRA-MGPO: Mitigating Double Descent in Low-Rank Adaptation via   Momentum-Guided Perturbation Optimization
+
 **Title**: LoRA-MGPO: Mitigating Double Descent in Low-Rank Adaptation via   Momentum-Guided Perturbation Optimization | LoRA-MGPO: Doppelabstieg in der Low-Rank-Anpassung durch Momentum-geführte Perturbierungs-Optimierung abmildern | LoRA-MGPO:通过动力调节-受控渗透优化,减少低辐射适应中的双重来源 [2502.14538v2](http://arxiv.org/abs/2502.14538v2)
 
 **Authors**: Yupeng Chang, Chenlu Guo, Yi Chang, Yuan Wu
@@ -3346,6 +3544,7 @@ Parameter-efficient fine-tuning (PEFT) methods, such as Low-Rank Adaptation (LoR
 
 ## Article 198
 ### Title@2025-05-29 (4): Machine-Facing English: Defining a Hybrid Register Shaped by Human-AI   Discourse
+
 **Title**: Machine-Facing English: Defining a Hybrid Register Shaped by Human-AI   Discourse | Machine-Facing English: Definition eines hybriden Registers, geformt von Human-AI Diskurs | 面向机器的英语: 定义由人类-AI 论文构成的混合登记册 [2505.23035v1](http://arxiv.org/abs/2505.23035v1)
 
 **Authors**: Hyunwoo Kim, Hanau Yi
@@ -3356,6 +3555,7 @@ Machine-Facing English (MFE) is an emergent register shaped by the adaptation of
 
 ## Article 199
 ### Title@2025-05-29 (4): Exploring the Limitations of Mamba in COPY and CoT Reasoning
+
 **Title**: Exploring the Limitations of Mamba in COPY and CoT Reasoning | Erforschung der Grenzen von Mamba in COPY und CoT Reasoning | 探索COPY和COT理由解释中Mamba的局限性 [2410.03810v3](http://arxiv.org/abs/2410.03810v3)
 
 **Authors**: Ruifeng Ren, Zhicong Li, Yong Liu
@@ -3366,6 +3566,7 @@ Transformers have become the backbone of modern Large Language Models (LLMs); ho
 
 ## Article 200
 ### Title@2025-05-29 (4): AntiLeakBench: Preventing Data Contamination by Automatically   Constructing Benchmarks with Updated Real-World Knowledge
+
 **Title**: AntiLeakBench: Preventing Data Contamination by Automatically   Constructing Benchmarks with Updated Real-World Knowledge | AntiLeakBench: Datenkontamination durch automatisches Konstruieren von Benchmarks mit aktualisiertem Real-World-Wissen verhindern | 防止泄漏:利用最新现实世界知识自动建立基准,防止数据污染 [2412.13670v2](http://arxiv.org/abs/2412.13670v2)
 
 **Authors**: Xiaobao Wu, Liangming Pan, Yuxi Xie, Ruiwen Zhou, Shuai Zhao, Yubo Ma, Mingzhe Du, Rui Mao, Anh Tuan Luu, William Yang Wang
@@ -3376,6 +3577,7 @@ Data contamination hinders fair LLM evaluation by introducing test data into new
 
 ## Article 201
 ### Title@2025-05-29 (4): On the Risk of Evidence Pollution for Malicious Social Text Detection in   the Era of LLMs
+
 **Title**: On the Risk of Evidence Pollution for Malicious Social Text Detection in   the Era of LLMs | Über das Risiko der Beweisverschmutzung für bösartige Social Text Detection in der Ära der LLMs | 关于在LLMM公司时代对恶性社会文本进行侦破的证据污染风险 [2410.12600v2](http://arxiv.org/abs/2410.12600v2)
 
 **Authors**: Herun Wan, Minnan Luo, Zhixiong Su, Guang Dai, Xiang Zhao
@@ -3386,6 +3588,7 @@ Evidence-enhanced detectors present remarkable abilities in identifying maliciou
 
 ## Article 202
 ### Title@2025-05-29 (4): Can Modern NLP Systems Reliably Annotate Chest Radiography Exams? A   Pre-Purchase Evaluation and Comparative Study of Solutions from AWS, Google,   Azure, John Snow Labs, and Open-Source Models on an Independent Pediatric   Dataset
+
 **Title**: Can Modern NLP Systems Reliably Annotate Chest Radiography Exams? A   Pre-Purchase Evaluation and Comparative Study of Solutions from AWS, Google,   Azure, John Snow Labs, and Open-Source Models on an Independent Pediatric   Dataset | Können moderne NLP-Systeme zuverlässig Röntgenuntersuchungen im Brustkorb annotieren? Eine Pre-Purchase-Bewertung und vergleichende Untersuchung von Lösungen von AWS, Google, Azure, John Snow Labs und Open-Source-Modellen auf einem unabhängigen Kinderdatensatz | 现代NLP系统能否可靠地说明胸前射电测量? 对AWS、Google、Azure、John Snow实验室和独立儿科数据集开放来源模型的解决方案进行采购前评估和比较研究 [2505.23030v1](http://arxiv.org/abs/2505.23030v1)
 
 **Authors**: Shruti Hegde, Mabon Manoj Ninan, Jonathan R. Dillman, Shireen Hayatghaibi, Lynn Babcock, Elanchezhian Somasundaram
@@ -3396,6 +3599,7 @@ General-purpose clinical natural language processing (NLP) tools are increasingl
 
 ## Article 203
 ### Title@2025-05-29 (4): Uncovering Visual-Semantic Psycholinguistic Properties from the   Distributional Structure of Text Embedding Spac
+
 **Title**: Uncovering Visual-Semantic Psycholinguistic Properties from the   Distributional Structure of Text Embedding Spac | Enthüllen visual-semantischer psycholinguistischer Eigenschaften aus der Verteilungsstruktur von Texteinbettung Spac | 从文字嵌入的文本分布结构中隐藏的视觉-语言心理语言属性 [2505.23029v1](http://arxiv.org/abs/2505.23029v1)
 
 **Authors**: Si Wu, Sebastian Bruch
@@ -3406,6 +3610,7 @@ Imageability (potential of text to evoke a mental image) and concreteness (perce
 
 ## Article 204
 ### Title@2025-05-29 (4): Context Robust Knowledge Editing for Language Models
+
 **Title**: Context Robust Knowledge Editing for Language Models | Kontext Robuste Wissensbearbeitung für Sprachmodelle | 语言模型的上下文强力知识编辑 [2505.23026v1](http://arxiv.org/abs/2505.23026v1)
 
 **Authors**: Haewon Park, Gyubin Choi, Minjun Kim, Yohan Jo
@@ -3416,6 +3621,7 @@ Knowledge editing (KE) methods offer an efficient way to modify knowledge in lar
 
 ## Article 205
 ### Title@2025-05-29 (4): AgentAlign: Navigating Safety Alignment in the Shift from Informative to   Agentic Large Language Models
+
 **Title**: AgentAlign: Navigating Safety Alignment in the Shift from Informative to   Agentic Large Language Models | AgentAlign: Navigieren der Sicherheitsausrichtung im Wechsel von Informativ zu Agentischen Großsprachenmodellen | 代理对齐: 导航从信息型转向大语言型的移动中的安全对齐 [2505.23020v1](http://arxiv.org/abs/2505.23020v1)
 
 **Authors**: Jinchuan Zhang, Lu Yin, Yan Zhou, Songlin Hu
@@ -3426,6 +3632,7 @@ The acquisition of agentic capabilities has transformed LLMs from "knowledge pro
 
 ## Article 206
 ### Title@2025-05-29 (4): SciHorizon: Benchmarking AI-for-Science Readiness from Scientific Data   to Large Language Models
+
 **Title**: SciHorizon: Benchmarking AI-for-Science Readiness from Scientific Data   to Large Language Models | SciHorizon: Benchmarking von KI-für-Science Readiness von wissenschaftlichen Daten zu großen Sprachmodellen | SciHorizon:将AI-SciHorizon科学准备程度从科学数据基准确定为大语言模式 [2503.13503v3](http://arxiv.org/abs/2503.13503v3)
 
 **Authors**: Chuan Qin, Xin Chen, Chengrui Wang, Pengmin Wu, Xi Chen, Yihang Cheng, Jingyi Zhao, Meng Xiao, Xiangchao Dong, Qingqing Long, Boya Pan, Han Wu, Chengzan Li, Yuanchun Zhou, Hui Xiong, Hengshu Zhu
@@ -3436,6 +3643,7 @@ In recent years, the rapid advancement of Artificial Intelligence (AI) technolog
 
 ## Article 207
 ### Title@2025-05-29 (4): Multilingual Encoder Knows more than You Realize: Shared Weights   Pretraining for Extremely Low-Resource Languages
+
 **Title**: Multilingual Encoder Knows more than You Realize: Shared Weights   Pretraining for Extremely Low-Resource Languages | Mehrsprachiger Encoder weiß mehr als Sie realisieren: Geteilte Gewichte Vortraining für extrem ressourcenarme Sprachen | 多语种编码器者比你所认识的要多得多: 极低资源语言的共有重力预培训 [2502.10852v2](http://arxiv.org/abs/2502.10852v2)
 
 **Authors**: Zeli Su, Ziyin Zhang, Guixian Xu, Jianing Liu, XU Han, Ting Zhang, Yushuang Dong
@@ -3446,6 +3654,7 @@ While multilingual language models like XLM-R have advanced multilingualism in N
 
 ## Article 208
 ### Title@2025-05-29 (4): Detecting Stealthy Backdoor Samples based on Intra-class Distance for   Large Language Models
+
 **Title**: Detecting Stealthy Backdoor Samples based on Intra-class Distance for   Large Language Models | Ermittlung von Stealthy Backdoor-Proben auf Basis von Intra-Klasse-Abstand für große Sprachmodelle | 检测基于大语言模型班级内部距离的隐形后门样本 [2505.23015v1](http://arxiv.org/abs/2505.23015v1)
 
 **Authors**: Jinwen Chen, Hainan Zhang, Fei Sun, Qinnan Zhang, Sijia Wen, Ziwei Wang, Zhiming Zheng
@@ -3456,6 +3665,7 @@ Fine-tuning LLMs with datasets containing stealthy backdoors from publishers pos
 
 ## Article 209
 ### Title@2025-05-29 (4): BA-LoRA: Bias-Alleviating Low-Rank Adaptation to Mitigate Catastrophic   Inheritance in Large Language Models
+
 **Title**: BA-LoRA: Bias-Alleviating Low-Rank Adaptation to Mitigate Catastrophic   Inheritance in Large Language Models | BA-LoRA: Bias-Alleviating Low-Rank Anpassung an Mitigate Katastrophische Vererbung in großen Sprachmodellen | BA-LORA:在大语言模型中,对减轻灾害传承的低率适应 [2408.04556v5](http://arxiv.org/abs/2408.04556v5)
 
 **Authors**: Yupeng Chang, Yi Chang, Yuan Wu
@@ -3466,6 +3676,7 @@ Large language models (LLMs) have demonstrated remarkable proficiency across var
 
 ## Article 210
 ### Title@2025-05-29 (4): Synthetic Document Question Answering in Hungarian
+
 **Title**: Synthetic Document Question Answering in Hungarian | Synthetische Dokument-Frage-Antworten auf Ungarisch | 匈牙利语的合成文件问题解答 [2505.23008v1](http://arxiv.org/abs/2505.23008v1)
 
 **Authors**: Jonathan Li, Zoltan Csaki, Nidhi Hiremath, Etash Guha, Fenglu Hong, Edward Ma, Urmish Thakker
@@ -3476,6 +3687,7 @@ Modern VLMs have achieved near-saturation accuracy in English document visual qu
 
 ## Article 211
 ### Title@2025-05-29 (4): A Practical Approach for Building Production-Grade Conversational Agents   with Workflow Graphs
+
 **Title**: A Practical Approach for Building Production-Grade Conversational Agents   with Workflow Graphs | Ein praktischer Ansatz für Gebäudeproduktions-Grade Conversational Agents mit Workflow Graphen | 建立具有工作流量图的生产---- 生产---- 生产---- 不同阶段交流的代理物的实用方法 [2505.23006v1](http://arxiv.org/abs/2505.23006v1)
 
 **Authors**: Chiwan Park, Wonjun Jang, Daeryong Kim, Aelim Ahn, Kichang Yang, Woosung Hwang, Jihyeon Roh, Hyerin Park, Hyosun Wang, Min Seok Kim, Jihoon Kang
@@ -3486,6 +3698,7 @@ The advancement of Large Language Models (LLMs) has led to significant improveme
 
 ## Article 212
 ### Title@2025-05-29 (4): Chain of Grounded Objectives: Bridging Process and Goal-oriented   Prompting for Code Generation
+
 **Title**: Chain of Grounded Objectives: Bridging Process and Goal-oriented   Prompting for Code Generation | Kette der geerdeten Ziele: Überbrückungsprozess und zielorientiertes Prompting für die Codegenerierung | 基本目标链链:搭桥进程和以目标为导向的促进代码生成 [2501.13978v2](http://arxiv.org/abs/2501.13978v2)
 
 **Authors**: Sangyeop Yeo, Seung-won Hwang, Yu-Seung Ma
@@ -3496,6 +3709,7 @@ The use of Large Language Models (LLMs) for code generation has gained significa
 
 ## Article 213
 ### Title@2025-05-29 (4): What's In Your Field? Mapping Scientific Research with Knowledge Graphs   and Large Language Models
+
 **Title**: What's In Your Field? Mapping Scientific Research with Knowledge Graphs   and Large Language Models | Was ist auf Ihrem Gebiet? Mapping Wissenschaftliche Forschung mit Wissensgraphen und großen Sprachmodellen | 你的领域是什么?用知识图和大语言模型绘制科学研究图。 [2503.09894v2](http://arxiv.org/abs/2503.09894v2)
 
 **Authors**: Abhipsha Das, Nicholas Lourie, Siavash Golkar, Mariel Pettee
@@ -3506,6 +3720,7 @@ The scientific literature's exponential growth makes it increasingly challenging
 
 ## Article 214
 ### Title@2025-05-29 (4): DyePack: Provably Flagging Test Set Contamination in LLMs Using   Backdoors
+
 **Title**: DyePack: Provably Flagging Test Set Contamination in LLMs Using   Backdoors | DyePack: Wahrscheinlich Flagging Test Set Kontamination in LLMs Verwendung von Backdoors | DyePack: 使用后门的LLMs中可被证实的挂旗试验设置污染 [2505.23001v1](http://arxiv.org/abs/2505.23001v1)
 
 **Authors**: Yize Cheng, Wenxiao Wang, Mazda Moayeri, Soheil Feizi
@@ -3516,6 +3731,7 @@ Open benchmarks are essential for evaluating and advancing large language models
 
 ## Article 215
 ### Title@2025-05-29 (4): Verify-in-the-Graph: Entity Disambiguation Enhancement for Complex Claim   Verification with Interactive Graph Representation
+
 **Title**: Verify-in-the-Graph: Entity Disambiguation Enhancement for Complex Claim   Verification with Interactive Graph Representation | Prüfen Sie in der Grafik: Entity Disambiguation Enhancement für komplexe Claim-Verifikation mit interaktiver Graphendarstellung | 校验格中:实体对复杂索赔核实与交互式图表代表的分歧增强 [2505.22993v1](http://arxiv.org/abs/2505.22993v1)
 
 **Authors**: Hoang Pham, Thanh-Do Nguyen, Khac-Hoai Nam Bui
@@ -3526,6 +3742,7 @@ Claim verification is a long-standing and challenging task that demands not only
 
 ## Article 216
 ### Title@2025-05-29 (4): Pangu Embedded: An Efficient Dual-system LLM Reasoner with Metacognition
+
 **Title**: Pangu Embedded: An Efficient Dual-system LLM Reasoner with Metacognition | Pangu Embedded: Effizienter Dual-System LLM Reasoner mit Metakognition | Pangu 嵌入式:高效的双系统LLM [2505.22375v2](http://arxiv.org/abs/2505.22375v2)
 
 **Authors**: Hanting Chen, Yasheng Wang, Kai Han, Dong Li, Lin Li, Zhenni Bi, Jinpeng Li, Haoyu Wang, Fei Mi, Mingjian Zhu, Bin Wang, Kaikai Song, Yifei Fu, Xu He, Yu Luo, Chong Zhu, Quan He, Xueyu Wu, Wei He, Hailin Hu, Yehui Tang, Dacheng Tao, Xinghao Chen, Yunhe Wang
@@ -3536,6 +3753,7 @@ This work presents Pangu Embedded, an efficient Large Language Model (LLM) reaso
 
 ## Article 217
 ### Title@2025-05-29 (4): Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified   Retrieval-Augmented Generation Systems
+
 **Title**: Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified   Retrieval-Augmented Generation Systems | Agent-UniRAG: Ein trainingables Open-Source LLM Agent Framework für unified Retrieval-Augmented Generation Systems | Agent-UniRAG: 一个可培训的开放源码的LLM Agent Form for United Retreval-Augsing System(统一回收-提款发电系统框架) [2505.22571v2](http://arxiv.org/abs/2505.22571v2)
 
 **Authors**: Hoang Pham, Thuy-Duong Nguyen, Khac-Hoai Nam Bui
@@ -3546,6 +3764,7 @@ This paper presents a novel approach for unified retrieval-augmented generation 
 
 ## Article 218
 ### Title@2025-05-29 (4): Frankentext: Stitching random text fragments into long-form narratives
+
 **Title**: Frankentext: Stitching random text fragments into long-form narratives | Frankentext: Zufällige Textfragmente zu langformigen Erzählungen heften | Frankentext: 将随机文本片断成长式叙述 [2505.18128v2](http://arxiv.org/abs/2505.18128v2)
 
 **Authors**: Chau Minh Pham, Jenna Russell, Dzung Pham, Mohit Iyyer
@@ -3556,6 +3775,7 @@ We introduce Frankentexts, a new type of long-form narratives produced by LLMs u
 
 ## Article 219
 ### Title@2025-05-29 (4): Theoretical guarantees on the best-of-n alignment policy
+
 **Title**: Theoretical guarantees on the best-of-n alignment policy | Theoretische Garantien für die optimale Ausrichtungspolitik | 关于最佳协调政策理论保障 [2401.01879v3](http://arxiv.org/abs/2401.01879v3)
 
 **Authors**: Ahmad Beirami, Alekh Agarwal, Jonathan Berant, Alexander D'Amour, Jacob Eisenstein, Chirag Nagpal, Ananda Theertha Suresh
@@ -3566,6 +3786,7 @@ A simple and effective method for the inference-time alignment and scaling test-
 
 ## Article 220
 ### Title@2025-05-29 (4): Business as Rulesual: A Benchmark and Framework for Business Rule Flow   Modeling with LLMs
+
 **Title**: Business as Rulesual: A Benchmark and Framework for Business Rule Flow   Modeling with LLMs | Business as Rulesual: Benchmark und Rahmen für Business Rule Flow Modellierung mit LLMs | 业务作为规则:与LLMs建立商业规则流动模式的基准和框架 [2505.18542v2](http://arxiv.org/abs/2505.18542v2)
 
 **Authors**: Chen Yang, Ruping Xu, Ruizhe Li, Bin Cao, Jing Fan
@@ -3576,6 +3797,7 @@ Process mining aims to discover, monitor and optimize the actual behaviors of re
 
 ## Article 221
 ### Title@2025-05-29 (4): Exploring Scaling Laws for EHR Foundation Models
+
 **Title**: Exploring Scaling Laws for EHR Foundation Models | Erforschung von Skalierungsgesetzen für EHR-Stiftungsmodelle | 探索EHR基金会模式的扩展法律 [2505.22964v1](http://arxiv.org/abs/2505.22964v1)
 
 **Authors**: Sheng Zhang, Qin Liu, Naoto Usuyama, Cliff Wong, Tristan Naumann, Hoifung Poon
@@ -3586,6 +3808,7 @@ The emergence of scaling laws has profoundly shaped the development of large lan
 
 ## Article 222
 ### Title@2025-05-29 (4): ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind
+
 **Title**: ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind | ToMAP: Training Gegner-Bewusst LLM überzeugt mit Theorie des Geistes | ToMAP:培训有思想理论的对抗者软件软件LLM [2505.22961v1](http://arxiv.org/abs/2505.22961v1)
 
 **Authors**: Peixuan Han, Zijia Liu, Jiaxuan You
@@ -3596,6 +3819,7 @@ Large language models (LLMs) have shown promising potential in persuasion, but e
 
 ## Article 223
 ### Title@2025-05-29 (4): LLM-based HSE Compliance Assessment: Benchmark, Performance, and   Advancements
+
 **Title**: LLM-based HSE Compliance Assessment: Benchmark, Performance, and   Advancements | LLM-basierte HSE Compliance Assessment: Benchmark, Performance und Advancements | 基于LLM的HSE合规评估:基准、业绩和进步 [2505.22959v1](http://arxiv.org/abs/2505.22959v1)
 
 **Authors**: Jianwei Wang, Mengqi Wang, Yinsi Zhou, Zhenchang Xing, Qing Liu, Xiwei Xu, Wenjie Zhang, Liming Zhu
@@ -3606,6 +3830,7 @@ Health, Safety, and Environment (HSE) compliance assessment demands dynamic real
 
 ## Article 224
 ### Title@2025-05-29 (4): Unveiling Environmental Impacts of Large Language Model Serving: A   Functional Unit View
+
 **Title**: Unveiling Environmental Impacts of Large Language Model Serving: A   Functional Unit View | Enthüllen von Umweltauswirkungen von großsprachigen Modellen: Eine funktionale Einheitsansicht | 大型语文服务模式的不懈环境影响:职能单位观点 [2502.11256v2](http://arxiv.org/abs/2502.11256v2)
 
 **Authors**: Yanran Wu, Inez Hua, Yi Ding
@@ -3616,6 +3841,7 @@ Large language models (LLMs) offer powerful capabilities but come with significa
 
 ## Article 225
 ### Title@2025-05-29 (4): CodeSteer: Symbolic-Augmented Language Models via Code/Text Guidance
+
 **Title**: CodeSteer: Symbolic-Augmented Language Models via Code/Text Guidance | CodeSteer: Symbolisch-Augmentierte Sprachmodelle über Code/Text Anleitung | 代码器:通过编码/文本指导的代码/文本指导的代码器:代号辅助语言模式 [2502.04350v2](http://arxiv.org/abs/2502.04350v2)
 
 **Authors**: Yongchao Chen, Yilun Hao, Yueying Liu, Yang Zhang, Chuchu Fan
@@ -3626,6 +3852,7 @@ Existing methods fail to effectively steer Large Language Models (LLMs) between 
 
 ## Article 226
 ### Title@2025-05-29 (4): LLMs for Argument Mining: Detection, Extraction, and Relationship   Classification of pre-defined Arguments in Online Comments
+
 **Title**: LLMs for Argument Mining: Detection, Extraction, and Relationship   Classification of pre-defined Arguments in Online Comments | LLMs for argument Mining: Detection, Extraction, and Relationship Classification of pre-defined argumentments in Online Kommentare | 辩论采矿的LLMs:在线评论中预先界定的论据的探测、提取和关系分类 [2505.22956v1](http://arxiv.org/abs/2505.22956v1)
 
 **Authors**: Matteo Guida, Yulia Otmakhova, Eduard Hovy, Lea Frermann
@@ -3636,6 +3863,7 @@ Automated large-scale analysis of public discussions around contested issues lik
 
 ## Article 227
 ### Title@2025-05-29 (4): Understanding Bias Reinforcement in LLM Agents Debate
+
 **Title**: Understanding Bias Reinforcement in LLM Agents Debate | Verständnis der Bias-Verstärkung in LLM-Agenten-Debatte | 了解LLLM代理商的强化申请 [2503.16814v2](http://arxiv.org/abs/2503.16814v2)
 
 **Authors**: Jihwan Oh, Minchan Jeong, Jongwoo Ko, Se-Young Yun
@@ -3646,6 +3874,7 @@ Large Language Models $($LLMs$)$ solve complex problems using training-free meth
 
 ## Article 228
 ### Title@2025-05-29 (4): StrucSum: Graph-Structured Reasoning for Long Document Extractive   Summarization with LLMs
+
 **Title**: StrucSum: Graph-Structured Reasoning for Long Document Extractive   Summarization with LLMs | StrucSum: Graph-strukturierte Begründung für lange Dokumentextraktionszusammenfassung mit LLMs | StrucSum: 长文件提取摘要的图表结构化原因与LLMs [2505.22950v1](http://arxiv.org/abs/2505.22950v1)
 
 **Authors**: Haohan Yuan, Sukhwa Hong, Haopeng Zhang
@@ -3656,6 +3885,7 @@ Large language models (LLMs) have shown strong performance in zero-shot summariz
 
 ## Article 229
 ### Title@2025-05-28 (3): NegVQA: Can Vision Language Models Understand Negation?
+
 **Title**: NegVQA: Can Vision Language Models Understand Negation? | NegVQA: Können Visions-Sprachmodelle Negation verstehen? | NegVQA:视觉语言模式能理解差吗? [2505.22946v1](http://arxiv.org/abs/2505.22946v1)
 
 **Authors**: Yuhui Zhang, Yuchang Su, Yiming Liu, Serena Yeung-Levy
@@ -3666,6 +3896,7 @@ Negation is a fundamental linguistic phenomenon that can entirely reverse the me
 
 ## Article 230
 ### Title@2025-05-28 (3): OWL: Probing Cross-Lingual Recall of Memorized Texts via World   Literature
+
 **Title**: OWL: Probing Cross-Lingual Recall of Memorized Texts via World   Literature | OWL: Über die Weltliteratur testet Cross-Lingual Recall von gemerkten Texten | OWL: 通过世界文学对记忆文字进行相互最后回顾 [2505.22945v1](http://arxiv.org/abs/2505.22945v1)
 
 **Authors**: Alisha Srivastava, Emir Korukluoglu, Minh Nhat Le, Duyen Tran, Chau Minh Pham, Marzena Karpinska, Mohit Iyyer
@@ -3676,6 +3907,7 @@ Large language models (LLMs) are known to memorize and recall English text from 
 
 ## Article 231
 ### Title@2025-05-28 (3): Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of   Pre-trained Multimodal Representation via Text Updates
+
 **Title**: Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of   Pre-trained Multimodal Representation via Text Updates | Kann LLMs CLIP deciive? Benchmarking Adversarial Compositionalität der vortrainierten multimodalen Darstellung über Textaktualisierungen | LLMs CLIP能否通过文本更新确定培训前多模式代表的反向构成基准? [2505.22943v1](http://arxiv.org/abs/2505.22943v1)
 
 **Authors**: Jaewoo Ahn, Heeseung Yun, Dayoon Ko, Gunhee Kim
@@ -3686,6 +3918,7 @@ While pre-trained multimodal representations (e.g., CLIP) have shown impressive 
 
 ## Article 232
 ### Title@2025-05-28 (3): WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web   Agents via Reinforcement Learning
+
 **Title**: WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web   Agents via Reinforcement Learning | WorkForceAgent-R1: Förderung der Fähigkeit von LLM-basierten Web-Agenten durch Verstärkungs-Lernen | 工作力量-R1:通过强化学习在基于LLM的网络代理中鼓励 [2505.22942v1](http://arxiv.org/abs/2505.22942v1)
 
 **Authors**: Yuchen Zhuang, Di Jin, Jiaao Chen, Wenqi Shi, Hanrui Wang, Chao Zhang
@@ -3696,6 +3929,7 @@ Large language models (LLMs)-empowered web agents enables automating complex, re
 
 ## Article 233
 ### Title@2025-05-28 (3): Improving QA Efficiency with DistilBERT: Fine-Tuning and Inference on   mobile Intel CPUs
+
 **Title**: Improving QA Efficiency with DistilBERT: Fine-Tuning and Inference on   mobile Intel CPUs | Verbesserung der QA-Effizienz mit DistilBERT: Feintuning und Schlussfolgerung auf mobilen Intel-CPUs | 提高利用dittplBERT提高QA效率:移动 Intel CPU的精密查询和推断 [2505.22937v1](http://arxiv.org/abs/2505.22937v1)
 
 **Authors**: Ngeyen Yinkfu
@@ -3706,6 +3940,7 @@ This study presents an efficient transformer-based question-answering (QA) model
 
 ## Article 234
 ### Title@2025-05-28 (3): Unraveling LoRA Interference: Orthogonal Subspaces for Robust Model   Merging
+
 **Title**: Unraveling LoRA Interference: Orthogonal Subspaces for Robust Model   Merging | Unraveling LoRA Interferenz: Orthogonale Subräume für robuste Modellzusammenführung | 开放 LoRA 干涉度: 用于强力模型合并的正弦形子空间 [2505.22934v1](http://arxiv.org/abs/2505.22934v1)
 
 **Authors**: Haobo Zhang, Jiayu Zhou
@@ -3716,6 +3951,7 @@ Fine-tuning large language models (LMs) for individual tasks yields strong perfo
 
 ## Article 235
 ### Title@2025-05-28 (3): K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug   Interaction Prediction
+
 **Title**: K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug   Interaction Prediction | K-Paths: Begründung über Graphenpfade für Drogenrepurposing und Drogeninteraktionsvorhersage | K-Paths: 以图解路径为依据进行药物再定位和药物相互作用预测 [2502.13344v3](http://arxiv.org/abs/2502.13344v3)
 
 **Authors**: Tassallah Abdullahi, Ioanna Gemou, Nihal V. Nayak, Ghulam Murtaza, Stephen H. Bach, Carsten Eickhoff, Ritambhara Singh
@@ -3726,6 +3962,7 @@ Biomedical knowledge graphs (KGs) encode rich, structured information critical f
 
 ## Article 236
 ### Title@2025-05-28 (3): How Transformers Learn Regular Language Recognition: A Theoretical Study   on Training Dynamics and Implicit Bias
+
 **Title**: How Transformers Learn Regular Language Recognition: A Theoretical Study   on Training Dynamics and Implicit Bias | Wie Transformer lernen Regelmäßige Spracherkennung: Eine theoretische Studie über Trainingsdynamik und Implizite Bias | 变换人如何学习常规语言识别:关于培训动态和隐含偏见的理论研究 [2505.00926v3](http://arxiv.org/abs/2505.00926v3)
 
 **Authors**: Ruiquan Huang, Yingbin Liang, Jing Yang
@@ -3736,6 +3973,7 @@ Language recognition tasks are fundamental in natural language processing (NLP) 
 
 ## Article 237
 ### Title@2025-05-28 (3): Enhancing Study-Level Inference from Clinical Trial Papers via RL-based   Numeric Reasoning
+
 **Title**: Enhancing Study-Level Inference from Clinical Trial Papers via RL-based   Numeric Reasoning | Verbesserung der Schlussfolgerungen auf Studienebene aus klinischen Studienpapieren über RL-basierte numerische Begründung | 通过基于RL的数值推理从临床试验文件中提高研究水平的推论 [2505.22928v1](http://arxiv.org/abs/2505.22928v1)
 
 **Authors**: Massimiliano Pronesti, Michela Lorandi, Paul Flanagan, Oisin Redmon, Anya Belz, Yufang Hou
@@ -3746,6 +3984,7 @@ Systematic reviews in medicine play a critical role in evidence-based decision-m
 
 ## Article 238
 ### Title@2025-05-28 (3): Structured Memory Mechanisms for Stable Context Representation in Large   Language Models
+
 **Title**: Structured Memory Mechanisms for Stable Context Representation in Large   Language Models | Strukturierte Speichermechanismen für stabile Kontextdarstellung in großen Sprachmodellen | 在大语言模式中建立结构化内存机制,以稳定地代表大语言模式 [2505.22921v1](http://arxiv.org/abs/2505.22921v1)
 
 **Authors**: Yue Xing, Tao Yang, Yijiashun Qi, Minggu Wei, Yu Cheng, Honghui Xin
@@ -3756,6 +3995,7 @@ This paper addresses the limitations of large language models in understanding l
 
 ## Article 239
 ### Title@2025-05-28 (3): ER-REASON: A Benchmark Dataset for LLM-Based Clinical Reasoning in the   Emergency Room
+
 **Title**: ER-REASON: A Benchmark Dataset for LLM-Based Clinical Reasoning in the   Emergency Room | ER-REASON: Ein Benchmark-Datensatz für LLM-basierte klinische Vernunft in der Notaufnahme | ER-REASON:应急室以LLM为基础的临床原因基准数据集 [2505.22919v1](http://arxiv.org/abs/2505.22919v1)
 
 **Authors**: Nikita Mehandru, Niloufar Golchini, David Bamman, Travis Zack, Melanie F. Molina, Ahmed Alaa
@@ -3766,6 +4006,7 @@ Large language models (LLMs) have been extensively evaluated on medical question
 
 ## Article 240
 ### Title@2025-05-28 (3): Talent or Luck? Evaluating Attribution Bias in Large Language Models
+
 **Title**: Talent or Luck? Evaluating Attribution Bias in Large Language Models | Talent oder Glück? Bewertung der Attribution Bias in großen Sprachmodellen | 人才或幸运?评价大语言模式中的可归责偏见 [2505.22910v1](http://arxiv.org/abs/2505.22910v1)
 
 **Authors**: Chahat Raj, Mahika Banerjee, Aylin Caliskan, Antonios Anastasopoulos, Ziwei Zhu
@@ -3776,6 +4017,7 @@ When a student fails an exam, do we tend to blame their effort or the test's dif
 
 ## Article 241
 ### Title@2025-05-28 (3): Conversational Alignment with Artificial Intelligence in Context
+
 **Title**: Conversational Alignment with Artificial Intelligence in Context | Conversational Alignment mit Künstlicher Intelligenz im Kontext | 与现场人工智能的对调 [2505.22907v1](http://arxiv.org/abs/2505.22907v1)
 
 **Authors**: Rachel Katharine Sterken, James Ravi Kirkpatrick
@@ -3786,6 +4028,7 @@ The development of sophisticated artificial intelligence (AI) conversational age
 
 ## Article 242
 ### Title@2025-05-28 (3): VIGNETTE: Socially Grounded Bias Evaluation for Vision-Language Models
+
 **Title**: VIGNETTE: Socially Grounded Bias Evaluation for Vision-Language Models | VIGNETTE: Sozial geerdete Bias-Evaluierung für Vision-Language-Modelle | VIGNETTE:社会基础的愿景-语言模型的偏见评价 [2505.22897v1](http://arxiv.org/abs/2505.22897v1)
 
 **Authors**: Chahat Raj, Bowen Wei, Aylin Caliskan, Antonios Anastasopoulos, Ziwei Zhu
@@ -3796,6 +4039,7 @@ While bias in large language models (LLMs) is well-studied, similar concerns in 
 
 ## Article 243
 ### Title@2025-05-28 (3): When Models Reason in Your Language: Controlling Thinking Trace Language   Comes at the Cost of Accuracy
+
 **Title**: When Models Reason in Your Language: Controlling Thinking Trace Language   Comes at the Cost of Accuracy | Wenn Modelle Grund in Ihrer Sprache: Kontrollieren Denken Trace Language kommt auf Kosten der Genauigkeit | 当模型在您语言中的原因:控制思考追踪语言以准确性为代价时 [2505.22888v1](http://arxiv.org/abs/2505.22888v1)
 
 **Authors**: Jirui Qi, Shan Chen, Zidi Xiong, Raquel Fernández, Danielle S. Bitterman, Arianna Bisazza
@@ -3806,6 +4050,7 @@ Recent Large Reasoning Models (LRMs) with thinking traces have shown strong perf
 
 ## Article 244
 ### Title@2025-05-28 (3): Enhancing Retrieval for ESGLLM via ESG-CID -- A Disclosure Content Index   Finetuning Dataset for Mapping GRI and ESRS
+
 **Title**: Enhancing Retrieval for ESGLLM via ESG-CID -- A Disclosure Content Index   Finetuning Dataset for Mapping GRI and ESRS | Verbesserung der Retrieval für ESGLLM über ESG-CID -- Ein Disclosure Content Index Finetuning Datensatz für die Mapping GRI und ESRS | 通过ESG-CID -- -- 用于测绘GRI和ESRS的披露内容指数微调数据集,加强ESGLLM的检索 [2503.10674v2](http://arxiv.org/abs/2503.10674v2)
 
 **Authors**: Shafiuddin Rehan Ahmed, Ankit Parag Shah, Quan Hung Tran, Vivek Khetan, Sukryool Kang, Ankit Mehta, Yujia Bao, Wei Wei
@@ -3816,6 +4061,7 @@ Climate change has intensified the need for transparency and accountability in o
 
 ## Article 245
 ### Title@2025-05-28 (3): GateNLP at SemEval-2025 Task 10: Hierarchical Three-Step Prompting for   Multilingual Narrative Classification
+
 **Title**: GateNLP at SemEval-2025 Task 10: Hierarchical Three-Step Prompting for   Multilingual Narrative Classification | GateNLP bei SemEval-2025 Aufgabe 10: Hierarchische Drei-Schritt-Prompte für mehrsprachige Narrative Klassifizierung | SemEval-2025任务10:三级三级三级促进多种语文叙事分类 [2505.22867v1](http://arxiv.org/abs/2505.22867v1)
 
 **Authors**: Iknoor Singh, Carolina Scarton, Kalina Bontcheva
@@ -3826,6 +4072,7 @@ The proliferation of online news and the increasing spread of misinformation nec
 
 ## Article 246
 ### Title@2025-05-28 (3): Large Language Models for Depression Recognition in Spoken Language   Integrating Psychological Knowledge
+
 **Title**: Large Language Models for Depression Recognition in Spoken Language   Integrating Psychological Knowledge | Große Sprachmodelle für Depressionserkennung in gesprochener Sprache Integrieren Psychologisches Wissen | 口语结合心理知识中承认抑郁症的大语言模式 [2505.22863v1](http://arxiv.org/abs/2505.22863v1)
 
 **Authors**: Yupei Li, Shuaijie Shao, Manuel Milling, Björn W. Schuller
@@ -3836,6 +4083,7 @@ Depression is a growing concern gaining attention in both public discourse and A
 
 ## Article 247
 ### Title@2025-05-28 (3): NGPU-LM: GPU-Accelerated N-Gram Language Model for Context-Biasing in   Greedy ASR Decoding
+
 **Title**: NGPU-LM: GPU-Accelerated N-Gram Language Model for Context-Biasing in   Greedy ASR Decoding | NGPU-LM: GPU-beschleunigtes N-Gram-Sprachenmodell für Kontext-Biasing in Greedy ASR-Dekodierung | NGPU-LM: 加速GPU-加速型N-Gram语语模式,用于在贪婪ASR标记中进行背景切换 [2505.22857v1](http://arxiv.org/abs/2505.22857v1)
 
 **Authors**: Vladimir Bataev, Andrei Andrusenko, Lilit Grigoryan, Aleksandr Laptev, Vitaly Lavrukhin, Boris Ginsburg
@@ -3846,6 +4094,7 @@ Statistical n-gram language models are widely used for context-biasing tasks in 
 
 ## Article 248
 ### Title@2025-05-28 (3): LiTEx: A Linguistic Taxonomy of Explanations for Understanding   Within-Label Variation in Natural Language Inference
+
 **Title**: LiTEx: A Linguistic Taxonomy of Explanations for Understanding   Within-Label Variation in Natural Language Inference | LiTEx: Eine linguistische Taxonomie von Erklärungen zum Verständnis von Inner-Label-Variation in natürlicher Sprach-Inferenz | LiTEx:用语言对解释进行分类,以了解在标内对自然语言推断的变异的理解 [2505.22848v1](http://arxiv.org/abs/2505.22848v1)
 
 **Authors**: Pingjun Hong, Beiduo Chen, Siyao Peng, Marie-Catherine de Marneffe, Barbara Plank
@@ -3856,6 +4105,7 @@ There is increasing evidence of Human Label Variation (HLV) in Natural Language 
 
 ## Article 249
 ### Title@2025-05-28 (3): ASTPrompter: Preference-Aligned Automated Language Model Red-Teaming to   Generate Low-Perplexity Unsafe Prompts
+
 **Title**: ASTPrompter: Preference-Aligned Automated Language Model Red-Teaming to   Generate Low-Perplexity Unsafe Prompts | ASTPrompter: Präferenzorientiertes Automatisiertes Sprachmodell Red-Teaming zur Generierung von Low-Perplexity-Unsicheren Prompts | ASTPrompter:为产生低重复性不安全提示而建立首选统一自动语言示范红队 [2407.09447v4](http://arxiv.org/abs/2407.09447v4)
 
 **Authors**: Amelia F. Hardy, Houjun Liu, Bernard Lange, Duncan Eddy, Mykel J. Kochenderfer
@@ -3866,6 +4116,7 @@ Existing LLM red-teaming approaches prioritize high attack success rate, often r
 
 ## Article 250
 ### Title@2025-05-28 (3): Bayesian Attention Mechanism: A Probabilistic Framework for Positional   Encoding and Context Length Extrapolation
+
 **Title**: Bayesian Attention Mechanism: A Probabilistic Framework for Positional   Encoding and Context Length Extrapolation | Bayesian Attention Mechanism: Ein probabilistisches Framework für die Positionskodierung und Kontextlängen-Extrapolation | Bayesian注意机制:定位编码和背景长度外推概率框架 [2505.22842v1](http://arxiv.org/abs/2505.22842v1)
 
 **Authors**: Arthur S. Bianchessi, Rodrigo C. Barros, Lucas S. Kupssinskü
@@ -3876,6 +4127,7 @@ Transformer-based language models rely on positional encoding (PE) to handle tok
 
 ## Article 251
 ### Title@2025-05-28 (3): The Aloe Family Recipe for Open and Specialized Healthcare LLMs
+
 **Title**: The Aloe Family Recipe for Open and Specialized Healthcare LLMs | Das Aloe-Familienrezept für offene und spezialisierte LLMs im Gesundheitswesen | 开放和专门保健的Aloe家庭食堂 [2505.04388v2](http://arxiv.org/abs/2505.04388v2)
 
 **Authors**: Dario Garcia-Gasulla, Jordi Bayarri-Planas, Ashwin Kumar Gururajan, Enrique Lopez-Cuena, Adrian Tormos, Daniel Hinjos, Pablo Bernabeu-Perez, Anna Arias-Duart, Pablo Agustin Martin-Torres, Marta Gonzalez-Mallo, Sergio Alvarez-Napagao, Eduard Ayguadé-Parra, Ulises Cortés
@@ -3886,6 +4138,7 @@ Purpose: With advancements in Large Language Models (LLMs) for healthcare, the n
 
 ## Article 252
 ### Title@2025-05-28 (3): What Has Been Lost with Synthetic Evaluation?
+
 **Title**: What Has Been Lost with Synthetic Evaluation? | Was wurde mit synthetischer Bewertung verloren? | 合成评价失去了什么? [2505.22830v1](http://arxiv.org/abs/2505.22830v1)
 
 **Authors**: Alexander Gill, Abhilasha Ravichander, Ana Marasović
@@ -3896,6 +4149,7 @@ Large language models (LLMs) are increasingly used for data generation. However,
 
 ## Article 253
 ### Title@2025-05-28 (3): Self-Critique and Refinement for Faithful Natural Language Explanations
+
 **Title**: Self-Critique and Refinement for Faithful Natural Language Explanations | Selbst-Kritik und Raffinesse für treue natürliche Spracherklärungen | 忠实自然语言自我简化和完善解释 [2505.22823v1](http://arxiv.org/abs/2505.22823v1)
 
 **Authors**: Yingming Wang, Pepa Atanasova
@@ -3906,6 +4160,7 @@ With the rapid development of large language models (LLMs), natural language exp
 
 ## Article 254
 ### Title@2025-05-28 (3): Comparing Human and AI Rater Effects Using the Many-Facet Rasch Model
+
 **Title**: Comparing Human and AI Rater Effects Using the Many-Facet Rasch Model | Vergleich menschlicher und KI-Rater-Effekte mit dem Multi-Facet-Rasch-Modell | 使用多面 Rasch 模型比较人类和AI Rater效应 [2505.18486v2](http://arxiv.org/abs/2505.18486v2)
 
 **Authors**: Hong Jiao, Dan Song, Won-Chan Lee
@@ -3916,6 +4171,7 @@ Large language models (LLMs) have been widely explored for automated scoring in 
 
 ## Article 255
 ### Title@2025-05-28 (3): Toward universal steering and monitoring of AI models
+
 **Title**: Toward universal steering and monitoring of AI models | Zur universellen Steuerung und Überwachung von KI-Modellen | 实现对AI 模式的普遍指导和监测 [2502.03708v2](http://arxiv.org/abs/2502.03708v2)
 
 **Authors**: Daniel Beaglehole, Adityanarayanan Radhakrishnan, Enric Boix-Adserà, Mikhail Belkin
@@ -3926,6 +4182,7 @@ Modern AI models contain much of human knowledge, yet understanding of their int
 
 ## Article 256
 ### Title@2025-05-28 (3): First Steps Towards Overhearing LLM Agents: A Case Study With Dungeons &   Dragons Gameplay
+
 **Title**: First Steps Towards Overhearing LLM Agents: A Case Study With Dungeons &   Dragons Gameplay | Erste Schritte auf dem Weg zu LLM-Agenten: Eine Fallstudie mit Dungeons & Dragons Gameplay | 偷听LLM代理物的第一批步骤:与Dungeons & Tragons游戏游戏游戏进行案例研究 [2505.22809v1](http://arxiv.org/abs/2505.22809v1)
 
 **Authors**: Andrew Zhu, Evan Osgood, Chris Callison-Burch
@@ -3936,6 +4193,7 @@ Much work has been done on conversational LLM agents which directly assist human
 
 ## Article 257
 ### Title@2025-05-28 (3): Towards a More Generalized Approach in Open Relation Extraction
+
 **Title**: Towards a More Generalized Approach in Open Relation Extraction | Auf dem Weg zu einem allgemeineren Ansatz bei der Förderung offener Beziehungen | 争取在开放关系采掘中采取更加普遍的做法 [2505.22801v1](http://arxiv.org/abs/2505.22801v1)
 
 **Authors**: Qing Wang, Yuepei Li, Qiao Qiao, Kang Zhou, Qi Li
@@ -3946,6 +4204,7 @@ Open Relation Extraction (OpenRE) seeks to identify and extract novel relational
 
 ## Article 258
 ### Title@2025-05-28 (3): Instruct-SkillMix: A Powerful Pipeline for LLM Instruction Tuning
+
 **Title**: Instruct-SkillMix: A Powerful Pipeline for LLM Instruction Tuning | Instruct-SkillMix: Eine leistungsstarke Pipeline für LLM Instruction Tuning | 指令- SkillMix: 用于LLM 指令导导图的强大管道 [2408.14774v4](http://arxiv.org/abs/2408.14774v4)
 
 **Authors**: Simran Kaur, Simon Park, Anirudh Goyal, Sanjeev Arora
@@ -3956,6 +4215,7 @@ We introduce Instruct-SkillMix, an automated approach for creating diverse, high
 
 ## Article 259
 ### Title@2025-05-28 (3): SequentialBreak: Large Language Models Can be Fooled by Embedding   Jailbreak Prompts into Sequential Prompt Chains
+
 **Title**: SequentialBreak: Large Language Models Can be Fooled by Embedding   Jailbreak Prompts into Sequential Prompt Chains | SequentialBreak: Große Sprachmodelle können durch Einbetten von Jailbreak Prompts in Sequential Prompt Chains ausgeblendet werden | 顺序式布雷克:大语言模型可以通过将破狱线索嵌入顺序式提示链来蒙骗大语言模型 [2411.06426v3](http://arxiv.org/abs/2411.06426v3)
 
 **Authors**: Bijoy Ahmed Saiem, MD Sadik Hossain Shanto, Rakib Ahsan, Md Rafi ur Rashid
@@ -3966,6 +4226,7 @@ As the integration of the Large Language Models (LLMs) into various applications
 
 ## Article 260
 ### Title@2025-05-28 (3): Cultural Evaluations of Vision-Language Models Have a Lot to Learn from   Cultural Theory
+
 **Title**: Cultural Evaluations of Vision-Language Models Have a Lot to Learn from   Cultural Theory | Kulturelle Bewertungen von Vision-Sprachen-Modellen haben viel von der Kulturtheorie zu lernen | 展望-语言模式的文化评价有许多可学习的文化理论 [2505.22793v1](http://arxiv.org/abs/2505.22793v1)
 
 **Authors**: Srishti Yadav, Lauren Tilton, Maria Antoniak, Taylor Arnold, Jiaang Li, Siddhesh Milind Pawar, Antonia Karamolegkou, Stella Frank, Zhaochong An, Negar Rostamzadeh, Daniel Hershcovich, Serge Belongie, Ekaterina Shutova
@@ -3976,6 +4237,7 @@ Modern vision-language models (VLMs) often fail at cultural competency evaluatio
 
 ## Article 261
 ### Title@2025-05-28 (3): Can Large Language Models Match the Conclusions of Systematic Reviews?
+
 **Title**: Can Large Language Models Match the Conclusions of Systematic Reviews? | Können große Sprachmodelle mit den Schlussfolgerungen systematischer Bewertungen übereinstimmen? | 大语言模型能否与系统审查的结论相匹配? [2505.22787v1](http://arxiv.org/abs/2505.22787v1)
 
 **Authors**: Christopher Polzak, Alejandro Lozano, Min Woo Sun, James Burgess, Yuhui Zhang, Kevin Wu, Serena Yeung-Levy
@@ -3986,6 +4248,7 @@ Systematic reviews (SR), in which experts summarize and analyze evidence across 
 
 ## Article 262
 ### Title@2025-05-28 (3): MEDAL: A Framework for Benchmarking LLMs as Multilingual Open-Domain   Chatbots and Dialogue Evaluators
+
 **Title**: MEDAL: A Framework for Benchmarking LLMs as Multilingual Open-Domain   Chatbots and Dialogue Evaluators | MEDAL: Ein Rahmen für Benchmarking von LLMs als mehrsprachige Open-Domain Chatbots und Dialogevaluatoren | MEDAL:多语言开放域聊天和对话评价员对LLMs进行基准评估的框架 [2505.22777v1](http://arxiv.org/abs/2505.22777v1)
 
 **Authors**: John Mendonça, Alon Lavie, Isabel Trancoso
@@ -3996,6 +4259,7 @@ As the capabilities of chatbots and their underlying LLMs continue to dramatical
 
 ## Article 263
 ### Title@2025-05-28 (3): GraphNarrator: Generating Textual Explanations for Graph Neural Networks
+
 **Title**: GraphNarrator: Generating Textual Explanations for Graph Neural Networks | GraphNarrator: Erzeugen von Texterklärungen für Graph Neuronale Netzwerke | 图示记录器:生成图形神经网络的文字解释 [2410.15268v2](http://arxiv.org/abs/2410.15268v2)
 
 **Authors**: Bo Pan, Zhen Xiong, Guanchen Wu, Zheng Zhang, Yifei Zhang, Liang Zhao
@@ -4006,6 +4270,7 @@ Graph representation learning has garnered significant attention due to its broa
 
 ## Article 264
 ### Title@2025-05-28 (3): Counting trees: A treebank-driven exploration of syntactic variation in   speech and writing across languages
+
 **Title**: Counting trees: A treebank-driven exploration of syntactic variation in   speech and writing across languages | Zählen von Bäumen: Eine baumbankgetriebene Erforschung syntaktischer Variationen in Sprache und Schrift über Sprachen hinweg | 计数树:在树库驱动下探索不同语言的言语和书写方式的口语和书写方式差异 [2505.22774v1](http://arxiv.org/abs/2505.22774v1)
 
 **Authors**: Kaja Dobrovoljc
@@ -4016,6 +4281,7 @@ This paper presents a novel treebank-driven approach to comparing syntactic stru
 
 ## Article 265
 ### Title@2025-05-28 (3): Automated Essay Scoring Incorporating Annotations from Automated   Feedback Systems
+
 **Title**: Automated Essay Scoring Incorporating Annotations from Automated   Feedback Systems | Automatisierte Bewertung der Annotationen von automatisierten Feedback-Systemen | 自动反馈系统自动读取系统输入说明 [2505.22771v1](http://arxiv.org/abs/2505.22771v1)
 
 **Authors**: Christopher Ormerod
@@ -4026,6 +4292,7 @@ This study illustrates how incorporating feedback-oriented annotations into the 
 
 ## Article 266
 ### Title@2025-05-28 (3): Do we still need Human Annotators? Prompting Large Language Models for   Aspect Sentiment Quad Prediction
+
 **Title**: Do we still need Human Annotators? Prompting Large Language Models for   Aspect Sentiment Quad Prediction | Brauchen wir noch menschliche Annotatoren? Prompting große Sprachmodelle für Aspect Sentiment Quad Prediction | 我们还需要人类告别员吗? [2502.13044v3](http://arxiv.org/abs/2502.13044v3)
 
 **Authors**: Nils Constantin Hellwig, Jakob Fehle, Udo Kruschwitz, Christian Wolff
@@ -4036,6 +4303,7 @@ Aspect sentiment quad prediction (ASQP) facilitates a detailed understanding of 
 
 ## Article 267
 ### Title@2025-05-28 (3): A Survey of Uncertainty Estimation Methods on Large Language Models
+
 **Title**: A Survey of Uncertainty Estimation Methods on Large Language Models | Eine Übersicht über Methoden der Unsicherheitsschätzung bei großen Sprachmodellen | 大语言模型不确定性估算方法调查 [2503.00172v2](http://arxiv.org/abs/2503.00172v2)
 
 **Authors**: Zhiqiu Xia, Jinxuan Xu, Yuqian Zhang, Hang Liu
@@ -4046,6 +4314,7 @@ Large language models (LLMs) have demonstrated remarkable capabilities across va
 
 ## Article 268
 ### Title@2025-05-28 (3): StressTest: Can YOUR Speech LM Handle the Stress?
+
 **Title**: StressTest: Can YOUR Speech LM Handle the Stress? | StressTest: Kann Ihre Rede LM mit dem Stress umgehen? | 压力测试:你的演讲能解决压力吗? [2505.22765v1](http://arxiv.org/abs/2505.22765v1)
 
 **Authors**: Iddo Yosha, Gallil Maimon, Yossi Adi
@@ -4056,6 +4325,7 @@ Sentence stress refers to emphasis, placed on specific words within a spoken utt
 
 ## Article 269
 ### Title@2025-05-28 (3): Decomposed Opinion Summarization with Verified Aspect-Aware Modules
+
 **Title**: Decomposed Opinion Summarization with Verified Aspect-Aware Modules | Zerlegte Meinungszusammenfassung mit verifizierten Aspect-Aware-Modulen | 与经核查的光谱软件模块拆解的意见摘要 [2501.17191v3](http://arxiv.org/abs/2501.17191v3)
 
 **Authors**: Miao Li, Jey Han Lau, Eduard Hovy, Mirella Lapata
@@ -4066,6 +4336,7 @@ Opinion summarization plays a key role in deriving meaningful insights from larg
 
 ## Article 270
 ### Title@2025-05-28 (3): Resolving Lexical Bias in Model Editing
+
 **Title**: Resolving Lexical Bias in Model Editing | Lösung Lexischer Bias in der Modellbearbeitung | 解析示范编辑中的法理偏见 [2408.10411v3](http://arxiv.org/abs/2408.10411v3)
 
 **Authors**: Hammad Rizwan, Domenic Rosati, Ga Wu, Hassan Sajjad
@@ -4076,6 +4347,7 @@ Model editing aims to modify the outputs of large language models after they are
 
 ## Article 271
 ### Title@2025-05-28 (3): FAMA: The First Large-Scale Open-Science Speech Foundation Model for   English and Italian
+
 **Title**: FAMA: The First Large-Scale Open-Science Speech Foundation Model for   English and Italian | FAMA: Das erste großformatige Open-Science-Sprechstiftungsmodell für Englisch und Italienisch | FAMA:英语和意大利语第一个大型开放科学演讲基金会模型 [2505.22759v1](http://arxiv.org/abs/2505.22759v1)
 
 **Authors**: Sara Papi, Marco Gaido, Luisa Bentivogli, Alessio Brutti, Mauro Cettolo, Roberto Gretter, Marco Matassoni, Mohamed Nabih, Matteo Negri
@@ -4086,6 +4358,7 @@ The development of speech foundation models (SFMs) like Whisper and SeamlessM4T 
 
 ## Article 272
 ### Title@2025-05-28 (3): FlashFormer: Whole-Model Kernels for Efficient Low-Batch Inference
+
 **Title**: FlashFormer: Whole-Model Kernels for Efficient Low-Batch Inference | FlashFormer: Ganzmodell-Kernel für effiziente Low-Batch-Inferenz | FlashFormer: 用于高效低批量推断的全模块内核 [2505.22758v1](http://arxiv.org/abs/2505.22758v1)
 
 **Authors**: Aniruddha Nrusimha, William Brandon, Mayank Mishra, Yikang Shen, Rameswar Panda, Jonathan Ragan-Kelley, Yoon Kim
@@ -4096,6 +4369,7 @@ The size and compute characteristics of modern large language models have led to
 
 ## Article 273
 ### Title@2025-05-28 (3): Pre-Training Curriculum for Multi-Token Prediction in Language Models
+
 **Title**: Pre-Training Curriculum for Multi-Token Prediction in Language Models | Pre-Training Curriculum für Multi-Token-Vorhersage in Sprachmodellen | 语言模式多肯预测培训前课程 [2505.22757v1](http://arxiv.org/abs/2505.22757v1)
 
 **Authors**: Ansar Aynetdinov, Alan Akbik
@@ -4106,6 +4380,7 @@ Multi-token prediction (MTP) is a recently proposed pre-training objective for l
 
 ## Article 274
 ### Title@2025-05-28 (3): Decomposing Elements of Problem Solving: What "Math" Does RL Teach?
+
 **Title**: Decomposing Elements of Problem Solving: What "Math" Does RL Teach? | Zersetzende Elemente der Problemlösung: Was "Math" lehrt RL? | 问题解决的分解要素:RL教什么“马思”? [2505.22756v1](http://arxiv.org/abs/2505.22756v1)
 
 **Authors**: Tian Qin, Core Francisco Park, Mujin Kwun, Aaron Walsman, Eran Malach, Nikhil Anand, Hidenori Tanaka, David Alvarez-Melis
@@ -4116,6 +4391,7 @@ Mathematical reasoning tasks have become prominent benchmarks for assessing the 
 
 ## Article 275
 ### Title@2025-05-28 (3): VideoRAG: Retrieval-Augmented Generation over Video Corpus
+
 **Title**: VideoRAG: Retrieval-Augmented Generation over Video Corpus | VideoRAG: Retrieval-Augmented Generation über Video Corpus | VideoRAG: 利用视频公司回收的原始一代 [2501.05874v3](http://arxiv.org/abs/2501.05874v3)
 
 **Authors**: Soyeong Jeong, Kangsan Kim, Jinheon Baek, Sung Ju Hwang
@@ -4126,6 +4402,7 @@ Retrieval-Augmented Generation (RAG) is a powerful strategy for improving the fa
 
 ## Article 276
 ### Title@2025-05-28 (3): Climate Finance Bench
+
 **Title**: Climate Finance Bench | Klimafinanzierungsbank | 气候融资法官 [2505.22752v1](http://arxiv.org/abs/2505.22752v1)
 
 **Authors**: Rafik Mankour, Yassine Chafai, Hamada Saleh, Ghassen Ben Hassine, Thibaud Barreau, Peter Tankov
@@ -4136,6 +4413,7 @@ Climate Finance Bench introduces an open benchmark that targets question-answeri
 
 ## Article 277
 ### Title@2025-05-28 (3): AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models
+
 **Title**: AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models | AutoL2S: Auto-Lang-Short-Reasoning für effiziente große Sprachmodelle | 自动L2S:高效大语言模式的自动长期短期理由 [2505.22662v1](http://arxiv.org/abs/2505.22662v1)
 
 **Authors**: Feng Luo, Yu-Neng Chuang, Guanchu Wang, Hoang Anh Duy Le, Shaochen Zhong, Hongyi Liu, Jiayi Yuan, Yang Sui, Vladimir Braverman, Vipin Chaudhary, Xia Hu
@@ -4146,6 +4424,7 @@ The reasoning-capable large language models (LLMs) demonstrate strong performanc
 
 ## Article 278
 ### Title@2025-05-28 (3): GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating   LLMs in Domain-Specific Knowledge and Reasoning
+
 **Title**: GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating   LLMs in Domain-Specific Knowledge and Reasoning | GuessArena: Raten Sie, wer ich bin? Ein selbstadaptives Framework zur Bewertung von LLMs in Domain-spezifischem Wissen und Vernunft | GuessArena:猜猜我是谁? 评估特定知识和理由领域LMLM的自我激励框架 [2505.22661v1](http://arxiv.org/abs/2505.22661v1)
 
 **Authors**: Qingchen Yu, Zifan Zheng, Ding Chen, Simin Niu, Bo Tang, Feiyu Xiong, Zhiyu Li
@@ -4156,6 +4435,7 @@ The evaluation of large language models (LLMs) has traditionally relied on stati
 
 ## Article 279
 ### Title@2025-05-28 (3): 3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large   Language Model
+
 **Title**: 3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large   Language Model | 3DLLM-Mem: Langzeit-Raum-Temporal-Speicher für körpereigenes 3D-Großsprachmodell | 3DLLM-Mem:3D大语言模型内嵌成的3D大语言长期空间-时间记忆 [2505.22657v1](http://arxiv.org/abs/2505.22657v1)
 
 **Authors**: Wenbo Hu, Yining Hong, Yanjun Wang, Leison Gao, Zibu Wei, Xingcheng Yao, Nanyun Peng, Yonatan Bitton, Idan Szpektor, Kai-Wei Chang
@@ -4166,6 +4446,7 @@ Humans excel at performing complex tasks by leveraging long-term memory across t
 
 ## Article 280
 ### Title@2025-05-28 (3): VScan: Rethinking Visual Token Reduction for Efficient Large   Vision-Language Models
+
 **Title**: VScan: Rethinking Visual Token Reduction for Efficient Large   Vision-Language Models | VScan: Rethinking Visual Token Reduction für effiziente große Vision-Sprache Modelle | Vscan:重新思考如何降低视力,以建立高效的大型视觉语言模型 [2505.22654v1](http://arxiv.org/abs/2505.22654v1)
 
 **Authors**: Ce Zhang, Kaixin Ma, Tianqing Fang, Wenhao Yu, Hongming Zhang, Zhisong Zhang, Yaqi Xie, Katia Sycara, Haitao Mi, Dong Yu
@@ -4176,6 +4457,7 @@ Recent Large Vision-Language Models (LVLMs) have advanced multi-modal understand
 
 ## Article 281
 ### Title@2025-05-28 (3): Position: Uncertainty Quantification Needs Reassessment for   Large-language Model Agents
+
 **Title**: Position: Uncertainty Quantification Needs Reassessment for   Large-language Model Agents | Position: Ungewissheitsquantifizierung braucht eine Neubewertung für großsprachige Modellagenten | 位置:大语言示范物剂的不确定性量化需求评估 [2505.22655v1](http://arxiv.org/abs/2505.22655v1)
 
 **Authors**: Michael Kirchhof, Gjergji Kasneci, Enkelejda Kasneci
@@ -4186,6 +4468,7 @@ Large-language models (LLMs) and chatbot agents are known to provide wrong outpu
 
 ## Article 282
 ### Title@2025-05-28 (3): The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in   Learning to Reason
+
 **Title**: The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in   Learning to Reason | Das Klettern schnitzt Weisheit tiefer als der Gipfel: Über die lärmenden Belohnungen im Lernen zur Vernunft | 攀爬的雕刻比首脑会议更深的智慧:学习理性的吵闹奖励 [2505.22653v1](http://arxiv.org/abs/2505.22653v1)
 
 **Authors**: Ang Lv, Ruobing Xie, Xingwu Sun, Zhanhui Kang, Rui Yan
@@ -4196,6 +4479,7 @@ Recent studies on post-training large language models (LLMs) for reasoning throu
 
 ## Article 283
 ### Title@2025-05-28 (3): Sherlock: Self-Correcting Reasoning in Vision-Language Models
+
 **Title**: Sherlock: Self-Correcting Reasoning in Vision-Language Models | Sherlock: Selbstkorrekte Vernunft in Vision-Sprachen-Modellen | 夏洛克:视觉语言模型中的自我校正理由 [2505.22651v1](http://arxiv.org/abs/2505.22651v1)
 
 **Authors**: Yi Ding, Ruqi Zhang
@@ -4206,6 +4490,7 @@ Reasoning Vision-Language Models (VLMs) have shown promising performance on comp
 
 ## Article 284
 ### Title@2025-05-28 (3): Training Language Models to Generate Quality Code with Program Analysis   Feedback
+
 **Title**: Training Language Models to Generate Quality Code with Program Analysis   Feedback | Schulung von Sprachmodellen zur Generierung von Qualitätscodes mit Feedback zur Programmanalyse | 具有方案分析反馈的产生质量守则培训语言模式 [2505.22704v1](http://arxiv.org/abs/2505.22704v1)
 
 **Authors**: Feng Yao, Zilong Wang, Liyuan Liu, Junxia Cui, Li Zhong, Xiaohan Fu, Haohui Mai, Vish Krishnan, Jianfeng Gao, Jingbo Shang
@@ -4216,6 +4501,7 @@ Code generation with large language models (LLMs), often termed vibe coding, is 
 
 ## Article 285
 ### Title@2025-05-28 (3): WebDancer: Towards Autonomous Information Seeking Agency
+
 **Title**: WebDancer: Towards Autonomous Information Seeking Agency | WebDancer: Auf dem Weg zu einer autonomen Informationsagentur | WebDancer:走向自主信息搜索机构 [2505.22648v1](http://arxiv.org/abs/2505.22648v1)
 
 **Authors**: Jialong Wu, Baixuan Li, Runnan Fang, Wenbiao Yin, Liwen Zhang, Zhengwei Tao, Dingchu Zhang, Zekun Xi, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou
@@ -4226,6 +4512,7 @@ Addressing intricate real-world problems necessitates in-depth information seeki
 
 ## Article 286
 ### Title@2025-05-28 (3): Characterizing Bias: Benchmarking Large Language Models in Simplified   versus Traditional Chinese
+
 **Title**: Characterizing Bias: Benchmarking Large Language Models in Simplified   versus Traditional Chinese | Charakterisierung von Bias: Benchmarking von großen Sprachmodellen in vereinfachter versus traditionellem Chinesisch | 区分偏见:将大型语言模式与传统中文相比的简化程度基准化 [2505.22645v1](http://arxiv.org/abs/2505.22645v1)
 
 **Authors**: Hanjia Lyu, Jiebo Luo, Jian Kang, Allison Koenecke
@@ -4236,6 +4523,7 @@ While the capabilities of Large Language Models (LLMs) have been studied in both
 
 ## Article 287
 ### Title@2025-05-28 (3): Learning Composable Chains-of-Thought
+
 **Title**: Learning Composable Chains-of-Thought | Komposierbare Ketten lernen-von-Gedanken | 学习综合研究链 [2505.22635v1](http://arxiv.org/abs/2505.22635v1)
 
 **Authors**: Fangcong Yin, Zeyu Leo Liu, Liu Leqi, Xi Ye, Greg Durrett
@@ -4246,6 +4534,7 @@ A common approach for teaching large language models (LLMs) to reason is to trai
 
 ## Article 288
 ### Title@2025-05-28 (3): Spatial Knowledge Graph-Guided Multimodal Synthesis
+
 **Title**: Spatial Knowledge Graph-Guided Multimodal Synthesis | Raumwissen Graph-geführte multimodale Synthese | 空间知识图表辅助多模式合成 [2505.22633v1](http://arxiv.org/abs/2505.22633v1)
 
 **Authors**: Yida Xue, Zhen Bi, Jinnan Yang, Jungang Lou, Huajun Chen, Ningyu Zhang
@@ -4256,6 +4545,7 @@ Recent advances in multimodal large language models (MLLMs) have significantly e
 
 ## Article 289
 ### Title@2025-05-28 (3): Stochastic Chameleons: Irrelevant Context Hallucinations Reveal   Class-Based (Mis)Generalization in LLMs
+
 **Title**: Stochastic Chameleons: Irrelevant Context Hallucinations Reveal   Class-Based (Mis)Generalization in LLMs | Stochastische Chamäleons: irrelevanter Kontext Halluzinationen Offenbarung Klassenbasierte (Mis)Verallgemeinerung in LLMs | 电磁变色龙:无关联的地貌幻觉流星级(Mis) [2505.22630v1](http://arxiv.org/abs/2505.22630v1)
 
 **Authors**: Ziling Cheng, Meng Cao, Marc-Antoine Rondeau, Jackie Chi Kit Cheung
@@ -4266,6 +4556,7 @@ The widespread success of large language models (LLMs) on NLP benchmarks has bee
 
 ## Article 290
 ### Title@2025-05-28 (3): Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions
+
 **Title**: Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions | Chain-of-Talkers (CoTalk): Schnelle menschliche Anmerkung von Dense Image Captions | 谈话链(Contalk):人类对高密度图像描述的快速记号 [2505.22627v1](http://arxiv.org/abs/2505.22627v1)
 
 **Authors**: Yijun Shen, Delong Chen, Fan Liu, Xingyu Wang, Chuanyi Zhang, Liang Yao, Yuhui Zheng
@@ -4276,6 +4567,7 @@ While densely annotated image captions significantly facilitate the learning of 
 
 ## Article 291
 ### Title@2025-05-28 (3): Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV   Cache and Parallel Decoding
+
 **Title**: Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV   Cache and Parallel Decoding | Fast-dLLM: Trainingsfreie Beschleunigung von Diffusion LLM durch Ermöglichen von KV Cache und Paralleldecoding | 快速dLLM:通过授权 KV 缓存和平行编码加速免培训传播LLM [2505.22618v1](http://arxiv.org/abs/2505.22618v1)
 
 **Authors**: Chengyue Wu, Hao Zhang, Shuchen Xue, Zhijian Liu, Shizhe Diao, Ligeng Zhu, Ping Luo, Song Han, Enze Xie
@@ -4286,6 +4578,7 @@ Diffusion-based large language models (Diffusion LLMs) have shown promise for no
 
 ## Article 292
 ### Title@2025-05-28 (3): The Entropy Mechanism of Reinforcement Learning for Reasoning Language   Models
+
 **Title**: The Entropy Mechanism of Reinforcement Learning for Reasoning Language   Models | Der Entropie-Mechanismus des Verstärkten Lernens für sinnvolle Sprachmodelle | 理由语言模式强化学习的全英机制 [2505.22617v1](http://arxiv.org/abs/2505.22617v1)
 
 **Authors**: Ganqu Cui, Yuchen Zhang, Jiacheng Chen, Lifan Yuan, Zhi Wang, Yuxin Zuo, Haozhan Li, Yuchen Fan, Huayu Chen, Weize Chen, Zhiyuan Liu, Hao Peng, Lei Bai, Wanli Ouyang, Yu Cheng, Bowen Zhou, Ning Ding
@@ -4296,6 +4589,7 @@ This paper aims to overcome a major obstacle in scaling RL for reasoning with LL
 
 ## Article 293
 ### Title@2025-05-28 (3): Bridging Supervised Learning and Reinforcement Learning in Math   Reasoning
+
 **Title**: Bridging Supervised Learning and Reinforcement Learning in Math   Reasoning | Bridging Supervised Learning und Verstärkung Lernen in Mathe-Reasoning | 在数学原因方面的受监督学习和强化学习架桥 [2505.18116v2](http://arxiv.org/abs/2505.18116v2)
 
 **Authors**: Huayu Chen, Kaiwen Zheng, Qinsheng Zhang, Ganqu Cui, Yin Cui, Haotian Ye, Tsung-Yi Lin, Ming-Yu Liu, Jun Zhu, Haoxiang Wang
@@ -4306,6 +4600,7 @@ Reinforcement Learning (RL) has played a central role in the recent surge of LLM
 
 ## Article 294
 ### Title@2025-05-28 (3): RICO: Improving Accuracy and Completeness in Image Recaptioning via   Visual Reconstruction
+
 **Title**: RICO: Improving Accuracy and Completeness in Image Recaptioning via   Visual Reconstruction | RICO: Verbesserung der Genauigkeit und Vollständigkeit in der Bildrekapitulation durch visuelle Rekonstruktion | RICO:通过视觉重建提高图像剪辑的准确性和完整性 [2505.22613v1](http://arxiv.org/abs/2505.22613v1)
 
 **Authors**: Yuchi Wang, Yishuo Cai, Shuhuai Ren, Sihan Yang, Linli Yao, Yuanxin Liu, Yuanxing Zhang, Pengfei Wan, Xu Sun
@@ -4316,6 +4611,7 @@ Image recaptioning is widely used to generate training datasets with enhanced qu
 
 ## Article 295
 ### Title@2025-05-28 (3): Personalized Causal Graph Reasoning for LLMs: A Case Study on Dietary   Recommendations
+
 **Title**: Personalized Causal Graph Reasoning for LLMs: A Case Study on Dietary   Recommendations | Personalisiertes Kausaldiagramm zur Begründung von LLMs: Eine Fallstudie zu Ernährungsempfehlungen | LLLM女士的个人因果图:关于饮食建议的案例研究 [2503.00134v2](http://arxiv.org/abs/2503.00134v2)
 
 **Authors**: Zhongqi Yang, Amir Rahmani
@@ -4326,6 +4622,7 @@ Large Language Models (LLMs) effectively leverage common-sense knowledge for gen
 
 ## Article 296
 ### Title@2025-05-28 (3): AutoElicit: Using Large Language Models for Expert Prior Elicitation in   Predictive Modelling
+
 **Title**: AutoElicit: Using Large Language Models for Expert Prior Elicitation in   Predictive Modelling | AutoElicit: Mit großen Sprachmodellen für vorausschauende Modellierung von Expertenvoraussagen | 自动:在预测模拟中使用大语言模型,供专家使用 [2411.17284v5](http://arxiv.org/abs/2411.17284v5)
 
 **Authors**: Alexander Capstick, Rahul G. Krishnan, Payam Barnaghi
@@ -4336,6 +4633,7 @@ Large language models (LLMs) acquire a breadth of information across various dom
 
 ## Article 297
 ### Title@2025-05-28 (3): SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge   Refinement
+
 **Title**: SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge   Refinement | SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement | Synworld: 用于改进制剂行动知识的虚拟情景合成 [2504.03561v2](http://arxiv.org/abs/2504.03561v2)
 
 **Authors**: Runnan Fang, Xiaobin Wang, Yuan Liang, Shuofei Qiao, Jialong Wu, Zekun Xi, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen
@@ -4346,6 +4644,7 @@ In the interaction between agents and their environments, agents expand their ca
 
 ## Article 298
 ### Title@2025-05-28 (3): Self-Error-Instruct: Generalizing from Errors for LLMs Mathematical   Reasoning
+
 **Title**: Self-Error-Instruct: Generalizing from Errors for LLMs Mathematical   Reasoning | Self-Error-Instruct: Verallgemeinern von Fehlern für LLMs Mathematische Begründung | 自错误教学法: 数学理由LLMs 的错误一般化 [2505.22591v1](http://arxiv.org/abs/2505.22591v1)
 
 **Authors**: Erxin Yu, Jing Li, Ming Liao, Qi Zhu, Boyang Xue, Minghui Xu, Baojun Wang, Lanqing Hong, Fei Mi, Lifeng Shang
@@ -4356,6 +4655,7 @@ Although large language models demonstrate strong performance across various dom
 
 ## Article 299
 ### Title@2025-05-28 (3): Precise In-Parameter Concept Erasure in Large Language Models
+
 **Title**: Precise In-Parameter Concept Erasure in Large Language Models | Präzise In-Parameter-Konzeptlöschung in großen Sprachmodellen | 大语言模型中精确的在写法内概念破损 [2505.22586v1](http://arxiv.org/abs/2505.22586v1)
 
 **Authors**: Yoav Gur-Arieh, Clara Suslik, Yihuai Hong, Fazl Barez, Mor Geva
@@ -4366,6 +4666,7 @@ Large language models (LLMs) often acquire knowledge during pretraining that is 
 
 ## Article 300
 ### Title@2025-05-28 (3): ReLearn: Unlearning via Learning for Large Language Models
+
 **Title**: ReLearn: Unlearning via Learning for Large Language Models | ReLearn: Entlernen über Learning for Large Language Models | Reearn:通过学习大语言模式来重新学习 [2502.11190v3](http://arxiv.org/abs/2502.11190v3)
 
 **Authors**: Haoming Xu, Ningyuan Zhao, Liming Yang, Sendong Zhao, Shumin Deng, Mengru Wang, Bryan Hooi, Nay Oo, Huajun Chen, Ningyu Zhang
@@ -4376,6 +4677,7 @@ Current unlearning methods for large language models usually rely on reverse opt
 
 ## Article 301
 ### Title@2025-05-28 (3): Less, but Better: Efficient Multilingual Expansion for LLMs via   Layer-wise Mixture-of-Experts
+
 **Title**: Less, but Better: Efficient Multilingual Expansion for LLMs via   Layer-wise Mixture-of-Experts | Weniger, aber besser: Effiziente Mehrsprachige Erweiterung für LLMs über schichtweise Mixture-of-Experts | 减少但更好:通过多层混合技术高效率地多语种扩展LLMs [2505.22582v1](http://arxiv.org/abs/2505.22582v1)
 
 **Authors**: Xue Zhang, Yunlong Liang, Fandong Meng, Songming Zhang, Yufeng Chen, Jinan Xu, Jie Zhou
@@ -4386,6 +4688,7 @@ Continually expanding new languages for existing large language models (LLMs) is
 
 ## Article 302
 ### Title@2025-05-28 (3): Fusion Steering: Prompt-Specific Activation Control
+
 **Title**: Fusion Steering: Prompt-Specific Activation Control | Fusionssteuerung: Prompt-spezifische Aktivierungskontrolle | 融合指导:即时具体活动控制 [2505.22572v1](http://arxiv.org/abs/2505.22572v1)
 
 **Authors**: Waldemar Chang, Alhassan Yasin
@@ -4396,6 +4699,7 @@ We present Fusion Steering, an activation steering methodology that improves fac
 
 ## Article 303
 ### Title@2025-05-28 (3): TLUE: A Tibetan Language Understanding Evaluation Benchmark
+
 **Title**: TLUE: A Tibetan Language Understanding Evaluation Benchmark | TLUE: Ein Benchmark für die Bewertung der tibetischen Sprache | TLUE:西藏语言理解评估基准 [2503.12051v3](http://arxiv.org/abs/2503.12051v3)
 
 **Authors**: Fan Gao, Cheng Huang, Nyima Tashi, Xiangxiang Wang, Thupten Tsering, Ban Ma-bao, Renzeg Duojie, Gadeng Luosang, Rinchen Dongrub, Dorje Tashi, Hao Wang Xiao Feng, Yongbin Yu
@@ -4406,6 +4710,7 @@ Large language models (LLMs) have made tremendous progress in recent years, but 
 
 ## Article 304
 ### Title@2025-05-28 (3): Do Large Language Models Think Like the Brain? Sentence-Level Evidence   from fMRI and Hierarchical Embeddings
+
 **Title**: Do Large Language Models Think Like the Brain? Sentence-Level Evidence   from fMRI and Hierarchical Embeddings | Denken große Sprachmodelle wie das Gehirn? Sentence-Level-Evidenz aus fMRI und Hierarchischen Einbettungen | 大语言模型是否像大脑一样思考? [2505.22563v1](http://arxiv.org/abs/2505.22563v1)
 
 **Authors**: Yu Lei, Xingyang Ge, Yi Zhang, Yiming Yang, Bolei Ma
@@ -4416,6 +4721,7 @@ Understanding whether large language models (LLMs) and the human brain converge 
 
 ## Article 305
 ### Title@2025-05-28 (3): Preference Adaptive and Sequential Text-to-Image Generation
+
 **Title**: Preference Adaptive and Sequential Text-to-Image Generation | Präferenz Adaptive und sequentielle Text-zu-Bild-Generierung | 适应性和顺序性文字到图像生成 [2412.10419v2](http://arxiv.org/abs/2412.10419v2)
 
 **Authors**: Ofir Nabati, Guy Tennenholtz, ChihWei Hsu, Moonkyung Ryu, Deepak Ramachandran, Yinlam Chow, Xiang Li, Craig Boutilier
@@ -4426,6 +4732,7 @@ We address the problem of interactive text-to-image (T2I) generation, designing 
 
 ## Article 306
 ### Title@2025-05-28 (3): ClaimPKG: Enhancing Claim Verification via Pseudo-Subgraph Generation   with Lightweight Specialized LLM
+
 **Title**: ClaimPKG: Enhancing Claim Verification via Pseudo-Subgraph Generation   with Lightweight Specialized LLM | ClaimPKG: Verbesserung der Claim-Verifikation durch Pseudo-Subgraphen-Generation mit leichtgewichtiger Spezial-LLM | CLCPKG: 通过使用轻量级专门LLM的Pseudo子集成加强索赔核实 [2505.22552v1](http://arxiv.org/abs/2505.22552v1)
 
 **Authors**: Hoang Pham, Thanh-Do Nguyen, Khac-Hoai Nam Bui
@@ -4436,6 +4743,7 @@ Integrating knowledge graphs (KGs) to enhance the reasoning capabilities of larg
 
 ## Article 307
 ### Title@2025-05-28 (3): Emotion-o1: Adaptive Long Reasoning for Emotion Understanding in LLMs
+
 **Title**: Emotion-o1: Adaptive Long Reasoning for Emotion Understanding in LLMs | Emotion-o1: Adaptive lange Begründung für emotionales Verständnis in LLMs | 情感-o1:在LLMs中为情感理解提供适应性长的理由 [2505.22548v1](http://arxiv.org/abs/2505.22548v1)
 
 **Authors**: Changhao Song, Yazhou Zhang, Peng Zhang
@@ -4446,6 +4754,7 @@ Emotion understanding includes basic tasks (e.g., sentiment/emotion classificati
 
 ## Article 308
 ### Title@2025-05-28 (3): Moderating Harm: Benchmarking Large Language Models for Cyberbullying   Detection in YouTube Comments
+
 **Title**: Moderating Harm: Benchmarking Large Language Models for Cyberbullying   Detection in YouTube Comments | Moderating Harm: Benchmarking von großen Sprachmodellen für Cyberbullying Detection in YouTube Kommentare | 在YouTube评论中为网络欺欺欺欺欺欺欺欺欺欺欺欺欺凌探测大语言模式制定基准 [2505.18927v2](http://arxiv.org/abs/2505.18927v2)
 
 **Authors**: Amel Muminovic
@@ -4456,6 +4765,7 @@ As online platforms grow, comment sections increasingly host harassment that und
 
 ## Article 309
 ### Title@2025-05-28 (3): Thinking with Generated Images
+
 **Title**: Thinking with Generated Images | Mit generierten Bildern denken | 与生成图像一起思考 [2505.22525v1](http://arxiv.org/abs/2505.22525v1)
 
 **Authors**: Ethan Chern, Zhulin Hu, Steffi Chern, Siqi Kou, Jiadi Su, Yan Ma, Zhijie Deng, Pengfei Liu
@@ -4466,6 +4776,7 @@ We present Thinking with Generated Images, a novel paradigm that fundamentally t
 
 ## Article 310
 ### Title@2025-05-28 (3): SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning   Logical Reasoning and Beyond
+
 **Title**: SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning   Logical Reasoning and Beyond | SynLogic: Synthesizing verifizierbare reasoning data at scale for Learning Logical Reasoning and Beyond | 协同Logic:在学习逻辑理由及以后的尺度上综合可核实的理由数据 [2505.19641v3](http://arxiv.org/abs/2505.19641v3)
 
 **Authors**: Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
@@ -4476,6 +4787,7 @@ Recent advances such as OpenAI-o1 and DeepSeek R1 have demonstrated the potentia
 
 ## Article 311
 ### Title@2025-05-28 (3): Multi-MLLM Knowledge Distillation for Out-of-Context News Detection
+
 **Title**: Multi-MLLM Knowledge Distillation for Out-of-Context News Detection | Multi-MLLM-Wissensdestillation für Out-of-Context-Nachrichten-Erkennung | 多MLMM-MLM-MT-MLM-MT-MM-MM-MM-MM-MM-MM-MM-MT-MTLM-MM-MTM-MM-MM-MM-MTM-MM-MTFTFNTUTUTFTFTFMTUTFM-MTFM-MMM-MTM-MMM-MMMM-MMMM-MMMMMM-MMMMM-MMM-MMMM-MMM-MMM-MMM-MM-MMM-MM-M-M-MMMMMMMM-M-M-MMMMM-MM-M-MMM-MM-MMMMMMM-M-M-M-MM-MMMMMMM-MMM-M-MMMMM-MMMMMMMMMMMM-MMMMMMM-M-M-M-M-MMMMMMMM-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM 知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识知识 [2505.22517v1](http://arxiv.org/abs/2505.22517v1)
 
 **Authors**: Yimeng Gu, Zhao Tong, Ignacio Castro, Shu Wu, Gareth Tyson
@@ -4486,6 +4798,7 @@ Multimodal out-of-context news is a type of misinformation in which the image is
 
 ## Article 312
 ### Title@2025-05-28 (3): Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental   Health Conversations
+
 **Title**: Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental   Health Conversations | Vernunft ist nicht alles, was Sie brauchen: Prüfung LLMs für Multi-Turn Mental Health Conversations | 理由并非你所需要的全部:多发性心理健康对话的检查长 [2505.20201v2](http://arxiv.org/abs/2505.20201v2)
 
 **Authors**: Mohit Chandra, Siddharth Sriraman, Harneet Singh Khanuja, Yiqiao Jin, Munmun De Choudhury
@@ -4496,6 +4809,7 @@ Limited access to mental healthcare, extended wait times, and increasing capabil
 
 ## Article 313
 ### Title@2025-05-28 (3): Closed-Form Training Dynamics Reveal Learned Features and Linear   Structure in Word2Vec-like Models
+
 **Title**: Closed-Form Training Dynamics Reveal Learned Features and Linear   Structure in Word2Vec-like Models | Closed-Form Training Dynamics Reveal Erlernte Funktionen und lineare Struktur in Word2Vec-ähnlichen Modellen | 类似Word2Vec 模型中的封闭形式培训动态观测发现特性和线形结构 [2502.09863v2](http://arxiv.org/abs/2502.09863v2)
 
 **Authors**: Dhruva Karkada, James B. Simon, Yasaman Bahri, Michael R. DeWeese
@@ -4506,6 +4820,7 @@ Self-supervised word embedding algorithms such as word2vec provide a minimal set
 
 ## Article 314
 ### Title@2025-05-28 (3): EvolveSearch: An Iterative Self-Evolving Search Agent
+
 **Title**: EvolveSearch: An Iterative Self-Evolving Search Agent | EvolveSearch: Ein iterativer, sich selbst entwickelnder Suchagent | EvolveSearch: 动态自我演变搜索代理 [2505.22501v1](http://arxiv.org/abs/2505.22501v1)
 
 **Authors**: Dingchu Zhang, Yida Zhao, Jialong Wu, Baixuan Li, Wenbiao Yin, Liwen Zhang, Yong Jiang, Yufeng Li, Kewei Tu, Pengjun Xie, Fei Huang
@@ -4516,6 +4831,7 @@ The rapid advancement of large language models (LLMs) has transformed the landsc
 
 ## Article 315
 ### Title@2025-05-28 (3): Nonlinear second-order dynamics describe labial constriction   trajectories across languages and contexts
+
 **Title**: Nonlinear second-order dynamics describe labial constriction   trajectories across languages and contexts | Nichtlineare Dynamiken der zweiten Ordnung beschreiben labiale Constriction-Trajektorien über Sprachen und Kontexte hinweg | 非线性第二序列动态描述不同语言和背景的实验室收缩轨迹 [2410.08351v3](http://arxiv.org/abs/2410.08351v3)
 
 **Authors**: Michael C. Stern, Jason A. Shaw
@@ -4526,6 +4842,7 @@ We investigate the dynamics of labial constriction trajectories during the produ
 
 ## Article 316
 ### Title@2025-05-28 (3): Positional Fragility in LLMs: How Offset Effects Reshape Our   Understanding of Memorization Risks
+
 **Title**: Positional Fragility in LLMs: How Offset Effects Reshape Our   Understanding of Memorization Risks | Positionale Fragilität in LLMs: Wie Offset-Effekte unser Verständnis von Gedächtnisrisiken verändern | LLMM中的位置易碎性:如何重塑抵消效应,我们如何理解记忆风险 [2505.13171v2](http://arxiv.org/abs/2505.13171v2)
 
 **Authors**: Yixuan Xu, Antoni-Joan Solergibert i Llaquet, Antoine Bosselut, Imanol Schlag
@@ -4536,6 +4853,7 @@ Large language models are known to memorize parts of their training data, posing
 
 ## Article 317
 ### Title@2025-05-28 (3): AdvAgent: Controllable Blackbox Red-teaming on Web Agents
+
 **Title**: AdvAgent: Controllable Blackbox Red-teaming on Web Agents | AdvAgent: Kontrollierbare Blackbox Red-Teaming auf Web-Agenten | 助理:在网络代理上可控黑箱红队 [2410.17401v3](http://arxiv.org/abs/2410.17401v3)
 
 **Authors**: Chejian Xu, Mintong Kang, Jiawei Zhang, Zeyi Liao, Lingbo Mo, Mengqi Yuan, Huan Sun, Bo Li
@@ -4546,6 +4864,7 @@ Foundation model-based agents are increasingly used to automate complex tasks, e
 
 ## Article 318
 ### Title@2025-05-28 (3): Effective Context in Neural Speech Models
+
 **Title**: Effective Context in Neural Speech Models | Effektiver Kontext in neuralen Sprachmodellen | 神经语音模式的有效背景 [2505.22487v1](http://arxiv.org/abs/2505.22487v1)
 
 **Authors**: Yen Meng, Sharon Goldwater, Hao Tang
@@ -4556,6 +4875,7 @@ Modern neural speech models benefit from having longer context, and many approac
 
 ## Article 319
 ### Title@2025-05-28 (3): How Do LLMs Perform Two-Hop Reasoning in Context?
+
 **Title**: How Do LLMs Perform Two-Hop Reasoning in Context? | Wie führen LLMs Zwei-Hop-Reasoning im Kontext durch? | LLMs如何在上下文中执行双重理由? [2502.13913v2](http://arxiv.org/abs/2502.13913v2)
 
 **Authors**: Tianyu Guo, Hanlin Zhu, Ruiqi Zhang, Jiantao Jiao, Song Mei, Michael I. Jordan, Stuart Russell
@@ -4566,6 +4886,7 @@ Modern neural speech models benefit from having longer context, and many approac
 
 ## Article 320
 ### Title@2025-05-28 (3): FitCF: A Framework for Automatic Feature Importance-guided   Counterfactual Example Generation
+
 **Title**: FitCF: A Framework for Automatic Feature Importance-guided   Counterfactual Example Generation | FitCF: Ein Framework für die automatische Feature-Importanz-geführte kontrafaktische Beispielgenerierung | FitCF: 自动地物、重要引导反事实实例生成框架 [2501.00777v3](http://arxiv.org/abs/2501.00777v3)
 
 **Authors**: Qianli Wang, Nils Feldhus, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, Vera Schmitt
@@ -4576,6 +4897,7 @@ Counterfactual examples are widely used in natural language processing (NLP) as 
 
 ## Article 321
 ### Title@2025-05-28 (3): ConKE: Conceptualization-Augmented Knowledge Editing in Large Language   Models for Commonsense Reasoning
+
 **Title**: ConKE: Conceptualization-Augmented Knowledge Editing in Large Language   Models for Commonsense Reasoning | ConKE: Konzeptualisierung - Augmented Knowledge Editing in großen Sprachmodellen für Commonsense Reasoning | CONKE: 常识理由大语言模型中概念化-增强的知识编辑 [2412.11418v2](http://arxiv.org/abs/2412.11418v2)
 
 **Authors**: Liyu Zhang, Weiqi Wang, Tianqing Fang, Yangqiu Song
@@ -4586,6 +4908,7 @@ Knowledge Editing (KE) aims to adjust a Large Language Model's (LLM) internal re
 
 ## Article 322
 ### Title@2025-05-28 (3): Fostering Video Reasoning via Next-Event Prediction
+
 **Title**: Fostering Video Reasoning via Next-Event Prediction | Förderung von Video-Reasoning durch Next-Event-Vorhersage | 通过下一个晚上的预测促进视频宣传 [2505.22457v1](http://arxiv.org/abs/2505.22457v1)
 
 **Authors**: Haonan Wang, Hongfu Liu, Xiangyan Liu, Chao Du, Kenji Kawaguchi, Ye Wang, Tianyu Pang
@@ -4596,6 +4919,7 @@ Next-token prediction serves as the foundational learning task enabling reasonin
 
 ## Article 323
 ### Title@2025-05-28 (3): Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO
+
 **Title**: Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO | Unüberwachte Nachschulung für Multi-Modal LLM Reasoning via GRPO | 无人监督的多模式LLM通过GROPO进行多模式LLM进修培训后培训 [2505.22453v1](http://arxiv.org/abs/2505.22453v1)
 
 **Authors**: Lai Wei, Yuting Li, Chen Wang, Yue Wang, Linghe Kong, Weiran Huang, Lichao Sun
@@ -4606,6 +4930,7 @@ Improving Multi-modal Large Language Models (MLLMs) in the post-training stage t
 
 ## Article 324
 ### Title@2025-05-28 (3): Gender-Neutral Large Language Models for Medical Applications: Reducing   Bias in PubMed Abstracts
+
 **Title**: Gender-Neutral Large Language Models for Medical Applications: Reducing   Bias in PubMed Abstracts | Gender-Neutral Große Sprachmodelle für medizinische Anwendungen: Reduzierung von Bias in PubMed Abstracts | 医疗应用的性别-新大语言性别模式:在普布迈德摘要中减少偏见 [2501.06365v2](http://arxiv.org/abs/2501.06365v2)
 
 **Authors**: Elizabeth Schaefer, Kirk Roberts
@@ -4616,6 +4941,7 @@ This paper presents a pipeline for mitigating gender bias in large language mode
 
 ## Article 325
 ### Title@2025-05-28 (3): RAG-Zeval: Towards Robust and Interpretable Evaluation on RAG Responses   through End-to-End Rule-Guided Reasoning
+
 **Title**: RAG-Zeval: Towards Robust and Interpretable Evaluation on RAG Responses   through End-to-End Rule-Guided Reasoning | RAG-Zeval: Auf dem Weg zu einer robusten und interpretierbaren Bewertung von RAG-Antworten durch regelgeführte End-to-End-Relation | RAG-Zeval:努力通过最终至最终规则引导理由对RAG对策进行强力和解释性评价 [2505.22430v1](http://arxiv.org/abs/2505.22430v1)
 
 **Authors**: Kun Li, Yunxiang Li, Tianhua Zhang, Hongyin Luo, Xixin Wu, James Glass, Helen Meng
@@ -4626,6 +4952,7 @@ Robust evaluation is critical for deploying trustworthy retrieval-augmented gene
 
 ## Article 326
 ### Title@2025-05-28 (3): AstroVisBench: A Code Benchmark for Scientific Computing and   Visualization in Astronomy
+
 **Title**: AstroVisBench: A Code Benchmark for Scientific Computing and   Visualization in Astronomy | AstroVisBench: Ein Code-Bench für wissenschaftliche Computing und Visualisierung in der Astronomie | AstroVisbench:天文科学计算和可视化标准 [2505.20538v2](http://arxiv.org/abs/2505.20538v2)
 
 **Authors**: Sebastian Antony Joseph, Syed Murtaza Husain, Stella S. R. Offner, Stéphanie Juneau, Paul Torrey, Adam S. Bolton, Juan P. Farias, Niall Gaffney, Greg Durrett, Junyi Jessy Li
@@ -4636,6 +4963,7 @@ Large Language Models (LLMs) are being explored for applications in scientific r
 
 ## Article 327
 ### Title@2025-05-28 (3): Token embeddings violate the manifold hypothesis
+
 **Title**: Token embeddings violate the manifold hypothesis | Token-Einbettungen verletzen die mannigfaltige Hypothese | 托肯嵌入违反多重假设 [2504.01002v2](http://arxiv.org/abs/2504.01002v2)
 
 **Authors**: Michael Robinson, Sourya Dey, Tony Chiang
@@ -4646,6 +4974,7 @@ A full understanding of the behavior of a large language model (LLM) requires ou
 
 ## Article 328
 ### Title@2025-05-28 (3): Scaling Reasoning without Attention
+
 **Title**: Scaling Reasoning without Attention | Skalierung ohne Aufmerksamkeit | 无人注意的调整理由 [2505.22425v1](http://arxiv.org/abs/2505.22425v1)
 
 **Authors**: Xueliang Zhao, Wei Wu, Lingpeng Kong
@@ -4656,6 +4985,7 @@ Large language models (LLMs) have made significant advances in complex reasoning
 
 ## Article 329
 ### Title@2025-05-28 (3): Mitigating Overthinking in Large Reasoning Models via Manifold Steering
+
 **Title**: Mitigating Overthinking in Large Reasoning Models via Manifold Steering | Überdenken in großen Vernunftmodellen durch Manifold Steering verhindern | 通过 MManicform 指导减轻大型理性模型中的过度思考 [2505.22411v1](http://arxiv.org/abs/2505.22411v1)
 
 **Authors**: Yao Huang, Huanran Chen, Shouwei Ruan, Yichi Zhang, Xingxing Wei, Yinpeng Dong
@@ -4666,6 +4996,7 @@ Recent advances in Large Reasoning Models (LRMs) have demonstrated remarkable ca
 
 ## Article 330
 ### Title@2025-05-28 (3): Beyond External Monitors: Enhancing Transparency of Large Language   Models for Easier Monitoring
+
 **Title**: Beyond External Monitors: Enhancing Transparency of Large Language   Models for Easier Monitoring | Jenseits von externen Monitoren: Verbesserung der Transparenz von großen Sprachmodellen für eine einfachere Überwachung | 外部监测之外的外部监测:提高大语言模型的透明度,促进更易监测 [2502.05242v2](http://arxiv.org/abs/2502.05242v2)
 
 **Authors**: Guanxu Chen, Dongrui Liu, Tao Luo, Lijie Hu, Jing Shao
@@ -4676,6 +5007,7 @@ Large language models (LLMs) are becoming increasingly capable, but the mechanis
 
 ## Article 331
 ### Title@2025-05-28 (3): GOAT-TTS: Expressive and Realistic Speech Generation via A Dual-Branch   LLM
+
 **Title**: GOAT-TTS: Expressive and Realistic Speech Generation via A Dual-Branch   LLM | GOAT-TTS: Expressive und realistische Sprachgenerierung über eine Dual-Branch LLM | GOAT-TTS:通过双层LLM, 表达和现实的发声 [2504.12339v2](http://arxiv.org/abs/2504.12339v2)
 
 **Authors**: Yaodong Song, Hongjie Chen, Jie Lian, Yuxin Zhang, Guangmin Xia, Zehan Li, Genliang Zhao, Jian Kang, Jie Li, Yongxiang Li, Xuelong Li
@@ -4686,6 +5018,7 @@ While large language models (LLMs) have revolutionized text-to-speech (TTS) synt
 
 ## Article 332
 ### Title@2025-05-28 (3): Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks   through Expanding Strategy Space
+
 **Title**: Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks   through Expanding Strategy Space | Breaking the Ceiling: Das Potenzial von Jailbreak-Angriffen durch Erweiterung des Strategieraums erkunden | 打破上限:通过扩大战略空间探索越狱袭击的可能性 [2505.21277v2](http://arxiv.org/abs/2505.21277v2)
 
 **Authors**: Yao Huang, Yitong Sun, Shouwei Ruan, Yichi Zhang, Yinpeng Dong, Xingxing Wei
@@ -4696,6 +5029,7 @@ Large Language Models (LLMs), despite advanced general capabilities, still suffe
 
 ## Article 333
 ### Title@2025-05-28 (3): Which Demographics do LLMs Default to During Annotation?
+
 **Title**: Which Demographics do LLMs Default to During Annotation? | Welche Demographien haben LLMs während der Annotation voreingestellt? | 在批注期间,LLMs会默认给哪些人种? [2410.08820v3](http://arxiv.org/abs/2410.08820v3)
 
 **Authors**: Johannes Schäfer, Aidan Combs, Christopher Bagdon, Jiahui Li, Nadine Probol, Lynn Greschner, Sean Papay, Yarik Menchaca Resendiz, Aswathy Velutharambath, Amelie Wührl, Sabine Weber, Roman Klinger
@@ -4706,6 +5040,7 @@ Demographics and cultural background of annotators influence the labels they ass
 
 ## Article 334
 ### Title@2025-05-28 (3): LLMs Struggle to Reject False Presuppositions when Misinformation Stakes   are High
+
 **Title**: LLMs Struggle to Reject False Presuppositions when Misinformation Stakes   are High | LLMs kämpfen, um falsche Annahmen zurückzuweisen, wenn Fehlinformationsstakes hoch sind | LLM LLM 努力拒绝错误信息摄入量高时的假假设 [2505.22354v1](http://arxiv.org/abs/2505.22354v1)
 
 **Authors**: Judith Sieker, Clara Lachenmaier, Sina Zarrieß
@@ -4716,6 +5051,7 @@ This paper examines how LLMs handle false presuppositions and whether certain li
 
 ## Article 335
 ### Title@2025-05-28 (3): Explicit Learning and the LLM in Machine Translation
+
 **Title**: Explicit Learning and the LLM in Machine Translation | Explizites Lernen und das LLM in maschineller Übersetzung | 计算机翻译方面的明确学习和LLM [2503.09454v3](http://arxiv.org/abs/2503.09454v3)
 
 **Authors**: Malik Marmonier, Rachel Bawden, Benoît Sagot
@@ -4726,6 +5062,7 @@ This study explores an LLM's ability to learn new languages using explanations f
 
 ## Article 336
 ### Title@2025-05-28 (3): Which Retain Set Matters for LLM Unlearning? A Case Study on Entity   Unlearning
+
 **Title**: Which Retain Set Matters for LLM Unlearning? A Case Study on Entity   Unlearning | Was hält Set Matters für LLM Unlearning auf? Eine Fallstudie über Entity Unlearning | 哪些保留LLM 重新学习的设置事项? 关于实体重新学习的案例研究 [2502.11441v3](http://arxiv.org/abs/2502.11441v3)
 
 **Authors**: Hwan Chang, Hwanhee Lee
@@ -4736,6 +5073,7 @@ Large language models (LLMs) risk retaining unauthorized or sensitive informatio
 
 ## Article 337
 ### Title@2025-05-28 (3): Tracking Semantic Change in Slovene: A Novel Dataset and Optimal   Transport-Based Distance
+
 **Title**: Tracking Semantic Change in Slovene: A Novel Dataset and Optimal   Transport-Based Distance | Semantische Veränderung in Slowenien nachvollziehen: Ein neuartiger Datensatz und optimaler transportbasierter Abstand | 跟踪斯洛文尼亚语语语义变化:新数据集和最佳运输距离 [2402.16596v2](http://arxiv.org/abs/2402.16596v2)
 
 **Authors**: Marko Pranjić, Kaja Dobrovoljc, Senja Pollak, Matej Martinc
@@ -4746,6 +5084,7 @@ In this paper, we focus on the detection of semantic changes in Slovene, a less 
 
 ## Article 338
 ### Title@2025-05-28 (3): Text2Grad: Reinforcement Learning from Natural Language Feedback
+
 **Title**: Text2Grad: Reinforcement Learning from Natural Language Feedback | Text2Grad: Stärkung des Lernens aus natürlicher Sprache Feedback | Text2Grad:从自然语言反馈中加强学习 [2505.22338v1](http://arxiv.org/abs/2505.22338v1)
 
 **Authors**: Hanyang Wang, Lu Wang, Chaoyun Zhang, Tianjun Mao, Si Qin, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
@@ -4756,6 +5095,7 @@ Traditional RLHF optimizes language models with coarse, scalar rewards that mask
 
 ## Article 339
 ### Title@2025-05-28 (3): Advancing Multimodal Reasoning via Reinforcement Learning with Cold   Start
+
 **Title**: Advancing Multimodal Reasoning via Reinforcement Learning with Cold   Start | Multimodale Reasoning durch verstärktes Lernen mit kaltem Start fördern | 通过 " 冷起 " 的强化学习推进多模式理由 [2505.22334v1](http://arxiv.org/abs/2505.22334v1)
 
 **Authors**: Lai Wei, Yuting Li, Kaipeng Zheng, Chen Wang, Yue Wang, Linghe Kong, Lichao Sun, Weiran Huang
@@ -4766,6 +5106,7 @@ Recent advancements in large language models (LLMs) have demonstrated impressive
 
 ## Article 340
 ### Title@2025-05-28 (3): LLMs Think, But Not In Your Flow: Reasoning-Level Personalization for   Black-Box Large Language Models
+
 **Title**: LLMs Think, But Not In Your Flow: Reasoning-Level Personalization for   Black-Box Large Language Models | LLMs denken, aber nicht in Ihrem Fluss: Grund-Level-Personalisierung für Black-Box große Sprachmodelle | LLM Think, But not in your roll: 黑人大语言模型的理性程度个人化 [2505.21082v2](http://arxiv.org/abs/2505.21082v2)
 
 **Authors**: Jieyong Kim, Tongyoung Kim, Soojin Yoon, Jaehyung Kim, Dongha Lee
@@ -4776,6 +5117,7 @@ Large language models (LLMs) have recently achieved impressive performance acros
 
 ## Article 341
 ### Title@2025-05-28 (3): Prompt-based Personality Profiling: Reinforcement Learning for Relevance   Filtering
+
 **Title**: Prompt-based Personality Profiling: Reinforcement Learning for Relevance   Filtering | Prompt-basierte Persönlichkeit Profiling: Verstärkung Lernen für Relevanz Filtern | 即时个人特征分析:加强学习促进相关性过滤 [2409.04122v2](http://arxiv.org/abs/2409.04122v2)
 
 **Authors**: Jan Hofmann, Cornelia Sindermann, Roman Klinger
@@ -4786,6 +5128,7 @@ Author profiling is the task of inferring characteristics about individuals by a
 
 ## Article 342
 ### Title@2025-05-28 (3): NLP for Social Good: A Survey of Challenges, Opportunities, and   Responsible Deployment
+
 **Title**: NLP for Social Good: A Survey of Challenges, Opportunities, and   Responsible Deployment | NLP für soziales Gut: Eine Übersicht über Herausforderungen, Chancen und verantwortungsvolle Umsetzung | NLP 社会公益:挑战、机会和负责任的部署调查 [2505.22327v1](http://arxiv.org/abs/2505.22327v1)
 
 **Authors**: Antonia Karamolegkou, Angana Borah, Eunjung Cho, Sagnik Ray Choudhury, Martina Galletti, Rajarshi Ghosh, Pranav Gupta, Oana Ignat, Priyanka Kargupta, Neema Kotonya, Hemank Lamba, Sun-Joo Lee, Arushi Mangla, Ishani Mondal, Deniz Nazarova, Poli Nemkova, Dina Pisarevskaya, Naquee Rizwan, Nazanin Sabri, Dominik Stammbach, Anna Steinberg, David Tomás, Steven R Wilson, Bowen Yi, Jessica H Zhu, Arkaitz Zubiaga, Anders Søgaard, Alexander Fraser, Zhijing Jin, Rada Mihalcea, Joel R. Tetreault, Daryna Dementieva
@@ -4796,6 +5139,7 @@ Recent advancements in large language models (LLMs) have unlocked unprecedented 
 
 ## Article 343
 ### Title@2025-05-28 (3): Advancing Expert Specialization for Better MoE
+
 **Title**: Advancing Expert Specialization for Better MoE | Advancing Experten-Spezialisierung für bessere MoE | 推进专家专业专业促进改善教育部 [2505.22323v1](http://arxiv.org/abs/2505.22323v1)
 
 **Authors**: Hongcan Guo, Haolang Lu, Guoshun Nan, Bolun Chu, Jialin Zhuang, Yuan Yang, Wenhao Che, Sicong Leng, Qimei Cui, Xudong Jiang
@@ -4806,6 +5150,7 @@ Mixture-of-Experts (MoE) models enable efficient scaling of large language model
 
 ## Article 344
 ### Title@2025-05-28 (3): Core Context Aware Transformers for Long Context Language Modeling
+
 **Title**: Core Context Aware Transformers for Long Context Language Modeling | Core Context Aware Transformers für lange Kontext-Sprachenmodellierung | 长语语言建模核心认知变型器 [2412.12465v2](http://arxiv.org/abs/2412.12465v2)
 
 **Authors**: Yaofo Chen, Zeng You, Shuhai Zhang, Haokun Li, Yirui Li, Yaowei Wang, Mingkui Tan
@@ -4816,6 +5161,7 @@ Transformer-based Large Language Models (LLMs) have exhibited remarkable success
 
 ## Article 345
 ### Title@2025-05-28 (3): Faithfulness-Aware Uncertainty Quantification for Fact-Checking the   Output of Retrieval Augmented Generation
+
 **Title**: Faithfulness-Aware Uncertainty Quantification for Fact-Checking the   Output of Retrieval Augmented Generation | Faithfulness-Aware Uncertainty Quantification for Fact-Checking the Output of Retrieval Augmented Generation | 对回收增加的一代输出进行实况调查的不确定性量化 [2505.21072v2](http://arxiv.org/abs/2505.21072v2)
 
 **Authors**: Ekaterina Fadeeva, Aleksandr Rubashevskii, Roman Vashurin, Shehzaad Dhuliawala, Artem Shelmanov, Timothy Baldwin, Preslav Nakov, Mrinmaya Sachan, Maxim Panov
@@ -4826,6 +5172,7 @@ Large Language Models (LLMs) enhanced with external knowledge retrieval, an appr
 
 ## Article 346
 ### Title@2025-05-28 (3): If Pigs Could Fly... Can LLMs Logically Reason Through Counterfactuals?
+
 **Title**: If Pigs Could Fly... Can LLMs Logically Reason Through Counterfactuals? | Wenn Schweine fliegen könnten... können LLMs logischerweise durch Gegenfakten denken? | 如果猪能飞... [2505.22318v1](http://arxiv.org/abs/2505.22318v1)
 
 **Authors**: Ishwar B Balappanawar, Vamshi Krishna Bonagiri, Anish R Joishy, Manas Gaur, Krishnaprasad Thirunarayan, Ponnurangam Kumaraguru
@@ -4836,6 +5183,7 @@ Large Language Models (LLMs) demonstrate impressive reasoning capabilities in fa
 
 ## Article 347
 ### Title@2025-05-28 (3): MUDDFormer: Breaking Residual Bottlenecks in Transformers via Multiway   Dynamic Dense Connections
+
 **Title**: MUDDFormer: Breaking Residual Bottlenecks in Transformers via Multiway   Dynamic Dense Connections | MUDDFormer: Breaking Residual Engpässe in Transformatoren über Multiway Dynamic Dense Connections | MUDDFormer:通过多路动态感应连接在变形器中打破残余瓶颈 [2502.12170v2](http://arxiv.org/abs/2502.12170v2)
 
 **Authors**: Da Xiao, Qingye Meng, Shengping Li, Xingyuan Yuan
@@ -4846,6 +5194,7 @@ We propose MUltiway Dynamic Dense (MUDD) connections, a simple yet effective met
 
 ## Article 348
 ### Title@2025-05-28 (3): Can Code-Switched Texts Activate a Knowledge Switch in LLMs? A Case   Study on English-Korean Code-Switching
+
 **Title**: Can Code-Switched Texts Activate a Knowledge Switch in LLMs? A Case   Study on English-Korean Code-Switching | Kann Code-Switched Texts einen Wissensschalter in LLMs aktivieren? Eine Fallstudie zum Englisch-Koreanischen Code-Switching | 密码转换的文本能否激活LLML中的知识开关? 关于英朝法典转换的案例研究 [2410.18436v2](http://arxiv.org/abs/2410.18436v2)
 
 **Authors**: Seoyeon Kim, Huiseo Kim, Chanjun Park, Jinyoung Yeo, Dongha Lee
@@ -4856,6 +5205,7 @@ Recent large language models (LLMs) demonstrate multilingual abilities, yet they
 
 ## Article 349
 ### Title@2025-05-28 (3): LLäMmlein: Compact and Competitive German-Only Language Models from   Scratch
+
 **Title**: LLäMmlein: Compact and Competitive German-Only Language Models from   Scratch | LLäMmlein: Kompakte und wettbewerbsfähige deutschsprachige Sprachmodelle von Scratch | LläMmlein:来自斯克拉奇的契约和竞争性独德语言模式 [2411.11171v4](http://arxiv.org/abs/2411.11171v4)
 
 **Authors**: Jan Pfister, Julia Wunderle, Andreas Hotho
@@ -4866,6 +5216,7 @@ We create two German-only decoder models, LL\"aMmlein 120M and 1B, transparently
 
 ## Article 350
 ### Title@2025-05-28 (3): Adaptive Detoxification: Safeguarding General Capabilities of LLMs   through Toxicity-Aware Knowledge Editing
+
 **Title**: Adaptive Detoxification: Safeguarding General Capabilities of LLMs   through Toxicity-Aware Knowledge Editing | Adaptive Entgiftung: Schutz der allgemeinen Fähigkeiten von LLMs durch Toxicity-Aware Knowledge Editing | 适应性解毒:通过毒理学知识编辑来保护长效虫的一般能力 [2505.22298v1](http://arxiv.org/abs/2505.22298v1)
 
 **Authors**: Yifan Lu, Jing Li, Yigeng Zhou, Yihui Zhang, Wenya Wang, Xiucheng Li, Meishan Zhang, Fangming Liu, Jun Yu, Min Zhang
@@ -4876,6 +5227,7 @@ Large language models (LLMs) exhibit impressive language capabilities but remain
 
 ## Article 351
 ### Title@2025-05-28 (3): 360-LLaMA-Factory: Plug & Play Sequence Parallelism for Long   Post-Training
+
 **Title**: 360-LLaMA-Factory: Plug & Play Sequence Parallelism for Long   Post-Training | 360-LlaMA-Fabrik: Plug & Play-Sequenz-Parallelität für langes Nachtraining | 360-LLamaMA-Factory: 长期培训之后的插件和播放序列平行主义 [2505.22296v1](http://arxiv.org/abs/2505.22296v1)
 
 **Authors**: Haosheng Zou, Xiaowei Lv, Shousheng Jia, Xiangzheng Zhang
@@ -4886,6 +5238,7 @@ Adding sequence parallelism into LLaMA-Factory, we open-sourced 360-LLaMA-Factor
 
 ## Article 352
 ### Title@2025-05-28 (3): Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and   Beyond
+
 **Title**: Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and   Beyond | Light-R1: Curriculum SFT, DPO und RL für Long COT aus Scratch und darüber hinaus | Light-R1:SFT、DPO和RL课程,用于Scratch及以后的长期COT [2503.10460v4](http://arxiv.org/abs/2503.10460v4)
 
 **Authors**: Liang Wen, Yunke Cai, Fenrui Xiao, Xin He, Qi An, Zhenyu Duan, Yimin Du, Junchen Liu, Lifu Tang, Xiaowei Lv, Haosheng Zou, Yongchao Deng, Shousheng Jia, Xiangzheng Zhang
@@ -4896,6 +5249,7 @@ This paper introduces Light-R1, an open-source suite for training long reasoning
 
 ## Article 353
 ### Title@2025-05-28 (3): Compensating for Data with Reasoning: Low-Resource Machine Translation   with LLMs
+
 **Title**: Compensating for Data with Reasoning: Low-Resource Machine Translation   with LLMs | Kompensieren für Daten mit Vernunft: Low-Resource-Maschinenübersetzung mit LLMs | 以合理理由补偿数据:低资源机器翻译与LLMM [2505.22293v1](http://arxiv.org/abs/2505.22293v1)
 
 **Authors**: Samuel Frontull, Thomas Ströhle
@@ -4906,6 +5260,7 @@ Large Language Models (LLMs) have demonstrated strong capabilities in multilingu
 
 ## Article 354
 ### Title@2025-05-28 (3): Rethinking the Unsolvable: When In-Context Search Meets Test-Time   Scaling
+
 **Title**: Rethinking the Unsolvable: When In-Context Search Meets Test-Time   Scaling | Das Unlösbare neu denken: Wenn In-Context Search Test-Time Scaling trifft | 重新思考无法解答的问题: 当 In-Ctext 搜索遇到测试时间缩放时 [2505.22290v1](http://arxiv.org/abs/2505.22290v1)
 
 **Authors**: Fanzeng Xia, Yidong Luo, Tinko Sebastian Bartels, Yaqi Xu, Tongxin Li
@@ -4916,6 +5271,7 @@ Recent research has highlighted that Large Language Models (LLMs), even when tra
 
 ## Article 355
 ### Title@2025-05-28 (3): Natural Language Processing in Support of Evidence-based Medicine: A   Scoping Review
+
 **Title**: Natural Language Processing in Support of Evidence-based Medicine: A   Scoping Review | Natürliche Sprachverarbeitung zur Unterstützung der evidenzbasierten Medizin: Eine Bewertung | 支持循证医学的自然语言处理:范围审查 [2505.22280v1](http://arxiv.org/abs/2505.22280v1)
 
 **Authors**: Zihan Xu, Haotian Ma, Gongbo Zhang, Yihao Ding, Chunhua Weng, Yifan Peng
@@ -4926,6 +5282,7 @@ Evidence-based medicine (EBM) is at the forefront of modern healthcare, emphasiz
 
 ## Article 356
 ### Title@2025-05-28 (3): Leveraging Dual Process Theory in Language Agent Framework for Real-time   Simultaneous Human-AI Collaboration
+
 **Title**: Leveraging Dual Process Theory in Language Agent Framework for Real-time   Simultaneous Human-AI Collaboration | Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration | 利用语言代理框架中的双重进程理论促进实时同时人类-AI合作 [2502.11882v5](http://arxiv.org/abs/2502.11882v5)
 
 **Authors**: Shao Zhang, Xihuai Wang, Wenhao Zhang, Chaoran Li, Junru Song, Tingyu Li, Lin Qiu, Xuezhi Cao, Xunliang Cai, Wen Yao, Weinan Zhang, Xinbing Wang, Ying Wen
@@ -4936,6 +5293,7 @@ Agents built on large language models (LLMs) have excelled in turn-by-turn human
 
 ## Article 357
 ### Title@2025-05-28 (3): Charting the Landscape of African NLP: Mapping Progress and Shaping the   Road Ahead
+
 **Title**: Charting the Landscape of African NLP: Mapping Progress and Shaping the   Road Ahead | Kartierung der Landschaft der afrikanischen NLP: Mapping Progress and Shaping the Road Ahead | 绘制非洲全国土地规划方案景观图:绘制进展图和绘制前面的道路图 [2505.21315v2](http://arxiv.org/abs/2505.21315v2)
 
 **Authors**: Jesujoba O. Alabi, Michael A. Hedderich, David Ifeoluwa Adelani, Dietrich Klakow
@@ -4946,6 +5304,7 @@ With over 2,000 languages and potentially millions of speakers, Africa represent
 
 ## Article 358
 ### Title@2025-05-28 (3): PreP-OCR: A Complete Pipeline for Document Image Restoration and   Enhanced OCR Accuracy
+
 **Title**: PreP-OCR: A Complete Pipeline for Document Image Restoration and   Enhanced OCR Accuracy | PreP-OCR: Eine komplette Pipeline für die Wiederherstellung von Dokumentenbildern und verbesserte OCR-Genauigkeit | PreP-OCR:一个完整的恢复文件图像和增强OCR准确性管道 [2505.20429v2](http://arxiv.org/abs/2505.20429v2)
 
 **Authors**: Shuhao Guan, Moule Lin, Cheng Xu, Xinyi Liu, Jinman Zhao, Jiexin Fan, Qi Xu, Derek Greene
@@ -4956,6 +5315,7 @@ This paper introduces PreP-OCR, a two-stage pipeline that combines document imag
 
 ## Article 359
 ### Title@2025-05-28 (3): Comprehensive Evaluation on Lexical Normalization: Boundary-Aware   Approaches for Unsegmented Languages
+
 **Title**: Comprehensive Evaluation on Lexical Normalization: Boundary-Aware   Approaches for Unsegmented Languages | Umfassende Bewertung der Lexikalen Normalisierung: Grenzen-Bewusste Ansätze für ungesegmentierte Sprachen | 综合评价词汇正常化:未分语言的边界意识方法 [2505.22273v1](http://arxiv.org/abs/2505.22273v1)
 
 **Authors**: Shohei Higashiyama, Masao Utiyama
@@ -4966,6 +5326,7 @@ Lexical normalization research has sought to tackle the challenge of processing 
 
 ## Article 360
 ### Title@2025-05-28 (3): Reward Generalization in RLHF: A Topological Perspective
+
 **Title**: Reward Generalization in RLHF: A Topological Perspective | Lohnverallgemeinerung in RLHF: Eine topologische Perspektive | RLHF的奖励普遍化:地形学观点 [2402.10184v7](http://arxiv.org/abs/2402.10184v7)
 
 **Authors**: Tianyi Qiu, Fanzhi Zeng, Jiaming Ji, Dong Yan, Kaile Wang, Jiayi Zhou, Yang Han, Josef Dai, Xuehai Pan, Yaodong Yang
@@ -4976,6 +5337,7 @@ Existing alignment methods share a common topology of information flow, where re
 
 ## Article 361
 ### Title@2025-05-28 (3): Odysseus Navigates the Sirens' Song: Dynamic Focus Decoding for Factual   and Diverse Open-Ended Text Generation
+
 **Title**: Odysseus Navigates the Sirens' Song: Dynamic Focus Decoding for Factual   and Diverse Open-Ended Text Generation | Odysseus navigiert das Lied der Sirenen: Dynamische Fokusdekodierung für die faktuelle und vielfältige Open-Ended Text Generation | Odysseus 导航《锡伦斯之歌:事实和多样化的不限名额文本生成的动态焦点解码》 [2503.08057v2](http://arxiv.org/abs/2503.08057v2)
 
 **Authors**: Wen Luo, Feifan Song, Wei Li, Guangyue Peng, Shaohang Wei, Houfeng Wang
@@ -4986,6 +5348,7 @@ Large Language Models (LLMs) are increasingly required to generate text that is 
 
 ## Article 362
 ### Title@2025-05-28 (3): AI for Climate Finance: Agentic Retrieval and Multi-Step Reasoning for   Early Warning System Investments
+
 **Title**: AI for Climate Finance: Agentic Retrieval and Multi-Step Reasoning for   Early Warning System Investments | KI für die Klimafinanzierung: Agentische Retrieval- und Multi-Step-Gründung für Frühwarnsystem-Investitionen | AI 气候融资:预警系统投资的 " 恢复 " 和 " 多重理由 " [2504.05104v2](http://arxiv.org/abs/2504.05104v2)
 
 **Authors**: Saeid Ario Vaghefi, Aymane Hachcham, Veronica Grasso, Jiska Manicus, Nakiete Msemo, Chiara Colesanti Senni, Markus Leippold
@@ -4996,6 +5359,7 @@ Tracking financial investments in climate adaptation is a complex and expertise-
 
 ## Article 363
 ### Title@2025-05-28 (3): Test-Time Immunization: A Universal Defense Framework Against Jailbreaks   for (Multimodal) Large Language Models
+
 **Title**: Test-Time Immunization: A Universal Defense Framework Against Jailbreaks   for (Multimodal) Large Language Models | Testzeit-Impfung: Ein universelles Abwehr-Rahmenwerk gegen Jailbreaks für (Multimodale) große Sprachmodelle | 试验时间免疫:针对(穆斯林)大语言模式的防止越狱全面防御框架 [2505.22271v1](http://arxiv.org/abs/2505.22271v1)
 
 **Authors**: Yongcan Yu, Yanbo Wang, Ran He, Jian Liang
@@ -5006,6 +5370,7 @@ While (multimodal) large language models (LLMs) have attracted widespread attent
 
 ## Article 364
 ### Title@2025-05-28 (3): Learning When to Think: Shaping Adaptive Reasoning in R1-Style Models   via Multi-Stage RL
+
 **Title**: Learning When to Think: Shaping Adaptive Reasoning in R1-Style Models   via Multi-Stage RL | Denken lernen: Adaptive Reasoning in R1-Style-Modellen über Multi-Stage RL gestalten | 学习思考何时思考:通过多级 RL 在 R1- 标准模型中塑造适应性理性 [2505.10832v2](http://arxiv.org/abs/2505.10832v2)
 
 **Authors**: Songjun Tu, Jiahao Lin, Qichao Zhang, Xiangyu Tian, Linjing Li, Xiangyuan Lan, Dongbin Zhao
@@ -5016,6 +5381,7 @@ Large reasoning models (LRMs) are proficient at generating explicit, step-by-ste
 
 ## Article 365
 ### Title@2025-05-28 (3): MRT at SemEval-2025 Task 8: Maximizing Recovery from Tables with   Multiple Steps
+
 **Title**: MRT at SemEval-2025 Task 8: Maximizing Recovery from Tables with   Multiple Steps | MRT bei SemEval-2025 Task 8: Maximierung der Erholung von Tischen mit mehreren Schritten | SemEval-2025 MRT 任务8:最大限度地从有多个步骤的表格中复苏 [2505.22264v1](http://arxiv.org/abs/2505.22264v1)
 
 **Authors**: Maximiliano Hormazábal Lagos, Álvaro Bueno Saez, Héctor Cerezo-Costas, Pedro Alonso Doval, Jorge Alcalde Vesteiro
@@ -5026,6 +5392,7 @@ In this paper we expose our approach to solve the \textit{SemEval 2025 Task 8: Q
 
 ## Article 366
 ### Title@2025-05-28 (3): Something's Fishy In The Data Lake: A Critical Re-evaluation of Table   Union Search Benchmarks
+
 **Title**: Something's Fishy In The Data Lake: A Critical Re-evaluation of Table   Union Search Benchmarks | Irgendetwas ist Fishy In The Data Lake: Eine kritische Neubewertung der Tabelle Union Suche Benchmarks | “数据湖中的鱼:对表格联合搜索基准的重要重新评估” [2505.21329v2](http://arxiv.org/abs/2505.21329v2)
 
 **Authors**: Allaa Boutaleb, Bernd Amann, Hubert Naacke, Rafael Angarita
@@ -5036,6 +5403,7 @@ Recent table representation learning and data discovery methods tackle table uni
 
 ## Article 367
 ### Title@2025-05-28 (3): Train Sparse Autoencoders Efficiently by Utilizing Features Correlation
+
 **Title**: Train Sparse Autoencoders Efficiently by Utilizing Features Correlation | Bahnsparse Autoencoder effizient durch die Nutzung von Funktionen Korrelation | 通过使用地物关联, 高效地列列“ 分散的自动编译器” 。 [2505.22255v1](http://arxiv.org/abs/2505.22255v1)
 
 **Authors**: Vadim Kurochkin, Yaroslav Aksenov, Daniil Laptev, Daniil Gavrilov, Nikita Balagansky
@@ -5046,6 +5414,7 @@ Sparse Autoencoders (SAEs) have demonstrated significant promise in interpreting
 
 ## Article 368
 ### Title@2025-05-28 (3): Evaluation of LLMs in Speech is Often Flawed: Test Set Contamination in   Large Language Models for Speech Recognition
+
 **Title**: Evaluation of LLMs in Speech is Often Flawed: Test Set Contamination in   Large Language Models for Speech Recognition | Bewertung von LLMs in Speech wird oft abgeflacht: Testset Kontaminierung in großen Sprachmodellen für die Spracherkennung | 对演讲中LLMs的评价经常是片断的:在大语言语音识别模型中测试设置污染 [2505.22251v1](http://arxiv.org/abs/2505.22251v1)
 
 **Authors**: Yuan Tseng, Titouan Parcollet, Rogier van Dalen, Shucong Zhang, Sourav Bhattacharya
@@ -5056,6 +5425,7 @@ Recent work suggests that large language models (LLMs) can improve performance o
 
 ## Article 369
 ### Title@2025-05-28 (3): Evaluating Compact LLMs for Zero-Shot Iberian Language Tasks on End-User   Devices
+
 **Title**: Evaluating Compact LLMs for Zero-Shot Iberian Language Tasks on End-User   Devices | Bewertung kompakter LLMs für blitzfreie iberische Sprachaufgaben auf Endbenutzer-Geräten | 评价关于最终用户装置的零 - 低 - 低 - 高 - 伊比利亚语语言任务 [2504.03312v2](http://arxiv.org/abs/2504.03312v2)
 
 **Authors**: Luís Couto Seller, Íñigo Sanz Torres, Adrián Vogel-Fernández, Carlos González Carballo, Pedro Miguel Sánchez Sánchez, Adrián Carruana Martín, Enrique de Miguel Ambite
@@ -5066,6 +5436,7 @@ Large Language Models have significantly advanced natural language processing, a
 
 ## Article 370
 ### Title@2025-05-28 (3): Overcoming Non-monotonicity in Transducer-based Streaming Generation
+
 **Title**: Overcoming Non-monotonicity in Transducer-based Streaming Generation | Überwindung der Nichtmonotonizität in der Transducer-basierten Streaming-Generation | 克服基于基于跨国公司的溪流一代中的非分子性 [2411.17170v2](http://arxiv.org/abs/2411.17170v2)
 
 **Authors**: Zhengrui Ma, Yang Feng, Min Zhang
@@ -5076,6 +5447,7 @@ Streaming generation models are utilized across fields, with the Transducer arch
 
 ## Article 371
 ### Title@2025-05-28 (3): On Provable Length and Compositional Generalization
+
 **Title**: On Provable Length and Compositional Generalization | Auf evable Länge und kompositorische Verallgemeinerung | 关于可预见长度和组 成 式 通 泛 化 [2402.04875v6](http://arxiv.org/abs/2402.04875v6)
 
 **Authors**: Kartik Ahuja, Amin Mansouri
@@ -5086,6 +5458,7 @@ Out-of-distribution generalization capabilities of sequence-to-sequence models c
 
 ## Article 372
 ### Title@2025-05-28 (3): BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical   Domain
+
 **Title**: BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical   Domain | BioHopR: Ein Benchmark für Multi-Hop, Multi-Answer Reasoning in der biomedizinischen Domäne | BioHopR:生物医学领域多层次、多层次原因基准 [2505.22240v1](http://arxiv.org/abs/2505.22240v1)
 
 **Authors**: Yunsoo Kim, Yusuf Abdulle, Honghan Wu
@@ -5096,6 +5469,7 @@ Biomedical reasoning often requires traversing interconnected relationships acro
 
 ## Article 373
 ### Title@2025-05-28 (3): A Linguistically Motivated Analysis of Intonational Phrasing in   Text-to-Speech Systems: Revealing Gaps in Syntactic Sensitivity
+
 **Title**: A Linguistically Motivated Analysis of Intonational Phrasing in   Text-to-Speech Systems: Revealing Gaps in Syntactic Sensitivity | Eine sprachlich motivierte Analyse der intonationalen Phrasierung in Text-to-Speech-Systemen: Lücken in der syntaktischen Sensibilität offenbaren | 以语言动机动动分析从文字到语音系统中的国与国之间的内对文到语音系统中的图片分析:在同步感应方面消除差距 [2505.22236v1](http://arxiv.org/abs/2505.22236v1)
 
 **Authors**: Charlotte Pouw, Afra Alishahi, Willem Zuidema
@@ -5106,6 +5480,7 @@ We analyze the syntactic sensitivity of Text-to-Speech (TTS) systems using metho
 
 ## Article 374
 ### Title@2025-05-28 (3): Judging Quality Across Languages: A Multilingual Approach to Pretraining   Data Filtering with Language Models
+
 **Title**: Judging Quality Across Languages: A Multilingual Approach to Pretraining   Data Filtering with Language Models | Qualität Across-Sprachen beurteilen: Ein mehrsprachiger Ansatz zur Vorschulung von Datenfiltern mit Sprachmodellen | 判断各语文的质量:采用多种语文办法,利用语言模式进行培训前数据过滤 [2505.22232v1](http://arxiv.org/abs/2505.22232v1)
 
 **Authors**: Mehdi Ali, Manuel Brack, Max Lübbering, Elias Wendt, Abbas Goher Khan, Richard Rutmann, Alex Jude, Maurice Kraus, Alexander Arno Weber, Felix Stollenwerk, David Kaczér, Florian Mai, Lucie Flek, Rafet Sifa, Nicolas Flores-Herr, Joachim Köhler, Patrick Schramowski, Michael Fromm, Kristian Kersting
@@ -5116,6 +5491,7 @@ High-quality multilingual training data is essential for effectively pretraining
 
 ## Article 375
 ### Title@2025-05-28 (3): Advancing Hearing Assessment: An ASR-Based Frequency-Specific Speech   Test for Diagnosing Presbycusis
+
 **Title**: Advancing Hearing Assessment: An ASR-Based Frequency-Specific Speech   Test for Diagnosing Presbycusis | Advancing Hearing Assessment: ASR-basierter frequenzspezifischer Sprachtest zur Diagnose von Presbycusis | 推进听力评估:基于AR的诊断预视能力频率特定语音测试 [2505.22231v1](http://arxiv.org/abs/2505.22231v1)
 
 **Authors**: Stefan Bleeck
@@ -5126,6 +5502,7 @@ Traditional audiometry often fails to fully characterize the functional impact o
 
 ## Article 376
 ### Title@2025-05-28 (3): Balancing Computation Load and Representation Expressivity in Parallel   Hybrid Neural Networks
+
 **Title**: Balancing Computation Load and Representation Expressivity in Parallel   Hybrid Neural Networks | Ausgewogene Berechnungslast und Darstellungsexpressivität in parallelen Hybrid-Neuralen Netzwerken | 在平行混合神经网络中平衡计算负载和代表表达式 [2505.19472v2](http://arxiv.org/abs/2505.19472v2)
 
 **Authors**: Mohammad Mahdi Moradi, Walid Ahmed, Shuangyue Wen, Sudhir Mudur, Weiwei Zhang, Yang Liu
@@ -5136,6 +5513,7 @@ Attention and State-Space Models (SSMs) when combined in a hybrid network in seq
 
 ## Article 377
 ### Title@2025-05-28 (3): Continuous Self-Improvement of Large Language Models by Test-time   Training with Verifier-Driven Sample Selection
+
 **Title**: Continuous Self-Improvement of Large Language Models by Test-time   Training with Verifier-Driven Sample Selection | Kontinuierliche Selbstverbesserung von großen Sprachmodellen durch Test-Zeit-Training mit Verifier-getriebener Probenauswahl | 通过测试时间培训不断自我改进大语言模型,并进行验证-驱动抽样选择 [2505.19475v2](http://arxiv.org/abs/2505.19475v2)
 
 **Authors**: Mohammad Mahdi Moradi, Hossam Amer, Sudhir Mudur, Weiwei Zhang, Yang Liu, Walid Ahmed
@@ -5146,6 +5524,7 @@ Learning to adapt pretrained language models to unlabeled, out-of-distribution d
 
 ## Article 378
 ### Title@2025-05-28 (3): You Do Not Fully Utilize Transformer's Representation Capacity
+
 **Title**: You Do Not Fully Utilize Transformer's Representation Capacity | Sie nicht voll nutzen Transformer-Repräsentanz Kapazität | 您没有充分利用变换器的代表能力 [2502.09245v2](http://arxiv.org/abs/2502.09245v2)
 
 **Authors**: Gleb Gerasimov, Yaroslav Aksenov, Nikita Balagansky, Viacheslav Sinii, Daniil Gavrilov
@@ -5156,6 +5535,7 @@ In contrast to RNNs, which compress their history into a single hidden state, Tr
 
 ## Article 379
 ### Title@2025-05-28 (3): Adapting Pretrained Language Models for Citation Classification via   Self-Supervised Contrastive Learning
+
 **Title**: Adapting Pretrained Language Models for Citation Classification via   Self-Supervised Contrastive Learning | Anpassung vorgebildeter Sprachmodelle für die Klassifizierung von Zitationen über selbstüberwachtes kontrastives Lernen | 调整通过自我监督反竞争学习的招录分类的训练前语言模式 [2505.14471v2](http://arxiv.org/abs/2505.14471v2)
 
 **Authors**: Tong Li, Jiachuan Wang, Yongqi Zhang, Shuangyin Li, Lei Chen
@@ -5166,6 +5546,7 @@ Citation classification, which identifies the intention behind academic citation
 
 ## Article 380
 ### Title@2025-05-28 (3): Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in   Multimodal Large Language Models for Chest X-ray Report Generation
+
 **Title**: Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in   Multimodal Large Language Models for Chest X-ray Report Generation | Look & Mark: Leveraging Radiologe Eye Fixations und Bounding Boxen in multimodalen großen Sprachmodellen für die Erzeugung von Röntgenberichten im Brustkorb | Look & Mark: 将辐射学家眼修补和检查框用于胸前X光报告生成的多模式大语言模型中 [2505.22222v1](http://arxiv.org/abs/2505.22222v1)
 
 **Authors**: Yunsoo Kim, Jinge Wu, Su-Hwan Kim, Pardeep Vasudev, Jiashu Shen, Honghan Wu
@@ -5176,6 +5557,7 @@ Recent advancements in multimodal Large Language Models (LLMs) have significantl
 
 ## Article 381
 ### Title@2025-05-28 (3): Advancing Sequential Numerical Prediction in Autoregressive Models
+
 **Title**: Advancing Sequential Numerical Prediction in Autoregressive Models | Advancing Sequential Numerical Prediction in Autoregressive Modelle | 自动递减模型中推进序列序号预测 [2505.13077v2](http://arxiv.org/abs/2505.13077v2)
 
 **Authors**: Xiang Fei, Jinghui Lu, Qi Sun, Hao Feng, Yanjie Wang, Wei Shi, An-Lan Wang, Jingqun Tang, Can Huang
@@ -5186,6 +5568,7 @@ Autoregressive models have become the de facto choice for sequence generation ta
 
 ## Article 382
 ### Title@2025-05-28 (3): The Avengers: A Simple Recipe for Uniting Smaller Language Models to   Challenge Proprietary Giants
+
 **Title**: The Avengers: A Simple Recipe for Uniting Smaller Language Models to   Challenge Proprietary Giants | Die Avengers: Ein einfaches Rezept für die Vereinigung kleinerer Sprachmodelle, um proprietäre Riesen herauszufordern | 《复仇者:将小型语言模式联合起来挑战产权巨人挑战小型语言模式的简单食谱》 [2505.19797v2](http://arxiv.org/abs/2505.19797v2)
 
 **Authors**: Yiqun Zhang, Hao Li, Chenxu Wang, Linyao Chen, Qiaosheng Zhang, Peng Ye, Shi Feng, Daling Wang, Zhen Wang, Xinrun Wang, Jia Xu, Lei Bai, Wanli Ouyang, Shuyue Hu
@@ -5196,6 +5579,7 @@ As proprietary giants increasingly dominate the race for ever-larger language mo
 
 ## Article 383
 ### Title@2025-05-28 (3): On the Within-class Variation Issue in Alzheimer's Disease Detection
+
 **Title**: On the Within-class Variation Issue in Alzheimer's Disease Detection | Zur klasseninternen Variationsfrage bei der Alzheimer-Erkennung | 阿尔茨海默氏氏病检测的 类内变化变化问题 [2409.16322v2](http://arxiv.org/abs/2409.16322v2)
 
 **Authors**: Jiawen Kang, Dongrui Han, Lingwei Meng, Jingyan Zhou, Jinchao Li, Xixin Wu, Helen Meng
@@ -5206,6 +5590,7 @@ Alzheimer's Disease (AD) detection employs machine learning classification model
 
 ## Article 384
 ### Title@2025-05-28 (3): Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity
+
 **Title**: Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity | Pangu Pro MoE: Mischung aus gruppierten Experten für effiziente Sparsamkeit | Pangu Pro MoE:高效公平问题专家组混合 [2505.21411v2](http://arxiv.org/abs/2505.21411v2)
 
 **Authors**: Yehui Tang, Xiaosong Li, Fangcheng Liu, Wei Guo, Hang Zhou, Yaoyuan Wang, Kai Han, Xianzhi Yu, Jinpeng Li, Hui Zang, Fei Mi, Xiaojun Meng, Zhicheng Liu, Hanting Chen, Binfan Zheng, Can Chen, Youliang Yan, Ruiming Tang, Peifeng Qin, Xinghao Chen, Dacheng Tao, Yunhe Wang
@@ -5216,6 +5601,7 @@ The surgence of Mixture of Experts (MoE) in Large Language Models promises a sma
 
 ## Article 385
 ### Title@2025-05-28 (3): Pitfalls of Rule- and Model-based Verifiers -- A Case Study on   Mathematical Reasoning
+
 **Title**: Pitfalls of Rule- and Model-based Verifiers -- A Case Study on   Mathematical Reasoning | Pitfalls of Rule- and Model-based Verifiers -- Eine Fallstudie zur mathematischen Begründung | 规则和基于示范的验证符咒 -- -- 关于数学理由的个案研究 [2505.22203v1](http://arxiv.org/abs/2505.22203v1)
 
 **Authors**: Yuzhen Huang, Weihao Zeng, Xingshan Zeng, Qi Zhu, Junxian He
@@ -5226,6 +5612,7 @@ Trustworthy verifiers are essential for the success of reinforcement learning wi
 
 ## Article 386
 ### Title@2025-05-28 (3): Let's Predict Sentence by Sentence
+
 **Title**: Let's Predict Sentence by Sentence | Let's Predict Satz durch Satz | 让我们按刑期预测判决 [2505.22202v1](http://arxiv.org/abs/2505.22202v1)
 
 **Authors**: Hyeonbin Hwang, Byeongguk Jeon, Seungone Kim, Jiyeon Kim, Hoyeon Chang, Sohee Yang, Seungpil Won, Dohaeng Lee, Youbin Ahn, Minjoon Seo
@@ -5236,6 +5623,7 @@ Autoregressive language models (LMs) generate one token at a time, yet human rea
 
 ## Article 387
 ### Title@2025-05-28 (3): Machine Translation Models are Zero-Shot Detectors of Translation   Direction
+
 **Title**: Machine Translation Models are Zero-Shot Detectors of Translation   Direction | Maschinelle Übersetzungsmodelle sind Null-Schuss-Detektoren der Übersetzungsrichtung | 机器翻译模型是翻译方向零热探测器 [2401.06769v4](http://arxiv.org/abs/2401.06769v4)
 
 **Authors**: Michelle Wastl, Jannis Vamvas, Rico Sennrich
@@ -5246,6 +5634,7 @@ Detecting the translation direction of parallel text has applications for machin
 
 ## Article 388
 ### Title@2025-05-28 (3): ClonEval: An Open Voice Cloning Benchmark
+
 **Title**: ClonEval: An Open Voice Cloning Benchmark | ClonEval: Eine offene Stimme Klon-Benchmark | ClonEval: 开放语音克隆基准 [2504.20581v2](http://arxiv.org/abs/2504.20581v2)
 
 **Authors**: Iwona Christop, Tomasz Kuczyński, Marek Kubis
@@ -5256,6 +5645,7 @@ We present a novel benchmark for voice cloning text-to-speech models. The benchm
 
 ## Article 389
 ### Title@2025-05-28 (3): PEDANTIC: A Dataset for the Automatic Examination of Definiteness in   Patent Claims
+
 **Title**: PEDANTIC: A Dataset for the Automatic Examination of Definiteness in   Patent Claims | PEDANTIC: Ein Datensatz für die automatische Prüfung der Wirksamkeit von Patentansprüchen | PEDANTIC: 自动审查专利索赔的缺陷数据集 [2505.21342v2](http://arxiv.org/abs/2505.21342v2)
 
 **Authors**: Valentin Knappich, Annemarie Friedrich, Anna Hätty, Simon Razniewski
@@ -5266,6 +5656,7 @@ Patent claims define the scope of protection for an invention. If there are ambi
 
 ## Article 390
 ### Title@2025-05-28 (3): Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone   Graph and Toxic Lexicon
+
 **Title**: Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone   Graph and Toxic Lexicon | Breaking the Cloak! Enthüllung der chinesischen verhüllten Toxizität mit Homophon Graph und giftigem Lexikon | 破解衣物! 中华便衣毒物与同声图和毒毒词汇结合 [2505.22184v1](http://arxiv.org/abs/2505.22184v1)
 
 **Authors**: Xuchen Ma, Jianxiang Yu, Wenming Shao, Bo Pang, Xiang Li
@@ -5276,6 +5667,7 @@ Social media platforms have experienced a significant rise in toxic content, inc
 
 ## Article 391
 ### Title@2025-05-28 (3): TabXEval: Why this is a Bad Table? An eXhaustive Rubric for Table   Evaluation
+
 **Title**: TabXEval: Why this is a Bad Table? An eXhaustive Rubric for Table   Evaluation | TabXEval: Warum ist das ein schlechter Tisch? Eine eXhaustive Rubrik für die Tabellenbewertung | TabXEval: 为什么这是一张糟糕的桌子? 用于表格评价的 e Xhaustive Rubric [2505.22176v1](http://arxiv.org/abs/2505.22176v1)
 
 **Authors**: Vihang Pancholi, Jainit Bafna, Tejas Anvekar, Manish Shrivastava, Vivek Gupta
@@ -5286,6 +5678,7 @@ Evaluating tables qualitatively & quantitatively presents a significant challeng
 
 ## Article 392
 ### Title@2025-05-28 (3): Reverse Preference Optimization for Complex Instruction Following
+
 **Title**: Reverse Preference Optimization for Complex Instruction Following | Reverse-Preference-Optimierung für komplexe Instruktionen | 复杂指令的逆偏偏优化 [2505.22172v1](http://arxiv.org/abs/2505.22172v1)
 
 **Authors**: Xiang Huang, Ting-En Lin, Feiteng Fang, Yuchuan Wu, Hangyu Li, Yuzhong Qu, Fei Huang, Yongbin Li
@@ -5296,6 +5689,7 @@ Instruction following (IF) is a critical capability for large language models (L
 
 ## Article 393
 ### Title@2025-05-28 (3): ReliableEval: A Recipe for Stochastic LLM Evaluation via Method of   Moments
+
 **Title**: ReliableEval: A Recipe for Stochastic LLM Evaluation via Method of   Moments | ZuverlässigEval: Ein Rezept für die stochastische LLM-Bewertung über die Methode der Momente | 可靠有效:通过瞬间方法进行沙尘暴 LLM评价的食谱 [2505.22169v1](http://arxiv.org/abs/2505.22169v1)
 
 **Authors**: Gili Lior, Eliya Habba, Shahar Levy, Avi Caciularu, Gabriel Stanovsky
@@ -5306,6 +5700,7 @@ LLMs are highly sensitive to prompt phrasing, yet standard benchmarks typically 
 
 ## Article 394
 ### Title@2025-05-28 (3): Tempest: Autonomous Multi-Turn Jailbreaking of Large Language Models   with Tree Search
+
 **Title**: Tempest: Autonomous Multi-Turn Jailbreaking of Large Language Models   with Tree Search | Tempest: Autonomes Multi-Turn-Jailbreaking von großen Sprachmodellen mit Baumsuche | 暴风:利用树木搜索的大型语言模型的多发自动破获多语监狱 [2503.10619v5](http://arxiv.org/abs/2503.10619v5)
 
 **Authors**: Andy Zhou, Ron Arel
@@ -5316,6 +5711,7 @@ We introduce Tempest, a multi-turn adversarial framework that models the gradual
 
 ## Article 395
 ### Title@2025-05-28 (3): Unifying Continuous and Discrete Text Diffusion with Non-simultaneous   Diffusion Processes
+
 **Title**: Unifying Continuous and Discrete Text Diffusion with Non-simultaneous   Diffusion Processes | Kontinuierliche und diskrete Diffusion mit nicht gleichzeitigen Diffusionsprozessen | 与非平行扩散进程一起进行连续和分解的不连续和分解文本传播 [2505.22165v1](http://arxiv.org/abs/2505.22165v1)
 
 **Authors**: Bocheng Li, Zhujin Gao, Linli Xu
@@ -5326,6 +5722,7 @@ Diffusion models have emerged as a promising approach for text generation, with 
 
 ## Article 396
 ### Title@2025-05-28 (3): Stratified Selective Sampling for Instruction Tuning with Dedicated   Scoring Strategy
+
 **Title**: Stratified Selective Sampling for Instruction Tuning with Dedicated   Scoring Strategy | Stratifizierte selektive Probenahme für Instruction Tuning mit dedizierter Scoring-Strategie | 使用专用 Scoring 战略进行教学指示指示的分批选择性抽样 [2505.22157v1](http://arxiv.org/abs/2505.22157v1)
 
 **Authors**: Paramita Mirza, Lucas Weber, Fabian Küch
@@ -5336,6 +5733,7 @@ Recent work shows that post-training datasets for LLMs can be substantially down
 
 ## Article 397
 ### Title@2025-05-28 (3): Towards Practical Defect-Focused Automated Code Review
+
 **Title**: Towards Practical Defect-Focused Automated Code Review | Auf dem Weg zu einer praktischen fehlerorientierten automatisierten Code-Überprüfung | 走向实际失效-受污染的自动编码审查 [2505.17928v2](http://arxiv.org/abs/2505.17928v2)
 
 **Authors**: Junyi Lu, Lili Jiang, Xiaojia Li, Jianbing Fang, Fengjun Zhang, Li Yang, Chun Zuo
@@ -5346,6 +5744,7 @@ The complexity of code reviews has driven efforts to automate review comments, b
 
 ## Article 398
 ### Title@2025-05-28 (3): InComeS: Integrating Compression and Selection Mechanisms into LLMs for   Efficient Model Editing
+
 **Title**: InComeS: Integrating Compression and Selection Mechanisms into LLMs for   Efficient Model Editing | InComeS: Integration von Kompressions- und Auswahlmechanismen in LLMs für effiziente Modellbearbeitung | 因果:将压缩和甄选机制纳入高效模式编辑LLMLM [2505.22156v1](http://arxiv.org/abs/2505.22156v1)
 
 **Authors**: Shuaiyi Li, Zhisong Zhang, Yang Deng, Chenlong Deng, Tianqing Fang, Hongming Zhang, Haitao Mi, Dong Yu, Wai Lam
@@ -5356,6 +5755,7 @@ Although existing model editing methods perform well in recalling exact edit fac
 
 ## Article 399
 ### Title@2025-05-28 (3): Incentivizing Strong Reasoning from Weak Supervision
+
 **Title**: Incentivizing Strong Reasoning from Weak Supervision | Starke Vernunft von schwacher Aufsicht anregen | 以弱监管为强力理由的激励 [2505.20072v2](http://arxiv.org/abs/2505.20072v2)
 
 **Authors**: Yige Yuan, Teng Xiao, Shuchang Tao, Xue Wang, Jinyang Gao, Bolin Ding, Bingbing Xu
@@ -5366,6 +5766,7 @@ Large language models (LLMs) have demonstrated impressive performance on reasoni
 
 ## Article 400
 ### Title@2025-05-28 (3): Flexible Tool Selection through Low-dimensional Attribute Alignment of   Vision and Language
+
 **Title**: Flexible Tool Selection through Low-dimensional Attribute Alignment of   Vision and Language | Flexible Werkzeugauswahl durch Low-dimensionale Attributausrichtung von Vision und Sprache | 通过视力和语言的低维属性一致进行灵活工具选择 [2505.22146v1](http://arxiv.org/abs/2505.22146v1)
 
 **Authors**: Guangfu Hao, Haojie Wen, Liangxuna Guo, Yang Chen, Yanchao Bi, Shan Yu
@@ -5376,6 +5777,7 @@ Flexible tool selection reflects a complex cognitive ability that distinguishes 
 
 ## Article 401
 ### Title@2025-05-28 (3): LLMs Reproduce Stereotypes of Sexual and Gender Minorities
+
 **Title**: LLMs Reproduce Stereotypes of Sexual and Gender Minorities | LLMs reproduzieren Stereotypen sexueller und geschlechtsspezifischer Minderheiten | LLMs 重塑对性和性别少数群体的陈规定型观念 [2501.05926v2](http://arxiv.org/abs/2501.05926v2)
 
 **Authors**: Ruby Ostrow, Adam Lopez
@@ -5386,6 +5788,7 @@ A large body of research has found substantial gender bias in NLP systems. Most 
 
 ## Article 402
 ### Title@2025-05-28 (3): EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via   Reinforcement Learning
+
 **Title**: EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via   Reinforcement Learning | EPO: Explizite politische Optimierung der strategischen Vernunft in LLMs durch Verstärkungslernen | EPO: 通过强化学习,在LLMs中明确政策优化战略理由 [2502.12486v6](http://arxiv.org/abs/2502.12486v6)
 
 **Authors**: Xiaoqian Liu, Ke Wang, Yongbin Li, Yuchuan Wu, Wentao Ma, Aobo Kong, Fei Huang, Jianbin Jiao, Junge Zhang
@@ -5396,6 +5799,7 @@ Large Language Models (LLMs) have shown impressive reasoning capabilities in wel
 
 ## Article 403
 ### Title@2025-05-28 (3): Limited Generalizability in Argument Mining: State-Of-The-Art Models   Learn Datasets, Not Arguments
+
 **Title**: Limited Generalizability in Argument Mining: State-Of-The-Art Models   Learn Datasets, Not Arguments | Begrenzte Verallgemeinerbarkeit im Argumentbergbau: State-of-The-Art-Modelle lernen Datensätze, keine Argumente | 《争议采矿业的限制性通用性:国家与艺术中的模式学习数据集,非论据》 [2505.22137v1](http://arxiv.org/abs/2505.22137v1)
 
 **Authors**: Marc Feger, Katarina Boland, Stefan Dietze
@@ -5406,6 +5810,7 @@ Identifying arguments is a necessary prerequisite for various tasks in automated
 
 ## Article 404
 ### Title@2025-05-28 (3): RAD: Redundancy-Aware Distillation for Hybrid Models via   Self-Speculative Decoding
+
 **Title**: RAD: Redundancy-Aware Distillation for Hybrid Models via   Self-Speculative Decoding | RAD: Redundanz-Bewusst-Destillation für Hybridmodelle über selbstspekulative Decodierung | RAD: 通过自投机代号为混合模型进行再利用-软件蒸馏 [2505.22135v1](http://arxiv.org/abs/2505.22135v1)
 
 **Authors**: Yuichiro Hoshino, Hideyuki Tachibana, Muneyoshi Inahara, Hiroto Takegawa
@@ -5416,6 +5821,7 @@ Hybrid models combining Transformers and State Space Models (SSMs) are promising
 
 ## Article 405
 ### Title@2025-05-28 (3): EULER: Enhancing the Reasoning Ability of Large Language Models through   Error-Induced Learning
+
 **Title**: EULER: Enhancing the Reasoning Ability of Large Language Models through   Error-Induced Learning | EULER: Verbesserung der vernünftigen Fähigkeit großer Sprachmodelle durch fehlerinduziertes Lernen | EULER:通过错误引起的学习提高大语言模式的理性能力 [2505.22131v1](http://arxiv.org/abs/2505.22131v1)
 
 **Authors**: Zhuoyang Wu, Xinze Li, Zhenghao Liu, Yukun Yan, Zhiyuan Liu, Minghe Yu, Cheng Yang, Yu Gu, Ge Yu, Maosong Sun
@@ -5426,6 +5832,7 @@ Large Language Models (LLMs) have demonstrated strong reasoning capabilities and
 
 ## Article 406
 ### Title@2025-05-28 (3): Towards Achieving Concept Completeness for Textual Concept Bottleneck   Models
+
 **Title**: Towards Achieving Concept Completeness for Textual Concept Bottleneck   Models | Auf dem Weg zur Verwirklichung des Konzepts Vollständigkeit für textuelle Konzepte Engpassmodelle | 实现文本概念瓶颈模式概念完整性 [2502.11100v3](http://arxiv.org/abs/2502.11100v3)
 
 **Authors**: Milan Bhan, Yann Choho, Pierre Moreau, Jean-Noel Vittaut, Nicolas Chesneau, Marie-Jeanne Lesot
@@ -5436,6 +5843,7 @@ Textual Concept Bottleneck Models (TCBMs) are interpretable-by-design models for
 
 ## Article 407
 ### Title@2025-05-28 (3): LoKI: Low-damage Knowledge Implanting of Large Language Models
+
 **Title**: LoKI: Low-damage Knowledge Implanting of Large Language Models | LoKI: Low-Damage Knowledge Implanting von großen Sprachmodellen | LoKI: 低损害知识植入大语言模型 [2505.22120v1](http://arxiv.org/abs/2505.22120v1)
 
 **Authors**: Runyu Wang, Peng Ping, Zhengyu Guo, Xiaoye Zhang, Quan Shi, Liting Zhou, Tianbo Ji
@@ -5446,6 +5854,7 @@ Fine-tuning adapts pretrained models for specific tasks but poses the risk of ca
 
 ## Article 408
 ### Title@2025-05-28 (3): Multilingual vs Crosslingual Retrieval of Fact-Checked Claims: A Tale of   Two Approaches
+
 **Title**: Multilingual vs Crosslingual Retrieval of Fact-Checked Claims: A Tale of   Two Approaches | Multilingual vs Crosslingual Retrieval of Fact-Checked Claims: Eine Geschichte von zwei Ansätzen | 多语种和跨语种检索实况调查索赔:两种方法的故事 [2505.22118v1](http://arxiv.org/abs/2505.22118v1)
 
 **Authors**: Alan Ramponi, Marco Rovera, Robert Moro, Sara Tonelli
@@ -5456,6 +5865,7 @@ Retrieval of previously fact-checked claims is a well-established task, whose au
 
 ## Article 409
 ### Title@2025-05-28 (3): Multimodal Forecasting of Sparse Intraoperative Hypotension Events   Powered by Language Model
+
 **Title**: Multimodal Forecasting of Sparse Intraoperative Hypotension Events   Powered by Language Model | Multimodale Vorhersage von Sparse Intraoperativen Hypotonieereignissen durch Sprachmodell | 以语言模式为动力的草散的不合作和不连续活动多式预报 [2505.22116v1](http://arxiv.org/abs/2505.22116v1)
 
 **Authors**: Jintao Zhang, Zirui Liu, Mingyue Cheng, Shilong Zhang, Tingyue Pan, Qi Liu, Yanhu Xie
@@ -5466,6 +5876,7 @@ Intraoperative hypotension (IOH) frequently occurs under general anesthesia and 
 
 ## Article 410
 ### Title@2025-05-28 (3): Mitigating Text Toxicity with Counterfactual Generation
+
 **Title**: Mitigating Text Toxicity with Counterfactual Generation | Eindämmung der Texttoxizität mit kontrafaktischer Generierung | 减少毒剂毒性,同时防止产生事实上的产生 [2405.09948v3](http://arxiv.org/abs/2405.09948v3)
 
 **Authors**: Milan Bhan, Jean-Noel Vittaut, Nina Achache, Victor Legrand, Nicolas Chesneau, Annabelle Blangero, Juliette Murris, Marie-Jeanne Lesot
@@ -5476,6 +5887,7 @@ Toxicity mitigation consists in rephrasing text in order to remove offensive or 
 
 ## Article 411
 ### Title@2025-05-28 (3): CHIMERA: A Knowledge Base of Idea Recombination in Scientific Literature
+
 **Title**: CHIMERA: A Knowledge Base of Idea Recombination in Scientific Literature | CHIMERA: Eine Wissensbasis der Ideenrekombination in der wissenschaftlichen Literatur | CHIMERA:科学文献中思想再融合的知识库 [2505.20779v2](http://arxiv.org/abs/2505.20779v2)
 
 **Authors**: Noy Sternlicht, Tom Hope
@@ -5486,6 +5898,7 @@ A hallmark of human innovation is the process of recombination -- creating origi
 
 ## Article 412
 ### Title@2025-05-28 (3): THINK-Bench: Evaluating Thinking Efficiency and Chain-of-Thought Quality   of Large Reasoning Models
+
 **Title**: THINK-Bench: Evaluating Thinking Efficiency and Chain-of-Thought Quality   of Large Reasoning Models | THINK-Bench: Bewertung des Denkens Effizienz und nachdenkliche Qualität von Modellen großer Vernunft | 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - - 思考 - 思考 - 思考 - 思考 - - 思考 - 思考 - - 思考 - 思考 - 思考 - 思考 - - 思考 - 思考 - 思考 - 思考 - - 思考 - - 思考 - 思考 - - 思考 - 思考 - 思考 - 思考 - - 思考 - 思考 - 思考 - - 思考 - 思考 - 思考 - 思考 - 思考 - - 思考 - 思考 - 思考 - 思考 - 考虑 - 考虑 - 考虑 - 考虑 - 高 重大 理由 模型 质量 思考 - - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - - - 思考 - 思考 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 评估 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 思考 - 评估 [2505.22113v1](http://arxiv.org/abs/2505.22113v1)
 
 **Authors**: Zhiyuan Li, Yi Chang, Yuan Wu
@@ -5496,6 +5909,7 @@ Large reasoning models (LRMs) have achieved impressive performance in complex ta
 
 ## Article 413
 ### Title@2025-05-28 (3): Redundancy Principles for MLLMs Benchmarks
+
 **Title**: Redundancy Principles for MLLMs Benchmarks | Redundanzgrundsätze für MLLM-Benchmarks | MLLLMs基准标准的裁员原则 [2501.13953v2](http://arxiv.org/abs/2501.13953v2)
 
 **Authors**: Zicheng Zhang, Xiangyu Zhao, Xinyu Fang, Chunyi Li, Xiaohong Liu, Xiongkuo Min, Haodong Duan, Kai Chen, Guangtao Zhai
@@ -5506,6 +5920,7 @@ With the rapid iteration of Multi-modality Large Language Models (MLLMs) and the
 
 ## Article 414
 ### Title@2025-05-28 (3): Generative Framework for Personalized Persuasion: Inferring Causal,   Counterfactual, and Latent Knowledge
+
 **Title**: Generative Framework for Personalized Persuasion: Inferring Causal,   Counterfactual, and Latent Knowledge | Generatives Rahmenwerk für personalisierte Überzeugung: Aufschluss über Kausal-, Gegen- und Latentenwissen | 个性化观察分析的生成框架:推断因果关系、反事实和隐藏知识 [2504.13904v2](http://arxiv.org/abs/2504.13904v2)
 
 **Authors**: Donghuo Zeng, Roberto Legaspi, Yuewen Sun, Xinshuai Dong, Kazushi Ikeda, Peter Spirtes, Kun Zhang
@@ -5516,6 +5931,7 @@ We hypothesize that optimal system responses emerge from adaptive strategies gro
 
 ## Article 415
 ### Title@2025-05-28 (3): Curse of High Dimensionality Issue in Transformer for Long-context   Modeling
+
 **Title**: Curse of High Dimensionality Issue in Transformer for Long-context   Modeling | Fluch der Hochdimensionalitätsfrage im Transformer für die Langkontextmodellierung | 变异器中高多维度问题的诅咒,用于长期建模 [2505.22107v1](http://arxiv.org/abs/2505.22107v1)
 
 **Authors**: Shuhai Zhang, Zeng You, Yaofo Chen, Zhiquan Wen, Qianyue Wang, Zhijie Qiu, Yuanqing Li, Mingkui Tan
@@ -5526,6 +5942,7 @@ Transformer-based large language models (LLMs) excel in natural language process
 
 ## Article 416
 ### Title@2025-05-28 (3): Visuospatial Cognitive Assistant
+
 **Title**: Visuospatial Cognitive Assistant | Visuospatial Cognitive Assistant | 活性呼吸空间感知助理 [2505.12312v3](http://arxiv.org/abs/2505.12312v3)
 
 **Authors**: Qi Feng
@@ -5536,6 +5953,7 @@ Video-based spatial cognition is vital for robotics and embodied AI but challeng
 
 ## Article 417
 ### Title@2025-05-28 (3): Deep Video Discovery: Agentic Search with Tool Use for Long-form Video   Understanding
+
 **Title**: Deep Video Discovery: Agentic Search with Tool Use for Long-form Video   Understanding | Deep Video Discovery: Agentische Suche mit Tool-Nutzung für Langzeit-Video-Verständnis | 深视频发现: 用于远程视频理解的工具的 Agric 搜索 [2505.18079v2](http://arxiv.org/abs/2505.18079v2)
 
 **Authors**: Xiaoyi Zhang, Zhaoyang Jia, Zongyu Guo, Jiahao Li, Bin Li, Houqiang Li, Yan Lu
@@ -5546,6 +5964,7 @@ Long-form video understanding presents significant challenges due to extensive t
 
 ## Article 418
 ### Title@2025-05-28 (3): Towards Visuospatial Cognition via Hierarchical Fusion of Visual Experts
+
 **Title**: Towards Visuospatial Cognition via Hierarchical Fusion of Visual Experts | Auf dem Weg zur Visuospatialen Kognition durch hierarchische Fusion von visuellen Experten | 争取通过视觉专家的等级化融合实现纵向空间聚合 [2505.12363v3](http://arxiv.org/abs/2505.12363v3)
 
 **Authors**: Qi Feng
@@ -5556,6 +5975,7 @@ While Multimodal Large Language Models (MLLMs) excel at general vision-language 
 
 ## Article 419
 ### Title@2025-05-28 (3): MemOS: An Operating System for Memory-Augmented Generation (MAG) in   Large Language Models
+
 **Title**: MemOS: An Operating System for Memory-Augmented Generation (MAG) in   Large Language Models | MemOS: Ein Betriebssystem für die speichergesteigerte Generation (MAG) in großen Sprachmodellen | MemOS:大语言模型中记忆增强生成操作系统(MAG) [2505.22101v1](http://arxiv.org/abs/2505.22101v1)
 
 **Authors**: Zhiyu Li, Shichao Song, Hanyu Wang, Simin Niu, Ding Chen, Jiawei Yang, Chenyang Xi, Huayi Lai, Jihao Zhao, Yezhaohui Wang, Junpeng Ren, Zehao Lin, Jiahao Huo, Tianyi Chen, Kai Chen, Kehang Li, Zhiqiang Yin, Qingchen Yu, Bo Tang, Hongkang Yang, Zhi-Qin John Xu, Feiyu Xiong
@@ -5566,6 +5986,7 @@ Large Language Models (LLMs) have emerged as foundational infrastructure in the 
 
 ## Article 420
 ### Title@2025-05-28 (3): K-COMP: Retrieval-Augmented Medical Domain Question Answering With   Knowledge-Injected Compressor
+
 **Title**: K-COMP: Retrieval-Augmented Medical Domain Question Answering With   Knowledge-Injected Compressor | K-COMP: Retrieval-Augmented Medical Domain Frage beantworten mit wissensinjizierten Kompressor | K- COMP: 以知识输入压缩器回答问题 [2501.13567v3](http://arxiv.org/abs/2501.13567v3)
 
 **Authors**: Jeonghun Cho, Gary Geunbae Lee
@@ -5576,6 +5997,7 @@ Retrieval-augmented question answering (QA) integrates external information and 
 
 ## Article 421
 ### Title@2025-05-28 (3): Enhancing Target-unspecific Tasks through a Features Matrix
+
 **Title**: Enhancing Target-unspecific Tasks through a Features Matrix | Verbesserung von Ziel-unspezifischen Aufgaben durch eine Features Matrix | 通过特征矩阵,加强针对特定目标的任务 [2505.03414v4](http://arxiv.org/abs/2505.03414v4)
 
 **Authors**: Fangming Cui, Yonggang Zhang, Xuan Wang, Xinmei Tian, Jun Yu
@@ -5586,6 +6008,7 @@ Recent developments in prompt learning of large Vision-Language Models (VLMs) ha
 
 ## Article 422
 ### Title@2025-05-28 (3): Knowledge Base Construction for Knowledge-Augmented Text-to-SQL
+
 **Title**: Knowledge Base Construction for Knowledge-Augmented Text-to-SQL | Knowledge Base Construction für wissensbasierte Text-zu-SQL | 知识强化文字到SQL知识基础建设 [2505.22096v1](http://arxiv.org/abs/2505.22096v1)
 
 **Authors**: Jinheon Baek, Horst Samulowitz, Oktie Hassanzadeh, Dharmashankar Subramanian, Sola Shirai, Alfio Gliozzo, Debarun Bhattacharjya
@@ -5596,6 +6019,7 @@ Text-to-SQL aims to translate natural language queries into SQL statements, whic
 
 ## Article 423
 ### Title@2025-05-28 (3): Learning to Route Queries Across Knowledge Bases for Step-wise   Retrieval-Augmented Reasoning
+
 **Title**: Learning to Route Queries Across Knowledge Bases for Step-wise   Retrieval-Augmented Reasoning | Lernen, Abfragen über Wissensdatenbanken zu routen, um schrittweise retrieval-augmented reasoning | 学习如何通过不同知识库的路径查询,以逐步检索推荐理由 [2505.22095v1](http://arxiv.org/abs/2505.22095v1)
 
 **Authors**: Chunyi Peng, Zhipeng Xu, Zhenghao Liu, Yishan Li, Yukun Yan, Shuo Wang, Zhiyuan Liu, Yu Gu, Minghe Yu, Ge Yu, Maosong Sun
@@ -5606,6 +6030,7 @@ Multimodal Retrieval-Augmented Generation (MRAG) has shown promise in mitigating
 
 ## Article 424
 ### Title@2025-05-28 (3): Visual Cues Support Robust Turn-taking Prediction in Noise
+
 **Title**: Visual Cues Support Robust Turn-taking Prediction in Noise | Visuelle Queues unterstützen robuste Turn-Take Vorhersage in Lärm | 视觉剖面支持强力转动噪音预测 [2505.22088v1](http://arxiv.org/abs/2505.22088v1)
 
 **Authors**: Sam O'Connor Russell, Naomi Harte
@@ -5616,6 +6041,7 @@ Accurate predictive turn-taking models (PTTMs) are essential for naturalistic hu
 
 ## Article 425
 ### Title@2025-05-28 (3): Domain-Specific Pruning of Large Mixture-of-Experts Models with Few-shot   Demonstrations
+
 **Title**: Domain-Specific Pruning of Large Mixture-of-Experts Models with Few-shot   Demonstrations | Domain-spezifisches Pruning von großen Mixture-of-Experts-Modellen mit nur wenigen Demonstrationen | 大型混合型专家模型的域特定情景,少发示范 [2504.06792v2](http://arxiv.org/abs/2504.06792v2)
 
 **Authors**: Zican Dong, Han Peng, Peiyu Liu, Wayne Xin Zhao, Dong Wu, Feng Xiao, Zhifeng Wang
@@ -5626,6 +6052,7 @@ Mixture-of-Experts (MoE) models achieve a favorable trade-off between performanc
 
 ## Article 426
 ### Title@2025-05-28 (3): LongReD: Mitigating Short-Text Degradation of Long-Context Large   Language Models via Restoration Distillation
+
 **Title**: LongReD: Mitigating Short-Text Degradation of Long-Context Large   Language Models via Restoration Distillation | LongReD: Degradierung von Langtext-Großen Sprachmodellen durch Restaurationsdestillation | LongReD:通过恢复蒸馏减少长长长大语言模型的短期退化 [2502.07365v3](http://arxiv.org/abs/2502.07365v3)
 
 **Authors**: Zican Dong, Junyi Li, Jinhao Jiang, Mingyu Xu, Wayne Xin Zhao, Bingning Wang, Weipeng Chen
@@ -5636,6 +6063,7 @@ Large language models (LLMs) have gained extended context windows through scalin
 
 ## Article 427
 ### Title@2025-05-28 (3): ArgInstruct: Specialized Instruction Fine-Tuning for Computational   Argumentation
+
 **Title**: ArgInstruct: Specialized Instruction Fine-Tuning for Computational   Argumentation | ArgInstruct: Spezialisierte Instruktion Feintuning für Computerargumentierung | rgInstruct: 计算参数专业指示精度调整 [2505.22076v1](http://arxiv.org/abs/2505.22076v1)
 
 **Authors**: Maja Stahl, Timon Ziegenbein, Joonsuk Park, Henning Wachsmuth
@@ -5646,6 +6074,7 @@ Training large language models (LLMs) to follow instructions has significantly e
 
 ## Article 428
 ### Title@2025-05-28 (3): GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge   Graph-Powered Fact-Checking
+
 **Title**: GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge   Graph-Powered Fact-Checking | GraphCheck: Langfristige Textbarrieren mit extrahiertem Wissen durchbrechen Graph-Powered Fact-Checking | 图表检查:利用提取知识图示根据事实进行实况调查打破长期文本障碍 [2502.16514v4](http://arxiv.org/abs/2502.16514v4)
 
 **Authors**: Yingjian Chen, Haoran Liu, Yinhong Liu, Jinxiang Xie, Rui Yang, Han Yuan, Yanran Fu, Peng Yuan Zhou, Qingyu Chen, James Caverlee, Irene Li
@@ -5656,6 +6085,7 @@ Large language models (LLMs) are widely used, but they often generate subtle fac
 
 ## Article 429
 ### Title@2025-05-28 (3): PRMBench: A Fine-grained and Challenging Benchmark for Process-Level   Reward Models
+
 **Title**: PRMBench: A Fine-grained and Challenging Benchmark for Process-Level   Reward Models | PRMBench: Ein feinkörniger und anspruchsvoller Benchmark für Prozess-Level-Reward-Modelle | PRMBBench:进程一级奖励模式的精细和质疑基准 [2501.03124v4](http://arxiv.org/abs/2501.03124v4)
 
 **Authors**: Mingyang Song, Zhaochen Su, Xiaoye Qu, Jiawei Zhou, Yu Cheng
@@ -5666,6 +6096,7 @@ Process-level Reward Models (PRMs) are crucial for complex reasoning and decisio
 
 ## Article 430
 ### Title@2025-05-28 (3): Beyond path selection: Better LLMs for Scientific Information Extraction   with MimicSFT and Relevance and Rule-induced(R$^2$)GRPO
+
 **Title**: Beyond path selection: Better LLMs for Scientific Information Extraction   with MimicSFT and Relevance and Rule-induced(R$^2$)GRPO | Jenseits der Pfadauswahl: Bessere LLMs für wissenschaftliche Information Extraktion mit MimicSFT und Relevanz und Regel-induziert (R$^2$)GRPO | 超出选择路径范围:与 MimicSFT和相关性及规则引起的科学信息提取更好的LLMs(2雷亚尔) [2505.22068v1](http://arxiv.org/abs/2505.22068v1)
 
 **Authors**: Ran Li, Shimin Di, Yuchen Liu, Chen Jing, Yu Qiu, Lei Chen
@@ -5676,6 +6107,7 @@ Previous study suggest that powerful Large Language Models (LLMs) trained with R
 
 ## Article 431
 ### Title@2025-05-28 (3): LINGOLY-TOO: Disentangling Reasoning from Knowledge with Templatised   Orthographic Obfuscation
+
 **Title**: LINGOLY-TOO: Disentangling Reasoning from Knowledge with Templatised   Orthographic Obfuscation | LINGOLY-TOO: Entwirren von Vernunft aus Wissen mit templatisierter Orthografie-Verschleißung | LINGOLY-TOO: 脱离与电磁矫形模糊学知识脱钩的原因 [2503.02972v5](http://arxiv.org/abs/2503.02972v5)
 
 **Authors**: Jude Khouja, Karolina Korgul, Simi Hellsten, Lingyi Yang, Vlad Neacsu, Harry Mayne, Ryan Kearns, Andrew Bean, Adam Mahdi
@@ -5686,6 +6118,7 @@ The expanding knowledge and memorisation capacity of frontier language models al
 
 ## Article 432
 ### Title@2025-05-28 (3): Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented   Generation via Knowledge Graph Walks
+
 **Title**: Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented   Generation via Knowledge Graph Walks | Walk&Retrieve: Einfache und dennoch effektive Null-Schuss-Erzeugung durch Knowledge Graph Walks | 漫步检索: 简单但有效的零光检索通过知识图表漫步生成 [2505.16849v2](http://arxiv.org/abs/2505.16849v2)
 
 **Authors**: Martin Böckling, Heiko Paulheim, Andreea Iana
@@ -5696,6 +6129,7 @@ Large Language Models (LLMs) have showcased impressive reasoning abilities, but 
 
 ## Article 433
 ### Title@2025-05-28 (3): Safeguarding Privacy of Retrieval Data against Membership Inference   Attacks: Is This Query Too Close to Home?
+
 **Title**: Safeguarding Privacy of Retrieval Data against Membership Inference   Attacks: Is This Query Too Close to Home? | Schutz der Privatsphäre von Retrieval-Daten gegen Mitgliedschaft Inferenz Angriffe: Ist diese Frage zu nah zu Hause? | 保护检索数据隐私,防止成员推断攻击:这个查询是否离家太近? [2505.22061v1](http://arxiv.org/abs/2505.22061v1)
 
 **Authors**: Yujin Choi, Youngjoo Park, Junyoung Byun, Jaewook Lee, Jinseong Park
@@ -5706,6 +6140,7 @@ Retrieval-augmented generation (RAG) mitigates the hallucination problem in larg
 
 ## Article 434
 ### Title@2025-05-28 (3): A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training   and Deployment
+
 **Title**: A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training   and Deployment | Eine umfassende Umfrage in LLM(-Agent) Full Stack Sicherheit: Daten, Schulung und Bereitstellung | 用LLLM(-代理)全堆安全:数据、培训和部署进行的全面调查 [2504.15585v3](http://arxiv.org/abs/2504.15585v3)
 
 **Authors**: Kun Wang, Guibin Zhang, Zhenhong Zhou, Jiahao Wu, Miao Yu, Shiqian Zhao, Chenlong Yin, Jinhu Fu, Yibo Yan, Hanjun Luo, Liang Lin, Zhihao Xu, Haolang Lu, Xinye Cao, Xinyun Zhou, Weifei Jin, Fanci Meng, Junyuan Mao, Yu Wang, Hao Wu, Minghe Wang, Fan Zhang, Junfeng Fang, Wenjie Qu, Yue Liu, Chengwei Liu, Yifan Zhang, Qiankun Li, Chongye Guo, Yalan Qin, Zhaoxin Fan, Yi Ding, Donghai Hong, Jiaming Ji, Yingxin Lai, Zitong Yu, Xinfeng Li, Yifan Jiang, Yanhui Li, Xinyu Deng, Junlin Wu, Dongxia Wang, Yihao Huang, Yufei Guo, Jen-tse Huang, Qiufeng Wang, Wenxuan Wang, Dongrui Liu, Yanwei Yue, Wenke Huang, Guancheng Wan, Heng Chang, Tianlin Li, Yi Yu, Chenghao Li, Jiawei Li, Lei Bai, Jie Zhang, Qing Guo, Jingyi Wang, Tianlong Chen, Joey Tianyi Zhou, Xiaojun Jia, Weisong Sun, Cong Wu, Jing Chen, Xuming Hu, Yiming Li, Xiao Wang, Ningyu Zhang, Luu Anh Tuan, Guowen Xu, Jiaheng Zhang, Tianwei Zhang, Xingjun Ma, Jindong Gu, Xiang Wang, Bo An, Jun Sun, Mohit Bansal, Shirui Pan, Lingjuan Lyu, Yuval Elovici, Bhavya Kailkhura, Yaodong Yang, Hongwei Li, Wenyuan Xu, Yizhou Sun, Wei Wang, Qing Li, Ke Tang, Yu-Gang Jiang, Felix Juefei-Xu, Hui Xiong, Xiaofeng Wang, Dacheng Tao, Philip S. Yu, Qingsong Wen, Yang Liu
@@ -5716,6 +6151,7 @@ The remarkable success of Large Language Models (LLMs) has illuminated a promisi
 
 ## Article 435
 ### Title@2025-05-28 (3): Benchmarking LLMs' Swarm intelligence
+
 **Title**: Benchmarking LLMs' Swarm intelligence | Benchmarking der Swarm-Intelligenz der LLM | 基准确定LLLMs的Swarm情报 [2505.04364v3](http://arxiv.org/abs/2505.04364v3)
 
 **Authors**: Kai Ruan, Mowen Huang, Ji-Rong Wen, Hao Sun
@@ -5726,6 +6162,7 @@ Large Language Models (LLMs) show potential for complex reasoning, yet their cap
 
 ## Article 436
 ### Title@2025-05-28 (3): WiseMind: Recontextualizing AI with a Knowledge-Guided, Theory-Informed   Multi-Agent Framework for Instrumental and Humanistic Benefits
+
 **Title**: WiseMind: Recontextualizing AI with a Knowledge-Guided, Theory-Informed   Multi-Agent Framework for Instrumental and Humanistic Benefits | WiseMind: Rekontextualisieren von KI mit einem wissensorientierten, theorieinformierten Multi-Agenten-Rahmenwerk für instrumentelle und humanistische Vorteile | Wisemind: 重新将AI与知识指导、理论化的多机构工具与人文效益多机构框架重新翻版 [2502.20689v2](http://arxiv.org/abs/2502.20689v2)
 
 **Authors**: Yuqi Wu, Guangya Wan, Jingjing Li, Shengming Zhao, Lingfeng Ma, Tianyi Ye, Ion Pop, Yanbo Zhang, Jie Chen
@@ -5736,6 +6173,7 @@ Translating state-of-the-art NLP into practice often stalls at the "last mile" o
 
 ## Article 437
 ### Title@2025-05-28 (3): Evaluating Implicit Bias in Large Language Models by Attacking From a   Psychometric Perspective
+
 **Title**: Evaluating Implicit Bias in Large Language Models by Attacking From a   Psychometric Perspective | Bewertung von Impliziten Bias in großen Sprachmodellen durch Angriff aus einer psychometrischen Perspektive | 通过从心理角度进行攻击,评价大语言模型中隐含的偏见 [2406.14023v3](http://arxiv.org/abs/2406.14023v3)
 
 **Authors**: Yuchen Wen, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng
@@ -5746,6 +6184,7 @@ As large language models (LLMs) become an important way of information access, t
 
 ## Article 438
 ### Title@2025-05-28 (3): Voice Adaptation for Swiss German
+
 **Title**: Voice Adaptation for Swiss German | Sprachanpassung für Schweizer Deutsch | 瑞士德语语音改造 [2505.22054v1](http://arxiv.org/abs/2505.22054v1)
 
 **Authors**: Samuel Stucki, Jan Deriu, Mark Cieliebak
@@ -5756,6 +6195,7 @@ This work investigates the performance of Voice Adaptation models for Swiss Germ
 
 ## Article 439
 ### Title@2025-05-28 (3): CoSER: Coordinating LLM-Based Persona Simulation of Established Roles
+
 **Title**: CoSER: Coordinating LLM-Based Persona Simulation of Established Roles | CoSER: Koordinierung der LLM-basierten Persona-Simulation etablierter Rollen | CSER: 协调LLM-以人为基础模拟既定角色 [2502.09082v2](http://arxiv.org/abs/2502.09082v2)
 
 **Authors**: Xintao Wang, Heng Wang, Yifei Zhang, Xinfeng Yuan, Rui Xu, Jen-tse Huang, Siyu Yuan, Haoran Guo, Jiangjie Chen, Shuchang Zhou, Wei Wang, Yanghua Xiao
@@ -5766,6 +6206,7 @@ Role-playing language agents (RPLAs) have emerged as promising applications of l
 
 ## Article 440
 ### Title@2025-05-28 (3): In-context Language Learning for Endangered Languages in Speech   Recognition
+
 **Title**: In-context Language Learning for Endangered Languages in Speech   Recognition | Im Zusammenhang mit dem Sprachenlernen für gefährdete Sprachen in der Spracherkennung | 在语音识别中为濒危语言进行内通语言学习 [2505.20445v2](http://arxiv.org/abs/2505.20445v2)
 
 **Authors**: Zhaolin Li, Jan Niehues
@@ -5776,6 +6217,7 @@ With approximately 7,000 languages spoken worldwide, current large language mode
 
 ## Article 441
 ### Title@2025-05-28 (3): KaFT: Knowledge-aware Fine-tuning for Boosting LLMs' Domain-specific   Question-Answering Performance
+
 **Title**: KaFT: Knowledge-aware Fine-tuning for Boosting LLMs' Domain-specific   Question-Answering Performance | KaFT: Knowledge-aware Feinabstimmung zur Steigerung der Domain-spezifischen Frage-Antwort-Leistung von LLMs | KAFT: 提高LLM女士具体领域问题解答性能的有知识意识微调 [2505.15480v2](http://arxiv.org/abs/2505.15480v2)
 
 **Authors**: Qihuang Zhong, Liang Ding, Xiantao Cai, Juhua Liu, Bo Du, Dacheng Tao
@@ -5786,6 +6228,7 @@ Supervised fine-tuning (SFT) is a common approach to improve the domain-specific
 
 ## Article 442
 ### Title@2025-05-28 (3): Revisiting In-Context Learning with Long Context Language Models
+
 **Title**: Revisiting In-Context Learning with Long Context Language Models | Das In-Context-Lernen mit langen Kontext-Sprachmodellen | 以长方语言模式重新研究内文学习 [2412.16926v3](http://arxiv.org/abs/2412.16926v3)
 
 **Authors**: Jinheon Baek, Sun Jae Lee, Prakhar Gupta, Geunseob Oh, Siddharth Dalmia, Prateek Kolhar
@@ -5796,6 +6239,7 @@ In-Context Learning (ICL) is a technique by which language models make predictio
 
 ## Article 443
 ### Title@2025-05-28 (3): FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic   Contrastive Learning for Targeted Sentiment Analysis
+
 **Title**: FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic   Contrastive Learning for Targeted Sentiment Analysis | FCKT: Feinkörniger Cross-Task-Wissenstransfer mit semantischem Kontrast-Lernen für gezielte Stimmungsanalyse | FCKT: 精细的跨任务知识转让,通过语义对抗学习进行有针对性的感应分析 [2505.21040v2](http://arxiv.org/abs/2505.21040v2)
 
 **Authors**: Wei Chen, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang
@@ -5806,6 +6250,7 @@ In this paper, we address the task of targeted sentiment analysis (TSA), which i
 
 ## Article 444
 ### Title@2025-05-28 (3): Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based   Backdoor Attacks for Jailbreaking Large Language Models
+
 **Title**: Wolf Hidden in Sheep's Conversations: Toward Harmless Data-Based   Backdoor Attacks for Jailbreaking Large Language Models | Wolf versteckte sich in Schafsgesprächen: Auf dem Weg zu harmlosen datenbasierten Hintertürangriffen für Jailbreaking Large Language Models | 隐藏在羊羊的谈话中的狼:为破碎大语言模范破碎的监狱进行无恶意的以数据为基础的后门攻击 [2505.17601v2](http://arxiv.org/abs/2505.17601v2)
 
 **Authors**: Jiawei Kong, Hao Fang, Xiaochen Yang, Kuofeng Gao, Bin Chen, Shu-Tao Xia, Yaowei Wang, Min Zhang
@@ -5816,6 +6261,7 @@ Supervised fine-tuning (SFT) aligns large language models (LLMs) with human inte
 
 ## Article 445
 ### Title@2025-05-28 (3): Jailbreak Distillation: Renewable Safety Benchmarking
+
 **Title**: Jailbreak Distillation: Renewable Safety Benchmarking | Jailbreak Destillation: Benchmarking für erneuerbare Sicherheit | 蒸馏:可再生能源安全基准 [2505.22037v1](http://arxiv.org/abs/2505.22037v1)
 
 **Authors**: Jingyu Zhang, Ahmed Elgohary, Xiawei Wang, A S M Iftekhar, Ahmed Magooda, Benjamin Van Durme, Daniel Khashabi, Kyle Jackson
@@ -5826,6 +6272,7 @@ Large language models (LLMs) are rapidly deployed in critical applications, rais
 
 ## Article 446
 ### Title@2025-05-28 (3): Inference-time Alignment in Continuous Space
+
 **Title**: Inference-time Alignment in Continuous Space | Inferenz-Zeit-Ausrichtung im Dauerraum | 连续空间的推推-时间对齐 [2505.20081v2](http://arxiv.org/abs/2505.20081v2)
 
 **Authors**: Yige Yuan, Teng Xiao, Li Yunfan, Bingbing Xu, Shuchang Tao, Yunqi Qiu, Huawei Shen, Xueqi Cheng
@@ -5836,6 +6283,7 @@ Aligning large language models with human feedback at inference time has receive
 
 ## Article 447
 ### Title@2025-05-28 (3): Fine-Grained and Thematic Evaluation of LLMs in Social Deduction Game
+
 **Title**: Fine-Grained and Thematic Evaluation of LLMs in Social Deduction Game | Feinkörnige und thematische Bewertung von LLMs im Social Deduction Game | 社会下社会游戏LLMs的精细和专题评价 [2408.09946v2](http://arxiv.org/abs/2408.09946v2)
 
 **Authors**: Byungjun Kim, Dayeon Seo, Bugeun Kim
@@ -5846,6 +6294,7 @@ Recent studies have investigated whether large language models (LLMs) can suppor
 
 ## Article 448
 ### Title@2025-05-28 (3): Shaping Shared Languages: Human and Large Language Models' Inductive   Biases in Emergent Communication
+
 **Title**: Shaping Shared Languages: Human and Large Language Models' Inductive   Biases in Emergent Communication | Shaping Shared Languages: Induktive Biase von menschlichen und großen Sprachmodellen in Emergent Communication | 塑造共同语言:新兴交流中的人类和大语言模型的感性偏见 [2503.04395v2](http://arxiv.org/abs/2503.04395v2)
 
 **Authors**: Tom Kouwenhoven, Max Peeperkorn, Roy de Kleijn, Tessa Verhoef
@@ -5856,6 +6305,7 @@ Languages are shaped by the inductive biases of their users. Using a classical r
 
 ## Article 449
 ### Title@2025-05-28 (3): VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich   Information Understanding via Iterative Reasoning with Reinforcement Learning
+
 **Title**: VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich   Information Understanding via Iterative Reasoning with Reinforcement Learning | VRAG-RL: Empower Vision-Perception-Based RAG für visuell reiches Informationsverständnis über iteratives Reasoning mit Verstärkungslernen | VRAG-RL: 通过强化学习的迭代理由,增强基于愿景-观点的RAG, 以便通过强化学习获得视觉上丰富的信息了解 [2505.22019v1](http://arxiv.org/abs/2505.22019v1)
 
 **Authors**: Qiuchen Wang, Ruixue Ding, Yu Zeng, Zehui Chen, Lin Chen, Shihang Wang, Pengjun Xie, Fei Huang, Feng Zhao
@@ -5866,6 +6316,7 @@ Effectively retrieving, reasoning and understanding visually rich information re
 
 ## Article 450
 ### Title@2025-05-28 (3): CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning   Models
+
 **Title**: CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning   Models | CoThink: Token-Efficient Reasoning über Instruct Models Guiding Reasoning Models | COTHING: 通过指示型号指导理由依据模型 [2505.22017v1](http://arxiv.org/abs/2505.22017v1)
 
 **Authors**: Siqi Fan, Peng Han, Shuo Shang, Yequan Wang, Aixin Sun
@@ -5876,6 +6327,7 @@ Large language models (LLMs) benefit from increased test-time compute, a phenome
 
 ## Article 451
 ### Title@2025-05-28 (3): Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes   Domains
+
 **Title**: Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes   Domains | Domaino1s: Leitende LLM-Gründung für erklärbare Antworten in High-Stakes-Domains | 域1:在高占用域中解释可解答案的 指导性LLM [2501.14431v2](http://arxiv.org/abs/2501.14431v2)
 
 **Authors**: Xu Chu, Zhijie Tan, Hanlin Xue, Guanyu Wang, Tong Mo, Weiping Li
@@ -5886,6 +6338,7 @@ Large Language Models (LLMs) are widely applied to downstream domains. However, 
 
 ## Article 452
 ### Title@2025-05-28 (3): CogniBench: A Legal-inspired Framework and Dataset for Assessing   Cognitive Faithfulness of Large Language Models
+
 **Title**: CogniBench: A Legal-inspired Framework and Dataset for Assessing   Cognitive Faithfulness of Large Language Models | CogniBench: Ein gesetzlich inspirierter Rahmen und Datensatz zur Bewertung der kognitiven Treue großer Sprachmodelle | CogniBench:评估大语言模型认知性信仰的受法律启发的框架和数据集 [2505.20767v2](http://arxiv.org/abs/2505.20767v2)
 
 **Authors**: Xiaqiang Tang, Jian Li, Keyu Hu, Du Nan, Xiaolong Li, Xi Zhang, Weigao Sun, Sihong Xie
@@ -5896,6 +6349,7 @@ Faithfulness hallucination are claims generated by a Large Language Model (LLM) 
 
 ## Article 453
 ### Title@2025-05-28 (3): Faster and Better LLMs via Latency-Aware Test-Time Scaling
+
 **Title**: Faster and Better LLMs via Latency-Aware Test-Time Scaling | Schnellere und bessere LLMs über Latency-Aware Test-Time Scaling | 通过远程智能测试时间缩放,更快和更好LLMs [2505.19634v3](http://arxiv.org/abs/2505.19634v3)
 
 **Authors**: Zili Wang, Tianyu Zhang, Lei Zhu, Haoli Bai, Lu Hou, Shiming Xiang, Xianzhi Yu, Wulong Liu
@@ -5906,6 +6360,7 @@ Test-Time Scaling (TTS) has proven effective in improving the performance of Lar
 
 ## Article 454
 ### Title@2025-05-28 (3): Legal Assist AI: Leveraging Transformer-Based Model for Effective Legal   Assistance
+
 **Title**: Legal Assist AI: Leveraging Transformer-Based Model for Effective Legal   Assistance | Legal Assist KI: Nutzung von Transformer-basiertem Modell für effektive Rechtshilfe | AI:利用基于变换器的有效法律援助模式 [2505.22003v1](http://arxiv.org/abs/2505.22003v1)
 
 **Authors**: Jatin Gupta, Akhil Sharma, Saransh Singhania, Ali Imam Abidi
@@ -5916,6 +6371,7 @@ Pursuit of accessible legal assistance in India faces a critical gap, as many ci
 
 ## Article 455
 ### Title@2025-05-28 (3): Comparing Moral Values in Western English-speaking societies and LLMs   with Word Associations
+
 **Title**: Comparing Moral Values in Western English-speaking societies and LLMs   with Word Associations | Vergleich von Moralwerten in westlichen englischsprachigen Gesellschaften und LLMs mit Word Associations | 比较西英语社会道德价值和LLMs与文字协会 [2505.19674v2](http://arxiv.org/abs/2505.19674v2)
 
 **Authors**: Chaoyi Xiang, Chunhua Liu, Simon De Deyne, Lea Frermann
@@ -5926,6 +6382,7 @@ As the impact of large language models increases, understanding the moral values
 
 ## Article 456
 ### Title@2025-05-28 (3): Found in Translation: Measuring Multilingual LLM Consistency as Simple   as Translate then Evaluate
+
 **Title**: Found in Translation: Measuring Multilingual LLM Consistency as Simple   as Translate then Evaluate | Gefunden in Übersetzung: Mehrsprachige LLM-Konsistenz so einfach wie übersetzen dann bewerten | 在翻译中找到: 测量多语种LLM一致性, 简单如翻译,然后评价 [2505.21999v1](http://arxiv.org/abs/2505.21999v1)
 
 **Authors**: Ashim Gupta, Maitrey Mehta, Zhichao Xu, Vivek Srikumar
@@ -5936,6 +6393,7 @@ Large language models (LLMs) provide detailed and impressive responses to querie
 
 ## Article 457
 ### Title@2025-05-28 (3): Leveraging Interview-Informed LLMs to Model Survey Responses:   Comparative Insights from AI-Generated and Human Data
+
 **Title**: Leveraging Interview-Informed LLMs to Model Survey Responses:   Comparative Insights from AI-Generated and Human Data | Leveraging Interview-informed LLMs to Model Survey Responses: Comparative Insights from AI-Generated and Human Data | 利用访谈形成的LLMs参与示范调查应对措施:从AI光学和人类数据中比较洞察力 [2505.21997v1](http://arxiv.org/abs/2505.21997v1)
 
 **Authors**: Jihong Zhang, Xinya Liang, Anqi Deng, Nicole Bonge, Lin Tan, Ling Zhang, Nicole Zarrett
@@ -5946,6 +6404,7 @@ Mixed methods research integrates quantitative and qualitative data but faces ch
 
 ## Article 458
 ### Title@2025-05-28 (3): A Checks-and-Balances Framework for Context-Aware Ethical AI Alignment
+
 **Title**: A Checks-and-Balances Framework for Context-Aware Ethical AI Alignment | Ein Checks-and-Balances-Framework für kontext-aware Ethische AI Alignment | 上下文软件道德操守统一校验和平衡框架 [2502.00136v3](http://arxiv.org/abs/2502.00136v3)
 
 **Authors**: Edward Y. Chang
@@ -5956,6 +6415,7 @@ This paper introduces a checks-and-balances framework for ethical alignment of L
 
 ## Article 459
 ### Title@2025-05-28 (3): How to Synthesize Text Data without Model Collapse?
+
 **Title**: How to Synthesize Text Data without Model Collapse? | Wie können Sie Textdaten ohne Modellkollaps synthesieren? | 如何在没有模式折叠的情况下合成文本数据 ? [2412.14689v3](http://arxiv.org/abs/2412.14689v3)
 
 **Authors**: Xuekai Zhu, Daixuan Cheng, Hengli Li, Kaiyan Zhang, Ermo Hua, Xingtai Lv, Ning Ding, Zhouhan Lin, Zilong Zheng, Bowen Zhou
@@ -5966,6 +6426,7 @@ Model collapse in synthetic data indicates that iterative training on self-gener
 
 ## Article 460
 ### Title@2025-05-28 (3): Learning Compositional Behaviors from Demonstration and Language
+
 **Title**: Learning Compositional Behaviors from Demonstration and Language | Kompositionsverhalten aus Demonstration und Sprache lernen | 学习示范和语言的构成行为 [2505.21981v1](http://arxiv.org/abs/2505.21981v1)
 
 **Authors**: Weiyu Liu, Neil Nie, Ruohan Zhang, Jiayuan Mao, Jiajun Wu
@@ -5976,6 +6437,7 @@ We introduce Behavior from Language and Demonstration (BLADE), a framework for l
 
 ## Article 461
 ### Title@2025-05-28 (3): Sun-Shine: A Foundation Large Language Model for Tibetan Culture and   Heritage
+
 **Title**: Sun-Shine: A Foundation Large Language Model for Tibetan Culture and   Heritage | Sun-Shine: Ein großes Sprachmodell der Stiftung für tibetische Kultur und Kulturerbe | 阳光:西藏文化和遗产大语言模式基金会 [2503.18288v3](http://arxiv.org/abs/2503.18288v3)
 
 **Authors**: Cheng Huang, Fan Gao, Yutong Liu, Nyima Tashi, Xiangxiang Wang, Thupten Tsering, Ban Ma-bao, Renzeg Duojie, Gadeng Luosang, Rinchen Dongrub, Dorje Tashi, Xiao Feng, Hao Wang, Yongbin Yu
@@ -5986,6 +6448,7 @@ Tibetan, a minority language in China, features a highly intricate grammatical s
 
 ## Article 462
 ### Title@2025-05-28 (3): Pearl: A Multimodal Culturally-Aware Arabic Instruction Dataset
+
 **Title**: Pearl: A Multimodal Culturally-Aware Arabic Instruction Dataset | Perle: Ein multimodaler kulturbewusster arabischer Unterrichtsdatensatz | 珍珠:多式文化-知识阿拉伯文教学数据集 [2505.21979v1](http://arxiv.org/abs/2505.21979v1)
 
 **Authors**: Fakhraddin Alwajih, Samar Mohamed Magdy, Abdellah El Mekki, Omer Nacar, Youssef Nafea, Safaa Taher Abdelfadil, Abdulfattah Mohammed Yahya, Hamzah Luqman, Nada Almarwani, Samah Aloufi, Baraah Qawasmeh, Houdaifa Atou, Serry Sibaee, Hamzah A. Alsayadi, Walid Al-Dhabyani, Maged S. Al-shaibani, Aya El aatar, Nour Qandos, Rahaf Alhamouri, Samar Ahmad, Razan Khassib, Lina Hamad, Mohammed Anwar AL-Ghrawi, Fatimah Alshamari, Cheikh Malainine, Doaa Qawasmeh, Aminetou Yacoub, Tfeil moilid, Ruwa AbuHweidi, Ahmed Aboeitta, Vatimetou Mohamed Lemin, Reem Abdel-Salam, Ahlam Bashiti, Adel Ammar, Aisha Alansari, Ahmed Ashraf, Nora Alturayeif, Sara Shatnawi, Alcides Alcoba Inciarte, AbdelRahim A. Elmadany, Mohamedou cheikh tourad, Ismail Berrada, Mustafa Jarrar, Shady Shehata, Muhammad Abdul-Mageed
@@ -5996,6 +6459,7 @@ Mainstream large vision-language models (LVLMs) inherently encode cultural biase
 
 ## Article 463
 ### Title@2025-05-28 (3): Advancing Reasoning in Large Language Models: Promising Methods and   Approaches
+
 **Title**: Advancing Reasoning in Large Language Models: Promising Methods and   Approaches | Reasoning in großen Sprachmodellen fördern: Promising Methods and Approaches | 大语言模式的推进理由:有希望的方法和办法 [2502.03671v2](http://arxiv.org/abs/2502.03671v2)
 
 **Authors**: Avinash Patil, Aryan Jadon
@@ -6006,6 +6470,7 @@ Large Language Models (LLMs) have succeeded remarkably in various natural langua
 
 ## Article 464
 ### Title@2025-05-28 (3): Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with   Large Language Models
+
 **Title**: Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with   Large Language Models | Graph-beschränkte Vernunft: Treue Vernunft auf Wissensgraphen mit großen Sprachmodellen | 受图表限制的理由:关于大语言模型知识图的忠实理由 [2410.13080v2](http://arxiv.org/abs/2410.13080v2)
 
 **Authors**: Linhao Luo, Zicheng Zhao, Gholamreza Haffari, Yuan-Fang Li, Chen Gong, Shirui Pan
@@ -6016,6 +6481,7 @@ Large language models (LLMs) have demonstrated impressive reasoning abilities, b
 
 ## Article 465
 ### Title@2025-05-28 (3): Experience Retrieval-Augmentation with Electronic Health Records Enables   Accurate Discharge QA
+
 **Title**: Experience Retrieval-Augmentation with Electronic Health Records Enables   Accurate Discharge QA | Erfahrung Retrieval-Augmentation mit elektronischen Gesundheitsakten ermöglicht genaue Entladung QA | 使用电子健康记录使准确释放QA能够准确释放的经验回收-升级 [2503.17933v2](http://arxiv.org/abs/2503.17933v2)
 
 **Authors**: Justice Ou, Tinglin Huang, Yilun Zhao, Ziyang Yu, Peiqing Lu, Rex Ying
@@ -6026,6 +6492,7 @@ To improve the reliability of Large Language Models (LLMs) in clinical applicati
 
 ## Article 466
 ### Title@2025-05-28 (3): Seeing the Threat: Vulnerabilities in Vision-Language Models to   Adversarial Attack
+
 **Title**: Seeing the Threat: Vulnerabilities in Vision-Language Models to   Adversarial Attack | Die Bedrohung sehen: Schwachstellen in Visions-Sprachenmodellen für feindliche Angriffe | 目睹威胁:视觉-语言模型对对抗性攻击的脆弱性 [2505.21967v1](http://arxiv.org/abs/2505.21967v1)
 
 **Authors**: Juan Ren, Mark Dras, Usman Naseem
@@ -6036,6 +6503,7 @@ Large Vision-Language Models (LVLMs) have shown remarkable capabilities across a
 
 ## Article 467
 ### Title@2025-05-28 (3): Mitigating Heterogeneous Token Overfitting in LLM Knowledge Editing
+
 **Title**: Mitigating Heterogeneous Token Overfitting in LLM Knowledge Editing | Heterogene Token-Übertragung in LLM-Wissensbearbeitung abmildern | 减轻LLLM知识编辑中变异式 Tok 超称 [2502.00602v2](http://arxiv.org/abs/2502.00602v2)
 
 **Authors**: Tianci Liu, Ruirui Li, Zihan Dong, Hui Liu, Xianfeng Tang, Qingyu Yin, Linjun Zhang, Haoyu Wang, Jing Gao
@@ -6046,6 +6514,7 @@ Large language models (LLMs) have achieved remarkable performance on various nat
 
 ## Article 468
 ### Title@2025-05-28 (3): MapStory: LLM-Powered Text-Driven Map Animation Prototyping with   Human-in-the-Loop Editing
+
 **Title**: MapStory: LLM-Powered Text-Driven Map Animation Prototyping with   Human-in-the-Loop Editing | MapStory: LLM-Powered Text-Driven Map Animation Prototyping mit Human-in-the-Loop-Editing | 地图片断: 由LLM 授权的文本驱动地图动画动画与在 Loop 用户编译 [2505.21966v1](http://arxiv.org/abs/2505.21966v1)
 
 **Authors**: Aditya Gunturu, Ben Pearman, Keiichi Ihara, Morteza Faraji, Bryan Wang, Rubaiat Habib Kazi, Ryo Suzuki
@@ -6056,6 +6525,7 @@ We introduce MapStory, an LLM-powered animation authoring tool that generates ed
 
 ## Article 469
 ### Title@2025-05-28 (3): UI-Evol: Automatic Knowledge Evolving for Computer Use Agents
+
 **Title**: UI-Evol: Automatic Knowledge Evolving for Computer Use Agents | UI-Evol: Automatisches Knowledge Evolving für Computer Use Agents | UI-Evol:计算机使用代理自动知识演化 [2505.21964v1](http://arxiv.org/abs/2505.21964v1)
 
 **Authors**: Ziyun Zhang, Xinyi Liu, Xiaoyi Zhang, Jun Wang, Gang Chen, Yan Lu
@@ -6066,6 +6536,7 @@ External knowledge has played a crucial role in the recent development of comput
 
 ## Article 470
 ### Title@2025-05-28 (3): LaMDAgent: An Autonomous Framework for Post-Training Pipeline   Optimization via LLM Agents
+
 **Title**: LaMDAgent: An Autonomous Framework for Post-Training Pipeline   Optimization via LLM Agents | LaMDAgent: Autonomer Rahmen für die Post-Training-Pipeline-Optimierung über LLM-Agenten | LaMMDAGenter:通过LLM代理机构优化培训后管道的自治框架 [2505.21963v1](http://arxiv.org/abs/2505.21963v1)
 
 **Authors**: Taro Yano, Yoichi Ishibashi, Masafumi Oyamada
@@ -6076,6 +6547,7 @@ Large Language Models (LLMs) have demonstrated exceptional performance across a 
 
 ## Article 471
 ### Title@2025-05-28 (3): EnsemW2S: Enhancing Weak-to-Strong Generalization with Large Language   Model Ensembles
+
 **Title**: EnsemW2S: Enhancing Weak-to-Strong Generalization with Large Language   Model Ensembles | EnsemW2S: Verbesserung der Schwach-zu-Strong-Verallgemeinerung mit großsprachigen Modellensembles | EnsemW2S:用大语言模型组合加强弱至强的通用化 [2505.21959v1](http://arxiv.org/abs/2505.21959v1)
 
 **Authors**: Aakriti Agrawal, Mucong Ding, Zora Che, Chenghao Deng, Anirudh Satheesh, Bang An, Bayan Bruss, John Langford, Furong Huang
@@ -6086,6 +6558,7 @@ With Large Language Models (LLMs) rapidly approaching and potentially surpassing
 
 ## Article 472
 ### Title@2025-05-28 (3): Resolving Knowledge Conflicts in Domain-specific Data Selection: A Case   Study on Medical Instruction-tuning
+
 **Title**: Resolving Knowledge Conflicts in Domain-specific Data Selection: A Case   Study on Medical Instruction-tuning | Lösung von Wissenskonflikten in der bereichsspezifischen Datenauswahl: Eine Fallstudie zur medizinischen Instruktions-Tuning | 解决特定领域数据选择方面的知识冲突:关于医疗指示调整的个案研究 [2505.21958v1](http://arxiv.org/abs/2505.21958v1)
 
 **Authors**: Qihuang Zhong, Liang Ding, Fei Liao, Juhua Liu, Bo Du, Dacheng Tao
@@ -6096,6 +6569,7 @@ Domain-specific instruction-tuning has become the defacto standard for improving
 
 ## Article 473
 ### Title@2025-05-28 (3): VQ-CTAP: Cross-Modal Fine-Grained Sequence Representation Learning for   Speech Processing
+
 **Title**: VQ-CTAP: Cross-Modal Fine-Grained Sequence Representation Learning for   Speech Processing | VQ-CTAP: Cross-Modal Fine-Grained Sequence Representation Learning für die Sprachverarbeitung | VQ-CTAP: 处理发言的跨模式精细序列代表性学习 [2408.05758v2](http://arxiv.org/abs/2408.05758v2)
 
 **Authors**: Chunyu Qiang, Wang Geng, Yi Zhao, Ruibo Fu, Tao Wang, Cheng Gong, Tianrui Wang, Qiuyu Liu, Jiangyan Yi, Zhengqi Wen, Chen Zhang, Hao Che, Longbiao Wang, Jianwu Dang, Jianhua Tao
@@ -6106,6 +6580,7 @@ Deep learning has brought significant improvements to the field of cross-modal r
 
 ## Article 474
 ### Title@2025-05-28 (3): Test-Time Scaling with Repeated Sampling Improves Multilingual Text   Generation
+
 **Title**: Test-Time Scaling with Repeated Sampling Improves Multilingual Text   Generation | Testzeitskalierung mit wiederholter Probenahme verbessert die Mehrsprachigkeitsgenerierung | 具有重复抽样的测试时间缩放改进多语种文本的生成 [2505.21941v1](http://arxiv.org/abs/2505.21941v1)
 
 **Authors**: Ashim Gupta, Vivek Srikumar
@@ -6116,6 +6591,7 @@ Inference-time scaling via repeated sampling has shown promise in reasoning task
 
 ## Article 475
 ### Title@2025-05-28 (3): RISE: Reasoning Enhancement via Iterative Self-Exploration in Multi-hop   Question Answering
+
 **Title**: RISE: Reasoning Enhancement via Iterative Self-Exploration in Multi-hop   Question Answering | RISE: Grundlegende Verbesserung durch iterative Selbst-Exploration in der Multi-Hop-Fragebeantwortung | RISE: 多呼问答问答中通过迭代自我探索提高合理性 [2505.21940v1](http://arxiv.org/abs/2505.21940v1)
 
 **Authors**: Bolei He, Xinran He, Mengke Chen, Xianwei Xue, Ying Zhu, Zhenhua Ling
@@ -6126,6 +6602,7 @@ Large Language Models (LLMs) excel in many areas but continue to face challenges
 
 ## Article 476
 ### Title@2025-05-28 (3): EduBench: A Comprehensive Benchmarking Dataset for Evaluating Large   Language Models in Diverse Educational Scenarios
+
 **Title**: EduBench: A Comprehensive Benchmarking Dataset for Evaluating Large   Language Models in Diverse Educational Scenarios | EduBench: Ein umfassender Benchmarking-Datensatz zur Bewertung großer Sprachmodelle in unterschiedlichen Bildungsszenarien | EduBonnch:评估不同教育情景中大语言模式的综合基准数据集 [2505.16160v3](http://arxiv.org/abs/2505.16160v3)
 
 **Authors**: Bin Xu, Yu Bai, Huashan Sun, Yiguan Lin, Siming Liu, Xinyue Liang, Yaolin Li, Yang Gao, Heyan Huang
@@ -6136,6 +6613,7 @@ As large language models continue to advance, their application in educational c
 
 ## Article 477
 ### Title@2025-05-28 (3): Graph-Assisted Culturally Adaptable Idiomatic Translation for Indic   Languages
+
 **Title**: Graph-Assisted Culturally Adaptable Idiomatic Translation for Indic   Languages | Graph-Assisted Culturally Adaptable Idiomatic Translation for Indic Languages | 印度语文化上可调适的可调适文化语言专题翻译 [2505.21937v1](http://arxiv.org/abs/2505.21937v1)
 
 **Authors**: Pratik Rakesh Singh, Kritarth Prasad, Mohammadi Zaki, Pankaj Wasnik
@@ -6146,6 +6624,7 @@ Translating multi-word expressions (MWEs) and idioms requires a deep understandi
 
 ## Article 478
 ### Title@2025-05-28 (3): RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in   Hybrid Web-OS Environments
+
 **Title**: RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in   Hybrid Web-OS Environments | RedTeamCUA: Realistisches Adversarial Testen von Computer-Use-Agenten in hybriden Web-OS-Umgebungen | Red TeamCUA:对混合网络-OS环境的计算机使用代理器进行现实的反反向测试 [2505.21936v1](http://arxiv.org/abs/2505.21936v1)
 
 **Authors**: Zeyi Liao, Jaylen Jones, Linxi Jiang, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun
@@ -6156,6 +6635,7 @@ Computer-use agents (CUAs) promise to automate complex tasks across operating sy
 
 ## Article 479
 ### Title@2025-05-28 (3): Efficient Ensemble for Fine-tuning Language Models on Multiple Datasets
+
 **Title**: Efficient Ensemble for Fine-tuning Language Models on Multiple Datasets | Effizientes Ensemble für die Feinabstimmung von Sprachmodellen auf mehreren Datensätzen | 多个数据集微调语言模型高效组合组合 [2505.21930v1](http://arxiv.org/abs/2505.21930v1)
 
 **Authors**: Dongyue Li, Ziniu Zhang, Lu Wang, Hongyang R. Zhang
@@ -6166,6 +6646,7 @@ This paper develops an ensemble method for fine-tuning a language model to multi
 
 ## Article 480
 ### Title@2025-05-28 (3): Personality-aware Student Simulation for Conversational Intelligent   Tutoring Systems
+
 **Title**: Personality-aware Student Simulation for Conversational Intelligent   Tutoring Systems | Personalitätsbewusste Studentensimulation für gesprächsorientierte intelligente Tutoring-Systeme | 具有个性意识的学生模拟交流智能教学系统的学生模拟 [2404.06762v2](http://arxiv.org/abs/2404.06762v2)
 
 **Authors**: Zhengyuan Liu, Stella Xin Yin, Geyu Lin, Nancy F. Chen
@@ -6176,6 +6657,7 @@ Intelligent Tutoring Systems (ITSs) can provide personalized and self-paced lear
 
 ## Article 481
 ### Title@2025-05-28 (3): SafetyAnalyst: Interpretable, Transparent, and Steerable Safety   Moderation for AI Behavior
+
 **Title**: SafetyAnalyst: Interpretable, Transparent, and Steerable Safety   Moderation for AI Behavior | SafetyAnalyst: Interpretierbare, transparente und Steerable Safety Moderation für KI-Verhalten | 安全分析器:AI行为行为解释性、透明性和可坚固性 [2410.16665v3](http://arxiv.org/abs/2410.16665v3)
 
 **Authors**: Jing-Jing Li, Valentina Pyatkin, Max Kleiman-Weiner, Liwei Jiang, Nouha Dziri, Anne G. E. Collins, Jana Schaich Borg, Maarten Sap, Yejin Choi, Sydney Levine
@@ -6186,6 +6668,7 @@ The ideal AI safety moderation system would be both structurally interpretable (
 
 ## Article 482
 ### Title@2025-05-28 (3): Beyond Completion: A Foundation Model for General Knowledge Graph   Reasoning
+
 **Title**: Beyond Completion: A Foundation Model for General Knowledge Graph   Reasoning | Beyond Completion: Ein Grundlagenmodell für allgemeine Wissensgraphen-Reasoning | 完成后完成:一般知识图理据基础模型 [2505.21926v1](http://arxiv.org/abs/2505.21926v1)
 
 **Authors**: Yin Hua, Zhiqiang Liu, Mingyang Chen, Zheng Fang, Chi Man Wong, Lingxiao Li, Chi Man Vong, Huajun Chen, Wen Zhang
@@ -6196,6 +6679,7 @@ In natural language processing (NLP) and computer vision (CV), the successful ap
 
 ## Article 483
 ### Title@2025-05-28 (3): Modeling and Optimizing User Preferences in AI Copilots: A Comprehensive   Survey and Taxonomy
+
 **Title**: Modeling and Optimizing User Preferences in AI Copilots: A Comprehensive   Survey and Taxonomy | Modellierung und Optimierung von Benutzereinstellungen in AI-Copiloten: Eine umfassende Umfrage und Taxonomie | AI中模拟和优化用户首选模式:全面调查和分类 [2505.21907v1](http://arxiv.org/abs/2505.21907v1)
 
 **Authors**: Saleh Afzoon, Zahra Jahanandish, Phuong Thao Huynh, Amin Beheshti, Usman Naseem
@@ -6206,6 +6690,7 @@ AI copilots, context-aware, AI-powered systems designed to assist users in tasks
 
 ## Article 484
 ### Title@2025-05-28 (3): ALPS: Attention Localization and Pruning Strategy for Efficient   Alignment of Large Language Models
+
 **Title**: ALPS: Attention Localization and Pruning Strategy for Efficient   Alignment of Large Language Models | ALPS: Aufmerksamkeit Lokalisierung und Pruning-Strategie zur effizienten Ausrichtung großer Sprachmodelle | ALPS: 高效统一大语言模式的注意地方化和审慎战略 [2505.18799v2](http://arxiv.org/abs/2505.18799v2)
 
 **Authors**: Hao Chen, Haoze Li, Zhiqing Xiao, Lirong Gao, Qi Zhang, Xiaomeng Hu, Ningtao Wang, Xing Fu, Junbo Zhao
@@ -6216,6 +6701,7 @@ Aligning general-purpose large language models (LLMs) to downstream tasks often 
 
 ## Article 485
 ### Title@2025-05-28 (3): Co-Saving: Resource Aware Multi-Agent Collaboration for Software   Development
+
 **Title**: Co-Saving: Resource Aware Multi-Agent Collaboration for Software   Development | Co-Saving: Ressourcenschonende Multi-Agenten-Kollaboration für Software-Entwicklung | 共同节省:为开发软件进行有意识的资源、多机构协作 [2505.21898v1](http://arxiv.org/abs/2505.21898v1)
 
 **Authors**: Rennai Qiu, Chen Qian, Ran Li, Yufan Dang, Weize Chen, Cheng Yang, Yingli Zhang, Ye Tian, Xuantang Xiong, Lei Han, Zhiyuan Liu, Maosong Sun
@@ -6226,6 +6712,7 @@ Recent advancements in Large Language Models (LLMs) and autonomous agents have d
 
 ## Article 486
 ### Title@2025-05-28 (3): Search and Refine During Think: Autonomous Retrieval-Augmented Reasoning   of LLMs
+
 **Title**: Search and Refine During Think: Autonomous Retrieval-Augmented Reasoning   of LLMs | Suche und Verfeinerung während des Denkens: Autonome Retrieval-Augmented Reasoning von LLMs | 思考期间的搜索和记忆:自主检索-强化理据(LLM) [2505.11277v2](http://arxiv.org/abs/2505.11277v2)
 
 **Authors**: Yaorui Shi, Sihang Li, Chang Wu, Zhiyuan Liu, Junfeng Fang, Hengxing Cai, An Zhang, Xiang Wang
@@ -6236,6 +6723,7 @@ Large language models have demonstrated impressive reasoning capabilities but ar
 
 ## Article 487
 ### Title@2025-05-28 (3): Language-Specific Latent Process Hinders Cross-Lingual Performance
+
 **Title**: Language-Specific Latent Process Hinders Cross-Lingual Performance | Sprachspezifische latente Prozessverhinderer Cross-Lingual Performance | 语言特定边端进程 [2505.13141v2](http://arxiv.org/abs/2505.13141v2)
 
 **Authors**: Zheng Wei Lim, Alham Fikri Aji, Trevor Cohn
@@ -6246,6 +6734,7 @@ Large language models (LLMs) are demonstrably capable of cross-lingual transfer,
 
 ## Article 488
 ### Title@2025-05-28 (3): Self-Taught Agentic Long Context Understanding
+
 **Title**: Self-Taught Agentic Long Context Understanding | Selbstlernendes Agentisches Langes Kontext-Verständnis | 自我教学 自我研究 长期背景了解 [2502.15920v2](http://arxiv.org/abs/2502.15920v2)
 
 **Authors**: Yufan Zhuang, Xiaodong Yu, Jialian Wu, Ximeng Sun, Ze Wang, Jiang Liu, Yusheng Su, Jingbo Shang, Zicheng Liu, Emad Barsoum
@@ -6256,6 +6745,7 @@ Answering complex, long-context questions remains a major challenge for large la
 
 ## Article 489
 ### Title@2025-05-28 (3): Paths Not Taken: Understanding and Mending the Multilingual Factual   Recall Pipeline
+
 **Title**: Paths Not Taken: Understanding and Mending the Multilingual Factual   Recall Pipeline | Pfade, die nicht genommen werden: Verstehen und Mending the Multilingual Factual Recall Pipeline | 未选择的路径:理解和终止多语种事实回回回回管道 [2505.20546v2](http://arxiv.org/abs/2505.20546v2)
 
 **Authors**: Meng Lu, Ruochen Zhang, Carsten Eickhoff, Ellie Pavlick
@@ -6266,6 +6756,7 @@ Multilingual large language models (LLMs) often exhibit factual inconsistencies 
 
 ## Article 490
 ### Title@2025-05-28 (3): Large Vocabulary Size Improves Large Language Models
+
 **Title**: Large Vocabulary Size Improves Large Language Models | Große Vokabelgröße verbessert große Sprachmodelle | 大型词汇量改进大语言模式 [2406.16508v2](http://arxiv.org/abs/2406.16508v2)
 
 **Authors**: Sho Takase, Ryokan Ri, Shun Kiyono, Takuya Kato
@@ -6276,6 +6767,7 @@ This paper empirically investigates the relationship between subword vocabulary 
 
 ## Article 491
 ### Title@2025-05-28 (3): Text Generation Beyond Discrete Token Sampling
+
 **Title**: Text Generation Beyond Discrete Token Sampling | Textgenerierung jenseits diskreter Token-Probenahme | 文本生成超出分解调制当量抽样 [2505.14827v2](http://arxiv.org/abs/2505.14827v2)
 
 **Authors**: Yufan Zhuang, Liyuan Liu, Chandan Singh, Jingbo Shang, Jianfeng Gao
@@ -6286,6 +6778,7 @@ In standard autoregressive generation, an LLM predicts the next-token distributi
 
 ## Article 492
 ### Title@2025-05-28 (3): Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation
+
 **Title**: Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation | Einschließlich LLMs für großräumige Urban Complex Mobility Simulation | 大型城市综合流动模拟项目LLMs [2505.21880v1](http://arxiv.org/abs/2505.21880v1)
 
 **Authors**: Yu-Lun Song, Chung-En Tsern, Che-Cheng Wu, Yu-Ming Chang, Syuan-Bo Huang, Wei-Chu Chen, Michael Chia-Liang Lin, Yu-Ta Lin
@@ -6296,6 +6789,7 @@ This study presents an innovative approach to urban mobility simulation by integ
 
 ## Article 493
 ### Title@2025-05-28 (3): Evaluating the Retrieval Robustness of Large Language Models
+
 **Title**: Evaluating the Retrieval Robustness of Large Language Models | Bewertung der Retrieval Robustheit großer Sprachmodelle | 评估大语言模型的检索能力 [2505.21870v1](http://arxiv.org/abs/2505.21870v1)
 
 **Authors**: Shuyang Cao, Karthik Radhakrishnan, David Rosenberg, Steven Lu, Pengxiang Cheng, Lu Wang, Shiyue Zhang
@@ -6306,6 +6800,7 @@ Retrieval-augmented generation (RAG) generally enhances large language models' (
 
 ## Article 494
 ### Title@2025-05-28 (3): Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop   Question Answering
+
 **Title**: Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop   Question Answering | Behebung von Problemen mit der verlorenen Retrieval-Frage bei der Retrieval Augmented Multi-Hop-Fragebeantwortung | 减轻在检索增加的多层次问题解答中丢失的在追索中的问题 [2502.14245v2](http://arxiv.org/abs/2502.14245v2)
 
 **Authors**: Rongzhi Zhu, Xiangyu Liu, Zequn Sun, Yiwei Wang, Wei Hu
@@ -6316,6 +6811,7 @@ In this paper, we identify a critical problem, "lost-in-retrieval", in retrieval
 
 ## Article 495
 ### Title@2025-05-28 (3): RSCF: Relation-Semantics Consistent Filter for Entity Embedding of   Knowledge Graph
+
 **Title**: RSCF: Relation-Semantics Consistent Filter for Entity Embedding of   Knowledge Graph | RSCF: Relation-Semantik Konsequenter Filter für Entity-Einbettung von Wissensgrafik | RSCF: 用于实体嵌入知识图的 关系-语义一致性过滤器 [2505.20813v2](http://arxiv.org/abs/2505.20813v2)
 
 **Authors**: Junsik Kim, Jinwook Park, Kangil Kim
@@ -6326,6 +6822,7 @@ In knowledge graph embedding, leveraging relation specific entity transformation
 
 ## Article 496
 ### Title@2025-05-28 (3): Distance between Relevant Information Pieces Causes Bias in Long-Context   LLMs
+
 **Title**: Distance between Relevant Information Pieces Causes Bias in Long-Context   LLMs | Abstand zwischen relevanten Informationsstücken verursacht Bias im Langtext LLMs | 有关信息片件在长文本LLM中造成偏见的距离 [2410.14641v3](http://arxiv.org/abs/2410.14641v3)
 
 **Authors**: Runchu Tian, Yanghao Li, Yuepeng Fu, Siyang Deng, Qinyu Luo, Cheng Qian, Shuo Wang, Xin Cong, Zhong Zhang, Yesai Wu, Yankai Lin, Huadong Wang, Xiaojiang Liu
@@ -6336,6 +6833,7 @@ Positional bias in large language models (LLMs) hinders their ability to effecti
 
 ## Article 497
 ### Title@2025-05-28 (3): Principled Content Selection to Generate Diverse and Personalized   Multi-Document Summaries
+
 **Title**: Principled Content Selection to Generate Diverse and Personalized   Multi-Document Summaries | Prinzipierte Inhaltsauswahl zur Generierung unterschiedlicher und personalisierter Multi-Document-Zusammenfassungen | " 创造多样化和个性化多文件摘要 " 原则性内容选择 [2505.21859v1](http://arxiv.org/abs/2505.21859v1)
 
 **Authors**: Vishakh Padmakumar, Zichao Wang, David Arbour, Jennifer Healey
@@ -6346,6 +6844,7 @@ While large language models (LLMs) are increasingly capable of handling longer c
 
 ## Article 498
 ### Title@2025-05-28 (3): Mini-batch Coresets for Memory-efficient Language Model Training on Data   Mixtures
+
 **Title**: Mini-batch Coresets for Memory-efficient Language Model Training on Data   Mixtures | Mini-Batch Coresets für speichereffiziente Sprachmodellschulungen auf Datenmischungen | 记忆效率语言数据混合模型培训微型批量核心数据集 [2407.19580v4](http://arxiv.org/abs/2407.19580v4)
 
 **Authors**: Dang Nguyen, Wenhan Yang, Rathul Anand, Yu Yang, Baharan Mirzasoleiman
@@ -6356,6 +6855,7 @@ Training with larger mini-batches improves the convergence rate and can yield su
 
 ## Article 499
 ### Title@2025-05-28 (3): CULEMO: Cultural Lenses on Emotion -- Benchmarking LLMs for   Cross-Cultural Emotion Understanding
+
 **Title**: CULEMO: Cultural Lenses on Emotion -- Benchmarking LLMs for   Cross-Cultural Emotion Understanding | CULEMO: Kulturelle Objektive zur Emotion -- Benchmarking LLMs für Cross-Cultural Emotion Understanding | CULEMO:情感文化引文 -- -- 衡量跨文化情感理解LMLL [2503.10688v3](http://arxiv.org/abs/2503.10688v3)
 
 **Authors**: Tadesse Destaw Belay, Ahmed Haj Ahmed, Alvin Grissom II, Iqra Ameer, Grigori Sidorov, Olga Kolesnikova, Seid Muhie Yimam
@@ -6366,6 +6866,7 @@ NLP research has increasingly focused on subjective tasks such as emotion analys
 
 ## Article 500
 ### Title@2025-05-28 (3): Natural Language Reinforcement Learning
+
 **Title**: Natural Language Reinforcement Learning | Natürliche Sprache Stärkung Lernen | 自然语言强化学习 [2411.14251v3](http://arxiv.org/abs/2411.14251v3)
 
 **Authors**: Xidong Feng, Bo Liu, Yan Song, Haotian Fu, Ziyu Wan, Girish A. Koushik, Zhiyuan Hu, Mengyue Yang, Ying Wen, Jun Wang
@@ -6376,6 +6877,7 @@ Artificial intelligence progresses towards the "Era of Experience," where agents
 
 ## Article 501
 ### Title@2025-05-27 (2): Constrained Discrete Diffusion
+
 **Title**: Constrained Discrete Diffusion | Beschränkte diskrete Diffusion | 限制的分解扩散 [2503.09790v2](http://arxiv.org/abs/2503.09790v2)
 
 **Authors**: Michael Cardei, Jacob K Christopher, Thomas Hartvigsen, Brian R. Bartoldson, Bhavya Kailkhura, Ferdinando Fioretto
@@ -6386,6 +6888,7 @@ Discrete diffusion models are a class of generative models that construct sequen
 
 ## Article 502
 ### Title@2025-05-27 (2): From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework   for Reasoning-Driven Pedagogical Visualization
+
 **Title**: From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework   for Reasoning-Driven Pedagogical Visualization | Von EduVisBench zu EduVisAgent: Ein Benchmark- und Multi-Agent-Framework für eine sinnvolle pädagogische Visualisierung | 从Edu Visb bench到Edu Visbench-Edu VisbearAgender:有理性的可视化教育基准和多机构框架 [2505.16832v2](http://arxiv.org/abs/2505.16832v2)
 
 **Authors**: Haonian Ji, Shi Qiu, Siyang Xin, Siwei Han, Zhaorun Chen, Dake Zhang, Hongyi Wang, Huaxiu Yao
@@ -6396,6 +6899,7 @@ While foundation models (FMs), such as diffusion models and large vision-languag
 
 ## Article 503
 ### Title@2025-05-27 (2): Let Me Think! A Long Chain-of-Thought Can Be Worth Exponentially Many   Short Ones
+
 **Title**: Let Me Think! A Long Chain-of-Thought Can Be Worth Exponentially Many   Short Ones | Lassen Sie mich nachdenken! Eine lange Kette des Denkens kann es wert sein, auf jeden Fall viele kurze Menschen | 让我想想吧!一个长期的思考链 可能值得一试 有很多短一个 [2505.21825v1](http://arxiv.org/abs/2505.21825v1)
 
 **Authors**: Parsa Mirtaheri, Ezra Edelman, Samy Jelassi, Eran Malach, Enric Boix-Adsera
@@ -6406,6 +6910,7 @@ Inference-time computation has emerged as a promising scaling axis for improving
 
 ## Article 504
 ### Title@2025-05-27 (2): Understanding Synthetic Context Extension via Retrieval Heads
+
 **Title**: Understanding Synthetic Context Extension via Retrieval Heads | Synthetische Kontexterweiterung über Rücklaufköpfe verstehen | 通过回收头目获取理解合成背景扩展 [2410.22316v4](http://arxiv.org/abs/2410.22316v4)
 
 **Authors**: Xinyu Zhao, Fangcong Yin, Greg Durrett
@@ -6416,6 +6921,7 @@ Long-context LLMs are increasingly in demand for applications such as retrieval-
 
 ## Article 505
 ### Title@2025-05-27 (2): Representative Language Generation
+
 **Title**: Representative Language Generation | Repräsentative Sprachgenerierung | 代 代 代 语 语 代 语 代 语 代 [2505.21819v1](http://arxiv.org/abs/2505.21819v1)
 
 **Authors**: Charlotte Peale, Vinod Raman, Omer Reingold
@@ -6426,6 +6932,7 @@ We introduce "representative generation," extending the theoretical framework fo
 
 ## Article 506
 ### Title@2025-05-27 (2): Revisiting Common Assumptions about Arabic Dialects in NLP
+
 **Title**: Revisiting Common Assumptions about Arabic Dialects in NLP | Häufige Annahmen über arabische Dialekte in NLP erneut besuchen | 重新审视全国语言规划中阿拉伯语方言的通用假设 [2505.21816v1](http://arxiv.org/abs/2505.21816v1)
 
 **Authors**: Amr Keleg, Sharon Goldwater, Walid Magdy
@@ -6436,6 +6943,7 @@ Arabic has diverse dialects, where one dialect can be substantially different fr
 
 ## Article 507
 ### Title@2025-05-27 (2): Scientific Paper Retrieval with LLM-Guided Semantic-Based Ranking
+
 **Title**: Scientific Paper Retrieval with LLM-Guided Semantic-Based Ranking | Scientific Paper Retrieval mit LLM-geführtem semantisch-basierendem Ranking | 具有LLM-Guided语义学排名的科学论文检索 [2505.21815v1](http://arxiv.org/abs/2505.21815v1)
 
 **Authors**: Yunyi Zhang, Ruozhen Yang, Siqi Jiao, SeongKu Kang, Jiawei Han
@@ -6446,6 +6954,7 @@ Scientific paper retrieval is essential for supporting literature discovery and 
 
 ## Article 508
 ### Title@2025-05-27 (2): ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails
+
 **Title**: ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails | ThinkGuard: Besonnenes langsames Denken führt zu voreiligen Wärtern | 思考指南:慎重考虑的慢思考引领谨慎警卫车 [2502.13458v2](http://arxiv.org/abs/2502.13458v2)
 
 **Authors**: Xiaofei Wen, Wenxuan Zhou, Wenjie Jacky Mo, Muhao Chen
@@ -6456,6 +6965,7 @@ Ensuring the safety of large language models (LLMs) is critical as they are depl
 
 ## Article 509
 ### Title@2025-05-27 (2): From Directions to Cones: Exploring Multidimensional Representations of   Propositional Facts in LLMs
+
 **Title**: From Directions to Cones: Exploring Multidimensional Representations of   Propositional Facts in LLMs | Von der Anfahrt zu den Cones: Erforschung multidimensionaler Darstellungen von Propositional Facts in LLMs | " 从方向到锥体:探索液晶中各种潜在事实的多层面代表 " [2505.21800v1](http://arxiv.org/abs/2505.21800v1)
 
 **Authors**: Stanley Yu, Vaidehi Bulusu, Oscar Yasunaga, Clayton Lau, Cole Blondin, Sean O'Brien, Kevin Zhu, Vasu Sharma
@@ -6466,6 +6976,7 @@ Large Language Models (LLMs) exhibit strong conversational abilities but often g
 
 ## Article 510
 ### Title@2025-05-27 (2): Dissecting the Ullman Variations with a SCALPEL: Why do LLMs fail at   Trivial Alterations to the False Belief Task?
+
 **Title**: Dissecting the Ullman Variations with a SCALPEL: Why do LLMs fail at   Trivial Alterations to the False Belief Task? | Desecting the Ullman Variations with a SCALPEL: Warum scheitern LLMs bei Trivial Alterations to the False Belief Task? | 将乌尔曼变异与SCALPEL解剖:为什么LLMs在假信仰任务三维改造中失败? [2406.14737v2](http://arxiv.org/abs/2406.14737v2)
 
 **Authors**: Zhiqiang Pi, Annapurna Vadaparty, Benjamin K. Bergen, Cameron R. Jones
@@ -6476,6 +6987,7 @@ Recent empirical results have sparked a debate about whether or not Large Langua
 
 ## Article 511
 ### Title@2025-05-27 (2): Controllable Context Sensitivity and the Knob Behind It
+
 **Title**: Controllable Context Sensitivity and the Knob Behind It | Kontrollierbarer Kontext Empfindlichkeit und der Knob dahinter | 控制环境的感应度及其背后的Knob [2411.07404v3](http://arxiv.org/abs/2411.07404v3)
 
 **Authors**: Julian Minder, Kevin Du, Niklas Stoehr, Giovanni Monea, Chris Wendler, Robert West, Ryan Cotterell
@@ -6486,6 +6998,7 @@ When making predictions, a language model must trade off how much it relies on i
 
 ## Article 512
 ### Title@2025-05-27 (2): Wanda++: Pruning Large Language Models via Regional Gradients
+
 **Title**: Wanda++: Pruning Large Language Models via Regional Gradients | Wanda++: Beschneiden großer Sprachmodelle über regionale Gradienten | Wanda+++:通过区域渐变来保护大语言模式 [2503.04992v3](http://arxiv.org/abs/2503.04992v3)
 
 **Authors**: Yifan Yang, Kai Zhen, Bhavana Ganesh, Aram Galstyan, Goeric Huybrechts, Markus Müller, Jonas M. Kübler, Rupak Vignesh Swaminathan, Athanasios Mouchtaris, Sravan Babu Bodapati, Nathan Susanj, Zheng Zhang, Jack FitzGerald, Abhishek Kumar
@@ -6496,6 +7009,7 @@ Large Language Models (LLMs) pruning seeks to remove unimportant weights for inf
 
 ## Article 513
 ### Title@2025-05-27 (2): VeriTrail: Closed-Domain Hallucination Detection with Traceability
+
 **Title**: VeriTrail: Closed-Domain Hallucination Detection with Traceability | VeriTrail: Closed-Domain Halluzination Erkennung mit Rückverfolgbarkeit | VeriTrail: 带可追踪性闭路致幻觉探测 [2505.21786v1](http://arxiv.org/abs/2505.21786v1)
 
 **Authors**: Dasha Metropolitansky, Jonathan Larson
@@ -6506,6 +7020,7 @@ Even when instructed to adhere to source material, Language Models often generat
 
 ## Article 514
 ### Title@2025-05-27 (2): Born a Transformer -- Always a Transformer?
+
 **Title**: Born a Transformer -- Always a Transformer? | Geboren ein Transformer - immer ein Transformer? | 天生的变形人 - - 总是变形人? [2505.21785v1](http://arxiv.org/abs/2505.21785v1)
 
 **Authors**: Yana Veitsman, Mayank Jobanputra, Yash Sarrof, Aleksandra Bakalova, Vera Demberg, Ellie Pavlick, Michael Hahn
@@ -6516,6 +7031,7 @@ Transformers have theoretical limitations in modeling certain sequence-to-sequen
 
 ## Article 515
 ### Title@2025-05-27 (2): Towards Safety Reasoning in LLMs: AI-agentic Deliberation for   Policy-embedded CoT Data Creation
+
 **Title**: Towards Safety Reasoning in LLMs: AI-agentic Deliberation for   Policy-embedded CoT Data Creation | Auf dem Weg zur Sicherheitsveranlagung in LLMs: KI-agentische Beratung für politisch eingebettete CoT-Datenerstellung | 走向LLM女士中的安全理由:为制定政策的COT数据编制进行AI-Agentic 考虑 [2505.21784v1](http://arxiv.org/abs/2505.21784v1)
 
 **Authors**: Tharindu Kumarage, Ninareh Mehrabi, Anil Ramakrishna, Xinyan Zhao, Richard Zemel, Kai-Wei Chang, Aram Galstyan, Rahul Gupta, Charith Peris
@@ -6526,6 +7042,7 @@ Safety reasoning is a recent paradigm where LLMs reason over safety policies bef
 
 ## Article 516
 ### Title@2025-05-27 (2): Watermarks in the Sand: Impossibility of Strong Watermarking for   Generative Models
+
 **Title**: Watermarks in the Sand: Impossibility of Strong Watermarking for   Generative Models | Wasserzeichen im Sand: Unmöglichkeit der starken Wasserzeichen für generative Modelle | 沙沙中的水印:在生成模型中使用强水标志的可能性 [2311.04378v5](http://arxiv.org/abs/2311.04378v5)
 
 **Authors**: Hanlin Zhang, Benjamin L. Edelman, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, Boaz Barak
@@ -6536,6 +7053,7 @@ Watermarking generative models consists of planting a statistical signal (waterm
 
 ## Article 517
 ### Title@2025-05-27 (2): Layers at Similar Depths Generate Similar Activations Across LLM   Architectures
+
 **Title**: Layers at Similar Depths Generate Similar Activations Across LLM   Architectures | Ebenen in ähnlichen Tiefen erzeugen ähnliche Aktivierungen über LLM-Architekturen | 类似深度的图层在LLM 结构中生成类似活动 [2504.08775v2](http://arxiv.org/abs/2504.08775v2)
 
 **Authors**: Christopher Wolfram, Aaron Schein
@@ -6546,6 +7064,7 @@ How do the latent spaces used by independently-trained LLMs relate to one anothe
 
 ## Article 518
 ### Title@2025-05-27 (2): GMU Systems for the IWSLT 2025 Low-Resource Speech Translation Shared   Task
+
 **Title**: GMU Systems for the IWSLT 2025 Low-Resource Speech Translation Shared   Task | GMU-Systeme für die IWSLT 2025 Sprachübersetzung mit geringer Ressource geteilte Aufgabe | GMU 2025年IWSLT 低资源语音翻译共享任务 [2505.21781v1](http://arxiv.org/abs/2505.21781v1)
 
 **Authors**: Chutong Meng, Antonios Anastasopoulos
@@ -6556,6 +7075,7 @@ This paper describes the GMU systems for the IWSLT 2025 low-resource speech tran
 
 ## Article 519
 ### Title@2025-05-27 (2): When Do LLMs Admit Their Mistakes? Understanding the Role of Model   Belief in Retraction
+
 **Title**: When Do LLMs Admit Their Mistakes? Understanding the Role of Model   Belief in Retraction | Wann geben LLMs ihre Fehler zu? Sie verstehen die Rolle des Modellglaubens bei der Retraktion | LLM女士何时承认其错误? [2505.16170v2](http://arxiv.org/abs/2505.16170v2)
 
 **Authors**: Yuqing Yang, Robin Jia
@@ -6566,6 +7086,7 @@ Can large language models (LLMs) admit their mistakes when they should know bett
 
 ## Article 520
 ### Title@2025-05-27 (2): Calibrating LLM Confidence by Probing Perturbed Representation Stability
+
 **Title**: Calibrating LLM Confidence by Probing Perturbed Representation Stability | Kalibrierung des LLM-Vertrauens durch Probing Perturbed Repräsentationsstabilität | 通过在有干扰的代表权方面确保稳定,以验证LLM信任度 [2505.21772v1](http://arxiv.org/abs/2505.21772v1)
 
 **Authors**: Reza Khanmohammadi, Erfan Miahi, Mehrsa Mardikoraem, Simerjot Kaur, Ivan Brugere, Charese H. Smiley, Kundan Thind, Mohammad M. Ghassemi
@@ -6576,6 +7097,7 @@ Miscalibration in Large Language Models (LLMs) undermines their reliability, hig
 
 ## Article 521
 ### Title@2025-05-27 (2): BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across   the Proactivity Spectrum
+
 **Title**: BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across   the Proactivity Spectrum | VerhaltenSFT: Behavioral Token Conditioning für klinische Wirkstoffe über das Proaktivitätsspektrum hinweg | 行为SFT:横跨主动性频谱的临床药剂行为定性 [2505.21757v1](http://arxiv.org/abs/2505.21757v1)
 
 **Authors**: Yubin Kim, Zhiyuan Hu, Hyewon Jeong, Eugene Park, Shuyue Stella Li, Chanwoo Park, Shiyun Xiong, MingYu Lu, Hyeonhoon Lee, Xin Liu, Daniel McDuff, Cynthia Breazeal, Samir Tulebaev, Hae Won Park
@@ -6586,6 +7108,7 @@ Large Language Models (LLMs) as clinical agents require careful behavioral adapt
 
 ## Article 522
 ### Title@2025-05-27 (2): FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal   Shifts in Visual Question Answering
+
 **Title**: FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal   Shifts in Visual Question Answering | FRAMES-VQA: Benchmarking Fine-Tuning Robustheit über Multi-Modal Shifts in der visuellen Fragestellung | FRAMES-VQA:确定视觉问题解答中多模式变化的精确调整强度基准 [2505.21755v1](http://arxiv.org/abs/2505.21755v1)
 
 **Authors**: Chengyue Huang, Brisa Maneechotesuwan, Shivang Chopra, Zsolt Kira
@@ -6596,6 +7119,7 @@ Visual question answering (VQA) systems face significant challenges when adaptin
 
 ## Article 523
 ### Title@2025-05-27 (2): From prosthetic memory to prosthetic denial: Auditing whether large   language models are prone to mass atrocity denialism
+
 **Title**: From prosthetic memory to prosthetic denial: Auditing whether large   language models are prone to mass atrocity denialism | Vom prothetischen Gedächtnis zur prothetischen Leugnung: Prüfung, ob große Sprachmodelle anfällig für Massenverleugnung sind | 从假肢记忆到否认假肢:审计大型语言模式是否容易发生大规模暴行否认行为 [2505.21753v1](http://arxiv.org/abs/2505.21753v1)
 
 **Authors**: Roberto Ulloa, Eve M. Zucker, Daniel Bultmann, David J. Simon, Mykola Makhortykh
@@ -6606,6 +7130,7 @@ The proliferation of large language models (LLMs) can influence how historical n
 
 ## Article 524
 ### Title@2025-05-27 (2): Revisiting Bi-Linear State Transitions in Recurrent Neural Networks
+
 **Title**: Revisiting Bi-Linear State Transitions in Recurrent Neural Networks | Bi-Lineare State Transitions in recurrenten neuralen Netzwerken erneut besuchen | 在经常性神经网络中重新审查双利那尔州过渡 [2505.21749v1](http://arxiv.org/abs/2505.21749v1)
 
 **Authors**: M. Reza Ebrahimi, Roland Memisevic
@@ -6616,6 +7141,7 @@ The role of hidden units in recurrent neural networks is typically seen as model
 
 ## Article 525
 ### Title@2025-05-27 (2): General-Reasoner: Advancing LLM Reasoning Across All Domains
+
 **Title**: General-Reasoner: Advancing LLM Reasoning Across All Domains | General-Reasoner: Bessere LLM-Reasonierung über alle Domains hinweg | 通用Reasoner:在所有领域推推推LLM [2505.14652v4](http://arxiv.org/abs/2505.14652v4)
 
 **Authors**: Xueguang Ma, Qian Liu, Dongfu Jiang, Ge Zhang, Zejun Ma, Wenhu Chen
@@ -6626,6 +7152,7 @@ Reinforcement learning (RL) has recently demonstrated strong potential in enhanc
 
 ## Article 526
 ### Title@2025-05-27 (2): Counterfactual Simulatability of LLM Explanations for Generation Tasks
+
 **Title**: Counterfactual Simulatability of LLM Explanations for Generation Tasks | Counterfactual Simulatability von LLM-Erläuterungen für Generierungsaufgaben | 世代任务LLM解释的反事实模拟性 [2505.21740v1](http://arxiv.org/abs/2505.21740v1)
 
 **Authors**: Marvin Limpijankit, Yanda Chen, Melanie Subbiah, Nicholas Deas, Kathleen McKeown
@@ -6636,6 +7163,7 @@ LLMs can be unpredictable, as even slight alterations to the prompt can cause th
 
 ## Article 527
 ### Title@2025-05-27 (2): Non-Markovian Discrete Diffusion with Causal Language Models
+
 **Title**: Non-Markovian Discrete Diffusion with Causal Language Models | Nicht-Markovianische Diskrepanz mit kausalen Sprachmodellen | 非马尔科维语非马尔科维语分辨语言模式的传播 [2502.09767v2](http://arxiv.org/abs/2502.09767v2)
 
 **Authors**: Yangtian Zhang, Sizhuang He, Daniel Levine, Lawrence Zhao, David Zhang, Syed A Rizvi, Emanuele Zappala, Rex Ying, David van Dijk
@@ -6646,6 +7174,7 @@ Discrete diffusion models offer a flexible, controllable approach to structured 
 
 ## Article 528
 ### Title@2025-05-27 (2): Assessing and Refining ChatGPT's Performance in Identifying Targeting   and Inappropriate Language: A Comparative Study
+
 **Title**: Assessing and Refining ChatGPT's Performance in Identifying Targeting   and Inappropriate Language: A Comparative Study | Bewertung und Verfeinerung der Leistung von ChatGPT bei der Identifizierung von Targeting und unangemessener Sprache: Eine vergleichende Studie | 评估和完善聊天部在确定针对性和不适当语言方面的绩效:比较研究 [2505.21710v1](http://arxiv.org/abs/2505.21710v1)
 
 **Authors**: Barbarestani Baran, Maks Isa, Vossen Piek
@@ -6656,6 +7185,7 @@ This study evaluates the effectiveness of ChatGPT, an advanced AI model for natu
 
 ## Article 529
 ### Title@2025-05-27 (2): Do We Know What LLMs Don't Know? A Study of Consistency in Knowledge   Probing
+
 **Title**: Do We Know What LLMs Don't Know? A Study of Consistency in Knowledge   Probing | Wissen wir, was LLMs nicht wissen? Eine Studie der Konsistenz in der Wissensprobe | 我们知道什么是不知道的LLLM不知道的吗?关于知识检验的一致性的研究。 [2505.21701v1](http://arxiv.org/abs/2505.21701v1)
 
 **Authors**: Raoyuan Zhao, Abdullatif Köksal, Ali Modarressi, Michael A. Hedderich, Hinrich Schütze
@@ -6666,6 +7196,7 @@ The reliability of large language models (LLMs) is greatly compromised by their 
 
 ## Article 530
 ### Title@2025-05-27 (2): MAKIEval: A Multilingual Automatic WiKidata-based Framework for Cultural   Awareness Evaluation for LLMs
+
 **Title**: MAKIEval: A Multilingual Automatic WiKidata-based Framework for Cultural   Awareness Evaluation for LLMs | MAKIEval: Ein multilingualer, automatischer WiKidata-basierter Rahmen für die Bewertung des kulturellen Bewusstseins für LLMs | MAKIEval:以多种语言自动维基数据为基础的LLMs文化认识评价框架 [2505.21693v1](http://arxiv.org/abs/2505.21693v1)
 
 **Authors**: Raoyuan Zhao, Beiduo Chen, Barbara Plank, Michael A. Hedderich
@@ -6676,6 +7207,7 @@ Large language models (LLMs) are used globally across many languages, but their 
 
 ## Article 531
 ### Title@2025-05-27 (2): LLMPR: A Novel LLM-Driven Transfer Learning based Petition Ranking Model
+
 **Title**: LLMPR: A Novel LLM-Driven Transfer Learning based Petition Ranking Model | LLMPR: Ein neuartiges LLM-getriebenes Transfer-Learning-basiertes Petitions-Ranking-Modell | LLMPR:基于请愿排级的新式LLM-驱动转移学习模式 [2505.21689v1](http://arxiv.org/abs/2505.21689v1)
 
 **Authors**: Avijit Gayen, Somyajit Chakraborty, Mainak Sen, Soham Paul, Angshuman Jana
@@ -6686,6 +7218,7 @@ The persistent accumulation of unresolved legal cases, especially within the Ind
 
 ## Article 532
 ### Title@2025-05-27 (2): Empirical analysis of binding precedent efficiency in Brazilian Supreme   Court via case classification
+
 **Title**: Empirical analysis of binding precedent efficiency in Brazilian Supreme   Court via case classification | Empirische Analyse der verbindlichen Präzedenzeffizienz im brasilianischen Obersten Gerichtshof über die Fallklassifizierung | 通过案件分类对巴西最高法院具有约束力的先例效率进行经验分析 [2407.07004v3](http://arxiv.org/abs/2407.07004v3)
 
 **Authors**: Raphaël Tinarrage, Henrique Ennes, Lucas Resck, Lucas T. Gomes, Jean R. Ponciano, Jorge Poco
@@ -6696,6 +7229,7 @@ Binding precedents (s\'umulas vinculantes) constitute a juridical instrument uni
 
 ## Article 533
 ### Title@2025-05-27 (2): Probabilistic Reasoning with LLMs for k-anonymity Estimation
+
 **Title**: Probabilistic Reasoning with LLMs for k-anonymity Estimation | Probabilistische Begründung mit LLMs für k-Anonymitätsschätzung | K-匿名性估计法LLMs的概率推理 [2503.09674v3](http://arxiv.org/abs/2503.09674v3)
 
 **Authors**: Jonathan Zheng, Sauvik Das, Alan Ritter, Wei Xu
@@ -6706,6 +7240,7 @@ Probabilistic reasoning is a key aspect of both human and artificial intelligenc
 
 ## Article 534
 ### Title@2025-05-27 (2): Language Model Alignment in Multilingual Trolley Problems
+
 **Title**: Language Model Alignment in Multilingual Trolley Problems | Sprachmodellausrichtung in Mehrsprachigen Trolley-Problemen | 多语言小龙卷风问题语言模型对齐 [2407.02273v6](http://arxiv.org/abs/2407.02273v6)
 
 **Authors**: Zhijing Jin, Max Kleiman-Weiner, Giorgio Piatti, Sydney Levine, Jiarui Liu, Fernando Gonzalez, Francesco Ortu, András Strausz, Mrinmaya Sachan, Rada Mihalcea, Yejin Choi, Bernhard Schölkopf
@@ -6716,6 +7251,7 @@ We evaluate the moral alignment of LLMs with human preferences in multilingual t
 
 ## Article 535
 ### Title@2025-05-27 (2): Rethinking the Outlier Distribution in Large Language Models: An   In-depth Study
+
 **Title**: Rethinking the Outlier Distribution in Large Language Models: An   In-depth Study | Die Outlier-Distribution in großen Sprachmodellen neu denken: Eine vertiefte Studie | 重新思考大语言模型的外部分布:深入研究 [2505.21670v1](http://arxiv.org/abs/2505.21670v1)
 
 **Authors**: Rahul Raman, Khushi Sharma, Sai Qian Zhang
@@ -6726,6 +7262,7 @@ Investigating outliers in large language models (LLMs) is crucial due to their s
 
 ## Article 536
 ### Title@2025-05-27 (2): R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised   and Reinforcement Learning
+
 **Title**: R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised   and Reinforcement Learning | R1-Code-Interpreter: LLMs mit Code über überwachtes und verstärktes Lernen zur Vernunft trainieren | R1-Code-Code-解释:通过监督和强化学习,将培训的 " 理性通识规范 " 课程 [2505.21668v1](http://arxiv.org/abs/2505.21668v1)
 
 **Authors**: Yongchao Chen, Yueying Liu, Junwei Zhou, Yilun Hao, Jingquan Wang, Yang Zhang, Chuchu Fan
@@ -6736,6 +7273,7 @@ Despite advances in reasoning and planning of R1-like models, Large Language Mod
 
 ## Article 537
 ### Title@2025-05-27 (2): Explainability of Large Language Models using SMILE: Statistical   Model-agnostic Interpretability with Local Explanations
+
 **Title**: Explainability of Large Language Models using SMILE: Statistical   Model-agnostic Interpretability with Local Explanations | Erklärbarkeit großer Sprachmodelle mit SMILE: Statistische Modell-agnostische Interpretierbarkeit mit lokalen Erklärungen | 使用SMILE解释大语言模型的可解释性:统计模型 -- -- 与当地解释的可解释性 [2505.21657v1](http://arxiv.org/abs/2505.21657v1)
 
 **Authors**: Zeinab Dehghani, Koorosh Aslansefat, Adil Khan, Mohammed Naveed Akram
@@ -6746,6 +7284,7 @@ Large language models like GPT, LLAMA, and Claude have become incredibly powerfu
 
 ## Article 538
 ### Title@2025-05-27 (2): Iterative Corpus Refinement for Materials Property Prediction Based on   Scientific Texts
+
 **Title**: Iterative Corpus Refinement for Materials Property Prediction Based on   Scientific Texts | Iterative Corpus-Verfeinerung für Material-Eigenschaftsvorhersage auf der Grundlage wissenschaftlicher Texte | 以科学文本为基础的材料财产预测材料性迭代公司精炼 [2505.21646v1](http://arxiv.org/abs/2505.21646v1)
 
 **Authors**: Lei Zhang, Markus Stricker
@@ -6756,6 +7295,7 @@ The discovery and optimization of materials for specific applications is hampere
 
 ## Article 539
 ### Title@2025-05-27 (2): WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image   Generation
+
 **Title**: WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image   Generation | WISE: Eine weltweite wissensbasierte semantische Evaluation für die Text-zu-Bild-Generierung | WISE:为产生文字到图像制作而进行的世界知识化的语义评价 [2503.07265v2](http://arxiv.org/abs/2503.07265v2)
 
 **Authors**: Yuwei Niu, Munan Ning, Mengren Zheng, Weiyang Jin, Bin Lin, Peng Jin, Jiaqi Liao, Chaoran Feng, Kunpeng Ning, Bin Zhu, Li Yuan
@@ -6766,6 +7306,7 @@ Text-to-Image (T2I) models are capable of generating high-quality artistic creat
 
 ## Article 540
 ### Title@2025-05-27 (2): How does Alignment Enhance LLMs' Multilingual Capabilities? A Language   Neurons Perspective
+
 **Title**: How does Alignment Enhance LLMs' Multilingual Capabilities? A Language   Neurons Perspective | Wie verbessert Alignment die Mehrsprachigkeitsfähigkeiten von LLMs? | 协调如何增强LLMM的多种语言能力? [2505.21505v1](http://arxiv.org/abs/2505.21505v1)
 
 **Authors**: Shimao Zhang, Zhejian Lai, Xiang Liu, Shuaijie She, Xiao Liu, Yeyun Gong, Shujian Huang, Jiajun Chen
@@ -6776,6 +7317,7 @@ Multilingual Alignment is an effective and representative paradigm to enhance LL
 
 ## Article 541
 ### Title@2025-05-27 (2): Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs   via Catfish Agent for Clinical Decision Making
+
 **Title**: Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs   via Catfish Agent for Clinical Decision Making | Schweigen ist kein Konsens: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making | 沉默不是共识:通过用于临床决策的Catfish代理商在多方代理LLMs中破坏协议的偏见 [2505.21503v1](http://arxiv.org/abs/2505.21503v1)
 
 **Authors**: Yihan Wang, Qiao Yan, Zhenghao Xing, Lihao Liu, Junjun He, Chi-Wing Fu, Xiaowei Hu, Pheng-Ann Heng
@@ -6786,6 +7328,7 @@ Large language models (LLMs) have demonstrated strong potential in clinical ques
 
 ## Article 542
 ### Title@2025-05-27 (2): ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in   Vision-Language Models
+
 **Title**: ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in   Vision-Language Models | ViewSpatial-Bench: Bewertung multi-perspektivischer räumlicher Lokalisierung in Vision-Sprachen-Modellen | 视野空间-空间区:在视觉-语言模型中评价多视角空间空间定位 [2505.21500v1](http://arxiv.org/abs/2505.21500v1)
 
 **Authors**: Dingming Li, Hongxing Li, Zixuan Wang, Yuchen Yan, Hang Zhang, Siqi Chen, Guiyang Hou, Shengpei Jiang, Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang
@@ -6796,6 +7339,7 @@ Vision-language models (VLMs) have demonstrated remarkable capabilities in under
 
 ## Article 543
 ### Title@2025-05-27 (2): Paper2Poster: Towards Multimodal Poster Automation from Scientific   Papers
+
 **Title**: Paper2Poster: Towards Multimodal Poster Automation from Scientific   Papers | Paper2Poster: Auf dem Weg zur multimodalen Plakatautomatisierung aus wissenschaftlichen Papieren | Paper2Poster:从科学论文中走向多式海报自动化 [2505.21497v1](http://arxiv.org/abs/2505.21497v1)
 
 **Authors**: Wei Pang, Kevin Qinghong Lin, Xiangru Jian, Xi He, Philip Torr
@@ -6806,6 +7350,7 @@ Academic poster generation is a crucial yet challenging task in scientific commu
 
 ## Article 544
 ### Title@2025-05-27 (2): UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based   Mobile GUI Agents
+
 **Title**: UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based   Mobile GUI Agents | UI-Genie: Ein selbstverbesserender Ansatz zur iterativen Steigerung von MLLM-basierten mobilen GUI-Agenten | UI-Genie: 一种自我改进的方法,用于在刺激下促进基于MLLLM的移动图形界面工具 [2505.21496v1](http://arxiv.org/abs/2505.21496v1)
 
 **Authors**: Han Xiao, Guozhi Wang, Yuxiang Chai, Zimu Lu, Weifeng Lin, Hao He, Lue Fan, Liuyang Bian, Rui Hu, Liang Liu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Aojun Zhou, Hongsheng Li
@@ -6816,6 +7361,7 @@ In this paper, we introduce UI-Genie, a self-improving framework addressing two 
 
 ## Article 545
 ### Title@2025-05-27 (2): How does Misinformation Affect Large Language Model Behaviors and   Preferences?
+
 **Title**: How does Misinformation Affect Large Language Model Behaviors and   Preferences? | Wie wirkt sich Misinformation auf das Verhalten und die Präferenzen von großen Sprachmodellen aus? | 错误信息如何影响大语言模式行为和偏好? [2505.21608v1](http://arxiv.org/abs/2505.21608v1)
 
 **Authors**: Miao Peng, Nuo Chen, Jianheng Tang, Jia Li
@@ -6826,6 +7372,7 @@ Large Language Models (LLMs) have shown remarkable capabilities in knowledge-int
 
 ## Article 546
 ### Title@2025-05-27 (2): Reinforcing General Reasoning without Verifiers
+
 **Title**: Reinforcing General Reasoning without Verifiers | Verstärkung der allgemeinen Vernunft ohne Prüfer | 加强一般理由说明,无验证人 [2505.21493v1](http://arxiv.org/abs/2505.21493v1)
 
 **Authors**: Xiangxin Zhou, Zichen Liu, Anya Sims, Haonan Wang, Tianyu Pang, Chongxuan Li, Liang Wang, Min Lin, Chao Du
@@ -6836,6 +7383,7 @@ The recent paradigm shift towards training large language models (LLMs) using De
 
 ## Article 547
 ### Title@2025-05-27 (2): Hardware-Efficient Attention for Fast Decoding
+
 **Title**: Hardware-Efficient Attention for Fast Decoding | Hardware-Effiziente Aufmerksamkeit für schnelle Dekodierung | 快速下标记的硬件高效关注 [2505.21487v1](http://arxiv.org/abs/2505.21487v1)
 
 **Authors**: Ted Zadouri, Hubert Strauss, Tri Dao
@@ -6846,6 +7394,7 @@ LLM decoding is bottlenecked for large batches and long contexts by loading the 
 
 ## Article 548
 ### Title@2025-05-27 (2): Are Language Models Consequentialist or Deontological Moral Reasoners?
+
 **Title**: Are Language Models Consequentialist or Deontological Moral Reasoners? | Sind Sprachmodelle konsequentistische oder deontologische Moralverursacher? | 语言模式是代名词还是代名词道德理由? [2505.21479v1](http://arxiv.org/abs/2505.21479v1)
 
 **Authors**: Keenan Samway, Max Kleiman-Weiner, David Guzman Piedrahita, Rada Mihalcea, Bernhard Schölkopf, Zhijing Jin
@@ -6856,6 +7405,7 @@ As AI systems increasingly navigate applications in healthcare, law, and governa
 
 ## Article 549
 ### Title@2025-05-27 (2): Mitigating Hallucination in Large Vision-Language Models via Adaptive   Attention Calibration
+
 **Title**: Mitigating Hallucination in Large Vision-Language Models via Adaptive   Attention Calibration | Halluzination in großen Vision-Sprachen durch adaptive Aufmerksamkeitskalibrierung abmildern | 通过适应性关注校准减轻大型视觉语言模型中的幻觉 [2505.21472v1](http://arxiv.org/abs/2505.21472v1)
 
 **Authors**: Mehrdad Fazli, Bowen Wei, Ziwei Zhu
@@ -6866,6 +7416,7 @@ Large vision-language models (LVLMs) achieve impressive performance on multimoda
 
 ## Article 550
 ### Title@2025-05-27 (2): Scaling External Knowledge Input Beyond Context Windows of LLMs via   Multi-Agent Collaboration
+
 **Title**: Scaling External Knowledge Input Beyond Context Windows of LLMs via   Multi-Agent Collaboration | Skalierung externer Wissenseingaben über Kontext hinaus Windows von LLMs über Multi-Agent Collaboration | 通过多机构协作,在LLMM LMLM的 " 背景视窗 " 之外扩大外部知识投入 [2505.21471v1](http://arxiv.org/abs/2505.21471v1)
 
 **Authors**: Zijun Liu, Zhennan Wan, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Yang Liu
@@ -6876,6 +7427,7 @@ With the rapid advancement of post-training techniques for reasoning and informa
 
 ## Article 551
 ### Title@2025-05-27 (2): Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large   Reasoning Models
+
 **Title**: Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large   Reasoning Models | Jenseits von 'Aha!': Auf dem Weg zu systematischen Meta-Fähigkeiten Ausrichtung in großen vernünftigen Modellen | 超越“Aha! ” : 在大理由模型中实现系统化的元能力协调 [2505.10554v2](http://arxiv.org/abs/2505.10554v2)
 
 **Authors**: Zhiyuan Hu, Yibo Wang, Hanze Dong, Yuhui Xu, Amrita Saha, Caiming Xiong, Bryan Hooi, Junnan Li
@@ -6886,6 +7438,7 @@ Large reasoning models (LRMs) already possess a latent capacity for long chain-o
 
 ## Article 552
 ### Title@2025-05-27 (2): Accelerating Diffusion Language Model Inference via Efficient KV Caching   and Guided Diffusion
+
 **Title**: Accelerating Diffusion Language Model Inference via Efficient KV Caching   and Guided Diffusion | Beschleunigung der Diffusions-Sprachmodell-Inferenz durch effizientes KV-Caching und geführte Diffusion | 通过高效的 KV 抓取和引导传播加速传播语言模式模型推导 [2505.21467v1](http://arxiv.org/abs/2505.21467v1)
 
 **Authors**: Zhanqiu Hu, Jian Meng, Yash Akhauri, Mohamed S. Abdelfattah, Jae-sun Seo, Zhiru Zhang, Udit Gupta
@@ -6896,6 +7449,7 @@ Diffusion language models offer parallel token generation and inherent bidirecti
 
 ## Article 553
 ### Title@2025-05-27 (2): Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future   Directions
+
 **Title**: Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future   Directions | Erinnerung an KI neu denken: Taxonomie, Operationen, Themen und Zukunftsrichtungen | AI:分类、操作、专题和未来方向 [2505.00675v2](http://arxiv.org/abs/2505.00675v2)
 
 **Authors**: Yiming Du, Wenyu Huang, Danna Zheng, Zhaowei Wang, Sebastien Montella, Mirella Lapata, Kam-Fai Wong, Jeff Z. Pan
@@ -6906,6 +7460,7 @@ Memory is a fundamental component of AI systems, underpinning large language mod
 
 ## Article 554
 ### Title@2025-05-27 (2): GeLLMO: Generalizing Large Language Models for Multi-property Molecule   Optimization
+
 **Title**: GeLLMO: Generalizing Large Language Models for Multi-property Molecule   Optimization | GeLLMO: Verallgemeinern von großen Sprachmodellen für Multi-Property-Molekül-Optimierung | GELLMO:通用多财产分子优化大语言模型 [2502.13398v2](http://arxiv.org/abs/2502.13398v2)
 
 **Authors**: Vishal Dey, Xiao Hu, Xia Ning
@@ -6916,6 +7471,7 @@ Despite recent advancements, most computational methods for molecule optimizatio
 
 ## Article 555
 ### Title@2025-05-27 (2): ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution   Adaptation in Vision-Language Models
+
 **Title**: ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution   Adaptation in Vision-Language Models | ID-Align: RoPE-Conscious Position Remapping für dynamische High-Resolution-Anpassung in Vision-Language-Modellen | 愿景语言模型中动态高分辨率适应的重新绘图 [2505.21465v1](http://arxiv.org/abs/2505.21465v1)
 
 **Authors**: Bozhou Li, Wentao Zhang
@@ -6926,6 +7482,7 @@ Currently, a prevalent approach for enhancing Vision-Language Models (VLMs) perf
 
 ## Article 556
 ### Title@2025-05-27 (2): Do LLMs Need to Think in One Language? Correlation between Latent   Language and Task Performance
+
 **Title**: Do LLMs Need to Think in One Language? Correlation between Latent   Language and Task Performance | Müssen LLMs in einer Sprache denken? Korrelation zwischen latenter Sprache und Aufgabenleistung | LLM女士需要用一种语言思考吗? [2505.21458v1](http://arxiv.org/abs/2505.21458v1)
 
 **Authors**: Shintaro Ozaki, Tatsuya Hiraoka, Hiroto Otake, Hiroki Ouchi, Masaru Isonuma, Benjamin Heinzerling, Kentaro Inui, Taro Watanabe, Yusuke Miyao, Yohei Oseki, Yu Takagi
@@ -6936,6 +7493,7 @@ Large Language Models (LLMs) are known to process information using a proficient
 
 ## Article 557
 ### Title@2025-05-27 (2): Thinking beyond the anthropomorphic paradigm benefits LLM research
+
 **Title**: Thinking beyond the anthropomorphic paradigm benefits LLM research | Über das anthropomorphe Paradigma hinaus denken Vorteile der LLM-Forschung | 超越人类形态范式的思考 [2502.09192v2](http://arxiv.org/abs/2502.09192v2)
 
 **Authors**: Lujain Ibrahim, Myra Cheng
@@ -6946,6 +7504,7 @@ Anthropomorphism, or the attribution of human traits to technology, is an automa
 
 ## Article 558
 ### Title@2025-05-27 (2): Words Like Knives: Backstory-Personalized Modeling and Detection of   Violent Communication
+
 **Title**: Words Like Knives: Backstory-Personalized Modeling and Detection of   Violent Communication | Worte wie Messer: Rückseitig-Personalisierte Modellierung und Erkennung von gewalttätiger Kommunikation | 象Knives这样的词:后台化个人化和暴力通信建模和侦查 [2505.21451v1](http://arxiv.org/abs/2505.21451v1)
 
 **Authors**: Jocelyn Shen, Akhila Yerukola, Xuhui Zhou, Cynthia Breazeal, Maarten Sap, Hae Won Park
@@ -6956,6 +7515,7 @@ Conversational breakdowns in close relationships are deeply shaped by personal h
 
 ## Article 559
 ### Title@2025-05-27 (2): One-shot Entropy Minimization
+
 **Title**: One-shot Entropy Minimization | Ein Schuss Entropie Minimierung | 单向最小化 Entropy 最小化 [2505.20282v2](http://arxiv.org/abs/2505.20282v2)
 
 **Authors**: Zitian Gao, Lynx Chen, Joey Zhou, Bryan Dai
@@ -6966,6 +7526,7 @@ We trained 13,440 large language models and found that entropy minimization requ
 
 ## Article 560
 ### Title@2025-05-27 (2): When Two LLMs Debate, Both Think They'll Win
+
 **Title**: When Two LLMs Debate, Both Think They'll Win | Wenn zwei LLMs diskutieren, denken beide, dass sie gewinnen werden | 当两个LLM 辩论, 双方都认为他们会赢 [2505.19184v2](http://arxiv.org/abs/2505.19184v2)
 
 **Authors**: Pradyumna Shyama Prasad, Minh Nhat Nguyen
@@ -6976,6 +7537,7 @@ Can LLMs accurately adjust their confidence when facing opposition? Building on 
 
 ## Article 561
 ### Title@2025-05-27 (2): Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM   Outputs
+
 **Title**: Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM   Outputs | Die Hitze aufdrehen: Min-p-Sampling für kreative und kohärente LLM-Ausgaben | 翻开热热:创意和一致的LLM产出的最小抽样 [2407.01082v6](http://arxiv.org/abs/2407.01082v6)
 
 **Authors**: Minh Nhat Nguyen, Andrew Baker, Clement Neo, Allen Roush, Andreas Kirsch, Ravid Shwartz-Ziv
@@ -6986,6 +7548,7 @@ Large Language Models (LLMs) generate text by sampling the next token from a pro
 
 ## Article 562
 ### Title@2025-05-27 (2): ANCHOLIK-NER: A Benchmark Dataset for Bangla Regional Named Entity   Recognition
+
 **Title**: ANCHOLIK-NER: A Benchmark Dataset for Bangla Regional Named Entity   Recognition | ANCHOLIK-NER: Ein Benchmark-Datensatz für Bangla Regional Named Entity Recognition | ANCHOLIK-NER:孟加拉地区命名实体识别基准数据集 [2502.11198v3](http://arxiv.org/abs/2502.11198v3)
 
 **Authors**: Bidyarthi Paul, Faika Fairuj Preotee, Shuvashis Sarker, Shamim Rahim Refat, Shifat Islam, Tashreef Muhammad, Mohammad Ashraful Hoque, Shahriar Manzoor
@@ -6996,6 +7559,7 @@ Named Entity Recognition (NER) in regional dialects is a critical yet underexplo
 
 ## Article 563
 ### Title@2025-05-27 (2): Towards Better Instruction Following Retrieval Models
+
 **Title**: Towards Better Instruction Following Retrieval Models | Auf dem Weg zu einer besseren Instruktion nach den Modellen des Wiedereintritts | 在检索模型后改进教学 [2505.21439v1](http://arxiv.org/abs/2505.21439v1)
 
 **Authors**: Yuchen Zhuang, Aaron Trinh, Rushi Qiang, Haotian Sun, Chao Zhang, Hanjun Dai, Bo Dai
@@ -7006,6 +7570,7 @@ Modern information retrieval (IR) models, trained exclusively on standard <query
 
 ## Article 564
 ### Title@2025-05-27 (2): Agentic Medical Knowledge Graphs Enhance Medical Question Answering:   Bridging the Gap Between LLMs and Evolving Medical Knowledge
+
 **Title**: Agentic Medical Knowledge Graphs Enhance Medical Question Answering:   Bridging the Gap Between LLMs and Evolving Medical Knowledge | Agentisches medizinisches Wissen Grafiken verbessern medizinische Frageantworten: Die Lücke zwischen LLMs und sich entwickelndem medizinischem Wissen überbrücken | 药用知识图加强医疗问题的回答:缩小LLMM与不断发展的医学知识之间的差距 [2502.13010v2](http://arxiv.org/abs/2502.13010v2)
 
 **Authors**: Mohammad Reza Rezaei, Reza Saadati Fard, Rahul G. Krishnan, Milad Lankarany
@@ -7016,6 +7581,7 @@ Large Language Models (LLMs) have significantly advanced medical question-answer
 
 ## Article 565
 ### Title@2025-05-27 (2): Transparent and Coherent Procedural Mistake Detection
+
 **Title**: Transparent and Coherent Procedural Mistake Detection | Transparente und kohärente Verfahrensfehlererkennung | 透明和一致的程序错误侦测 [2412.11927v2](http://arxiv.org/abs/2412.11927v2)
 
 **Authors**: Shane Storks, Itamar Bar-Yossef, Yayuan Li, Zheyuan Zhang, Jason J. Corso, Joyce Chai
@@ -7026,6 +7592,7 @@ Procedural mistake detection (PMD) is a challenging problem of classifying wheth
 
 ## Article 566
 ### Title@2025-05-27 (2): R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large   Model Token Routing
+
 **Title**: R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large   Model Token Routing | R2R: Effizientes Navigieren unterschiedlicher Vernunftpfade mit klein-großen Model Token Routing | R2R: 以小型模型调速器有效导航差异性理性路径 [2505.21600v1](http://arxiv.org/abs/2505.21600v1)
 
 **Authors**: Tianyu Fu, Yi Ge, Yichen You, Enshu Liu, Zhihang Yuan, Guohao Dai, Shengen Yan, Huazhong Yang, Yu Wang
@@ -7036,6 +7603,7 @@ Large Language Models (LLMs) achieve impressive reasoning capabilities at the co
 
 ## Article 567
 ### Title@2025-05-27 (2): Rethinking Data Mixture for Large Language Models: A Comprehensive   Survey and New Perspectives
+
 **Title**: Rethinking Data Mixture for Large Language Models: A Comprehensive   Survey and New Perspectives | Datenmixtur für große Sprachmodelle neu denken: Eine umfassende Umfrage und neue Perspektiven | 重新思考大语言模型的数据组合:全面调查和新视角 [2505.21598v1](http://arxiv.org/abs/2505.21598v1)
 
 **Authors**: Yajiao Liu, Congliang Chen, Junchi Yang, Ruoyu Sun
@@ -7046,6 +7614,7 @@ Training large language models with data collected from various domains can impr
 
 ## Article 568
 ### Title@2025-05-27 (2): A Lightweight Method to Disrupt Memorized Sequences in LLM
+
 **Title**: A Lightweight Method to Disrupt Memorized Sequences in LLM | Eine leichte Methode zum Disruptieren von gemerkten Sequenzen in LLM | LLM 中破坏记忆序列的轻量方法 [2502.05159v2](http://arxiv.org/abs/2502.05159v2)
 
 **Authors**: Parjanya Prajakta Prashant, Kaustubh Ponkshe, Babak Salimi
@@ -7056,6 +7625,7 @@ As language models scale, their performance improves dramatically across a wide 
 
 ## Article 569
 ### Title@2025-05-27 (2): Can Large Language Models Understand Symbolic Graphics Programs?
+
 **Title**: Can Large Language Models Understand Symbolic Graphics Programs? | Können große Sprachmodelle symbolische Grafikprogramme verstehen? | 大语言模型能理解符号图形程序吗? [2408.08313v4](http://arxiv.org/abs/2408.08313v4)
 
 **Authors**: Zeju Qiu, Weiyang Liu, Haiwen Feng, Zhen Liu, Tim Z. Xiao, Katherine M. Collins, Joshua B. Tenenbaum, Adrian Weller, Michael J. Black, Bernhard Schölkopf
@@ -7066,6 +7636,7 @@ Against the backdrop of enthusiasm for large language models (LLMs), there is a 
 
 ## Article 570
 ### Title@2025-05-27 (2): Efficiently Scaling LLM Reasoning with Certaindex
+
 **Title**: Efficiently Scaling LLM Reasoning with Certaindex | Effiziente Skalierung der LLM-Vernunft mit bestimmtem Dex | 高效扩增 LLM 使用 emitedex 说明 [2412.20993v2](http://arxiv.org/abs/2412.20993v2)
 
 **Authors**: Yichao Fu, Junda Chen, Siqi Zhu, Zheyu Fu, Zhongdongming Dai, Yonghao Zhuang, Yian Ma, Aurick Qiao, Tajana Rosing, Ion Stoica, Hao Zhang
@@ -7076,6 +7647,7 @@ Test-time reasoning algorithms such as chain-of-thought, self-consistency, and M
 
 ## Article 571
 ### Title@2025-05-27 (2): RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation
+
 **Title**: RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation | RefTool: Modellverbesserung mit referenzgeführter Werkzeugerstellung | RefTool:在创建参考指导工具时加强示范理由 [2505.21413v1](http://arxiv.org/abs/2505.21413v1)
 
 **Authors**: Xiao Liu, Da Yin, Zirui Wu, Yansong Feng
@@ -7086,6 +7658,7 @@ Tools enhance the reasoning capabilities of large language models (LLMs) in comp
 
 ## Article 572
 ### Title@2025-05-27 (2): How to Protect Yourself from 5G Radiation? Investigating LLM Responses   to Implicit Misinformation
+
 **Title**: How to Protect Yourself from 5G Radiation? Investigating LLM Responses   to Implicit Misinformation | Wie man sich vor 5G Strahlung schützt? LLM-Antworten auf Implizite Fehlinformationen untersuchen | 如何保护自己免受5G辐射? 调查隐蔽的错误信息的LLM反应 [2503.09598v2](http://arxiv.org/abs/2503.09598v2)
 
 **Authors**: Ruohao Guo, Wei Xu, Alan Ritter
@@ -7096,6 +7669,7 @@ As Large Language Models (LLMs) are widely deployed in diverse scenarios, the ex
 
 ## Article 573
 ### Title@2025-05-27 (2): RelationalFactQA: A Benchmark for Evaluating Tabular Fact Retrieval from   Large Language Models
+
 **Title**: RelationalFactQA: A Benchmark for Evaluating Tabular Fact Retrieval from   Large Language Models | RelationalFactQA: Ein Benchmark für die Bewertung tabellarischer Fakten aus großen Sprachmodellen | 关系事实QA:从大语言模型中评估列表事实检索的基准 [2505.21409v1](http://arxiv.org/abs/2505.21409v1)
 
 **Authors**: Dario Satriani, Enzo Veltri, Donatello Santoro, Paolo Papotti
@@ -7106,6 +7680,7 @@ Factuality in Large Language Models (LLMs) is a persistent challenge. Current be
 
 ## Article 574
 ### Title@2025-05-27 (2): Factual Self-Awareness in Language Models: Representation, Robustness,   and Scaling
+
 **Title**: Factual Self-Awareness in Language Models: Representation, Robustness,   and Scaling | Factual Self-Awareness in Sprachmodellen: Repräsentation, Robustheit und Skalierung | 语言模式中的事实自觉意识:代表性、强力和比例 [2505.21399v1](http://arxiv.org/abs/2505.21399v1)
 
 **Authors**: Hovhannes Tamoyan, Subhabrata Dutta, Iryna Gurevych
@@ -7116,6 +7691,7 @@ Factual incorrectness in generated content is one of the primary concerns in ubi
 
 ## Article 575
 ### Title@2025-05-27 (2): DecisionFlow: Advancing Large Language Model as Principled Decision   Maker
+
 **Title**: DecisionFlow: Advancing Large Language Model as Principled Decision   Maker | DecisionFlow: Großes Sprachmodell als prinzipieller Entscheidungsträger voranbringen | 决定Flow:作为有原则的决策人推进大语言模式 [2505.21397v1](http://arxiv.org/abs/2505.21397v1)
 
 **Authors**: Xiusi Chen, Shanyong Wang, Cheng Qian, Hongru Wang, Peixuan Han, Heng Ji
@@ -7126,6 +7702,7 @@ In high-stakes domains such as healthcare and finance, effective decision-making
 
 ## Article 576
 ### Title@2025-05-27 (2): Leveraging Large Language Models for Active Merchant Non-player   Characters
+
 **Title**: Leveraging Large Language Models for Active Merchant Non-player   Characters | Nutzung großer Sprachmodelle für aktive Händler Nicht-Spieler-Charaktere | 利用大型语言模型为活跃的商机非玩家字符发挥杠杆作用 [2412.11189v3](http://arxiv.org/abs/2412.11189v3)
 
 **Authors**: Byungjun Kim, Minju Kim, Dayeon Seo, Bugeun Kim
@@ -7136,6 +7713,7 @@ We highlight two significant issues leading to the passivity of current merchant
 
 ## Article 577
 ### Title@2025-05-27 (2): Improving Research Idea Generation Through Data: An Empirical   Investigation in Social Science
+
 **Title**: Improving Research Idea Generation Through Data: An Empirical   Investigation in Social Science | Verbesserung der Forschungsideenerzeugung durch Daten: Eine empirische Untersuchung in der Sozialwissenschaft | 《通过数据改进研究概念的产生:社会科学经验调查》 [2505.21396v1](http://arxiv.org/abs/2505.21396v1)
 
 **Authors**: Xiao Liu, Xinyi Dong, Xinyang Gao, Yansong Feng, Xun Pang
@@ -7146,6 +7724,7 @@ Recent advancements in large language models (LLMs) have shown promise in genera
 
 ## Article 578
 ### Title@2025-05-27 (2): Align-SLM: Textless Spoken Language Models with Reinforcement Learning   from AI Feedback
+
 **Title**: Align-SLM: Textless Spoken Language Models with Reinforcement Learning   from AI Feedback | Align-SLM: Textlose gesprochene Sprachmodelle mit Verstärkung Lernen von KI Feedback | Aleign-SLM-Align-SLM:利用AI反馈学习强化的无文字口语模式 [2411.01834v2](http://arxiv.org/abs/2411.01834v2)
 
 **Authors**: Guan-Ting Lin, Prashanth Gurunath Shivakumar, Aditya Gourav, Yile Gu, Ankur Gandhe, Hung-yi Lee, Ivan Bulyko
@@ -7156,6 +7735,7 @@ While textless Spoken Language Models (SLMs) have shown potential in end-to-end 
 
 ## Article 579
 ### Title@2025-05-27 (2): AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of   MLLMs
+
 **Title**: AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of   MLLMs | AutoJudger: Ein agentengestütztes Framework für effizientes Benchmarking von MLLMs | Autojudger: MLLMs 高效基准设定的代理驱动框架 [2505.21389v1](http://arxiv.org/abs/2505.21389v1)
 
 **Authors**: Xuanwen Ding, Chengjun Pan, Zejun Li, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
@@ -7166,6 +7746,7 @@ Evaluating multimodal large language models (MLLMs) is increasingly expensive, a
 
 ## Article 580
 ### Title@2025-05-27 (2): VoxEval: Benchmarking the Knowledge Understanding Capabilities of   End-to-End Spoken Language Models
+
 **Title**: VoxEval: Benchmarking the Knowledge Understanding Capabilities of   End-to-End Spoken Language Models | VoxEval: Benchmarking des Wissensverständnisses Fähigkeiten von End-to-End gesprochenen Sprachmodellen | VoxEval:确定端至端口语语言模式知识理解能力基准 [2501.04962v4](http://arxiv.org/abs/2501.04962v4)
 
 **Authors**: Wenqian Cui, Xiaoqi Jiao, Ziqiao Meng, Irwin King
@@ -7176,6 +7757,7 @@ With the rising need for speech-based interaction models, end-to-end Spoken Lang
 
 ## Article 581
 ### Title@2025-05-27 (2): PHISH in MESH: Korean Adversarial Phonetic Substitution and   Phonetic-Semantic Feature Integration Defense
+
 **Title**: PHISH in MESH: Korean Adversarial Phonetic Substitution and   Phonetic-Semantic Feature Integration Defense | PHISH in MESH: Koreanische Adversarial Phonetische Substitution und phonetisch-semantische Feature-Integration Verteidigung | MESH的PHISH:韩国反电话替代和音-声-声-声-声-声-声-声-地物融合国防 [2505.21380v1](http://arxiv.org/abs/2505.21380v1)
 
 **Authors**: Byungjun Kim, Minju Kim, Hyeonchu Park, Bugeun Kim
@@ -7186,6 +7768,7 @@ As malicious users increasingly employ phonetic substitution to evade hate speec
 
 ## Article 582
 ### Title@2025-05-27 (2): Analyzing values about gendered language reform in LLMs' revisions
+
 **Title**: Analyzing values about gendered language reform in LLMs' revisions | Analysieren von Werten über die Reform der Geschlechtersprachen in LLM-Revisionen | 在LLLM女士的修订中分析关于性别语言改革的价值观 [2505.21378v1](http://arxiv.org/abs/2505.21378v1)
 
 **Authors**: Jules Watson, Xi Wang, Raymond Liu, Suzanne Stevenson, Barend Beekhuizen
@@ -7196,6 +7779,7 @@ Within the common LLM use case of text revision, we study LLMs' revision of gend
 
 ## Article 583
 ### Title@2025-05-27 (2): Path Pooling: Training-Free Structure Enhancement for Efficient   Knowledge Graph Retrieval-Augmented Generation
+
 **Title**: Path Pooling: Training-Free Structure Enhancement for Efficient   Knowledge Graph Retrieval-Augmented Generation | Pfad-Pooling: Training-freie Struktur-Verbesserung für effizientes Wissen Graph Retrieval-Augmented Generation | 集路道路:为高效知识图检索-启动型一代加强培训-免费结构 [2503.05203v2](http://arxiv.org/abs/2503.05203v2)
 
 **Authors**: Hairu Wang, Yuan Feng, Xike Xie, S Kevin Zhou
@@ -7206,6 +7790,7 @@ Although Large Language Models achieve strong success in many tasks, they still 
 
 ## Article 584
 ### Title@2025-05-27 (2): Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs.   Dialogue History
+
 **Title**: Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs.   Dialogue History | LLM-Anpassung an soziodemographische Faktoren bewerten: Benutzerprofil vs. Dialoggeschichte | 评价LLLM适应社会人口因素:用户概况与对话历史 [2505.21362v1](http://arxiv.org/abs/2505.21362v1)
 
 **Authors**: Qishuai Zhong, Zongmin Li, Siqi Fan, Aixin Sun
@@ -7216,6 +7801,7 @@ Effective engagement by large language models (LLMs) requires adapting responses
 
 ## Article 585
 ### Title@2025-05-27 (2): Select2Reason: Efficient Instruction-Tuning Data Selection for Long-CoT   Reasoning
+
 **Title**: Select2Reason: Efficient Instruction-Tuning Data Selection for Long-CoT   Reasoning | Select2Reason: Effiziente Instruction-Tuning-Datenauswahl für Long-CoT-Reasoning | 选择2Reason: 用于长期成本计算理由的高效指令导出数据选择 [2505.17266v2](http://arxiv.org/abs/2505.17266v2)
 
 **Authors**: Cehao Yang, Xueyuan Lin, Chengjin Xu, Xuhui Jiang, Xiaojun Wu, Honghao Liu, Hui Xiong, Jian Guo
@@ -7226,6 +7812,7 @@ A practical approach to activate long chain-of-thoughts reasoning ability in pre
 
 ## Article 586
 ### Title@2025-05-27 (2): Frequency matters: Modeling irregular morphological patterns in Spanish   with Transformers
+
 **Title**: Frequency matters: Modeling irregular morphological patterns in Spanish   with Transformers | Häufigkeitsfragen: Modellierung unregelmäßiger morphologischer Muster auf Spanisch mit Transformern | 频率事项:用变换器模拟西班牙文的非正常形态模式 [2410.21013v4](http://arxiv.org/abs/2410.21013v4)
 
 **Authors**: Akhilesh Kakolu Ramarao, Kevin Tang, Dinah Baer-Henney
@@ -7236,6 +7823,7 @@ Over the past decade, various studies have addressed how speakers solve the so-c
 
 ## Article 587
 ### Title@2025-05-27 (2): Leveraging Large Language Models for Bengali Math Word Problem Solving   with Chain of Thought Reasoning
+
 **Title**: Leveraging Large Language Models for Bengali Math Word Problem Solving   with Chain of Thought Reasoning | Nutzung von großen Sprachmodellen für Bengalische Mathematik-Wort-Probleme bei der Lösung der Kette der Gedankenveranlagung | 利用大语言模型解决孟加拉语数学字词与思维链理性的解决问题 [2505.21354v1](http://arxiv.org/abs/2505.21354v1)
 
 **Authors**: Bidyarthi Paul, Jalisha Jashim Era, Mirazur Rahman Zim, Tahmid Sattar Aothoi, Faisal Muhammad Shah
@@ -7246,6 +7834,7 @@ Solving Bengali Math Word Problems (MWPs) remains a major challenge in natural l
 
 ## Article 588
 ### Title@2025-05-27 (2): The Multilingual Divide and Its Impact on Global AI Safety
+
 **Title**: The Multilingual Divide and Its Impact on Global AI Safety | Die Mehrsprachigkeit und ihre Auswirkungen auf die globale KI-Sicherheit | 多语言鸿沟及其对全球独立国际协会安全的影响 [2505.21344v1](http://arxiv.org/abs/2505.21344v1)
 
 **Authors**: Aidan Peppin, Julia Kreutzer, Alice Schoenauer Sebag, Kelly Marchisio, Beyza Ermis, John Dang, Samuel Cahyawijaya, Shivalika Singh, Seraphina Goldfarb-Tarrant, Viraat Aryabumi, Aakanksha, Wei-Yin Ko, Ahmet Üstün, Matthias Gallé, Marzieh Fadaee, Sara Hooker
@@ -7256,6 +7845,7 @@ Despite advances in large language model capabilities in recent years, a large g
 
 ## Article 589
 ### Title@2025-05-27 (2): Leveraging large language models and traditional machine learning   ensembles for ADHD detection from narrative transcripts
+
 **Title**: Leveraging large language models and traditional machine learning   ensembles for ADHD detection from narrative transcripts | Nutzung großer Sprachmodelle und traditioneller Machine-Learning-Ensembles zur ADHD-Erkennung aus erzählerischen Transkripten | 利用大型语言模式和传统机器学习群群,从叙述性记录誊本中探测ADHD [2505.21324v1](http://arxiv.org/abs/2505.21324v1)
 
 **Authors**: Yuxin Zhu, Yuting Guo, Noah Marchuck, Abeed Sarker, Yun Wang
@@ -7266,6 +7856,7 @@ Despite rapid advances in large language models (LLMs), their integration with t
 
 ## Article 590
 ### Title@2025-05-27 (2): Interlocking-free Selective Rationalization Through Genetic-based   Learning
+
 **Title**: Interlocking-free Selective Rationalization Through Genetic-based   Learning | Interlocking-free Selektive Rationalisierung durch gentechnisch-basiertes Lernen | 通过基于遗传的学习实现互连、无互闭和无互换的选择性合理化 [2412.10312v2](http://arxiv.org/abs/2412.10312v2)
 
 **Authors**: Federico Ruggeri, Gaetano Signorelli
@@ -7276,6 +7867,7 @@ A popular end-to-end architecture for selective rationalization is the select-th
 
 ## Article 591
 ### Title@2025-05-27 (2): Optimizing fMRI Data Acquisition for Decoding Natural Speech with   Limited Participants
+
 **Title**: Optimizing fMRI Data Acquisition for Decoding Natural Speech with   Limited Participants | Optimierung der fMRI-Datenerfassung für die Dekodierung von Natural Speech mit begrenzten Teilnehmern | 优化FMRI数据获取,以便与有限参加者进行自然演讲 [2505.21304v1](http://arxiv.org/abs/2505.21304v1)
 
 **Authors**: Louis Jalouzot, Alexis Thual, Yair Lakretz, Christophe Pallier, Bertrand Thirion
@@ -7286,6 +7878,7 @@ We investigate optimal strategies for decoding perceived natural speech from fMR
 
 ## Article 592
 ### Title@2025-05-27 (2): How Humans and LLMs Organize Conceptual Knowledge: Exploring Subordinate   Categories in Italian
+
 **Title**: How Humans and LLMs Organize Conceptual Knowledge: Exploring Subordinate   Categories in Italian | Wie Menschen und LLMs konzeptionelles Wissen organisieren: Untergeordnete Kategorien auf Italienisch erforschen | 人类和LLMs如何组织概念知识:探索意大利的次类 [2505.21301v1](http://arxiv.org/abs/2505.21301v1)
 
 **Authors**: Andrea Pedrotti, Giulia Rambelli, Caterina Villani, Marianna Bolognesi
@@ -7296,6 +7889,7 @@ People can categorize the same entity at multiple taxonomic levels, such as basi
 
 ## Article 593
 ### Title@2025-05-27 (2): rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale   Verified Dataset
+
 **Title**: rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale   Verified Dataset | rStar-Coder: Scaling Competitive Code Reasoning mit einem Large-Scale Verifizierten Datensatz | rStar-Coder:扩大竞争守则,以大型核实数据集为依据 [2505.21297v1](http://arxiv.org/abs/2505.21297v1)
 
 **Authors**: Yifei Liu, Li Lyna Zhang, Yi Zhu, Bingcheng Dong, Xudong Zhou, Ning Shang, Fan Yang, Mao Yang
@@ -7306,6 +7900,7 @@ Advancing code reasoning in large language models (LLMs) is fundamentally limite
 
 ## Article 594
 ### Title@2025-05-27 (2): OR-Bench: An Over-Refusal Benchmark for Large Language Models
+
 **Title**: OR-Bench: An Over-Refusal Benchmark for Large Language Models | OR-Bench: Ein überwiderlegbarer Benchmark für große Sprachmodelle | OR-Bench:大语言模式的过度拒绝基准 [2405.20947v4](http://arxiv.org/abs/2405.20947v4)
 
 **Authors**: Justin Cui, Wei-Lin Chiang, Ion Stoica, Cho-Jui Hsieh
@@ -7316,6 +7911,7 @@ Large Language Models (LLMs) require careful safety alignment to prevent malicio
 
 ## Article 595
 ### Title@2025-05-27 (2): Towards Adapting Open-Source Large Language Models for Expert-Level   Clinical Note Generation
+
 **Title**: Towards Adapting Open-Source Large Language Models for Expert-Level   Clinical Note Generation | Auf dem Weg zur Anpassung von Open Source großen Sprachmodellen für die Erstellung klinischer Notizen auf Expertenebene | 努力调整用于专家级临床笔记制作的开放源大语言模型 [2405.00715v6](http://arxiv.org/abs/2405.00715v6)
 
 **Authors**: Hanyin Wang, Chufan Gao, Bolun Liu, Qiping Xu, Guleid Hussein, Mohamad El Labban, Kingsley Iheasirim, Hariprasad Korsapati, Chuck Outcalt, Jimeng Sun
@@ -7326,6 +7922,7 @@ Proprietary Large Language Models (LLMs) such as GPT-4 and Gemini have demonstra
 
 ## Article 596
 ### Title@2025-05-27 (2): MMUnlearner: Reformulating Multimodal Machine Unlearning in the Era of   Multimodal Large Language Models
+
 **Title**: MMUnlearner: Reformulating Multimodal Machine Unlearning in the Era of   Multimodal Large Language Models | MMUnlearner: Reformulierung multimodaler Maschinenentlernen im Zeitalter multimodaler großer Sprachmodelle | MMULALINER:在多模式大语言模式时代重新推出多模式机器 [2502.11051v4](http://arxiv.org/abs/2502.11051v4)
 
 **Authors**: Jiahao Huo, Yibo Yan, Xu Zheng, Yuanhuiyi Lyu, Xin Zou, Zhihua Wei, Xuming Hu
@@ -7336,6 +7933,7 @@ Recent progress in Machine Unlearning (MU) has introduced solutions for the sele
 
 ## Article 597
 ### Title@2025-05-27 (2): SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs
+
 **Title**: SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs | SoftCoT: Soft Chain-of-Thought für effizientes Nachdenken mit LLMs | SoftCot: 寻求与LLMs高效合理解释的软链 [2502.12134v2](http://arxiv.org/abs/2502.12134v2)
 
 **Authors**: Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao
@@ -7346,6 +7944,7 @@ Chain-of-Thought (CoT) reasoning enables Large Language Models (LLMs) to solve c
 
 ## Article 598
 ### Title@2025-05-27 (2): Fine-Tuning on Diverse Reasoning Chains Drives Within-Inference CoT   Refinement in LLMs
+
 **Title**: Fine-Tuning on Diverse Reasoning Chains Drives Within-Inference CoT   Refinement in LLMs | Feintuning auf unterschiedlichen aufschlussreichen Ketten treibt die Inferenz CoT-Verfeinerung in LLMs an | 对多种有理链条的精细调整 [2407.03181v2](http://arxiv.org/abs/2407.03181v2)
 
 **Authors**: Haritz Puerto, Tilek Chubakov, Xiaodan Zhu, Harish Tayyar Madabushi, Iryna Gurevych
@@ -7356,6 +7955,7 @@ Requiring a large language model (LLM) to generate intermediary reasoning steps,
 
 ## Article 599
 ### Title@2025-05-27 (2): Multilingual Pretraining for Pixel Language Models
+
 **Title**: Multilingual Pretraining for Pixel Language Models | Mehrsprachiges Vortraining für Pixel-Sprachenmodelle | 多语种像素语言模型的多语种预培训 [2505.21265v1](http://arxiv.org/abs/2505.21265v1)
 
 **Authors**: Ilker Kesen, Jonas F. Lotz, Ingo Ziegler, Phillip Rust, Desmond Elliott
@@ -7366,6 +7966,7 @@ Pixel language models operate directly on images of rendered text, eliminating t
 
 ## Article 600
 ### Title@2025-05-27 (2): SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning
+
 **Title**: SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning | SoftCoT++: Testzeitskalierung mit Soft Chain-of-Thought-Reasoning | SoftCot++: 带有软思考链原因的测试时间缩放 [2505.11484v2](http://arxiv.org/abs/2505.11484v2)
 
 **Authors**: Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao
@@ -7376,6 +7977,7 @@ Test-Time Scaling (TTS) refers to approaches that improve reasoning performance 
 
 ## Article 601
 ### Title@2025-05-27 (2): ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question   Answering with Relevance-Consistency Supervision
+
 **Title**: ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question   Answering with Relevance-Consistency Supervision | ReSCORE: Labelfreies iteratives Retriever-Training für Multi-Hop-Fragebeantwortung mit Relevanz-Konsistenz-Überwachung | RESCO:无标签的与相关性-一致性监督多窗口问题解答培训的循环探索性探索性培训 [2505.21250v1](http://arxiv.org/abs/2505.21250v1)
 
 **Authors**: Dosung Lee, Wonjun Oh, Boyoung Kim, Minyoung Kim, Joonsuk Park, Paul Hongsuck Seo
@@ -7386,6 +7988,7 @@ Multi-hop question answering (MHQA) involves reasoning across multiple documents
 
 ## Article 602
 ### Title@2025-05-27 (2): Evaluation of LLMs in Medical Text Summarization: The Role of Vocabulary   Adaptation in High OOV Settings
+
 **Title**: Evaluation of LLMs in Medical Text Summarization: The Role of Vocabulary   Adaptation in High OOV Settings | Bewertung von LLMs in medizinischen Textzusammenfassungen: Die Rolle der Vokabelanpassung in hohen OOV-Einstellungen | 医学文本摘要:词汇适应在高OOV环境中的作用 [2505.21242v1](http://arxiv.org/abs/2505.21242v1)
 
 **Authors**: Gunjan Balde, Soumyadeep Roy, Mainack Mondal, Niloy Ganguly
@@ -7396,6 +7999,7 @@ Large Language Models (LLMs) recently achieved great success in medical text sum
 
 ## Article 603
 ### Title@2025-05-27 (2): LMCD: Language Models are Zeroshot Cognitive Diagnosis Learners
+
 **Title**: LMCD: Language Models are Zeroshot Cognitive Diagnosis Learners | LMCD: Sprachmodelle sind Nullshot Kognitive Diagnose Lernende | LMCD: 语言模型是零光认知诊断学生 [2505.21239v1](http://arxiv.org/abs/2505.21239v1)
 
 **Authors**: Yu He, Zihan Yao, Chentao Song, Tianyu Qi, Jun Liu, Ming Li, Qing Huang
@@ -7406,6 +8010,7 @@ Cognitive Diagnosis (CD) has become a critical task in AI-empowered education, s
 
 ## Article 604
 ### Title@2025-05-27 (2): RASMALAI: Resources for Adaptive Speech Modeling in Indian Languages   with Accents and Intonations
+
 **Title**: RASMALAI: Resources for Adaptive Speech Modeling in Indian Languages   with Accents and Intonations | RASMALAI: Ressourcen für adaptive Sprachmodellierung in indischen Sprachen mit Akzenten und Intonationen | RASMAALAI:以印地安语言制作具有感应和感应的适应性演讲模型的资源 [2505.18609v2](http://arxiv.org/abs/2505.18609v2)
 
 **Authors**: Ashwin Sankar, Yoach Lacombe, Sherry Thomas, Praveen Srinivasa Varadhan, Sanchit Gandhi, Mitesh M Khapra
@@ -7416,6 +8021,7 @@ We introduce RASMALAI, a large-scale speech dataset with rich text descriptions,
 
 ## Article 605
 ### Title@2025-05-27 (2): Language Models Surface the Unwritten Code of Science and Society
+
 **Title**: Language Models Surface the Unwritten Code of Science and Society | Sprachenmodelle stellen den ungeschriebenen Kodex von Wissenschaft und Gesellschaft dar | 《不成文科学与社会守则》 [2505.18942v2](http://arxiv.org/abs/2505.18942v2)
 
 **Authors**: Honglin Bao, Siyang Wu, Jiwoong Choi, Yingrong Mao, James A. Evans
@@ -7426,6 +8032,7 @@ This paper calls on the research community not only to investigate how human bia
 
 ## Article 606
 ### Title@2025-05-27 (2): GALLa: Graph Aligned Large Language Models for Improved Source Code   Understanding
+
 **Title**: GALLa: Graph Aligned Large Language Models for Improved Source Code   Understanding | GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding | GALLa:改进源代码理解的通用大语言模型图 [2409.04183v2](http://arxiv.org/abs/2409.04183v2)
 
 **Authors**: Ziyin Zhang, Hang Yu, Shijie Li, Peng Di, Jianguo Li, Rui Wang
@@ -7436,6 +8043,7 @@ Programming languages possess rich semantic information - such as data flow - th
 
 ## Article 607
 ### Title@2025-05-27 (2): PSRB: A Comprehensive Benchmark for Evaluating Persian ASR Systems
+
 **Title**: PSRB: A Comprehensive Benchmark for Evaluating Persian ASR Systems | PSRB: Ein umfassender Benchmark für die Bewertung persischer ASR-Systeme | PSRB:波斯ASR系统评价综合基准 [2505.21230v1](http://arxiv.org/abs/2505.21230v1)
 
 **Authors**: Nima Sedghiyeh, Sara Sadeghi, Reza Khodadadi, Farzin Kashani, Omid Aghdaei, Somayeh Rahimi, Mohammad Sadegh Safari
@@ -7446,6 +8054,7 @@ Although Automatic Speech Recognition (ASR) systems have become an integral part
 
 ## Article 608
 ### Title@2025-05-27 (2): A Representation Level Analysis of NMT Model Robustness to Grammatical   Errors
+
 **Title**: A Representation Level Analysis of NMT Model Robustness to Grammatical   Errors | Eine Darstellungsebenenanalyse von NMT-Modell Robustheit zu grammatischen Fehlern | 对NMT模型模型对表面错误的强度代表级别分析 [2505.21224v1](http://arxiv.org/abs/2505.21224v1)
 
 **Authors**: Abderrahmane Issam, Yusuf Can Semerci, Jan Scholtes, Gerasimos Spanakis
@@ -7456,6 +8065,7 @@ Understanding robustness is essential for building reliable NLP systems. Unfortu
 
 ## Article 609
 ### Title@2025-05-27 (2): Pretrained LLMs Learn Multiple Types of Uncertainty
+
 **Title**: Pretrained LLMs Learn Multiple Types of Uncertainty | Pretrained LLMs lernen mehrere Arten von Unsicherheit | 事先培训的LLMs 学习多种不确定性 [2505.21218v1](http://arxiv.org/abs/2505.21218v1)
 
 **Authors**: Roi Cohen, Omri Fahn, Gerard de Melo
@@ -7466,6 +8076,7 @@ Large Language Models are known to capture real-world knowledge, allowing them t
 
 ## Article 610
 ### Title@2025-05-27 (2): SCIRGC: Multi-Granularity Citation Recommendation and Citation Sentence   Preference Alignment
+
 **Title**: SCIRGC: Multi-Granularity Citation Recommendation and Citation Sentence   Preference Alignment | SCIRGC: Multi-Granularitäts-Zitation Empfehlung und Zitation Sentence Preference Alignment | SCIRGC: 多岛屿引文建议和引文句次调整 [2505.20103v2](http://arxiv.org/abs/2505.20103v2)
 
 **Authors**: Xiangyu Li, Jingqiang Chen
@@ -7476,6 +8087,7 @@ Citations are crucial in scientific research articles as they highlight the conn
 
 ## Article 611
 ### Title@2025-05-27 (2): Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for   Frozen LLMs
+
 **Title**: Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for   Frozen LLMs | Universal Reasoner: Ein einfacher, komponierbarer Plug-and-Play-Reasoner für gefrorene LLMs | 通用理由:冻结长效LMs的单一、可合成插管和布局理由 [2505.19075v2](http://arxiv.org/abs/2505.19075v2)
 
 **Authors**: Jaemin Kim, Hangeol Chang, Hyunmin Hwang, Choonghan Kim, Jong Chul Ye
@@ -7486,6 +8098,7 @@ Large Language Models (LLMs) have demonstrated remarkable general capabilities, 
 
 ## Article 612
 ### Title@2025-05-27 (2): Voting or Consensus? Decision-Making in Multi-Agent Debate
+
 **Title**: Voting or Consensus? Decision-Making in Multi-Agent Debate | Abstimmung oder Konsens? Entscheidungsfindung in Multi-Agent-Debatte | 表决还是协商一致?多机构辩论中的决策 [2502.19130v2](http://arxiv.org/abs/2502.19130v2)
 
 **Authors**: Lars Benedikt Kaesberg, Jonas Becker, Jan Philip Wahle, Terry Ruas, Bela Gipp
@@ -7496,6 +8109,7 @@ Much of the success of multi-agent debates depends on carefully choosing the rig
 
 ## Article 613
 ### Title@2025-05-27 (2): Unveiling Instruction-Specific Neurons & Experts: An Analytical   Framework for LLM's Instruction-Following Capabilities
+
 **Title**: Unveiling Instruction-Specific Neurons & Experts: An Analytical   Framework for LLM's Instruction-Following Capabilities | Enthüllen von instruction-spezifischen Neuronen & Experten: Ein analytischer Rahmen für die instruction-following Fähigkeiten von LLM | 具体未完成的指示性具体神经和专家:LLM教学-执行能力分析框架 [2505.21191v1](http://arxiv.org/abs/2505.21191v1)
 
 **Authors**: Junyan Zhang, Yubo Gao, Yibo Yan, Jungang Li, Zhaorui Hou, Sicheng Tao, Shuliang Liu, Song Dai, Yonghua Hei, Junzhuo Li, Xuming Hu
@@ -7506,6 +8120,7 @@ The finetuning of Large Language Models (LLMs) has significantly advanced their 
 
 ## Article 614
 ### Title@2025-05-27 (2): Lunguage: A Benchmark for Structured and Sequential Chest X-ray   Interpretation
+
 **Title**: Lunguage: A Benchmark for Structured and Sequential Chest X-ray   Interpretation | Lunguage: Ein Benchmark für strukturierte und sequentielle Chest-Röntgen-Interpretation | Lunguage:结构化和顺序式X射线X射线口译基准 [2505.21190v1](http://arxiv.org/abs/2505.21190v1)
 
 **Authors**: Jong Hak Moon, Geon Choi, Paloma Rabaey, Min Gwan Kim, Hyuk Gi Hong, Jung-Oh Lee, Hangyul Yoon, Eun Woo Doe, Jiyoun Kim, Harshita Sharma, Daniel C. Castro, Javier Alvarez-Valle, Edward Choi
@@ -7516,6 +8131,7 @@ Radiology reports convey detailed clinical observations and capture diagnostic r
 
 ## Article 615
 ### Title@2025-05-27 (2): Exploring the Latent Capacity of LLMs for One-Step Text Generation
+
 **Title**: Exploring the Latent Capacity of LLMs for One-Step Text Generation | Erforschung der Latent-Kapazität von LLMs für die einstufige Textgenerierung | 探索单步制文本生成LLMs的原始能力 [2505.21189v1](http://arxiv.org/abs/2505.21189v1)
 
 **Authors**: Gleb Mezentsev, Ivan Oseledets
@@ -7526,6 +8142,7 @@ A recent study showed that large language models (LLMs) can reconstruct surprisi
 
 ## Article 616
 ### Title@2025-05-27 (2): PoisonSwarm: Universal Harmful Information Synthesis via Model   Crowdsourcing
+
 **Title**: PoisonSwarm: Universal Harmful Information Synthesis via Model   Crowdsourcing | GiftSwarm: Universal Harmful Information Synthesis via Model Crowdsourcing | 毒物群:通过示范众包普及有害信息合成 [2505.21184v1](http://arxiv.org/abs/2505.21184v1)
 
 **Authors**: Yu Yan, Sheng Sun, Zhifei Zheng, Ziji Hao, Teli Liu, Min Liu
@@ -7536,6 +8153,7 @@ To construct responsible and secure AI applications, harmful information data is
 
 ## Article 617
 ### Title@2025-05-27 (2): Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning
+
 **Title**: Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning | Gehen Sie, bevor Sie laufen! Concise LLM Reasoning via Verstärkung Learning | 走在跑步前! 通过强化学习解密 LLM 教学 [2505.21178v1](http://arxiv.org/abs/2505.21178v1)
 
 **Authors**: Mingyang Song, Mao Zheng
@@ -7546,6 +8164,7 @@ As test-time scaling becomes a pivotal research frontier in Large Language Model
 
 ## Article 618
 ### Title@2025-05-27 (2): TAT-R1: Terminology-Aware Translation with Reinforcement Learning and   Word Alignment
+
 **Title**: TAT-R1: Terminology-Aware Translation with Reinforcement Learning and   Word Alignment | TAT-R1: Terminologie-Bewusste Übersetzung mit Verstärkungslernen und Wortausrichtung | TAT-R1:用强化学习和字词一致来翻译名词-软件 [2505.21172v1](http://arxiv.org/abs/2505.21172v1)
 
 **Authors**: Zheng Li, Mao Zheng, Mingyang Song, Wenjie Yang
@@ -7556,6 +8175,7 @@ Recently, deep reasoning large language models(LLMs) like DeepSeek-R1 have made 
 
 ## Article 619
 ### Title@2025-05-27 (2): M-Wanda: Improving One-Shot Pruning for Multilingual LLMs
+
 **Title**: M-Wanda: Improving One-Shot Pruning for Multilingual LLMs | M-Wanda: Bessere One-Shot Pruning für mehrsprachige LLMs | M-Wanda:改进多语种LLM的单制环流 [2505.21171v1](http://arxiv.org/abs/2505.21171v1)
 
 **Authors**: Rochelle Choenni, Ivan Titov
@@ -7566,6 +8186,7 @@ Multilingual LLM performance is often critically dependent on model size. With a
 
 ## Article 620
 ### Title@2025-05-27 (2): Leveraging GANs for citation intent classification and its impact on   citation network analysis
+
 **Title**: Leveraging GANs for citation intent classification and its impact on   citation network analysis | Nutzung von GANs für die Klassifizierung von Zitierzielen und deren Auswirkungen auf die Analyse von Zitiernetzwerken | 利用GANs利用GANs进行引用意图分类及其对引用网络分析的影响 [2505.21162v1](http://arxiv.org/abs/2505.21162v1)
 
 **Authors**: Davi A. Bezerra, Filipi N. Silva, Diego R. Amancio
@@ -7576,6 +8197,7 @@ Citations play a fundamental role in the scientific ecosystem, serving as a foun
 
 ## Article 621
 ### Title@2025-05-27 (2): Behavioral Analysis of Information Salience in Large Language Models
+
 **Title**: Behavioral Analysis of Information Salience in Large Language Models | Verhaltensanalyse des Informationsgehalts in großen Sprachmodellen | 对大语言模式信息价值的行为分析 [2502.14613v2](http://arxiv.org/abs/2502.14613v2)
 
 **Authors**: Jan Trienes, Jörg Schlötterer, Junyi Jessy Li, Christin Seifert
@@ -7586,6 +8208,7 @@ Large Language Models (LLMs) excel at text summarization, a task that requires m
 
 ## Article 622
 ### Title@2025-05-27 (2): Assessment of L2 Oral Proficiency using Speech Large Language Models
+
 **Title**: Assessment of L2 Oral Proficiency using Speech Large Language Models | Bewertung der oralen Sprachkenntnisse von L2 anhand von sprachgroßen Sprachmodellen | 使用语言大语言模式评估L2口语能力 [2505.21148v1](http://arxiv.org/abs/2505.21148v1)
 
 **Authors**: Rao Ma, Mengjie Qian, Siyuan Tang, Stefano Bannò, Kate M. Knill, Mark J. F. Gales
@@ -7596,6 +8219,7 @@ The growing population of L2 English speakers has increased the demand for devel
 
 ## Article 623
 ### Title@2025-05-27 (2): Adaptive Deep Reasoning: Triggering Deep Thinking When Needed
+
 **Title**: Adaptive Deep Reasoning: Triggering Deep Thinking When Needed | Adaptive Deep Reasoning: Tief denken auslösen, wenn nötig | 适应性深层理性:需要时触发深思考 [2505.20101v2](http://arxiv.org/abs/2505.20101v2)
 
 **Authors**: Yunhao Wang, Yuhao Zhang, Tinghao Yu, Can Xu, Feng Zhang, Fengzong Lian
@@ -7606,6 +8230,7 @@ Large language models (LLMs) have shown impressive capabilities in handling comp
 
 ## Article 624
 ### Title@2025-05-27 (2): Hallucinations are inevitable but can be made statistically negligible.   The "innate" inevitability of hallucinations cannot explain practical LLM   issues
+
 **Title**: Hallucinations are inevitable but can be made statistically negligible.   The "innate" inevitability of hallucinations cannot explain practical LLM   issues | Halluzinationen sind unvermeidlich, können aber statistisch vernachlässigbar gemacht werden. Die "angeborene" Unvermeidbarkeit von Halluzinationen kann praktische LLM-Probleme nicht erklären | 幻觉的“内在”不可避免性无法解释实际的LLM问题。 [2502.12187v2](http://arxiv.org/abs/2502.12187v2)
 
 **Authors**: Atsushi Suzuki, Yulan He, Feng Tian, Zhongyuan Wang
@@ -7616,6 +8241,7 @@ Hallucinations, a phenomenon where a language model (LM) generates nonfactual co
 
 ## Article 625
 ### Title@2025-05-27 (2): Leveraging LLM and Self-Supervised Training Models for Speech   Recognition in Chinese Dialects: A Comparative Analysis
+
 **Title**: Leveraging LLM and Self-Supervised Training Models for Speech   Recognition in Chinese Dialects: A Comparative Analysis | Leveraging LLM und selbstüberwachte Trainingsmodelle für die Spracherkennung in chinesischen Dialekten: Eine vergleichende Analyse | 利用LLM和中国语语音识别自驾培训模式:比较分析 [2505.21138v1](http://arxiv.org/abs/2505.21138v1)
 
 **Authors**: Tianyi Xu, Hongjie Chen, Wang Qing, Lv Hang, Jian Kang, Li Jie, Zhennan Lin, Yongxiang Li, Xie Lei
@@ -7626,6 +8252,7 @@ Large-scale training corpora have significantly improved the performance of ASR 
 
 ## Article 626
 ### Title@2025-05-27 (2): Scaling and Prompting for Improved End-to-End Spoken Grammatical Error   Correction
+
 **Title**: Scaling and Prompting for Improved End-to-End Spoken Grammatical Error   Correction | Scaling und Prompting für eine verbesserte Korrektur von End-to-End-Spoken-grammatischen Fehlern | 缩放和提示改进端至端口语语语法错误校正 [2505.21137v1](http://arxiv.org/abs/2505.21137v1)
 
 **Authors**: Mengjie Qian, Rao Ma, Stefano Bannò, Kate M. Knill, Mark J. F. Gales
@@ -7636,6 +8263,7 @@ Spoken Grammatical Error Correction (SGEC) and Feedback (SGECF) are crucial for 
 
 ## Article 627
 ### Title@2025-05-27 (2): Efficient Length-Generalizable Attention via Causal Retrieval for   Long-Context Language Modeling
+
 **Title**: Efficient Length-Generalizable Attention via Causal Retrieval for   Long-Context Language Modeling | Effiziente Längenverallgemeinerbare Aufmerksamkeit über Causal Retrieval für die Lang-Kontext-Sprachenmodellierung | 长文本语言建模通过 " 目的检索 " 吸引长文本语言建模 [2410.01651v3](http://arxiv.org/abs/2410.01651v3)
 
 **Authors**: Xiang Hu, Zhihao Teng, Jun Zhao, Wei Wu, Kewei Tu
@@ -7646,6 +8274,7 @@ Despite the success of Transformers, handling long contexts remains challenging 
 
 ## Article 628
 ### Title@2025-05-27 (2): Creativity in LLM-based Multi-Agent Systems: A Survey
+
 **Title**: Creativity in LLM-based Multi-Agent Systems: A Survey | Kreativität in LLM-basierten Multi-Agent-Systemen: Eine Umfrage | 以LLM为基础的多种机构系统中的创造性:调查 [2505.21116v1](http://arxiv.org/abs/2505.21116v1)
 
 **Authors**: Yi-Cheng Lin, Kang-Chieh Chen, Zhe-Yan Li, Tzu-Heng Wu, Tzu-Hsuan Wu, Kuan-Yu Chen, Hung-yi Lee, Yun-Nung Chen
@@ -7656,6 +8285,7 @@ Large language model (LLM)-driven multi-agent systems (MAS) are transforming how
 
 ## Article 629
 ### Title@2025-05-27 (2): Will It Still Be True Tomorrow? Multilingual Evergreen Question   Classification to Improve Trustworthy QA
+
 **Title**: Will It Still Be True Tomorrow? Multilingual Evergreen Question   Classification to Improve Trustworthy QA | Wird es morgen noch wahr sein? Mehrsprachige Evergreen-Frageklassifikation zur Verbesserung des Vertrauenswürdigen QA | 提高可信赖的质量保证的多语种长青问题分类 [2505.21115v1](http://arxiv.org/abs/2505.21115v1)
 
 **Authors**: Sergey Pletenev, Maria Marina, Nikolay Ivanov, Daria Galimzianova, Nikita Krayko, Mikhail Salnikov, Vasily Konovalov, Alexander Panchenko, Viktor Moskvoretskii
@@ -7666,6 +8296,7 @@ Large Language Models (LLMs) often hallucinate in question answering (QA) tasks.
 
 ## Article 630
 ### Title@2025-05-27 (2): Does quantization affect models' performance on long-context tasks?
+
 **Title**: Does quantization affect models' performance on long-context tasks? | Beeinflusst die Quantisierung die Performance von Modellen bei langen Kontextaufgaben? | 量化是否影响模型在长期任务方面的绩效? [2505.20276v2](http://arxiv.org/abs/2505.20276v2)
 
 **Authors**: Anmol Mekala, Anirudh Atmakuru, Yixiao Song, Marzena Karpinska, Mohit Iyyer
@@ -7676,6 +8307,7 @@ Large language models (LLMs) now support context windows exceeding 128K tokens, 
 
 ## Article 631
 ### Title@2025-05-27 (2): A Lightweight Multi-Expert Generative Language Model System for   Engineering Information and Knowledge Extraction
+
 **Title**: A Lightweight Multi-Expert Generative Language Model System for   Engineering Information and Knowledge Extraction | Ein leichtes Multi-Expert Generatives Sprachmodellsystem für Engineering Information and Knowledge Extraction | 工程信息和知识采掘轻量多专家生成语言示范系统 [2505.21109v1](http://arxiv.org/abs/2505.21109v1)
 
 **Authors**: Bogdan Bogachov, Yaoyao Fiona Zhao
@@ -7686,6 +8318,7 @@ Despite recent advancements in domain adaptation techniques for large language m
 
 ## Article 632
 ### Title@2025-05-27 (2): Thinker: Learning to Think Fast and Slow
+
 **Title**: Thinker: Learning to Think Fast and Slow | Denker: Schnell und langsam denken lernen | 思考者:学会快速和缓慢思考 [2505.21097v1](http://arxiv.org/abs/2505.21097v1)
 
 **Authors**: Stephen Chung, Wenyu Du, Jie Fu
@@ -7696,6 +8329,7 @@ Recent studies show that the reasoning capabilities of Large Language Models (LL
 
 ## Article 633
 ### Title@2025-05-27 (2): BLUCK: A Benchmark Dataset for Bengali Linguistic Understanding and   Cultural Knowledge
+
 **Title**: BLUCK: A Benchmark Dataset for Bengali Linguistic Understanding and   Cultural Knowledge | BLUCK: Ein Benchmark-Datensatz für Bengalische Sprachkenntnisse und kulturelles Wissen | BLUK:孟加拉语言理解和文化知识基准数据集 [2505.21092v1](http://arxiv.org/abs/2505.21092v1)
 
 **Authors**: Daeen Kabir, Minhajur Rahman Chowdhury Mahim, Sheikh Shafayat, Adnan Sadik, Arian Ahmed, Eunsu Kim, Alice Oh
@@ -7706,6 +8340,7 @@ In this work, we introduce BLUCK, a new dataset designed to measure the performa
 
 ## Article 634
 ### Title@2025-05-27 (2): Position is Power: System Prompts as a Mechanism of Bias in Large   Language Models (LLMs)
+
 **Title**: Position is Power: System Prompts as a Mechanism of Bias in Large   Language Models (LLMs) | Position ist Macht: Systemprompts als Mechanismus von Bias in großen Sprachmodellen (LLMs) | 位置是电源:系统提示作为大语言模型比阿语机制(LLMs) [2505.21091v1](http://arxiv.org/abs/2505.21091v1)
 
 **Authors**: Anna Neumann, Elisabeth Kirsten, Muhammad Bilal Zafar, Jatinder Singh
@@ -7716,6 +8351,7 @@ System prompts in Large Language Models (LLMs) are predefined directives that gu
 
 ## Article 635
 ### Title@2025-05-27 (2): Unleashing LLM Reasoning Capability via Scalable Question Synthesis from   Scratch
+
 **Title**: Unleashing LLM Reasoning Capability via Scalable Question Synthesis from   Scratch | Lösende LLM-Vernunftfähigkeit durch skalierbare Fragesynthese von Scratch | 从 Scratch 通过可缩放问题合成解排 LLM 解排功能性LLM [2410.18693v2](http://arxiv.org/abs/2410.18693v2)
 
 **Authors**: Yuyang Ding, Xinyu Shi, Xiaobo Liang, Juntao Li, Zhaopeng Tu, Qiaoming Zhu, Min Zhang
@@ -7726,6 +8362,7 @@ Improving the mathematical reasoning capabilities of Large Language Models (LLMs
 
 ## Article 636
 ### Title@2025-05-27 (2): Predicting Implicit Arguments in Procedural Video Instructions
+
 **Title**: Predicting Implicit Arguments in Procedural Video Instructions | Implizite Argumente in verfahrenstechnischen Video-Anweisungen voraussagen | 程序性录像教学中预测隐含的论据 [2505.21068v1](http://arxiv.org/abs/2505.21068v1)
 
 **Authors**: Anil Batra, Laura Sevilla-Lara, Marcus Rohrbach, Frank Keller
@@ -7736,6 +8373,7 @@ Procedural texts help AI enhance reasoning about context and action sequences. T
 
 ## Article 637
 ### Title@2025-05-27 (2): Plan2Align: Predictive Planning Based Test-Time Preference Alignment for   Large Language Models
+
 **Title**: Plan2Align: Predictive Planning Based Test-Time Preference Alignment for   Large Language Models | Plan2Align: Predictive Planning Based Test-Time Preference Alignment für große Sprachmodelle | 计划2对等:以预测规划为基础的大语言模型试验时间首选比对齐 [2502.20795v2](http://arxiv.org/abs/2502.20795v2)
 
 **Authors**: Kuang-Da Wang, Teng-Ruei Chen, Yu Heng Hung, Guo-Xun Ko, Shuoyang Ding, Yueh-Hua Wu, Yu-Chiang Frank Wang, Chao-Han Huck Yang, Wen-Chih Peng, Ping-Chun Hsieh
@@ -7746,6 +8384,7 @@ Aligning Large Language Models with Preference Fine-Tuning is often resource-int
 
 ## Article 638
 ### Title@2025-05-27 (2): Visual Cues Enhance Predictive Turn-Taking for Two-Party Human   Interaction
+
 **Title**: Visual Cues Enhance Predictive Turn-Taking for Two-Party Human   Interaction | Visuelle Queues verbessern vorausschauende Wende-Taking für zwei-Partei menschliche Interaktion | 提高两党人互动的预测转向 [2505.21043v1](http://arxiv.org/abs/2505.21043v1)
 
 **Authors**: Sam O'Connor Russell, Naomi Harte
@@ -7756,6 +8395,7 @@ Turn-taking is richly multimodal. Predictive turn-taking models (PTTMs) facilita
 
 ## Article 639
 ### Title@2025-05-27 (2): How Private are Language Models in Abstractive Summarization?
+
 **Title**: How Private are Language Models in Abstractive Summarization? | Wie privat sind Sprachmodelle in abstrakter Zusammenfassung? | 私人语言模式在抽象总结中如何? [2412.12040v2](http://arxiv.org/abs/2412.12040v2)
 
 **Authors**: Anthony Hughes, Ning Ma, Nikolaos Aletras
@@ -7766,6 +8406,7 @@ In sensitive domains such as medical and legal, protecting sensitive information
 
 ## Article 640
 ### Title@2025-05-27 (2): Debate-to-Detect: Reformulating Misinformation Detection as a Real-World   Debate with Large Language Models
+
 **Title**: Debate-to-Detect: Reformulating Misinformation Detection as a Real-World   Debate with Large Language Models | Debate-to-Detect: Neuformulieren von Fehlinformationserkennung als Real-World-Debatte mit großen Sprachmodellen | 辩论至检测:重拟错误信息探测作为有大语言模式的现实世界辩论 [2505.18596v2](http://arxiv.org/abs/2505.18596v2)
 
 **Authors**: Chen Han, Wenzhen Zheng, Xijin Tang
@@ -7776,6 +8417,7 @@ The proliferation of misinformation in digital platforms reveals the limitations
 
 ## Article 641
 ### Title@2025-05-27 (2): Optimizing Case-Based Reasoning System for Functional Test Script   Generation with Large Language Models
+
 **Title**: Optimizing Case-Based Reasoning System for Functional Test Script   Generation with Large Language Models | Optimierung des Case-Based-Reasoning-Systems für die Generierung funktionaler Testskripte mit großen Sprachmodellen | 为具有大语言模型的功能测试脚本生成优化基于个案的理由说明系统 [2503.20576v3](http://arxiv.org/abs/2503.20576v3)
 
 **Authors**: Siyuan Guo, Huiwu Liu, Xiaolong Chen, Yuming Xie, Liang Zhang, Tao Han, Hechang Chen, Yi Chang, Jun Wang
@@ -7786,6 +8428,7 @@ In this work, we explore the potential of large language models (LLMs) for gener
 
 ## Article 642
 ### Title@2025-05-27 (2): Def-DTS: Deductive Reasoning for Open-domain Dialogue Topic Segmentation
+
 **Title**: Def-DTS: Deductive Reasoning for Open-domain Dialogue Topic Segmentation | Def-DTS: Deduktive Begründung für Open-Domain Dialog Themensegmentierung | Def-DTS: 公开对话的削减理由 [2505.21033v1](http://arxiv.org/abs/2505.21033v1)
 
 **Authors**: Seungmin Lee, Yongsang Yoo, Minhwa Jung, Min Song
@@ -7796,6 +8439,7 @@ Dialogue Topic Segmentation (DTS) aims to divide dialogues into coherent segment
 
 ## Article 643
 ### Title@2025-05-27 (2): Pause Tokens Strictly Increase the Expressivity of Constant-Depth   Transformers
+
 **Title**: Pause Tokens Strictly Increase the Expressivity of Constant-Depth   Transformers | Pause Tokens erhöhen streng die Expressivität der konstant-tiefen Transformer | 严格提高常数面变换器的表达性 [2505.21024v1](http://arxiv.org/abs/2505.21024v1)
 
 **Authors**: Charles London, Varun Kanade
@@ -7806,6 +8450,7 @@ Pause tokens, simple filler symbols such as "...", consistently improve Transfor
 
 ## Article 644
 ### Title@2025-05-27 (2): Can Community Notes Replace Professional Fact-Checkers?
+
 **Title**: Can Community Notes Replace Professional Fact-Checkers? | Können Community Notes professionelle Fact-Checker ersetzen? | 社区说明能否取代专业实况调查人? [2502.14132v2](http://arxiv.org/abs/2502.14132v2)
 
 **Authors**: Nadav Borenstein, Greta Warren, Desmond Elliott, Isabelle Augenstein
@@ -7816,6 +8461,7 @@ Two commonly employed strategies to combat the rise of misinformation on social 
 
 ## Article 645
 ### Title@2025-05-27 (2): LLMs are Frequency Pattern Learners in Natural Language Inference
+
 **Title**: LLMs are Frequency Pattern Learners in Natural Language Inference | LLMs sind Frequency Pattern Learners in Natural Language Inferenz | LLMs是自然语言推断的频率模式学习者。 [2505.21011v1](http://arxiv.org/abs/2505.21011v1)
 
 **Authors**: Liang Cheng, Zhaowei Wang, Mark Steedman
@@ -7826,6 +8472,7 @@ While fine-tuning LLMs on NLI corpora improves their inferential performance, th
 
 ## Article 646
 ### Title@2025-05-27 (2): Tradeoffs Between Alignment and Helpfulness in Language Models with   Steering Methods
+
 **Title**: Tradeoffs Between Alignment and Helpfulness in Language Models with   Steering Methods | Kompromisse zwischen Ausrichtung und Hilfsbereitschaft in Sprachmodellen mit Lenkungsmethoden | 使用指导方法的语文模式的平衡兼顾和利弊取舍 [2401.16332v5](http://arxiv.org/abs/2401.16332v5)
 
 **Authors**: Yotam Wolf, Noam Wies, Dorin Shteyman, Binyamin Rothberg, Yoav Levine, Amnon Shashua
@@ -7836,6 +8483,7 @@ Language model alignment has become an important component of AI safety, allowin
 
 ## Article 647
 ### Title@2025-05-27 (2): Uncertainty Unveiled: Can Exposure to More In-context Examples Mitigate   Uncertainty for Large Language Models?
+
 **Title**: Uncertainty Unveiled: Can Exposure to More In-context Examples Mitigate   Uncertainty for Large Language Models? | Ungewissheit unverhüllt: Kann die Exposition gegenüber mehr In-Kontext-Beispielen Ungewissheit bei großen Sprachmodellen erhöhen? | 不确定性未消除:接触更多内置实例能减轻大语言模型的不确定性吗? [2505.21003v1](http://arxiv.org/abs/2505.21003v1)
 
 **Authors**: Yifei Wang, Yu Sheng, Linjing Li, Daniel Zeng
@@ -7846,6 +8494,7 @@ Recent advances in handling long sequences have facilitated the exploration of l
 
 ## Article 648
 ### Title@2025-05-27 (2): RvLLM: LLM Runtime Verification with Domain Knowledge
+
 **Title**: RvLLM: LLM Runtime Verification with Domain Knowledge | RvLLM: LLM Laufzeitverifizierung mit Domänenwissen | RvLLM: LLM 使用域知识运行时间校验 [2505.18585v2](http://arxiv.org/abs/2505.18585v2)
 
 **Authors**: Yedi Zhang, Sun Yi Emma, Annabelle Lee Jia En, Jin Song Dong
@@ -7856,6 +8505,7 @@ Large language models (LLMs) have emerged as a dominant AI paradigm due to their
 
 ## Article 649
 ### Title@2025-05-27 (2): Articulatory strategy in vowel production as a basis for speaker   discrimination
+
 **Title**: Articulatory strategy in vowel production as a basis for speaker   discrimination | Artikulatorische Strategie in der Vokalproduktion als Grundlage für die Diskriminierung von Sprechern | 元音制作的交替战略,作为议长歧视的基础 [2505.20995v1](http://arxiv.org/abs/2505.20995v1)
 
 **Authors**: Justin J. H. Lo, Patrycja Strycharczuk, Sam Kirkham
@@ -7866,6 +8516,7 @@ The way speakers articulate is well known to be variable across individuals whil
 
 ## Article 650
 ### Title@2025-05-27 (2): Who Reasons in the Large Language Models?
+
 **Title**: Who Reasons in the Large Language Models? | Wer begründet in den großen Sprachmodellen? | 大语言模型中谁的理由? [2505.20993v1](http://arxiv.org/abs/2505.20993v1)
 
 **Authors**: Jie Shao, Jianxin Wu
@@ -7876,6 +8527,7 @@ Despite the impressive performance of large language models (LLMs), the process 
 
 ## Article 651
 ### Title@2025-05-27 (2): LLMs with Industrial Lens: Deciphering the Challenges and Prospects -- A   Survey
+
 **Title**: LLMs with Industrial Lens: Deciphering the Challenges and Prospects -- A   Survey | LLMs mit Industrieobjektiv: Die Herausforderungen und Aussichten bestimmen -- Eine Umfrage | 与工业镜头的LLM:挑战与前景的解析 -- -- 调查 [2402.14558v2](http://arxiv.org/abs/2402.14558v2)
 
 **Authors**: Ashok Urlana, Charaka Vinayak Kumar, Ajeet Kumar Singh, Bala Mallikarjunarao Garlapati, Srinivasa Rao Chalamala, Rahul Mishra
@@ -7886,6 +8538,7 @@ Large language models (LLMs) have become the secret ingredient driving numerous 
 
 ## Article 652
 ### Title@2025-05-27 (2): RefAV: Towards Planning-Centric Scenario Mining
+
 **Title**: RefAV: Towards Planning-Centric Scenario Mining | RefAV: Auf dem Weg zum planerisch-zentralen Szenario Bergbau | RefAV: 走向规划中心情景采矿 [2505.20981v1](http://arxiv.org/abs/2505.20981v1)
 
 **Authors**: Cainan Davidson, Deva Ramanan, Neehar Peri
@@ -7896,6 +8549,7 @@ Autonomous Vehicles (AVs) collect and pseudo-label terabytes of multi-modal data
 
 ## Article 653
 ### Title@2025-05-27 (2): Evaluating and Steering Modality Preferences in Multimodal Large   Language Model
+
 **Title**: Evaluating and Steering Modality Preferences in Multimodal Large   Language Model | Bewertung und Steuerung von Modalitätseinstellungen im multimodalen Large Language Model | 评价和指导多式大语言模式模式模式模式模式模式模式的优惠 [2505.20977v1](http://arxiv.org/abs/2505.20977v1)
 
 **Authors**: Yu Zhang, Jinlong Ma, Yongshuai Hou, Xuefeng Bai, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang
@@ -7906,6 +8560,7 @@ Multimodal large language models (MLLMs) have achieved remarkable performance on
 
 ## Article 654
 ### Title@2025-05-27 (2): Contrastive Learning on LLM Back Generation Treebank for Cross-domain   Constituency Parsing
+
 **Title**: Contrastive Learning on LLM Back Generation Treebank for Cross-domain   Constituency Parsing | Kontrastives Lernen auf LLM Back Generation Treebank für Cross-Domain-Konstituenz Parsing | 在LLM 后一代植树库进行反向学习 [2505.20976v1](http://arxiv.org/abs/2505.20976v1)
 
 **Authors**: Peiming Guo, Meishan Zhang, Jianling Li, Min Zhang, Yue Zhang
@@ -7916,6 +8571,7 @@ Cross-domain constituency parsing is still an unsolved challenge in computationa
 
 ## Article 655
 ### Title@2025-05-27 (2): Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for   KGQA
+
 **Title**: Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for   KGQA | Reason-Align-Respond: LLM-Reasoning mit Wissensgraphen für KGQA ausrichten | 合理对称:KGQA以知识图表对称LLM [2505.20971v1](http://arxiv.org/abs/2505.20971v1)
 
 **Authors**: Xiangqing Shen, Fanfan Wang, Rui Xia
@@ -7926,6 +8582,7 @@ LLMs have demonstrated remarkable capabilities in complex reasoning tasks, yet t
 
 ## Article 656
 ### Title@2025-05-27 (2): Personalized Query Auto-Completion for Long and Short-Term Interests   with Adaptive Detoxification Generation
+
 **Title**: Personalized Query Auto-Completion for Long and Short-Term Interests   with Adaptive Detoxification Generation | Personalisierte Abfrage Auto-Completion für langfristige und kurzfristige Interessen mit adaptiver Entgiftung Generation | 适应性戒毒一代的长期和短期利益个人自问自动完成 [2505.20966v1](http://arxiv.org/abs/2505.20966v1)
 
 **Authors**: Zhibo Wang, Xiaoze Jiang, Zhiheng Qin, Enyun Yu, Han Li
@@ -7936,6 +8593,7 @@ Query auto-completion (QAC) plays a crucial role in modern search systems. Howev
 
 ## Article 657
 ### Title@2025-05-27 (2): HalluCounter: Reference-free LLM Hallucination Detection in the Wild!
+
 **Title**: HalluCounter: Reference-free LLM Hallucination Detection in the Wild! | HalluCounter: Reference-free LLM Halluzination Detection in the Wild! | 万圣节:无参考的LLM 幻觉探测在野外! [2503.04615v2](http://arxiv.org/abs/2503.04615v2)
 
 **Authors**: Ashok Urlana, Gopichand Kanumolu, Charaka Vinayak Kumar, Bala Mallikarjunarao Garlapati, Rahul Mishra
@@ -7946,6 +8604,7 @@ Response consistency-based, reference-free hallucination detection (RFHD) method
 
 ## Article 658
 ### Title@2025-05-27 (2): Context-Aware Content Moderation for German Newspaper Comments
+
 **Title**: Context-Aware Content Moderation for German Newspaper Comments | Context-Aware Content Moderation für die deutsche Zeitung Kommentare | 德国报纸评论的背景资料内容调控 [2505.20963v1](http://arxiv.org/abs/2505.20963v1)
 
 **Authors**: Felix Krejca, Tobias Kietreiber, Alexander Buchelt, Sebastian Neumaier
@@ -7956,6 +8615,7 @@ The increasing volume of online discussions requires advanced automatic content 
 
 ## Article 659
 ### Title@2025-05-27 (2): Research Community Perspectives on "Intelligence" and Large Language   Models
+
 **Title**: Research Community Perspectives on "Intelligence" and Large Language   Models | Forschungsgemeinschaftsperspektiven zu "Intelligenz" und großen Sprachmodellen | 关于“情报”和大语言模式的社区研究观点 [2505.20959v1](http://arxiv.org/abs/2505.20959v1)
 
 **Authors**: Bertram Højer, Terne Sasha Thorn Jakobsen, Anna Rogers, Stefan Heinrich
@@ -7966,6 +8626,7 @@ Despite the widespread use of ''artificial intelligence'' (AI) framing in Natura
 
 ## Article 660
 ### Title@2025-05-27 (2): More is not always better? Enhancing Many-Shot In-Context Learning with   Differentiated and Reweighting Objectives
+
 **Title**: More is not always better? Enhancing Many-Shot In-Context Learning with   Differentiated and Reweighting Objectives | Mehr ist nicht immer besser? Viel-Shot-In-Context-Lernen mit differenzierten und neugewichtigen Zielen verbessern | 越多越好,越多越好?用差异化和再加权目标,加强多热化的内流学习 [2501.04070v3](http://arxiv.org/abs/2501.04070v3)
 
 **Authors**: Xiaoqing Zhang, Ang Lv, Yuhan Liu, Flood Sung, Wei Liu, Jian Luan, Shuo Shang, Xiuying Chen, Rui Yan
@@ -7976,6 +8637,7 @@ Large language models (LLMs) excel at few-shot in-context learning (ICL) without
 
 ## Article 661
 ### Title@2025-05-27 (2): QwenLong-CPRS: Towards $\infty$-LLMs with Dynamic Context Optimization
+
 **Title**: QwenLong-CPRS: Towards $\infty$-LLMs with Dynamic Context Optimization | QwenLong-CPRS: Auf dem Weg zu $\infty$-LLMs mit dynamischer Kontextoptimierung | 20Long-CPRS:争取以动态环境优化实现美元/美元-LLMs [2505.18092v2](http://arxiv.org/abs/2505.18092v2)
 
 **Authors**: Weizhou Shen, Chenliang Li, Fanqi Wan, Shengyi Liao, Shaopeng Lai, Bo Zhang, Yingcheng Shi, Yuning Wu, Gang Fu, Zhansheng Li, Bin Yang, Ji Zhang, Fei Huang, Jingren Zhou, Ming Yan
@@ -7986,6 +8648,7 @@ This technical report presents QwenLong-CPRS, a context compression framework de
 
 ## Article 662
 ### Title@2025-05-27 (2): QwenLong-L1: Towards Long-Context Large Reasoning Models with   Reinforcement Learning
+
 **Title**: QwenLong-L1: Towards Long-Context Large Reasoning Models with   Reinforcement Learning | QwenLong-L1: Auf dem Weg zu einem langen Kontext Große Vernunftmodelle mit Stärkungslernen | QuwenLong-L1:寻求具有强化学习作用的长期大型理由模型 [2505.17667v2](http://arxiv.org/abs/2505.17667v2)
 
 **Authors**: Fanqi Wan, Weizhou Shen, Shengyi Liao, Yingcheng Shi, Chenliang Li, Ziyi Yang, Ji Zhang, Fei Huang, Jingren Zhou, Ming Yan
@@ -7996,6 +8659,7 @@ Recent large reasoning models (LRMs) have demonstrated strong reasoning capabili
 
 ## Article 663
 ### Title@2025-05-27 (2): Two Experts Are All You Need for Steering Thinking: Reinforcing   Cognitive Effort in MoE Reasoning Models Without Additional Training
+
 **Title**: Two Experts Are All You Need for Steering Thinking: Reinforcing   Cognitive Effort in MoE Reasoning Models Without Additional Training | Zwei Experten sind alles, was Sie zum Lenken Denken brauchen: Kognitive Bemühungen in MoE-Reasoning-Modellen ohne zusätzliches Training verstärken | 两位专家是指导思考所需要的两个专家:在没有额外培训的情况下加强教育部理由说明模式中的认知努力 [2505.14681v2](http://arxiv.org/abs/2505.14681v2)
 
 **Authors**: Mengru Wang, Xingyu Chen, Yue Wang, Zhiwei He, Jiahao Xu, Tian Liang, Qiuzhi Liu, Yunzhi Yao, Wenxuan Wang, Ruotian Ma, Haitao Mi, Ningyu Zhang, Zhaopeng Tu, Xiaolong Li, Dong Yu
@@ -8006,6 +8670,7 @@ Mixture-of-Experts (MoE) architectures within Large Reasoning Models (LRMs) have
 
 ## Article 664
 ### Title@2025-05-27 (2): Conversational Code Generation: a Case Study of Designing a Dialogue   System for Generating Driving Scenarios for Testing Autonomous Vehicles
+
 **Title**: Conversational Code Generation: a Case Study of Designing a Dialogue   System for Generating Driving Scenarios for Testing Autonomous Vehicles | Conversational Code Generation: eine Fallstudie zur Konzeption eines Dialogsystems zur Generierung von Fahrszenarien für die Prüfung autonomer Fahrzeuge | 相互交流的代码生成:设计一个对话系统,为测试自用车辆创造驱动情景的对话系统案例研究 [2410.09829v2](http://arxiv.org/abs/2410.09829v2)
 
 **Authors**: Rimvydas Rubavicius, Antonio Valerio Miceli-Barone, Alex Lascarides, Subramanian Ramamoorthy
@@ -8016,6 +8681,7 @@ Cyber-physical systems like autonomous vehicles are tested in simulation before 
 
 ## Article 665
 ### Title@2025-05-27 (2): On VLMs for Diverse Tasks in Multimodal Meme Classification
+
 **Title**: On VLMs for Diverse Tasks in Multimodal Meme Classification | Auf VLMs für vielfältige Aufgaben in der multimodalen Meme-Klassifikation | 关于多式气象分类中多种任务VLMs [2505.20937v1](http://arxiv.org/abs/2505.20937v1)
 
 **Authors**: Deepesh Gavit, Debajyoti Mazumder, Samiran Das, Jasabanta Patro
@@ -8026,6 +8692,7 @@ In this paper, we present a comprehensive and systematic analysis of vision-lang
 
 ## Article 666
 ### Title@2025-05-27 (2): EPIC: Efficient Position-Independent Caching for Serving Large Language   Models
+
 **Title**: EPIC: Efficient Position-Independent Caching for Serving Large Language   Models | EPIC: Effizientes positionsunabhängiges Caching für das Servieren großer Sprachmodelle | EPIC: 高效的、独立定位的为大语言模式服务的工作 [2410.15332v3](http://arxiv.org/abs/2410.15332v3)
 
 **Authors**: Junhao Hu, Wenrui Huang, Weidong Wang, Haoyi Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie
@@ -8036,6 +8703,7 @@ Large Language Models (LLMs) show great capabilities in a wide range of applicat
 
 ## Article 667
 ### Title@2025-05-27 (2): Information-Theoretic Complementary Prompts for Improved Continual Text   Classification
+
 **Title**: Information-Theoretic Complementary Prompts for Improved Continual Text   Classification | Information-Theoretische Ergänzungsprompte für eine verbesserte fortlaufende Textklassifikation | 改进持续性文本分类信息理论补充提示 [2505.20933v1](http://arxiv.org/abs/2505.20933v1)
 
 **Authors**: Duzhen Zhang, Yong Ren, Chenxing Li, Dong Yu, Tielin Zhang
@@ -8046,6 +8714,7 @@ Continual Text Classification (CTC) aims to continuously classify new text data 
 
 ## Article 668
 ### Title@2025-05-27 (2): Multi-objective Large Language Model Alignment with Hierarchical Experts
+
 **Title**: Multi-objective Large Language Model Alignment with Hierarchical Experts | Multi-objektive großsprachige Modellausrichtung mit Hierarchischen Experten | 多目标大语言多目标模式,与等级专家相配合 [2505.20925v1](http://arxiv.org/abs/2505.20925v1)
 
 **Authors**: Zhuo Li, Guodong Du, Weiyang Guo, Yigeng Zhou, Xiucheng Li, Wenya Wang, Fangming Liu, Yequan Wang, Deheng Ye, Min Zhang, Jing Li
@@ -8056,6 +8725,7 @@ Aligning large language models (LLMs) to simultaneously satisfy multiple objecti
 
 ## Article 669
 ### Title@2025-05-27 (2): "Oh LLM, I'm Asking Thee, Please Give Me a Decision Tree": Zero-Shot   Decision Tree Induction and Embedding with Large Language Models
+
 **Title**: "Oh LLM, I'm Asking Thee, Please Give Me a Decision Tree": Zero-Shot   Decision Tree Induction and Embedding with Large Language Models | "Oh LLM, ich frage dich, bitte gib mir einen Entscheidungsbaum": Nullschnelle Entscheidungsbauminduktion und Einbettung mit großen Sprachmodellen | "哦,LLM,我问你,请给我一棵决定树": "零热决定树上演和嵌入大语言模型" [2409.18594v2](http://arxiv.org/abs/2409.18594v2)
 
 **Authors**: Ricardo Knauer, Mario Koddenbrock, Raphael Wallsberger, Nicholas M. Brisson, Georg N. Duda, Deborah Falla, David W. Evans, Erik Rodner
@@ -8066,6 +8736,7 @@ Large language models (LLMs) provide powerful means to leverage prior knowledge 
 
 ## Article 670
 ### Title@2025-05-27 (2): Automated Privacy Information Annotation in Large Language Model   Interactions
+
 **Title**: Automated Privacy Information Annotation in Large Language Model   Interactions | Automatisierte Datenschutzerklärung Annotation in Interaktionen mit großen Sprachmodellen | 大语言模式互动中自动隐私信息说明 [2505.20910v1](http://arxiv.org/abs/2505.20910v1)
 
 **Authors**: Hang Zeng, Xiangyu Liu, Yong Hu, Chaoyue Niu, Fan Wu, Shaojie Tang, Guihai Chen
@@ -8076,6 +8747,7 @@ Users interacting with large language models (LLMs) under their real identifiers
 
 ## Article 671
 ### Title@2025-05-27 (2): Towards Objective Fine-tuning: How LLMs' Prior Knowledge Causes   Potential Poor Calibration?
+
 **Title**: Towards Objective Fine-tuning: How LLMs' Prior Knowledge Causes   Potential Poor Calibration? | Auf dem Weg zu einer objektiven Feinabstimmung: Wie verursacht LLMs' vorheriges Wissen eine potenzielle schlechte Kalibrierung? | 目标微调:LLMS的先前知识原因如何造成潜在的不协调? [2505.20903v1](http://arxiv.org/abs/2505.20903v1)
 
 **Authors**: Ziming Wang, Zeyu Shi, Haoyi Zhou, Shiqi Gao, Qingyun Sun, Jianxin Li
@@ -8086,6 +8758,7 @@ Fine-tuned Large Language Models (LLMs) often demonstrate poor calibration, with
 
 ## Article 672
 ### Title@2025-05-27 (2): A Stereotype Content Analysis on Color-related Social Bias in Large   Vision Language Models
+
 **Title**: A Stereotype Content Analysis on Color-related Social Bias in Large   Vision Language Models | Eine Stereotyp-Inhaltsanalyse zu farbbezogenen sozialen Bias in großen Visions-Sprachmodellen | 关于大视觉语言模式中与肤色有关的社会偏见的定型内容分析 [2505.20901v1](http://arxiv.org/abs/2505.20901v1)
 
 **Authors**: Junhyuk Choi, Minju Kim, Yeseon Hong, Bugeun Kim
@@ -8096,6 +8769,7 @@ As large vision language models(LVLMs) rapidly advance, concerns about their pot
 
 ## Article 673
 ### Title@2025-05-27 (2): Dub-S2ST: Textless Speech-to-Speech Translation for Seamless Dubbing
+
 **Title**: Dub-S2ST: Textless Speech-to-Speech Translation for Seamless Dubbing | Dub-S2ST: Textlose Sprach-zu-Sprach-Übersetzung für nahtloses Synchronisieren | Dub-S2ST: 无缝Dubbing无文本语音翻译 [2505.20899v1](http://arxiv.org/abs/2505.20899v1)
 
 **Authors**: Jeongsoo Choi, Jaehun Kim, Joon Son Chung
@@ -8106,6 +8780,7 @@ This paper introduces a cross-lingual dubbing system that translates speech from
 
 ## Article 674
 ### Title@2025-05-27 (2): The Hidden Dimensions of LLM Alignment: A Multi-Dimensional Analysis of   Orthogonal Safety Directions
+
 **Title**: The Hidden Dimensions of LLM Alignment: A Multi-Dimensional Analysis of   Orthogonal Safety Directions | Die versteckten Dimensionen der LLM-Ausrichtung: Eine mehrdimensionale Analyse der orthogonalen Sicherheitsanweisungen | LLM 对齐的隐藏面:对正交安全方向的多维分析 [2502.09674v4](http://arxiv.org/abs/2502.09674v4)
 
 **Authors**: Wenbo Pan, Zhichao Liu, Qiguang Chen, Xiangyang Zhou, Haining Yu, Xiaohua Jia
@@ -8116,6 +8791,7 @@ Large Language Models' safety-aligned behaviors, such as refusing harmful querie
 
 ## Article 675
 ### Title@2025-05-27 (2): Loquacious Set: 25,000 Hours of Transcribed and Diverse English Speech   Recognition Data for Research and Commercial Use
+
 **Title**: Loquacious Set: 25,000 Hours of Transcribed and Diverse English Speech   Recognition Data for Research and Commercial Use | Loquacious Set: 25.000 Stunden transkribierte und vielfältige englische Spracherkennungsdaten für Forschung und kommerzielle Nutzung | 便利的一套:25 000小时被分配和多样化的英语语音识别数据,供研究和商业使用 [2505.21578v1](http://arxiv.org/abs/2505.21578v1)
 
 **Authors**: Titouan Parcollet, Yuan Tseng, Shucong Zhang, Rogier van Dalen
@@ -8126,6 +8802,7 @@ Automatic speech recognition (ASR) research is driven by the availability of com
 
 ## Article 676
 ### Title@2025-05-27 (2): Cross from Left to Right Brain: Adaptive Text Dreamer for   Vision-and-Language Navigation
+
 **Title**: Cross from Left to Right Brain: Adaptive Text Dreamer for   Vision-and-Language Navigation | Kreuz von links nach rechts Gehirn: Adaptiver Texttraum für Vision-und-Sprachen-Navigation | 从左脑到右脑交叉:愿景和语言导航的适应性文本梦想者 [2505.20897v1](http://arxiv.org/abs/2505.20897v1)
 
 **Authors**: Pingrui Zhang, Yifei Su, Pengyuan Wu, Dong An, Li Zhang, Zhigang Wang, Dong Wang, Yan Ding, Bin Zhao, Xuelong Li
@@ -8136,6 +8813,7 @@ Vision-and-Language Navigation (VLN) requires the agent to navigate by following
 
 ## Article 677
 ### Title@2025-05-27 (2): How Do Transformers Learn Variable Binding in Symbolic Programs?
+
 **Title**: How Do Transformers Learn Variable Binding in Symbolic Programs? | Wie lernen Transformer variable Bindungen in Symbolischen Programmen? | 变换者如何在符号程序中学习变数绑定 ? [2505.20896v1](http://arxiv.org/abs/2505.20896v1)
 
 **Authors**: Yiwei Wu, Atticus Geiger, Raphaël Millière
@@ -8146,6 +8824,7 @@ Variable binding -- the ability to associate variables with values -- is fundame
 
 ## Article 678
 ### Title@2025-05-27 (2): EasyDistill: A Comprehensive Toolkit for Effective Knowledge   Distillation of Large Language Models
+
 **Title**: EasyDistill: A Comprehensive Toolkit for Effective Knowledge   Distillation of Large Language Models | EasyDistill: Ein umfassendes Toolkit für effektive Wissensdestillation von großen Sprachmodellen | 简易蒸馏:大语言模式有效知识蒸馏综合工具箱 [2505.20888v1](http://arxiv.org/abs/2505.20888v1)
 
 **Authors**: Chengyu Wang, Junbing Yan, Wenrui Cai, Yuanhao Yue, Jun Huang
@@ -8156,6 +8835,7 @@ In this paper, we present EasyDistill, a comprehensive toolkit designed for effe
 
 ## Article 679
 ### Title@2025-05-27 (2): ComplexFormer: Disruptively Advancing Transformer Inference Ability via   Head-Specific Complex Vector Attention
+
 **Title**: ComplexFormer: Disruptively Advancing Transformer Inference Ability via   Head-Specific Complex Vector Attention | ComplexEhemaliger: Disruptived Advance Transformer Inferenz-Fähigkeit über Head-Specific Complex Vector Achtung | 复杂形式:通过头部特定复杂矢量的注意,干扰推进变压器推断能力 [2505.10222v2](http://arxiv.org/abs/2505.10222v2)
 
 **Authors**: Jintian Shao, Hongyi Huang, Jiayi Wu, Beiwen Zhang, ZhiYu Wu, You Shan, MingKai Zheng
@@ -8166,6 +8846,7 @@ Transformer models rely on self-attention to capture token dependencies but face
 
 ## Article 680
 ### Title@2025-05-27 (2): Power-Law Decay Loss for Large Language Model Finetuning: Focusing on   Information Sparsity to Enhance Generation Quality
+
 **Title**: Power-Law Decay Loss for Large Language Model Finetuning: Focusing on   Information Sparsity to Enhance Generation Quality | Macht-Rechts-Dekay-Verlust für große Sprachmodell Finetuning: Fokussierung auf Informationssparsität zur Verbesserung der Generationsqualität | 大语言模型调整的功率法减退损失:侧重于信息平等以提高世代质量 [2505.16900v3](http://arxiv.org/abs/2505.16900v3)
 
 **Authors**: Jintian Shao, Yiming Cheng, Hongyi Huang, Jiayi Wu, Beiwen Zhang, Zhiyu Wu, You Shan, Mingkai Zheng
@@ -8176,6 +8857,7 @@ During the finetuning stage of text generation tasks, standard cross-entropy los
 
 ## Article 681
 ### Title@2025-05-27 (2): Towards Analyzing and Understanding the Limitations of VAPO: A   Theoretical Perspective
+
 **Title**: Towards Analyzing and Understanding the Limitations of VAPO: A   Theoretical Perspective | Auf dem Weg zur Analyse und dem Verständnis der Grenzen von VAPO: Eine theoretische Perspektive | 分析和理解VAPO的局限性:理论视角 [2505.17997v2](http://arxiv.org/abs/2505.17997v2)
 
 **Authors**: Jintian Shao, Yiming Cheng, Hongyi Huang, Beiwen Zhang, Zhiyu Wu, You Shan, Mingkai Zheng
@@ -8186,6 +8868,7 @@ The VAPO framework has demonstrated significant empirical success in enhancing t
 
 ## Article 682
 ### Title@2025-05-27 (2): Mitigating Forgetting in LLM Fine-Tuning via Low-Perplexity Token   Learning
+
 **Title**: Mitigating Forgetting in LLM Fine-Tuning via Low-Perplexity Token   Learning | Vergessen im LLM-Fine-Tuning durch Low-Perplexity Token Learning verhindern | 减轻LLM 微调调整通过低重复调调调学习的忘却现象 [2501.14315v3](http://arxiv.org/abs/2501.14315v3)
 
 **Authors**: Chao-Chung Wu, Zhi Rui Tam, Chieh-Yen Lin, Yun-Nung Chen, Shao-Hua Sun, Hung-yi Lee
@@ -8196,6 +8879,7 @@ Maintaining consistent model performance across domains is a fundamental challen
 
 ## Article 683
 ### Title@2025-05-27 (2): MSA at SemEval-2025 Task 3: High Quality Weak Labeling and LLM Ensemble   Verification for Multilingual Hallucination Detection
+
 **Title**: MSA at SemEval-2025 Task 3: High Quality Weak Labeling and LLM Ensemble   Verification for Multilingual Hallucination Detection | MSA bei SemEval-2025 Task 3: Hochwertiges schwaches Etikettieren und LLM-Ensemble-Verifikation für Mehrsprachige Halluzinationserkennung | SemEval-2025 SMAS 任务3:高品质的差错标签和多种语言幻觉探测的LLM组合核查 [2505.20880v1](http://arxiv.org/abs/2505.20880v1)
 
 **Authors**: Baraa Hikal, Ahmed Nasreldin, Ali Hamdi
@@ -8206,6 +8890,7 @@ This paper describes our submission for SemEval-2025 Task 3: Mu-SHROOM, the Mult
 
 ## Article 684
 ### Title@2025-05-27 (2): Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs   Against English Varieties
+
 **Title**: Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs   Against English Varieties | Trans-EnV: Ein Rahmen zur Bewertung der sprachlichen Robustheit von LLMs gegen englische Sorten | Trans-EnV: 反英语多样性LLMs语言能力评价框架 [2505.20875v1](http://arxiv.org/abs/2505.20875v1)
 
 **Authors**: Jiyoung Lee, Seungho Kim, Jieun Han, Jun-Min Lee, Kitaek Kim, Alice Oh, Edward Choi
@@ -8216,6 +8901,7 @@ Large Language Models (LLMs) are predominantly evaluated on Standard American En
 
 ## Article 685
 ### Title@2025-05-27 (2): Can LLMs Learn to Map the World from Local Descriptions?
+
 **Title**: Can LLMs Learn to Map the World from Local Descriptions? | Können LLMs lernen, die Welt aus lokalen Beschreibungen zu kartieren? | LLMs能够学习用当地描述绘制世界地图吗? [2505.20874v1](http://arxiv.org/abs/2505.20874v1)
 
 **Authors**: Sirui Xia, Aili Chen, Xintao Wang, Tinghui Zhu, Yikai Zhang, Jiangjie Chen, Yanghua Xiao
@@ -8226,6 +8912,7 @@ Recent advances in Large Language Models (LLMs) have demonstrated strong capabil
 
 ## Article 686
 ### Title@2025-05-27 (2): Divide-Then-Align: Honest Alignment based on the Knowledge Boundary of   RAG
+
 **Title**: Divide-Then-Align: Honest Alignment based on the Knowledge Boundary of   RAG | Divide-Then-Align: Ehrliche Ausrichtung auf Basis der Wissensgrenze der RAG | 分离后对齐:基于RAG知识界限的诚实一致 [2505.20871v1](http://arxiv.org/abs/2505.20871v1)
 
 **Authors**: Xin Sun, Jianan Xie, Zhongqi Chen, Qiang Liu, Shu Wu, Yuehe Chen, Bowen Song, Weiqiang Wang, Zilei Wang, Liang Wang
@@ -8236,6 +8923,7 @@ Large language models (LLMs) augmented with retrieval systems have significantly
 
 ## Article 687
 ### Title@2025-05-27 (2): AmpleHate: Amplifying the Attention for Versatile Implicit Hate   Detection
+
 **Title**: AmpleHate: Amplifying the Attention for Versatile Implicit Hate   Detection | AmpleHate: Verstärkte Aufmerksamkeit für die Vielseitige Implizite Hate-Erkennung | 全面:扩大对易变性隐含仇恨侦测的注意 [2505.19528v2](http://arxiv.org/abs/2505.19528v2)
 
 **Authors**: Yejin Lee, Joonghyuk Hahn, Hyeseon Ahn, Yo-Sub Han
@@ -8246,6 +8934,7 @@ Implicit hate speech detection is challenging due to its subtlety and reliance o
 
 ## Article 688
 ### Title@2025-05-27 (2): Structured Thinking Matters: Improving LLMs Generalization in Causal   Inference Tasks
+
 **Title**: Structured Thinking Matters: Improving LLMs Generalization in Causal   Inference Tasks | Strukturierte Denkfragen: Verbesserung der LLM-Verallgemeinerung bei ursächlichen Folgeaufgaben | 结构思考事项:改进因果推断任务中的普遍化 [2505.18034v2](http://arxiv.org/abs/2505.18034v2)
 
 **Authors**: Wentao Sun, João Paulo Nogueira, Alonso Silva
@@ -8256,6 +8945,7 @@ Despite remarkable advances in the field, LLMs remain unreliable in distinguishi
 
 ## Article 689
 ### Title@2025-05-27 (2): SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early   Alignment
+
 **Title**: SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early   Alignment | SAFEPATH: Verhindern schädlicher Vernunft in der Kette der Gedanken durch frühzeitige Ausrichtung | SAFPATH:通过早期协调防止在研究链中产生有害理由 [2505.14667v2](http://arxiv.org/abs/2505.14667v2)
 
 **Authors**: Wonje Jeung, Sangyeon Yoon, Minsuk Kahng, Albert No
@@ -8266,6 +8956,7 @@ Large Reasoning Models (LRMs) have become powerful tools for complex problem sol
 
 ## Article 690
 ### Title@2025-05-27 (2): SEPS: A Separability Measure for Robust Unlearning in LLMs
+
 **Title**: SEPS: A Separability Measure for Robust Unlearning in LLMs | SEPS: Eine Separabilitätsmessung für robustes Lernen in LLMs | SEPS: LLMM 中强有力解学的分离措施 [2505.14832v2](http://arxiv.org/abs/2505.14832v2)
 
 **Authors**: Wonje Jeung, Sangyeon Yoon, Albert No
@@ -8276,6 +8967,7 @@ Machine unlearning aims to selectively remove targeted knowledge from Large Lang
 
 ## Article 691
 ### Title@2025-05-27 (2): DUSK: Do Not Unlearn Shared Knowledge
+
 **Title**: DUSK: Do Not Unlearn Shared Knowledge | DUSK: Gemeinsames Wissen nicht entschärfen | DUSK: 不共享未读共享知识 [2505.15209v2](http://arxiv.org/abs/2505.15209v2)
 
 **Authors**: Wonje Jeung, Sangyeon Yoon, Hyesoo Hong, Soeun Kim, Seungju Han, Youngjae Yu, Albert No
@@ -8286,6 +8978,7 @@ Large language models (LLMs) are increasingly deployed in real-world application
 
 ## Article 692
 ### Title@2025-05-27 (2): An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE   Tasks
+
 **Title**: An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE   Tasks | Ein LLM-as-Judge Metric zur Überwindung der Lücke mit menschlicher Bewertung in SE-Aufgaben | 消除社会经济任务中与人的评价差距的法学硕士法官 [2505.20854v1](http://arxiv.org/abs/2505.20854v1)
 
 **Authors**: Xin Zhou, Kisub Kim, Ting Zhang, Martin Weyssow, Luis F. Gomes, Guang Yang, David Lo
@@ -8296,6 +8989,7 @@ Large Language Models (LLMs) and other automated techniques have been increasing
 
 ## Article 693
 ### Title@2025-05-27 (2): Concealment of Intent: A Game-Theoretic Analysis
+
 **Title**: Concealment of Intent: A Game-Theoretic Analysis | Concealment of Intent: Eine Game-Theoretische Analyse | 隐藏意图:游戏理论分析 [2505.20841v1](http://arxiv.org/abs/2505.20841v1)
 
 **Authors**: Xinbo Wu, Abhishek Umrawal, Lav R. Varshney
@@ -8306,6 +9000,7 @@ As large language models (LLMs) grow more capable, concerns about their safe dep
 
 ## Article 694
 ### Title@2025-05-27 (2): Tuning LLM Judge Design Decisions for 1/1000 of the Cost
+
 **Title**: Tuning LLM Judge Design Decisions for 1/1000 of the Cost | Tuning LLM Richter Design Entscheidungen für 1/1000 der Kosten | 1 000美元费用1 000美元法官设计决定 [2501.17178v4](http://arxiv.org/abs/2501.17178v4)
 
 **Authors**: David Salinas, Omar Swelam, Frank Hutter
@@ -8316,6 +9011,7 @@ Evaluating Large Language Models (LLMs) often requires costly human annotations.
 
 ## Article 695
 ### Title@2025-05-27 (2): The Power of Personality: A Human Simulation Perspective to Investigate   Large Language Model Agents
+
 **Title**: The Power of Personality: A Human Simulation Perspective to Investigate   Large Language Model Agents | Die Kraft der Persönlichkeit: Eine menschliche Simulationsperspektive zur Untersuchung von Large Language Model Agents | 个性力量:从人类模拟角度调查大语言示范物剂 [2502.20859v2](http://arxiv.org/abs/2502.20859v2)
 
 **Authors**: Yifan Duan, Yihong Tang, Xuefeng Bai, Kehai Chen, Juntao Li, Min Zhang
@@ -8326,6 +9022,7 @@ Large language models (LLMs) excel in both closed tasks (including problem-solvi
 
 ## Article 696
 ### Title@2025-05-27 (2): Enhance Mobile Agents Thinking Process Via Iterative Preference Learning
+
 **Title**: Enhance Mobile Agents Thinking Process Via Iterative Preference Learning | Mobile Agenten durch iteratives Preference-Lernen weiter denken | 加强移动媒介思考流程动态动态迭代性优先学习 [2505.12299v2](http://arxiv.org/abs/2505.12299v2)
 
 **Authors**: Kun Huang, Weikai Xu, Yuxuan Liu, Quandong Wang, Pengzhi Gao, Wei Liu, Jian Luan, Bin Wang, Bo An
@@ -8336,6 +9033,7 @@ The Chain of Action-Planning Thoughts (CoaT) paradigm has been shown to improve 
 
 ## Article 697
 ### Title@2025-05-27 (2): Don't Half-listen: Capturing Key-part Information in Continual   Instruction Tuning
+
 **Title**: Don't Half-listen: Capturing Key-part Information in Continual   Instruction Tuning | Don't Half-listen: Capturing Key-part Information in Continual Instruction Tuning | 不要半听半听:在连续教学图示中获取关键部分信息 [2403.10056v4](http://arxiv.org/abs/2403.10056v4)
 
 **Authors**: Yongquan He, Wenyuan Zhang, Xuancheng Huang, Peng Zhang, Lingxun Meng, Xiang Zhou, Ke Zeng, Xunliang Cai
@@ -8346,6 +9044,7 @@ Instruction tuning for large language models (LLMs) can drive them to produce re
 
 ## Article 698
 ### Title@2025-05-27 (2): Enabling Inclusive Systematic Reviews: Incorporating Preprint Articles   with Large Language Model-Driven Evaluations
+
 **Title**: Enabling Inclusive Systematic Reviews: Incorporating Preprint Articles   with Large Language Model-Driven Evaluations | Inklusive Systematische Bewertungen aktivieren: Einschließlich Preprint-Artikel mit großsprachigen modellgetriebenen Bewertungen | 促进包容性的系统审查:将预印条款纳入大语言模式示范评价 [2503.13857v3](http://arxiv.org/abs/2503.13857v3)
 
 **Authors**: Rui Yang, Jiayi Tong, Haoyuan Wang, Hui Huang, Ziyang Hu, Peiyu Li, Nan Liu, Christopher J. Lindsell, Michael J. Pencina, Yong Chen, Chuan Hong
@@ -8356,6 +9055,7 @@ Background. Systematic reviews in comparative effectiveness research require tim
 
 ## Article 699
 ### Title@2025-05-27 (2): WizardCoder: Empowering Code Large Language Models with Evol-Instruct
+
 **Title**: WizardCoder: Empowering Code Large Language Models with Evol-Instruct | WizardCoder: Empowering Code Große Sprachmodelle mit Evol-Instruct | 巫师编码器:授权使用电动制造器的守则大语言模型 [2306.08568v2](http://arxiv.org/abs/2306.08568v2)
 
 **Authors**: Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, Daxin Jiang
@@ -8366,6 +9066,7 @@ Code Large Language Models (Code LLMs), such as StarCoder, have demonstrated exc
 
 ## Article 700
 ### Title@2025-05-27 (2): MA-LoT: Model-Collaboration Lean-based Long Chain-of-Thought Reasoning   enhances Formal Theorem Proving
+
 **Title**: MA-LoT: Model-Collaboration Lean-based Long Chain-of-Thought Reasoning   enhances Formal Theorem Proving | MA-LoT: Modell-Kollaboration Lean-based Long Chain-of-Thought Reasoning verbessert formalen Theorem Proving | MA-LOT:示范-协作:基于精液的探讨理由长期链加强正式理论证明 [2503.03205v3](http://arxiv.org/abs/2503.03205v3)
 
 **Authors**: Ruida Wang, Rui Pan, Yuxin Li, Jipeng Zhang, Yizhen Jia, Shizhe Diao, Renjie Pi, Junjie Hu, Tong Zhang
@@ -8376,6 +9077,7 @@ Solving mathematical problems using computer-verifiable languages like Lean has 
 
 ## Article 701
 ### Title@2025-05-27 (2): R-TOFU: Unlearning in Large Reasoning Models
+
 **Title**: R-TOFU: Unlearning in Large Reasoning Models | R-TOFU: Unlearning in großen Vernunftmodellen | R-TOFU:在大理由模型中重新学习 [2505.15214v2](http://arxiv.org/abs/2505.15214v2)
 
 **Authors**: Sangyeon Yoon, Wonje Jeung, Albert No
@@ -8386,6 +9088,7 @@ Large Reasoning Models (LRMs) embed private or copyrighted information not only 
 
 ## Article 702
 ### Title@2025-05-27 (2): AdParaphrase v2.0: Generating Attractive Ad Texts Using a   Preference-Annotated Paraphrase Dataset
+
 **Title**: AdParaphrase v2.0: Generating Attractive Ad Texts Using a   Preference-Annotated Paraphrase Dataset | AdParaphrase v2.0: Attraktive Ad-Texte mit einem Präferenz-Annotierten Paraphrase-Datensatz generieren | AdParadhanv2.0:利用附加说明的首选参数句数据集生成有吸引力的附加文本 [2505.20826v1](http://arxiv.org/abs/2505.20826v1)
 
 **Authors**: Soichiro Murakami, Peinan Zhang, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura
@@ -8396,6 +9099,7 @@ Identifying factors that make ad text attractive is essential for advertising su
 
 ## Article 703
 ### Title@2025-05-27 (2): Reinforced Informativeness Optimization for Long-Form   Retrieval-Augmented Generation
+
 **Title**: Reinforced Informativeness Optimization for Long-Form   Retrieval-Augmented Generation | Verstärkte Informativitätsoptimierung für die langformige Retrieval-Augmented Generation | 长期回收型后期人种最佳利用强化信息 [2505.20825v1](http://arxiv.org/abs/2505.20825v1)
 
 **Authors**: Yuhao Wang, Ruiyang Ren, Yucheng Wang, Wayne Xin Zhao, Jing Liu, Hua Wu, Haifeng Wang
@@ -8406,6 +9110,7 @@ Long-form question answering (LFQA) presents unique challenges for large languag
 
 ## Article 704
 ### Title@2025-05-27 (2): Predicting drug-gene relations via analogy tasks with word embeddings
+
 **Title**: Predicting drug-gene relations via analogy tasks with word embeddings | Vorhersage von Drogen-Gene-Beziehungen über Analogieaufgaben mit Worteinbettungen | 通过用词嵌入词词类比任务预测毒品与基因的关系 [2406.00984v5](http://arxiv.org/abs/2406.00984v5)
 
 **Authors**: Hiroaki Yamagiwa, Ryoma Hashimoto, Kiwamu Arakane, Ken Murakami, Shou Soeda, Momose Oyama, Yihua Zhu, Mariko Okada, Hidetoshi Shimodaira
@@ -8416,6 +9121,7 @@ Natural language processing (NLP) is utilized in a wide range of fields, where w
 
 ## Article 705
 ### Title@2025-05-27 (2): Tracing and Reversing Rank-One Model Edits
+
 **Title**: Tracing and Reversing Rank-One Model Edits | Rank-One-Modellbearbeitungen verfolgen und umkehren | 追踪和校正一等一模式编辑 [2505.20819v1](http://arxiv.org/abs/2505.20819v1)
 
 **Authors**: Paul Youssef, Zhixue Zhao, Christin Seifert, Jörg Schlötterer
@@ -8426,6 +9132,7 @@ Knowledge editing methods (KEs) are a cost-effective way to update the factual c
 
 ## Article 706
 ### Title@2025-05-27 (2): HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid   Instructions Across Single and Multiple Devices
+
 **Title**: HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid   Instructions Across Single and Multiple Devices | HomeBench: Bewertung von LLMs in Smart Homes mit gültigen und ungültigen Anweisungen über einzelne und mehrere Geräte | HomeBench: 评估智能住宅中具有跨越单一和多种装置的无效和无效指令的智能住宅中LLMs [2505.19628v2](http://arxiv.org/abs/2505.19628v2)
 
 **Authors**: Silin Li, Yuhang Guo, Jiashu Yao, Zeming Liu, Haifeng Wang
@@ -8436,6 +9143,7 @@ Large language models (LLMs) have the potential to revolutionize smart home assi
 
 ## Article 707
 ### Title@2025-05-27 (2): Rethinking Semantic Parsing for Large Language Models: Enhancing LLM   Performance with Semantic Hints
+
 **Title**: Rethinking Semantic Parsing for Large Language Models: Enhancing LLM   Performance with Semantic Hints | Semantisches Parsing für große Sprachmodelle neu denken: LLM-Performance mit semantischen Hinweisen verbessern | 重新思考大语言模型的语义分解:用语义提示提高LLM性能 [2409.14469v2](http://arxiv.org/abs/2409.14469v2)
 
 **Authors**: Kaikai An, Shuzheng Si, Helan Hu, Haozhe Zhao, Yuchi Wang, Qingyan Guo, Baobao Chang
@@ -8446,6 +9154,7 @@ Semantic Parsing aims to capture the meaning of a sentence and convert it into a
 
 ## Article 708
 ### Title@2025-05-27 (2): TrojanStego: Your Language Model Can Secretly Be A Steganographic   Privacy Leaking Agent
+
 **Title**: TrojanStego: Your Language Model Can Secretly Be A Steganographic   Privacy Leaking Agent | TrojanStego: Ihr Sprachmodell kann geheim ein Steganographic Privacy Leaking Agent sein | TrojanStego:您的语言模式可以秘密地隐秘地隐秘地渗漏剂。 [2505.20118v2](http://arxiv.org/abs/2505.20118v2)
 
 **Authors**: Dominik Meier, Jan Philip Wahle, Paul Röttger, Terry Ruas, Bela Gipp
@@ -8456,6 +9165,7 @@ As large language models (LLMs) become integrated into sensitive workflows, conc
 
 ## Article 709
 ### Title@2025-05-27 (2): Rethinking Information Synthesis in Multimodal Question Answering A   Multi-Agent Perspective
+
 **Title**: Rethinking Information Synthesis in Multimodal Question Answering A   Multi-Agent Perspective | Rethinking Information Synthese in multimodalen Fragen Antwort auf eine multi-agente Perspektive | 以多机构视角回答多式联运问题 重新思考信息综述 [2505.20816v1](http://arxiv.org/abs/2505.20816v1)
 
 **Authors**: Krishna Singh Rajput, Tejas Anvekar, Chitta Baral, Vivek Gupta
@@ -8466,6 +9176,7 @@ Recent advances in multimodal question answering have primarily focused on combi
 
 ## Article 710
 ### Title@2025-05-27 (2): Exploring the Necessity of Reasoning in LLM-based Agent Scenarios
+
 **Title**: Exploring the Necessity of Reasoning in LLM-based Agent Scenarios | Erforschung der Notwendigkeit der Vernunft in LLM-basierten Agent-Szenarien | 探讨基于LLM代理设想情况中合理理由的必要性 [2503.11074v2](http://arxiv.org/abs/2503.11074v2)
 
 **Authors**: Xueyang Zhou, Guiyao Tie, Guowen Zhang, Weidong Wang, Zhigang Zuo, Di Wu, Duanfeng Chu, Pan Zhou, Neil Zhenqiang Gong, Lichao Sun
@@ -8476,6 +9187,7 @@ The rise of Large Reasoning Models (LRMs) signifies a paradigm shift toward adva
 
 ## Article 711
 ### Title@2025-05-27 (2): CulFiT: A Fine-grained Cultural-aware LLM Training Paradigm via   Multilingual Critique Data Synthesis
+
 **Title**: CulFiT: A Fine-grained Cultural-aware LLM Training Paradigm via   Multilingual Critique Data Synthesis | CulFiT: Ein feinkörniges Kulturbewusstsein LLM-Training Paradigma über Mehrsprachige Kritikdatensynthese | CulFIT:通过多种语言的克里端数据综合分析进行精美的有文化意识的LLM培训模型 [2505.19484v2](http://arxiv.org/abs/2505.19484v2)
 
 **Authors**: Ruixiang Feng, Shen Gao, Xiuying Chen, Lisi Chen, Shuo Shang
@@ -8486,6 +9198,7 @@ Large Language Models (LLMs) have demonstrated remarkable capabilities across va
 
 ## Article 712
 ### Title@2025-05-27 (2): Improved Representation Steering for Language Models
+
 **Title**: Improved Representation Steering for Language Models | Verbesserte Repräsentationssteuerung für Sprachmodelle | 改进语文模式代表性指导 [2505.20809v1](http://arxiv.org/abs/2505.20809v1)
 
 **Authors**: Zhengxuan Wu, Qinan Yu, Aryaman Arora, Christopher D. Manning, Christopher Potts
@@ -8496,6 +9209,7 @@ Steering methods for language models (LMs) seek to provide fine-grained and inte
 
 ## Article 713
 ### Title@2025-05-27 (2): Sentiment Reasoning for Healthcare
+
 **Title**: Sentiment Reasoning for Healthcare | Sentiment Reasoning für die Gesundheitsversorgung | 保健的情感理由 [2407.21054v4](http://arxiv.org/abs/2407.21054v4)
 
 **Authors**: Khai-Nguyen Nguyen, Khai Le-Duc, Bach Phan Tat, Duy Le, Long Vo-Dang, Truong-Son Hy
@@ -8506,6 +9220,7 @@ Transparency in AI healthcare decision-making is crucial. By incorporating ratio
 
 ## Article 714
 ### Title@2025-05-27 (2): A Graph Perspective to Probe Structural Patterns of Knowledge in Large   Language Models
+
 **Title**: A Graph Perspective to Probe Structural Patterns of Knowledge in Large   Language Models | Eine Graphenperspektive zur Untersuchung struktureller Wissensmuster in großen Sprachmodellen | 《大语言模式知识结构模式研究图示展望》 [2505.19286v2](http://arxiv.org/abs/2505.19286v2)
 
 **Authors**: Utkarsh Sahu, Zhisheng Qi, Yongjia Lei, Ryan A. Rossi, Franck Dernoncourt, Nesreen K. Ahmed, Mahantesh M Halappanavar, Yao Ma, Yu Wang
@@ -8516,6 +9231,7 @@ Large language models have been extensively studied as neural knowledge bases fo
 
 ## Article 715
 ### Title@2025-05-27 (2): WizardLM: Empowering large pre-trained language models to follow complex   instructions
+
 **Title**: WizardLM: Empowering large pre-trained language models to follow complex   instructions | WizardLM: Ermächtigen von großen vortrainierten Sprachmodellen, komplexe Anweisungen zu befolgen | 巫灵LM:授权大型预先培训的语文模式遵循复杂的指令 [2304.12244v3](http://arxiv.org/abs/2304.12244v3)
 
 **Authors**: Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Qingwei Lin, Daxin Jiang
@@ -8526,6 +9242,7 @@ Training large language models (LLMs) with open-domain instruction following dat
 
 ## Article 716
 ### Title@2025-05-27 (2): MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search   Capability
+
 **Title**: MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search   Capability | MaskSearch: Ein universelles Pre-Training-Framework, um Agentische Suchfähigkeit zu verbessern | 保护面具搜索:加强制剂搜索能力的普遍培训前框架 [2505.20285v2](http://arxiv.org/abs/2505.20285v2)
 
 **Authors**: Weiqi Wu, Xin Guan, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Jiuxin Cao, Hai Zhao, Jingren Zhou
@@ -8536,6 +9253,7 @@ Retrieval-Augmented Language Models (RALMs) represent a classic paradigm where m
 
 ## Article 717
 ### Title@2025-05-27 (2): SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long   Sequences
+
 **Title**: SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long   Sequences | SpecExtend: Ein Drop-in-Enhancement für spekulative Decoding von langen Sequenzen | 外观:对长期序列的投机性代谢的减少增强 [2505.20776v1](http://arxiv.org/abs/2505.20776v1)
 
 **Authors**: Jungyoub Cha, Hyunjong Kim, Sungzoon Cho
@@ -8546,6 +9264,7 @@ Speculative decoding is a widely adopted technique for accelerating inference in
 
 ## Article 718
 ### Title@2025-05-27 (2): Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play   Fine-Tuning of LLMs
+
 **Title**: Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play   Fine-Tuning of LLMs | Achten Sie auf Ihr Po! Messen und Abmildern von KI-Sicherheitsrisiken bei Rollenspielen Feintuning von LLMs | 当心你的阿宝! 衡量并减轻AI公司在角色扮演中的安全风险 微调LLMs [2502.20968v2](http://arxiv.org/abs/2502.20968v2)
 
 **Authors**: Weixiang Zhao, Yulin Hu, Yang Deng, Jiahe Guo, Xingyu Sui, Xinyang Han, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu
@@ -8556,6 +9275,7 @@ Role-playing enables large language models (LLMs) to engage users in immersive a
 
 ## Article 719
 ### Title@2025-05-27 (2): ChemHAS: Hierarchical Agent Stacking for Enhancing Chemistry Tools
+
 **Title**: ChemHAS: Hierarchical Agent Stacking for Enhancing Chemistry Tools | ChemHAS: Hierarchische Agenzien-Stacking zur Verbesserung von Chemiewerkzeugen | ChemHAS:加强化学工具的等级代理人 [2505.21569v1](http://arxiv.org/abs/2505.21569v1)
 
 **Authors**: Zhucong Li, Bowei Zhang, Jin Xiao, Zhijian Zhou, Fenglei Cao, Jiaqing Liang, Yuan Qi
@@ -8566,6 +9286,7 @@ Large Language Model (LLM)-based agents have demonstrated the ability to improve
 
 ## Article 720
 ### Title@2025-05-27 (2): Enhancing Code LLMs with Reinforcement Learning in Code Generation: A   Survey
+
 **Title**: Enhancing Code LLMs with Reinforcement Learning in Code Generation: A   Survey | Verbesserung von Code LLMs mit Verstärkungslernen in der Codegenerierung: Eine Umfrage | 增强法典制定中强化学习的加强守则LLMS 代码生成:调查 [2412.20367v3](http://arxiv.org/abs/2412.20367v3)
 
 **Authors**: Junqiao Wang, Zeng Zhang, Yangfan He, Zihao Zhang, Yuyang Song, Tianyu Shi, Yuchen Li, Hengyuan Xu, Kunyu Wu, Xin Yi, Zhongwei Wan, Xinhang Yuan, Kuan Lu, Menghao Huo, Guangwu Qian, Keqin Li, Qiuwu Chen, Lewei He
@@ -8576,6 +9297,7 @@ Reinforcement learning (RL) has emerged as a powerful paradigm for enhancing lar
 
 ## Article 721
 ### Title@2025-05-27 (2): Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning   Chains
+
 **Title**: Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning   Chains | Denken Sie leise, denken Sie schnell: Dynamische Latent-Kompression von LLM-vernünftigen Ketten | 默默思考,快速思考:LLM 解释性链条的动态延迟压缩 [2505.16552v3](http://arxiv.org/abs/2505.16552v3)
 
 **Authors**: Wenhui Tan, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Ruihua Song
@@ -8586,6 +9308,7 @@ Large Language Models (LLMs) achieve superior performance through Chain-of-Thoug
 
 ## Article 722
 ### Title@2025-05-27 (2): No LLM is Free From Bias: A Comprehensive Study of Bias Evaluation in   Large Language Models
+
 **Title**: No LLM is Free From Bias: A Comprehensive Study of Bias Evaluation in   Large Language Models | Kein LLM ist frei von Bias: Eine umfassende Studie der Bias-Bewertung in großen Sprachmodellen | No LLM " 免于偏见:对大语言模式的偏见评价的全面研究 " 。 [2503.11985v2](http://arxiv.org/abs/2503.11985v2)
 
 **Authors**: Charaka Vinayak Kumar, Ashok Urlana, Gopichand Kanumolu, Bala Mallikarjunarao Garlapati, Pruthwik Mishra
@@ -8596,6 +9319,7 @@ Advancements in Large Language Models (LLMs) have increased the performance of d
 
 ## Article 723
 ### Title@2025-05-27 (2): Systematic Generalization in Language Models Scales with Information   Entropy
+
 **Title**: Systematic Generalization in Language Models Scales with Information   Entropy | Systematische Generalisierung in Sprachmodellen Skalen mit Informationsentropie | 语言模型中系统化的通用化( 带有信息信封的语言模型缩放) [2505.13089v2](http://arxiv.org/abs/2505.13089v2)
 
 **Authors**: Sondre Wold, Lucas Georges Gabriel Charpentier, Étienne Simon
@@ -8606,6 +9330,7 @@ Systematic generalization remains challenging for current language models, which
 
 ## Article 724
 ### Title@2025-05-27 (2): Can Small Language Models Learn, Unlearn, and Retain Noise Patterns?
+
 **Title**: Can Small Language Models Learn, Unlearn, and Retain Noise Patterns? | Können kleine Sprachmodelle Geräuschmuster lernen, nicht lernen und erhalten? | 小语言模型能够学习、不学习和保留噪音模式吗? [2407.00996v3](http://arxiv.org/abs/2407.00996v3)
 
 **Authors**: Nicy Scaria, Silvester John Joseph Kennedy, Deepak Subramani
@@ -8616,6 +9341,7 @@ With the growing need for efficient language models in resource-constrained envi
 
 ## Article 725
 ### Title@2025-05-27 (2): Silencer: From Discovery to Mitigation of Self-Bias in   LLM-as-Benchmark-Generator
+
 **Title**: Silencer: From Discovery to Mitigation of Self-Bias in   LLM-as-Benchmark-Generator | Schalldämpfer: Von der Entdeckung zur Eindämmung von Selbst-Bias im LLM-as-Benchmark-Generator | 沉默器:从发现到减少LLM-as-Bunchmark-Generator中的自我比亚 [2505.20738v1](http://arxiv.org/abs/2505.20738v1)
 
 **Authors**: Peiwen Yuan, Yiwei Li, Shaoxiong Feng, Xinglin Wang, Yueqi Zhang, Jiayi Shi, Chuyi Tan, Boyuan Pan, Yao Hu, Kan Li
@@ -8626,6 +9352,7 @@ LLM-as-Benchmark-Generator methods have been widely studied as a supplement to h
 
 ## Article 726
 ### Title@2025-05-27 (2): BQA: Body Language Question Answering Dataset for Video Large Language   Models
+
 **Title**: BQA: Body Language Question Answering Dataset for Video Large Language   Models | BQA: Körper Sprache Frage-Frage-Beantwortung Datensatz für Video Große Sprachmodelle | BQA:视频大语言模型的体语言问题解答数据集 [2410.13206v2](http://arxiv.org/abs/2410.13206v2)
 
 **Authors**: Shintaro Ozaki, Kazuki Hayashi, Miyu Oba, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe
@@ -8636,6 +9363,7 @@ A large part of human communication relies on nonverbal cues such as facial expr
 
 ## Article 727
 ### Title@2025-05-27 (2): SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution
+
 **Title**: SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution | SPA-RL: Verstärkung der LLM-Agenten durch schrittweise Fortschrittszuweisung | SPA-RL:通过逐步推进加强LLM代理 [2505.20732v1](http://arxiv.org/abs/2505.20732v1)
 
 **Authors**: Hanlin Wang, Chak Tou Leong, Jiashuo Wang, Jian Wang, Wenjie Li
@@ -8646,6 +9374,7 @@ Reinforcement learning (RL) holds significant promise for training LLM agents to
 
 ## Article 728
 ### Title@2025-05-27 (2): What LLMs Miss in Recommendations: Bridging the Gap with   Retrieval-Augmented Collaborative Signals
+
 **Title**: What LLMs Miss in Recommendations: Bridging the Gap with   Retrieval-Augmented Collaborative Signals | Was LLMs in Empfehlungen vermissen: Die Lücke mit retrieval-Augmented Collaborative Signals überbrücken | 在建议中错过了什么的LLM女士:用检索增强的合作信号弥合差距 [2505.20730v1](http://arxiv.org/abs/2505.20730v1)
 
 **Authors**: Shahrooz Pouryousef
@@ -8656,6 +9385,7 @@ User-item interactions contain rich collaborative signals that form the backbone
 
 ## Article 729
 ### Title@2025-05-27 (2): S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability   of Large Reasoning Models
+
 **Title**: S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability   of Large Reasoning Models | S1-Bench: Ein einfacher Benchmark für die Bewertung von System 1 Denkfähigkeit von Großmodellen | S1-区:评估系统1思考大理由模型的能力的简单基准 [2504.10368v3](http://arxiv.org/abs/2504.10368v3)
 
 **Authors**: Wenyuan Zhang, Shuaiyi Nie, Xinghua Zhang, Zefeng Zhang, Tingwen Liu
@@ -8666,6 +9396,7 @@ We introduce S1-Bench, a novel benchmark designed to evaluate the performance of
 
 ## Article 730
 ### Title@2025-05-27 (2): Efficient and Accurate Prompt Optimization: the Benefit of Memory in   Exemplar-Guided Reflection
+
 **Title**: Efficient and Accurate Prompt Optimization: the Benefit of Memory in   Exemplar-Guided Reflection | Effiziente und präzise Optimierung: Der Vorteil des Gedächtnisses in exemplargeführter Reflexion | 高效和准确的迅速优化:外光引导反射中内存的益处 [2411.07446v2](http://arxiv.org/abs/2411.07446v2)
 
 **Authors**: Cilin Yan, Jingyun Wang, Lin Zhang, Ruihui Zhao, Xiaopu Wu, Kai Xiong, Qingsong Liu, Guoliang Kang, Yangyang Kang
@@ -8676,6 +9407,7 @@ Automatic prompt engineering aims to enhance the generation quality of large lan
 
 ## Article 731
 ### Title@2025-05-27 (2): Autoregressive Speech Synthesis without Vector Quantization
+
 **Title**: Autoregressive Speech Synthesis without Vector Quantization | Autoregressive Sprachsynthese ohne Vector Quantization | 无矢量量化的自动递减语音合成 [2407.08551v2](http://arxiv.org/abs/2407.08551v2)
 
 **Authors**: Lingwei Meng, Long Zhou, Shujie Liu, Sanyuan Chen, Bing Han, Shujie Hu, Yanqing Liu, Jinyu Li, Sheng Zhao, Xixin Wu, Helen Meng, Furu Wei
@@ -8686,6 +9418,7 @@ We present MELLE, a novel continuous-valued token based language modeling approa
 
 ## Article 732
 ### Title@2025-05-27 (2): ProgCo: Program Helps Self-Correction of Large Language Models
+
 **Title**: ProgCo: Program Helps Self-Correction of Large Language Models | ProgCo: Programm hilft bei der Selbstkorrektur großer Sprachmodelle | ProgC:帮助大语言模式自我校正方案 [2501.01264v2](http://arxiv.org/abs/2501.01264v2)
 
 **Authors**: Xiaoshuai Song, Yanan Wu, Weixun Wang, Jiaheng Liu, Wenbo Su, Bo Zheng
@@ -8696,6 +9429,7 @@ Self-Correction aims to enable large language models (LLMs) to self-verify and s
 
 ## Article 733
 ### Title@2025-05-27 (2): LatentExplainer: Explaining Latent Representations in Deep Generative   Models with Multimodal Large Language Models
+
 **Title**: LatentExplainer: Explaining Latent Representations in Deep Generative   Models with Multimodal Large Language Models | LatentExplainer: Erklären von latenten Darstellungen in tiefgenerativen Modellen mit multimodalen großen Sprachmodellen | 前任Explainer:在多模式大语言模型的深创模型中解释前述表述 [2406.14862v6](http://arxiv.org/abs/2406.14862v6)
 
 **Authors**: Mengdan Zhu, Raasikh Kanjiani, Jiahui Lu, Andrew Choi, Qirui Ye, Liang Zhao
@@ -8706,6 +9440,7 @@ Deep generative models like VAEs and diffusion models have advanced various gene
 
 ## Article 734
 ### Title@2025-05-27 (2): Analyzing Biases in Political Dialogue: Tagging U.S. Presidential   Debates with an Extended DAMSL Framework
+
 **Title**: Analyzing Biases in Political Dialogue: Tagging U.S. Presidential   Debates with an Extended DAMSL Framework | Analyse von Biasen im politischen Dialog: Tagging US-Präsidentschaftsdebatten mit einem erweiterten DAMSL-Rahmen | 分析政治对话中的偏见:美国总统辩论与扩展的DAMSL框架拖累美国总统辩论 [2505.19515v2](http://arxiv.org/abs/2505.19515v2)
 
 **Authors**: Lavanya Prahallad, Radhika Mamidi
@@ -8716,6 +9451,7 @@ We present a critical discourse analysis of the 2024 U.S. presidential debates, 
 
 ## Article 735
 ### Title@2025-05-27 (2): MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware   Multi-Segment Grounding
+
 **Title**: MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware   Multi-Segment Grounding | MUSEG: Verstärktes zeitliches Verständnis von Video über Timestamp-Aware Multi-Segment Erdung | MUSEG:通过Timestamp-Aware多部分定位加强视频时间理解 [2505.20715v1](http://arxiv.org/abs/2505.20715v1)
 
 **Authors**: Fuwen Luo, Shengfeng Lou, Chi Chen, Ziyue Wang, Chenliang Li, Weizhou Shen, Jiyue Guo, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Yang Liu
@@ -8726,6 +9462,7 @@ Video temporal understanding is crucial for multimodal large language models (ML
 
 ## Article 736
 ### Title@2025-05-27 (2): GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for   Low-Resource Languages with Automated Crawling, Transcription and Refinement
+
 **Title**: GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for   Low-Resource Languages with Automated Crawling, Transcription and Refinement | GigaSpeech 2: Ein sich entwickelnder, großformatiger und multidomänischer ASR-Korpus für ressourcenarme Sprachen mit Automatisiertem Crawling, Transkription und Verfeinerung | GigaSpeech2:具有自动拖网、拖网、拖网和精炼功能的低资源语言不断演化、大型和多领域ASR公司 [2406.11546v2](http://arxiv.org/abs/2406.11546v2)
 
 **Authors**: Yifan Yang, Zheshu Song, Jianheng Zhuo, Mingyu Cui, Jinpeng Li, Bo Yang, Yexing Du, Ziyang Ma, Xunying Liu, Ziyuan Wang, Ke Li, Shuai Fan, Kai Yu, Wei-Qiang Zhang, Guoguo Chen, Xie Chen
@@ -8736,6 +9473,7 @@ The evolution of speech technology has been spurred by the rapid increase in dat
 
 ## Article 737
 ### Title@2025-05-27 (2): Dissecting Physics Reasoning in Small Language Models: A   Multi-Dimensional Analysis from an Educational Perspective
+
 **Title**: Dissecting Physics Reasoning in Small Language Models: A   Multi-Dimensional Analysis from an Educational Perspective | Physik-Aufklärung in kleinen Sprachmodellen: Eine multidimensionale Analyse aus pädagogischer Perspektive | 《小语言模型中的物理原因解剖:从教育角度的多层次分析》 [2505.20707v1](http://arxiv.org/abs/2505.20707v1)
 
 **Authors**: Nicy Scaria, Silvester John Joseph Kennedy, Diksha Seth, Deepak Subramani
@@ -8746,6 +9484,7 @@ Small Language Models (SLMs) offer computational efficiency and accessibility, m
 
 ## Article 738
 ### Title@2025-05-27 (2): NeUQI: Near-Optimal Uniform Quantization Parameter Initialization
+
 **Title**: NeUQI: Near-Optimal Uniform Quantization Parameter Initialization | NeUQI: Beinahe-optimale einheitliche Quantisierung Parameter Initialisierung | NeUQI: 近最佳统一量化参数初始化 [2505.17595v2](http://arxiv.org/abs/2505.17595v2)
 
 **Authors**: Li Lin, Xinyu Hu, Xiaojun Wan
@@ -8756,6 +9495,7 @@ Large language models (LLMs) achieve impressive performance across domains but f
 
 ## Article 739
 ### Title@2025-05-27 (2): Between Circuits and Chomsky: Pre-pretraining on Formal Languages   Imparts Linguistic Biases
+
 **Title**: Between Circuits and Chomsky: Pre-pretraining on Formal Languages   Imparts Linguistic Biases | Zwischen Circuits und Chomsky: Pre-Pretraining auf Formal Languages Imparts Linguistic Biases | 巡回巡回和乔姆斯基之间:正式语言语言语言预科培训 [2502.19249v2](http://arxiv.org/abs/2502.19249v2)
 
 **Authors**: Michael Y. Hu, Jackson Petty, Chuan Shi, William Merrill, Tal Linzen
@@ -8766,6 +9506,7 @@ Pretraining language models on formal language can improve their acquisition of 
 
 ## Article 740
 ### Title@2025-05-27 (2): RaDeR: Reasoning-aware Dense Retrieval Models
+
 **Title**: RaDeR: Reasoning-aware Dense Retrieval Models | RaDeR: Vernünftige Dense-Retrieval-Modelle | RaDER: 合理觉悟常量检索模型 [2505.18405v2](http://arxiv.org/abs/2505.18405v2)
 
 **Authors**: Debrup Das, Sam O' Nuallain, Razieh Rahimi
@@ -8776,6 +9517,7 @@ We propose RaDeR, a set of reasoning-based dense retrieval models trained with d
 
 ## Article 741
 ### Title@2025-05-27 (2): Raising the Bar: Investigating the Values of Large Language Models via   Generative Evolving Testing
+
 **Title**: Raising the Bar: Investigating the Values of Large Language Models via   Generative Evolving Testing | Erhöhung der Messlatte: Ermittlung der Werte von großen Sprachmodellen durch Generative Evolving-Tests | 提高律师资格:通过创造演变测试调查大语言模式的价值 [2406.14230v4](http://arxiv.org/abs/2406.14230v4)
 
 **Authors**: Han Jiang, Xiaoyuan Yi, Zhihua Wei, Ziang Xiao, Shu Wang, Xing Xie
@@ -8786,6 +9528,7 @@ Warning: Contains harmful model outputs. Despite significant advancements, the p
 
 ## Article 742
 ### Title@2025-05-27 (2): vCache: Verified Semantic Prompt Caching
+
 **Title**: vCache: Verified Semantic Prompt Caching | vCache: Verifizierter semantischer Prompt-Caching | vCache: 校验语义快速缓冲 [2502.03771v3](http://arxiv.org/abs/2502.03771v3)
 
 **Authors**: Luis Gaspar Schroeder, Aditya Desai, Alejandro Cuadron, Kyle Chu, Shu Liu, Mark Zhao, Stephan Krusche, Alfons Kemper, Matei Zaharia, Joseph E. Gonzalez
@@ -8796,6 +9539,7 @@ Semantic caches return cached LLM-generated responses for semantically similar p
 
 ## Article 743
 ### Title@2025-05-27 (2): Beyond Templates: Dynamic Adaptation of Reasoning Demonstrations via   Feasibility-Aware Exploration
+
 **Title**: Beyond Templates: Dynamic Adaptation of Reasoning Demonstrations via   Feasibility-Aware Exploration | Beyond Templates: Dynamische Anpassung von Reasoning-Demonstrationen durch Machbarkeits-Bewusst-Exploration | 超越模板:通过可行性研究软件探索对说明理由的演示进行动态调整 [2505.20700v1](http://arxiv.org/abs/2505.20700v1)
 
 **Authors**: Yong Wu, Weihang Pan, Ke Li, Chen Binhui, Ping Li, Binbin Lin
@@ -8806,6 +9550,7 @@ Large language models (LLMs) have shown remarkable reasoning capabilities, yet a
 
 ## Article 744
 ### Title@2025-05-27 (2): Token-level Accept or Reject: A Micro Alignment Approach for Large   Language Models
+
 **Title**: Token-level Accept or Reject: A Micro Alignment Approach for Large   Language Models | Token-Level Akzeptieren oder ablehnen: Ein Micro Alignment-Ansatz für große Sprachmodelle | 接受或拒绝时肯级别:大语言模式微调整方法 [2505.19743v2](http://arxiv.org/abs/2505.19743v2)
 
 **Authors**: Yang Zhang, Yu Yu, Bo Tang, Yu Zhu, Chuxiong Sun, Wenqiang Wei, Jie Hu, Zipeng Xie, Zhiyu Li, Feiyu Xiong, Edward Chung
@@ -8816,6 +9561,7 @@ With the rapid development of Large Language Models (LLMs), aligning these model
 
 ## Article 745
 ### Title@2025-05-27 (2): Phir Hera Fairy: An English Fairytaler is a Strong Faker of Fluent   Speech in Low-Resource Indian Languages
+
 **Title**: Phir Hera Fairy: An English Fairytaler is a Strong Faker of Fluent   Speech in Low-Resource Indian Languages | Phir Hera Fairy: Ein englisches Märchen ist ein starker Faker der fließenden Rede in Low-Resource indischen Sprachen | Phir Hera Fairy:英国仙女是印度低资源语言流利流利的有力名人 [2505.20693v1](http://arxiv.org/abs/2505.20693v1)
 
 **Authors**: Praveen Srinivasa Varadhan, Srija Anand, Soma Siddhartha, Mitesh M. Khapra
@@ -8826,6 +9572,7 @@ What happens when an English Fairytaler is fine-tuned on Indian languages? We ev
 
 ## Article 746
 ### Title@2025-05-27 (2): Can we Debias Social Stereotypes in AI-Generated Images? Examining   Text-to-Image Outputs and User Perceptions
+
 **Title**: Can we Debias Social Stereotypes in AI-Generated Images? Examining   Text-to-Image Outputs and User Perceptions | Können wir Debias Social Stereotype in KI-generierten Bildern? Prüfung von Text-to-Image-Ausgaben und Benutzerwahrnehmungen | 我们能否在AI-光化图像中贬低社会陈规定型观念?审查文本到图像的产出和用户的看法 [2505.20692v1](http://arxiv.org/abs/2505.20692v1)
 
 **Authors**: Saharsh Barve, Andy Mao, Jiayue Melissa Shi, Prerna Juneja, Koustuv Saha
@@ -8836,6 +9583,7 @@ Recent advances in generative AI have enabled visual content creation through te
 
 ## Article 747
 ### Title@2025-05-27 (2): A Survey of LLM $\times$ DATA
+
 **Title**: A Survey of LLM $\times$ DATA | Eine Umfrage über LLM $\times$ DATEN | 对LLLM 美元-美元-美元-美元-数据数据的调查 [2505.18458v2](http://arxiv.org/abs/2505.18458v2)
 
 **Authors**: Xuanhe Zhou, Junxuan He, Wei Zhou, Haodong Chen, Zirui Tang, Haoyu Zhao, Xin Tong, Guoliang Li, Youmin Chen, Jun Zhou, Zhaojun Sun, Binyuan Hui, Shuo Wang, Conghui He, Zhiyuan Liu, Jingren Zhou, Fan Wu
@@ -8846,6 +9594,7 @@ The integration of large language model (LLM) and data management (DATA) is rapi
 
 ## Article 748
 ### Title@2025-05-27 (2): SELF-PERCEPT: Introspection Improves Large Language Models' Detection of   Multi-Person Mental Manipulation in Conversations
+
 **Title**: SELF-PERCEPT: Introspection Improves Large Language Models' Detection of   Multi-Person Mental Manipulation in Conversations | SELF-PERCEPT: Introspection verbessert die Erkennung von Multi-Person-Gedankenmanipulation in Gesprächen durch große Sprachmodelle | SELF-PERCEPT: 调查改进大语言模型在对话中探测多人心理操纵 [2505.20679v1](http://arxiv.org/abs/2505.20679v1)
 
 **Authors**: Danush Khanna, Pratinav Seth, Sidhaarth Sredharan Murali, Aditya Kumar Guru, Siddharth Shukla, Tanuj Tyagi, Sandeep Chaurasia, Kripabandhu Ghosh
@@ -8856,6 +9605,7 @@ Mental manipulation is a subtle yet pervasive form of abuse in interpersonal com
 
 ## Article 749
 ### Title@2025-05-27 (2): Flow of Reasoning: Training LLMs for Divergent Reasoning with Minimal   Examples
+
 **Title**: Flow of Reasoning: Training LLMs for Divergent Reasoning with Minimal   Examples | Flow of Reasoning: Schulung von LLMs für divergente Reasoning mit minimalen Beispielen | 理由流动:不同理由与最微小例子培训LLM [2406.05673v6](http://arxiv.org/abs/2406.05673v6)
 
 **Authors**: Fangxu Yu, Lai Jiang, Haoqiang Kang, Shibo Hao, Lianhui Qin
@@ -8866,6 +9616,7 @@ The ability to generate diverse solutions to a given problem is a hallmark of hu
 
 ## Article 750
 ### Title@2025-05-27 (2): Pretraining Language Models to Ponder in Continuous Space
+
 **Title**: Pretraining Language Models to Ponder in Continuous Space | Vorschulung von Sprachmodellen im kontinuierlichen Raum | 连续空间Ponder语言模型培训前 [2505.20674v1](http://arxiv.org/abs/2505.20674v1)
 
 **Authors**: Boyi Zeng, Shixiang Song, Siyuan Huang, Yixuan Wang, He Li, Ziwei He, Xinbing Wang, Zhiyu Li, Zhouhan Lin
@@ -8876,6 +9627,7 @@ Humans ponder before articulating complex sentence elements, enabling deeper cog
 
 ## Article 751
 ### Title@2025-05-27 (2): Many Heads Are Better Than One: Improved Scientific Idea Generation by A   LLM-Based Multi-Agent System
+
 **Title**: Many Heads Are Better Than One: Improved Scientific Idea Generation by A   LLM-Based Multi-Agent System | Viele Köpfe sind besser als eins: Verbesserte wissenschaftliche Idee-Generation durch ein LLM-basiertes Multi-Agent-System | 许多领导人比一个领导人好得多:由以LLM为基础的多种机构系统改进科学思想的一代 [2410.09403v4](http://arxiv.org/abs/2410.09403v4)
 
 **Authors**: Haoyang Su, Renqi Chen, Shixiang Tang, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong
@@ -8886,6 +9638,7 @@ The rapid advancement of scientific progress requires innovative tools that can 
 
 ## Article 752
 ### Title@2025-05-27 (2): Unveiling Language-Specific Features in Large Language Models via Sparse   Autoencoders
+
 **Title**: Unveiling Language-Specific Features in Large Language Models via Sparse   Autoencoders | Enthüllen sprachspezifischer Funktionen in großen Sprachmodellen über Sparse Autoencoder | 通过 Sparse 自动编译器在大语言模型中未解析特定语言特征 [2505.05111v2](http://arxiv.org/abs/2505.05111v2)
 
 **Authors**: Boyi Deng, Yu Wan, Yidan Zhang, Baosong Yang, Fuli Feng
@@ -8896,6 +9649,7 @@ The mechanisms behind multilingual capabilities in Large Language Models (LLMs) 
 
 ## Article 753
 ### Title@2025-05-27 (2): DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for   Efficient Large Reasoning Models
+
 **Title**: DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for   Efficient Large Reasoning Models | DRP: Destillierte Reasoning Pruning mit skill-aware Schritt Zersetzung für effiziente große Reasoning Modelle | DRP: 以技能认知方式逐步分解高效大型理由解释模型 [2505.13975v2](http://arxiv.org/abs/2505.13975v2)
 
 **Authors**: Yuxuan Jiang, Dawei Li, Frank Ferraro
@@ -8906,6 +9660,7 @@ While Large Reasoning Models (LRMs) have demonstrated success in complex reasoni
 
 ## Article 754
 ### Title@2025-05-27 (2): An In-depth Evaluation of Large Language Models in Sentence   Simplification with Error-based Human Assessment
+
 **Title**: An In-depth Evaluation of Large Language Models in Sentence   Simplification with Error-based Human Assessment | Eine eingehende Bewertung großer Sprachmodelle in der Satzvereinfachung mit fehlerbasierter Human Assessment | 深入评价以基于错误的人类评估为根据的简化刑期的大语言模式 [2403.04963v3](http://arxiv.org/abs/2403.04963v3)
 
 **Authors**: Xuanxin Wu, Yuki Arase
@@ -8916,6 +9671,7 @@ Recent studies have used both automatic metrics and human evaluations to assess 
 
 ## Article 755
 ### Title@2025-05-27 (2): Learning to Align Multi-Faceted Evaluation: A Unified and Robust   Framework
+
 **Title**: Learning to Align Multi-Faceted Evaluation: A Unified and Robust   Framework | Multi-Faceted-Evaluierung lernen: Ein einheitliches und robustes Framework | 学习如何调整多面评价:统一和强有力的框架 [2502.18874v3](http://arxiv.org/abs/2502.18874v3)
 
 **Authors**: Kaishuai Xu, Tiezheng Yu, Wenjun Hou, Yi Cheng, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li
@@ -8926,6 +9682,7 @@ Large Language Models (LLMs) are being used more and more extensively for automa
 
 ## Article 756
 ### Title@2025-05-27 (2): Subtle Errors in Reasoning: Preference Learning via Error-injected   Self-editing
+
 **Title**: Subtle Errors in Reasoning: Preference Learning via Error-injected   Self-editing | Subtile Fehler bei der Begründung: Präferenz-Lernen durch Error-injected Self-editing | 理由解释中的字幕错误:通过错误输入自编辑学习偏好 [2410.06638v4](http://arxiv.org/abs/2410.06638v4)
 
 **Authors**: Kaishuai Xu, Tiezheng Yu, Wenjun Hou, Yi Cheng, Chak Tou Leong, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li
@@ -8936,6 +9693,7 @@ Large Language Models (LLMs) have exhibited strong mathematical reasoning prowes
 
 ## Article 757
 ### Title@2025-05-27 (2): Towards LLM Unlearning Resilient to Relearning Attacks: A   Sharpness-Aware Minimization Perspective and Beyond
+
 **Title**: Towards LLM Unlearning Resilient to Relearning Attacks: A   Sharpness-Aware Minimization Perspective and Beyond | Auf dem Weg zu LLM Unlearning Resilient to Relearning Attacks: Eine scharfsinnige Minimierungsperspektive und darüber hinaus | 走向LLM 学会学会学会学会重新学习攻击的不学习能力:锐化-尽量减少知识的视角及展望 [2502.05374v4](http://arxiv.org/abs/2502.05374v4)
 
 **Authors**: Chongyu Fan, Jinghan Jia, Yihua Zhang, Anil Ramakrishna, Mingyi Hong, Sijia Liu
@@ -8946,6 +9704,7 @@ The LLM unlearning technique has recently been introduced to comply with data re
 
 ## Article 758
 ### Title@2025-05-27 (2): Shadow-FT: Tuning Instruct via Base
+
 **Title**: Shadow-FT: Tuning Instruct via Base | Shadow-FT: Tuning Instruct via Base | 影子-FT:通过基地的调试指示 [2505.12716v2](http://arxiv.org/abs/2505.12716v2)
 
 **Authors**: Taiqiang Wu, Runming Yang, Jiayi Li, Pengfei Hu, Ngai Wong, Yujiu Yang
@@ -8956,6 +9715,7 @@ Large language models (LLMs) consistently benefit from further fine-tuning on va
 
 ## Article 759
 ### Title@2025-05-27 (2): ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement   Learning
+
 **Title**: ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement   Learning | ReMA: Meta-Denken lernen für LLMs mit Multi-Agenten-Verstärkungs-Lernen | ReMA:学习多机构强化学习的LLMLM的元思维 [2503.09501v3](http://arxiv.org/abs/2503.09501v3)
 
 **Authors**: Ziyu Wan, Yunxiang Li, Xiaoyu Wen, Yan Song, Hanjing Wang, Linyi Yang, Mark Schmidt, Jun Wang, Weinan Zhang, Shuyue Hu, Ying Wen
@@ -8966,6 +9726,7 @@ Recent research on Reasoning of Large Language Models (LLMs) has sought to furth
 
 ## Article 760
 ### Title@2025-05-27 (2): Knowledge Boundary of Large Language Models: A Survey
+
 **Title**: Knowledge Boundary of Large Language Models: A Survey | Wissensgrenze von großen Sprachmodellen: Eine Umfrage | 大语言模式的知识范围:调查 [2412.12472v2](http://arxiv.org/abs/2412.12472v2)
 
 **Authors**: Moxin Li, Yong Zhao, Wenxuan Zhang, Shuaiyi Li, Wenya Xie, See-Kiong Ng, Tat-Seng Chua, Yang Deng
@@ -8976,6 +9737,7 @@ Although large language models (LLMs) store vast amount of knowledge in their pa
 
 ## Article 761
 ### Title@2025-05-27 (2): How to Upscale Neural Networks with Scaling Law? A Survey and Practical   Guidelines
+
 **Title**: How to Upscale Neural Networks with Scaling Law? A Survey and Practical   Guidelines | Wie können neurale Netzwerke mit Skalierungsgesetzen ausgebaut werden? Eine Umfrage und praktische Leitlinien | 如何提升具有扩展法的神经网络? [2502.12051v3](http://arxiv.org/abs/2502.12051v3)
 
 **Authors**: Ayan Sengupta, Yash Goel, Tanmoy Chakraborty
@@ -8986,6 +9748,7 @@ Neural scaling laws have revolutionized the design and optimization of large-sca
 
 ## Article 762
 ### Title@2025-05-27 (2): Self-Route: Automatic Mode Switching via Capability Estimation for   Efficient Reasoning
+
 **Title**: Self-Route: Automatic Mode Switching via Capability Estimation for   Efficient Reasoning | Self-Route: Automatische Mode-Umschaltung über Capability-Schätzung für effizientes Reasoning | 自操作: 通过能力估计法进行自动模式转换,以高效理由推理 [2505.20664v1](http://arxiv.org/abs/2505.20664v1)
 
 **Authors**: Yang He, Xiao Ding, Bibo Cai, Yufei Zhang, Kai Xiong, Zhouhao Sun, Bing Qin, Ting Liu
@@ -8996,6 +9759,7 @@ While reasoning-augmented large language models (RLLMs) significantly enhance co
 
 ## Article 763
 ### Title@2025-05-27 (2): TeroSeek: An AI-Powered Knowledge Base and Retrieval Generation Platform   for Terpenoid Research
+
 **Title**: TeroSeek: An AI-Powered Knowledge Base and Retrieval Generation Platform   for Terpenoid Research | TeroSeek: Eine KI-Powered Knowledge Base und Plattform zur Retrieval-Generation für Terpenoidforschung | TeroSeek: AI-Prepenorids研究知识库和检索生成平台 [2505.20663v1](http://arxiv.org/abs/2505.20663v1)
 
 **Authors**: Xu Kang, Siqi Jiang, Kangwei Xu, Jiahao Li, Ruibo Wu
@@ -9006,6 +9770,7 @@ Terpenoids are a crucial class of natural products that have been studied for ov
 
 ## Article 764
 ### Title@2025-05-27 (2): TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV   Cache Optimization
+
 **Title**: TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV   Cache Optimization | TailorKV: Hybrides Framework für lange Kontext-Inferenz durch maßgeschneiderte KV-Cache-Optimierung | 定制 KV: 通过定制 KV Cache 优化实现长文本推断的混合框架 [2505.19586v2](http://arxiv.org/abs/2505.19586v2)
 
 **Authors**: Dingyu Yao, Bowen Shen, Zheng Lin, Wei Liu, Jian Luan, Bin Wang, Weiping Wang
@@ -9016,6 +9781,7 @@ The Key-Value (KV) cache in generative large language models (LLMs) introduces s
 
 ## Article 765
 ### Title@2025-05-27 (2): BacktrackAgent: Enhancing GUI Agent with Error Detection and   Backtracking Mechanism
+
 **Title**: BacktrackAgent: Enhancing GUI Agent with Error Detection and   Backtracking Mechanism | BacktrackAgent: Verbesserung des GUI-Agenten mit Fehlererkennung und Backtracking-Mechanismus | 后向跟踪:加强有错误探测和回溯跟踪机制的图形界面代理 [2505.20660v1](http://arxiv.org/abs/2505.20660v1)
 
 **Authors**: Qinzhuo Wu, Pengzhi Gao, Wei Liu, Jian Luan
@@ -9026,6 +9792,7 @@ Graphical User Interface (GUI) agents have gained substantial attention due to t
 
 ## Article 766
 ### Title@2025-05-27 (2): DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context   LLMs
+
 **Title**: DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context   LLMs | DynamicKV: Task-Aware Adaptive KV Cache-Kompression für LLMs mit langem Kontext | DiriveKV: 长期LMS 任务- 软件适应 KV 缓存压缩 [2412.14838v4](http://arxiv.org/abs/2412.14838v4)
 
 **Authors**: Xiabin Zhou, Wenbin Wang, Minyan Zeng, Jiaxian Guo, Xuebo Liu, Li Shen, Min Zhang, Liang Ding
@@ -9036,6 +9803,7 @@ Efficient KV cache management in LLMs is crucial for long-context tasks like RAG
 
 ## Article 767
 ### Title@2025-05-27 (2): Enhancing Transformation from Natural Language to Signal Temporal Logic   Using LLMs with Diverse External Knowledge
+
 **Title**: Enhancing Transformation from Natural Language to Signal Temporal Logic   Using LLMs with Diverse External Knowledge | Verbesserung der Transformation von natürlicher Sprache zur Signalzeitlogik mit LLMs mit vielfältigem externem Wissen | 利用具有多种外部知识的LMLML 增强从自然语言向信号时时逻辑的转变 [2505.20658v1](http://arxiv.org/abs/2505.20658v1)
 
 **Authors**: Yue Fang, Zhi Jin, Jie An, Hongshen Chen, Xiaohong Chen, Naijun Zhan
@@ -9046,6 +9814,7 @@ Temporal Logic (TL), especially Signal Temporal Logic (STL), enables precise for
 
 ## Article 768
 ### Title@2025-05-27 (2): Chinese Cyberbullying Detection: Dataset, Method, and Validation
+
 **Title**: Chinese Cyberbullying Detection: Dataset, Method, and Validation | Chinesische Cyberbully-Erkennung: Datensatz, Methode und Validierung | 中国网络欺凌探测:数据集、方法和校验 [2505.20654v1](http://arxiv.org/abs/2505.20654v1)
 
 **Authors**: Yi Zhu, Xin Zou, Xindong Wu
@@ -9056,6 +9825,7 @@ Existing cyberbullying detection benchmarks were organized by the polarity of sp
 
 ## Article 769
 ### Title@2025-05-27 (2): Unveiling the Key Factors for Distilling Chain-of-Thought Reasoning
+
 **Title**: Unveiling the Key Factors for Distilling Chain-of-Thought Reasoning | Enthüllen der wichtigsten Faktoren für die Destillierung Kette-of-Thought-Reasoning | 理据链的理据的理据 [2502.18001v3](http://arxiv.org/abs/2502.18001v3)
 
 **Authors**: Xinghao Chen, Zhijing Sun, Wenjin Guo, Miaoran Zhang, Yanjun Chen, Yirong Sun, Hui Su, Yijie Pan, Dietrich Klakow, Wenjie Li, Xiaoyu Shen
@@ -9066,6 +9836,7 @@ Large Language Models (LLMs) excel in reasoning tasks through Chain-of-Thought (
 
 ## Article 770
 ### Title@2025-05-27 (2): When More is Less: Understanding Chain-of-Thought Length in LLMs
+
 **Title**: When More is Less: Understanding Chain-of-Thought Length in LLMs | Wenn mehr weniger ist: Verstehst du die Kettenlänge in LLMs? | 越少越多: 了解LLM 中所寻求的链条长度 [2502.07266v3](http://arxiv.org/abs/2502.07266v3)
 
 **Authors**: Yuyang Wu, Yifei Wang, Ziyu Ye, Tianqi Du, Stefanie Jegelka, Yisen Wang
@@ -9076,6 +9847,7 @@ Large Language Models (LLMs) employ Chain-of-Thought (CoT) reasoning to deconstr
 
 ## Article 771
 ### Title@2025-05-27 (2): FinTagging: An LLM-ready Benchmark for Extracting and Structuring   Financial Information
+
 **Title**: FinTagging: An LLM-ready Benchmark for Extracting and Structuring   Financial Information | Fintagging: Ein LLM-fähiger Benchmark für die Gewinnung und Strukturierung von Finanzinformationen | 金融信息抽取和结构安排:LLM已准备就绪的金融信息提取和结构框架基准 [2505.20650v1](http://arxiv.org/abs/2505.20650v1)
 
 **Authors**: Yan Wang, Yang Ren, Lingfei Qian, Xueqing Peng, Keyi Wang, Yi Han, Dongji Feng, Xiao-Yang Liu, Jimin Huang, Qianqian Xie
@@ -9086,6 +9858,7 @@ We introduce FinTagging, the first full-scope, table-aware XBRL benchmark design
 
 ## Article 772
 ### Title@2025-05-27 (2): DRPruning: Efficient Large Language Model Pruning through   Distributionally Robust Optimization
+
 **Title**: DRPruning: Efficient Large Language Model Pruning through   Distributionally Robust Optimization | DRPruning: Effiziente großsprachige Modellprüfung durch distributiv robuste Optimierung | DRP 运行:通过分布式强力优化实现高效大语言模式 [2411.14055v2](http://arxiv.org/abs/2411.14055v2)
 
 **Authors**: Hexuan Deng, Wenxiang Jiao, Xuebo Liu, Jing Li, Min Zhang, Zhaopeng Tu
@@ -9096,6 +9869,7 @@ Large language models (LLMs) deliver impressive results but face challenges from
 
 ## Article 773
 ### Title@2025-05-27 (2): STEER-BENCH: A Benchmark for Evaluating the Steerability of Large   Language Models
+
 **Title**: STEER-BENCH: A Benchmark for Evaluating the Steerability of Large   Language Models | STEER-BENCH: Benchmark für die Bewertung der Steerability von großen Sprachmodellen | STEER-BENCH:评估大语言模型可耐性的基准 [2505.20645v1](http://arxiv.org/abs/2505.20645v1)
 
 **Authors**: Kai Chen, Zihao He, Taiwei Shi, Kristina Lerman
@@ -9106,6 +9880,7 @@ Steerability, or the ability of large language models (LLMs) to adapt outputs to
 
 ## Article 774
 ### Title@2025-05-27 (2): Prompt-Based LLMs for Position Bias-Aware Reranking in Personalized   Recommendations
+
 **Title**: Prompt-Based LLMs for Position Bias-Aware Reranking in Personalized   Recommendations | Prompt-basierte LLMs für Position Bias-Aware Reranking in personalisierten Empfehlungen | 个人化建议中位置比亚软件重新排位的即时即时全资 [2505.04948v2](http://arxiv.org/abs/2505.04948v2)
 
 **Authors**: Md Aminul Islam, Ahmed Sayeed Faruk
@@ -9116,6 +9891,7 @@ Recommender systems are essential for delivering personalized content across dig
 
 ## Article 775
 ### Title@2025-05-27 (2): A-MEM: Agentic Memory for LLM Agents
+
 **Title**: A-MEM: Agentic Memory for LLM Agents | A-MEM: Agentischer Speicher für LLM-Agenten | A-MEM: LLM 剂的剂内存 [2502.12110v8](http://arxiv.org/abs/2502.12110v8)
 
 **Authors**: Wujiang Xu, Kai Mei, Hang Gao, Juntao Tan, Zujie Liang, Yongfeng Zhang
@@ -9126,6 +9902,7 @@ While large language model (LLM) agents can effectively use external tools for c
 
 ## Article 776
 ### Title@2025-05-27 (2): Rethinking MUSHRA: Addressing Modern Challenges in Text-to-Speech   Evaluation
+
 **Title**: Rethinking MUSHRA: Addressing Modern Challenges in Text-to-Speech   Evaluation | Rethinking MUSHRA: Bewältigung moderner Herausforderungen in der Text-zu-Speech-Bewertung | 重新思考MUSHRA:应对文本到语音评价中的现代挑战 [2411.12719v3](http://arxiv.org/abs/2411.12719v3)
 
 **Authors**: Praveen Srinivasa Varadhan, Amogh Gulati, Ashwin Sankar, Srija Anand, Anirudh Gupta, Anirudh Mukherjee, Shiva Kumar Marepally, Ankur Bhatia, Saloni Jaju, Suvrat Bhooshan, Mitesh M. Khapra
@@ -9136,6 +9913,7 @@ Despite rapid advancements in TTS models, a consistent and robust human evaluati
 
 ## Article 777
 ### Title@2025-05-27 (2): GMoE: Empowering LLMs Fine-Tuning via MoE Graph Collaboration
+
 **Title**: GMoE: Empowering LLMs Fine-Tuning via MoE Graph Collaboration | GMoE: Stärkung von LLMs Feinsteuerung über MoE Graph Collaboration | GMOE:通过教育部图表合作,赋予LLMs Fine-Turning女士权力 [2412.16216v3](http://arxiv.org/abs/2412.16216v3)
 
 **Authors**: Ting Bai, Yue Yu, Le Huang, Zenan Xu, Zhe Zhao, Chuan Shi
@@ -9146,6 +9924,7 @@ The sparse Mixture-of-Experts (MoE) architecture of large language models (LLMs)
 
 ## Article 778
 ### Title@2025-05-27 (2): STEM-POM: Evaluating Language Models Math-Symbol Reasoning in Document   Parsing
+
 **Title**: STEM-POM: Evaluating Language Models Math-Symbol Reasoning in Document   Parsing | STEM-POM: Bewertung von Sprachmodellen Mathe-Symbol-Reasoning in Document Parsing | STEM-POM: 评估文档分析中的语言模型数学类比理由 [2411.00387v2](http://arxiv.org/abs/2411.00387v2)
 
 **Authors**: Jiaru Zou, Qing Wang, Pratyush Thakur, Nickvash Kani
@@ -9156,6 +9935,7 @@ Advances in large language models (LLMs) have spurred research into enhancing th
 
 ## Article 779
 ### Title@2025-05-27 (2): Information Gain-Guided Causal Intervention for Autonomous Debiasing   Large Language Models
+
 **Title**: Information Gain-Guided Causal Intervention for Autonomous Debiasing   Large Language Models | Information Gain-Guided Causal Intervention for Autonomous Debiasing Large Language Models | 以信息引导为导向,对不利于大语言模式的自治歧视大语种模式采取因果干预 [2504.12898v3](http://arxiv.org/abs/2504.12898v3)
 
 **Authors**: Zhouhao Sun, Xiao Ding, Li Du, Yunpeng Xu, Yixuan Ma, Yang Zhao, Bing Qin, Ting Liu
@@ -9166,6 +9946,7 @@ Despite significant progress, recent studies indicate that current large languag
 
 ## Article 780
 ### Title@2025-05-27 (2): Benchmarking and Pushing the Multi-Bias Elimination Boundary of LLMs via   Causal Effect Estimation-guided Debiasing
+
 **Title**: Benchmarking and Pushing the Multi-Bias Elimination Boundary of LLMs via   Causal Effect Estimation-guided Debiasing | Benchmarking und Pushing der Multi-Bias Elimination Boundary von LLMs über Causal Effect Schätzung-geführte Debiasing | 通过因果关系估测-制导偏向性,确定和推动消除长效LLMs的多比消除边界 [2505.16522v2](http://arxiv.org/abs/2505.16522v2)
 
 **Authors**: Zhouhao Sun, Zhiyuan Kan, Xiao Ding, Li Du, Yang Zhao, Bing Qin, Ting Liu
@@ -9176,6 +9957,7 @@ Despite significant progress, recent studies have indicated that current large l
 
 ## Article 781
 ### Title@2025-05-27 (2): Monocle: Hybrid Local-Global In-Context Evaluation for Long-Text   Generation with Uncertainty-Based Active Learning
+
 **Title**: Monocle: Hybrid Local-Global In-Context Evaluation for Long-Text   Generation with Uncertainty-Based Active Learning | Monocle: Hybride lokale und globale In-Context-Evaluierung für die Langtext-Generierung mit unsicherem aktivem Lernen | 单项:对具有不确定和积极学习能力的长篇和不确定的代代人进行地方-全球混合文 文 评价 [2505.20195v2](http://arxiv.org/abs/2505.20195v2)
 
 **Authors**: Xiaorong Wang, Ting Yang, Zhu Zhang, Shuo Wang, Zihan Zhou, Liner Yang, Zhiyuan Liu, Maosong Sun
@@ -9186,6 +9968,7 @@ Assessing the quality of long-form, model-generated text is challenging, even wi
 
 ## Article 782
 ### Title@2025-05-27 (2): Test-Time Learning for Large Language Models
+
 **Title**: Test-Time Learning for Large Language Models | Test-Time Learning für große Sprachmodelle | 大语言模型试验时间学习 [2505.20633v1](http://arxiv.org/abs/2505.20633v1)
 
 **Authors**: Jinwu Hu, Zhitian Zhang, Guohao Chen, Xutao Wen, Chao Shuai, Wei Luo, Bin Xiao, Yuanqing Li, Mingkui Tan
@@ -9196,6 +9979,7 @@ While Large Language Models (LLMs) have exhibited remarkable emergent capabiliti
 
 ## Article 783
 ### Title@2025-05-27 (2): SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large   Language Models for Source Code Vulnerability Analysis
+
 **Title**: SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large   Language Models for Source Code Vulnerability Analysis | SV-TrustEval-C: Bewertung von Struktur und semantischer Vernunft in großen Sprachmodellen für die Analyse von Quellencode-Anfälligkeiten | SV-信任值-C:在源码脆弱性分析大语言模型中评估结构和语义理由 [2505.20630v1](http://arxiv.org/abs/2505.20630v1)
 
 **Authors**: Yansong Li, Paula Branco, Alexander M. Hoole, Manish Marwah, Hari Manassery Koduvely, Guy-Vincent Jourdan, Stephan Jou
@@ -9206,6 +9990,7 @@ As Large Language Models (LLMs) evolve in understanding and generating code, acc
 
 ## Article 784
 ### Title@2025-05-27 (2): Long Context Scaling: Divide and Conquer via Multi-Agent Question-driven   Collaboration
+
 **Title**: Long Context Scaling: Divide and Conquer via Multi-Agent Question-driven   Collaboration | Long Context Scaling: Teilen und Erobern durch multi-agent question-driven Collaboration | 长期范围:通过多代理问题驱动的协作实现分化和征服 [2505.20625v1](http://arxiv.org/abs/2505.20625v1)
 
 **Authors**: Sibo Xiao, Zixin Lin, Wenyang Gao, Yue Zhang
@@ -9216,6 +10001,7 @@ Processing long contexts has become a critical capability for modern large langu
 
 ## Article 785
 ### Title@2025-05-27 (2): POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event   Online Polarization
+
 **Title**: POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event   Online Polarization | POLAR: Benchmark für multilinguale, multikulturelle und multi-eventuelle Online-Polarisierung | POLAR: 多种语言、多文化和多种晚上在线极化的基准 [2505.20624v1](http://arxiv.org/abs/2505.20624v1)
 
 **Authors**: Usman Naseem, Juan Ren, Saba Anwar, Sarah Kohail, Rudy Alexandro Garrido Veliz, Robert Geislinger, Aisha Jabr, Idris Abdulmumin, Laiba Qureshi, Aarushi Ajay Borkar, Maryam Ibrahim Mukhtar, Abinew Ali Ayele, Ibrahim Said Ahmad, Adem Ali, Martin Semmann, Shamsuddeen Hassan Muhammad, Seid Muhie Yimam
@@ -9226,6 +10012,7 @@ Online polarization poses a growing challenge for democratic discourse, yet most
 
 ## Article 786
 ### Title@2025-05-27 (2): Towards Inclusive ASR: Investigating Voice Conversion for Dysarthric   Speech Recognition in Low-Resource Languages
+
 **Title**: Towards Inclusive ASR: Investigating Voice Conversion for Dysarthric   Speech Recognition in Low-Resource Languages | Towards Inclusive ASR: Untersuchung der Sprachumwandlung für Dysarthric Speech Recognition in Low-Resource Sprachen | 努力实现包容性的ASR:低资源语言中承认代谢语言语音转换调查 [2505.14874v2](http://arxiv.org/abs/2505.14874v2)
 
 **Authors**: Chin-Jou Li, Eunjung Yeo, Kwanghee Choi, Paula Andrea Pérez-Toro, Masao Someki, Rohan Kumar Das, Zhengjun Yue, Juan Rafael Orozco-Arroyave, Elmar Nöth, David R. Mortensen
@@ -9236,6 +10023,7 @@ Automatic speech recognition (ASR) for dysarthric speech remains challenging due
 
 ## Article 787
 ### Title@2025-05-27 (2): SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine   Translation
+
 **Title**: SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine   Translation | SeqPO-SiMT: Sequentielle Politikoptimierung für die gleichzeitige maschinelle Übersetzung | SeqPO-SIMT:同步机器翻译的序列政策优化 [2505.20622v1](http://arxiv.org/abs/2505.20622v1)
 
 **Authors**: Ting Xu, Zhichao Huang, Jiankai Sun, Shanbo Cheng, Wai Lam
@@ -9246,6 +10034,7 @@ We present Sequential Policy Optimization for Simultaneous Machine Translation (
 
 ## Article 788
 ### Title@2025-05-27 (2): LLM-FE: Automated Feature Engineering for Tabular Data with LLMs as   Evolutionary Optimizers
+
 **Title**: LLM-FE: Automated Feature Engineering for Tabular Data with LLMs as   Evolutionary Optimizers | LLM-FE: Automatisiertes Feature Engineering für Tabellendaten mit LLMs als Evolutionsoptimierer | LLM-FE: 制表数据的自动地貌工程,LLMM作为进化优化器 [2503.14434v2](http://arxiv.org/abs/2503.14434v2)
 
 **Authors**: Nikhil Abhyankar, Parshin Shojaee, Chandan K. Reddy
@@ -9256,6 +10045,7 @@ Automated feature engineering plays a critical role in improving predictive mode
 
 ## Article 789
 ### Title@2025-05-27 (2): Retrospex: Language Agent Meets Offline Reinforcement Learning Critic
+
 **Title**: Retrospex: Language Agent Meets Offline Reinforcement Learning Critic | Retrospex: Sprachagent trifft Offline-Verstärkung Lernkritik | Retrospex: 语言代理 与离线强化学习中心相会 [2505.11807v2](http://arxiv.org/abs/2505.11807v2)
 
 **Authors**: Yufei Xiang, Yiqun Shen, Yeqin Zhang, Cam-Tu Nguyen
@@ -9266,6 +10056,7 @@ Large Language Models (LLMs) possess extensive knowledge and commonsense reasoni
 
 ## Article 790
 ### Title@2025-05-27 (2): REAL-Prover: Retrieval Augmented Lean Prover for Mathematical Reasoning
+
 **Title**: REAL-Prover: Retrieval Augmented Lean Prover for Mathematical Reasoning | REAL-Prover: Retrieval Augmented Lean Prover for Mathematical Reasoning | 实际检索: 数学理由的回收增量精液预言 [2505.20613v1](http://arxiv.org/abs/2505.20613v1)
 
 **Authors**: Ziju Shen, Naohao Huang, Fanyi Yang, Yutong Wang, Guoxiong Gao, Tianyi Xu, Jiedong Jiang, Wanyi He, Pu Yang, Mengzhou Sun, Haocheng Ju, Peihao Wu, Bryan Dai, Bin Dong
@@ -9276,6 +10067,7 @@ Nowadays, formal theorem provers have made monumental progress on high-school an
 
 ## Article 791
 ### Title@2025-05-27 (2): Roboflow100-VL: A Multi-Domain Object Detection Benchmark for   Vision-Language Models
+
 **Title**: Roboflow100-VL: A Multi-Domain Object Detection Benchmark for   Vision-Language Models | Roboflow100-VL: Ein Multi-Domain-Objekterkennungs-Benchmark für Vision-Language-Modelle | 机器人流100-VL:愿景-语言模型多功能物体探测基准 [2505.20612v1](http://arxiv.org/abs/2505.20612v1)
 
 **Authors**: Peter Robicheaux, Matvei Popov, Anish Madan, Isaac Robinson, Joseph Nelson, Deva Ramanan, Neehar Peri
@@ -9286,6 +10078,7 @@ Vision-language models (VLMs) trained on internet-scale data achieve remarkable 
 
 ## Article 792
 ### Title@2025-05-27 (2): Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for   Structured Language Embeddings
+
 **Title**: Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for   Structured Language Embeddings | Hierarchische Mamba trifft auf Hyperbolische Geometrie: Ein neues Paradigma für strukturierte Spracheinbettungen | 等级式 Mamba 相遇超双曲几何: 结构化语言嵌入的新范式 [2505.18973v2](http://arxiv.org/abs/2505.18973v2)
 
 **Authors**: Sarang Patil, Ashish Parmanand Pandey, Ioannis Koutis, Mengjia Xu
@@ -9296,6 +10089,7 @@ Selective state-space models have achieved great success in long-sequence modeli
 
 ## Article 793
 ### Title@2025-05-27 (2): Comparisons between a Large Language Model-based Real-Time Compound   Diagnostic Medical AI Interface and Physicians for Common Internal Medicine   Cases using Simulated Patients
+
 **Title**: Comparisons between a Large Language Model-based Real-Time Compound   Diagnostic Medical AI Interface and Physicians for Common Internal Medicine   Cases using Simulated Patients | Vergleiche zwischen einer großsprachigen, auf Echtzeit-Compound-Diagnostik basierenden medizinischen KI-Schnittstelle und Ärzten für Fälle der gewöhnlichen inneren Medizin mit simulierten Patienten | 使用模拟病人的大型语言模型基于实时复合诊断器实时诊断模型的医学AI 接口和使用模拟病人的普通内科病人医生对普通内科病例的比较 [2505.20609v1](http://arxiv.org/abs/2505.20609v1)
 
 **Authors**: Hyungjun Park, Chang-Yun Woo, Seungjo Lim, Seunghwan Lim, Keunho Kwak, Ju Young Jeong, Chong Hyun Suh
@@ -9306,6 +10100,7 @@ Objective To develop an LLM based realtime compound diagnostic medical AI interf
 
 ## Article 794
 ### Title@2025-05-27 (2): NAP^2: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting   by Learning from Human
+
 **Title**: NAP^2: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting   by Learning from Human | NAP^2: Ein Benchmark für Natürlichkeit und Datenschutz-Erhaltung Text-Rewriting durch Lernen vom Menschen | 国家行动纲领第2号: " 从人类学习 " 的自然和隐私保护文本改写基准 [2406.03749v2](http://arxiv.org/abs/2406.03749v2)
 
 **Authors**: Shuo Huang, William MacLean, Xiaoxi Kang, Qiongkai Xu, Zhuang Li, Xingliang Yuan, Gholamreza Haffari, Lizhen Qu
@@ -9316,6 +10111,7 @@ The widespread use of cloud-based Large Language Models (LLMs) has heightened co
 
 ## Article 795
 ### Title@2025-05-27 (2): Towards Pretraining Robust ASR Foundation Model with Acoustic-Aware Data   Augmentation
+
 **Title**: Towards Pretraining Robust ASR Foundation Model with Acoustic-Aware Data   Augmentation | Auf dem Weg zur Vorschulung Robustes ASR-Stiftungsmodell mit akustisch-bewusster Datenvergrößerung | ASR基金会样板,配有声-声-声-声数据增强数据增强模型 [2505.20606v1](http://arxiv.org/abs/2505.20606v1)
 
 **Authors**: Dancheng Liu, Amir Nassereldine, Chenhui Xu, Jinjun Xiong
@@ -9326,6 +10122,7 @@ Whisper's robust performance in automatic speech recognition (ASR) is often attr
 
 ## Article 796
 ### Title@2025-05-27 (2): TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis
+
 **Title**: TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis | TCSinger 2: Anpassbare Mehrsprachige Null-Shot-Singen-Stimme-Synthese | TCSinger 2:可定制的多语种零弹唱声合成 [2505.14910v2](http://arxiv.org/abs/2505.14910v2)
 
 **Authors**: Yu Zhang, Wenxiang Guo, Changhao Pan, Dongyu Yao, Zhiyuan Zhu, Ziyue Jiang, Yuhan Wang, Tao Jin, Zhou Zhao
@@ -9336,6 +10133,7 @@ Customizable multilingual zero-shot singing voice synthesis (SVS) has various po
 
 ## Article 797
 ### Title@2025-05-27 (2): Gender and Positional Biases in LLM-Based Hiring Decisions: Evidence   from Comparative CV/Résumé Evaluations
+
 **Title**: Gender and Positional Biases in LLM-Based Hiring Decisions: Evidence   from Comparative CV/Résumé Evaluations | Gender and Positional Biases in LLM-based Hiring Entscheidungen: Belege aus vergleichenden CV/Résumé Bewertungen | 以LLM为基础的雇用决定中的性别与职位两重情况:比较 CV/摘要评价中的证据 [2505.17049v2](http://arxiv.org/abs/2505.17049v2)
 
 **Authors**: David Rozado
@@ -9346,6 +10144,7 @@ This study examines the behavior of Large Language Models (LLMs) when evaluating
 
 ## Article 798
 ### Title@2025-05-26 (1): Effectiveness of Prompt Optimization in NL2SQL Systems
+
 **Title**: Effectiveness of Prompt Optimization in NL2SQL Systems | Wirksamkeit der Prompt-Optimierung in NL2SQL-Systemen | NL2SQL系统迅速优化的效能 [2505.20591v1](http://arxiv.org/abs/2505.20591v1)
 
 **Authors**: Sairam Gurajada, Eser Kandogan, Sajjadur Rahman
@@ -9356,6 +10155,7 @@ NL2SQL approaches have greatly benefited from the impressive capabilities of lar
 
 ## Article 799
 ### Title@2025-05-26 (1): Training a Generally Curious Agent
+
 **Title**: Training a Generally Curious Agent | Ein allgemein neugieriger Agent ausbilden | a 训练一般好奇剂 [2502.17543v3](http://arxiv.org/abs/2502.17543v3)
 
 **Authors**: Fahim Tajwar, Yiding Jiang, Abitha Thankaraj, Sumaita Sadia Rahman, J Zico Kolter, Jeff Schneider, Ruslan Salakhutdinov
@@ -9366,6 +10166,7 @@ Efficient exploration is essential for intelligent systems interacting with thei
 
 ## Article 800
 ### Title@2025-05-26 (1): Emotion Classification In-Context in Spanish
+
 **Title**: Emotion Classification In-Context in Spanish | Emotion Classification In-Context auf Spanisch | 西班牙文《情感分类西班牙文内引文》 [2505.20571v1](http://arxiv.org/abs/2505.20571v1)
 
 **Authors**: Bipul Thapa, Gabriel Cofre
@@ -9376,6 +10177,7 @@ Classifying customer feedback into distinct emotion categories is essential for 
 
 ## Article 801
 ### Title@2025-05-26 (1): The NaijaVoices Dataset: Cultivating Large-Scale, High-Quality,   Culturally-Rich Speech Data for African Languages
+
 **Title**: The NaijaVoices Dataset: Cultivating Large-Scale, High-Quality,   Culturally-Rich Speech Data for African Languages | Der NaijaVoices-Datensatz: Pflege von großformatigen, qualitativ hochwertigen, kulturell-richschen Sprachdaten für afrikanische Sprachen | NaijaVoices数据集:培养非洲语言的大型、高质量、文化-Rich语音数据 [2505.20564v1](http://arxiv.org/abs/2505.20564v1)
 
 **Authors**: Chris Emezue, The NaijaVoices Community, Busayo Awobade, Abraham Owodunni, Handel Emezue, Gloria Monica Tobechukwu Emezue, Nefertiti Nneoma Emezue, Sewade Ogun, Bunmi Akinremi, David Ifeoluwa Adelani, Chris Pal
@@ -9386,6 +10188,7 @@ The development of high-performing, robust, and reliable speech technologies dep
 
 ## Article 802
 ### Title@2025-05-26 (1): Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM   Reasoning
+
 **Title**: Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM   Reasoning | Jenseits von Markovian: Reflektierende Exploration über Bayes-Adaptive RL für LLM-Reasoning | 马尔科维安之后:通过Bayes-Adapative RL进行反射勘探,用于LLM 理由分析 [2505.20561v1](http://arxiv.org/abs/2505.20561v1)
 
 **Authors**: Shenao Zhang, Yaqing Wang, Yinxiao Liu, Tianqi Liu, Peter Grabowski, Eugene Ie, Zhaoran Wang, Yunxuan Li
@@ -9396,6 +10199,7 @@ Large Language Models (LLMs) trained via Reinforcement Learning (RL) have exhibi
 
 ## Article 803
 ### Title@2025-05-26 (1): Task-Informed Anti-Curriculum by Masking Improves Downstream Performance   on Text
+
 **Title**: Task-Informed Anti-Curriculum by Masking Improves Downstream Performance   on Text | Task-informierte Anti-Kurriculum durch Masken verbessert Downstream-Performance auf Text | 通过遮罩改进文字下流业绩,以任务化的反文体 [2502.12953v2](http://arxiv.org/abs/2502.12953v2)
 
 **Authors**: Andrei Jarca, Florinel Alin Croitoru, Radu Tudor Ionescu
@@ -9406,6 +10210,7 @@ Masked language modeling has become a widely adopted unsupervised technique to p
 
 ## Article 804
 ### Title@2025-05-26 (1): Predicting Through Generation: Why Generation Is Better for Prediction
+
 **Title**: Predicting Through Generation: Why Generation Is Better for Prediction | Vorhersagen durch Generation: Warum Generation besser für Vorhersagen ist | 通过一代人预测:为什么一代人更有利于预测 [2502.17817v2](http://arxiv.org/abs/2502.17817v2)
 
 **Authors**: Md Kowsher, Nusrat Jahan Prottasha, Prakash Bhat, Chun-Nam Yu, Mojtaba Soltanalian, Ivan Garibay, Ozlem Garibay, Chen Chen, Niloofar Yousefi
@@ -9416,6 +10221,7 @@ This paper argues that generating output tokens is more effective than using poo
 
 ## Article 805
 ### Title@2025-05-26 (1): MMLongBench: Benchmarking Long-Context Vision-Language Models   Effectively and Thoroughly
+
 **Title**: MMLongBench: Benchmarking Long-Context Vision-Language Models   Effectively and Thoroughly | MMLongBench: Benchmarking von langkontexten Visions-Sprachenmodellen effektiv und gründlich | MMLongBench:有效和彻底地确定长长、长、长、长、远景-语言模式的基准 [2505.10610v2](http://arxiv.org/abs/2505.10610v2)
 
 **Authors**: Zhaowei Wang, Wenhao Yu, Xiyu Ren, Jipeng Zhang, Yu Zhao, Rohit Saxena, Liang Cheng, Ginny Wong, Simon See, Pasquale Minervini, Yangqiu Song, Mark Steedman
@@ -9426,6 +10232,7 @@ The rapid extension of context windows in large vision-language models has given
 
 ## Article 806
 ### Title@2025-05-26 (1): From Tokens to Thoughts: How LLMs and Humans Trade Compression for   Meaning
+
 **Title**: From Tokens to Thoughts: How LLMs and Humans Trade Compression for   Meaning | Von Tokens zu Gedanken: Wie LLMs und Menschen Kompression für Bedeutung traden | 从Tokens到思想:LLM和人类如何用贸易压缩来达到意义 [2505.17117v2](http://arxiv.org/abs/2505.17117v2)
 
 **Authors**: Chen Shani, Dan Jurafsky, Yann LeCun, Ravid Shwartz-Ziv
@@ -9436,6 +10243,7 @@ Humans organize knowledge into compact categories through semantic compression b
 
 ## Article 807
 ### Title@2025-05-26 (1): Scaling over Scaling: Exploring Test-Time Scaling Pareto in Large   Reasoning Models
+
 **Title**: Scaling over Scaling: Exploring Test-Time Scaling Pareto in Large   Reasoning Models | Skalierung über Skalierung: Untersuchung von Test-Zeit-Skalierung Pareto in großen vernünftigen Modellen | 缩放过缩放: 探索大型理由模型中的测试时间缩放派 [2505.20522v1](http://arxiv.org/abs/2505.20522v1)
 
 **Authors**: Jian Wang, Boyan Zhu, Chak Tou Leong, Yongqi Li, Wenjie Li
@@ -9446,6 +10254,7 @@ Large reasoning models (LRMs) have exhibited the capacity of enhancing reasoning
 
 ## Article 808
 ### Title@2025-05-26 (1): Project Riley: Multimodal Multi-Agent LLM Collaboration with Emotional   Reasoning and Voting
+
 **Title**: Project Riley: Multimodal Multi-Agent LLM Collaboration with Emotional   Reasoning and Voting | Projekt Riley: Multimodaler Multi-Agent LLM Zusammenarbeit mit emotionaler Vernunft und Abstimmung | 莱利项目:与情感原因和投票合作 [2505.20521v1](http://arxiv.org/abs/2505.20521v1)
 
 **Authors**: Ana Rita Ortigoso, Gabriel Vieira, Daniel Fuentes, Luis Frazão, Nuno Costa, António Pereira
@@ -9456,6 +10265,7 @@ This paper presents Project Riley, a novel multimodal and multi-model conversati
 
 ## Article 809
 ### Title@2025-05-26 (1): Aggregation Artifacts in Subjective Tasks Collapse Large Language   Models' Posteriors
+
 **Title**: Aggregation Artifacts in Subjective Tasks Collapse Large Language   Models' Posteriors | Aggregation Artefakte in subjektiven Aufgaben Zusammenklappen der Poster von großen Sprachmodellen | 在主观任务中聚合个体行为 折叠大语言模型的别墅 [2410.13776v4](http://arxiv.org/abs/2410.13776v4)
 
 **Authors**: Georgios Chochlakis, Alexandros Potamianos, Kristina Lerman, Shrikanth Narayanan
@@ -9466,6 +10276,7 @@ In-context Learning (ICL) has become the primary method for performing natural l
 
 ## Article 810
 ### Title@2025-05-26 (1): Multimodal Emotion Recognition in Conversations: A Survey of Methods,   Trends, Challenges and Prospects
+
 **Title**: Multimodal Emotion Recognition in Conversations: A Survey of Methods,   Trends, Challenges and Prospects | Multimodale Emotionserkennung in Gesprächen: Eine Übersicht über Methoden, Trends, Herausforderungen und Perspektiven | 在对话中多时的情感认识:对方法、趋势、挑战和前景的调查 [2505.20511v1](http://arxiv.org/abs/2505.20511v1)
 
 **Authors**: Chengyan Wu, Yiqiang Cai, Yang Liu, Pengxu Zhu, Yun Xue, Ziwei Gong, Julia Hirschberg, Bolei Ma
@@ -9476,6 +10287,7 @@ While text-based emotion recognition methods have achieved notable success, real
 
 ## Article 811
 ### Title@2025-05-26 (1): ArVoice: A Multi-Speaker Dataset for Arabic Speech Synthesis
+
 **Title**: ArVoice: A Multi-Speaker Dataset for Arabic Speech Synthesis | ArVoice: Ein Multi-Sprecher-Datensatz für die arabische Sprachsynthese | ArVoice:用于阿拉伯语语音合成的多发言者数据集 [2505.20506v1](http://arxiv.org/abs/2505.20506v1)
 
 **Authors**: Hawau Olamide Toyin, Rufael Marew, Humaid Alblooshi, Samar M. Magdy, Hanan Aldarmaki
@@ -9486,6 +10298,7 @@ We introduce ArVoice, a multi-speaker Modern Standard Arabic (MSA) speech corpus
 
 ## Article 812
 ### Title@2025-05-26 (1): Large Language Models for IT Automation Tasks: Are We There Yet?
+
 **Title**: Large Language Models for IT Automation Tasks: Are We There Yet? | Große Sprachmodelle für IT-Automatisierungsaufgaben: Sind wir noch da? | 信息技术自动化任务大语言模型:我们是否还存在? [2505.20505v1](http://arxiv.org/abs/2505.20505v1)
 
 **Authors**: Md Mahadi Hassan, John Salvador, Akond Rahman, Santu Karmaker
@@ -9496,6 +10309,7 @@ LLMs show promise in code generation, yet their effectiveness for IT automation 
 
 ## Article 813
 ### Title@2025-05-26 (1): Embodied AI with Foundation Models for Mobile Service Robots: A   Systematic Review
+
 **Title**: Embodied AI with Foundation Models for Mobile Service Robots: A   Systematic Review | Verkörperte KI mit Basismodellen für mobile Serviceroboter: Ein Systematischer Test | 与 " 移动服务机器人:系统审查 " 基金会模型 [2505.20503v1](http://arxiv.org/abs/2505.20503v1)
 
 **Authors**: Matthew Lisondra, Beno Benhabib, Goldie Nejat
@@ -9506,6 +10320,7 @@ Rapid advancements in foundation models, including Large Language Models, Vision
 
 ## Article 814
 ### Title@2025-05-26 (1): Gatsby Without the 'E': Crafting Lipograms with LLMs
+
 **Title**: Gatsby Without the 'E': Crafting Lipograms with LLMs | Gatsby ohne das 'E': Lipogramme mit LLMs herstellen | Gatsby没有“E”:用LLMs制作乳胶 [2505.20501v1](http://arxiv.org/abs/2505.20501v1)
 
 **Authors**: Rohan Balasubramanian, Nitish Gokulakrishnan, Syeda Jannatus Saba, Steven Skiena
@@ -9516,6 +10331,7 @@ Lipograms are a unique form of constrained writing where all occurrences of a pa
 
 ## Article 815
 ### Title@2025-05-26 (1): Beyond Keywords: Evaluating Large Language Model Classification of   Nuanced Ableism
+
 **Title**: Beyond Keywords: Evaluating Large Language Model Classification of   Nuanced Ableism | Beyond Keywords: Bewertung großsprachiger Modellklassifikation von Nuanced Ableism | 超越关键词:评价大语言多语言可变性模式分类 [2505.20500v1](http://arxiv.org/abs/2505.20500v1)
 
 **Authors**: Naba Rizvi, Harper Strickland, Saleha Ahmedi, Aekta Kallepalli, Isha Khirwadkar, William Wu, Imani N. S. Munyaka, Nedjma Ousidhoum
@@ -9526,6 +10342,7 @@ Large language models (LLMs) are increasingly used in decision-making tasks like
 
 ## Article 816
 ### Title@2025-05-26 (1): Retrieve to Explain: Evidence-driven Predictions for Explainable Drug   Target Identification
+
 **Title**: Retrieve to Explain: Evidence-driven Predictions for Explainable Drug   Target Identification | Erklären Sie: Evidenz-getriebene Vorhersagen für erklärbare Drogenziel-Identifikation | 寻求解释:对可解释药物目标识别的由证据驱动的预测 [2402.04068v4](http://arxiv.org/abs/2402.04068v4)
 
 **Authors**: Ravi Patel, Angus Brayne, Rogier Hintzen, Daniel Jaroslawicz, Georgiana Neculae, Dane Corneil
@@ -9536,6 +10353,7 @@ Language models hold incredible promise for enabling scientific discovery by syn
 
 ## Article 817
 ### Title@2025-05-26 (1): CLEVRER-Humans: Describing Physical and Causal Events the Human Way
+
 **Title**: CLEVRER-Humans: Describing Physical and Causal Events the Human Way | CLEVRER-Mensch: Physikalische und kausale Ereignisse auf menschliche Weise beschreiben | CLEVRER-人类:将自然和因果事件描述为人类道路 [2310.03635v2](http://arxiv.org/abs/2310.03635v2)
 
 **Authors**: Jiayuan Mao, Xuelin Yang, Xikun Zhang, Noah D. Goodman, Jiajun Wu
@@ -9546,6 +10364,7 @@ Building machines that can reason about physical events and their causal relatio
 
 ## Article 818
 ### Title@2025-05-26 (1): Inceptive Transformers: Enhancing Contextual Representations through   Multi-Scale Feature Learning Across Domains and Languages
+
 **Title**: Inceptive Transformers: Enhancing Contextual Representations through   Multi-Scale Feature Learning Across Domains and Languages | Inceptive Transformers: Erweitern von kontextuellen Darstellungen durch Multi-Scale-Feature-Lernen über Domains und Sprachen hinweg | 感动变异器:通过跨领域和跨语言的多阶段专题学习,加强背景代表方式 [2505.20496v1](http://arxiv.org/abs/2505.20496v1)
 
 **Authors**: Asif Shahriar, Rifat Shahriyar, M Saifur Rahman
@@ -9556,6 +10375,7 @@ Conventional transformer models typically compress the information from all toke
 
 ## Article 819
 ### Title@2025-05-26 (1): InFact: Informativeness Alignment for Improved LLM Factuality
+
 **Title**: InFact: Informativeness Alignment for Improved LLM Factuality | InFact: Informatives Alignment für verbesserte LLM-Faktizität | 事实:改进LLM事实质量的信息协调 [2505.20487v1](http://arxiv.org/abs/2505.20487v1)
 
 **Authors**: Roi Cohen, Russa Biswas, Gerard de Melo
@@ -9566,6 +10386,7 @@ Factual completeness is a general term that captures how detailed and informativ
 
 ## Article 820
 ### Title@2025-05-26 (1): The Best of Both Worlds: Bridging Quality and Diversity in Data   Selection with Bipartite Graph
+
 **Title**: The Best of Both Worlds: Bridging Quality and Diversity in Data   Selection with Bipartite Graph | Das Beste aus beiden Welten: Qualität und Vielfalt bei der Datenauswahl mit zweiteiligem Graphen überbrücken | 《最佳世界和最佳世界:在数据选择中将质量和多样性与双部分图联系起来》 [2410.12458v2](http://arxiv.org/abs/2410.12458v2)
 
 **Authors**: Minghao Wu, Thuy-Trang Vu, Lizhen Qu, Gholamreza Haffari
@@ -9576,6 +10397,7 @@ The performance of large language models (LLMs) is strongly influenced by the qu
 
 ## Article 821
 ### Title@2025-05-26 (1): Conversation Kernels: A Flexible Mechanism to Learn Relevant Context for   Online Conversation Understanding
+
 **Title**: Conversation Kernels: A Flexible Mechanism to Learn Relevant Context for   Online Conversation Understanding | Gesprächs-Kernel: Ein flexibler Mechanismus, um relevante Kontexte für Online-Konversations-Verständnis zu lernen | 对话核心:学习在线对话理解相关背景的灵活机制 [2505.20482v1](http://arxiv.org/abs/2505.20482v1)
 
 **Authors**: Vibhor Agarwal, Arjoo Gupta, Suparna De, Nishanth Sastry
@@ -9586,6 +10408,7 @@ Understanding online conversations has attracted research attention with the gro
 
 ## Article 822
 ### Title@2025-05-26 (1): BrainStratify: Coarse-to-Fine Disentanglement of Intracranial Neural   Dynamics
+
 **Title**: BrainStratify: Coarse-to-Fine Disentanglement of Intracranial Neural   Dynamics | BrainStratify: Grob-zu-Fein-Entwechslung von intrakranieller Neuraldynamik | 大脑分解: 神经内神经动力学的粗向法解析 [2505.20480v1](http://arxiv.org/abs/2505.20480v1)
 
 **Authors**: Hui Zheng, Hai-Teng Wang, Yi-Tao Jing, Pei-Yang Lin, Han-Qing Zhao, Wei Chen, Peng-Hu Wei, Yong-Zhi Shan, Guo-Guang Zhao, Yun-Zhe Liu
@@ -9596,6 +10419,7 @@ Decoding speech directly from neural activity is a central goal in brain-compute
 
 ## Article 823
 ### Title@2025-05-26 (1): Bias-Augmented Consistency Training Reduces Biased Reasoning in   Chain-of-Thought
+
 **Title**: Bias-Augmented Consistency Training Reduces Biased Reasoning in   Chain-of-Thought | Bias-Augmented Consistency Training reduziert biased Reasoning in Chain-of-Thought | 避免和强化的一致培训减少在寻求的连锁努力中造成不利和 不利理由 [2403.05518v2](http://arxiv.org/abs/2403.05518v2)
 
 **Authors**: James Chua, Edward Rees, Hunar Batra, Samuel R. Bowman, Julian Michael, Ethan Perez, Miles Turpin
@@ -9606,6 +10430,7 @@ Chain-of-thought prompting (CoT) has the potential to improve the explainability
 
 ## Article 824
 ### Title@2025-05-26 (1): Yesterday's News: Benchmarking Multi-Dimensional Out-of-Distribution   Generalization of Misinformation Detection Models
+
 **Title**: Yesterday's News: Benchmarking Multi-Dimensional Out-of-Distribution   Generalization of Misinformation Detection Models | Gestern Nachrichten: Benchmarking Multi-Dimensional Out-of-Distribution Verallgemeinerung von Misinformation Detection Modelle | 昨天的新闻:对错误信息探测模型的多种不同传播通用进行基准衡量 [2410.18122v2](http://arxiv.org/abs/2410.18122v2)
 
 **Authors**: Ivo Verhoeven, Pushkar Mishra, Ekaterina Shutova
@@ -9616,6 +10441,7 @@ This article introduces misinfo-general, a benchmark dataset for evaluating misi
 
 ## Article 825
 ### Title@2025-05-26 (1): The Impact of a Chatbot's Ephemerality-Framing on Self-Disclosure   Perceptions
+
 **Title**: The Impact of a Chatbot's Ephemerality-Framing on Self-Disclosure   Perceptions | Der Einfluss des Ephemerality-Framing eines Chatbots auf die Wahrnehmung der Selbstoffenbarung | 查塔博特人的即时态度对自我披露感知的影响 [2505.20464v1](http://arxiv.org/abs/2505.20464v1)
 
 **Authors**: Samuel Rhys Cox, Rune Møberg Jacobsen, Niels van Berkel
@@ -9626,6 +10452,7 @@ Self-disclosure, the sharing of one's thoughts and feelings, is affected by the 
 
 ## Article 826
 ### Title@2025-05-26 (1): Scaling Laws for Forgetting during Finetuning with Pretraining Data   Injection
+
 **Title**: Scaling Laws for Forgetting during Finetuning with Pretraining Data   Injection | Skalierungsgesetze für das Vergessen beim Finetuning mit Vorschulungs-Dateninjektion | 调整前数据输入时遗忘法律的扩大范围 [2502.06042v2](http://arxiv.org/abs/2502.06042v2)
 
 **Authors**: Louis Bethune, David Grangier, Dan Busbridge, Eleonora Gualdoni, Marco Cuturi, Pierre Ablin
@@ -9636,6 +10463,7 @@ A widespread strategy to obtain a language model that performs well on a target 
 
 ## Article 827
 ### Title@2025-05-26 (1): Amulet: Putting Complex Multi-Turn Conversations on the Stand with LLM   Juries
+
 **Title**: Amulet: Putting Complex Multi-Turn Conversations on the Stand with LLM   Juries | Amulett: Komplexe Multi-Turn-Gespräche mit LLM Jurys auf dem Stand | Anulet: 将复杂多发多发对话与LLM Juries 挂起立 [2505.20451v1](http://arxiv.org/abs/2505.20451v1)
 
 **Authors**: Sahana Ramnath, Anurag Mudgil, Brihi Joshi, Skyler Hallinan, Xiang Ren
@@ -9646,6 +10474,7 @@ Today, large language models are widely used as judges to evaluate responses fro
 
 ## Article 828
 ### Title@2025-05-26 (1): HAMburger: Accelerating LLM Inference via Token Smashing
+
 **Title**: HAMburger: Accelerating LLM Inference via Token Smashing | HAMburger: Beschleunigung der LLM-Inferenz durch Token Smashing | HAMburger:通过Token打碎加速LLM推理 [2505.20438v1](http://arxiv.org/abs/2505.20438v1)
 
 **Authors**: Jingyu Liu, Ce Zhang
@@ -9656,6 +10485,7 @@ The growing demand for efficient Large Language Model (LLM) inference requires a
 
 ## Article 829
 ### Title@2025-05-26 (1): Does Synthetic Data Help Named Entity Recognition for Low-Resource   Languages?
+
 **Title**: Does Synthetic Data Help Named Entity Recognition for Low-Resource   Languages? | Hilft Synthetische Daten bei der Nennung der Entitätserkennung für Sprachen mit geringer Ressource? | 合成数据是否有助于为低资源语言命名实体识别? [2505.16814v2](http://arxiv.org/abs/2505.16814v2)
 
 **Authors**: Gaurav Kamath, Sowmya Vajjala
@@ -9666,6 +10496,7 @@ Named Entity Recognition(NER) for low-resource languages aims to produce robust 
 
 ## Article 830
 ### Title@2025-05-26 (1): The UD-NewsCrawl Treebank: Reflections and Challenges from a Large-scale   Tagalog Syntactic Annotation Project
+
 **Title**: The UD-NewsCrawl Treebank: Reflections and Challenges from a Large-scale   Tagalog Syntactic Annotation Project | The UD-NewsCrawl Treebank: Reflexionen und Herausforderungen aus einem groß angelegten Tagalog Syntactic Annotation Project | UD-News-Crawcrow Treebank:大型Tagalog聚合笔记项目反思和挑战 [2505.20428v1](http://arxiv.org/abs/2505.20428v1)
 
 **Authors**: Angelina A. Aquino, Lester James V. Miranda, Elsie Marie T. Or
@@ -9676,6 +10507,7 @@ This paper presents UD-NewsCrawl, the largest Tagalog treebank to date, containi
 
 ## Article 831
 ### Title@2025-05-26 (1): SEMMA: A Semantic Aware Knowledge Graph Foundation Model
+
 **Title**: SEMMA: A Semantic Aware Knowledge Graph Foundation Model | SEMMA: Ein semantisches Wissensdiagramm-Stiftungsmodell | SEMMA: 语义认知知识图基础模型 [2505.20422v1](http://arxiv.org/abs/2505.20422v1)
 
 **Authors**: Arvindh Arun, Sumit Kumar, Mojtaba Nayyeri, Bo Xiong, Ponnurangam Kumaraguru, Antonio Vergari, Steffen Staab
@@ -9686,6 +10518,7 @@ Knowledge Graph Foundation Models (KGFMs) have shown promise in enabling zero-sh
 
 ## Article 832
 ### Title@2025-05-26 (1): GraphGen: Enhancing Supervised Fine-Tuning for LLMs with   Knowledge-Driven Synthetic Data Generation
+
 **Title**: GraphGen: Enhancing Supervised Fine-Tuning for LLMs with   Knowledge-Driven Synthetic Data Generation | GraphGen: Verbessertes Supervised Fine-Tuning für LLMs mit wissensgetriebener Synthetischer Datengenerierung | 图图Gen:加强具有知识驱动合成合成数据生成的LMLMs的监管微调 [2505.20416v1](http://arxiv.org/abs/2505.20416v1)
 
 **Authors**: Zihong Chen, Wanli Jiang, Jinzhe Li, Zhonghang Yuan, Huanjun Kong, Wanli Ouyang, Nanqing Dong
@@ -9696,6 +10529,7 @@ Fine-tuning for large language models (LLMs) typically requires substantial amou
 
 ## Article 833
 ### Title@2025-05-26 (1): Enhancing Logical Reasoning in Language Models via Symbolically-Guided   Monte Carlo Process Supervision
+
 **Title**: Enhancing Logical Reasoning in Language Models via Symbolically-Guided   Monte Carlo Process Supervision | Verbesserung der logischen Vernunft in Sprachmodellen durch symbolisch geführte Monte-Carlo-Prozessüberwachung | 通过有符号指导的蒙特卡洛进程监督,加强语文模式的逻辑理由解释 [2505.20415v1](http://arxiv.org/abs/2505.20415v1)
 
 **Authors**: Xingwei Tan, Marco Valentino, Mahmud Akhter, Maria Liakata, Nikolaos Aletras
@@ -9706,6 +10540,7 @@ Large language models (LLMs) have shown promising performance in mathematical an
 
 ## Article 834
 ### Title@2025-05-26 (1): SWE-rebench: An Automated Pipeline for Task Collection and   Decontaminated Evaluation of Software Engineering Agents
+
 **Title**: SWE-rebench: An Automated Pipeline for Task Collection and   Decontaminated Evaluation of Software Engineering Agents | SWE-Rebench: Eine automatisierte Pipeline für die Task Collection und die dekontaminierte Evaluation von Software Engineering Agents | SWE-rebench:软件工程剂任务收集和除污评价自动管道 [2505.20411v1](http://arxiv.org/abs/2505.20411v1)
 
 **Authors**: Ibragim Badertdinov, Alexander Golubev, Maksim Nekrashevich, Anton Shevtsov, Simon Karasik, Andrei Andriushchenko, Maria Trofimova, Daria Litvintseva, Boris Yangel
@@ -9716,6 +10551,7 @@ LLM-based agents have shown promising capabilities in a growing range of softwar
 
 ## Article 835
 ### Title@2025-05-26 (1): What Changed? Detecting and Evaluating Instruction-Guided Image Edits   with Multimodal Large Language Models
+
 **Title**: What Changed? Detecting and Evaluating Instruction-Guided Image Edits   with Multimodal Large Language Models | Was änderte sich? Instruktionsgeführte Bildbearbeitungen mit multimodalen großen Sprachmodellen erkennen und bewerten | 以多模式大语言模式对指导指导图像编辑进行检测和评估 [2505.20405v1](http://arxiv.org/abs/2505.20405v1)
 
 **Authors**: Lorenzo Baraldi, Davide Bucciarelli, Federico Betti, Marcella Cornia, Lorenzo Baraldi, Nicu Sebe, Rita Cucchiara
@@ -9726,6 +10562,7 @@ Instruction-based image editing models offer increased personalization opportuni
 
 ## Article 836
 ### Title@2025-05-26 (1): MangaVQA and MangaLMM: A Benchmark and Specialized Model for Multimodal   Manga Understanding
+
 **Title**: MangaVQA and MangaLMM: A Benchmark and Specialized Model for Multimodal   Manga Understanding | MangaVQA und MangaLMM: Ein Benchmark und Spezialmodell für multimodales Manga-Verständnis | MangaVQA和MangaLMM:多模式漫画理解基准和专门模式 [2505.20298v1](http://arxiv.org/abs/2505.20298v1)
 
 **Authors**: Jeonghun Baek, Kazuki Egashira, Shota Onohara, Atsuyuki Miyai, Yuki Imajuku, Hikaru Ikuta, Kiyoharu Aizawa
@@ -9736,6 +10573,7 @@ Manga, or Japanese comics, is a richly multimodal narrative form that blends ima
 
 ## Article 837
 ### Title@2025-05-26 (1): DiSA: Diffusion Step Annealing in Autoregressive Image Generation
+
 **Title**: DiSA: Diffusion Step Annealing in Autoregressive Image Generation | DiSA: Diffusionsschritt Annealing in autoregressiver Bildgenerierung | DiSA: 自动递减图像生成中的传播步骤 [2505.20297v1](http://arxiv.org/abs/2505.20297v1)
 
 **Authors**: Qinyu Zhao, Jaskirat Singh, Ming Xu, Akshay Asthana, Stephen Gould, Liang Zheng
@@ -9746,6 +10584,7 @@ An increasing number of autoregressive models, such as MAR, FlowAR, xAR, and Har
 
 ## Article 838
 ### Title@2025-05-26 (1): Self-reflective Uncertainties: Do LLMs Know Their Internal Answer   Distribution?
+
 **Title**: Self-reflective Uncertainties: Do LLMs Know Their Internal Answer   Distribution? | Selbstreflektierende Unsicherheiten: Kennen LLMs ihre interne Antwortverteilung? | 自我反感的不确定性:LLMs知道他们的内部答案分布吗? [2505.20295v1](http://arxiv.org/abs/2505.20295v1)
 
 **Authors**: Michael Kirchhof, Luca Füger, Adam Goliński, Eeshan Gunesh Dhekane, Arno Blaas, Sinead Williamson
@@ -9756,6 +10595,7 @@ To reveal when a large language model (LLM) is uncertain about a response, uncer
 
 ## Article 839
 ### Title@2025-05-26 (1): Reasoning LLMs are Wandering Solution Explorers
+
 **Title**: Reasoning LLMs are Wandering Solution Explorers | Grundlegende LLMs sind wandernde Lösungs-Explorer | 理据LLMs是游荡的解决方案探索者 [2505.20296v1](http://arxiv.org/abs/2505.20296v1)
 
 **Authors**: Jiahao Lu, Ziwei Xu, Mohan Kankanhalli
@@ -9766,6 +10606,7 @@ Large Language Models (LLMs) have demonstrated impressive reasoning abilities th
 
 ## Article 840
 ### Title@2025-05-26 (1): Enhancing the Comprehensibility of Text Explanations via Unsupervised   Concept Discovery
+
 **Title**: Enhancing the Comprehensibility of Text Explanations via Unsupervised   Concept Discovery | Verbesserung der Verständlichkeit von Texterklärungen durch unüberwachte Concept Discovery | 通过未受监督的概念发现提高通过不受监督的概念解释的可理解性 [2505.20293v1](http://arxiv.org/abs/2505.20293v1)
 
 **Authors**: Yifan Sun, Danding Wang, Qiang Sheng, Juan Cao, Jintao Li
@@ -9776,6 +10617,7 @@ Concept-based explainable approaches have emerged as a promising method in expla
 
 ## Article 841
 ### Title@2025-05-26 (1): Visualized Text-to-Image Retrieval
+
 **Title**: Visualized Text-to-Image Retrieval | Visualisierung von Text-zu-Bild-Retrieval | 可视化文本到图像检索 [2505.20291v1](http://arxiv.org/abs/2505.20291v1)
 
 **Authors**: Di Wu, Yixin Wan, Kai-Wei Chang
@@ -9786,6 +10628,7 @@ We propose Visualize-then-Retrieve (VisRet), a new paradigm for Text-to-Image (T
 
 ## Article 842
 ### Title@2025-05-26 (1): Time-R1: Post-Training Large Vision Language Model for Temporal Video   Grounding
+
 **Title**: Time-R1: Post-Training Large Vision Language Model for Temporal Video   Grounding | Time-R1: Nach dem Training Großer Vision-Sprachenmodell für die zeitliche Videoerdung | 时间-R1:培训后用于实时视频定位的大型视觉语言模型 [2503.13377v2](http://arxiv.org/abs/2503.13377v2)
 
 **Authors**: Ye Wang, Ziheng Wang, Boshen Xu, Yang Du, Kejun Lin, Zihan Xiao, Zihao Yue, Jianzhong Ju, Liang Zhang, Dingyi Yang, Xiangnan Fang, Zewen He, Zhenbo Luo, Wenxuan Wang, Junqi Lin, Jian Luan, Qin Jin
@@ -9796,6 +10639,7 @@ Temporal Video Grounding (TVG), the task of locating specific video segments bas
 
 ## Article 843
 ### Title@2025-05-26 (1): VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D   Reconstruction
+
 **Title**: VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D   Reconstruction | VLM-3R: Vision-Language-Modelle erweitert mit instruction-aligned 3D reconstruction | VLM-3R:通过指示统一3D重建增强的愿景-语言模型 [2505.20279v1](http://arxiv.org/abs/2505.20279v1)
 
 **Authors**: Zhiwen Fan, Jian Zhang, Renjie Li, Junge Zhang, Runjin Chen, Hezhen Hu, Kevin Wang, Huaizhi Qu, Dilin Wang, Zhicheng Yan, Hongyu Xu, Justin Theiss, Tianlong Chen, Jiachen Li, Zhengzhong Tu, Zhangyang Wang, Rakesh Ranjan
@@ -9806,6 +10650,7 @@ The rapid advancement of Large Multimodal Models (LMMs) for 2D images and videos
 
 ## Article 844
 ### Title@2025-05-26 (1): The Coverage Principle: A Framework for Understanding Compositional   Generalization
+
 **Title**: The Coverage Principle: A Framework for Understanding Compositional   Generalization | Das Coverage-Prinzip: Ein Rahmen für das Verständnis der kompositorischen Verallgemeinerung | 覆盖范围原则:理解普遍组成框架 [2505.20278v1](http://arxiv.org/abs/2505.20278v1)
 
 **Authors**: Hoyeon Chang, Jinho Park, Hanseul Cho, Sohee Yang, Miyoung Ko, Hyeonbin Hwang, Seungpil Won, Dohaeng Lee, Youbin Ahn, Minjoon Seo
@@ -9816,6 +10661,7 @@ Large language models excel at pattern matching, yet often fall short in systema
 
 ## Article 845
 ### Title@2025-05-26 (1): OmniCharacter: Towards Immersive Role-Playing Agents with Seamless   Speech-Language Personality Interaction
+
 **Title**: OmniCharacter: Towards Immersive Role-Playing Agents with Seamless   Speech-Language Personality Interaction | OmniCharacter: Auf dem Weg zu immersiven Rollenspiel-Agenten mit nahtloser Sprach-Persönlichkeits-Interaktion | OmniCharacter:争取用无缝无言语-语言个性交互作用来模拟角色扮演剂 [2505.20277v1](http://arxiv.org/abs/2505.20277v1)
 
 **Authors**: Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li
@@ -9826,6 +10672,7 @@ Role-Playing Agents (RPAs), benefiting from large language models, is an emergin
 
 ## Article 846
 ### Title@2025-05-26 (1): Bias and Volatility: A Statistical Framework for Evaluating Large   Language Model's Stereotypes and the Associated Generation Inconsistency
+
 **Title**: Bias and Volatility: A Statistical Framework for Evaluating Large   Language Model's Stereotypes and the Associated Generation Inconsistency | Bias and Volatility: Ein statistischer Rahmen für die Bewertung der Stereotypen und der damit verbundenen Inkonsistenz der Generation | 偏见和不稳定:评价大语言模式定型观念和关联一代人不一致的统计框架 [2402.15481v5](http://arxiv.org/abs/2402.15481v5)
 
 **Authors**: Yiran Liu, Ke Yang, Zehan Qi, Xiao Liu, Yang Yu, ChengXiang Zhai
@@ -9836,6 +10683,7 @@ We present a novel statistical framework for analyzing stereotypes in large lang
 
 ## Article 847
 ### Title@2025-05-26 (1): Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry   Understanding in LLMs
+
 **Title**: Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry   Understanding in LLMs | Fann oder Flop: Ein Multigenre, Multiera Benchmark für arabische Poesie in LLMs | Fann 或 Flop: 多种语言、阿拉伯语诗类理解多元基准 [2505.18152v2](http://arxiv.org/abs/2505.18152v2)
 
 **Authors**: Wafa Alghallabi, Ritesh Thawkar, Sara Ghaboura, Ketan More, Omkar Thawakar, Hisham Cholakkal, Salman Khan, Rao Muhammad Anwer
@@ -9846,6 +10694,7 @@ Arabic poetry is one of the richest and most culturally rooted forms of expressi
 
 ## Article 848
 ### Title@2025-05-26 (1): Seeing Through Deception: Uncovering Misleading Creator Intent in   Multimodal News with Vision-Language Models
+
 **Title**: Seeing Through Deception: Uncovering Misleading Creator Intent in   Multimodal News with Vision-Language Models | Durch Täuschung sehen: Irreführende Schöpfer-Intent in multimodalen Nachrichten mit Vision-Sprache-Modellen entdecken | 通过欺骗观察:以视觉语言模式在多模式新闻中揭开错误领导创造者意图的隐蔽 [2505.15489v2](http://arxiv.org/abs/2505.15489v2)
 
 **Authors**: Jiaying Wu, Fanxiao Li, Min-Yen Kan, Bryan Hooi
@@ -9856,6 +10705,7 @@ The real-world impact of misinformation stems from the underlying misleading nar
 
 ## Article 849
 ### Title@2025-05-26 (1): We Need to Measure Data Diversity in NLP -- Better and Broader
+
 **Title**: We Need to Measure Data Diversity in NLP -- Better and Broader | Wir müssen die Datenvielfalt in NLP messen -- besser und breiter | 我们需要在《国家劳工政策》中衡量数据多样性 -- -- 更好和更广泛 [2505.20264v1](http://arxiv.org/abs/2505.20264v1)
 
 **Authors**: Dong Nguyen, Esther Ploeger
@@ -9866,6 +10716,7 @@ Although diversity in NLP datasets has received growing attention, the question 
 
 ## Article 850
 ### Title@2025-05-26 (1): Lifelong Safety Alignment for Language Models
+
 **Title**: Lifelong Safety Alignment for Language Models | Lebenslange Sicherheitsausrichtung für Sprachmodelle | 语言模型终身安全比对 [2505.20259v1](http://arxiv.org/abs/2505.20259v1)
 
 **Authors**: Haoyu Wang, Zeyu Qin, Yifei Zhao, Chao Du, Min Lin, Xueqian Wang, Tianyu Pang
@@ -9876,6 +10727,7 @@ LLMs have made impressive progress, but their growing capabilities also expose t
 
 ## Article 851
 ### Title@2025-05-26 (1): On the Compatibility of Generative AI and Generative Linguistics
+
 **Title**: On the Compatibility of Generative AI and Generative Linguistics | Über die Vereinbarkeit generativer KI und generativer Linguistik | 关于 " 创造性语言 " 和 " 创造性语言 " 的兼容性 [2411.10533v2](http://arxiv.org/abs/2411.10533v2)
 
 **Authors**: Eva Portelance, Masoud Jasbi
@@ -9886,6 +10738,7 @@ In mid-20th century, the linguist Noam Chomsky established generative linguistic
 
 ## Article 852
 ### Title@2025-05-26 (1): ARM: Adaptive Reasoning Model
+
 **Title**: ARM: Adaptive Reasoning Model | ARM: Anpassungsorientiertes Modell | ARM:适应性理由说明模式 [2505.20258v1](http://arxiv.org/abs/2505.20258v1)
 
 **Authors**: Siye Wu, Jian Xie, Yikai Zhang, Aili Chen, Kai Zhang, Yu Su, Yanghua Xiao
@@ -9896,6 +10749,7 @@ While large reasoning models demonstrate strong performance on complex tasks, th
 
 ## Article 853
 ### Title@2025-05-26 (1): The Faetar Benchmark: Speech Recognition in a Very Under-Resourced   Language
+
 **Title**: The Faetar Benchmark: Speech Recognition in a Very Under-Resourced   Language | Der Faetar-Benchmark: Spracherkennung in einer sehr unterbesetzten Sprache | Faetar基准:以资源非常不足的语言进行语音承认 [2409.08103v4](http://arxiv.org/abs/2409.08103v4)
 
 **Authors**: Michael Ong, Sean Robertson, Leo Peckham, Alba Jorquera Jimenez de Aberasturi, Paula Arkhangorodsky, Robin Huo, Aman Sakhardande, Mark Hallap, Naomi Nagy, Ewan Dunbar
@@ -9906,6 +10760,7 @@ We introduce the Faetar Automatic Speech Recognition Benchmark, a benchmark corp
 
 ## Article 854
 ### Title@2025-05-26 (1): Position: Mechanistic Interpretability Should Prioritize Feature   Consistency in SAEs
+
 **Title**: Position: Mechanistic Interpretability Should Prioritize Feature   Consistency in SAEs | Position: Mechanische Dolmetschbarkeit sollte Feature-Konsistenz in SAEs priorisieren | 位置: 机械可解释性:应优先考虑高级专业环境评估中的地物一致性 [2505.20254v1](http://arxiv.org/abs/2505.20254v1)
 
 **Authors**: Xiangchen Song, Aashiq Muhamed, Yujia Zheng, Lingjing Kong, Zeyu Tang, Mona T. Diab, Virginia Smith, Kun Zhang
@@ -9916,6 +10771,7 @@ Sparse Autoencoders (SAEs) are a prominent tool in mechanistic interpretability 
 
 ## Article 855
 ### Title@2025-05-26 (1): Learning Extrapolative Sequence Transformations from Markov Chains
+
 **Title**: Learning Extrapolative Sequence Transformations from Markov Chains | Extrapolative Sequenztransformationen von Markov-Ketten lernen | 来自Markov 链条的学习外推序列变换 [2505.20251v1](http://arxiv.org/abs/2505.20251v1)
 
 **Authors**: Sophia Hager, Aleem Khan, Andrew Wang, Nicholas Andrews
@@ -9926,6 +10782,7 @@ Most successful applications of deep learning involve similar training and test 
 
 ## Article 856
 ### Title@2025-05-26 (1): Beyond the Tip of Efficiency: Uncovering the Submerged Threats of   Jailbreak Attacks in Small Language Models
+
 **Title**: Beyond the Tip of Efficiency: Uncovering the Submerged Threats of   Jailbreak Attacks in Small Language Models | Beyond the Tip of Efficiency: Enthüllen der untergetauchten Bedrohungen von Jailbreak Attacken in kleinen Sprachmodellen | 超越 " 效率之便 " :以小语言模式破狱袭击的潜伏威胁 [2502.19883v3](http://arxiv.org/abs/2502.19883v3)
 
 **Authors**: Sibo Yi, Tianshuo Cong, Xinlei He, Qi Li, Jiaxing Song
@@ -9936,6 +10793,7 @@ Small language models (SLMs) have become increasingly prominent in the deploymen
 
 ## Article 857
 ### Title@2025-05-26 (1): WXImpactBench: A Disruptive Weather Impact Understanding Benchmark for   Evaluating Large Language Models
+
 **Title**: WXImpactBench: A Disruptive Weather Impact Understanding Benchmark for   Evaluating Large Language Models | WXImpactBench: Ein disruptives Wetter-Impact-Verständnis Benchmark für die Bewertung großer Sprachmodelle | WXImpact Bennech:评估大语言模型的干扰天气影响理解基准 [2505.20249v1](http://arxiv.org/abs/2505.20249v1)
 
 **Authors**: Yongan Yu, Qingchen Hu, Xianda Du, Jiayin Wang, Fengran Mo, Renee Sieber
@@ -9946,6 +10804,7 @@ Climate change adaptation requires the understanding of disruptive weather impac
 
 ## Article 858
 ### Title@2025-05-26 (1): KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with   Structured Knowledge Tracing
+
 **Title**: KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with   Structured Knowledge Tracing | KnowTrace: Bootstrapping iterative Retrieval-Augmented Generation mit strukturierter Wissensverfolgung | KnowTrace: 与结构化知识追踪相配套的 刺激性迭代回收- 启动型生成 [2505.20245v1](http://arxiv.org/abs/2505.20245v1)
 
 **Authors**: Rui Li, Quanyu Dai, Zeyu Zhang, Xu Chen, Zhenhua Dong, Ji-Rong Wen
@@ -9956,6 +10815,7 @@ Recent advances in retrieval-augmented generation (RAG) furnish large language m
 
 ## Article 859
 ### Title@2025-05-26 (1): On Path to Multimodal Historical Reasoning: HistBench and HistAgent
+
 **Title**: On Path to Multimodal Historical Reasoning: HistBench and HistAgent | Auf dem Weg zu multimodaler historischer Vernunft: HistBench und HistAgent | 通向多式联运历史原因原因之路:历史时尚与历史代理人 [2505.20246v1](http://arxiv.org/abs/2505.20246v1)
 
 **Authors**: Jiahao Qiu, Fulian Xiao, Yimin Wang, Yuchen Mao, Yijia Chen, Xinzhe Juan, Siran Wang, Xuan Qi, Tongcheng Zhang, Zixin Yao, Jiacheng Guo, Yifu Lu, Charles Argon, Jundi Cui, Daixin Chen, Junran Zhou, Shuyao Zhou, Zhanpeng Zhou, Ling Yang, Shilong Liu, Hongru Wang, Kaixuan Huang, Xun Jiang, Yuming Cao, Yue Chen, Yunfei Chen, Zhengyi Chen, Ruowei Dai, Mengqiu Deng, Jiye Fu, Yunting Gu, Zijie Guan, Zirui Huang, Xiaoyan Ji, Yumeng Jiang, Delong Kong, Haolong Li, Jiaqi Li, Ruipeng Li, Tianze Li, Zhuoran Li, Haixia Lian, Mengyue Lin, Xudong Liu, Jiayi Lu, Jinghan Lu, Wanyu Luo, Ziyue Luo, Zihao Pu, Zhi Qiao, Ruihuan Ren, Liang Wan, Ruixiang Wang, Tianhui Wang, Yang Wang, Zeyu Wang, Zihua Wang, Yujia Wu, Zhaoyi Wu, Hao Xin, Weiao Xing, Ruojun Xiong, Weijie Xu, Yao Shu, Xiao Yao, Xiaorui Yang, Yuchen Yang, Nan Yi, Jiadong Yu, Yangyuxuan Yu, Huiting Zeng, Danni Zhang, Yunjie Zhang, Zhaoyu Zhang, Zhiheng Zhang, Xiaofeng Zheng, Peirong Zhou, Linyan Zhong, Xiaoyin Zong, Ying Zhao, Zhenxin Chen, Lin Ding, Xiaoyu Gao, Bingbing Gong, Yichao Li, Yang Liao, Guang Ma, Tianyuan Ma, Xinrui Sun, Tianyi Wang, Han Xia, Ruobing Xian, Gen Ye, Tengfei Yu, Wentao Zhang, Yuxi Wang, Xi Gao, Mengdi Wang
@@ -9966,6 +10826,7 @@ Recent advances in large language models (LLMs) have led to remarkable progress 
 
 ## Article 860
 ### Title@2025-05-26 (1): It's High Time: A Survey of Temporal Information Retrieval and Question   Answering
+
 **Title**: It's High Time: A Survey of Temporal Information Retrieval and Question   Answering | Es ist höchste Zeit: Eine Umfrage der zeitlichen Informationen Retrieval und Fragen beantworten | 《高时:时间信息检索和回答问题调查》 [2505.20243v1](http://arxiv.org/abs/2505.20243v1)
 
 **Authors**: Bhawna Piryani, Abdelrahman Abdullah, Jamshid Mozafari, Avishek Anand, Adam Jatowt
@@ -9976,6 +10837,7 @@ Time plays a critical role in how information is generated, retrieved, and inter
 
 ## Article 861
 ### Title@2025-05-26 (1): Diverse, not Short: A Length-Controlled Self-Learning Framework for   Improving Response Diversity of Language Models
+
 **Title**: Diverse, not Short: A Length-Controlled Self-Learning Framework for   Improving Response Diversity of Language Models | Vielfältig, nicht kurz: Ein längengesteuerter Selbstlernrahmen zur Verbesserung der Antwortvielfalt von Sprachmodellen | 多样性,不是短的:提高语文模式应对多样性的长期控制自学框架 [2505.16245v2](http://arxiv.org/abs/2505.16245v2)
 
 **Authors**: Vijeta Deshpande, Debasmita Ghose, John D. Patterson, Roger Beaty, Anna Rumshisky
@@ -9986,6 +10848,7 @@ Diverse language model responses are crucial for creative generation, open-ended
 
 ## Article 862
 ### Title@2025-05-26 (1): MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model   Evaluation
+
 **Title**: MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model   Evaluation | MMLU-ProX: Mehrsprachiger Benchmark für eine erweiterte Bewertung von großen Sprachmodellen | MMLU-ProX:高级大语言模式评价多语种基准 [2503.10497v2](http://arxiv.org/abs/2503.10497v2)
 
 **Authors**: Weihao Xuan, Rui Yang, Heli Qi, Qingcheng Zeng, Yunze Xiao, Aosong Feng, Dairui Liu, Yun Xing, Junjue Wang, Fan Gao, Jinghui Lu, Yuang Jiang, Huitao Li, Xin Li, Kunyu Yu, Ruihai Dong, Shangding Gu, Yuekang Li, Xiaofei Xie, Felix Juefei-Xu, Foutse Khomh, Osamu Yoshie, Qingyu Chen, Douglas Teodoro, Nan Liu, Randy Goebel, Lei Ma, Edison Marrese-Taylor, Shijian Lu, Yusuke Iwasawa, Yutaka Matsuo, Irene Li
@@ -9996,6 +10859,7 @@ Existing large language model (LLM) evaluation benchmarks primarily focus on Eng
 
 ## Article 863
 ### Title@2025-05-26 (1): RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn   Reinforcement Learning
+
 **Title**: RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn   Reinforcement Learning | RAGEN: Selbst-Evolution in LLM-Agenten durch Multi-Turn-Verstärkungs-Lernen verstehen | 通过多阶段强化学习了解LLM代理商的自我演变 [2504.20073v2](http://arxiv.org/abs/2504.20073v2)
 
 **Authors**: Zihan Wang, Kangrui Wang, Qineng Wang, Pingyue Zhang, Linjie Li, Zhengyuan Yang, Xing Jin, Kefan Yu, Minh Nhat Nguyen, Licheng Liu, Eli Gottlieb, Yiping Lu, Kyunghyun Cho, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li
@@ -10006,6 +10870,7 @@ Training large language models (LLMs) as interactive agents presents unique chal
 
 ## Article 864
 ### Title@2025-05-26 (1): BPP-Search: Enhancing Tree of Thought Reasoning for Mathematical   Modeling Problem Solving
+
 **Title**: BPP-Search: Enhancing Tree of Thought Reasoning for Mathematical   Modeling Problem Solving | BPP-Suche: Verbesserung des Baumes der Gedanken Grund für mathematische Modellierung Problem Lösung | BPP-Search:为数学建模问题解决加强思考理由树 [2411.17404v4](http://arxiv.org/abs/2411.17404v4)
 
 **Authors**: Teng Wang, Wing-Yin Yu, Zhenqi He, Zehua Liu, Hailei Gong, Han Wu, Xiongwei Han, Wei Shi, Ruifeng She, Fangzhou Zhu, Tao Zhong
@@ -10016,6 +10881,7 @@ LLMs exhibit advanced reasoning capabilities, offering the potential to transfor
 
 ## Article 865
 ### Title@2025-05-26 (1): Efficient Speech Translation through Model Compression and Knowledge   Distillation
+
 **Title**: Efficient Speech Translation through Model Compression and Knowledge   Distillation | Effiziente Sprachübersetzung durch Modellkompression und Wissensdestillation | 通过模型压缩和知识蒸馏高效语音翻译 [2505.20237v1](http://arxiv.org/abs/2505.20237v1)
 
 **Authors**: Yasmin Moslem
@@ -10026,6 +10892,7 @@ Efficient deployment of large audio-language models for speech translation remai
 
 ## Article 866
 ### Title@2025-05-26 (1): Bridging the Long-Term Gap: A Memory-Active Policy for Multi-Session   Task-Oriented Dialogue
+
 **Title**: Bridging the Long-Term Gap: A Memory-Active Policy for Multi-Session   Task-Oriented Dialogue | Überbrückung der langfristigen Lücke: Eine memory-aktive Politik für den aufgabenorientierten Dialog mit mehreren Sessions | 缩小长期差距:多会议着重任务的对话的记忆 - 积极政策 [2505.20231v1](http://arxiv.org/abs/2505.20231v1)
 
 **Authors**: Yiming Du, Bingbing Wang, Yang He, Bin Liang, Baojun Wang, Zhongyang Li, Lin Gui, Jeff Z. Pan, Ruifeng Xu, Kam-Fai Wong
@@ -10036,6 +10903,7 @@ Existing Task-Oriented Dialogue (TOD) systems primarily focus on single-session 
 
 ## Article 867
 ### Title@2025-05-26 (1): FLAME-MoE: A Transparent End-to-End Research Platform for   Mixture-of-Experts Language Models
+
 **Title**: FLAME-MoE: A Transparent End-to-End Research Platform for   Mixture-of-Experts Language Models | FLAME-MoE: Eine transparente End-to-End-Forschungsplattform für Mixture-of-Experts-Sprachmodelle | FLAME-MOE:混合专家语言模型透明端对端研究平台 [2505.20225v1](http://arxiv.org/abs/2505.20225v1)
 
 **Authors**: Hao Kang, Zichun Yu, Chenyan Xiong
@@ -10046,6 +10914,7 @@ Recent large language models such as Gemini-1.5, DeepSeek-V3, and Llama-4 increa
 
 ## Article 868
 ### Title@2025-05-26 (1): Roll the dice & look before you leap: Going beyond the creative limits   of next-token prediction
+
 **Title**: Roll the dice & look before you leap: Going beyond the creative limits   of next-token prediction | Rollen Sie die Würfel & Blick, bevor Sie springen: Gehen über die kreativen Grenzen der Next-Token-Vorhersage | 跳跃前的骰子滚动和看一看:超越了次声预测的创造性极限 [2504.15266v2](http://arxiv.org/abs/2504.15266v2)
 
 **Authors**: Vaishnavh Nagarajan, Chen Henry Wu, Charles Ding, Aditi Raghunathan
@@ -10056,6 +10925,7 @@ We design a suite of minimal algorithmic tasks that are a loose abstraction of o
 
 ## Article 869
 ### Title@2025-05-26 (1): Dependency Parsing is More Parameter-Efficient with Normalization
+
 **Title**: Dependency Parsing is More Parameter-Efficient with Normalization | Abhängigkeit Parsing ist mehr Parameter-Effizient mit Normalisierung | 依赖性剖析的参数比正常化的参数要高 [2505.20215v1](http://arxiv.org/abs/2505.20215v1)
 
 **Authors**: Paolo Gajo, Domenic Rosati, Hassan Sajjad, Alberto Barrón-Cedeño
@@ -10066,6 +10936,7 @@ Dependency parsing is the task of inferring natural language structure, often ap
 
 ## Article 870
 ### Title@2025-05-26 (1): How to Improve the Robustness of Closed-Source Models on NLI
+
 **Title**: How to Improve the Robustness of Closed-Source Models on NLI | Wie man die Robustheit von Closed-Source-Modellen auf NLI verbessert | 如何改进封闭源码模式在非国家借贷方面的有效性 [2505.20209v1](http://arxiv.org/abs/2505.20209v1)
 
 **Authors**: Joe Stacey, Lisa Alazraki, Aran Ubhi, Beyza Ermis, Aaron Mueller, Marek Rei
@@ -10076,6 +10947,7 @@ Closed-source Large Language Models (LLMs) have become increasingly popular, wit
 
 ## Article 871
 ### Title@2025-05-26 (1): Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking
+
 **Title**: Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking | Adaptive Klassifikator-freie Führung über Dynamisches Low-Confidence-Masking | 通过动态低信任面罩提供适应性分类无限制指导 [2505.20199v1](http://arxiv.org/abs/2505.20199v1)
 
 **Authors**: Pengxiang Li, Shilin Yan, Joey Tsai, Renrui Zhang, Ruichuan An, Ziyu Guo, Xiaowei Gao
@@ -10086,6 +10958,7 @@ Classifier-Free Guidance (CFG) significantly enhances controllability in generat
 
 ## Article 872
 ### Title@2025-05-26 (1): CodeTaxo: Enhancing Taxonomy Expansion with Limited Examples via Code   Language Prompts
+
 **Title**: CodeTaxo: Enhancing Taxonomy Expansion with Limited Examples via Code   Language Prompts | CodeTaxo: Erweiterung der Taxonomie mit begrenzten Beispielen über Code Language Prompts | 代码塔克斯:通过代码语言提示,以有限实例加强分类法的扩展 [2408.09070v2](http://arxiv.org/abs/2408.09070v2)
 
 **Authors**: Qingkai Zeng, Yuyang Bai, Zhaoxuan Tan, Zhenyu Wu, Shangbin Feng, Meng Jiang
@@ -10096,6 +10969,7 @@ Taxonomies play a crucial role in various applications by providing a structural
 
 ## Article 873
 ### Title@2025-05-26 (1): SHARP: Unlocking Interactive Hallucination via Stance Transfer in   Role-Playing LLMs
+
 **Title**: SHARP: Unlocking Interactive Hallucination via Stance Transfer in   Role-Playing LLMs | SHARP: Entsperren der interaktiven Halluzination durch Stance-Transfer in Rollenspiel-LLMs | SHARP:通过在角色扮演中转移角色来解锁互动幻觉 [2411.07965v4](http://arxiv.org/abs/2411.07965v4)
 
 **Authors**: Chuyi Kong, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi Sun, Jing Ma
@@ -10106,6 +10980,7 @@ The advanced role-playing capabilities of Large Language Models (LLMs) have enab
 
 ## Article 874
 ### Title@2025-05-26 (1): THiNK: Can Large Language Models Think-aloud?
+
 **Title**: THiNK: Can Large Language Models Think-aloud? | THiNK: Können große Sprachmodelle denken? | 大语言模型能思考吗? [2505.20184v1](http://arxiv.org/abs/2505.20184v1)
 
 **Authors**: Yongan Yu, Mengqian Wu, Yiran Lin, Nikki G. Lobczowski
@@ -10116,6 +10991,7 @@ Assessing higher-order thinking skills in large language models (LLMs) remains a
 
 ## Article 875
 ### Title@2025-05-26 (1): "KAN you hear me?" Exploring Kolmogorov-Arnold Networks for Spoken   Language Understanding
+
 **Title**: "KAN you hear me?" Exploring Kolmogorov-Arnold Networks for Spoken   Language Understanding | "KAN hörst du mich?" Kolmogorov-Arnold-Netzwerke für gesprochenes Sprachverständnis erkunden | 探索科尔莫戈洛夫-阿诺尔德语言理解网络 [2505.20176v1](http://arxiv.org/abs/2505.20176v1)
 
 **Authors**: Alkis Koudounas, Moreno La Quatra, Eliana Pastor, Sabato Marco Siniscalchi, Elena Baralis
@@ -10126,6 +11002,7 @@ Kolmogorov-Arnold Networks (KANs) have recently emerged as a promising alternati
 
 ## Article 876
 ### Title@2025-05-26 (1): From Alignment to Advancement: Bootstrapping Audio-Language Alignment   with Synthetic Data
+
 **Title**: From Alignment to Advancement: Bootstrapping Audio-Language Alignment   with Synthetic Data | Von der Ausrichtung zur Weiterentwicklung: Bootstrapping Audio-Language Alignment mit synthetischen Daten | 从对齐到推进: 用合成数据推动音频语言对齐 [2505.20166v1](http://arxiv.org/abs/2505.20166v1)
 
 **Authors**: Chun-Yi Kuan, Hung-yi Lee
@@ -10136,6 +11013,7 @@ Audio-aware large language models (ALLMs) have recently made great strides in un
 
 ## Article 877
 ### Title@2025-05-26 (1): Visual Abstract Thinking Empowers Multimodal Reasoning
+
 **Title**: Visual Abstract Thinking Empowers Multimodal Reasoning | Visuelles Abstraktes Denken macht multimodale Vernunft | 视觉抽象思考赋予多模式理由 [2505.20164v1](http://arxiv.org/abs/2505.20164v1)
 
 **Authors**: Dairu Liu, Ziyue Wang, Minyuan Ruan, Fuwen Luo, Chi Chen, Peng Li, Yang Liu
@@ -10146,6 +11024,7 @@ Images usually convey richer detail than text, but often include redundant infor
 
 ## Article 878
 ### Title@2025-05-26 (1): Exploring Generative Error Correction for Dysarthric Speech Recognition
+
 **Title**: Exploring Generative Error Correction for Dysarthric Speech Recognition | Erforschung der Generativen Fehlerkorrektur bei der Erkennung von Dysarthric Speech | 探索为承认沙皇演说识别而产生错误校正的探索 [2505.20163v1](http://arxiv.org/abs/2505.20163v1)
 
 **Authors**: Moreno La Quatra, Alkis Koudounas, Valerio Mario Salerno, Sabato Marco Siniscalchi
@@ -10156,6 +11035,7 @@ Despite the remarkable progress in end-to-end Automatic Speech Recognition (ASR)
 
 ## Article 879
 ### Title@2025-05-26 (1): Capability-Based Scaling Laws for LLM Red-Teaming
+
 **Title**: Capability-Based Scaling Laws for LLM Red-Teaming | Capability-Based Scaling-Gesetze für LLM Red-Teaming | LLM 红色团队合作以能力为基础的增强法律 [2505.20162v1](http://arxiv.org/abs/2505.20162v1)
 
 **Authors**: Alexander Panfilov, Paul Kassianik, Maksym Andriushchenko, Jonas Geiping
@@ -10166,6 +11046,7 @@ As large language models grow in capability and agency, identifying vulnerabilit
 
 ## Article 880
 ### Title@2025-05-26 (1): Prismatic Synthesis: Gradient-based Data Diversification Boosts   Generalization in LLM Reasoning
+
 **Title**: Prismatic Synthesis: Gradient-based Data Diversification Boosts   Generalization in LLM Reasoning | Prismatische Synthese: Gradientenbasierte Datendiversifizierung steigert Generalisierung in LLM-Reasoning | 理论综合:基于逐步的数据多样化促进LLM理由说明的概括化 [2505.20161v1](http://arxiv.org/abs/2505.20161v1)
 
 **Authors**: Jaehun Jung, Seungju Han, Ximing Lu, Skyler Hallinan, David Acuna, Shrimai Prabhumoye, Mostafa Patwary, Mohammad Shoeybi, Bryan Catanzaro, Yejin Choi
@@ -10176,6 +11057,7 @@ Effective generalization in language models depends critically on the diversity 
 
 ## Article 881
 ### Title@2025-05-26 (1): Reversal of Thought: Enhancing Large Language Models with   Preference-Guided Reverse Reasoning Warm-up
+
 **Title**: Reversal of Thought: Enhancing Large Language Models with   Preference-Guided Reverse Reasoning Warm-up | Reversal of Thought: Erweiterung von großen Sprachmodellen mit präference-guided Reverse Reasoning Warm-up | 思想的逆转:加强大语言模式,以优惠、有引导的反反反向理由暖化 [2410.12323v3](http://arxiv.org/abs/2410.12323v3)
 
 **Authors**: Jiahao Yuan, Dehui Du, Hao Zhang, Zixiang Di, Usman Naseem
@@ -10186,6 +11068,7 @@ Large language models (LLMs) have shown remarkable performance in reasoning task
 
 ## Article 882
 ### Title@2025-05-26 (1): Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs
+
 **Title**: Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs | Pangu Light: Gewichtswiederinitialisierung für das Beschneiden und Beschleunigen von LLMs | Pangu光: 灯光和加速LMLM的重量再启动 [2505.20155v1](http://arxiv.org/abs/2505.20155v1)
 
 **Authors**: Hanting Chen, Jiarui Qin, Jialong Guo, Tao Yuan, Yichun Yin, Huiling Zhen, Yasheng Wang, Jinpeng Li, Xiaojun Meng, Meng Zhang, Rongju Ruan, Zheyuan Bai, Yehui Tang, Can Chen, Xinghao Chen, Fisher Yu, Ruiming Tang, Yunhe Wang
@@ -10196,6 +11079,7 @@ Large Language Models (LLMs) deliver state-of-the-art capabilities across numero
 
 ## Article 883
 ### Title@2025-05-26 (1): UORA: Uniform Orthogonal Reinitialization Adaptation in   Parameter-Efficient Fine-Tuning of Large Models
+
 **Title**: UORA: Uniform Orthogonal Reinitialization Adaptation in   Parameter-Efficient Fine-Tuning of Large Models | UORA: Einheitliche Orthogonale Reinitialisierungsanpassung im Parameter-Effizient Feintuning großer Modelle | UORA:大型模型参数-有效精美设计中统一的正正正重新初始化适应 [2505.20154v1](http://arxiv.org/abs/2505.20154v1)
 
 **Authors**: Xueyan Zhang, Jinman Zhao, Zhifei Yang, Yibo Zhong, Shuhao Guan, Linbo Cao, Yining Wang
@@ -10206,6 +11090,7 @@ This paper introduces Uniform Orthogonal Reinitialization Adaptation (UORA), a n
 
 ## Article 884
 ### Title@2025-05-26 (1): Thought-Augmented Policy Optimization: Bridging External Guidance and   Internal Capabilities
+
 **Title**: Thought-Augmented Policy Optimization: Bridging External Guidance and   Internal Capabilities | Gedachte politische Optimierung: Überwindung externer Leitlinien und interner Fähigkeiten | 优化政策:将外部指导和内部能力结合起来 [2505.15692v2](http://arxiv.org/abs/2505.15692v2)
 
 **Authors**: Jinyang Wu, Chonghua Liao, Mingkuan Feng, Shuai Zhang, Zhengqi Wen, Pengpeng Shao, Huazhe Xu, Jianhua Tao
@@ -10216,6 +11101,7 @@ Reinforcement learning (RL) has emerged as an effective method for training reas
 
 ## Article 885
 ### Title@2025-05-26 (1): Polynomial, trigonometric, and tropical activations
+
 **Title**: Polynomial, trigonometric, and tropical activations | Polynomische, trigonometrische und tropische Aktivierungen | 多边、三角和热带活性 [2502.01247v2](http://arxiv.org/abs/2502.01247v2)
 
 **Authors**: Ismail Khalfaoui-Hassani, Stefan Kesselheim
@@ -10226,6 +11112,7 @@ Which functions can be used as activations in deep neural networks? This article
 
 ## Article 886
 ### Title@2025-05-26 (1): Hard Negative Contrastive Learning for Fine-Grained Geometric   Understanding in Large Multimodal Models
+
 **Title**: Hard Negative Contrastive Learning for Fine-Grained Geometric   Understanding in Large Multimodal Models | Hart negatives Kontrastives Lernen für feinkörniges geometrisches Verständnis in großen multimodalen Modellen | 大型多模式模型中精细几何理解的硬反向硬学习 [2505.20152v1](http://arxiv.org/abs/2505.20152v1)
 
 **Authors**: Kai Sun, Yushi Bai, Zhen Yang, Jiajie Zhang, Ji Qi, Lei Hou, Juanzi Li
@@ -10236,6 +11123,7 @@ Benefiting from contrastively trained visual encoders on large-scale natural sce
 
 ## Article 887
 ### Title@2025-05-26 (1): RESTOR: Knowledge Recovery in Machine Unlearning
+
 **Title**: RESTOR: Knowledge Recovery in Machine Unlearning | RESTOR: Wissensrückgewinnung in Maschinellem Lernen | 机械学习中的知识恢复 [2411.00204v3](http://arxiv.org/abs/2411.00204v3)
 
 **Authors**: Keivan Rezaei, Khyathi Chandu, Soheil Feizi, Yejin Choi, Faeze Brahman, Abhilasha Ravichander
@@ -10246,6 +11134,7 @@ Large language models trained on web-scale corpora can memorize undesirable data
 
 ## Article 888
 ### Title@2025-05-26 (1): SeMe: Training-Free Language Model Merging via Semantic Alignment
+
 **Title**: SeMe: Training-Free Language Model Merging via Semantic Alignment | SeMe: Training-freies Sprachmodell Zusammenführen über semantische Ausrichtung | SeME:通过语义一致合并的无培训语言模式 [2505.20144v1](http://arxiv.org/abs/2505.20144v1)
 
 **Authors**: Jian Gu, Aldeida Aleti, Chunyang Chen, Hongyu Zhang
@@ -10256,6 +11145,7 @@ Despite the remarkable capabilities of Language Models (LMs) across diverse task
 
 ## Article 889
 ### Title@2025-05-26 (1): GUARD: Role-playing to Generate Natural-language Jailbreakings to Test   Guideline Adherence of Large Language Models
+
 **Title**: GUARD: Role-playing to Generate Natural-language Jailbreakings to Test   Guideline Adherence of Large Language Models | GUARD: Rollenspiel zur Generierung von Jailbreakings in natürlicher Sprache zur Prüfung der Einhaltung der Leitlinie für große Sprachmodelle | GUARD: 利用《大语言模式遵守试验准则准则》创造以自然语言破门破门 [2402.03299v5](http://arxiv.org/abs/2402.03299v5)
 
 **Authors**: Haibo Jin, Ruoxi Chen, Peiyan Zhang, Andy Zhou, Yang Zhang, Haohan Wang
@@ -10266,6 +11156,7 @@ The discovery of "jailbreaks" to bypass safety filters of Large Language Models 
 
 ## Article 890
 ### Title@2025-05-26 (1): StructEval: Benchmarking LLMs' Capabilities to Generate Structural   Outputs
+
 **Title**: StructEval: Benchmarking LLMs' Capabilities to Generate Structural   Outputs | StructEval: Benchmarking der Kapazitäten von LLM zur Erzeugung struktureller Outputs | DructEval:将LLMs的能力与产生结构性产出挂钩 [2505.20139v1](http://arxiv.org/abs/2505.20139v1)
 
 **Authors**: Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, Ziyan Jiang, Ping Nie, Wenhu Chen
@@ -10276,6 +11167,7 @@ As Large Language Models (LLMs) become integral to software development workflow
 
 ## Article 891
 ### Title@2025-05-26 (1): P$^2$ Law: Scaling Law for Post-Training After Model Pruning
+
 **Title**: P$^2$ Law: Scaling Law for Post-Training After Model Pruning | P$^2$ Gesetz: Skalierungsgesetz für Post-Training nach Modellprüfung | P$2美元 法律:示范 " 谨慎 " 后培训后培训后扩大法 [2411.10272v3](http://arxiv.org/abs/2411.10272v3)
 
 **Authors**: Xiaodong Chen, Yuxuan Hu, Xiaokang Zhang, Yanling Wang, Cuiping Li, Hong Chen, Jing Zhang
@@ -10286,6 +11178,7 @@ Pruning has become a widely adopted technique for reducing the hardware requirem
 
 ## Article 892
 ### Title@2025-05-26 (1): AweDist: Attention-aware Embedding Distillation for New Input Token   Embeddings
+
 **Title**: AweDist: Attention-aware Embedding Distillation for New Input Token   Embeddings | AweDist: Aufmerksamkeitsbewusste Einbettung Destillation für neue Eingabe-Token-Einbettungen | AweDist: 新的输入式嵌入式嵌入器的注意嵌入蒸馏 [2505.20133v1](http://arxiv.org/abs/2505.20133v1)
 
 **Authors**: Konstantin Dobler, Desmond Elliott, Gerard de Melo
@@ -10296,6 +11189,7 @@ Current language models rely on static vocabularies determined at pretraining ti
 
 ## Article 893
 ### Title@2025-05-26 (1): Iterative Self-Incentivization Empowers Large Language Models as Agentic   Searchers
+
 **Title**: Iterative Self-Incentivization Empowers Large Language Models as Agentic   Searchers | Iterative Selbstanreizung macht große Sprachmodelle als Agent-Sucher aus | 迭代自我激励激励增强大语言模型作为代理搜索者的能力 [2505.20128v1](http://arxiv.org/abs/2505.20128v1)
 
 **Authors**: Zhengliang Shi, Lingyong Yan, Dawei Yin, Suzan Verberne, Maarten de Rijke, Zhaochun Ren
@@ -10306,6 +11200,7 @@ Large language models (LLMs) have been widely integrated into information retrie
 
 ## Article 894
 ### Title@2025-05-26 (1): PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking   Attacks
+
 **Title**: PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking   Attacks | PandaGuard: Systematische Bewertung der LLM-Sicherheit gegen Jailbreaking-Angriffe | PandaGuard:系统评估防止侵入监狱袭击的LLM安全性 [2505.13862v3](http://arxiv.org/abs/2505.13862v3)
 
 **Authors**: Guobin Shen, Dongcheng Zhao, Linghao Feng, Xiang He, Jihang Wang, Sicheng Shen, Haibo Tong, Yiting Dong, Jindong Li, Xiang Zheng, Yi Zeng
@@ -10316,6 +11211,7 @@ Large language models (LLMs) have achieved remarkable capabilities but remain vu
 
 ## Article 895
 ### Title@2025-05-26 (1): Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for   Large Language Models
+
 **Title**: Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for   Large Language Models | Retrieval Modelle sind nicht Tool-Savvy: Benchmarking Tool Retrieval für große Sprachmodelle | 检索模型不是工具保存工具:大语言模型基准工具检索工具 [2503.01763v2](http://arxiv.org/abs/2503.01763v2)
 
 **Authors**: Zhengliang Shi, Yuhan Wang, Lingyong Yan, Pengjie Ren, Shuaiqiang Wang, Dawei Yin, Zhaochun Ren
@@ -10326,6 +11222,7 @@ Tool learning aims to augment large language models (LLMs) with diverse tools, e
 
 ## Article 896
 ### Title@2025-05-26 (1): Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under   Black-box Settings
+
 **Title**: Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under   Black-box Settings | Crabs: Ressourcenverbrauch über Auto-Generation für LLM-DoS-Angriff unter Black-Box-Einstellungen | Crabs: 在黑盒设置下通过LLM-DoS攻击的自动生成来消耗资源 [2412.13879v4](http://arxiv.org/abs/2412.13879v4)
 
 **Authors**: Yuanhe Zhang, Zhenhong Zhou, Wei Zhang, Xinyue Wang, Xiaojun Jia, Yang Liu, Sen Su
@@ -10336,6 +11233,7 @@ Large Language Models (LLMs) have demonstrated remarkable performance across div
 
 ## Article 897
 ### Title@2025-05-26 (1): Named Entity Recognition in Historical Italian: The Case of Giacomo   Leopardi's Zibaldone
+
 **Title**: Named Entity Recognition in Historical Italian: The Case of Giacomo   Leopardi's Zibaldone | Genannte Entity Recognition in Historic Italian: Der Fall von Giacomo Leopardis Zibaldone | 在历史上意大利文中命名实体识别:Giacomo Leopardi的Zibaldone案 [2505.20113v1](http://arxiv.org/abs/2505.20113v1)
 
 **Authors**: Cristian Santini, Laura Melosi, Emanuele Frontoni
@@ -10346,6 +11244,7 @@ The increased digitization of world's textual heritage poses significant challen
 
 ## Article 898
 ### Title@2025-05-26 (1): ResSVD: Residual Compensated SVD for Large Language Model Compression
+
 **Title**: ResSVD: Residual Compensated SVD for Large Language Model Compression | ResSVD: Residual Compensated SVD für großsprachliche Modellkompression | ResSVD: 大语言模型压缩剩余补偿SVD [2505.20112v1](http://arxiv.org/abs/2505.20112v1)
 
 **Authors**: Haolei Bai, Siyong Jian, Tuo Liang, Yu Yin, Huan Wang
@@ -10356,6 +11255,7 @@ Large language models (LLMs) have demonstrated impressive capabilities in a wide
 
 ## Article 899
 ### Title@2025-05-26 (1): Language-Agnostic Suicidal Risk Detection Using Large Language Models
+
 **Title**: Language-Agnostic Suicidal Risk Detection Using Large Language Models | Sprach-agnostische Suizidrisikoerkennung mit großen Sprachmodellen | 使用大语言模型进行语言不可知的自杀风险探测 [2505.20109v1](http://arxiv.org/abs/2505.20109v1)
 
 **Authors**: June-Woo Kim, Wonkyo Oh, Haram Yoon, Sung-Hoon Yoon, Dae-Jin Kim, Dong-Ho Lee, Sang-Yeol Lee, Chan-Mo Yang
@@ -10366,6 +11266,7 @@ Suicidal risk detection in adolescents is a critical challenge, yet existing met
 
 ## Article 900
 ### Title@2025-05-26 (1): Large Language Models Meet Knowledge Graphs for Question Answering:   Synthesis and Opportunities
+
 **Title**: Large Language Models Meet Knowledge Graphs for Question Answering:   Synthesis and Opportunities | Große Sprachmodelle treffen auf Wissensgraphen für Fragenbeantwortung: Synthese und Chancen | 大语言模式满足回答问题的知识图表:综合与机遇 [2505.20099v1](http://arxiv.org/abs/2505.20099v1)
 
 **Authors**: Chuangtao Ma, Yongrui Chen, Tianxing Wu, Arijit Khan, Haofen Wang
@@ -10376,6 +11277,7 @@ Large language models (LLMs) have demonstrated remarkable performance on questio
 
 ## Article 901
 ### Title@2025-05-26 (1): S2LPP: Small-to-Large Prompt Prediction across LLMs
+
 **Title**: S2LPP: Small-to-Large Prompt Prediction across LLMs | S2LPP: Kleine bis große Vorhersagen über LLMs | S2LPP: 小到大迅速预测 [2505.20097v1](http://arxiv.org/abs/2505.20097v1)
 
 **Authors**: Liang Cheng, Tianyi LI, Zhaowei Wang, Mark Steedman
@@ -10386,6 +11288,7 @@ The performance of pre-trained Large Language Models (LLMs) is often sensitive t
 
 ## Article 902
 ### Title@2025-05-26 (1): MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative   Chain-of-Thought Reasoning
+
 **Title**: MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative   Chain-of-Thought Reasoning | MA-RAG: Multi-Agent Retrieval-Augmented Generation über kollaborative Chain-of-Thought-Reasoning | MA-RAG:通过协作研究链解释理由实现多权获取-提款人一代 [2505.20096v1](http://arxiv.org/abs/2505.20096v1)
 
 **Authors**: Thang Nguyen, Peter Chin, Yu-Wing Tai
@@ -10396,6 +11299,7 @@ We present MA-RAG, a Multi-Agent framework for Retrieval-Augmented Generation (R
 
 ## Article 903
 ### Title@2025-05-26 (1): Safety Through Reasoning: An Empirical Study of Reasoning Guardrail   Models
+
 **Title**: Safety Through Reasoning: An Empirical Study of Reasoning Guardrail   Models | Sicherheit durch Vernunft: Eine empirische Studie zu vernünftigen Guardrail-Modellen | 安全理由:对护卫车模型说明理由的经验研究 [2505.20087v1](http://arxiv.org/abs/2505.20087v1)
 
 **Authors**: Makesh Narsimhan Sreedhar, Traian Rebedea, Christopher Parisien
@@ -10406,6 +11310,7 @@ Reasoning-based language models have demonstrated strong performance across vari
 
 ## Article 904
 ### Title@2025-05-26 (1): Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language   Models
+
 **Title**: Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language   Models | Enthüllen der Intrinsischen Ethischen Verletzlichkeit von ausgerichteten großen Sprachmodellen | 揭示统一大语言模式内在道德脆弱性 [2504.05050v3](http://arxiv.org/abs/2504.05050v3)
 
 **Authors**: Jiawei Lian, Jianhong Pan, Lefan Wang, Yi Wang, Shaohui Mei, Lap-Pui Chau
@@ -10416,6 +11321,7 @@ Large language models (LLMs) are foundational explorations to artificial general
 
 ## Article 905
 ### Title@2025-05-26 (1): SAEs Are Good for Steering -- If You Select the Right Features
+
 **Title**: SAEs Are Good for Steering -- If You Select the Right Features | SAEs sind gut für das Lenken -- wenn Sie die richtigen Funktionen auswählen | SAEs 有利于指导 -- -- 如果您选择了正确的特性 [2505.20063v1](http://arxiv.org/abs/2505.20063v1)
 
 **Authors**: Dana Arad, Aaron Mueller, Yonatan Belinkov
@@ -10426,6 +11332,7 @@ Sparse Autoencoders (SAEs) have been proposed as an unsupervised approach to lea
 
 ## Article 906
 ### Title@2025-05-26 (1): "Alexa, can you forget me?" Machine Unlearning Benchmark in Spoken   Language Understanding
+
 **Title**: "Alexa, can you forget me?" Machine Unlearning Benchmark in Spoken   Language Understanding | „Alexa, kannst du mich vergessen?" Machine Unlearning Benchmark in Spoken Language Understanding | "亚历克斯,你能忘记我吗?" [2505.15700v2](http://arxiv.org/abs/2505.15700v2)
 
 **Authors**: Alkis Koudounas, Claudio Savelli, Flavio Giobergia, Elena Baralis
@@ -10436,6 +11343,7 @@ Machine unlearning, the process of efficiently removing specific information fro
 
 ## Article 907
 ### Title@2025-05-26 (1): Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion
+
 **Title**: Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion | Multimodale LLM-geführte semantische Korrektur in Text-zu-Bild-Diffusion | 文字到图像传播中多式LLM-指导的语义校正 [2505.20053v1](http://arxiv.org/abs/2505.20053v1)
 
 **Authors**: Zheqi Lv, Junhao Chen, Qi Tian, Keting Yin, Shengyu Zhang, Fei Wu
@@ -10446,6 +11354,7 @@ Diffusion models have become the mainstream architecture for text-to-image gener
 
 ## Article 908
 ### Title@2025-05-26 (1): MVP: Multi-source Voice Pathology detection
+
 **Title**: MVP: Multi-source Voice Pathology detection | MVP: Multi-Source Sprachpathologie-Erkennung | MVP:多源语音病理检测 [2505.20050v1](http://arxiv.org/abs/2505.20050v1)
 
 **Authors**: Alkis Koudounas, Moreno La Quatra, Gabriele Ciravegna, Marco Fantini, Erika Crosetti, Giovanni Succo, Tania Cerquitelli, Sabato Marco Siniscalchi, Elena Baralis
@@ -10456,6 +11365,7 @@ Voice disorders significantly impact patient quality of life, yet non-invasive a
 
 ## Article 909
 ### Title@2025-05-26 (1): Grammars of Formal Uncertainty: When to Trust LLMs in Automated   Reasoning Tasks
+
 **Title**: Grammars of Formal Uncertainty: When to Trust LLMs in Automated   Reasoning Tasks | Grammatik der formalen Unsicherheit: Wann man LLMs bei automatisierten Aufgaben zur Begründung vertraut | 正式不确定性的语法:在自动说明理由任务中何时信任LLMs [2505.20047v1](http://arxiv.org/abs/2505.20047v1)
 
 **Authors**: Debargha Ganguly, Vikash Singh, Sreehari Sankar, Biyao Zhang, Xuecen Zhang, Srinivasan Iyengar, Xiaotian Han, Amit Sharma, Shivkumar Kalyanaraman, Vipin Chaudhary
@@ -10466,6 +11376,7 @@ Large language models (LLMs) show remarkable promise for democratizing automated
 
 ## Article 910
 ### Title@2025-05-26 (1): Bemba Speech Translation: Exploring a Low-Resource African Language
+
 **Title**: Bemba Speech Translation: Exploring a Low-Resource African Language | Bemba Speech Translation: Erforschen einer ressourcenarmen afrikanischen Sprache | 本巴语言翻译:探索非洲低资源语言 [2505.02518v2](http://arxiv.org/abs/2505.02518v2)
 
 **Authors**: Muhammad Hazim Al Farouq, Aman Kassahun Wassie, Yasmin Moslem
@@ -10476,6 +11387,7 @@ This paper describes our system submission to the International Conference on Sp
 
 ## Article 911
 ### Title@2025-05-26 (1): REARANK: Reasoning Re-ranking Agent via Reinforcement Learning
+
 **Title**: REARANK: Reasoning Re-ranking Agent via Reinforcement Learning | REARANK: Reasoning Re-Ranking Agent über Verstärkungs-Lernen | REARANK: 通过加强学习,为重新升级的代理提供理由 [2505.20046v1](http://arxiv.org/abs/2505.20046v1)
 
 **Authors**: Le Zhang, Bo Wang, Xipeng Qiu, Siva Reddy, Aishwarya Agrawal
@@ -10486,6 +11398,7 @@ We present REARANK, a large language model (LLM)-based listwise reasoning rerank
 
 ## Article 912
 ### Title@2025-05-26 (1): Uncertainty-Aware Attention Heads: Efficient Unsupervised Uncertainty   Quantification for LLMs
+
 **Title**: Uncertainty-Aware Attention Heads: Efficient Unsupervised Uncertainty   Quantification for LLMs | Unsichere Aufmerksamkeitsköpfe: Effiziente Unüberwachte Unsichere Quantifizierung für LLMs | 确定性 -- -- 警告注意头头:对LLMs进行高效率的、无监督的、不确定性的量化 [2505.20045v1](http://arxiv.org/abs/2505.20045v1)
 
 **Authors**: Artem Vazhentsev, Lyudmila Rvanova, Gleb Kuzmin, Ekaterina Fadeeva, Ivan Lazichny, Alexander Panchenko, Maxim Panov, Timothy Baldwin, Mrinmaya Sachan, Preslav Nakov, Artem Shelmanov
@@ -10496,6 +11409,7 @@ Large language models (LLMs) exhibit impressive fluency, but often produce criti
 
 ## Article 913
 ### Title@2025-05-26 (1): The More Similar, the Better? Associations between Latent Semantic   Similarity and Emotional Experiences Differ across Conversation Contexts
+
 **Title**: The More Similar, the Better? Associations between Latent Semantic   Similarity and Emotional Experiences Differ across Conversation Contexts | Je ähnlicher, desto besser? Assoziationen zwischen latenter semantischer Ähnlichkeit und emotionaler Erfahrung unterscheiden sich über Gesprächskontexte | " 更相似的 " 、 " 更好 " 、 " 经常语义相似性与情感经历之间联系 " 、 " 不同对话背景 " 、 " 更好 " 、 " 不同对话背景 " 、 " 不同情感经历 " 、 " 不同对话背景 " 、 " 更好 " 、 " 更好 " 、 " 不同政见 " 、 " 不同政见 " 、 " 不同政见 " 、 " 不同政见 " 、 " 不同政见 " 、 " 不同政见 " 、 " 不同政见 " [2309.12646v3](http://arxiv.org/abs/2309.12646v3)
 
 **Authors**: Chen-Wei Yu, Yun-Shiuan Chuang, Alexandros N. Lotsos, Tabea Meier, Claudia M. Haase
@@ -10506,6 +11420,7 @@ Latent semantic similarity (LSS) is a measure of the similarity of information e
 
 ## Article 914
 ### Title@2025-05-26 (1): Unveiling the Power of Source: Source-based Minimum Bayes Risk Decoding   for Neural Machine Translation
+
 **Title**: Unveiling the Power of Source: Source-based Minimum Bayes Risk Decoding   for Neural Machine Translation | Enthüllen der Macht der Quelle: Quelle-basierte Minimum Bayes Risiko-Dekodierung für neurale maschinelle Übersetzung | 资料来源:基于源的神经机器翻译最低贝ys风险代号。 [2406.11632v5](http://arxiv.org/abs/2406.11632v5)
 
 **Authors**: Boxuan Lyu, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura
@@ -10516,6 +11431,7 @@ Maximum a posteriori decoding, a commonly used method for neural machine transla
 
 ## Article 915
 ### Title@2025-05-26 (1): Multi-modal brain encoding models for multi-modal stimuli
+
 **Title**: Multi-modal brain encoding models for multi-modal stimuli | Multimodale Gehirnkodierungsmodelle für multimodale Reize | 多模式刺激多模式大脑编码模型 [2505.20027v1](http://arxiv.org/abs/2505.20027v1)
 
 **Authors**: Subba Reddy Oota, Khushbu Pahwa, Mounika Marreddy, Maneesh Singh, Manish Gupta, Bapi S. Raju
@@ -10526,6 +11442,7 @@ Despite participants engaging in unimodal stimuli, such as watching images or si
 
 ## Article 916
 ### Title@2025-05-26 (1): A Survey on the Safety and Security Threats of Computer-Using Agents:   JARVIS or Ultron?
+
 **Title**: A Survey on the Safety and Security Threats of Computer-Using Agents:   JARVIS or Ultron? | Eine Umfrage über die Sicherheitsbedrohungen von Computer-Verwendern: JARVIS oder Ultron? | JARVIS还是ULTRON? 调查计算机用户的安全和安保威胁:JARVIS还是ULTRON? [2505.10924v2](http://arxiv.org/abs/2505.10924v2)
 
 **Authors**: Ada Chen, Yongjiang Wu, Junyuan Zhang, Jingyu Xiao, Shu Yang, Jen-tse Huang, Kun Wang, Wenxuan Wang, Shuai Wang
@@ -10536,6 +11453,7 @@ Recently, AI-driven interactions with computing devices have advanced from basic
 
 ## Article 917
 ### Title@2025-05-26 (1): A Survey of LLM-based Agents in Medicine: How far are we from Baymax?
+
 **Title**: A Survey of LLM-based Agents in Medicine: How far are we from Baymax? | Eine Umfrage von LLM-basierten Medikamenten in der Medizin: Wie weit sind wir von Baymax entfernt? | 对医学中以LLM为主的药剂的调查:我们离Baymax有多远? [2502.11211v2](http://arxiv.org/abs/2502.11211v2)
 
 **Authors**: Wenxuan Wang, Zizhan Ma, Zheng Wang, Chenghan Wu, Jiaming Ji, Wenting Chen, Xiang Li, Yixuan Yuan
@@ -10546,6 +11464,7 @@ Large Language Models (LLMs) are transforming healthcare through the development
 
 ## Article 918
 ### Title@2025-05-26 (1): Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and   Partial Masking
+
 **Title**: Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and   Partial Masking | Training von LLM-basierten Agenten mit synthetischen selbstreflektierten Trajektorien und partieller Maske | 具有合成自我反射轨迹和部分遮罩的以LLM为基础的代理人员培训 [2505.20023v1](http://arxiv.org/abs/2505.20023v1)
 
 **Authors**: Yihan Chen, Benfeng Xu, Xiaorui Wang, Yongdong Zhang, Zhendong Mao
@@ -10556,6 +11475,7 @@ Autonomous agents, which perceive environments and take actions to achieve goals
 
 ## Article 919
 ### Title@2025-05-26 (1): TTPA: Token-level Tool-use Preference Alignment Training Framework with   Fine-grained Evaluation
+
 **Title**: TTPA: Token-level Tool-use Preference Alignment Training Framework with   Fine-grained Evaluation | TTPA: Token-Level Tool-use Preference Alignment Training Framework mit feinkörniger Bewertung | TTPA: 采用精细评价法的全方位工具使用优先调整培训框架 [2505.20016v1](http://arxiv.org/abs/2505.20016v1)
 
 **Authors**: Chengrui Huang, Shen Gao, Zhengliang Shi, Dongsheng Wang, Shuo Shang
@@ -10566,6 +11486,7 @@ Existing tool-learning methods usually rely on supervised fine-tuning, they ofte
 
 ## Article 920
 ### Title@2025-05-26 (1): On the class of coding optimality of human languages and the origins of   Zipf's law
+
 **Title**: On the class of coding optimality of human languages and the origins of   Zipf's law | Über die Klasse der Kodierung der optimalen menschlichen Sprachen und die Ursprünge des Zippschen Gesetzes | 在人类语言最优化的编码和齐普夫法律的起源方面 [2505.20015v1](http://arxiv.org/abs/2505.20015v1)
 
 **Authors**: Ramon Ferrer-i-Cancho
@@ -10576,6 +11497,7 @@ Here we present a new class of optimality for coding systems. Members of that cl
 
 ## Article 921
 ### Title@2025-05-26 (1): Does Rationale Quality Matter? Enhancing Mental Disorder Detection via   Selective Reasoning Distillation
+
 **Title**: Does Rationale Quality Matter? Enhancing Mental Disorder Detection via   Selective Reasoning Distillation | Ist Rationale Qualität Materie? Verbesserung der psychischen Störung Detektion durch selektive Begründung Destillation | 理由质量是否重要? 通过选择性理由蒸馏加强精神失常检测 [2505.20014v1](http://arxiv.org/abs/2505.20014v1)
 
 **Authors**: Hoyun Song, Huije Lee, Jisu Shin, Sukmin Cho, Changgeon Ko, Jong C. Park
@@ -10586,6 +11508,7 @@ The detection of mental health problems from social media and the interpretation
 
 ## Article 922
 ### Title@2025-05-26 (1): WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought   in Reflection, Branching, and Rollback
+
 **Title**: WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought   in Reflection, Branching, and Rollback | WebCoT: Web-Agenten verbessern Begründung durch Rekonstruieren Kette-von-Gedanken in Reflexion, Verzweigung und Rollback | WebCot:通过在反射、分流和回滚中重新构建研究链,加强网络代理理由 [2505.20013v1](http://arxiv.org/abs/2505.20013v1)
 
 **Authors**: Minda Hu, Tianqing Fang, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, Hongming Zhang, Haitao Mi, Dong Yu, Irwin King
@@ -10596,6 +11519,7 @@ Web agents powered by Large Language Models (LLMs) show promise for next-generat
 
 ## Article 923
 ### Title@2025-05-26 (1): ProcessBench: Identifying Process Errors in Mathematical Reasoning
+
 **Title**: ProcessBench: Identifying Process Errors in Mathematical Reasoning | ProcessBench: Identifizierung von Prozessfehlern in mathematischer Reasoning | 进程快节: 识别数学原因中的进程错误 [2412.06559v4](http://arxiv.org/abs/2412.06559v4)
 
 **Authors**: Chujie Zheng, Zhenru Zhang, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin
@@ -10606,6 +11530,7 @@ As language models regularly make mistakes when solving math problems, automated
 
 ## Article 924
 ### Title@2025-05-26 (1): Mixture of LoRA Experts for Low-Resourced Multi-Accent Automatic Speech   Recognition
+
 **Title**: Mixture of LoRA Experts for Low-Resourced Multi-Accent Automatic Speech   Recognition | Mischung von LoRA-Experten für die automatische Spracherkennung mit geringem Ressourcenbedarf | LoRA 低资源多中心自动语音识别专家混合 [2505.20006v1](http://arxiv.org/abs/2505.20006v1)
 
 **Authors**: Raphaël Bagat, Irina Illina, Emmanuel Vincent
@@ -10616,6 +11541,7 @@ We aim to improve the robustness of Automatic Speech Recognition (ASR) systems a
 
 ## Article 925
 ### Title@2025-05-26 (1): Embracing Imperfection: Simulating Students with Diverse Cognitive   Levels Using LLM-based Agents
+
 **Title**: Embracing Imperfection: Simulating Students with Diverse Cognitive   Levels Using LLM-based Agents | Unvollkommenheit: Simulieren von Studenten mit unterschiedlichen kognitiven Ebenen mit LLM-basierten Agenten | 普及缺陷:利用基于LLM的代理物模拟具有不同认知水平的学生 [2505.19997v1](http://arxiv.org/abs/2505.19997v1)
 
 **Authors**: Tao Wu, Jingyuan Chen, Wang Lin, Mengze Li, Yumeng Zhu, Ang Li, Kun Kuang, Fei Wu
@@ -10626,6 +11552,7 @@ Large language models (LLMs) are revolutionizing education, with LLM-based agent
 
 ## Article 926
 ### Title@2025-05-26 (1): How Well Do Large Reasoning Models Translate? A Comprehensive Evaluation   for Multi-Domain Machine Translation
+
 **Title**: How Well Do Large Reasoning Models Translate? A Comprehensive Evaluation   for Multi-Domain Machine Translation | Wie gut übersetzen große Begründungsmodelle? Eine umfassende Bewertung für Multi-Domain maschinelle Übersetzung | 大理由模型如何翻译?多功能机器翻译的全面评价 [2505.19987v1](http://arxiv.org/abs/2505.19987v1)
 
 **Authors**: Yongshi Ye, Biao Fu, Chongxuan Huang, Yidong Chen, Xiaodong Shi
@@ -10636,6 +11563,7 @@ Large language models (LLMs) have demonstrated strong performance in general-pur
 
 ## Article 927
 ### Title@2025-05-26 (1): What Does Neuro Mean to Cardio? Investigating the Role of Clinical   Specialty Data in Medical LLMs
+
 **Title**: What Does Neuro Mean to Cardio? Investigating the Role of Clinical   Specialty Data in Medical LLMs | Was bedeutet Neuro für Cardio? Untersuchung der Rolle klinischer Spezialdaten in medizinischen LLMs | " 神经中度 " 与 " 心脏病 " 有何关系? 调查临床特殊数据在医疗长效管中的作用 [2505.10113v2](http://arxiv.org/abs/2505.10113v2)
 
 **Authors**: Xinlan Yan, Di Wu, Yibin Lei, Christof Monz, Iacer Calixto
@@ -10646,6 +11574,7 @@ In this paper, we introduce S-MedQA, an English medical question-answering (QA) 
 
 ## Article 928
 ### Title@2025-05-26 (1): DeepDialogue: A Multi-Turn Emotionally-Rich Spoken Dialogue Dataset
+
 **Title**: DeepDialogue: A Multi-Turn Emotionally-Rich Spoken Dialogue Dataset | DeepDialogue: Ein multi-Turn emotional-Rich gesprochener Dialog Datensatz | 深对话:多发情感- Rich 口语对话框数据集 [2505.19978v1](http://arxiv.org/abs/2505.19978v1)
 
 **Authors**: Alkis Koudounas, Moreno La Quatra, Elena Baralis
@@ -10656,6 +11585,7 @@ Recent advances in conversational AI have demonstrated impressive capabilities i
 
 ## Article 929
 ### Title@2025-05-26 (1): Conversational Lexicography: Querying Lexicographic Data on Knowledge   Graphs with SPARQL through Natural Language
+
 **Title**: Conversational Lexicography: Querying Lexicographic Data on Knowledge   Graphs with SPARQL through Natural Language | Conversational Lexicography: Abfrage Lexicographic Data on Knowledge Graphs mit SPARQL durch natürliche Sprache | 通过自然语言查询与SPARQL通过自然语言的 SPARQL 知识图的文献资料 [2505.19971v1](http://arxiv.org/abs/2505.19971v1)
 
 **Authors**: Kilian Sennrich, Sina Ahmadi
@@ -10666,6 +11596,7 @@ Knowledge graphs offer an excellent solution for representing the lexical-semant
 
 ## Article 930
 ### Title@2025-05-26 (1): CP-Router: An Uncertainty-Aware Router Between LLM and LRM
+
 **Title**: CP-Router: An Uncertainty-Aware Router Between LLM and LRM | CP-Router: Ein unsicherer Router zwischen LLM und LRM | CP-Router:LLM和LRM之间的不确定软件路由器 [2505.19970v1](http://arxiv.org/abs/2505.19970v1)
 
 **Authors**: Jiayuan Su, Fulin Lin, Zhaopeng Feng, Han Zheng, Teng Wang, Zhenyu Xiao, Xinlong Zhao, Zuozhu Liu, Lu Cheng, Hongwei Wang
@@ -10676,6 +11607,7 @@ Recent advances in Large Reasoning Models (LRMs) have significantly improved lon
 
 ## Article 931
 ### Title@2025-05-26 (1): The Limits of Preference Data for Post-Training
+
 **Title**: The Limits of Preference Data for Post-Training | Die Grenzen der Präferenzdaten für das Post-Training | 培训后优先数据限值 [2505.19964v1](http://arxiv.org/abs/2505.19964v1)
 
 **Authors**: Eric Zhao, Jessica Dai, Pranjal Awasthi
@@ -10686,6 +11618,7 @@ Recent progress in strengthening the capabilities of large language models has s
 
 ## Article 932
 ### Title@2025-05-26 (1): Explanatory Summarization with Discourse-Driven Planning
+
 **Title**: Explanatory Summarization with Discourse-Driven Planning | Erklärende Zusammenfassung mit diskursgetriebener Planung | 与 " 分流规划 " 结合的解释性总结 [2504.19339v3](http://arxiv.org/abs/2504.19339v3)
 
 **Authors**: Dongqi Liu, Xi Yu, Vera Demberg, Mirella Lapata
@@ -10696,6 +11629,7 @@ Lay summaries for scientific documents typically include explanations to help re
 
 ## Article 933
 ### Title@2025-05-26 (1): MiniLongBench: The Low-cost Long Context Understanding Benchmark for   Large Language Models
+
 **Title**: MiniLongBench: The Low-cost Long Context Understanding Benchmark for   Large Language Models | MiniLongBench: Der kostengünstige Long Context Benchmark für große Sprachmodelle verstehen | MiniLongBunench:大语言模式低成本长方背景理解基准 [2505.19959v1](http://arxiv.org/abs/2505.19959v1)
 
 **Authors**: Zhongzhan Huang, Guoming Ling, Shanshan Zhong, Hefeng Wu, Liang Lin
@@ -10706,6 +11640,7 @@ Long Context Understanding (LCU) is a critical area for exploration in current l
 
 ## Article 934
 ### Title@2025-05-26 (1): DCG-SQL: Enhancing In-Context Learning for Text-to-SQL with Deep   Contextual Schema Link Graph
+
 **Title**: DCG-SQL: Enhancing In-Context Learning for Text-to-SQL with Deep   Contextual Schema Link Graph | DCG-SQL: Verbesserung des In-Context-Lernens für Text-zu-SQL mit Deep Contextual Schema Link Graph | DCG-SQL:加强内文学习,以便用深背景图示链接图进行文字到SQL的内文学习 [2505.19956v1](http://arxiv.org/abs/2505.19956v1)
 
 **Authors**: Jihyung Lee, Jin-Seop Lee, Jaehoon Lee, YunSeok Choi, Jee-Hyong Lee
@@ -10716,6 +11651,7 @@ Text-to-SQL, which translates a natural language question into an SQL query, has
 
 ## Article 935
 ### Title@2025-05-26 (1): MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research
+
 **Title**: MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research | MLR-Bench: Bewertung von KI-Agenten auf Open-Ended Machine Learning Research | MLR-Bench:评估AI公司在开放式机械学习研究方面的代理机构 [2505.19955v1](http://arxiv.org/abs/2505.19955v1)
 
 **Authors**: Hui Chen, Miao Xiong, Yujie Lu, Wei Han, Ailin Deng, Yufei He, Jiaying Wu, Yibo Li, Yue Liu, Bryan Hooi
@@ -10726,6 +11662,7 @@ Recent advancements in AI agents have demonstrated their growing potential to dr
 
 ## Article 936
 ### Title@2025-05-26 (1): An Explainable Diagnostic Framework for Neurodegenerative Dementias via   Reinforcement-Optimized LLM Reasoning
+
 **Title**: An Explainable Diagnostic Framework for Neurodegenerative Dementias via   Reinforcement-Optimized LLM Reasoning | Ein erklärbares Diagnose-Framework für neurodegenerative Dementias durch Verstärkungsoptimierte LLM-Reasoning | 通过强化-优化LLM解释性理疗理由的神经医学性痴呆症可解释的诊断框架 [2505.19954v1](http://arxiv.org/abs/2505.19954v1)
 
 **Authors**: Andrew Zamai, Nathanael Fijalkow, Boris Mansencal, Laurent Simon, Eloi Navet, Pierrick Coupe
@@ -10736,6 +11673,7 @@ The differential diagnosis of neurodegenerative dementias is a challenging clini
 
 ## Article 937
 ### Title@2025-05-26 (1): Less for More: Enhanced Feedback-aligned Mixed LLMs for Molecule Caption   Generation and Fine-Grained NLI Evaluation
+
 **Title**: Less for More: Enhanced Feedback-aligned Mixed LLMs for Molecule Caption   Generation and Fine-Grained NLI Evaluation | Weniger für mehr: Verbesserte feedbackorientierte gemischte LLMs für die Erzeugung von Molekülen und eine feinkörnige NLI-Bewertung | 减少更多:加强用于分子制导和精细国家低排放指数评价的反馈-调整混合混合LLM(MMLM) [2405.13984v3](http://arxiv.org/abs/2405.13984v3)
 
 **Authors**: Dimitris Gkoumas, Maria Liakata
@@ -10746,6 +11684,7 @@ Scientific language models drive research innovation but require extensive fine-
 
 ## Article 938
 ### Title@2025-05-26 (1): Can Visual Encoder Learn to See Arrows?
+
 **Title**: Can Visual Encoder Learn to See Arrows? | Kann Visual Encoder lernen, Pfeile zu sehen? | 视觉编码器能学会看到箭头吗 ? [2505.19944v1](http://arxiv.org/abs/2505.19944v1)
 
 **Authors**: Naoyuki Terashita, Yusuke Tozaki, Hideaki Omote, Congkha Nguyen, Ryosuke Nakamoto, Yuta Koreeda, Hiroaki Ozaki
@@ -10756,6 +11695,7 @@ The diagram is a visual representation of a relationship illustrated with edges 
 
 ## Article 939
 ### Title@2025-05-26 (1): Constructing a BPE Tokenization DFA
+
 **Title**: Constructing a BPE Tokenization DFA | Aufbau einer BPE Tokenization DFA | 正在构建 BPE 磁盘化 DFA [2405.07671v2](http://arxiv.org/abs/2405.07671v2)
 
 **Authors**: Martin Berglund, Willeke Martens, Brink van der Merwe
@@ -10766,6 +11706,7 @@ Many natural language processing systems operate over tokenizations of text to a
 
 ## Article 940
 ### Title@2025-05-26 (1): ALAS: Measuring Latent Speech-Text Alignment For Spoken Language   Understanding In Multimodal LLMs
+
 **Title**: ALAS: Measuring Latent Speech-Text Alignment For Spoken Language   Understanding In Multimodal LLMs | ALAS: Latente Sprach-Text-Ausrichtung für gesprochenes Sprachverständnis in multimodalen LLMs messen | ALAS: 计量多种模式LM 中口语语言理解的暗中语音-文本对齐 [2505.19937v1](http://arxiv.org/abs/2505.19937v1)
 
 **Authors**: Pooneh Mousavi, Yingzhi Wang, Mirco Ravanelli, Cem Subakan
@@ -10776,6 +11717,7 @@ Large Language Models (LLMs) are widely used in Spoken Language Understanding (S
 
 ## Article 941
 ### Title@2025-05-26 (1): MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient   Fine-Tuning
+
 **Title**: MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient   Fine-Tuning | MELoRA: Mini-Ensemble Low-Rank-Adapter für ein parametereffizientes Feintuning | MELORA: 用于准计有效微调的小型组合式低射速适应器 [2402.17263v3](http://arxiv.org/abs/2402.17263v3)
 
 **Authors**: Pengjie Ren, Chengshun Shi, Shiguang Wu, Mengqi Zhang, Zhaochun Ren, Maarten de Rijke, Zhumin Chen, Jiahuan Pei
@@ -10786,6 +11728,7 @@ Parameter-efficient fine-tuning (PEFT) is a popular method for tailoring pre-tra
 
 ## Article 942
 ### Title@2025-05-26 (1): GeoEdit: Geometric Knowledge Editing for Large Language Models
+
 **Title**: GeoEdit: Geometric Knowledge Editing for Large Language Models | GeoEdit: Geometrische Wissensbearbeitung für große Sprachmodelle | GeoEdit:大语言模型的几何知识编辑 [2502.19953v2](http://arxiv.org/abs/2502.19953v2)
 
 **Authors**: Yujie Feng, Liming Zhan, Zexin Lu, Yongxin Xu, Xu Chu, Yasha Wang, Jiannong Cao, Philip S. Yu, Xiao-Ming Wu
@@ -10796,6 +11739,7 @@ Regular updates are essential for maintaining up-to-date knowledge in large lang
 
 ## Article 943
 ### Title@2025-05-26 (1): A Cognitive Writing Perspective for Constrained Long-Form Text   Generation
+
 **Title**: A Cognitive Writing Perspective for Constrained Long-Form Text   Generation | Eine Kognitive Schreibperspektive für die eingeschränkte Langform-Textgenerierung | 受约束的长期形式制长式制式文本生成的认知式写作视角 [2502.12568v3](http://arxiv.org/abs/2502.12568v3)
 
 **Authors**: Kaiyang Wan, Honglin Mu, Rui Hao, Haoran Luo, Tianle Gu, Xiuying Chen
@@ -10806,6 +11750,7 @@ Like humans, Large Language Models (LLMs) struggle to generate high-quality long
 
 ## Article 944
 ### Title@2025-05-26 (1): JailbreakRadar: Comprehensive Assessment of Jailbreak Attacks Against   LLMs
+
 **Title**: JailbreakRadar: Comprehensive Assessment of Jailbreak Attacks Against   LLMs | JailbreakRadar: Umfassende Bewertung von Jailbreak Attacken gegen LLMs | Jailbreb Radar:全面评估对LLMs的越狱袭击 [2402.05668v3](http://arxiv.org/abs/2402.05668v3)
 
 **Authors**: Junjie Chu, Yugeng Liu, Ziqing Yang, Xinyue Shen, Michael Backes, Yang Zhang
@@ -10816,6 +11761,7 @@ Jailbreak attacks aim to bypass the LLMs' safeguards. While researchers have pro
 
 ## Article 945
 ### Title@2025-05-26 (1): Enigmata: Scaling Logical Reasoning in Large Language Models with   Synthetic Verifiable Puzzles
+
 **Title**: Enigmata: Scaling Logical Reasoning in Large Language Models with   Synthetic Verifiable Puzzles | Enigmata: Scaling Logical Reasoning in großen Sprachmodellen mit synthetischen überprüfbaren Puzzles | 英格玛塔:在使用合成可核实拼图的大型语言模型中扩大逻辑理由 [2505.19914v1](http://arxiv.org/abs/2505.19914v1)
 
 **Authors**: Jiangjie Chen, Qianyu He, Siyu Yuan, Aili Chen, Zhicheng Cai, Weinan Dai, Hongli Yu, Qiying Yu, Xuefeng Li, Jiaze Chen, Hao Zhou, Mingxuan Wang
@@ -10826,6 +11772,7 @@ Large Language Models (LLMs), such as OpenAI's o1 and DeepSeek's R1, excel at ad
 
 ## Article 946
 ### Title@2025-05-26 (1): APE: A Data-Centric Benchmark for Efficient LLM Adaptation in Text   Summarization
+
 **Title**: APE: A Data-Centric Benchmark for Efficient LLM Adaptation in Text   Summarization | APE: Ein datenzentrischer Benchmark für effiziente LLM-Anpassung in der Textzusammenfassung | APE: 文本摘要中高效LLM适应数据中心基准 [2505.19912v1](http://arxiv.org/abs/2505.19912v1)
 
 **Authors**: Javier Marín
@@ -10836,6 +11783,7 @@ We present Adjacent Possible Exploration (APE), a simple yet effective method fo
 
 ## Article 947
 ### Title@2025-05-26 (1): Linear Control of Test Awareness Reveals Differential Compliance in   Reasoning Models
+
 **Title**: Linear Control of Test Awareness Reveals Differential Compliance in   Reasoning Models | Lineare Kontrolle des Testbewusstseins zeigt unterschiedliche Compliance in vernünftigen Modellen | 对试验认知值的线性控制 [2505.14617v2](http://arxiv.org/abs/2505.14617v2)
 
 **Authors**: Sahar Abdelnabi, Ahmed Salem
@@ -10846,6 +11794,7 @@ Reasoning-focused large language models (LLMs) sometimes alter their behavior wh
 
 ## Article 948
 ### Title@2025-05-26 (1): ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic   Scientific Workflows
+
 **Title**: ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic   Scientific Workflows | ScienceBoard: Bewertung multimodaler autonomer Agenzien in realistischen wissenschaftlichen Workflows | 科学理事会:评估现实科学工作流程中的多式联运自治机构 [2505.19897v1](http://arxiv.org/abs/2505.19897v1)
 
 **Authors**: Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu
@@ -10856,6 +11805,7 @@ Large Language Models (LLMs) have extended their impact beyond Natural Language 
 
 ## Article 949
 ### Title@2025-05-26 (1): Large Language Models as Autonomous Spacecraft Operators in Kerbal Space   Program
+
 **Title**: Large Language Models as Autonomous Spacecraft Operators in Kerbal Space   Program | Große Sprachmodelle als autonome Raumfahrzeugbetreiber im Kerbal-Raumprogramm | 作为Kerbal空间方案自主航天器运营商的大型语言模型 [2505.19896v1](http://arxiv.org/abs/2505.19896v1)
 
 **Authors**: Alejandro Carrasco, Victor Rodriguez-Fernandez, Richard Linares
@@ -10866,6 +11816,7 @@ Recent trends are emerging in the use of Large Language Models (LLMs) as autonom
 
 ## Article 950
 ### Title@2025-05-26 (1): MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented   Generation System
+
 **Title**: MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented   Generation System | MoC: Mischungen von Text Chunking Learners für retrieval-Augmented Generation System | MoC: 用于检索增强型生成系统的 文本冲击学习者混合体 [2503.09600v2](http://arxiv.org/abs/2503.09600v2)
 
 **Authors**: Jihao Zhao, Zhiyuan Ji, Zhaoxin Fan, Hanyu Wang, Simin Niu, Bo Tang, Feiyu Xiong, Zhiyu Li
@@ -10876,6 +11827,7 @@ Retrieval-Augmented Generation (RAG), while serving as a viable complement to la
 
 ## Article 951
 ### Title@2025-05-26 (1): ESLM: Risk-Averse Selective Language Modeling for Efficient Pretraining
+
 **Title**: ESLM: Risk-Averse Selective Language Modeling for Efficient Pretraining | ESLM: Risiko-Averse Selective Language Modeling für effizientes Vortraining | ESLM: 有效培训前风险-反风险选择语言建模 [2505.19893v1](http://arxiv.org/abs/2505.19893v1)
 
 **Authors**: Melis Ilayda Bal, Volkan Cevher, Michael Muehlebach
@@ -10886,6 +11838,7 @@ Large language model pretraining is compute-intensive, yet many tokens contribut
 
 ## Article 952
 ### Title@2025-05-26 (1): Phare: A Safety Probe for Large Language Models
+
 **Title**: Phare: A Safety Probe for Large Language Models | Phare: Eine Sicherheitssonde für große Sprachmodelle | 法尔:大语言模型的安全检测 [2505.11365v4](http://arxiv.org/abs/2505.11365v4)
 
 **Authors**: Pierre Le Jeune, Benoît Malézieux, Weixuan Xiao, Matteo Dora
@@ -10896,6 +11849,7 @@ Ensuring the safety of large language models (LLMs) is critical for responsible 
 
 ## Article 953
 ### Title@2025-05-26 (1): APB: Accelerating Distributed Long-Context Inference by Passing   Compressed Context Blocks across GPUs
+
 **Title**: APB: Accelerating Distributed Long-Context Inference by Passing   Compressed Context Blocks across GPUs | APB: Beschleunigen des verteilten Long-Context-Schlussfolgerungens durch Übergeben von komprimierten Kontextblöcken über GPUs | APP: 通过通过横跨 GPU 传递压缩的上下文区块加速分布式长文字推文 [2502.12085v2](http://arxiv.org/abs/2502.12085v2)
 
 **Authors**: Yuxiang Huang, Mingye Li, Xu Han, Chaojun Xiao, Weilin Zhao, Sun Ao, Hao Zhou, Jie Zhou, Zhiyuan Liu, Maosong Sun
@@ -10906,6 +11860,7 @@ While long-context inference is crucial for advancing large language model (LLM)
 
 ## Article 954
 ### Title@2025-05-26 (1): Explaining the role of Intrinsic Dimensionality in Adversarial Training
+
 **Title**: Explaining the role of Intrinsic Dimensionality in Adversarial Training | Erklärung der Rolle der Intrinsischen Dimensionalität im Adversarial Training | 解释内在多面性在相互培训中的作用 [2405.17130v2](http://arxiv.org/abs/2405.17130v2)
 
 **Authors**: Enes Altinisik, Safa Messaoud, Husrev Taha Sencar, Hassan Sajjad, Sanjay Chawla
@@ -10916,6 +11871,7 @@ Adversarial Training (AT) impacts different architectures in distinct ways: visi
 
 ## Article 955
 ### Title@2025-05-26 (1): HS-STAR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty   Estimation and Budget Reallocation
+
 **Title**: HS-STAR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty   Estimation and Budget Reallocation | HS-STAR: Hierarchische Probenahme für selbstlernende Vernunfter über Schwierigkeitsschätzung und Budget-Umverteilung | HS-STAR:通过难以估计和预算重新定位为自学理性者进行等级抽样 [2505.19866v1](http://arxiv.org/abs/2505.19866v1)
 
 **Authors**: Feng Xiong, Hongling Xu, Yifei Wang, Runxi Cheng, Yong Wang, Xiangxiang Chu
@@ -10926,6 +11882,7 @@ Self-taught reasoners (STaRs) enhance the mathematical reasoning abilities of la
 
 ## Article 956
 ### Title@2025-05-26 (1): REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient   Large Reasoning Models
+
 **Title**: REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient   Large Reasoning Models | REA-RL: Reflection-Aware Online-Verstärkungs-Lernen für effiziente große Vernunftmodelle | REA-RL:为高效大型理由模型进行反思-软件在线强化学习 [2505.19862v1](http://arxiv.org/abs/2505.19862v1)
 
 **Authors**: Hexuan Deng, Wenxiang Jiao, Xuebo Liu, Jun Rao, Min Zhang
@@ -10936,6 +11893,7 @@ Large Reasoning Models (LRMs) demonstrate strong performance in complex tasks bu
 
 ## Article 957
 ### Title@2025-05-26 (1): Beyond Specialization: Benchmarking LLMs for Transliteration of Indian   Languages
+
 **Title**: Beyond Specialization: Benchmarking LLMs for Transliteration of Indian   Languages | Über die Spezialisierung hinaus: Benchmarking LLMs für die Transliteration indischer Sprachen | 超越专业:为印度语言转写确定基准的LLMs [2505.19851v1](http://arxiv.org/abs/2505.19851v1)
 
 **Authors**: Gulfarogh Azam, Mohd Sadique, Saif Ali, Mohammad Nadeem, Erik Cambria, Shahab Saquib Sohail, Mohammad Sultan Alam
@@ -10946,6 +11904,7 @@ Transliteration, the process of mapping text from one script to another, plays a
 
 ## Article 958
 ### Title@2025-05-26 (1): Improving Multilingual Math Reasoning for African Languages
+
 **Title**: Improving Multilingual Math Reasoning for African Languages | Mehrsprachige mathematische Grundlagen für afrikanische Sprachen verbessern | 改进非洲语文多语种计算法 [2505.19848v1](http://arxiv.org/abs/2505.19848v1)
 
 **Authors**: Odunayo Ogundepo, Akintunde Oladipo, Kelechi Ogueji, Esther Adenuga, David Ifeoluwa Adelani, Jimmy Lin
@@ -10956,6 +11915,7 @@ Researchers working on low-resource languages face persistent challenges due to 
 
 ## Article 959
 ### Title@2025-05-26 (1): FoodTaxo: Generating Food Taxonomies with Large Language Models
+
 **Title**: FoodTaxo: Generating Food Taxonomies with Large Language Models | FoodTaxo: Generierung von Lebensmittel-Taxonomien mit großen Sprachmodellen | FoodTaxo: 产生具有大语言模式的食品分类学 [2505.19838v1](http://arxiv.org/abs/2505.19838v1)
 
 **Authors**: Pascal Wullschleger, Majid Zarharan, Donnacha Daly, Marc Pouly, Jennifer Foster
@@ -10966,6 +11926,7 @@ We investigate the utility of Large Language Models for automated taxonomy gener
 
 ## Article 960
 ### Title@2025-05-26 (1): FullFront: Benchmarking MLLMs Across the Full Front-End Engineering   Workflow
+
 **Title**: FullFront: Benchmarking MLLMs Across the Full Front-End Engineering   Workflow | FullFront: Benchmarking von MLLMs über den Full Front-End Engineering Workflow | FullFront:在全前端工程工作流程中确定MLLMs基准 [2505.17399v2](http://arxiv.org/abs/2505.17399v2)
 
 **Authors**: Haoyu Sun, Huichen Will Wang, Jiawei Gu, Linjie Li, Yu Cheng
@@ -10976,6 +11937,7 @@ Front-end engineering involves a complex workflow where engineers conceptualize 
 
 ## Article 961
 ### Title@2025-05-26 (1): DECT: Harnessing LLM-assisted Fine-Grained Linguistic Knowledge and   Label-Switched and Label-Preserved Data Generation for Diagnosis of   Alzheimer's Disease
+
 **Title**: DECT: Harnessing LLM-assisted Fine-Grained Linguistic Knowledge and   Label-Switched and Label-Preserved Data Generation for Diagnosis of   Alzheimer's Disease | DECT: LLM-unterstütztes feinkörniges Sprachwissen und etikettierte und etikettierte Datengenerierung zur Diagnose der Alzheimer-Krankheit | DECT:利用LLM协助的LLM协助的精精细语言知识以及用于诊断阿尔茨海默氏病的标签和标签保密数据生成 [2502.04394v2](http://arxiv.org/abs/2502.04394v2)
 
 **Authors**: Tingyu Mo, Jacqueline C. K. Lam, Victor O. K. Li, Lawrence Y. L. Cheung
@@ -10986,6 +11948,7 @@ Alzheimer's Disease (AD) is an irreversible neurodegenerative disease affecting 
 
 ## Article 962
 ### Title@2025-05-26 (1): Hierarchical Retrieval with Evidence Curation for Open-Domain Financial   Question Answering on Standardized Documents
+
 **Title**: Hierarchical Retrieval with Evidence Curation for Open-Domain Financial   Question Answering on Standardized Documents | Hierarchische Retrieval mit Evidenz-Kuration für Open-Domain-Finanzfrage-Antworten auf standardisierte Dokumente | 标准化文件开放域财务问题证据说明的梯级检索 [2505.20368v1](http://arxiv.org/abs/2505.20368v1)
 
 **Authors**: Jaeyoung Choe, Jihoon Kim, Woohwan Jung
@@ -10996,6 +11959,7 @@ Retrieval-augmented generation (RAG) based large language models (LLMs) are wide
 
 ## Article 963
 ### Title@2025-05-26 (1): Model Utility Law: Evaluating LLMs beyond Performance through Mechanism   Interpretable Metric
+
 **Title**: Model Utility Law: Evaluating LLMs beyond Performance through Mechanism   Interpretable Metric | Modell Utility Law: Bewertung von LLMs jenseits der Leistung durch Mechanism Interpretable Metric | 示范效用法:通过解释计量机制评价业绩以外的有限利妇女 [2504.07440v3](http://arxiv.org/abs/2504.07440v3)
 
 **Authors**: Yixin Cao, Jiahao Ying, Yaoning Wang, Xipeng Qiu, Xuanjing Huang, Yugang Jiang
@@ -11006,6 +11970,7 @@ Large Language Models (LLMs) have become indispensable across academia, industry
 
 ## Article 964
 ### Title@2025-05-26 (1): Generalizable Prompt Learning of CLIP: A Brief Overview
+
 **Title**: Generalizable Prompt Learning of CLIP: A Brief Overview | Generalisierbares Prompt Lernen von CLIP: Ein kurzer Überblick | CLIP:简要概述 [2503.01263v5](http://arxiv.org/abs/2503.01263v5)
 
 **Authors**: Fangming Cui, Yonggang Zhang, Xuan Wang, Xule Wang, Liang Xiao
@@ -11016,6 +11981,7 @@ Existing vision-language models (VLMs) such as CLIP have showcased an impressive
 
 ## Article 965
 ### Title@2025-05-26 (1): Registering Source Tokens to Target Language Spaces in Multilingual   Neural Machine Translation
+
 **Title**: Registering Source Tokens to Target Language Spaces in Multilingual   Neural Machine Translation | Registrierung von Quellen-Token zu Zielspracheräumen in mehrsprachiger neuraler maschineller Übersetzung | 多种语言神经机翻译中目标语言空间 [2501.02979v3](http://arxiv.org/abs/2501.02979v3)
 
 **Authors**: Zhi Qu, Yiran Wang, Jiannan Mao, Chenchen Ding, Hideki Tanaka, Masao Utiyama, Taro Watanabe
@@ -11026,6 +11992,7 @@ The multilingual neural machine translation (MNMT) aims for arbitrary translatio
 
 ## Article 966
 ### Title@2025-05-26 (1): Deciphering Trajectory-Aided LLM Reasoning: An Optimization Perspective
+
 **Title**: Deciphering Trajectory-Aided LLM Reasoning: An Optimization Perspective | Entschlüsselung bahngestützter LLM-Reasoning: Eine Optimierungsperspektive | 解码轨迹辅助LLM 理由说明:优化视角 [2505.19815v1](http://arxiv.org/abs/2505.19815v1)
 
 **Authors**: Junnan Liu, Hongwei Liu, Linchen Xiao, Shudong Liu, Taolin Zhang, Zihan Ma, Songyang Zhang, Kai Chen
@@ -11036,6 +12003,7 @@ We propose a novel framework for comprehending the reasoning capabilities of lar
 
 ## Article 967
 ### Title@2025-05-26 (1): Exploring Consciousness in LLMs: A Systematic Survey of Theories,   Implementations, and Frontier Risks
+
 **Title**: Exploring Consciousness in LLMs: A Systematic Survey of Theories,   Implementations, and Frontier Risks | Erforschung des Bewusstseins in LLMs: Eine systematische Untersuchung von Theorien, Implementierungen und Grenzrisiken | 探索LLMM中的觉悟:对理论、实施和前沿风险的系统调查 [2505.19806v1](http://arxiv.org/abs/2505.19806v1)
 
 **Authors**: Sirui Chen, Shuqin Ma, Shu Yu, Hanwang Zhang, Shengjie Zhao, Chaochao Lu
@@ -11046,6 +12014,7 @@ Consciousness stands as one of the most profound and distinguishing features of 
 
 ## Article 968
 ### Title@2025-05-26 (1): Compliance-to-Code: Enhancing Financial Compliance Checking via Code   Generation
+
 **Title**: Compliance-to-Code: Enhancing Financial Compliance Checking via Code   Generation | Compliance-to-Code: Verbesserung der finanziellen Compliance-Prüfung durch Codegenerierung | 遵守到守则:通过代码生成加强金融合规检查 [2505.19804v1](http://arxiv.org/abs/2505.19804v1)
 
 **Authors**: Siyuan Li, Jian Chen, Rui Yao, Xuming Hu, Peilin Zhou, Weihua Qiu, Simin Zhang, Chucheng Dong, Zhiyao Li, Qipeng Xie, Zixuan Yuan
@@ -11056,6 +12025,7 @@ Nowadays, regulatory compliance has become a cornerstone of corporate governance
 
 ## Article 969
 ### Title@2025-05-26 (1): QueryAttack: Jailbreaking Aligned Large Language Models Using Structured   Non-natural Query Language
+
 **Title**: QueryAttack: Jailbreaking Aligned Large Language Models Using Structured   Non-natural Query Language | QueryAttack: Jailbreaking Aligned Large Language Models Verwendung strukturierter, nicht-natürlicher Abfragesprache | 查询:使用结构化非自然查询语言的监狱破碎的大型语言统一模式 [2502.09723v3](http://arxiv.org/abs/2502.09723v3)
 
 **Authors**: Qingsong Zou, Jingyu Xiao, Qing Li, Zhi Yan, Yuhang Wang, Li Xu, Wenxuan Wang, Kuofeng Gao, Ruoyu Li, Yong Jiang
@@ -11066,6 +12036,7 @@ Recent advances in large language models (LLMs) have demonstrated remarkable pot
 
 ## Article 970
 ### Title@2025-05-26 (1): MOLE: Metadata Extraction and Validation in Scientific Papers Using LLMs
+
 **Title**: MOLE: Metadata Extraction and Validation in Scientific Papers Using LLMs | MOLE: Metadatenextraktion und -validierung in wissenschaftlichen Papieren mit LLMs | MOLE: 利用LLMs在科学文件中提取和验证元数据 [2505.19800v1](http://arxiv.org/abs/2505.19800v1)
 
 **Authors**: Zaid Alyafeai, Maged S. Al-Shaibani, Bernard Ghanem
@@ -11076,6 +12047,7 @@ Metadata extraction is essential for cataloging and preserving datasets, enablin
 
 ## Article 971
 ### Title@2025-05-26 (1): R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning   Learning
+
 **Title**: R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning   Learning | R1-T1: Volle Förderung der Übersetzungsfähigkeit in LLMs über das Reasoning Learning | R1-T1:通过解释学习充分激励LLMs翻译能力 [2502.19735v3](http://arxiv.org/abs/2502.19735v3)
 
 **Authors**: Minggui He, Yilun Liu, Shimin Tao, Yuanchang Luo, Hongyong Zeng, Chang Su, Li Zhang, Hongxia Ma, Daimeng Wei, Weibin Meng, Hao Yang, Boxing Chen, Osamu Yoshie
@@ -11086,6 +12058,7 @@ Despite recent breakthroughs in reasoning-enhanced large language models (LLMs) 
 
 ## Article 972
 ### Title@2025-05-26 (1): O$^2$-Searcher: A Searching-based Agent Model for Open-Domain Open-Ended   Question Answering
+
 **Title**: O$^2$-Searcher: A Searching-based Agent Model for Open-Domain Open-Ended   Question Answering | O$^2$-Sucher: Ein Such-basiertes Agentenmodell für Open-Domain Open-Ended Question Answering | O$2美元-Searcher:基于搜索的开放域开放式问题解答代理模式 [2505.16582v2](http://arxiv.org/abs/2505.16582v2)
 
 **Authors**: Jianbiao Mei, Tao Hu, Daocheng Fu, Licheng Wen, Xuemeng Yang, Rong Wu, Pinlong Cai, Xinyu Cai, Xing Gao, Yu Yang, Chengjun Xie, Botian Shi, Yong Liu, Yu Qiao
@@ -11096,6 +12069,7 @@ Large Language Models (LLMs), despite their advancements, are fundamentally limi
 
 ## Article 973
 ### Title@2025-05-26 (1): Analyzing Political Bias in LLMs via Target-Oriented Sentiment   Classification
+
 **Title**: Analyzing Political Bias in LLMs via Target-Oriented Sentiment   Classification | Analyse politischer Bias in LLMs über zielorientierte Sentiment-Klassifikation | 通过定向感知分类分析LLMMs中的政治偏见 [2505.19776v1](http://arxiv.org/abs/2505.19776v1)
 
 **Authors**: Akram Elbouanani, Evan Dufraisse, Adrian Popescu
@@ -11106,6 +12080,7 @@ Political biases encoded by LLMs might have detrimental effects on downstream ap
 
 ## Article 974
 ### Title@2025-05-26 (1): What Really Matters in Many-Shot Attacks? An Empirical Study of   Long-Context Vulnerabilities in LLMs
+
 **Title**: What Really Matters in Many-Shot Attacks? An Empirical Study of   Long-Context Vulnerabilities in LLMs | Was spielt bei vielen scharfen Angriffen wirklich eine Rolle? Eine empirische Studie über langanhaltende Schwachstellen in LLMs | 许多热攻击的真正问题是什么? [2505.19773v1](http://arxiv.org/abs/2505.19773v1)
 
 **Authors**: Sangyeop Kim, Yohan Lee, Yongwoo Song, Kimin Lee
@@ -11116,6 +12091,7 @@ We investigate long-context vulnerabilities in Large Language Models (LLMs) thro
 
 ## Article 975
 ### Title@2025-05-26 (1): Query Performance Prediction using Relevance Judgments Generated by   Large Language Models
+
 **Title**: Query Performance Prediction using Relevance Judgments Generated by   Large Language Models | Abfrage der Leistungsvorhersage anhand von Relevanzurteilen, die von großen Sprachmodellen erzeugt werden | 使用大语言模型产生的相关性判断的查询性绩效预测 [2404.01012v3](http://arxiv.org/abs/2404.01012v3)
 
 **Authors**: Chuan Meng, Negar Arabzadeh, Arian Askari, Mohammad Aliannejadi, Maarten de Rijke
@@ -11126,6 +12102,7 @@ Query performance prediction (QPP) aims to estimate the retrieval quality of a s
 
 ## Article 976
 ### Title@2025-05-26 (1): Understanding the Performance Gap in Preference Learning: A Dichotomy of   RLHF and DPO
+
 **Title**: Understanding the Performance Gap in Preference Learning: A Dichotomy of   RLHF and DPO | Verständnis der Leistungslücke im Preference Learning: Eine Dichotomie von RLHF und DPO | 了解优先学习方面的绩效差距:RLHF和DPO的二分切开术 [2505.19770v1](http://arxiv.org/abs/2505.19770v1)
 
 **Authors**: Ruizhe Shi, Minhak Song, Runlong Zhou, Zihan Zhang, Maryam Fazel, Simon S. Du
@@ -11136,6 +12113,7 @@ We present a fine-grained theoretical analysis of the performance gap between re
 
 ## Article 977
 ### Title@2025-05-26 (1): T^2Agent A Tool-augmented Multimodal Misinformation Detection Agent with   Monte Carlo Tree Search
+
 **Title**: T^2Agent A Tool-augmented Multimodal Misinformation Detection Agent with   Monte Carlo Tree Search | T^2Agent Ein Tool-augmented Multimodale Fehlinformation Detection Agent mit Monte Carlo Baumsuche | T2 A A 工具增强的多式错误信息检测代理 蒙特卡洛树搜索工具 [2505.19768v1](http://arxiv.org/abs/2505.19768v1)
 
 **Authors**: Xing Cui, Yueying Zou, Zekun Li, Peipei Li, Xinyuan Xu, Xuannan Liu, Huaibo Huang, Ran He
@@ -11146,6 +12124,7 @@ Real-world multimodal misinformation often arises from mixed forgery sources, re
 
 ## Article 978
 ### Title@2025-05-26 (1): SGM: A Framework for Building Specification-Guided Moderation Filters
+
 **Title**: SGM: A Framework for Building Specification-Guided Moderation Filters | SGM: Ein Rahmen für gebäudespezifikationsgeführte Moderationsfilter | SGM: 构建规格引导调控过滤器的框架 [2505.19766v1](http://arxiv.org/abs/2505.19766v1)
 
 **Authors**: Masoomali Fatehkia, Enes Altinisik, Husrev Taha Sencar
@@ -11156,6 +12135,7 @@ Aligning large language models (LLMs) with deployment-specific requirements is c
 
 ## Article 979
 ### Title@2025-05-26 (1): In-context Demonstration Matters: On Prompt Optimization for   Pseudo-Supervision Refinement
+
 **Title**: In-context Demonstration Matters: On Prompt Optimization for   Pseudo-Supervision Refinement | In-Context-Demonstrationsfragen: Zur Prompt-Optimierung für Pseudo-Supervision-Verfeinerung | 内文示范事项:关于Psuedo-监督改进的迅速优化 [2410.03124v2](http://arxiv.org/abs/2410.03124v2)
 
 **Authors**: Zhen-Yu Zhang, Jiandong Zhang, Huaxiu Yao, Gang Niu, Masashi Sugiyama
@@ -11166,6 +12146,7 @@ Large language models (LLMs) have achieved great success across diverse tasks, a
 
 ## Article 980
 ### Title@2025-05-26 (1): CIDRe: A Reference-Free Multi-Aspect Criterion for Code Comment Quality   Measurement
+
 **Title**: CIDRe: A Reference-Free Multi-Aspect Criterion for Code Comment Quality   Measurement | CIDRe: Ein referenzfreies Multi-Aspekt-Kriterium für die Qualitätsmessung von Code Comment | CIDRe: 守则评论质量衡量的无参考性、无参考性、多特征的多标准标准 [2505.19757v1](http://arxiv.org/abs/2505.19757v1)
 
 **Authors**: Maria Dziuba, Valentin Malykh
@@ -11176,6 +12157,7 @@ Effective generation of structured code comments requires robust quality metrics
 
 ## Article 981
 ### Title@2025-05-26 (1): Efficient Reasoning via Chain of Unconscious Thought
+
 **Title**: Efficient Reasoning via Chain of Unconscious Thought | Effiziente Vernunft durch Kette des unbewussten Denkens | 通过无意识思维链进行高效率的思考 [2505.19756v1](http://arxiv.org/abs/2505.19756v1)
 
 **Authors**: Ruihan Gong, Yue Liu, Wenjie Qu, Mingzhe Du, Yufei He, Yingwei Ma, Yulin Chen, Xiang Liu, Yi Wen, Xinfeng Li, Ruidong Wang, Xinzhong Zhu, Bryan Hooi, Jiaheng Zhang
@@ -11186,6 +12168,7 @@ Large Reasoning Models (LRMs) achieve promising performance but compromise token
 
 ## Article 982
 ### Title@2025-05-26 (1): NeuSym-RAG: Hybrid Neural Symbolic Retrieval with Multiview Structuring   for PDF Question Answering
+
 **Title**: NeuSym-RAG: Hybrid Neural Symbolic Retrieval with Multiview Structuring   for PDF Question Answering | NeuSym-RAG: Hybrides neurales Symbolisches Retrieval mit Multiview-Strukturierung für PDF-Fragebeantwortung | NeuSym-RAG: PDF 问题解答混合神经符号回收与多视图结构结构 [2505.19754v1](http://arxiv.org/abs/2505.19754v1)
 
 **Authors**: Ruisheng Cao, Hanchong Zhang, Tiancheng Huang, Zhangyi Kang, Yuxin Zhang, Liangtai Sun, Hanqi Li, Yuxun Miao, Shuai Fan, Lu Chen, Kai Yu
@@ -11196,6 +12179,7 @@ The increasing number of academic papers poses significant challenges for resear
 
 ## Article 983
 ### Title@2025-05-26 (1): Discrete Markov Bridge
+
 **Title**: Discrete Markov Bridge | Diskretierte Markov-Brücke | 分立马尔科夫桥 [2505.19752v1](http://arxiv.org/abs/2505.19752v1)
 
 **Authors**: Hengli Li, Yuxuan Wang, Song-Chun Zhu, Ying Nian Wu, Zilong Zheng
@@ -11206,6 +12190,7 @@ Discrete diffusion has recently emerged as a promising paradigm in discrete data
 
 ## Article 984
 ### Title@2025-05-26 (1): Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for   VLM-based Mobile Agents
+
 **Title**: Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for   VLM-based Mobile Agents | Mobile-Bench-v2: Ein realistischerer und umfassenderer Benchmark für VLM-basierte mobile Agenten | 移动-Bench-v2:基于VLM的移动剂更加现实和全面的基准 [2505.11891v2](http://arxiv.org/abs/2505.11891v2)
 
 **Authors**: Weikai Xu, Zhizheng Jiang, Yuxuan Liu, Pengzhi Gao, Wei Liu, Jian Luan, Yuanchun Li, Yunxin Liu, Bin Wang, Bo An
@@ -11216,6 +12201,7 @@ VLM-based mobile agents are increasingly popular due to their capabilities to in
 
 ## Article 985
 ### Title@2025-05-26 (1): Exploring the Impact of Corpus Diversity on Financial Pretrained   Language Models
+
 **Title**: Exploring the Impact of Corpus Diversity on Financial Pretrained   Language Models | Erforschung der Auswirkungen von Corpus Diversity auf vorschulische Sprachmodelle | 探讨公司多样性对财务方面缺乏培训语言模式的影响 [2310.13312v2](http://arxiv.org/abs/2310.13312v2)
 
 **Authors**: Jaeyoung Choe, Keonwoong Noh, Nayeon Kim, Seyun Ahn, Woohwan Jung
@@ -11226,6 +12212,7 @@ Over the past few years, various domain-specific pretrained language models (PLM
 
 ## Article 986
 ### Title@2025-05-26 (1): Stuffed Mamba: Oversized States Lead to the Inability to Forget
+
 **Title**: Stuffed Mamba: Oversized States Lead to the Inability to Forget | Gefüllte Mamba: Übergroße Staaten führen zu der Unfähigkeit zu vergessen | 马姆巴:国家规模过大,导致无法忘却 [2410.07145v2](http://arxiv.org/abs/2410.07145v2)
 
 **Authors**: Yingfa Chen, Xinrong Zhang, Shengding Hu, Xu Han, Zhiyuan Liu, Maosong Sun
@@ -11236,6 +12223,7 @@ Recent advancements in recurrent architectures, such as Mamba and RWKV, have sho
 
 ## Article 987
 ### Title@2025-05-26 (1): Distilling Closed-Source LLM's Knowledge for Locally Stable and Economic   Biomedical Entity Linking
+
 **Title**: Distilling Closed-Source LLM's Knowledge for Locally Stable and Economic   Biomedical Entity Linking | Brennen von geschlossener Quelle LLMs Wissen für lokal stabile und wirtschaftliche biomedizinische Entitätsverknüpfung | 保留秘密来源LLM的当地稳定和经济生物医学实体联系知识 [2505.19722v1](http://arxiv.org/abs/2505.19722v1)
 
 **Authors**: Yihao Ai, Zhiyuan Ning, Weiwei Dai, Pengfei Wang, Yi Du, Wenjuan Cui, Kunpeng Liu, Yuanchun Zhou
@@ -11246,6 +12234,7 @@ Biomedical entity linking aims to map nonstandard entities to standard entities 
 
 ## Article 988
 ### Title@2025-05-26 (1): Graceful Forgetting in Generative Language Models
+
 **Title**: Graceful Forgetting in Generative Language Models | Anmutiges Vergessen in generativen Sprachmodellen | 在创用语言模型中优雅地忘却 [2505.19715v1](http://arxiv.org/abs/2505.19715v1)
 
 **Authors**: Chunyang Jiang, Chi-min Chan, Yiyang Cai, Yulong Liu, Wei Xue, Yike Guo
@@ -11256,6 +12245,7 @@ Recently, the pretrain-finetune paradigm has become a cornerstone in various dee
 
 ## Article 989
 ### Title@2025-05-26 (1): MT$^{3}$: Scaling MLLM-based Text Image Machine Translation via   Multi-Task Reinforcement Learning
+
 **Title**: MT$^{3}$: Scaling MLLM-based Text Image Machine Translation via   Multi-Task Reinforcement Learning | MT$^{3}$: Skalierung von MLLM-basierten Textbildmaschinenübersetzungen über Multi-Task-Verstärkungslernen | MT$=%3}$:通过多任务强化学习,扩大基于MLLM的文本图像机翻译 [2505.19714v1](http://arxiv.org/abs/2505.19714v1)
 
 **Authors**: Zhaopeng Feng, Yupu Liang, Shaosheng Cao, Jiayuan Su, Jiahan Ren, Zhe Xu, Yao Hu, Wenxuan Huang, Jian Wu, Zuozhu Liu
@@ -11266,6 +12256,7 @@ Text Image Machine Translation (TIMT)-the task of translating textual content em
 
 ## Article 990
 ### Title@2025-05-26 (1): FamilyTool: A Multi-hop Personalized Tool Use Benchmark
+
 **Title**: FamilyTool: A Multi-hop Personalized Tool Use Benchmark | FamilyTool: Ein Multi-Hop Personalisiertes Tool Benchmark | FamilyTool:多希望个性化工具使用基准 [2504.06766v2](http://arxiv.org/abs/2504.06766v2)
 
 **Authors**: Yuxin Wang, Yiran Guo, Yining Zheng, Zhangyue Yin, Shuo Chen, Jie Yang, Jiajun Chen, Yuan Li, Xuanjing Huang, Xipeng Qiu
@@ -11276,6 +12267,7 @@ The integration of tool learning with Large Language Models (LLMs) has expanded 
 
 ## Article 991
 ### Title@2025-05-26 (1): Error Typing for Smarter Rewards: Improving Process Reward Models with   Error-Aware Hierarchical Supervision
+
 **Title**: Error Typing for Smarter Rewards: Improving Process Reward Models with   Error-Aware Hierarchical Supervision | Fehler-Typierung für intelligentere Belohnungen: Verbesserung der Prozess-Reward-Modelle mit Fehler-Aware Hierarchische Überwachung | 为智能奖赏打字出错: 改进有错误- 软件等级监督的流程评分模型 [2505.19706v1](http://arxiv.org/abs/2505.19706v1)
 
 **Authors**: Tej Deep Pala, Panshul Sharma, Amir Zadeh, Chuan Li, Soujanya Poria
@@ -11286,6 +12278,7 @@ Large Language Models (LLMs) are prone to hallucination, especially during multi
 
 ## Article 992
 ### Title@2025-05-26 (1): Leveraging Importance Sampling to Detach Alignment Modules from Large   Language Models
+
 **Title**: Leveraging Importance Sampling to Detach Alignment Modules from Large   Language Models | Nutzung von wichtigen Stichproben zur Abgleichung von Alignment-Modulen aus großen Sprachmodellen | 从大语言模型中利用重要性取样到分离对齐模块 [2505.19700v1](http://arxiv.org/abs/2505.19700v1)
 
 **Authors**: Yi Liu, Dianqing Liu, Mingye Zhu, Junbo Guo, Yongdong Zhang, Zhendong Mao
@@ -11296,6 +12289,7 @@ The widespread adoption of large language models (LLMs) across industries has in
 
 ## Article 993
 ### Title@2025-05-26 (1): Large Language Models for Planning: A Comprehensive and Systematic   Survey
+
 **Title**: Large Language Models for Planning: A Comprehensive and Systematic   Survey | Große Sprachmodelle für die Planung: Eine umfassende und systematische Erhebung | 规划大语言模式:全面和系统调查 [2505.19683v1](http://arxiv.org/abs/2505.19683v1)
 
 **Authors**: Pengfei Cao, Tianyi Men, Wencan Liu, Jingwen Zhang, Xuzhao Li, Xixun Lin, Dianbo Sui, Yanan Cao, Kang Liu, Jun Zhao
@@ -11306,6 +12300,7 @@ Planning represents a fundamental capability of intelligent agents, requiring co
 
 ## Article 994
 ### Title@2025-05-26 (1): Warm Up Before You Train: Unlocking General Reasoning in   Resource-Constrained Settings
+
 **Title**: Warm Up Before You Train: Unlocking General Reasoning in   Resource-Constrained Settings | Aufwärmen, bevor Sie trainieren: Entsperren der allgemeinen Vernunft in ressourcenbeschränkten Einstellungen | 在您之前暖暖的列车 : 在受资源限制的设置中解锁一般理由 [2505.13718v2](http://arxiv.org/abs/2505.13718v2)
 
 **Authors**: Safal Shrestha, Minwu Kim, Aadim Nepal, Anubhav Shrestha, Keith Ross
@@ -11316,6 +12311,7 @@ Designing effective reasoning-capable LLMs typically requires training using Rei
 
 ## Article 995
 ### Title@2025-05-26 (1): Your Language Model Can Secretly Write Like Humans: Contrastive   Paraphrase Attacks on LLM-Generated Text Detectors
+
 **Title**: Your Language Model Can Secretly Write Like Humans: Contrastive   Paraphrase Attacks on LLM-Generated Text Detectors | Ihr Sprachmodell kann geheim wie Menschen schreiben: Kontrastive Paraphrasenangriffe auf LLM-generierte Textdetektoren | 您的语言模式可以像人类一样秘密写作:对LLM-Generated 文本探测器的矛盾性插词攻击 [2505.15337v2](http://arxiv.org/abs/2505.15337v2)
 
 **Authors**: Hao Fang, Jiawei Kong, Tianqu Zhuang, Yixiang Qiu, Kuofeng Gao, Bin Chen, Shu-Tao Xia, Yaowei Wang, Min Zhang
@@ -11326,6 +12322,7 @@ The misuse of large language models (LLMs), such as academic plagiarism, has dri
 
 ## Article 996
 ### Title@2025-05-26 (1): Detecting LLM-Generated Korean Text through Linguistic Feature Analysis
+
 **Title**: Detecting LLM-Generated Korean Text through Linguistic Feature Analysis | LLM-generierter koreanischer Text durch Linguistik-Feature-Analyse erkennen | 通过语言特征分析探测LLM-发光韩文文本 [2503.00032v3](http://arxiv.org/abs/2503.00032v3)
 
 **Authors**: Shinwoo Park, Shubin Kim, Do-Kyung Kim, Yo-Sub Han
@@ -11336,6 +12333,7 @@ The rapid advancement of large language models (LLMs) increases the difficulty o
 
 ## Article 997
 ### Title@2025-05-26 (1): UniICL: An Efficient Unified Framework Unifying Compression, Selection,   and Generation
+
 **Title**: UniICL: An Efficient Unified Framework Unifying Compression, Selection,   and Generation | UniICL: Ein effizientes einheitliches Framework, das Komprimierung, Auswahl und Generierung vereint | UNIICL: 统一压缩、甄选和生成的有效统一框架 [2405.17062v3](http://arxiv.org/abs/2405.17062v3)
 
 **Authors**: Jun Gao, Qi Lv, Zili Wang, Tianxiang Wu, Ziqiang Cao, Wenjie Li
@@ -11346,6 +12344,7 @@ In-context learning (ICL) enhances the reasoning abilities of Large Language Mod
 
 ## Article 998
 ### Title@2025-05-26 (1): KIT's Low-resource Speech Translation Systems for IWSLT2025: System   Enhancement with Synthetic Data and Model Regularization
+
 **Title**: KIT's Low-resource Speech Translation Systems for IWSLT2025: System   Enhancement with Synthetic Data and Model Regularization | Low-Resource Speech Translation Systems des KIT für IWSLT2025: Systemverbesserung mit synthetischen Daten und Modellregularisierung | KIT的IWSLT2025低资源语音翻译系统:利用合成数据和模型规范化加强系统 [2505.19679v1](http://arxiv.org/abs/2505.19679v1)
 
 **Authors**: Zhaolin Li, Yining Liu, Danni Liu, Tuan Nam Nguyen, Enes Yavuz Ugan, Tu Anh Dinh, Carlos Mullov, Alexander Waibel, Jan Niehues
@@ -11356,6 +12355,7 @@ This paper presents KIT's submissions to the IWSLT 2025 low-resource track. We d
 
 ## Article 999
 ### Title@2025-05-26 (1): Grounding Language with Vision: A Conditional Mutual Information   Calibrated Decoding Strategy for Reducing Hallucinations in LVLMs
+
 **Title**: Grounding Language with Vision: A Conditional Mutual Information   Calibrated Decoding Strategy for Reducing Hallucinations in LVLMs | Erdungssprache mit Vision: Eine bedingte Gegenseitige Informationskalibrierte Dekodierungsstrategie zur Reduktion von Halluzinationen in LVLMs | 具有远见的地面语言:减少低地低地飘移中幻觉的有条件相互信息校准标记战略 [2505.19678v1](http://arxiv.org/abs/2505.19678v1)
 
 **Authors**: Hao Fang, Changle Zhou, Jiawei Kong, Kuofeng Gao, Bin Chen, Tao Liang, Guojun Ma, Shu-Tao Xia
@@ -11366,6 +12366,7 @@ Large Vision-Language Models (LVLMs) are susceptible to hallucinations, where ge
 
 ## Article 1000
 ### Title@2025-05-26 (1): Calibrating Pre-trained Language Classifiers on LLM-generated Noisy   Labels via Iterative Refinement
+
 **Title**: Calibrating Pre-trained Language Classifiers on LLM-generated Noisy   Labels via Iterative Refinement | Kalibrierung vortrainierter Sprachklassifikatoren auf LLM-generierten Noisy-Labels über iterative Veredelung | 通过迭代精炼校准LLM产生的噪音标签上的训练前语言分类校准 [2505.19675v1](http://arxiv.org/abs/2505.19675v1)
 
 **Authors**: Liqin Ye, Agam Shah, Chao Zhang, Sudheer Chava
@@ -11376,6 +12377,7 @@ The traditional process of creating labeled datasets is labor-intensive and expe
 
 ## Article 1001
 ### Title@2025-05-26 (1): Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety   Re-Alignment for Fine-Tuned Language Models
+
 **Title**: Separate the Wheat from the Chaff: A Post-Hoc Approach to Safety   Re-Alignment for Fine-Tuned Language Models | Trennen Sie das Weizen vom Chaff: Ein Post-Hoc-Ansatz für die Wiederausrichtung der Sicherheit für feingetönte Sprachmodelle | 将小麦与Chaff区分开来:对精美语言模式的安全调整后方法 [2412.11041v3](http://arxiv.org/abs/2412.11041v3)
 
 **Authors**: Di Wu, Xin Lu, Yanyan Zhao, Bing Qin
@@ -11386,6 +12388,7 @@ Although large language models (LLMs) achieve effective safety alignment at the 
 
 ## Article 1002
 ### Title@2025-05-26 (1): A Fully Generative Motivational Interviewing Counsellor Chatbot for   Moving Smokers Towards the Decision to Quit
+
 **Title**: A Fully Generative Motivational Interviewing Counsellor Chatbot for   Moving Smokers Towards the Decision to Quit | Ein voll generativer Motivationsgespräch Berater Chatbot für den Umzug Raucher auf dem Weg zu der Entscheidung zu beenden | 全面创造动机的访谈参赞Chatbot 移动吸烟者争取决定退出 [2505.17362v2](http://arxiv.org/abs/2505.17362v2)
 
 **Authors**: Zafarullah Mahmood, Soliman Ali, Jiading Zhu, Mohamed Abdelwahab, Michelle Yu Collins, Sihan Chen, Yi Cheng Zhao, Jodi Wolff, Osnat Melamed, Nadia Minian, Marta Maslej, Carolynne Cooper, Matt Ratto, Peter Selby, Jonathan Rose
@@ -11396,6 +12399,7 @@ The conversational capabilities of Large Language Models (LLMs) suggest that the
 
 ## Article 1003
 ### Title@2025-05-26 (1): Reshaping Representation Space to Balance the Safety and Over-rejection   in Large Audio Language Models
+
 **Title**: Reshaping Representation Space to Balance the Safety and Over-rejection   in Large Audio Language Models | Reformieren von Repräsentationsräumen, um Sicherheit und Überrejektion in großen Audio-Sprachenmodellen auszugleichen | 重塑代表空间以平衡大型音频语言模型中的安全和过度拒绝 [2505.19670v1](http://arxiv.org/abs/2505.19670v1)
 
 **Authors**: Hao Yang, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
@@ -11406,6 +12410,7 @@ Large Audio Language Models (LALMs) have extended the capabilities of Large Lang
 
 ## Article 1004
 ### Title@2025-05-26 (1): GTR: Graph-Table-RAG for Cross-Table Question Answering
+
 **Title**: GTR: Graph-Table-RAG for Cross-Table Question Answering | GTR: Graph-Table-RAG für Cross-Table-Frageantworten | GTR:用于跨表问题解答的图表表-RAG [2504.01346v3](http://arxiv.org/abs/2504.01346v3)
 
 **Authors**: Jiaru Zou, Dongqi Fu, Sirui Chen, Xinrui He, Zihao Li, Yada Zhu, Jiawei Han, Jingrui He
@@ -11416,6 +12421,7 @@ Beyond pure text, a substantial amount of knowledge is stored in tables. In real
 
 ## Article 1005
 ### Title@2025-05-26 (1): LeCoDe: A Benchmark Dataset for Interactive Legal Consultation Dialogue   Evaluation
+
 **Title**: LeCoDe: A Benchmark Dataset for Interactive Legal Consultation Dialogue   Evaluation | LeCoDe: Ein Benchmark-Datensatz für interaktive Rechtsberatungs-Dialog-Evaluierung | LeCode:交互式法律协商对话评价的基准数据集 [2505.19667v1](http://arxiv.org/abs/2505.19667v1)
 
 **Authors**: Weikang Yuan, Kaisong Song, Zhuoren Jiang, Junjie Cao, Yujie Zhang, Jun Lin, Kun Kuang, Ji Zhang, Xiaozhong Liu
@@ -11426,6 +12432,7 @@ Legal consultation is essential for safeguarding individual rights and ensuring 
 
 ## Article 1006
 ### Title@2025-05-26 (1): Conditioning LLMs to Generate Code-Switched Text
+
 **Title**: Conditioning LLMs to Generate Code-Switched Text | LLMs konditionieren, um codegeschalteten Text zu erzeugen | 将LLM 限定为生成代码开关文本 [2502.12924v2](http://arxiv.org/abs/2502.12924v2)
 
 **Authors**: Maite Heredia, Gorka Labaka, Jeremy Barnes, Aitor Soroa
@@ -11436,6 +12443,7 @@ Code-switching (CS) is still a critical challenge in Natural Language Processing
 
 ## Article 1007
 ### Title@2025-05-26 (1): Unveil Multi-Picture Descriptions for Multilingual Mild Cognitive   Impairment Detection via Contrastive Learning
+
 **Title**: Unveil Multi-Picture Descriptions for Multilingual Mild Cognitive   Impairment Detection via Contrastive Learning | Mehrbildbeschreibungen für mehrsprachige, leichte Kognitive Impairment-Erkennung durch kontrastives Lernen enthüllen | 通过差异学习发现多语种轻视认知缺陷的单形多语种描述 [2505.17067v2](http://arxiv.org/abs/2505.17067v2)
 
 **Authors**: Kristin Qi, Jiali Cheng, Youxiang Zhu, Hadi Amiri, Xiaohui Liang
@@ -11446,6 +12454,7 @@ Detecting Mild Cognitive Impairment from picture descriptions is critical yet ch
 
 ## Article 1008
 ### Title@2025-05-26 (1): GenKI: Enhancing Open-Domain Question Answering with Knowledge   Integration and Controllable Generation in Large Language Models
+
 **Title**: GenKI: Enhancing Open-Domain Question Answering with Knowledge   Integration and Controllable Generation in Large Language Models | GenKI: Verbesserung der Open-Domain-Fragebeantwortung mit Wissensintegration und kontrollierbarer Generierung in großen Sprachmodellen | GenKI:加强以大语言模式在知识整合和可控生成方面答案的开放性问题 [2505.19660v1](http://arxiv.org/abs/2505.19660v1)
 
 **Authors**: Tingjia Shen, Hao Wang, Chuan Qin, Ruijun Sun, Yang Song, Defu Lian, Hengshu Zhu, Enhong Chen
@@ -11456,6 +12465,7 @@ Open-domain question answering (OpenQA) represents a cornerstone in natural lang
 
 ## Article 1009
 ### Title@2025-05-26 (1): A Tale of Two Structures: Do LLMs Capture the Fractal Complexity of   Language?
+
 **Title**: A Tale of Two Structures: Do LLMs Capture the Fractal Complexity of   Language? | Eine Geschichte von zwei Strukturen: Erfassen LLMs die Fraktalkomplexität der Sprache? | 两种结构的故事:LLMs是否捕捉语言的分形复杂性? [2502.14924v2](http://arxiv.org/abs/2502.14924v2)
 
 **Authors**: Ibrahim Alabdulmohsin, Andreas Steiner
@@ -11466,6 +12476,7 @@ Language exhibits a fractal structure in its information-theoretic complexity (i
 
 ## Article 1010
 ### Title@2025-05-26 (1): Select, Read, and Write: A Multi-Agent Framework of Full-Text-based   Related Work Generation
+
 **Title**: Select, Read, and Write: A Multi-Agent Framework of Full-Text-based   Related Work Generation | Auswählen, Lesen und Schreiben: Ein multi-agenter Rahmen volltextbasierter verwandter Arbeit Generation | 选择、读取和写入:全文本相关工作生成的多机构代理框架 [2505.19647v1](http://arxiv.org/abs/2505.19647v1)
 
 **Authors**: Xiaochuan Liu, Ruihua Song, Xiting Wang, Xu Chen
@@ -11476,6 +12487,7 @@ Automatic related work generation (RWG) can save people's time and effort when w
 
 ## Article 1011
 ### Title@2025-05-26 (1): Interleaved Reasoning for Large Language Models via Reinforcement   Learning
+
 **Title**: Interleaved Reasoning for Large Language Models via Reinforcement   Learning | Interleaved Reasoning für große Sprachmodelle durch Verstärkungslernen | 通过强化学习促进大语言模式 [2505.19640v1](http://arxiv.org/abs/2505.19640v1)
 
 **Authors**: Roy Xie, David Qiu, Deepak Gopinath, Dong Lin, Yanchao Sun, Chong Wang, Saloni Potdar, Bhuwan Dhingra
@@ -11486,6 +12498,7 @@ Long chain-of-thought (CoT) significantly enhances large language models' (LLM) 
 
 ## Article 1012
 ### Title@2025-05-26 (1): Segment First or Comprehend First? Explore the Limit of Unsupervised   Word Segmentation with Large Language Models
+
 **Title**: Segment First or Comprehend First? Explore the Limit of Unsupervised   Word Segmentation with Large Language Models | Segment First or Comprehend First? Erforschen Sie die Grenzen der unüberwachten Wortsegmentierung mit großen Sprachmodellen | 首段或首段理解 ? 探索以大语言模式进行不受监督的单词分割的限制 。 [2505.19631v1](http://arxiv.org/abs/2505.19631v1)
 
 **Authors**: Zihong Zhang, Liqi He, Zuchao Li, Lefei Zhang, Hai Zhao, Bo Du
@@ -11496,6 +12509,7 @@ Word segmentation stands as a cornerstone of Natural Language Processing (NLP). 
 
 ## Article 1013
 ### Title@2025-05-26 (1): DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning   System for Multi-Turn Clinical Dialogue
+
 **Title**: DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning   System for Multi-Turn Clinical Dialogue | DoctorAgent-RL: Ein multi-agent-kollaboratives Verstärkungs-Lernsystem für den multi-Turn-Klinischen Dialog | DocrAgentor-RL:多轮临床对话多机构合作强化学习系统 [2505.19630v1](http://arxiv.org/abs/2505.19630v1)
 
 **Authors**: Yichun Feng, Jiawei Wang, Lu Zhou, Yixue Li
@@ -11506,6 +12520,7 @@ Large language models (LLMs) have demonstrated excellent capabilities in the fie
 
 ## Article 1014
 ### Title@2025-05-26 (1): Think Again! The Effect of Test-Time Compute on Preferences, Opinions,   and Beliefs of Large Language Models
+
 **Title**: Think Again! The Effect of Test-Time Compute on Preferences, Opinions,   and Beliefs of Large Language Models | Denken Sie noch einmal! Die Wirkung von Test-Time Compute auf Präferenzen, Meinungen und Überzeugungen von großen Sprachmodellen | 再想想!测试时间计算对大语言模式的优惠、意见和信仰的影响 [2505.19621v1](http://arxiv.org/abs/2505.19621v1)
 
 **Authors**: George Kour, Itay Nakash, Ateret Anaby-Tavor, Michal Shmueli-Scheuer
@@ -11516,6 +12531,7 @@ As Large Language Models (LLMs) become deeply integrated into human life and inc
 
 ## Article 1015
 ### Title@2025-05-26 (1): Lens: Rethinking Multilingual Enhancement for Large Language Models
+
 **Title**: Lens: Rethinking Multilingual Enhancement for Large Language Models | Objektiv: Mehrsprachige Erweiterung für große Sprachmodelle neu denken | 镜头:重新思考为大语言模式重新思考多语种增强大语言模式 [2410.04407v2](http://arxiv.org/abs/2410.04407v2)
 
 **Authors**: Weixiang Zhao, Yulin Hu, Jiahe Guo, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu
@@ -11526,6 +12542,7 @@ As global demand for multilingual large language models (LLMs) grows, most LLMs 
 
 ## Article 1016
 ### Title@2025-05-26 (1): Exploring the Generalizability of Factual Hallucination Mitigation via   Enhancing Precise Knowledge Utilization
+
 **Title**: Exploring the Generalizability of Factual Hallucination Mitigation via   Enhancing Precise Knowledge Utilization | Erforschung der Verallgemeinerbarkeit von Factual Halluzination Mitigation durch die Verbesserung präziser Wissensnutzung | 探索通过增强利用精确的知识来减轻事实幻觉的普及性 [2502.19127v2](http://arxiv.org/abs/2502.19127v2)
 
 **Authors**: Siyuan Zhang, Yichi Zhang, Yinpeng Dong, Hang Su
@@ -11536,6 +12553,7 @@ Large Language Models (LLMs) often struggle to align their responses with object
 
 ## Article 1017
 ### Title@2025-05-26 (1): Are the Hidden States Hiding Something? Testing the Limits of   Factuality-Encoding Capabilities in LLMs
+
 **Title**: Are the Hidden States Hiding Something? Testing the Limits of   Factuality-Encoding Capabilities in LLMs | Sind die versteckten Staaten etwas verbergen? Testen Sie die Grenzen der Faktizität-Encoding Fähigkeiten in LLMs | 隐秘国是否隐藏着什么?测试LLMM中实际质量-编码能力限度。 [2505.16520v2](http://arxiv.org/abs/2505.16520v2)
 
 **Authors**: Giovanni Servedio, Alessandro De Bellis, Dario Di Palma, Vito Walter Anelli, Tommaso Di Noia
@@ -11546,6 +12564,7 @@ Factual hallucinations are a major challenge for Large Language Models (LLMs). T
 
 ## Article 1018
 ### Title@2025-05-26 (1): Languages in Multilingual Speech Foundation Models Align Both   Phonetically and Semantically
+
 **Title**: Languages in Multilingual Speech Foundation Models Align Both   Phonetically and Semantically | Sprachen in mehrsprachigen Sprachstiftungsmodellen richten sowohl phonetisch als auch semantisch | 多语种语言语言基金会 [2505.19606v1](http://arxiv.org/abs/2505.19606v1)
 
 **Authors**: Ryan Soh-Eun Shim, Domenico De Cristofaro, Chengzhi Martin Hu, Alessandro Vietti, Barbara Plank
@@ -11556,6 +12575,7 @@ Cross-lingual alignment in pretrained language models (LMs) has enabled efficien
 
 ## Article 1019
 ### Title@2025-05-26 (1): Evaluating Machine Translation Models for English-Hindi Language Pairs:   A Comparative Analysis
+
 **Title**: Evaluating Machine Translation Models for English-Hindi Language Pairs:   A Comparative Analysis | Machine Translation Models für Englisch-Hindi Sprachpaare bewerten: Eine vergleichende Analyse | 英文-中文语文配对评价机器翻译模型:比较分析 [2505.19604v1](http://arxiv.org/abs/2505.19604v1)
 
 **Authors**: Ahan Prasannakumar Shetty
@@ -11566,6 +12586,7 @@ Machine translation has become a critical tool in bridging linguistic gaps, espe
 
 ## Article 1020
 ### Title@2025-05-26 (1): Preference Optimization by Estimating the Ratio of the Data Distribution
+
 **Title**: Preference Optimization by Estimating the Ratio of the Data Distribution | Präferenzoptimierung durch Schätzung des Verhältnisses der Datenverteilung | 通过估计数据分配比率实现最佳优化 [2505.19601v1](http://arxiv.org/abs/2505.19601v1)
 
 **Authors**: Yeongmin Kim, Heesun Bae, Byeonghu Na, Il-Chul Moon
@@ -11576,6 +12597,7 @@ Direct preference optimization (DPO) is widely used as a simple and stable metho
 
 ## Article 1021
 ### Title@2025-05-26 (1): Inconsistent Tokenizations Cause Language Models to be Perplexed by   Japanese Grammar
+
 **Title**: Inconsistent Tokenizations Cause Language Models to be Perplexed by   Japanese Grammar | Inkonsistente Tokenisierungen führen dazu, dass Sprachmodelle von japanischer Grammatik verblüfft werden. | 前后不一致的招数导致语言模式被日语语法所混淆 [2505.19599v1](http://arxiv.org/abs/2505.19599v1)
 
 **Authors**: Andrew Gambardella, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo
@@ -11586,6 +12608,7 @@ Typical methods for evaluating the performance of language models evaluate their
 
 ## Article 1022
 ### Title@2025-05-26 (1): Evaluating Robustness of Large Audio Language Models to Audio Injection:   An Empirical Study
+
 **Title**: Evaluating Robustness of Large Audio Language Models to Audio Injection:   An Empirical Study | Bewertung der Robustheit von großen Audio-Sprachmodellen zur Audio-Einspritzung: Eine empirische Studie | 评估大音频语言模型对音频注射的威力:经验研究 [2505.19598v1](http://arxiv.org/abs/2505.19598v1)
 
 **Authors**: Guanyu Hou, Jiaming He, Yinhang Zhou, Ji Guo, Yitong Qiao, Rui Zhang, Wenbo Jiang
@@ -11596,6 +12619,7 @@ Large Audio-Language Models (LALMs) are increasingly deployed in real-world appl
 
 ## Article 1023
 ### Title@2025-05-26 (1): Multi-Agent Collaboration via Evolving Orchestration
+
 **Title**: Multi-Agent Collaboration via Evolving Orchestration | Multi-Agenten-Zusammenarbeit über Evolving Orchestration | 通过不断演变的管弦化多机构协作 [2505.19591v1](http://arxiv.org/abs/2505.19591v1)
 
 **Authors**: Yufan Dang, Chen Qian, Xueheng Luo, Jingru Fan, Zihao Xie, Ruijie Shi, Weize Chen, Cheng Yang, Xiaoyin Che, Ye Tian, Xuantang Xiong, Lei Han, Zhiyuan Liu, Maosong Sun
@@ -11606,6 +12630,7 @@ Large language models (LLMs) have achieved remarkable results across diverse dow
 
 ## Article 1024
 ### Title@2025-05-26 (1): SepALM: Audio Language Models Are Error Correctors for Robust Speech   Separation
+
 **Title**: SepALM: Audio Language Models Are Error Correctors for Robust Speech   Separation | SepALM: Audio Sprachmodelle sind Fehlerkorrekturen für robuste Sprachtrennung | SepALM: 音频语言模型是强力语音分离错误纠正器 [2505.03273v2](http://arxiv.org/abs/2505.03273v2)
 
 **Authors**: Zhaoxi Mu, Xinyu Yang, Gang Wang
@@ -11616,6 +12641,7 @@ While contemporary speech separation technologies adeptly process lengthy mixed 
 
 ## Article 1025
 ### Title@2025-05-26 (1): Learning to Reason without External Rewards
+
 **Title**: Learning to Reason without External Rewards | Vernunft lernen ohne externe Belohnungen | 学习没有外部奖励的理性 [2505.19590v1](http://arxiv.org/abs/2505.19590v1)
 
 **Authors**: Xuandong Zhao, Zhewei Kang, Aosong Feng, Sergey Levine, Dawn Song
@@ -11626,6 +12652,7 @@ Training large language models (LLMs) for complex reasoning via Reinforcement Le
 
 ## Article 1026
 ### Title@2025-05-26 (1): Accelerating Prefilling for Long-Context LLMs via Sparse Pattern Sharing
+
 **Title**: Accelerating Prefilling for Long-Context LLMs via Sparse Pattern Sharing | Beschleunigung der Vorfüllung für Langkontext-LLMs über Sparse Pattern Sharing | 通过 Sparse 模式共享加速预填长文本 LLMs [2505.19578v1](http://arxiv.org/abs/2505.19578v1)
 
 **Authors**: Dan Peng, Zhihui Fu, Zewen Ye, Zhuoran Song, Jun Wang
@@ -11636,6 +12663,7 @@ Sparse attention methods exploit the inherent sparsity in attention to speed up 
 
 ## Article 1027
 ### Title@2025-05-26 (1): Cheems: A Practical Guidance for Building and Evaluating Chinese Reward   Models from Scratch
+
 **Title**: Cheems: A Practical Guidance for Building and Evaluating Chinese Reward   Models from Scratch | Cheems: Eine praktische Anleitung für das Bauen und Evaluieren chinesischer Belohnungsmodelle von Scratch | Cheems:从Scratch建立和评估中国奖励模型实用指南 [2502.17173v3](http://arxiv.org/abs/2502.17173v3)
 
 **Authors**: Xueru Wen, Jie Lou, Zichao Li, Yaojie Lu, Xing Yu, Yuqiu Ji, Guohai Xu, Hongyu Lin, Ben He, Xianpei Han, Le Sun, Debing Zhang
@@ -11646,6 +12674,7 @@ Reward models (RMs) are crucial for aligning large language models (LLMs) with h
 
 ## Article 1028
 ### Title@2025-05-26 (1): DocMEdit: Towards Document-Level Model Editing
+
 **Title**: DocMEdit: Towards Document-Level Model Editing | DocMEdit: Auf dem Weg zur Dokumenten-Level-Modellbearbeitung | DocMEdit:走向文件级别示范编辑 [2505.19572v1](http://arxiv.org/abs/2505.19572v1)
 
 **Authors**: Li Zeng, Zeming Liu, Chong Feng, Heyan Huang, Yuhang Guo
@@ -11656,6 +12685,7 @@ Model editing aims to correct errors and outdated knowledge in the Large languag
 
 ## Article 1029
 ### Title@2025-05-26 (1): Rethinking Text-based Protein Understanding: Retrieval or LLM?
+
 **Title**: Rethinking Text-based Protein Understanding: Retrieval or LLM? | Rethinking Text-basierte Protein-Verständnis: Retrieval oder LLM? | 重新思考基于文本的蛋白质理解:检索还是LLM? [2505.20354v1](http://arxiv.org/abs/2505.20354v1)
 
 **Authors**: Juntong Wu, Zijing Liu, He Cao, Hao Li, Bin Feng, Zishan Shu, Ke Yu, Li Yuan, Yu Li
@@ -11666,6 +12696,7 @@ In recent years, protein-text models have gained significant attention for their
 
 ## Article 1030
 ### Title@2025-05-26 (1): Automated Text-to-Table for Reasoning-Intensive Table QA: Pipeline   Design and Benchmarking Insights
+
 **Title**: Automated Text-to-Table for Reasoning-Intensive Table QA: Pipeline   Design and Benchmarking Insights | Automatisierter Text-zu-Tisch für reasoning-intensive Tabelle QA: Pipeline-Design und Benchmarking-Insights | QA:管道设计和基准透视 [2505.19563v1](http://arxiv.org/abs/2505.19563v1)
 
 **Authors**: Shi-Yu Tian, Zhi Zhou, Wei Dong, Ming Yang, Kun-Yang Yu, Zi-Jian Cheng, Lan-Zhe Guo, Yu-Feng Li
@@ -11676,6 +12707,7 @@ Reasoning with tabular data holds increasing importance in modern applications, 
 
 ## Article 1031
 ### Title@2025-05-26 (1): On-Policy Self-Alignment with Fine-grained Knowledge Feedback for   Hallucination Mitigation
+
 **Title**: On-Policy Self-Alignment with Fine-grained Knowledge Feedback for   Hallucination Mitigation | On-Policy-Selbstjustierung mit feinkörnigem Wissen Feedback zur Halluzination Mitigation | 政策上与精精精细知识的自我协调以缓解幻觉的反馈 [2406.12221v6](http://arxiv.org/abs/2406.12221v6)
 
 **Authors**: Xueru Wen, Jie Lou, Xinyu Lu, Ji Yuqiu, Xinyan Guan, Yaojie Lu, Hongyu Lin, Ben He, Xianpei Han, Debing Zhang, Le Sun
@@ -11686,6 +12718,7 @@ Hallucination occurs when large language models exhibit behavior that deviates f
 
 ## Article 1032
 ### Title@2025-05-26 (1): Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA   Dataset and Self-adaptive Planning Agent
+
 **Title**: Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA   Dataset and Self-adaptive Planning Agent | Benchmarking multimodaler Retrieval Augmented Generation mit dynamischem VQA-Datensatz und selbstadaptivem Planungs-Agent | 具有动态VQA数据集和自适应规划剂的多式回收增强型 [2411.02937v5](http://arxiv.org/abs/2411.02937v5)
 
 **Authors**: Yangning Li, Yinghui Li, Xinyu Wang, Yong Jiang, Zhen Zhang, Xinran Zheng, Hui Wang, Hai-Tao Zheng, Philip S. Yu, Fei Huang, Jingren Zhou
@@ -11696,6 +12729,7 @@ Multimodal Retrieval Augmented Generation (mRAG) plays an important role in miti
 
 ## Article 1033
 ### Title@2025-05-26 (1): Towards Multi-Granularity Memory Association and Selection for Long-Term   Conversational Agents
+
 **Title**: Towards Multi-Granularity Memory Association and Selection for Long-Term   Conversational Agents | Auf dem Weg zu Multi-Granularität Memory Association und Auswahl für langfristige Conversational Agents | 走向多群体记忆协会和选择长期对话代理人 [2505.19549v1](http://arxiv.org/abs/2505.19549v1)
 
 **Authors**: Derong Xu, Yi Wen, Pengyue Jia, Yingyi Zhang, wenlin zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu
@@ -11706,6 +12740,7 @@ Large Language Models (LLMs) have recently been widely adopted in conversational
 
 ## Article 1034
 ### Title@2025-05-26 (1): How Syntax Specialization Emerges in Language Models
+
 **Title**: How Syntax Specialization Emerges in Language Models | Wie Syntax Spezialisierung in Sprachmodelle auftaucht | 语言模式中的语法专门化如何出现 [2505.19548v1](http://arxiv.org/abs/2505.19548v1)
 
 **Authors**: Xufeng Duan, Zhaoqian Yao, Yunhao Zhang, Shaonan Wang, Zhenguang G. Cai
@@ -11716,6 +12751,7 @@ Large language models (LLMs) have been found to develop surprising internal spec
 
 ## Article 1035
 ### Title@2025-05-26 (1): Fraud-R1 : A Multi-Round Benchmark for Assessing the Robustness of LLM   Against Augmented Fraud and Phishing Inducements
+
 **Title**: Fraud-R1 : A Multi-Round Benchmark for Assessing the Robustness of LLM   Against Augmented Fraud and Phishing Inducements | Betrug-R1 : Multi-Round Benchmark für die Bewertung der Robustheit von LLM gegen Augmented Betrug und Phishing Inducings | 欺诈R1:评估防止增加欺诈和钓鱼诱骗行为LLM的有力程度的多基准 [2502.12904v2](http://arxiv.org/abs/2502.12904v2)
 
 **Authors**: Shu Yang, Shenzhe Zhu, Zeyu Wu, Keyu Wang, Junchi Yao, Junchao Wu, Lijie Hu, Mengdi Li, Derek F. Wong, Di Wang
@@ -11726,6 +12762,7 @@ We introduce Fraud-R1, a benchmark designed to evaluate LLMs' ability to defend 
 
 ## Article 1036
 ### Title@2025-05-26 (1): R3: Robust Rubric-Agnostic Reward Models
+
 **Title**: R3: Robust Rubric-Agnostic Reward Models | R3: Robuste Rubric-Agnostische Belohnungsmodelle | R3:坚固的Rubric-不可知奖赏模型 [2505.13388v2](http://arxiv.org/abs/2505.13388v2)
 
 **Authors**: David Anugraha, Zilu Tang, Lester James V. Miranda, Hanyang Zhao, Mohammad Rifqi Farhansyah, Garry Kuwanto, Derry Wijaya, Genta Indra Winata
@@ -11736,6 +12773,7 @@ Reward models are essential for aligning language model outputs with human prefe
 
 ## Article 1037
 ### Title@2025-05-26 (1): Amulet: ReAlignment During Test Time for Personalized Preference   Adaptation of LLMs
+
 **Title**: Amulet: ReAlignment During Test Time for Personalized Preference   Adaptation of LLMs | Amulett: Neuausrichtung während der Testzeit für Personalisierte Präferenzanpassung von LLMs | 缩略图:在试验期间重新对准,以适应LLMM的个性化偏好 [2502.19148v2](http://arxiv.org/abs/2502.19148v2)
 
 **Authors**: Zhaowei Zhang, Fengshuo Bai, Qizhi Chen, Chengdong Ma, Mingzhi Wang, Haoran Sun, Zilong Zheng, Yaodong Yang
@@ -11746,6 +12784,7 @@ How to align large language models (LLMs) with user preferences from a static ge
 
 ## Article 1038
 ### Title@2025-05-26 (1): DoctorRAG: Medical RAG Fusing Knowledge with Patient Analogy through   Textual Gradients
+
 **Title**: DoctorRAG: Medical RAG Fusing Knowledge with Patient Analogy through   Textual Gradients | DoctorRAG: Medizinische RAG Durch Textabstufungen Wissen mit Patient Analogie fusionieren | 医生RAG:通过文字梯度将医学RAG知识与病人分析知识与病人分析相融合 [2505.19538v1](http://arxiv.org/abs/2505.19538v1)
 
 **Authors**: Yuxing Lu, Gecheng Fu, Wei Wu, Xukai Zhao, Sin Yee Goi, Jinzhuo Wang
@@ -11756,6 +12795,7 @@ Existing medical RAG systems mainly leverage knowledge from medical knowledge ba
 
 ## Article 1039
 ### Title@2025-05-26 (1): Can Large Language Models be Good Emotional Supporter? Mitigating   Preference Bias on Emotional Support Conversation
+
 **Title**: Can Large Language Models be Good Emotional Supporter? Mitigating   Preference Bias on Emotional Support Conversation | Können große Sprachmodelle ein guter emotionaler Unterstützer sein? Preference Bias auf Emotional Support Conversation abmildern | 大语言模式能否成为情感支持的良好支持者? [2402.13211v3](http://arxiv.org/abs/2402.13211v3)
 
 **Authors**: Dongjin Kang, Sunghwan Kim, Taeyoon Kwon, Seungjun Moon, Hyunsouk Cho, Youngjae Yu, Dongha Lee, Jinyoung Yeo
@@ -11766,6 +12806,7 @@ Emotional Support Conversation (ESC) is a task aimed at alleviating individuals'
 
 ## Article 1040
 ### Title@2025-05-26 (1): FlowCut: Rethinking Redundancy via Information Flow for Efficient   Vision-Language Models
+
 **Title**: FlowCut: Rethinking Redundancy via Information Flow for Efficient   Vision-Language Models | FlowCut: Redundanz über Informationsfluss für effiziente Vision-Sprachenmodelle neu denken | 流程:通过信息流动重新思考通过信息流动实现高效愿景-语言模型的冗余 [2505.19536v1](http://arxiv.org/abs/2505.19536v1)
 
 **Authors**: Jintao Tong, Wenwei Jin, Pengda Qin, Anqi Li, Yixiong Zou, Yuhong Li, Yuhua Li, Ruixuan Li
@@ -11776,6 +12817,7 @@ Large vision-language models (LVLMs) excel at multimodal understanding but suffe
 
 ## Article 1041
 ### Title@2025-05-26 (1): SLOT: Sample-specific Language Model Optimization at Test-time
+
 **Title**: SLOT: Sample-specific Language Model Optimization at Test-time | Steckplatz: Beispielspezifische Sprachmodelloptimierung zur Testzeit | SPLOT: 测试时特定抽样语文示范模式优化 [2505.12392v2](http://arxiv.org/abs/2505.12392v2)
 
 **Authors**: Yang Hu, Xingyu Zhang, Xueji Fang, Zhiyang Chen, Xiao Wang, Huatian Zhang, Guojun Qi
@@ -11786,6 +12828,7 @@ We propose SLOT (Sample-specific Language Model Optimization at Test-time), a no
 
 ## Article 1042
 ### Title@2025-05-26 (1): SIPDO: Closed-Loop Prompt Optimization via Synthetic Data Feedback
+
 **Title**: SIPDO: Closed-Loop Prompt Optimization via Synthetic Data Feedback | SIPDO: Closed-Loop Prompt Optimierung über Synthetic Data Feedback | SIPDO:通过合成数据反馈,通过闭闭电话快速优化 [2505.19514v1](http://arxiv.org/abs/2505.19514v1)
 
 **Authors**: Yaoning Yu, Ye Yu, Kai Wei, Haojing Luo, Haohan Wang
@@ -11796,6 +12839,7 @@ Prompt quality plays a critical role in the performance of large language models
 
 ## Article 1043
 ### Title@2025-05-26 (1): Causal Distillation: Transferring Structured Explanations from Large to   Compact Language Models
+
 **Title**: Causal Distillation: Transferring Structured Explanations from Large to   Compact Language Models | Kausaldestillation: Übertragen strukturierter Erklärungen von großen zu kompakten Sprachmodellen | 因果蒸馏:将结构化解释从大语言模式转移到集约语言模式 [2505.19511v1](http://arxiv.org/abs/2505.19511v1)
 
 **Authors**: Aggrey Muhebwa, Khalid K. Osman
@@ -11806,6 +12850,7 @@ Large proprietary language models exhibit strong causal reasoning abilities that
 
 ## Article 1044
 ### Title@2025-05-26 (1): StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy   Optimization
+
 **Title**: StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy   Optimization | StepSearch: LLMs entzünden Suche Fähigkeit über Schritt-Wise Proximal Policy Optimization | 切换搜索:通过 " 一步步Wise " 方案最佳政策优化化,将LLMs搜索能力化 [2505.15107v2](http://arxiv.org/abs/2505.15107v2)
 
 **Authors**: Ziliang Wang, Xuhui Zheng, Kang An, Cijun Ouyang, Jialu Cai, Yuhang Wang, Yichao Wu
@@ -11816,6 +12861,7 @@ Efficient multi-hop reasoning requires Large Language Models (LLMs) based agents
 
 ## Article 1045
 ### Title@2025-05-26 (1): DOGe: Defensive Output Generation for LLM Protection Against Knowledge   Distillation
+
 **Title**: DOGe: Defensive Output Generation for LLM Protection Against Knowledge   Distillation | DOGe: Defensive Output Generation für LLM-Schutz vor Wissensdestillation | DOGe: 防知识蒸馏保护LLM的防御性产出产生 [2505.19504v1](http://arxiv.org/abs/2505.19504v1)
 
 **Authors**: Pingzhi Li, Zhen Tan, Huaizhi Qu, Huan Liu, Tianlong Chen
@@ -11826,6 +12872,7 @@ Large Language Models (LLMs) represent substantial intellectual and economic inv
 
 ## Article 1046
 ### Title@2025-05-26 (1): QAEncoder: Towards Aligned Representation Learning in Question Answering   System
+
 **Title**: QAEncoder: Towards Aligned Representation Learning in Question Answering   System | QAEncoder: Auf dem Weg zu einem abgestimmten Repräsentationslernen im Fragebeantwortungssystem | QAEncolder:在问题解答系统中实现代表性统一学习 [2409.20434v2](http://arxiv.org/abs/2409.20434v2)
 
 **Authors**: Zhengren Wang, Qinhan Yu, Shida Wei, Zhiyu Li, Feiyu Xiong, Xiaoxing Wang, Simin Niu, Hao Liang, Wentao Zhang
@@ -11836,6 +12883,7 @@ Modern QA systems entail retrieval-augmented generation (RAG) for accurate and t
 
 ## Article 1047
 ### Title@2025-05-26 (1): Anveshana: A New Benchmark Dataset for Cross-Lingual Information   Retrieval On English Queries and Sanskrit Documents
+
 **Title**: Anveshana: A New Benchmark Dataset for Cross-Lingual Information   Retrieval On English Queries and Sanskrit Documents | Anveshana: Ein neuer Benchmark-Datensatz für Cross-Lingual Information Retrieval über englische Abfragen und Sanskrit-Dokumente | Anveshana:英语问答和梵文文件跨语言信息检索新基准数据集 [2505.19494v1](http://arxiv.org/abs/2505.19494v1)
 
 **Authors**: Manoj Balaji Jagadeeshan, Prince Raj, Pawan Goyal
@@ -11846,6 +12894,7 @@ The study presents a comprehensive benchmark for retrieving Sanskrit documents u
 
 ## Article 1048
 ### Title@2025-05-26 (1): NExtLong: Toward Effective Long-Context Training without Long Documents
+
 **Title**: NExtLong: Toward Effective Long-Context Training without Long Documents | NExtLong: Auf dem Weg zu effektiver Langtext-Schulung ohne lange Dokumente | NExtLong:争取在无长文件的情况下进行有效长文培训 [2501.12766v2](http://arxiv.org/abs/2501.12766v2)
 
 **Authors**: Chaochen Gao, Xing Wu, Zijia Lin, Debing Zhang, Songlin Hu
@@ -11856,6 +12905,7 @@ Large language models (LLMs) with extended context windows have made significant
 
 ## Article 1049
 ### Title@2025-05-26 (1): When can isotropy help adapt LLMs' next word prediction to numerical   domains?
+
 **Title**: When can isotropy help adapt LLMs' next word prediction to numerical   domains? | Wann kann Isotropie helfen, die nächste Wortvorhersage von LLMs an numerische Domänen anzupassen? | 何时才能帮助LLMS的下一个字词预测适应数字域? [2505.17135v2](http://arxiv.org/abs/2505.17135v2)
 
 **Authors**: Rashed Shelim, Shengzhe Xu, Walid Saad, Naren Ramakrishnan
@@ -11866,6 +12916,7 @@ Recent studies have shown that vector representations of contextual embeddings l
 
 ## Article 1050
 ### Title@2025-05-26 (1): PASS-FC: Progressive and Adaptive Search Scheme for Fact Checking of   Comprehensive Claims
+
 **Title**: PASS-FC: Progressive and Adaptive Search Scheme for Fact Checking of   Comprehensive Claims | PASS-FC: Progressives und adaptives Suchschema für die Prüfung umfassender Ansprüche | PASS-FC: 全面索赔事实核实渐进和适应性搜索计划 [2504.09866v2](http://arxiv.org/abs/2504.09866v2)
 
 **Authors**: Ziyu Zhuang
@@ -11876,6 +12927,7 @@ Automated fact-checking (AFC) still falters on claims that are time-sensitive, e
 
 ## Article 1051
 ### Title@2025-05-26 (1): HellaSwag-Pro: A Large-Scale Bilingual Benchmark for Evaluating the   Robustness of LLMs in Commonsense Reasoning
+
 **Title**: HellaSwag-Pro: A Large-Scale Bilingual Benchmark for Evaluating the   Robustness of LLMs in Commonsense Reasoning | HellaSwag-Pro: Ein großformatiger zweisprachiger Benchmark zur Bewertung der Robustheit von LLMs in Commonsense Reasoning | HellaSwag-Pro:用于评价常识理由解释中LLMs是否强劲的大型双语双语基准 [2502.11393v2](http://arxiv.org/abs/2502.11393v2)
 
 **Authors**: Xiaoyuan Li, Moxin Li, Rui Men, Yichang Zhang, Keqin Bao, Wenjie Wang, Fuli Feng, Dayiheng Liu, Junyang Lin
@@ -11886,6 +12938,7 @@ Large language models (LLMs) have shown remarkable capabilities in commonsense r
 
 ## Article 1052
 ### Title@2025-05-26 (1): MTR-Bench: A Comprehensive Benchmark for Multi-Turn Reasoning Evaluation
+
 **Title**: MTR-Bench: A Comprehensive Benchmark for Multi-Turn Reasoning Evaluation | MTR-Bench: Umfassender Benchmark für die Bewertung von Multi-Turn-Reasoning | 中期审查-后期:多重理由评价综合基准 [2505.17123v2](http://arxiv.org/abs/2505.17123v2)
 
 **Authors**: Xiaoyuan Li, Keqin Bao, Yubo Ma, Moxin Li, Wenjie Wang, Rui Men, Yichang Zhang, Fuli Feng, Dayiheng Liu, Junyang Lin
@@ -11896,6 +12949,7 @@ Recent advances in Large Language Models (LLMs) have shown promising results in 
 
 ## Article 1053
 ### Title@2025-05-26 (1): Parrot: Multilingual Visual Instruction Tuning
+
 **Title**: Parrot: Multilingual Visual Instruction Tuning | Papagei: Mehrsprachige visuelle Anleitung | Parrot: 多语言视觉教学图示 [2406.02539v3](http://arxiv.org/abs/2406.02539v3)
 
 **Authors**: Hai-Long Sun, Da-Wei Zhou, Yang Li, Shiyin Lu, Chao Yi, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang, De-Chuan Zhan, Han-Jia Ye
@@ -11906,6 +12960,7 @@ The rapid development of Multimodal Large Language Models (MLLMs), such as GPT-4
 
 ## Article 1054
 ### Title@2025-05-26 (1): ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search
+
 **Title**: ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search | ARise: Auf dem Weg zu einer wissensbasierten Vernunft durch Risiko-Adaptive Search | ARise:通过风险-减轻风险的搜索寻求知识推理 [2504.10893v2](http://arxiv.org/abs/2504.10893v2)
 
 **Authors**: Yize Zhang, Tianshu Wang, Sirui Chen, Kun Wang, Xingyu Zeng, Hongyu Lin, Xianpei Han, Le Sun, Chaochao Lu
@@ -11916,6 +12971,7 @@ Large language models (LLMs) have demonstrated impressive capabilities and are r
 
 ## Article 1055
 ### Title@2025-05-26 (1): Towards End-to-End Training of Automatic Speech Recognition for Nigerian   Pidgin
+
 **Title**: Towards End-to-End Training of Automatic Speech Recognition for Nigerian   Pidgin | Auf dem Weg zum Ende der Ausbildung zur automatischen Spracherkennung für nigerianische Pidgin | 走向尼日利亚皮吉纳自动语音识别的端至端培训 [2010.11123v2](http://arxiv.org/abs/2010.11123v2)
 
 **Authors**: Amina Mardiyyah Rufai, Afolabi Abeeb, Esther Oduntan, Tayo Arulogun, Oluwabukola Adegboro, Daniel Ajisafe
@@ -11926,6 +12982,7 @@ The prevalence of automatic speech recognition (ASR) systems in spoken language 
 
 ## Article 1056
 ### Title@2025-05-26 (1): FastCuRL: Curriculum Reinforcement Learning with Stage-wise Context   Scaling for Efficient Training R1-like Reasoning Models
+
 **Title**: FastCuRL: Curriculum Reinforcement Learning with Stage-wise Context   Scaling for Efficient Training R1-like Reasoning Models | FastCurL: Curriculum-Verstärkungs-Lernen mit Stage-Wise-Kontext-Skalierung für effizientes Training R1-ähnliche Reasoning-Modelle | FastCuRL: 课程强化学习,分阶段为高效率培训提供R1类理由模型 [2503.17287v4](http://arxiv.org/abs/2503.17287v4)
 
 **Authors**: Mingyang Song, Mao Zheng, Zheng Li, Wenjie Yang, Xuan Luo, Yue Pan, Feng Zhang
@@ -11936,6 +12993,7 @@ Improving training efficiency continues to be one of the primary challenges in l
 
 ## Article 1057
 ### Title@2025-05-26 (1): BizFinBench: A Business-Driven Real-World Financial Benchmark for   Evaluating LLMs
+
 **Title**: BizFinBench: A Business-Driven Real-World Financial Benchmark for   Evaluating LLMs | BizFinBench: Ein geschäftsgetriebener Real-World-Finanz-Benchmark für die Bewertung von LLMs | BizFin BinBenench:商业驱动的现实世界评价长效信贷额度的金融基准 [2505.19457v1](http://arxiv.org/abs/2505.19457v1)
 
 **Authors**: Guilong Lu, Xuntao Guo, Rongjunchen Zhang, Wenqiao Zhu, Ji Liu
@@ -11946,6 +13004,7 @@ Large language models excel in general tasks, yet assessing their reliability in
 
 ## Article 1058
 ### Title@2025-05-26 (1): HopRAG: Multi-Hop Reasoning for Logic-Aware Retrieval-Augmented   Generation
+
 **Title**: HopRAG: Multi-Hop Reasoning for Logic-Aware Retrieval-Augmented   Generation | HopRAG: Multi-Hop-Gründung für die Logic-Aware Retrieval-Augmented Generation | HOPRAG: 逻辑-软件检索多功能原因 [2502.12442v2](http://arxiv.org/abs/2502.12442v2)
 
 **Authors**: Hao Liu, Zhengren Wang, Xi Chen, Zhiyu Li, Feiyu Xiong, Qinhan Yu, Wentao Zhang
@@ -11956,6 +13015,7 @@ Retrieval-Augmented Generation (RAG) systems often struggle with imperfect retri
 
 ## Article 1059
 ### Title@2025-05-26 (1): Pixel Reasoner: Incentivizing Pixel-Space Reasoning with   Curiosity-Driven Reinforcement Learning
+
 **Title**: Pixel Reasoner: Incentivizing Pixel-Space Reasoning with   Curiosity-Driven Reinforcement Learning | Pixel Reasoner: Anreize für Pixel-Space-Reasoning mit kuriositätsgetriebenem Verstärkungslernen | 像素理由:激励像素空间与好奇-驱动强化学习相结合的像素空间理由 [2505.15966v2](http://arxiv.org/abs/2505.15966v2)
 
 **Authors**: Alex Su, Haozhe Wang, Weiming Ren, Fangzhen Lin, Wenhu Chen
@@ -11966,6 +13026,7 @@ Chain-of-thought reasoning has significantly improved the performance of Large L
 
 ## Article 1060
 ### Title@2025-05-26 (1): Discovering Forbidden Topics in Language Models
+
 **Title**: Discovering Forbidden Topics in Language Models | Verbotene Themen in Sprachmodellen entdecken | 发现语言模型中的禁止专题 [2505.17441v2](http://arxiv.org/abs/2505.17441v2)
 
 **Authors**: Can Rager, Chris Wendler, Rohit Gandikota, David Bau
@@ -11976,6 +13037,7 @@ Refusal discovery is the task of identifying the full set of topics that a langu
 
 ## Article 1061
 ### Title@2025-05-26 (1): Aligning Large Language Models to Follow Instructions and Hallucinate   Less via Effective Data Filtering
+
 **Title**: Aligning Large Language Models to Follow Instructions and Hallucinate   Less via Effective Data Filtering | Ausrichtung großer Sprachmodelle, um Anweisungen zu folgen und weniger Halluzinate über effektive Datenfilterung | 通过有效的数据过滤使大语言模型与遵循指令和低致幻模型相匹配 [2502.07340v3](http://arxiv.org/abs/2502.07340v3)
 
 **Authors**: Shuzheng Si, Haozhe Zhao, Gang Chen, Cheng Gao, Yuzhuo Bai, Zhitong Wang, Kaikai An, Kangyang Luo, Chen Qian, Fanchao Qi, Baobao Chang, Maosong Sun
@@ -11986,6 +13048,7 @@ Training LLMs on data containing unfamiliar knowledge during the instruction tun
 
 ## Article 1062
 ### Title@2025-05-26 (1): Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications   of Agentic AI
+
 **Title**: Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications   of Agentic AI | Vibe Coding vs. Agentic Coding: Grundlagen und praktische Implikationen von Agentic AI | Vibe 编码与 Agentic 编码:Agent AI 的基本要素和实际影响 [2505.19443v1](http://arxiv.org/abs/2505.19443v1)
 
 **Authors**: Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee
@@ -11996,6 +13059,7 @@ This review presents a comprehensive analysis of two emerging paradigms in AI-as
 
 ## Article 1063
 ### Title@2025-05-26 (1): The Birth of Knowledge: Emergent Features across Time, Space, and Scale   in Large Language Models
+
 **Title**: The Birth of Knowledge: Emergent Features across Time, Space, and Scale   in Large Language Models | Die Geburt des Wissens: Emergente Funktionen über Zeit, Raum und Maßstab in großen Sprachmodellen | 知识的诞生:跨越时间、空间和大语言模型规模的新兴特征 [2505.19440v1](http://arxiv.org/abs/2505.19440v1)
 
 **Authors**: Shashata Sawmya, Micah Adler, Nir Shavit
@@ -12006,6 +13070,7 @@ This paper studies the emergence of interpretable categorical features within la
 
 ## Article 1064
 ### Title@2025-05-26 (1): Surrogate Signals from Format and Length: Reinforcement Learning for   Solving Mathematical Problems without Ground Truth Answers
+
 **Title**: Surrogate Signals from Format and Length: Reinforcement Learning for   Solving Mathematical Problems without Ground Truth Answers | Surrogate Signale aus Format und Länge: Verstärkungslernen zur Lösung mathematischer Probleme ohne Grundwahrheitsantworten | 格式和长度的代用信号:为解决没有事实答案的数学问题进行强化学习 [2505.19439v1](http://arxiv.org/abs/2505.19439v1)
 
 **Authors**: Rihui Xin, Han Liu, Zecheng Wang, Yupeng Zhang, Dianbo Sui, Xiaolin Hu, Bingning Wang
@@ -12016,6 +13081,7 @@ Large Language Models have achieved remarkable success in natural language proce
 
 ## Article 1065
 ### Title@2025-05-26 (1): Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents
+
 **Title**: Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents | Task Memory Engine: Raumspeicher für robuste, mehrstufige LLM-Agenten | 任务记忆引擎:强力多级LLM代理器的空间内存 [2505.19436v1](http://arxiv.org/abs/2505.19436v1)
 
 **Authors**: Ye Ye
@@ -12026,6 +13092,7 @@ Large Language Models (LLMs) falter in multi-step interactions -- often hallucin
 
 ## Article 1066
 ### Title@2025-05-26 (1): Route to Reason: Adaptive Routing for LLM and Reasoning Strategy   Selection
+
 **Title**: Route to Reason: Adaptive Routing for LLM and Reasoning Strategy   Selection | Weg zur Vernunft: Adaptives Routing für die LLM und die Strategieauswahl | 原因路线:LLM和理由选择战略的适应性分流 [2505.19435v1](http://arxiv.org/abs/2505.19435v1)
 
 **Authors**: Zhihong Pan, Kai Zhang, Yuze Zhao, Yupeng Han
@@ -12036,6 +13103,7 @@ The inherent capabilities of a language model (LM) and the reasoning strategies 
 
 ## Article 1067
 ### Title@2025-05-26 (1): One-Shot is Enough: Consolidating Multi-Turn Attacks into Efficient   Single-Turn Prompts for LLMs
+
 **Title**: One-Shot is Enough: Consolidating Multi-Turn Attacks into Efficient   Single-Turn Prompts for LLMs | One-Shot reicht: Konsolidierung von Multi-Turn-Angriffen in effiziente Single-Turn-Prompts für LLMs | 将多发攻击合并为LLMs的高效单发提示 [2503.04856v2](http://arxiv.org/abs/2503.04856v2)
 
 **Authors**: Junwoo Ha, Hyunjun Kim, Sangyoon Yu, Haon Park, Ashkan Yousefpour, Yuna Park, Suhyun Kim
@@ -12046,6 +13114,7 @@ We introduce a novel framework for consolidating multi-turn adversarial ``jailbr
 
 ## Article 1068
 ### Title@2025-05-26 (1): Deriving Strategic Market Insights with Large Language Models: A   Benchmark for Forward Counterfactual Generation
+
 **Title**: Deriving Strategic Market Insights with Large Language Models: A   Benchmark for Forward Counterfactual Generation | Strategische Markteinblicke mit großen Sprachmodellen ableiten: Ein Benchmark für die vorausschauende kontrafaktische Generation | 具有大语言模式的战略市场展望:前瞻性反实际生成基准 [2505.19430v1](http://arxiv.org/abs/2505.19430v1)
 
 **Authors**: Keane Ong, Rui Mao, Deeksha Varshney, Paul Pu Liang, Erik Cambria, Gianmarco Mengaldo
@@ -12056,6 +13125,7 @@ Counterfactual reasoning typically involves considering alternatives to actual e
 
 ## Article 1069
 ### Title@2025-05-26 (1): Rhapsody: A Dataset for Highlight Detection in Podcasts
+
 **Title**: Rhapsody: A Dataset for Highlight Detection in Podcasts | Rhapsody: Ein Datensatz für Highlight-Erkennung in Podcasts | Rhapsody: 用于播客中高亮度探测的数据集 [2505.19429v1](http://arxiv.org/abs/2505.19429v1)
 
 **Authors**: Younghan Park, Anuj Diwan, David Harwath, Eunsol Choi
@@ -12066,6 +13136,7 @@ Podcasts have become daily companions for half a billion users. Given the enormo
 
 ## Article 1070
 ### Title@2025-05-26 (1): Frictional Agent Alignment Framework: Slow Down and Don't Break Things
+
 **Title**: Frictional Agent Alignment Framework: Slow Down and Don't Break Things | Frictional Agent Alignment Framework: Langsam nach unten und nicht brechen Dinge | 波动剂对齐框架:慢下来,不要打破 [2505.19428v1](http://arxiv.org/abs/2505.19428v1)
 
 **Authors**: Abhijnan Nath, Carine Graff, Andrei Bachinin, Nikhil Krishnaswamy
@@ -12076,6 +13147,7 @@ AI support of collaborative interactions entails mediating potential misalignmen
 
 ## Article 1071
 ### Title@2025-05-26 (1): MAS-ZERO: Designing Multi-Agent Systems with Zero Supervision
+
 **Title**: MAS-ZERO: Designing Multi-Agent Systems with Zero Supervision | MAS-ZERO: Konzipieren von Multi-Agenten-Systemen mit Zero Supervision | MAS-ZERO: 设计无监督的多机构系统 [2505.14996v2](http://arxiv.org/abs/2505.14996v2)
 
 **Authors**: Zixuan Ke, Austin Xu, Yifei Ming, Xuan-Phi Nguyen, Caiming Xiong, Shafiq Joty
@@ -12086,6 +13158,7 @@ Multi-agent systems (MAS) leveraging the impressive capabilities of Large Langua
 
 ## Article 1072
 ### Title@2025-05-26 (1): The Role of Diversity in In-Context Learning for Large Language Models
+
 **Title**: The Role of Diversity in In-Context Learning for Large Language Models | Die Rolle der Vielfalt im In-Context-Lernen für große Sprachmodelle | 多样性在为大语言模式进行内文学习方面的作用 [2505.19426v1](http://arxiv.org/abs/2505.19426v1)
 
 **Authors**: Wenyang Xiao, Haoyu Zhao, Lingxiao Huang
@@ -12096,6 +13169,7 @@ In-context learning (ICL) is a crucial capability of current large language mode
 
 ## Article 1073
 ### Title@2025-05-26 (1): Each Graph is a New Language: Graph Learning with LLMs
+
 **Title**: Each Graph is a New Language: Graph Learning with LLMs | Jeder Graph ist eine neue Sprache: Graph Learning mit LLMs | 每图都是一种新语言:用LLMM学习图表 [2501.11478v3](http://arxiv.org/abs/2501.11478v3)
 
 **Authors**: Huachi Zhou, Jiahe Du, Chuang Zhou, Chang Yang, Yilin Xiao, Yuxuan Xie, Xiao Huang
@@ -12106,6 +13180,7 @@ Recent efforts leverage Large Language Models (LLMs) for modeling text-attribute
 
 ## Article 1074
 ### Title@2025-05-26 (1): Three Minds, One Legend: Jailbreak Large Reasoning Model with Adaptive   Stacked Ciphers
+
 **Title**: Three Minds, One Legend: Jailbreak Large Reasoning Model with Adaptive   Stacked Ciphers | Three Minds, One Legend: Jailbreak Large Reasoning Model mit adaptiven Stacked Ciphers | 三个心灵,一个传说:监狱破裂大型理性模型,有适应性堆叠加密码 [2505.16241v3](http://arxiv.org/abs/2505.16241v3)
 
 **Authors**: Viet-Anh Nguyen, Shiqian Zhao, Gia Dao, Runyi Hu, Yi Xie, Luu Anh Tuan
@@ -12116,6 +13191,7 @@ Recently, Large Reasoning Models (LRMs) have demonstrated superior logical capab
 
 ## Article 1075
 ### Title@2025-05-26 (1): Self-Reflective Planning with Knowledge Graphs: Enhancing LLM Reasoning   Reliability for Question Answering
+
 **Title**: Self-Reflective Planning with Knowledge Graphs: Enhancing LLM Reasoning   Reliability for Question Answering | Selbstreflektierende Planung mit Wissensgraphen: Verbesserung der LLM-Begründetheit bei der Beantwortung von Fragen | 带有知识图的自反规划:加强LLM 问题解答的可靠性 [2505.19410v1](http://arxiv.org/abs/2505.19410v1)
 
 **Authors**: Jiajun Zhu, Ye Liu, Meikai Bao, Kai Zhang, Yanghai Zhang, Qi Liu
@@ -12126,6 +13202,7 @@ Recently, large language models (LLMs) have demonstrated remarkable capabilities
 
 ## Article 1076
 ### Title@2025-05-26 (1): CoTGuard: Using Chain-of-Thought Triggering for Copyright Protection in   Multi-Agent LLM Systems
+
 **Title**: CoTGuard: Using Chain-of-Thought Triggering for Copyright Protection in   Multi-Agent LLM Systems | CoTGuard: Mit Chain-of-Thought-Triggering für Urheberrechtsschutz in Multi-Agent LLM-Systemen | COTGuard: 利用探索链在多个高级LLM系统中启动版权保护 [2505.19405v1](http://arxiv.org/abs/2505.19405v1)
 
 **Authors**: Yan Wen, Junfeng Guo, Heng Huang
@@ -12136,6 +13213,7 @@ As large language models (LLMs) evolve into autonomous agents capable of collabo
 
 ## Article 1077
 ### Title@2025-05-26 (1): Can LLMs Help Uncover Insights about LLMs? A Large-Scale, Evolving   Literature Analysis of Frontier LLMs
+
 **Title**: Can LLMs Help Uncover Insights about LLMs? A Large-Scale, Evolving   Literature Analysis of Frontier LLMs | Können LLMs helfen, Erkenntnisse über LLMs zu enthüllen? Eine groß angelegte, sich entwickelnde Literaturanalyse von Frontier LLMs | LLMs 帮助发现关于LLM的见识? 大型、不断发展的前沿LMS文学分析 [2502.18791v3](http://arxiv.org/abs/2502.18791v3)
 
 **Authors**: Jungsoo Park, Junmo Kang, Gabriel Stanovsky, Alan Ritter
@@ -12146,6 +13224,7 @@ The surge of LLM studies makes synthesizing their findings challenging. Analysis
 
 ## Article 1078
 ### Title@2025-05-26 (1): ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL
+
 **Title**: ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL | ROUTE: Robustes Multitask Tuning und Zusammenarbeit für Text-zu-SQL | ROUTE: 文本到 SQL 的强有力的多任务调试和协作 [2412.10138v3](http://arxiv.org/abs/2412.10138v3)
 
 **Authors**: Yang Qin, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng, Peng Hu, Jieping Ye
@@ -12156,6 +13235,7 @@ Despite the significant advancements in Text-to-SQL (Text2SQL) facilitated by la
 
 ## Article 1079
 ### Title@2025-05-26 (1): What External Knowledge is Preferred by LLMs? Characterizing and   Exploring Chain of Evidence in Imperfect Context for Multi-Hop QA
+
 **Title**: What External Knowledge is Preferred by LLMs? Characterizing and   Exploring Chain of Evidence in Imperfect Context for Multi-Hop QA | Welches externe Wissen wird von LLMs bevorzugt? Charakterisieren und Erforschen von Beweiskette im unvollkommenen Kontext für Multi-Hop QA | 普惠制普惠制普惠制普惠制普惠制所偏爱的外部知识是什么? [2412.12632v3](http://arxiv.org/abs/2412.12632v3)
 
 **Authors**: Zhiyuan Chang, Mingyang Li, Xiaojun Jia, Junjie Wang, Yuekai Huang, Qing Wang, Yihao Huang, Yang Liu
@@ -12166,6 +13246,7 @@ Incorporating external knowledge has emerged as a promising way to mitigate outd
 
 ## Article 1080
 ### Title@2025-05-26 (1): Simple and Effective Baselines for Code Summarisation Evaluation
+
 **Title**: Simple and Effective Baselines for Code Summarisation Evaluation | Einfache und effektive Grundlagen für die Code-Summarisation-Bewertung | 用于代码摘要评价的简单有效基线 [2505.19392v1](http://arxiv.org/abs/2505.19392v1)
 
 **Authors**: Jade Robinson, Jonathan K. Kummerfeld
@@ -12176,6 +13257,7 @@ Code documentation is useful, but writing it is time-consuming. Different techni
 
 ## Article 1081
 ### Title@2025-05-26 (1): gec-metrics: A Unified Library for Grammatical Error Correction   Evaluation
+
 **Title**: gec-metrics: A Unified Library for Grammatical Error Correction   Evaluation | gec-metrics: Eine einheitliche Bibliothek für die Bewertung der grammatischen Fehlerkorrektur | 几何:一个用于校正校正错误校正评价的统一图书馆 [2505.19388v1](http://arxiv.org/abs/2505.19388v1)
 
 **Authors**: Takumi Goto, Yusuke Sakai, Taro Watanabe
@@ -12186,6 +13268,7 @@ We introduce gec-metrics, a library for using and developing grammatical error c
 
 ## Article 1082
 ### Title@2025-05-26 (1): SelfElicit: Your Language Model Secretly Knows Where is the Relevant   Evidence
+
 **Title**: SelfElicit: Your Language Model Secretly Knows Where is the Relevant   Evidence | SelfElicit: Ihr Sprachmodell weiß geheim, wo die relevanten Beweise sind | 自 己: 您的语言模型秘密知道相关证据在哪里 [2502.08767v2](http://arxiv.org/abs/2502.08767v2)
 
 **Authors**: Zhining Liu, Rana Ali Amjad, Ravinarayana Adkathimar, Tianxin Wei, Hanghang Tong
@@ -12196,6 +13279,7 @@ Providing Language Models (LMs) with relevant evidence in the context (either vi
 
 ## Article 1083
 ### Title@2025-05-26 (1): GSA-TTS : Toward Zero-Shot Speech Synthesis based on Gradual Style   Adaptor
+
 **Title**: GSA-TTS : Toward Zero-Shot Speech Synthesis based on Gradual Style   Adaptor | GSA-TTS : Auf dem Weg zur Null-Schuss-Sprachsynthese auf Basis eines graduellen Style-Adapters | GSA-TTS:在渐进式样调适器基础上实现零热话合成 [2505.19384v1](http://arxiv.org/abs/2505.19384v1)
 
 **Authors**: Seokgi Lee, Jungjun Kim
@@ -12206,6 +13290,7 @@ We present the gradual style adaptor TTS (GSA-TTS) with a novel style encoder th
 
 ## Article 1084
 ### Title@2025-05-26 (1): JingFang: An Expert-Level Large Language Model for Traditional Chinese   Medicine Clinical Consultation and Syndrome Differentiation-Based Treatment
+
 **Title**: JingFang: An Expert-Level Large Language Model for Traditional Chinese   Medicine Clinical Consultation and Syndrome Differentiation-Based Treatment | JingFang: Ein sachverständiges Sprachmodell für die traditionelle chinesische Medizin Klinische Beratung und Syndromdifferenzierungsbasierte Behandlung | JingFang:中国传统医学临床咨询和综合症差别治疗专家级大语言模式 [2502.04345v2](http://arxiv.org/abs/2502.04345v2)
 
 **Authors**: Yehan Yang, Tianhao Ma, Ruotai Li, Xinhan Zheng, Guodong Shan, Chisheng Li
@@ -12216,6 +13301,7 @@ The effective application of traditional Chinese medicine (TCM) requires extensi
 
 ## Article 1085
 ### Title@2025-05-26 (1): Identifying Knowledge Editing Types in Large Language Models
+
 **Title**: Identifying Knowledge Editing Types in Large Language Models | Identifikation von Wissensbearbeitungstypen in großen Sprachmodellen | 确定大语言模式中的知识编辑类型 [2409.19663v3](http://arxiv.org/abs/2409.19663v3)
 
 **Authors**: Xiaopeng Li, Shasha Li, Shangwen Wang, Shezheng Song, Bin Ji, Huijun Liu, Jun Ma, Jie Yu
@@ -12226,6 +13312,7 @@ Knowledge editing has emerged as an efficient technique for updating the knowled
 
 ## Article 1086
 ### Title@2025-05-26 (1): Belief Attribution as Mental Explanation: The Role of Accuracy,   Informativity, and Causality
+
 **Title**: Belief Attribution as Mental Explanation: The Role of Accuracy,   Informativity, and Causality | Glaube Attribution als mentale Erklärung: Die Rolle der Genauigkeit, Informatizität und Kausalität | 信仰归属作为精神解释:准确性、信息化和因果关系的作用 [2505.19376v1](http://arxiv.org/abs/2505.19376v1)
 
 **Authors**: Lance Ying, Almog Hillel, Ryan Truong, Vikash K. Mansinghka, Joshua B. Tenenbaum, Tan Zhi-Xuan
@@ -12236,6 +13323,7 @@ A key feature of human theory-of-mind is the ability to attribute beliefs to oth
 
 ## Article 1087
 ### Title@2025-05-26 (1): MOSAIC: Modeling Social AI for Content Dissemination and Regulation in   Multi-Agent Simulations
+
 **Title**: MOSAIC: Modeling Social AI for Content Dissemination and Regulation in   Multi-Agent Simulations | MOSAIC: Modellierung sozialer KI für die Verbreitung von Inhalten und Regulierung in Multi-Agent-Simulationen | MOSAIC:多机构模拟中内容传播和监管模拟社会AI [2504.07830v2](http://arxiv.org/abs/2504.07830v2)
 
 **Authors**: Genglin Liu, Vivian Le, Salman Rahman, Elisa Kreiss, Marzyeh Ghassemi, Saadia Gabriel
@@ -12246,6 +13334,7 @@ We present a novel, open-source social network simulation framework, MOSAIC, whe
 
 ## Article 1088
 ### Title@2025-05-25 (7): ChartLens: Fine-grained Visual Attribution in Charts
+
 **Title**: ChartLens: Fine-grained Visual Attribution in Charts | ChartLens: Feinkörnige visuelle Zuordnung in Charts | 图表边:图表中精细的可视属性 [2505.19360v1](http://arxiv.org/abs/2505.19360v1)
 
 **Authors**: Manan Suri, Puneet Mathur, Nedim Lipka, Franck Dernoncourt, Ryan A. Rossi, Dinesh Manocha
@@ -12256,6 +13345,7 @@ The growing capabilities of multimodal large language models (MLLMs) have advanc
 
 ## Article 1089
 ### Title@2025-05-25 (7): Optimized Text Embedding Models and Benchmarks for Amharic Passage   Retrieval
+
 **Title**: Optimized Text Embedding Models and Benchmarks for Amharic Passage   Retrieval | Optimierte Text-Embedding-Modelle und Benchmarks für die Amharische Passage Retrieval | 阿姆光通过通过检索的最佳文本嵌入模型和基准 [2505.19356v1](http://arxiv.org/abs/2505.19356v1)
 
 **Authors**: Kidist Amde Mekonnen, Yosef Worku Alemneh, Maarten de Rijke
@@ -12266,6 +13356,7 @@ Neural retrieval methods using transformer-based pre-trained language models hav
 
 ## Article 1090
 ### Title@2025-05-25 (7): Estimating Online Influence Needs Causal Modeling! Counterfactual   Analysis of Social Media Engagement
+
 **Title**: Estimating Online Influence Needs Causal Modeling! Counterfactual   Analysis of Social Media Engagement | Schätzung des Online-Einflusses braucht kausale Modellierung! Gegenfaktische Analyse von Social Media Engagement | 估计在线影响需求因果建模:反事实分析社会媒体参与 [2505.19355v1](http://arxiv.org/abs/2505.19355v1)
 
 **Authors**: Lin Tian, Marian-Andrei Rizoiu
@@ -12276,6 +13367,7 @@ Understanding true influence in social media requires distinguishing correlation
 
 ## Article 1091
 ### Title@2025-05-25 (7): Date Fragments: A Hidden Bottleneck of Tokenization for Temporal   Reasoning
+
 **Title**: Date Fragments: A Hidden Bottleneck of Tokenization for Temporal   Reasoning | Datumsfragmente: Ein versteckter Engpass an Tokenisierung für zeitliche Vernunft | 日期碎片: 用于时间原因的 托肯化的隐藏瓶头 [2505.16088v2](http://arxiv.org/abs/2505.16088v2)
 
 **Authors**: Gagan Bhatia, Maxime Peyrard, Wei Zhao
@@ -12286,6 +13378,7 @@ Modern BPE tokenizers often split calendar dates into meaningless fragments, e.g
 
 ## Article 1092
 ### Title@2025-05-25 (7): GC-KBVQA: A New Four-Stage Framework for Enhancing Knowledge Based   Visual Question Answering Performance
+
 **Title**: GC-KBVQA: A New Four-Stage Framework for Enhancing Knowledge Based   Visual Question Answering Performance | GC-KBVQA: Ein neues Vier-Stufen-Framework zur Verbesserung der wissensbasierten visuellen Frageantwortleistung | GC-KKBVQA:加强基于知识的视觉回答问题业绩的四步新框架 [2505.19354v1](http://arxiv.org/abs/2505.19354v1)
 
 **Authors**: Mohammad Mahdi Moradi, Sudhir Mudur
@@ -12296,6 +13389,7 @@ Knowledge-Based Visual Question Answering (KB-VQA) methods focus on tasks that d
 
 ## Article 1093
 ### Title@2025-05-25 (7): Optimizing Decomposition for Optimal Claim Verification
+
 **Title**: Optimizing Decomposition for Optimal Claim Verification | Optimierung der Zersetzung für eine optimale Prüfung des Anspruchs | 优化最佳索赔核实的分解 [2503.15354v2](http://arxiv.org/abs/2503.15354v2)
 
 **Authors**: Yining Lu, Noah Ziems, Hy Dang, Meng Jiang
@@ -12306,6 +13400,7 @@ Current research on the \textit{Decompose-Then-Verify} paradigm for evaluating t
 
 ## Article 1094
 ### Title@2025-05-25 (7): Architectures of Error: A Philosophical Inquiry into AI and Human Code   Generation
+
 **Title**: Architectures of Error: A Philosophical Inquiry into AI and Human Code   Generation | Architekturen des Irrtums: Eine philosophische Untersuchung der KI- und menschlichen Code-Generation | 错误结构结构:对大赦国际和人类代码生成的哲学调查 [2505.19353v1](http://arxiv.org/abs/2505.19353v1)
 
 **Authors**: Camilo Chacón Sartori
@@ -12316,6 +13411,7 @@ With the rise of generative AI (GenAI), Large Language Models are increasingly e
 
 ## Article 1095
 ### Title@2025-05-25 (7): PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims
+
 **Title**: PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims | PatentScore: Mehrdimensionale Bewertung von LLM-generierten Patentansprüchen | 专利核心:对LLM-专利专利权主张的多维评价 [2505.19345v1](http://arxiv.org/abs/2505.19345v1)
 
 **Authors**: Yongmin Yoo, Qiongkai Xu, Longbing Cao
@@ -12326,6 +13422,7 @@ Natural language generation (NLG) metrics play a central role in evaluating gene
 
 ## Article 1096
 ### Title@2025-05-25 (7): LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from   EHRs
+
 **Title**: LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from   EHRs | LLM-basiertes Prompt-Ensemble für zuverlässige medizinische Entitätserkennung von EHRs | 以LLM为基础,从EHRs为可靠医疗实体识别而迅速加入 [2505.08704v2](http://arxiv.org/abs/2505.08704v2)
 
 **Authors**: K M Sajjadul Islam, Ayesha Siddika Nipu, Jiawei Wu, Praveen Madiraju
@@ -12336,6 +13433,7 @@ Electronic Health Records (EHRs) are digital records of patient information, oft
 
 ## Article 1097
 ### Title@2025-05-25 (7): Regress, Don't Guess -- A Regression-like Loss on Number Tokens for   Language Models
+
 **Title**: Regress, Don't Guess -- A Regression-like Loss on Number Tokens for   Language Models | Regress, nicht raten -- Ein Rückschritt-ähnlicher Verlust an Zahlenzeichen für Sprachmodelle | Regress, don't guess - 语言模型数字调的回归式损失 [2411.02083v2](http://arxiv.org/abs/2411.02083v2)
 
 **Authors**: Jonas Zausinger, Lars Pennig, Anamarija Kozina, Sean Sdahl, Julian Sikora, Adrian Dendorfer, Timofey Kuznetsov, Mohamad Hagog, Nina Wiedemann, Kacper Chlodny, Vincent Limbach, Anna Ketteler, Thorben Prein, Vishwa Mohan Singh, Michael Morris Danziger, Jannis Born
@@ -12346,6 +13444,7 @@ While language models have exceptional capabilities at text generation, they lac
 
 ## Article 1098
 ### Title@2025-05-25 (7): Are Transformers Able to Reason by Connecting Separated Knowledge in   Training Data?
+
 **Title**: Are Transformers Able to Reason by Connecting Separated Knowledge in   Training Data? | Sind Transformer durch die Verbindung getrennter Kenntnisse in Trainingsdaten in der Lage, Vernunft zu erreichen? | 将培训数据方面的单独知识连接起来的变换者是否具有理性? [2501.15857v6](http://arxiv.org/abs/2501.15857v6)
 
 **Authors**: Yutong Yin, Zhaoran Wang
@@ -12356,6 +13455,7 @@ Humans exhibit remarkable compositional reasoning by integrating knowledge from 
 
 ## Article 1099
 ### Title@2025-05-25 (7): Patent-CR: A Dataset for Patent Claim Revision
+
 **Title**: Patent-CR: A Dataset for Patent Claim Revision | Patent-CR: Ein Datensatz für Patentanspruchsrevision | 专利专利权:专利权索赔修订数据集 [2412.02549v2](http://arxiv.org/abs/2412.02549v2)
 
 **Authors**: Lekang Jiang, Pascal A Scherz, Stephan Goetz
@@ -12366,6 +13466,7 @@ This paper presents Patent-CR, the first dataset created for the patent claim re
 
 ## Article 1100
 ### Title@2025-05-25 (7): ODIN: A NL2SQL Recommender to Handle Schema Ambiguity
+
 **Title**: ODIN: A NL2SQL Recommender to Handle Schema Ambiguity | ODIN: Ein NL2SQL-Empfänger zum Umgang mit Schema-Ambiguität | ODIN: 处理 Schema 模糊性的NL2SQL建议 [2505.19302v1](http://arxiv.org/abs/2505.19302v1)
 
 **Authors**: Kapil Vaidya, Abishek Sankararaman, Jialin Ding, Chuan Lei, Xiao Qin, Balakrishnan Narayanaswamy, Tim Kraska
@@ -12376,6 +13477,7 @@ NL2SQL (natural language to SQL) systems translate natural language into SQL que
 
 ## Article 1101
 ### Title@2025-05-25 (7): SituatedThinker: Grounding LLM Reasoning with Real-World through   Situated Thinking
+
 **Title**: SituatedThinker: Grounding LLM Reasoning with Real-World through   Situated Thinking | RituatedThinker: LLM-Grundlegung mit Real-World durch Rituated Thinking | 地势感知者:通过地势思维将LLM定位在现实世界中 [2505.19300v1](http://arxiv.org/abs/2505.19300v1)
 
 **Authors**: Junnan Liu, Linhao Luo, Thuy-Trang Vu, Gholamreza Haffari
@@ -12386,6 +13488,7 @@ Recent advances in large language models (LLMs) demonstrate their impressive rea
 
 ## Article 1102
 ### Title@2025-05-25 (7): Can Large Language Models Generate High-quality Patent Claims?
+
 **Title**: Can Large Language Models Generate High-quality Patent Claims? | Können große Sprachmodelle hochwertige Patentansprüche generieren? | 大语言模型能否产生高质量的专利索赔? [2406.19465v3](http://arxiv.org/abs/2406.19465v3)
 
 **Authors**: Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz
@@ -12396,6 +13499,7 @@ Large language models (LLMs) have shown exceptional performance across various t
 
 ## Article 1103
 ### Title@2025-05-25 (7): Not-Just-Scaling Laws: Towards a Better Understanding of the Downstream   Impact of Language Model Design Decisions
+
 **Title**: Not-Just-Scaling Laws: Towards a Better Understanding of the Downstream   Impact of Language Model Design Decisions | Nicht-Just-Scaling-Gesetze: Auf dem Weg zu einem besseren Verständnis der Auswirkungen von Sprachmodellgestaltungsentscheidungen | 《非公正衡量法律:更好地了解语言设计示范设计决定下游影响》 [2503.03862v2](http://arxiv.org/abs/2503.03862v2)
 
 **Authors**: Emmy Liu, Amanda Bertsch, Lintang Sutawika, Lindia Tjuatja, Patrick Fernandes, Lara Marinov, Michael Chen, Shreya Singhal, Carolin Lawrence, Aditi Raghunathan, Kiril Gashteovski, Graham Neubig
@@ -12406,6 +13510,7 @@ Improvements in language model capabilities are often attributed to increasing m
 
 ## Article 1104
 ### Title@2025-05-25 (7): A Necessary Step toward Faithfulness: Measuring and Improving   Consistency in Free-Text Explanations
+
 **Title**: A Necessary Step toward Faithfulness: Measuring and Improving   Consistency in Free-Text Explanations | Ein notwendiger Schritt zur Treue: Konsistenz in Freitexterklärungen messen und verbessern | 迈向信仰的必要步骤:衡量和增进自由解释中的一致性 [2505.19299v1](http://arxiv.org/abs/2505.19299v1)
 
 **Authors**: Lingjun Zhao, Hal Daumé III
@@ -12416,6 +13521,7 @@ Faithful free-text explanations are important to ensure transparency in high-sta
 
 ## Article 1105
 ### Title@2025-05-25 (7): Prompting is Not All You Need! Evaluating LLM Agent Simulation   Methodologies with Real-World Online Customer Behavior Data
+
 **Title**: Prompting is Not All You Need! Evaluating LLM Agent Simulation   Methodologies with Real-World Online Customer Behavior Data | Prompting ist nicht alles, was Sie brauchen! Bewertung LLM Agent Simulation Methoden mit Real-World Online Kunden Verhalten Daten | 提示并非你所需要的全部! 使用真实世界在线客户行为数据评估LLM代理模拟方法 [2503.20749v5](http://arxiv.org/abs/2503.20749v5)
 
 **Authors**: Yuxuan Lu, Jing Huang, Yan Han, Bingsheng Yao, Sisong Bei, Jiri Gesi, Yaochen Xie, Zheshen, Wang, Qi He, Dakuo Wang
@@ -12426,6 +13532,7 @@ Recent research shows that LLMs can simulate ``believable'' human behaviors to p
 
 ## Article 1106
 ### Title@2025-05-25 (7): Towards Reliable Large Audio Language Model
+
 **Title**: Towards Reliable Large Audio Language Model | Zuverlässiges großes Audio-Sprachenmodell | 努力实现可靠的大型音频语言模式 [2505.19294v1](http://arxiv.org/abs/2505.19294v1)
 
 **Authors**: Ziyang Ma, Xiquan Li, Yakun Song, Wenxi Chen, Chenpeng Du, Jian Wu, Yuanzhe Chen, Zhuo Chen, Yuping Wang, Yuxuan Wang, Xie Chen
@@ -12436,6 +13543,7 @@ Recent advancements in large audio language models (LALMs) have demonstrated imp
 
 ## Article 1107
 ### Title@2025-05-25 (7): 100-LongBench: Are de facto Long-Context Benchmarks Literally Evaluating   Long-Context Ability?
+
 **Title**: 100-LongBench: Are de facto Long-Context Benchmarks Literally Evaluating   Long-Context Ability? | 100-LongBench: Sind de facto Long-Context-Benchmarks wortwörtlich die Lang-Context-Fähigkeit zu bewerten? | 100-LongBench:事实上的长文本基准是否实际评价长文本能力? [2505.19293v1](http://arxiv.org/abs/2505.19293v1)
 
 **Authors**: Wang Yang, Hongye Jin, Shaochen Zhong, Song Jiang, Qifan Wang, Vipin Chaudhary, Xiaotian Han
@@ -12446,6 +13554,7 @@ Long-context capability is considered one of the most important abilities of LLM
 
 ## Article 1108
 ### Title@2025-05-25 (7): Balancing Truthfulness and Informativeness with Uncertainty-Aware   Instruction Fine-Tuning
+
 **Title**: Balancing Truthfulness and Informativeness with Uncertainty-Aware   Instruction Fine-Tuning | Ausbalancieren von Wahrhaftigkeit und Aufklärung mit unsicherer Anleitung Feintuning | 平衡真实和知情与不确定性软件指示 [2502.11962v2](http://arxiv.org/abs/2502.11962v2)
 
 **Authors**: Tianyi Wu, Jingwei Ni, Bryan Hooi, Jiaheng Zhang, Elliott Ash, See-Kiong Ng, Mrinmaya Sachan, Markus Leippold
@@ -12456,6 +13565,7 @@ Instruction fine-tuning (IFT) can increase the informativeness of large language
 
 ## Article 1109
 ### Title@2025-05-25 (7): Next Token Prediction Is a Dead End for Creativity
+
 **Title**: Next Token Prediction Is a Dead End for Creativity | Nächster Token Prediction ist ein totes Ende für Kreativität | 下个 Tok 预测是创造性的死胡同 [2505.19277v1](http://arxiv.org/abs/2505.19277v1)
 
 **Authors**: Ibukun Olatunji, Mark Sheppard
@@ -12466,6 +13576,7 @@ This paper argues that token prediction is fundamentally misaligned with real cr
 
 ## Article 1110
 ### Title@2025-05-25 (7): TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM   Theorem Understanding
+
 **Title**: TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM   Theorem Understanding | TheoremExplainAgent: Auf dem Weg zu videobasierten multimodalen Erklärungen für LLM-Theorem-Verständnis | 理论专家:争取为LLM理论理解提供基于视频的多式解释 [2502.19400v2](http://arxiv.org/abs/2502.19400v2)
 
 **Authors**: Max Ku, Thomas Chong, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen
@@ -12476,6 +13587,7 @@ Understanding domain-specific theorems often requires more than just text-based 
 
 ## Article 1111
 ### Title@2025-05-25 (7): A Personalized Conversational Benchmark: Towards Simulating Personalized   Conversations
+
 **Title**: A Personalized Conversational Benchmark: Towards Simulating Personalized   Conversations | Ein individueller Gesprächs-Benchmark: Auf dem Weg zur Simulation personalisierter Gespräche | 个人对话基准:模拟个人对话 [2505.14106v2](http://arxiv.org/abs/2505.14106v2)
 
 **Authors**: Li Li, Peilin Cai, Ryan A. Rossi, Franck Dernoncourt, Branislav Kveton, Junda Wu, Tong Yu, Linxin Song, Tiankai Yang, Yuehan Qin, Nesreen K. Ahmed, Samyadeep Basu, Subhojyoti Mukherjee, Ruiyi Zhang, Zhengmian Hu, Bo Ni, Yuxiao Zhou, Zichao Wang, Yue Huang, Yu Wang, Xiangliang Zhang, Philip S. Yu, Xiyang Hu, Yue Zhao
@@ -12486,6 +13598,7 @@ We present PersonaConvBench, a large-scale benchmark for evaluating personalized
 
 ## Article 1112
 ### Title@2025-05-25 (7): Unveiling Dual Quality in Product Reviews: An NLP-Based Approach
+
 **Title**: Unveiling Dual Quality in Product Reviews: An NLP-Based Approach | Enthüllung von Dual Quality in Produktbewertungen: Ein NLP-basierter Ansatz | 产品审查中不固定的双重质量:基于NLP的方法 [2505.19254v1](http://arxiv.org/abs/2505.19254v1)
 
 **Authors**: Rafał Poświata, Marcin Michał Mirończuk, Sławomir Dadas, Małgorzata Grębowiec, Michał Perełkiewicz
@@ -12496,6 +13609,7 @@ Consumers often face inconsistent product quality, particularly when identical p
 
 ## Article 1113
 ### Title@2025-05-25 (7): Do Vision-Language Models Really Understand Visual Language?
+
 **Title**: Do Vision-Language Models Really Understand Visual Language? | Verstehen Vision-Language-Modelle wirklich visuelle Sprache? | 视觉语言模型真的理解视觉语言吗? [2410.00193v3](http://arxiv.org/abs/2410.00193v3)
 
 **Authors**: Yifan Hou, Buse Giledereli, Yilei Tu, Mrinmaya Sachan
@@ -12506,6 +13620,7 @@ Visual language is a system of communication that conveys information through sy
 
 ## Article 1114
 ### Title@2025-05-25 (7): Rethinking Chain-of-Thought from the Perspective of Self-Training
+
 **Title**: Rethinking Chain-of-Thought from the Perspective of Self-Training | Überdenken der Gedankenkette aus der Perspektive des Selbst-Trainings | 从自我培训的角度重新思考一系列问题 [2412.10827v4](http://arxiv.org/abs/2412.10827v4)
 
 **Authors**: Zongqian Wu, Baoduo Xu, Ruochen Cui, Mengmeng Zhan, Xiaofeng Zhu, Lei Feng
@@ -12516,6 +13631,7 @@ Chain-of-thought (CoT) reasoning has emerged as an effective approach for activa
 
 ## Article 1115
 ### Title@2025-05-25 (7): PATS: Process-Level Adaptive Thinking Mode Switching
+
 **Title**: PATS: Process-Level Adaptive Thinking Mode Switching | PATS: Prozess-Level-Adaptive-Denkmodus-Umschaltung | PATT: 进程层面适应性思维模式转换 [2505.19250v1](http://arxiv.org/abs/2505.19250v1)
 
 **Authors**: Yi Wang, Junxiao Liu, Shimao Zhang, Jiajun Chen, Shujian Huang
@@ -12526,6 +13642,7 @@ Current large-language models (LLMs) typically adopt a fixed reasoning strategy,
 
 ## Article 1116
 ### Title@2025-05-25 (7): ComparisonQA: Evaluating Factuality Robustness of LLMs Through Knowledge   Frequency Control and Uncertainty
+
 **Title**: ComparisonQA: Evaluating Factuality Robustness of LLMs Through Knowledge   Frequency Control and Uncertainty | VergleichQA: Bewertung der Faktizität Robustheit von LLMs durch Wissensfrequenzkontrolle und Unsicherheit | 比较QA:通过知识频率控制和不确定性评估LLMs的实际情况 [2412.20251v2](http://arxiv.org/abs/2412.20251v2)
 
 **Authors**: Qing Zong, Zhaowei Wang, Tianshi Zheng, Xiyu Ren, Yangqiu Song
@@ -12536,6 +13653,7 @@ The rapid development of LLMs has sparked extensive research into their factual 
 
 ## Article 1117
 ### Title@2025-05-25 (7): LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large   Language Models
+
 **Title**: LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large   Language Models | LLLMs: Eine datengestützte Untersuchung der sich entwickelnden Forschung über Grenzen großer Sprachmodelle | LLLMs:关于大语言模式限制的不断发展的研究数据驱动调查 [2505.19240v1](http://arxiv.org/abs/2505.19240v1)
 
 **Authors**: Aida Kostikova, Zhipin Wang, Deidamea Bajri, Ole Pütz, Benjamin Paaßen, Steffen Eger
@@ -12546,6 +13664,7 @@ Large language model (LLM) research has grown rapidly, along with increasing con
 
 ## Article 1118
 ### Title@2025-05-25 (7): Evaluating Text Creativity across Diverse Domains: A Dataset and Large   Language Model Evaluator
+
 **Title**: Evaluating Text Creativity across Diverse Domains: A Dataset and Large   Language Model Evaluator | Bewertung der Textkreativität über verschiedene Domänen: Ein Datensatz und großer Sprachmodell-Evaluator | 评价跨不同域域的文本创造性:数据集和大语言模式评价员 [2505.19236v1](http://arxiv.org/abs/2505.19236v1)
 
 **Authors**: Qian Cao, Xiting Wang, Yuzhuo Yuan, Yahui Liu, Fang Luo, Ruihua Song
@@ -12556,6 +13675,7 @@ Creativity evaluation remains a challenging frontier for large language models (
 
 ## Article 1119
 ### Title@2025-05-25 (7): Toward Reliable Ad-hoc Scientific Information Extraction: A Case Study   on Two Materials Datasets
+
 **Title**: Toward Reliable Ad-hoc Scientific Information Extraction: A Case Study   on Two Materials Datasets | Zuverlässige Ad-hoc-Wissenschaftliche Informationsextraktion: Eine Fallstudie zu zwei Materialdatensätzen | 争取实现可靠的特设科学信息提取:关于两个材料数据集的个案研究 [2406.05348v3](http://arxiv.org/abs/2406.05348v3)
 
 **Authors**: Satanu Ghosh, Neal R. Brodnik, Carolina Frey, Collin Holgate, Tresa M. Pollock, Samantha Daly, Samuel Carton
@@ -12566,6 +13686,7 @@ We explore the ability of GPT-4 to perform ad-hoc schema based information extra
 
 ## Article 1120
 ### Title@2025-05-25 (7): VerifyBench: Benchmarking Reference-based Reward Systems for Large   Language Models
+
 **Title**: VerifyBench: Benchmarking Reference-based Reward Systems for Large   Language Models | VerifyBench: Benchmarking Referenzbasierte Prämiensysteme für große Sprachmodelle | 核查时间:大语言模式基准参考奖励制度基准 [2505.15801v2](http://arxiv.org/abs/2505.15801v2)
 
 **Authors**: Yuchen Yan, Jin Jiang, Zhenbang Ren, Yijun Li, Xudong Cai, Yang Liu, Xin Xu, Mengdi Zhang, Jian Shao, Yongliang Shen, Jun Xiao, Yueting Zhuang
@@ -12576,6 +13697,7 @@ Large reasoning models such as OpenAI o1 and DeepSeek-R1 have achieved remarkabl
 
 ## Article 1121
 ### Title@2025-05-25 (7): GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal   Graph Modeling
+
 **Title**: GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal   Graph Modeling | GUARDIAN: LLM-Multiagent-Kollaborationen mit zeitlicher Graphenmodellierung sichern | GUARDIAN: 保护LLM 多机构协作与时间图建模 [2505.19234v1](http://arxiv.org/abs/2505.19234v1)
 
 **Authors**: Jialong Zhou, Lichao Wang, Xiao Yang
@@ -12586,6 +13708,7 @@ The emergence of large language models (LLMs) enables the development of intelli
 
 ## Article 1122
 ### Title@2025-05-25 (7): Language Models, Graph Searching, and Supervision Adulteration: When   More Supervision is Less and How to Make More More
+
 **Title**: Language Models, Graph Searching, and Supervision Adulteration: When   More Supervision is Less and How to Make More More | Sprachmodelle, Graph Searching und Überwachung Ehebruch: Wenn mehr Aufsicht weniger ist und wie man mehr macht | 语言模式、图图搜索和监督通配:越少越少监督,如何做越多 [2503.10542v3](http://arxiv.org/abs/2503.10542v3)
 
 **Authors**: Arvid Frydenlund
@@ -12596,6 +13719,7 @@ This work concerns the path-star task, a minimal example of searching over a gra
 
 ## Article 1123
 ### Title@2025-05-25 (7): The Impact of LoRA Adapters for LLMs on Clinical NLP Classification   Under Data Limitations
+
 **Title**: The Impact of LoRA Adapters for LLMs on Clinical NLP Classification   Under Data Limitations | Die Auswirkungen von LoRA-Adaptern für LLMs auf die klinische NLP-Klassifikation unter Datenbeschränkungen | LoRA适应器对LLMLMLLM对临床NLP数据限制下分类的影响 [2407.19299v2](http://arxiv.org/abs/2407.19299v2)
 
 **Authors**: Thanh-Dung Le, Ti Ti Nguyen, Vu Nguyen Ha, Symeon Chatzinotas, Philippe Jouvet, Rita Noumeir
@@ -12606,6 +13730,7 @@ Fine-tuning Large Language Models (LLMs) for clinical Natural Language Processin
 
 ## Article 1124
 ### Title@2025-05-25 (7): The Overthinker's DIET: Cutting Token Calories with DIfficulty-AwarE   Training
+
 **Title**: The Overthinker's DIET: Cutting Token Calories with DIfficulty-AwarE   Training | Das DIET des Überdenkers: Schneiden von Token Calories mit DIschwer-AwarE-Schulung | 过度思考家的DIET: 利用Difficulticry - AwarE 培训来切开托肯卡路里 [2505.19217v1](http://arxiv.org/abs/2505.19217v1)
 
 **Authors**: Weize Chen, Jiarui Yuan, Tailin Jin, Ning Ding, Huimin Chen, Zhiyuan Liu, Maosong Sun
@@ -12616,6 +13741,7 @@ Recent large language models (LLMs) exhibit impressive reasoning but often over-
 
 ## Article 1125
 ### Title@2025-05-25 (7): When Ethics and Payoffs Diverge: LLM Agents in Morally Charged Social   Dilemmas
+
 **Title**: When Ethics and Payoffs Diverge: LLM Agents in Morally Charged Social   Dilemmas | Wenn Ethik und Payoffs Diverge: LLM-Agenten in moralisch belasteten sozialen Dilemmas | 道德与报酬:道德道德与报酬:道德界的LLM代理人员充斥社会困境 [2505.19212v1](http://arxiv.org/abs/2505.19212v1)
 
 **Authors**: Steffen Backmann, David Guzman Piedrahita, Emanuel Tewolde, Rada Mihalcea, Bernhard Schölkopf, Zhijing Jin
@@ -12626,6 +13752,7 @@ Recent advances in large language models (LLMs) have enabled their use in comple
 
 ## Article 1126
 ### Title@2025-05-25 (7): Conformity in Large Language Models
+
 **Title**: Conformity in Large Language Models | Konformität in großen Sprachmodellen | 大语言模式的合规性 [2410.12428v2](http://arxiv.org/abs/2410.12428v2)
 
 **Authors**: Xiaochen Zhu, Caiqi Zhang, Tom Stafford, Nigel Collier, Andreas Vlachos
@@ -12636,6 +13763,7 @@ The conformity effect describes the tendency of individuals to align their respo
 
 ## Article 1127
 ### Title@2025-05-25 (7): Segment-Level Diffusion: A Framework for Controllable Long-Form   Generation with Diffusion Language Models
+
 **Title**: Segment-Level Diffusion: A Framework for Controllable Long-Form   Generation with Diffusion Language Models | Segment-Level Diffusion: Ein Framework für kontrollierbare Langform-Generation mit Diffusions-Sprachmodellen | 局部级传播:具有传播语言模型的可控长龄一代框架 [2412.11333v2](http://arxiv.org/abs/2412.11333v2)
 
 **Authors**: Xiaochen Zhu, Georgi Karadzhov, Chenxi Whitehouse, Andreas Vlachos
@@ -12646,6 +13774,7 @@ Diffusion models have shown promise in text generation, but often struggle with 
 
 ## Article 1128
 ### Title@2025-05-25 (7): MOOSE-Chem2: Exploring LLM Limits in Fine-Grained Scientific Hypothesis   Discovery via Hierarchical Search
+
 **Title**: MOOSE-Chem2: Exploring LLM Limits in Fine-Grained Scientific Hypothesis   Discovery via Hierarchical Search | MOOSE-Chem2: Erforschung der LLM-Grenzwerte in feinkörniger wissenschaftlicher Hypothese durch hierarchische Suche | MOOSE-Chem2:通过等级搜索探索探索精密科学假设发现时的LLM限度 [2505.19209v1](http://arxiv.org/abs/2505.19209v1)
 
 **Authors**: Zonglin Yang, Wanhao Liu, Ben Gao, Yujie Liu, Wei Li, Tong Xie, Lidong Bing, Wanli Ouyang, Erik Cambria, Dongzhan Zhou
@@ -12656,6 +13785,7 @@ Large language models (LLMs) have shown promise in automating scientific hypothe
 
 ## Article 1129
 ### Title@2025-05-25 (7): SpeakStream: Streaming Text-to-Speech with Interleaved Data
+
 **Title**: SpeakStream: Streaming Text-to-Speech with Interleaved Data | SpeakStream: Streaming von Text-zu-Speech mit interleaved Daten | 语音Stream:用断开数据流流流文本到语音 [2505.19206v1](http://arxiv.org/abs/2505.19206v1)
 
 **Authors**: Richard He Bai, Zijin Gu, Tatiana Likhomanenko, Navdeep Jaitly
@@ -12666,6 +13796,7 @@ The latency bottleneck of traditional text-to-speech (TTS) systems fundamentally
 
 ## Article 1130
 ### Title@2025-05-25 (7): Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely   Breaks Safety
+
 **Title**: Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely   Breaks Safety | Benign Proben Materie! Feinabstimmung auf Aussergewöhnliche Benign Proben stark bricht Sicherheit | 重大事件 重大事件 重大事件 安全 重大事件 重大事件 重大事件 重大事件 重大事件 [2505.06843v2](http://arxiv.org/abs/2505.06843v2)
 
 **Authors**: Zihan Guan, Mengxuan Hu, Ronghang Zhu, Sheng Li, Anil Vullikanti
@@ -12676,6 +13807,7 @@ Recent studies have uncovered a troubling vulnerability in the fine-tuning stage
 
 ## Article 1131
 ### Title@2025-05-25 (7): SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning   Trajectory Synthesis
+
 **Title**: SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning   Trajectory Synthesis | SimpleDeepSearcher: Deep Information Suche via Web-Powered Reasoning Trajektorie Synthesis | 简单深海earcher:通过网络动力理性轨迹合成寻求深度信息 [2505.16834v2](http://arxiv.org/abs/2505.16834v2)
 
 **Authors**: Shuang Sun, Huatong Song, Yuhao Wang, Ruiyang Ren, Jinhao Jiang, Junjie Zhang, Fei Bai, Jia Deng, Wayne Xin Zhao, Zheng Liu, Lei Fang, Zhongyuan Wang, Ji-Rong Wen
@@ -12686,6 +13818,7 @@ Retrieval-augmented generation (RAG) systems have advanced large language models
 
 ## Article 1132
 ### Title@2025-05-25 (7): iTool: Reinforced Fine-Tuning with Dynamic Deficiency Calibration for   Advanced Tool Use
+
 **Title**: iTool: Reinforced Fine-Tuning with Dynamic Deficiency Calibration for   Advanced Tool Use | iTool: Verstärkte Feinsteuerung mit dynamischer Kalibrierung bei fortgeschrittenem Werkzeugeinsatz | i Tool:加强先进工具使用动态缺乏度校准的精细测试 [2501.09766v4](http://arxiv.org/abs/2501.09766v4)
 
 **Authors**: Yirong Zeng, Xiao Ding, Yuxian Wang, Weiwen Liu, Wu Ning, Yutai Hou, Xu Huang, Bing Qin, Ting Liu
@@ -12696,6 +13829,7 @@ Augmenting large language models (LLMs) with external tools is a promising appro
 
 ## Article 1133
 ### Title@2025-05-25 (7): A partition cover approach to tokenization
+
 **Title**: A partition cover approach to tokenization | Eine Partition Abdeckung Ansatz tokenization | 分区覆盖模式 [2501.06246v2](http://arxiv.org/abs/2501.06246v2)
 
 **Authors**: Jia Peng Lim, Shawn Tan, Davin Choo, Hady W. Lauw
@@ -12706,6 +13840,7 @@ Tokenization is the process of encoding strings into tokens of a fixed vocabular
 
 ## Article 1134
 ### Title@2025-05-25 (7): Misleading through Inconsistency: A Benchmark for Political   Inconsistencies Detection
+
 **Title**: Misleading through Inconsistency: A Benchmark for Political   Inconsistencies Detection | Irreführung durch Inkonsistenz: Ein Maßstab für politische Inkonsistenzen | 以不一致性导致的错误领导:政治不一致调查基准 [2505.19191v1](http://arxiv.org/abs/2505.19191v1)
 
 **Authors**: Nursulu Sagimbayeva, Ruveyda Betül Bahçeci, Ingmar Weber
@@ -12716,6 +13851,7 @@ Inconsistent political statements represent a form of misinformation. They erode
 
 ## Article 1135
 ### Title@2025-05-25 (7): LIMOPro: Reasoning Refinement for Efficient and Effective Test-time   Scaling
+
 **Title**: LIMOPro: Reasoning Refinement for Efficient and Effective Test-time   Scaling | LIMOPro: Verfeinerung für effizientes und effektives Skalieren von Testzeiten | LIMOP: 为高效率和高成效测试时间的缩放而改进理由 [2505.19187v1](http://arxiv.org/abs/2505.19187v1)
 
 **Authors**: Yang Xiao, Jiashuo Wang, Ruifeng Yuan, Chunpu Xu, Kaishuai Xu, Wenjie Li, Pengfei Liu
@@ -12726,6 +13862,7 @@ Large language models (LLMs) have demonstrated remarkable reasoning capabilities
 
 ## Article 1136
 ### Title@2025-05-25 (7): Talk to Your Slides: Language-Driven Agents for Efficient Slide Editing
+
 **Title**: Talk to Your Slides: Language-Driven Agents for Efficient Slide Editing | Sprechen Sie mit Ihren Folien: Sprachgetriebene Agenten für effizientes Dia-Editing | 访问您的幻灯片: 用于高效幻灯片编辑的语言驱动器 [2505.11604v3](http://arxiv.org/abs/2505.11604v3)
 
 **Authors**: Kyudan Jung, Hojun Cho, Jooyeol Yun, Soyoung Yang, Jaehyeok Jang, Jaegul Choo
@@ -12736,6 +13873,7 @@ Editing presentation slides remains one of the most common and time-consuming ta
 
 ## Article 1137
 ### Title@2025-05-25 (7): DiTAR: Diffusion Transformer Autoregressive Modeling for Speech   Generation
+
 **Title**: DiTAR: Diffusion Transformer Autoregressive Modeling for Speech   Generation | DiTAR: Diffusion Transformer Autoregressive Modellierung für Sprachgenerierung | DITAR: 发声的传播变异器自动递减模型 [2502.03930v3](http://arxiv.org/abs/2502.03930v3)
 
 **Authors**: Dongya Jia, Zhuo Chen, Jiawei Chen, Chenpeng Du, Jian Wu, Jian Cong, Xiaobin Zhuang, Chumin Li, Zhen Wei, Yuping Wang, Yuxuan Wang
@@ -12746,6 +13884,7 @@ Several recent studies have attempted to autoregressively generate continuous sp
 
 ## Article 1138
 ### Title@2025-05-25 (7): Position: Enough of Scaling LLMs! Lets Focus on Downscaling
+
 **Title**: Position: Enough of Scaling LLMs! Lets Focus on Downscaling | Position: Genug von Scaling LLMs! Konzentriert sich auf Downscaling | 位置: 缩放 LLM 已经足够! 让我们集中关注缩放缩放 [2505.00985v3](http://arxiv.org/abs/2505.00985v3)
 
 **Authors**: Yash Goel, Ayan Sengupta, Tanmoy Chakraborty
@@ -12756,6 +13895,7 @@ We challenge the dominant focus on neural scaling laws and advocate for a paradi
 
 ## Article 1139
 ### Title@2025-05-25 (7): Scaling Reasoning, Losing Control: Evaluating Instruction Following in   Large Reasoning Models
+
 **Title**: Scaling Reasoning, Losing Control: Evaluating Instruction Following in   Large Reasoning Models | Scaling Reasoning, Losing Control: Bewertung von Instruktionen in großen Reasoning-Modellen | 扩大理由、减少控制:根据大理由模型评价指示 [2505.14810v2](http://arxiv.org/abs/2505.14810v2)
 
 **Authors**: Tingchen Fu, Jiawei Gu, Yafu Li, Xiaoye Qu, Yu Cheng
@@ -12766,6 +13906,7 @@ Instruction-following is essential for aligning large language models (LLMs) wit
 
 ## Article 1140
 ### Title@2025-05-25 (7): Assistant-Guided Mitigation of Teacher Preference Bias in LLM-as-a-Judge
+
 **Title**: Assistant-Guided Mitigation of Teacher Preference Bias in LLM-as-a-Judge | Assistant-Guided Milderung von Lehrerpräferenz Bias in LLM-as-a-Richter | 助理辅导减轻在LLM-as-a法官中偏爱比阿斯的教师偏爱 [2505.19176v1](http://arxiv.org/abs/2505.19176v1)
 
 **Authors**: Zhuo Liu, Moxin Li, Xun Deng, Qifan Wang, Fuli Feng
@@ -12776,6 +13917,7 @@ LLM-as-a-Judge employs large language models (LLMs), such as GPT-4, to evaluate 
 
 ## Article 1141
 ### Title@2025-05-25 (7): Mixture of Lookup Experts
+
 **Title**: Mixture of Lookup Experts | Mischung von Lookup-Experten | 查找专家混合 [2503.15798v2](http://arxiv.org/abs/2503.15798v2)
 
 **Authors**: Shibo Jie, Yehui Tang, Kai Han, Yitong Li, Duyu Tang, Zhi-Hong Deng, Yunhe Wang
@@ -12786,6 +13928,7 @@ Mixture-of-Experts (MoE) activates only a subset of experts during inference, al
 
 ## Article 1142
 ### Title@2025-05-25 (7): SpokenNativQA: Multilingual Everyday Spoken Queries for LLMs
+
 **Title**: SpokenNativQA: Multilingual Everyday Spoken Queries for LLMs | SpokenNativQA: Mehrsprachige Alltagsfragen für LLMs | SpokenNativQA: 每天多语种为LLM 询问 [2505.19163v1](http://arxiv.org/abs/2505.19163v1)
 
 **Authors**: Firoj Alam, Md Arid Hasan, Shammur Absar Chowdhury
@@ -12796,6 +13939,7 @@ Large Language Models (LLMs) have demonstrated remarkable performance across var
 
 ## Article 1143
 ### Title@2025-05-25 (7): CORAL: Learning Consistent Representations across Multi-step Training   with Lighter Speculative Drafter
+
 **Title**: CORAL: Learning Consistent Representations across Multi-step Training   with Lighter Speculative Drafter | CORAL: Lerne konsistente Repräsentationen über mehrstufiges Training mit leichterem spekulativen Entwurfer | CORAL: 利用轻型投机性起草者在多阶段培训中学习一致的代表性 [2502.16880v3](http://arxiv.org/abs/2502.16880v3)
 
 **Authors**: Yepeng Weng, Dianwen Mei, Huishi Qiu, Xujie Chen, Li Liu, Jiang Tian, Zhongchao Shi
@@ -12806,6 +13950,7 @@ Speculative decoding is a powerful technique that accelerates Large Language Mod
 
 ## Article 1144
 ### Title@2025-05-25 (7): FISH-Tuning: Enhancing PEFT Methods with Fisher Information
+
 **Title**: FISH-Tuning: Enhancing PEFT Methods with Fisher Information | FISH-Tuning: Verbesserung der PEFT-Methoden mit Fisher Information | FISH-Tuning:加强渔业信息PEFT方法 [2504.04050v3](http://arxiv.org/abs/2504.04050v3)
 
 **Authors**: Kang Xue, Ming Dong, Xinhui Tu, Tingting He
@@ -12816,6 +13961,7 @@ The rapid growth in the parameter size of Large Language Models (LLMs) has spurr
 
 ## Article 1145
 ### Title@2025-05-25 (7): Sparse-to-Dense: A Free Lunch for Lossless Acceleration of Video   Understanding in LLMs
+
 **Title**: Sparse-to-Dense: A Free Lunch for Lossless Acceleration of Video   Understanding in LLMs | Sparse-to-Dense: Ein kostenloses Mittagessen für verlustfreies Beschleunigen des Videoverständnisses in LLMs | 简单到感:免费午餐,促进无损失地加速视频理解,LLMM [2505.19155v1](http://arxiv.org/abs/2505.19155v1)
 
 **Authors**: Xuan Zhang, Cunxiao Du, Sicheng Yu, Jiawei Wu, Fengzhuo Zhang, Wei Gao, Qian Liu
@@ -12826,6 +13972,7 @@ Due to the auto-regressive nature of current video large language models (Video-
 
 ## Article 1146
 ### Title@2025-05-25 (7): Speech-FT: Merging Pre-trained And Fine-Tuned Speech Representation   Models For Cross-Task Generalization
+
 **Title**: Speech-FT: Merging Pre-trained And Fine-Tuned Speech Representation   Models For Cross-Task Generalization | Speech-FT: Zusammenführen vortrainierter und fein abgestimmter Sprachdarstellungsmodelle für Cross-Task-Verallgemeinerung | 演讲-TF: 合并的预先培训和经过精练发言代表模式,供跨任务一般化使用 [2502.12672v2](http://arxiv.org/abs/2502.12672v2)
 
 **Authors**: Tzu-Quan Lin, Wei-Ping Huang, Hao Tang, Hung-yi Lee
@@ -12836,6 +13983,7 @@ Fine-tuning speech representation models can enhance performance on specific tas
 
 ## Article 1147
 ### Title@2025-05-25 (7): Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel   Tool Invocation
+
 **Title**: Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel   Tool Invocation | Divide-Then-Aggregat: Eine effiziente Tool-Learning-Methode über parallele Tool-Invokation | 分离后生成工具:通过平行工具使用使用效率高的工具学习方法 [2501.12432v2](http://arxiv.org/abs/2501.12432v2)
 
 **Authors**: Dongsheng Zhu, Weixian Shi, Zhengliang Shi, Zhaochun Ren, Shuaiqiang Wang, Lingyong Yan, Dawei Yin
@@ -12846,6 +13994,7 @@ Although current Large Language Models (LLMs) exhibit impressive capabilities, p
 
 ## Article 1148
 ### Title@2025-05-25 (7): Shifting AI Efficiency From Model-Centric to Data-Centric Compression
+
 **Title**: Shifting AI Efficiency From Model-Centric to Data-Centric Compression | Verlagerung der KI-Effizienz von der modell-zentralen zur daten-zentralen Komprimierung | 将AI效率从示范目录转向数据中心压缩 [2505.19147v1](http://arxiv.org/abs/2505.19147v1)
 
 **Authors**: Xuyang Liu, Zichen Wen, Shaobo Wang, Junjie Chen, Zhishan Tao, Yubo Wang, Xiangqi Jin, Chang Zou, Yiyu Wang, Chenfei Liao, Xu Zheng, Honggang Chen, Weijia Li, Xuming Hu, Conghui He, Linfeng Zhang
@@ -12856,6 +14005,7 @@ The rapid advancement of large language models (LLMs) and multi-modal LLMs (MLLM
 
 ## Article 1149
 ### Title@2025-05-25 (7): How Does A Text Preprocessing Pipeline Affect Ontology Syntactic   Matching?
+
 **Title**: How Does A Text Preprocessing Pipeline Affect Ontology Syntactic   Matching? | Wie wirkt sich eine Textvorverarbeitung auf die Ontologie aus? | 文本预处理管道如何影响本体学同步匹配? [2411.03962v6](http://arxiv.org/abs/2411.03962v6)
 
 **Authors**: Zhangcheng Qiang, Kerry Taylor, Weiqing Wang
@@ -12866,6 +14016,7 @@ The classic text preprocessing pipeline, comprising Tokenisation, Normalisation,
 
 ## Article 1150
 ### Title@2025-05-25 (7): Efficient Reasoning for LLMs through Speculative Chain-of-Thought
+
 **Title**: Efficient Reasoning for LLMs through Speculative Chain-of-Thought | Effiziente Begründung für LLMs durch spekulative Kette-of-Thought | 通过投机性研究链的探索,提高LLMs的效率 [2504.19095v2](http://arxiv.org/abs/2504.19095v2)
 
 **Authors**: Jikai Wang, Juntao Li, Jianye Hou, Bowen Yan, Lijun Wu, Min Zhang
@@ -12876,6 +14027,7 @@ Large reasoning language models such as OpenAI-o1 and Deepseek-R1 have recently 
 
 ## Article 1151
 ### Title@2025-05-25 (7): SeRL: Self-Play Reinforcement Learning for Large Language Models with   Limited Data
+
 **Title**: SeRL: Self-Play Reinforcement Learning for Large Language Models with   Limited Data | SERL: Selbstspiel-Verstärkungs-Lernen für große Sprachmodelle mit begrenzten Daten | SeRL: 有限数据大语言模式自我强化学习 [2505.20347v1](http://arxiv.org/abs/2505.20347v1)
 
 **Authors**: Wenkai Fang, Shunyu Liu, Yang Zhou, Kongcheng Zhang, Tongya Zheng, Kaixuan Chen, Mingli Song, Dacheng Tao
@@ -12886,6 +14038,7 @@ Recent advances have demonstrated the effectiveness of Reinforcement Learning (R
 
 ## Article 1152
 ### Title@2025-05-25 (7): Language Fusion for Parameter-Efficient Cross-lingual Transfer
+
 **Title**: Language Fusion for Parameter-Efficient Cross-lingual Transfer | Sprachfusion für Parameter-Effizient Cross-lingual Transfer | 参数有效跨语言转让语言融合 [2501.06892v2](http://arxiv.org/abs/2501.06892v2)
 
 **Authors**: Philipp Borchert, Ivan Vulić, Marie-Francine Moens, Jochen De Weerdt
@@ -12896,6 +14049,7 @@ Limited availability of multilingual text corpora for training language models o
 
 ## Article 1153
 ### Title@2025-05-25 (7): Natural Language Generation from Visual Events: Challenges and Future   Directions
+
 **Title**: Natural Language Generation from Visual Events: Challenges and Future   Directions | Natürliche Sprachgenerierung aus visuellen Veranstaltungen: Herausforderungen und Zukunftsrichtungen | 从视觉活动中产生自然语言:挑战和未来方向 [2502.13034v2](http://arxiv.org/abs/2502.13034v2)
 
 **Authors**: Aditya K Surikuchi, Raquel Fernández, Sandro Pezzelle
@@ -12906,6 +14060,7 @@ The ability to use natural language to talk about visual events is at the core o
 
 ## Article 1154
 ### Title@2025-05-25 (7): Latent-space adversarial training with post-aware calibration for   defending large language models against jailbreak attacks
+
 **Title**: Latent-space adversarial training with post-aware calibration for   defending large language models against jailbreak attacks | Latent-Space-Adversarial-Training mit post-aware Kalibrierung zur Verteidigung großer Sprachmodelle gegen Jailbreak-Angriffe | 为防御大型语言模式以防范越狱袭击而进行后天校准的后备空间对抗性培训 [2501.10639v2](http://arxiv.org/abs/2501.10639v2)
 
 **Authors**: Xin Yi, Yue Li, dongsheng Shi, Linlin Wang, Xiaoling Wang, Liang He
@@ -12916,6 +14071,7 @@ Ensuring safety alignment has become a critical requirement for large language m
 
 ## Article 1155
 ### Title@2025-05-25 (7): RetrieveAll: A Multilingual Named Entity Recognition Framework with   Large Language Models
+
 **Title**: RetrieveAll: A Multilingual Named Entity Recognition Framework with   Large Language Models | Alles abrufen: Ein mehrsprachiger, benannter Entity-Erkennungs-Rahmen mit großen Sprachmodellen | 检索全部:多语种实体识别框架,带有大语言模式 [2505.19128v1](http://arxiv.org/abs/2505.19128v1)
 
 **Authors**: Jin Zhang, Fan Gao, Linyu Li, Yongbin Yu, Xiangxiang Wang, Nyima Tashi, Gadeng Luosang
@@ -12926,6 +14082,7 @@ The rise of large language models has led to significant performance breakthroug
 
 ## Article 1156
 ### Title@2025-05-25 (7): MMATH: A Multilingual Benchmark for Mathematical Reasoning
+
 **Title**: MMATH: A Multilingual Benchmark for Mathematical Reasoning | MPATH: Mehrsprachiger Benchmark für mathematische Vernunft | MMATH: 数学理由多语种基准 [2505.19126v1](http://arxiv.org/abs/2505.19126v1)
 
 **Authors**: Wenyang Luo, Wayne Xin Zhao, Jing Sha, Shijin Wang, Ji-Rong Wen
@@ -12936,6 +14093,7 @@ The advent of large reasoning models, such as OpenAI o1 and DeepSeek R1, has sig
 
 ## Article 1157
 ### Title@2025-05-25 (7): Delving into Multilingual Ethical Bias: The MSQAD with Statistical   Hypothesis Tests for Large Language Models
+
 **Title**: Delving into Multilingual Ethical Bias: The MSQAD with Statistical   Hypothesis Tests for Large Language Models | Mehrsprachige Ethische Bias: Der MSQAD mit statistischen Hypothesentests für große Sprachmodelle | 跳入多语言伦理比喻:高语言模型统计假设测试的MSQAD [2505.19121v1](http://arxiv.org/abs/2505.19121v1)
 
 **Authors**: Seunguk Yu, Juhwan Choi, Youngbin Kim
@@ -12946,6 +14104,7 @@ Despite the recent strides in large language models, studies have underscored th
 
 ## Article 1158
 ### Title@2025-05-25 (7): Controlling Language Confusion in Multilingual LLMs
+
 **Title**: Controlling Language Confusion in Multilingual LLMs | Sprachkonfusion in mehrsprachigen LLMs kontrollieren | 多语种LMM中控制语言混杂 [2505.19116v1](http://arxiv.org/abs/2505.19116v1)
 
 **Authors**: Nahyun Lee, Yeongseo Woo, Hyunwoo Ko, Guijin Son
@@ -12956,6 +14115,7 @@ Large language models often suffer from language confusion, a phenomenon where r
 
 ## Article 1159
 ### Title@2025-05-25 (7): Is Compression Really Linear with Code Intelligence?
+
 **Title**: Is Compression Really Linear with Code Intelligence? | Ist Kompression wirklich linear mit Code Intelligence? | 压缩真的有代码情报线条吗? [2505.11441v2](http://arxiv.org/abs/2505.11441v2)
 
 **Authors**: Xianzhen Luo, Shijie Xuyang, Tianhao Cheng, Zheng Chu, Houyi Li, ziqi wang, Siming Huang, Qingfu Zhu, Qiufeng Wang, Xiangyu Zhang, Shuigeng Zhou, Wanxiang Che
@@ -12966,6 +14126,7 @@ Understanding the relationship between data compression and the capabilities of 
 
 ## Article 1160
 ### Title@2025-05-25 (7): Self-Critique Guided Iterative Reasoning for Multi-hop Question   Answering
+
 **Title**: Self-Critique Guided Iterative Reasoning for Multi-hop Question   Answering | Selbstkritische iterative Begründung für Multi-Hop-Fragebeantwortung | 多点问答问题解答自创性指导性迭代理由 [2505.19112v1](http://arxiv.org/abs/2505.19112v1)
 
 **Authors**: Zheng Chu, Huiming Fan, Jingchang Chen, Qianyu Wang, Mingda Yang, Jiafeng Liang, Zhongjie Wang, Hao Li, Guo Tang, Ming Liu, Bing Qin
@@ -12976,6 +14137,7 @@ Although large language models (LLMs) have demonstrated remarkable reasoning cap
 
 ## Article 1161
 ### Title@2025-05-25 (7): Turning Trash into Treasure: Accelerating Inference of Large Language   Models with Token Recycling
+
 **Title**: Turning Trash into Treasure: Accelerating Inference of Large Language   Models with Token Recycling | Verwandeln von Müll in Schatz: Beschleunigen von Inferenzen von großen Sprachmodellen mit Token-Recycling | 将垃圾垃圾变成宝库:加快使用 Tok 回收利用大语言模型的推论 [2408.08696v3](http://arxiv.org/abs/2408.08696v3)
 
 **Authors**: Xianzhen Luo, Yixuan Wang, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu
@@ -12986,6 +14148,7 @@ Massive parameters of LLMs have made inference latency a fundamental bottleneck.
 
 ## Article 1162
 ### Title@2025-05-25 (7): MALAMUTE: A Multilingual, Highly-granular, Template-free,   Education-based Probing Dataset
+
 **Title**: MALAMUTE: A Multilingual, Highly-granular, Template-free,   Education-based Probing Dataset | MALAMUTE: Ein multilingualer, hochgranularer, musterloser, bildungsbasierter Probing-Datensatz | 多种语文、高语种、无模版、以教育为基础的探测数据集 [2412.10105v2](http://arxiv.org/abs/2412.10105v2)
 
 **Authors**: Sagi Shaier, George Arthur Baker, Chiranthan Sridhar, Lawrence E Hunter, Katharina von der Wense
@@ -12996,6 +14159,7 @@ Language models (LMs) have excelled in various broad domains. However, to ensure
 
 ## Article 1163
 ### Title@2025-05-25 (7): CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal   Hallucinations Detection in Large Language Models
+
 **Title**: CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal   Hallucinations Detection in Large Language Models | CCHall: Ein neuartiger Benchmark für gemeinsame Cross-Lingual- und Cross-Modal Halluzinationen Detection in großen Sprachmodellen | CCHall:在大语言模型中联合跨语言和跨模式幻觉探测新基准 [2505.19108v1](http://arxiv.org/abs/2505.19108v1)
 
 **Authors**: Yongheng Zhang, Xu Liu, Ruoxi Zhou, Qiguang Chen, Hao Fei, Wenpeng Lu, Libo Qin
@@ -13006,6 +14170,7 @@ Investigating hallucination issues in large language models (LLMs) within cross-
 
 ## Article 1164
 ### Title@2025-05-25 (7): WHISTRESS: Enriching Transcriptions with Sentence Stress Detection
+
 **Title**: WHISTRESS: Enriching Transcriptions with Sentence Stress Detection | WHISTRESS: Anreicherung von Transkriptionen mit Satz-Stress-Erkennung | WHISRSES: 增加刑期压力感应检测的追踪 [2505.19103v1](http://arxiv.org/abs/2505.19103v1)
 
 **Authors**: Iddo Yosha, Dorin Shteyman, Yossi Adi
@@ -13016,6 +14181,7 @@ Spoken language conveys meaning not only through words but also through intonati
 
 ## Article 1165
 ### Title@2025-05-25 (7): ASPO: Adaptive Sentence-Level Preference Optimization for Fine-Grained   Multimodal Reasoning
+
 **Title**: ASPO: Adaptive Sentence-Level Preference Optimization for Fine-Grained   Multimodal Reasoning | ASPO: Adaptive Sentence-Level-Preference-Optimierung für eine feinkörnige multimodale Begründung | APPO: 调整性判决一级优惠优化有偿多模式理由 [2505.19100v1](http://arxiv.org/abs/2505.19100v1)
 
 **Authors**: Yeyuan Wang, Dehong Gao, Rujiao Long, Lei Yi, Linbo Jin, Libin Yang, Xiaoyan Cai
@@ -13026,6 +14192,7 @@ Direct Preference Optimization (DPO) has gained significant attention for its si
 
 ## Article 1166
 ### Title@2025-05-25 (7): AppealCase: A Dataset and Benchmark for Civil Case Appeal Scenarios
+
 **Title**: AppealCase: A Dataset and Benchmark for Civil Case Appeal Scenarios | Beschwerdesache: Ein Datensatz und Benchmark für zivilrechtliche Beschwerdeszenarien | 上诉案例:民事案件上诉设想情况数据集和基准 [2505.16514v2](http://arxiv.org/abs/2505.16514v2)
 
 **Authors**: Yuting Huang, Meitong Guo, Yiquan Wu, Ang Li, Xiaozhong Liu, Keting Yin, Changlong Sun, Fei Wu, Kun Kuang
@@ -13036,6 +14203,7 @@ Recent advances in LegalAI have primarily focused on individual case judgment an
 
 ## Article 1167
 ### Title@2025-05-25 (7): ReadBench: Measuring the Dense Text Visual Reading Ability of   Vision-Language Models
+
 **Title**: ReadBench: Measuring the Dense Text Visual Reading Ability of   Vision-Language Models | ReadBench: Vermessen der Dichte an Text Visuelle Lesefähigkeit von Vision-Sprachen-Modellen | " 阅读 " :衡量视觉-语言模型的阅读能力 [2505.19091v1](http://arxiv.org/abs/2505.19091v1)
 
 **Authors**: Benjamin Clavié, Florian Brand
@@ -13046,6 +14214,7 @@ Recent advancements in Large Vision-Language Models (VLMs), have greatly enhance
 
 ## Article 1168
 ### Title@2025-05-25 (7): Towards Harmonized Uncertainty Estimation for Large Language Models
+
 **Title**: Towards Harmonized Uncertainty Estimation for Large Language Models | Hin zu einer harmonisierten Ungewissheitsschätzung für große Sprachmodelle | 争取为大语言模式统一不确定性估算 [2505.19073v1](http://arxiv.org/abs/2505.19073v1)
 
 **Authors**: Rui Li, Jing Long, Muge Qi, Heming Xia, Lei Sha, Peiyi Wang, Zhifang Sui
@@ -13056,6 +14225,7 @@ To facilitate robust and trustworthy deployment of large language models (LLMs),
 
 ## Article 1169
 ### Title@2025-05-25 (7): Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The   Curious Case of LLMs as Your Coding Tutors
+
 **Title**: Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The   Curious Case of LLMs as Your Coding Tutors | Training Turn-by-Turn Prüfer für Dialog-Tutoring-Agenten: Der seltsame Fall von LLMs als Ihre Coding Tutoren | 对话教学代理培训转弯验证员培训:LLMs作为你的编码导师的好奇案例 [2502.13311v3](http://arxiv.org/abs/2502.13311v3)
 
 **Authors**: Jian Wang, Yinpei Dai, Yichi Zhang, Ziqiao Ma, Wenjie Li, Joyce Chai
@@ -13066,6 +14236,7 @@ Intelligent tutoring agents powered by large language models (LLMs) have been in
 
 ## Article 1170
 ### Title@2025-05-25 (7): UNCERTAINTY-LINE: Length-Invariant Estimation of Uncertainty for Large   Language Models
+
 **Title**: UNCERTAINTY-LINE: Length-Invariant Estimation of Uncertainty for Large   Language Models | UNCERTAINTY-LINE: Längeninvariante Schätzung der Unsicherheit für große Sprachmodelle | UNDES-LINE: 大语言模型不确定性的长 动 变 动 估测 [2505.19060v1](http://arxiv.org/abs/2505.19060v1)
 
 **Authors**: Roman Vashurin, Maiya Goloburda, Preslav Nakov, Maxim Panov
@@ -13076,6 +14247,7 @@ Large Language Models (LLMs) have become indispensable tools across various appl
 
 ## Article 1171
 ### Title@2025-05-25 (7): An Embarrassingly Simple Defense Against LLM Abliteration Attacks
+
 **Title**: An Embarrassingly Simple Defense Against LLM Abliteration Attacks | Eine erschreckend einfache Verteidigung gegen LLM-Abliterationsangriffe | 一种令人尴尬的简单防御 对付LLM 缩写攻击 [2505.19056v1](http://arxiv.org/abs/2505.19056v1)
 
 **Authors**: Harethah Abu Shairah, Hasan Abed Al Kader Hammoud, Bernard Ghanem, George Turkiyyah
@@ -13086,6 +14258,7 @@ Large language models (LLMs) are typically aligned to comply with safety guideli
 
 ## Article 1172
 ### Title@2025-05-25 (7): Efficient Data Selection at Scale via Influence Distillation
+
 **Title**: Efficient Data Selection at Scale via Influence Distillation | Effiziente Datenauswahl auf Scale durch Einflussdestillation | 通过影响蒸馏在规模上高效数据选择 [2505.19051v1](http://arxiv.org/abs/2505.19051v1)
 
 **Authors**: Mahdi Nikdan, Vincent Cohen-Addad, Dan Alistarh, Vahab Mirrokni
@@ -13096,6 +14269,7 @@ Effective data selection is critical for efficient training of modern Large Lang
 
 ## Article 1173
 ### Title@2025-05-25 (7): SliM-LLM: Salience-Driven Mixed-Precision Quantization for Large   Language Models
+
 **Title**: SliM-LLM: Salience-Driven Mixed-Precision Quantization for Large   Language Models | SliM-LLM: Salience-getriebene Mixed-Precision-Quantisierung für große Sprachmodelle | SliM-LLM:大语言模型的盐度驱动混合精度量 [2405.14917v2](http://arxiv.org/abs/2405.14917v2)
 
 **Authors**: Wei Huang, Haotong Qin, Yangdong Liu, Yawei Li, Qinshuo Liu, Xianglong Liu, Luca Benini, Michele Magno, Shiming Zhang, Xiaojuan Qi
@@ -13106,6 +14280,7 @@ Post-training quantization (PTQ) is an effective technique for compressing large
 
 ## Article 1174
 ### Title@2025-05-25 (7): PII-Scope: A Comprehensive Study on Training Data PII Extraction Attacks   in LLMs
+
 **Title**: PII-Scope: A Comprehensive Study on Training Data PII Extraction Attacks   in LLMs | PII-Scope: Eine umfassende Studie über Trainingsdaten PII-Extraktionsangriffe in LLMs | PII-范围:关于培训数据的综合研究 [2410.06704v2](http://arxiv.org/abs/2410.06704v2)
 
 **Authors**: Krishna Kanth Nakka, Ahmed Frikha, Ricardo Mendes, Xue Jiang, Xuebing Zhou
@@ -13116,6 +14291,7 @@ In this work, we introduce PII-Scope, a comprehensive benchmark designed to eval
 
 ## Article 1175
 ### Title@2025-05-25 (7): Domain Adaptation of Foundation LLMs for e-Commerce
+
 **Title**: Domain Adaptation of Foundation LLMs for e-Commerce | Domain-Anpassung der Stiftung LLMs für e-Commerce | 用于电子商务的 " 基础基础改造 " 领域改造 [2501.09706v3](http://arxiv.org/abs/2501.09706v3)
 
 **Authors**: Christian Herold, Michael Kozielski, Tala Bazazo, Pavel Petrushkov, Patrycja Cieplicka, Dominika Basaj, Yannick Versley, Seyyed Hadi Hashemi, Shahram Khadivi
@@ -13126,6 +14302,7 @@ We present the e-Llama models: 8 billion and 70 billion parameter large language
 
 ## Article 1176
 ### Title@2025-05-25 (7): Speech-IFEval: Evaluating Instruction-Following and Quantifying   Catastrophic Forgetting in Speech-Aware Language Models
+
 **Title**: Speech-IFEval: Evaluating Instruction-Following and Quantifying   Catastrophic Forgetting in Speech-Aware Language Models | Speech-IFEval: Bewertung von Instruktions-Following und Quantifying Katastrophic Forgetting in Speech-Aware Language Models | 语言-语言语言评估:评价在语言-语言软件模型中遵守教学和量化灾难性遗忘的情况 [2505.19037v1](http://arxiv.org/abs/2505.19037v1)
 
 **Authors**: Ke-Han Lu, Chun-Yi Kuan, Hung-yi Lee
@@ -13136,6 +14313,7 @@ We introduce Speech-IFeval, an evaluation framework designed to assess instructi
 
 ## Article 1177
 ### Title@2025-05-25 (7): DiffPO: Diffusion-styled Preference Optimization for Efficient   Inference-Time Alignment of Large Language Models
+
 **Title**: DiffPO: Diffusion-styled Preference Optimization for Efficient   Inference-Time Alignment of Large Language Models | DiffPO: Diffusion-gestylte Preference-Optimierung zur effizienten Inferenz-Zeit-Ausrichtung großer Sprachmodelle | DiffPO: 大语言模式有效推论-时间协调最佳优化 [2503.04240v3](http://arxiv.org/abs/2503.04240v3)
 
 **Authors**: Ruizhe Chen, Wenhao Chai, Zhifei Yang, Xiaotian Zhang, Joey Tianyi Zhou, Tony Quek, Soujanya Poria, Zuozhu Liu
@@ -13146,6 +14324,7 @@ Inference-time alignment provides an efficient alternative for aligning LLMs wit
 
 ## Article 1178
 ### Title@2025-05-25 (7): SQUiD: Synthesizing Relational Databases from Unstructured Text
+
 **Title**: SQUiD: Synthesizing Relational Databases from Unstructured Text | SQUiD: Synthese von relationalen Datenbanken aus unstrukturiertem Text | SQUiD: 从无结构文本中合成关系数据库 [2505.19025v1](http://arxiv.org/abs/2505.19025v1)
 
 **Authors**: Mushtari Sadia, Zhenning Yang, Yunming Xiao, Ang Chen, Amrita Roy Chowdhury
@@ -13156,6 +14335,7 @@ Relational databases are central to modern data management, yet most data exists
 
 ## Article 1179
 ### Title@2025-05-25 (7): Fractured Chain-of-Thought Reasoning
+
 **Title**: Fractured Chain-of-Thought Reasoning | Zersplitterte Kette von nachdenklichen Gründen | 断断断断断断断断断断断断的探讨链原因 [2505.12992v2](http://arxiv.org/abs/2505.12992v2)
 
 **Authors**: Baohao Liao, Hanze Dong, Yuhui Xu, Doyen Sahoo, Christof Monz, Junnan Li, Caiming Xiong
@@ -13166,6 +14346,7 @@ Inference-time scaling techniques have significantly bolstered the reasoning cap
 
 ## Article 1180
 ### Title@2025-05-25 (7): AM-Thinking-v1: Advancing the Frontier of Reasoning at 32B Scale
+
 **Title**: AM-Thinking-v1: Advancing the Frontier of Reasoning at 32B Scale | AM-Thinking-v1: Die Grenzen der Vernunft auf 32B-Skala verbessern | AM- Thinking-v1: 推进32B级的理性前沿 [2505.08311v2](http://arxiv.org/abs/2505.08311v2)
 
 **Authors**: Yunjie Ji, Xiaoyu Tian, Sitong Zhao, Haotian Wang, Shuaiting Chen, Yiping Peng, Han Zhao, Xiangang Li
@@ -13176,6 +14357,7 @@ We present AM-Thinking-v1, a 32B dense language model that advances the frontier
 
 ## Article 1181
 ### Title@2025-05-25 (7): Training Nonlinear Transformers for Chain-of-Thought Inference: A   Theoretical Generalization Analysis
+
 **Title**: Training Nonlinear Transformers for Chain-of-Thought Inference: A   Theoretical Generalization Analysis | Ausbildung nichtlinearer Transformer für den Schlussfolgerungsketten-of-Thought: Eine theoretische Generalisierungsanalyse | 培训非线性非线性变换器,用于研究链推论:理论一般分析 [2410.02167v3](http://arxiv.org/abs/2410.02167v3)
 
 **Authors**: Hongkang Li, Songtao Lu, Pin-Yu Chen, Xiaodong Cui, Meng Wang
@@ -13186,6 +14368,7 @@ Chain-of-Thought (CoT) is an efficient prompting method that enables the reasoni
 
 ## Article 1182
 ### Title@2025-05-25 (7): CrosGrpsABS: Cross-Attention over Syntactic and Semantic Graphs for   Aspect-Based Sentiment Analysis in a Low-Resource Language
+
 **Title**: CrosGrpsABS: Cross-Attention over Syntactic and Semantic Graphs for   Aspect-Based Sentiment Analysis in a Low-Resource Language | CrosGrpsABS: Cross-Attention über syntaktische und semantische Graphen zur aspektbasierten Sentimentanalyse in einer Sprache mit geringem Ressourcenbedarf | CrossGrpsABS:对用于低源语言频谱感应分析的同步和语义图的交叉注意 [2505.19018v1](http://arxiv.org/abs/2505.19018v1)
 
 **Authors**: Md. Mithun Hossain, Md. Shakil Hossain, Sudipto Chaki, Md. Rajib Hossain, Md. Saifur Rahman, A. B. M. Shawkat Ali
@@ -13196,6 +14379,7 @@ Aspect-Based Sentiment Analysis (ABSA) is a fundamental task in natural language
 
 ## Article 1183
 ### Title@2025-05-25 (7): Co-AttenDWG: Co-Attentive Dimension-Wise Gating and Expert Fusion for   Multi-Modal Offensive Content Detection
+
 **Title**: Co-AttenDWG: Co-Attentive Dimension-Wise Gating and Expert Fusion for   Multi-Modal Offensive Content Detection | Co-AttenDWG: Co-Attentive Dimension-Wise-Gating und Expertenfusion für Multi-Modal-Offensive Content Detection | 共同-DWG:多模式进攻性攻击物质探测联合加速维维维-韦兹交织和专家混合 [2505.19010v1](http://arxiv.org/abs/2505.19010v1)
 
 **Authors**: Md. Mithun Hossain, Md. Shakil Hossain, Sudipto Chaki, M. F. Mridha
@@ -13206,6 +14390,7 @@ Multi-modal learning has become a critical research area because integrating tex
 
 ## Article 1184
 ### Title@2025-05-25 (7): AAAR-1.0: Assessing AI's Potential to Assist Research
+
 **Title**: AAAR-1.0: Assessing AI's Potential to Assist Research | AAAR-1.0: Bewertung des Potenzials von KI zur Unterstützung der Forschung | AAAR-1.0:评估大赦国际协助研究的潜力 [2410.22394v4](http://arxiv.org/abs/2410.22394v4)
 
 **Authors**: Renze Lou, Hanzi Xu, Sijia Wang, Jiangshu Du, Ryo Kamoi, Xiaoxin Lu, Jian Xie, Yuxuan Sun, Yusen Zhang, Jihyun Janice Ahn, Hongchao Fang, Zhuoyang Zou, Wenchao Ma, Xi Li, Kai Zhang, Congying Xia, Lifu Huang, Wenpeng Yin
@@ -13216,6 +14401,7 @@ Numerous studies have assessed the proficiency of AI systems, particularly large
 
 ## Article 1185
 ### Title@2025-05-25 (7): VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied   Iterative Policy Optimization
+
 **Title**: VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied   Iterative Policy Optimization | VerIPO: Pflege der langen Vernunft in Video-LLMs über die iterative Politikoptimierung von Prüfern | VERIPO:通过验证和研究的迭代政策优化在视频LLMs中培养长期理由 [2505.19000v1](http://arxiv.org/abs/2505.19000v1)
 
 **Authors**: Yunxin Li, Xinyu Chen, Zitao Li, Zhenyu Liu, Longyue Wang, Wenhan Luo, Baotian Hu, Min Zhang
@@ -13226,6 +14412,7 @@ Applying Reinforcement Learning (RL) to Video Large Language Models (Video-LLMs)
 
 ## Article 1186
 ### Title@2025-05-25 (7): Visual Program Distillation with Template-Based Augmentation
+
 **Title**: Visual Program Distillation with Template-Based Augmentation | Visuelle Programmdestillation mit Template-basierter Augmentation | 利用基于模板的增量进行视觉程序蒸馏 [2412.08564v3](http://arxiv.org/abs/2412.08564v3)
 
 **Authors**: Michal Shlapentokh-Rothman, Yu-Xiong Wang, Derek Hoiem
@@ -13236,6 +14423,7 @@ Adapting visual programming or prompting large language models (LLMs) to generat
 
 ## Article 1187
 ### Title@2025-05-25 (7): FiLLM -- A Filipino-optimized Large Language Model based on Southeast   Asia Large Language Model (SEALLM)
+
 **Title**: FiLLM -- A Filipino-optimized Large Language Model based on Southeast   Asia Large Language Model (SEALLM) | FiLLM -- Ein philippinisch optimiertes Large Language Model auf Basis von Southeast Asia Large Language Model (SEALLM) | FILLM -- -- 基于东南亚大语言模型的菲律宾最佳大语言模型(SEALM) [2505.18995v1](http://arxiv.org/abs/2505.18995v1)
 
 **Authors**: Carlos Jude G. Maminta, Isaiah Job Enriquez, Deandre Nigel Nunez, Michael B. Dela Fuente
@@ -13246,6 +14434,7 @@ This study presents FiLLM, a Filipino-optimized large language model, designed t
 
 ## Article 1188
 ### Title@2025-05-25 (7): Reinforcement Learning for Reasoning in Large Language Models with One   Training Example
+
 **Title**: Reinforcement Learning for Reasoning in Large Language Models with One   Training Example | Verstärktes Lernen zur Vernunft in großen Sprachmodellen mit einem Trainingsbeispiel | 采用 " 一个培训实例 " 采用大语言模式强化学习 [2504.20571v2](http://arxiv.org/abs/2504.20571v2)
 
 **Authors**: Yiping Wang, Qing Yang, Zhiyuan Zeng, Liliang Ren, Liyuan Liu, Baolin Peng, Hao Cheng, Xuehai He, Kuan Wang, Jianfeng Gao, Weizhu Chen, Shuohang Wang, Simon Shaolei Du, Yelong Shen
@@ -13256,6 +14445,7 @@ We show that reinforcement learning with verifiable reward using one training ex
 
 ## Article 1189
 ### Title@2025-05-25 (7): LLMs know their vulnerabilities: Uncover Safety Gaps through Natural   Distribution Shifts
+
 **Title**: LLMs know their vulnerabilities: Uncover Safety Gaps through Natural   Distribution Shifts | LLMs kennen ihre Schwachstellen: Enthüllen Sie Sicherheitslücken durch natürliche Verteilungsverschiebungen | LLM女士知道他们的脆弱性:通过自然分布变化实现的未覆盖的安全差距 [2410.10700v2](http://arxiv.org/abs/2410.10700v2)
 
 **Authors**: Qibing Ren, Hao Li, Dongrui Liu, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi Yan, Lizhuang Ma, Jing Shao
@@ -13266,6 +14456,7 @@ Safety concerns in large language models (LLMs) have gained significant attentio
 
 ## Article 1190
 ### Title@2025-05-25 (7): One-for-All Pruning: A Universal Model for Customized Compression of   Large Language Models
+
 **Title**: One-for-All Pruning: A Universal Model for Customized Compression of   Large Language Models | One-for-All Pruning: Ein universelles Modell zur kundenspezifischen Kompression großer Sprachmodelle | " 一为普普普 " :大语言模式定制压缩通用模式 [2505.12216v2](http://arxiv.org/abs/2505.12216v2)
 
 **Authors**: Rongguang Ye, Ming Tang
@@ -13276,6 +14467,7 @@ Existing pruning methods for large language models (LLMs) focus on achieving hig
 
 ## Article 1191
 ### Title@2025-05-25 (7): Automated Trustworthiness Oracle Generation for Machine Learning Text   Classifiers
+
 **Title**: Automated Trustworthiness Oracle Generation for Machine Learning Text   Classifiers | Automatisierte Vertrauenswürdigkeit Oracle Generation für Machine Learning Text Klassifikatoren | 机械学习文字分类的自动可信赖性甲骨文生成 [2410.22663v4](http://arxiv.org/abs/2410.22663v4)
 
 **Authors**: Lam Nguyen Tung, Steven Cho, Xiaoning Du, Neelofar Neelofar, Valerio Terragni, Stefano Ruberto, Aldeida Aleti
@@ -13286,6 +14478,7 @@ Machine learning (ML) for text classification has been widely used in various do
 
 ## Article 1192
 ### Title@2025-05-25 (7): STRICT: Stress Test of Rendering Images Containing Text
+
 **Title**: STRICT: Stress Test of Rendering Images Containing Text | STRICT: Stresstest von Rendering-Bildern mit Text | STICT: 含有文字的图像的显示压力测试 [2505.18985v1](http://arxiv.org/abs/2505.18985v1)
 
 **Authors**: Tianyu Zhang, Xinyu Wang, Zhenghan Tai, Lu Li, Jijun Chi, Jingrui Tian, Hailin He, Suyuchen Wang
@@ -13296,6 +14489,7 @@ While diffusion models have revolutionized text-to-image generation with their a
 
 ## Article 1193
 ### Title@2025-05-25 (7): LLMScan: Causal Scan for LLM Misbehavior Detection
+
 **Title**: LLMScan: Causal Scan for LLM Misbehavior Detection | LLMScan: Kausalscan zur Erkennung von LLM-Missverhalten | LLMScan:用于LLM Misbehavavor探测的成因扫描 [2410.16638v4](http://arxiv.org/abs/2410.16638v4)
 
 **Authors**: Mengdi Zhang, Kai Kiat Goh, Peixin Zhang, Jun Sun, Rose Lin Xin, Hongyu Zhang
@@ -13306,6 +14500,7 @@ Despite the success of Large Language Models (LLMs) across various fields, their
 
 ## Article 1194
 ### Title@2025-05-25 (7): AI4Math: A Native Spanish Benchmark for University-Level Mathematical   Reasoning in Large Language Models
+
 **Title**: AI4Math: A Native Spanish Benchmark for University-Level Mathematical   Reasoning in Large Language Models | AI4Math: Ein nativer spanischer Benchmark für mathematische Grundlagenforschung auf Universitätsebene in großen Sprachmodellen | AI4Matth:关于大语言模式中大学一级数学原因的土著西班牙基准 [2505.18978v1](http://arxiv.org/abs/2505.18978v1)
 
 **Authors**: Miguel Angel Peñaloza Perez, Bruno Lopez Orozco, Jesus Tadeo Cruz Soto, Michelle Bruno Hernandez, Miguel Angel Alvarado Gonzalez, Sandra Malagon
@@ -13316,6 +14511,7 @@ Existing mathematical reasoning benchmarks are predominantly English only or tra
 
 ## Article 1195
 ### Title@2025-05-25 (7): PersuasiveToM: A Benchmark for Evaluating Machine Theory of Mind in   Persuasive Dialogues
+
 **Title**: PersuasiveToM: A Benchmark for Evaluating Machine Theory of Mind in   Persuasive Dialogues | PersuasiveToM: Ein Benchmark für die Bewertung der Maschinentheorie des Geistes in überzeugenden Dialogen | M:在有影响的对话中评价心理机器理论的基准 [2502.21017v2](http://arxiv.org/abs/2502.21017v2)
 
 **Authors**: Fangxu Yu, Lai Jiang, Shenyi Huang, Zhen Wu, Xinyu Dai
@@ -13326,6 +14522,7 @@ The ability to understand and predict the mental states of oneself and others, k
 
 ## Article 1196
 ### Title@2025-05-25 (7): Is Architectural Complexity Overrated? Competitive and Interpretable   Knowledge Graph Completion with RelatE
+
 **Title**: Is Architectural Complexity Overrated? Competitive and Interpretable   Knowledge Graph Completion with RelatE | Wird architektonische Komplexität überbewertet? Wettbewerbsfähige und interpretierbare Wissensgraphenvervollständigung mit RelatE | 建筑复杂程度是否被高估了? [2505.18971v1](http://arxiv.org/abs/2505.18971v1)
 
 **Authors**: Abhijit Chakraborty, Chahana Dahal, Ashutosh Balasubramaniam, Tejas Anvekar, Vivek Gupta
@@ -13336,6 +14533,7 @@ We revisit the efficacy of simple, real-valued embedding models for knowledge gr
 
 ## Article 1197
 ### Title@2025-05-25 (7): Investigating Inference-time Scaling for Chain of Multi-modal Thought: A   Preliminary Study
+
 **Title**: Investigating Inference-time Scaling for Chain of Multi-modal Thought: A   Preliminary Study | Untersuchung der Inferenzzeitskalierung für die Kette multimodaler Gedanken: Eine Vorstudie | 多式联运思维链调查推理-时间尺度:初步研究 [2502.11514v2](http://arxiv.org/abs/2502.11514v2)
 
 **Authors**: Yujie Lin, Ante Wang, Moye Chen, Jingyao Liu, Hao Liu, Jinsong Su, Xinyan Xiao
@@ -13346,6 +14544,7 @@ Recently, inference-time scaling of chain-of-thought (CoT) has been demonstrated
 
 ## Article 1198
 ### Title@2025-05-25 (7): MoLAE: Mixture of Latent Experts for Parameter-Efficient Language Models
+
 **Title**: MoLAE: Mixture of Latent Experts for Parameter-Efficient Language Models | MoLAE: Mischung aus latenten Experten für Parameter-Effiziente Sprachmodelle | MoLAE:参数有效语言模型原始专家混合 [2503.23100v2](http://arxiv.org/abs/2503.23100v2)
 
 **Authors**: Zehua Liu, Han Wu, Ruifeng She, Xiaojin Fu, Xiongwei Han, Tao Zhong, Mingxuan Yuan
@@ -13356,6 +14555,7 @@ Mixture of Experts (MoE) has become a key architectural paradigm for efficiently
 
 ## Article 1199
 ### Title@2025-05-25 (7): BriLLM: Brain-inspired Large Language Model
+
 **Title**: BriLLM: Brain-inspired Large Language Model | BriLLM: Gehirninspiriertes Large Language Model | BrILLM: 脑启发型大语言模式 [2503.11299v4](http://arxiv.org/abs/2503.11299v4)
 
 **Authors**: Hai Zhao, Hongqiu Wu, Dongjie Yang, Anni Zou, Jiale Hong
@@ -13366,6 +14566,7 @@ This paper reports the first brain-inspired large language model (BriLLM). This 
 
 ## Article 1200
 ### Title@2025-05-25 (7): Learning to Explain: Prototype-Based Surrogate Models for LLM   Classification
+
 **Title**: Learning to Explain: Prototype-Based Surrogate Models for LLM   Classification | Erklären lernen: Prototypenbasierte Surrogate-Modelle für die LLM-Klassifikation | 学习解释:LLM分类原型代用模型 [2505.18970v1](http://arxiv.org/abs/2505.18970v1)
 
 **Authors**: Bowen Wei, Ziwei Zhu
@@ -13376,6 +14577,7 @@ Large language models (LLMs) have demonstrated impressive performance on natural
 
 ## Article 1201
 ### Title@2025-05-25 (7): Not All Thoughts are Generated Equal: Efficient LLM Reasoning via   Multi-Turn Reinforcement Learning
+
 **Title**: Not All Thoughts are Generated Equal: Efficient LLM Reasoning via   Multi-Turn Reinforcement Learning | Nicht alle Gedanken werden gleich erzeugt: Effizientes LLM-Reasoning durch Multi-Turn-Verstärkung-Lernen | 并非所有思想都产生平等:通过多发强化学习提高学习水平的效率LLM [2505.11827v2](http://arxiv.org/abs/2505.11827v2)
 
 **Authors**: Yansong Ning, Wei Li, Jun Fang, Naiqiang Tan, Hao Liu
@@ -13386,6 +14588,7 @@ Compressing long chain-of-thought (CoT) from large language models (LLMs) is an 
 
 ## Article 1202
 ### Title@2025-05-25 (7): SynapticRAG: Enhancing Temporal Memory Retrieval in Large Language   Models through Synaptic Mechanisms
+
 **Title**: SynapticRAG: Enhancing Temporal Memory Retrieval in Large Language   Models through Synaptic Mechanisms | SynapticRAG: Verbesserung des Temporalen Gedächtnisses in großen Sprachmodellen durch synaptische Mechanismen | 辛亚蒂克拉戈:通过辛亚机制加强大语言模型中的时间内存检索 [2410.13553v2](http://arxiv.org/abs/2410.13553v2)
 
 **Authors**: Yuki Hou, Haruki Tamoto, Qinghua Zhao, Homei Miyashita
@@ -13396,6 +14599,7 @@ Existing retrieval methods in Large Language Models show degradation in accuracy
 
 ## Article 1203
 ### Title@2025-05-25 (7): Expansion Span: Combining Fading Memory and Retrieval in Hybrid State   Space Models
+
 **Title**: Expansion Span: Combining Fading Memory and Retrieval in Hybrid State   Space Models | Expansion Span: Kombinieren von Fading Memory und Retrieval in Hybrid State Space Models | 扩展空间:在混合国家空间模型中将平缓内存和检索合并 [2412.13328v2](http://arxiv.org/abs/2412.13328v2)
 
 **Authors**: Elvis Nunez, Luca Zancato, Benjamin Bowman, Aditya Golatkar, Wei Xia, Stefano Soatto
@@ -13406,6 +14610,7 @@ The "state" of State Space Models (SSMs) represents their memory, which fades ex
 
 ## Article 1204
 ### Title@2025-05-25 (7): GraphemeAug: A Systematic Approach to Synthesized Hard Negative Keyword   Spotting Examples
+
 **Title**: GraphemeAug: A Systematic Approach to Synthesized Hard Negative Keyword   Spotting Examples | GraphemeAug: Ein systematischer Ansatz zur Synthese von schwer negativen Keyword-Spotting-Beispielen | GraphemeAug:以系统方法合成硬负负关键词 [2505.14814v2](http://arxiv.org/abs/2505.14814v2)
 
 **Authors**: Harry Zhang, Kurt Partridge, Pai Zhu, Neng Chen, Hyun Jin Park, Dhruuv Agarwal, Quan Wang
@@ -13416,6 +14621,7 @@ Spoken Keyword Spotting (KWS) is the task of distinguishing between the presence
 
 ## Article 1205
 ### Title@2025-05-25 (7): Evaluating AI for Finance: Is AI Credible at Assessing Investment Risk?
+
 **Title**: Evaluating AI for Finance: Is AI Credible at Assessing Investment Risk? | KI für Finanzen bewerten: Ist KI bei der Bewertung von Investitionsrisiken glaubwürdig? | 评估大赦国际的融资:AI在评估投资风险方面是否可信? [2505.18953v1](http://arxiv.org/abs/2505.18953v1)
 
 **Authors**: Divij Chawla, Ashita Bhutada, Do Duc Anh, Abhinav Raghunathan, Vinod SP, Cathy Guo, Dar Win Liew, Prannaya Gupta, Rishabh Bhardwaj, Rajat Bhardwaj, Soujanya Poria
@@ -13426,6 +14632,7 @@ We evaluate the credibility of leading AI models in assessing investment risk ap
 
 ## Article 1206
 ### Title@2025-05-25 (7): BnMMLU: Measuring Massive Multitask Language Understanding in Bengali
+
 **Title**: BnMMLU: Measuring Massive Multitask Language Understanding in Bengali | BnMMLU: Maßgebendes Multitasking-Sprachverständnis in Bengalen messen | BnMMLU:用孟加拉语衡量大规模多任务语言理解 [2505.18951v1](http://arxiv.org/abs/2505.18951v1)
 
 **Authors**: Saman Sarker Joy
@@ -13436,6 +14643,7 @@ The Massive Multitask Language Understanding (MMLU) benchmark has been widely us
 
 ## Article 1207
 ### Title@2025-05-25 (7): The Price of Format: Diversity Collapse in LLMs
+
 **Title**: The Price of Format: Diversity Collapse in LLMs | Der Preis des Formats: Diversity Collapse in LLMs | 格式价格:多样化在LLMM中崩溃 [2505.18949v1](http://arxiv.org/abs/2505.18949v1)
 
 **Authors**: Longfei Yun, Chenyang An, Zilong Wang, Letian Peng, Jingbo Shang
@@ -13446,6 +14654,7 @@ Instruction-tuned large language models (LLMs) employ structured templates, such
 
 ## Article 1208
 ### Title@2025-05-25 (7): Veracity Bias and Beyond: Uncovering LLMs' Hidden Beliefs in   Problem-Solving Reasoning
+
 **Title**: Veracity Bias and Beyond: Uncovering LLMs' Hidden Beliefs in   Problem-Solving Reasoning | Veracity Bias and Beyond: LLMs versteckten Glauben an Problemlösungen enthüllen | Veracity Bias 及以后:在解决问题的理由中揭穿LLMs的隐藏的信仰 [2505.16128v2](http://arxiv.org/abs/2505.16128v2)
 
 **Authors**: Yue Zhou, Barbara Di Eugenio
@@ -13456,6 +14665,7 @@ Despite LLMs' explicit alignment against demographic stereotypes, they have been
 
 ## Article 1209
 ### Title@2025-05-25 (7): NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop   System from Hypothesis to Verification
+
 **Title**: NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop   System from Hypothesis to Verification | NovelSeek: Wenn Agent zum Wissenschaftler wird -- das geschlossene Loop-System von der Hypothese zur Verifikation | NovellSeek:当特工成为科学家时 -- -- 建立从假设到核查的闭线系统 [2505.16938v2](http://arxiv.org/abs/2505.16938v2)
 
 **Authors**: NovelSeek Team, Bo Zhang, Shiyang Feng, Xiangchao Yan, Jiakang Yuan, Zhiyin Yu, Xiaohan He, Songtao Huang, Shaowei Hou, Zheng Nie, Zhilong Wang, Jinyao Liu, Runmin Ma, Tianshuo Peng, Peng Ye, Dongzhan Zhou, Shufei Zhang, Xiaosong Wang, Yilan Zhang, Meng Li, Zhongying Tu, Xiangyu Yue, Wangli Ouyang, Bowen Zhou, Lei Bai
@@ -13466,6 +14676,7 @@ Artificial Intelligence (AI) is accelerating the transformation of scientific re
 
 ## Article 1210
 ### Title@2025-05-25 (7): MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent   Systems
+
 **Title**: MetaMind: Modeling Human Social Thoughts with Metacognitive Multi-Agent   Systems | MetaMind: Modellierung menschlicher sozialer Gedanken mit Metakognitiven Multi-Agenten-Systemen | MetMind:模拟人类社会思想与代认知多机构系统 [2505.18943v1](http://arxiv.org/abs/2505.18943v1)
 
 **Authors**: Xuanming Zhang, Yuxuan Chen, Min-Hsuan Yeh, Yixuan Li
@@ -13476,6 +14687,7 @@ Human social interactions depend on the ability to infer others' unspoken intent
 
 ## Article 1211
 ### Title@2025-05-25 (7): Think Outside the Data: Colonial Biases and Systemic Issues in Automated   Moderation Pipelines for Low-Resource Languages
+
 **Title**: Think Outside the Data: Colonial Biases and Systemic Issues in Automated   Moderation Pipelines for Low-Resource Languages | Denken Sie außerhalb der Daten: Koloniale Biasen und systemische Probleme in automatisierten Moderationspipelines für Low-Resource-Sprachen | 《在数据之外思考:低资源语言自动调控管道中的殖民二进制和系统问题》 [2501.13836v2](http://arxiv.org/abs/2501.13836v2)
 
 **Authors**: Farhana Shahid, Mona Elswah, Aditya Vashistha
@@ -13486,6 +14698,7 @@ Most social media users come from non-English speaking countries in the Global S
 
 ## Article 1212
 ### Title@2025-05-25 (7): AgentClinic: a multimodal agent benchmark to evaluate AI in simulated   clinical environments
+
 **Title**: AgentClinic: a multimodal agent benchmark to evaluate AI in simulated   clinical environments | AgentClinic: ein Multimodal Agent Benchmark zur Bewertung von KI in simulierten klinischen Umgebungen | AgrClinicic:在模拟临床环境中评价AI的多式联运代理商基准 [2405.07960v5](http://arxiv.org/abs/2405.07960v5)
 
 **Authors**: Samuel Schmidgall, Rojin Ziaei, Carl Harris, Eduardo Reis, Jeffrey Jopling, Michael Moor
@@ -13496,6 +14709,7 @@ Evaluating large language models (LLM) in clinical scenarios is crucial to asses
 
 ## Article 1213
 ### Title@2025-05-25 (7): Fluent but Culturally Distant: Can Regional Training Teach Cultural   Understanding?
+
 **Title**: Fluent but Culturally Distant: Can Regional Training Teach Cultural   Understanding? | Fließendes, aber kulturell Fernes: Kann regionales Training kulturelles Verständnis lehren? | 流利但文化疏远:区域培训能够教授文化理解吗? [2505.21548v1](http://arxiv.org/abs/2505.21548v1)
 
 **Authors**: Dhruv Agarwal, Anya Shukla, Sunayana Sitaram, Aditya Vashistha
@@ -13506,6 +14720,7 @@ Large language models (LLMs) are used around the world but exhibit Western cultu
 
 ## Article 1214
 ### Title@2025-05-25 (7): REACT: Representation Extraction And Controllable Tuning to Overcome   Overfitting in LLM Knowledge Editing
+
 **Title**: REACT: Representation Extraction And Controllable Tuning to Overcome   Overfitting in LLM Knowledge Editing | REACT: Darstellungsextraktion und kontrollierbares Tuning zur Überwindung der Überlastung in LLM-Wissensbearbeitung | REACT: 在LLM知识编辑中,通过代表提取和控制可控的提款以克服超额配置 [2505.18933v1](http://arxiv.org/abs/2505.18933v1)
 
 **Authors**: Haitian Zhong, Yuhuan Liu, Ziyang Xu, Guofan Liu, Qiang Liu, Shu Wu, Zhe Zhao, Liang Wang, Tieniu Tan
@@ -13516,6 +14731,7 @@ Large language model editing methods frequently suffer from overfitting, wherein
 
 ## Article 1215
 ### Title@2025-05-25 (7): Can Large Language Models Infer Causal Relationships from Real-World   Text?
+
 **Title**: Can Large Language Models Infer Causal Relationships from Real-World   Text? | Können große Sprachmodelle Kausalbeziehungen aus Real-World Text ableiten? | 大语言模型能否从真实世界文本中推断出因果关系? [2505.18931v1](http://arxiv.org/abs/2505.18931v1)
 
 **Authors**: Ryan Saklad, Aman Chadha, Oleg Pavlov, Raha Moraffah
@@ -13526,6 +14742,7 @@ Understanding and inferring causal relationships from texts is a core aspect of 
 
 ## Article 1216
 ### Title@2025-05-25 (7): Meta-aware Learning in text-to-SQL Large Language Model
+
 **Title**: Meta-aware Learning in text-to-SQL Large Language Model | Meta-aware Lernen im Text-zu-SQL-Großsprache-Modell | 以文本到SQL大语言模式进行多读学习 [2505.18929v1](http://arxiv.org/abs/2505.18929v1)
 
 **Authors**: Wenda Zhang
@@ -13536,6 +14753,7 @@ The advancements of Large language models (LLMs) have provided great opportuniti
 
 ## Article 1217
 ### Title@2025-05-25 (7): iAgent: LLM Agent as a Shield between User and Recommender Systems
+
 **Title**: iAgent: LLM Agent as a Shield between User and Recommender Systems | iAgent: LLM Agent als Shield zwischen Anwender- und Recommender-Systemen | iAgendy:LLM代理作为用户与建议系统之间的盾牌 [2502.14662v3](http://arxiv.org/abs/2502.14662v3)
 
 **Authors**: Wujiang Xu, Yunxiao Shi, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang
@@ -13546,6 +14764,7 @@ Traditional recommender systems usually take the user-platform paradigm, where u
 
 ## Article 1218
 ### Title@2025-05-25 (7): SCRum-9: Multilingual Stance Classification over Rumours on Social Media
+
 **Title**: SCRum-9: Multilingual Stance Classification over Rumours on Social Media | SCRum-9: Mehrsprachige Stance-Klassifizierung über Gerüchte in sozialen Medien | SCRUM-9:社会媒体多语言流闻的多语言分级 [2505.18916v1](http://arxiv.org/abs/2505.18916v1)
 
 **Authors**: Yue Li, Jake Vasilakes, Zhixue Zhao, Carolina Scarton
@@ -13556,6 +14775,7 @@ We introduce SCRum-9, a multilingual dataset for Rumour Stance Classification, c
 
 ## Article 1219
 ### Title@2025-05-25 (7): Understanding Multimodal LLMs Under Distribution Shifts: An   Information-Theoretic Approach
+
 **Title**: Understanding Multimodal LLMs Under Distribution Shifts: An   Information-Theoretic Approach | Multimodale LLMs unter Verteilungsverschiebungen verstehen: Ein informationstheoretischer Ansatz | 在分销变更下理解多式LLMs:信息理论方法 [2502.00577v2](http://arxiv.org/abs/2502.00577v2)
 
 **Authors**: Changdae Oh, Zhen Fang, Shawn Im, Xuefeng Du, Yixuan Li
@@ -13566,6 +14786,7 @@ Multimodal large language models (MLLMs) have shown promising capabilities but s
 
 ## Article 1220
 ### Title@2025-05-24 (6): Federated Retrieval-Augmented Generation: A Systematic Mapping Study
+
 **Title**: Federated Retrieval-Augmented Generation: A Systematic Mapping Study | Federated Retrieval-Augmented Generation: Eine systematische Mapping-Studie | 联邦回收回源代:系统绘图研究 [2505.18906v1](http://arxiv.org/abs/2505.18906v1)
 
 **Authors**: Abhijit Chakraborty, Chahana Dahal, Vivek Gupta
@@ -13576,6 +14797,7 @@ Federated Retrieval-Augmented Generation (Federated RAG) combines Federated Lear
 
 ## Article 1221
 ### Title@2025-05-24 (6): Building a Functional Machine Translation Corpus for Kpelle
+
 **Title**: Building a Functional Machine Translation Corpus for Kpelle | Aufbau eines funktionalen Übersetzungskorpus für Kpelle | 为Kpelle建立功能机器翻译公司 [2505.18905v1](http://arxiv.org/abs/2505.18905v1)
 
 **Authors**: Kweku Andoh Yamoah, Jackson Weako, Emmanuel J. Dorley
@@ -13586,6 +14808,7 @@ In this paper, we introduce the first publicly available English-Kpelle dataset 
 
 ## Article 1222
 ### Title@2025-05-24 (6): Algorithmic Language Models with Neurally Compiled Libraries
+
 **Title**: Algorithmic Language Models with Neurally Compiled Libraries | Algorithmische Sprachmodelle mit neurally compiled Bibliotheken | 具有神经编译图书馆的算法语言模型 [2407.04899v2](http://arxiv.org/abs/2407.04899v2)
 
 **Authors**: Lucas Saldyt, Subbarao Kambhampati
@@ -13596,6 +14819,7 @@ Important tasks such as reasoning and planning are fundamentally algorithmic, me
 
 ## Article 1223
 ### Title@2025-05-24 (6): StandUp4AI: A New Multilingual Dataset for Humor Detection in Stand-up   Comedy Videos
+
 **Title**: StandUp4AI: A New Multilingual Dataset for Humor Detection in Stand-up   Comedy Videos | StandUp4AI: Ein neuer multilingualer Datensatz für Humorerkennung in Stand-up Comedy Videos | StandUp4AI:一套新的多语种数据集,用于在跳跳喜剧视频中探测湿度 [2505.18903v1](http://arxiv.org/abs/2505.18903v1)
 
 **Authors**: Valentin Barriere, Nahuel Gomez, Leo Hemamou, Sofia Callejas, Brian Ravenet
@@ -13606,6 +14830,7 @@ Aiming towards improving current computational models of humor detection, we pro
 
 ## Article 1224
 ### Title@2025-05-24 (6): Do LLMs have a Gender (Entropy) Bias?
+
 **Title**: Do LLMs have a Gender (Entropy) Bias? | Haben LLMs ein Gender (Entropie) Bias? | LLMs是否有性别(Entropy)偏见? [2505.20343v1](http://arxiv.org/abs/2505.20343v1)
 
 **Authors**: Sonal Prabhune, Balaji Padmanabhan, Kaushik Dutta
@@ -13616,6 +14841,7 @@ We investigate the existence and persistence of a specific type of gender bias i
 
 ## Article 1225
 ### Title@2025-05-24 (6): Vague Knowledge: Evidence from Analyst Reports
+
 **Title**: Vague Knowledge: Evidence from Analyst Reports | Vague Knowledge: Beweise aus Analystenberichten | 知识模糊:分析报告提供的证据 [2505.12269v3](http://arxiv.org/abs/2505.12269v3)
 
 **Authors**: Kerry Xiao, Amy Zang
@@ -13626,6 +14852,7 @@ People in the real world often possess vague knowledge of future payoffs, for wh
 
 ## Article 1226
 ### Title@2025-05-24 (6): Why Vision Language Models Struggle with Visual Arithmetic? Towards   Enhanced Chart and Geometry Understanding
+
 **Title**: Why Vision Language Models Struggle with Visual Arithmetic? Towards   Enhanced Chart and Geometry Understanding | Warum Vision Language Models mit visueller Arithmetik kollidieren? Auf dem Weg zu einem verbesserten Chart und Geometrie-Verständnis | 为什么愿景语言模型与视觉自算斗争? 争取强化图表和几何理解 [2502.11492v3](http://arxiv.org/abs/2502.11492v3)
 
 **Authors**: Kung-Hsiang Huang, Can Qin, Haoyi Qiu, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu
@@ -13636,6 +14863,7 @@ Vision Language Models (VLMs) have achieved remarkable progress in multimodal ta
 
 ## Article 1227
 ### Title@2025-05-24 (6): CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business   Scenarios and Interactions
+
 **Title**: CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business   Scenarios and Interactions | CRMArena-Pro: Ganzheitliche Bewertung von LLM-Agenten über unterschiedliche Geschäftsszenarien und Interaktionen | CRMARENA-Pro: 不同业务情景和相互作用的LLM代理机构综合评估 [2505.18878v1](http://arxiv.org/abs/2505.18878v1)
 
 **Authors**: Kung-Hsiang Huang, Akshara Prabhakar, Onkar Thorat, Divyansh Agarwal, Prafulla Kumar Choubey, Yixin Mao, Silvio Savarese, Caiming Xiong, Chien-Sheng Wu
@@ -13646,6 +14874,7 @@ While AI agents hold transformative potential in business, effective performance
 
 ## Article 1228
 ### Title@2025-05-24 (6): Evaluating Step-by-step Reasoning Traces: A Survey
+
 **Title**: Evaluating Step-by-step Reasoning Traces: A Survey | Bewertung Schritt-für-Schritt-Reasoning-Traces: Eine Umfrage | 评价逐步说明理由的追踪:调查 [2502.12289v2](http://arxiv.org/abs/2502.12289v2)
 
 **Authors**: Jinu Lee, Julia Hockenmaier
@@ -13656,6 +14885,7 @@ Step-by-step reasoning is widely used to enhance the reasoning ability of large 
 
 ## Article 1229
 ### Title@2025-05-24 (6): Sci-LoRA: Mixture of Scientific LoRAs for Cross-Domain Lay Paraphrasing
+
 **Title**: Sci-LoRA: Mixture of Scientific LoRAs for Cross-Domain Lay Paraphrasing | Sci-LoRA: Mischung aus wissenschaftlichen LoRAs für Cross-Domain Lay Paraphrasing | Sci-LORA:将科学LORA混合起来,用于跨域地谱图谱绘制 [2505.18867v1](http://arxiv.org/abs/2505.18867v1)
 
 **Authors**: Ming Cheng, Jiaying Gong, Hoda Eldardiry
@@ -13666,6 +14896,7 @@ Lay paraphrasing aims to make scientific information accessible to audiences wit
 
 ## Article 1230
 ### Title@2025-05-24 (6): Token Sampling Uncertainty Does Not Explain Homogeneity Bias in Large   Language Models
+
 **Title**: Token Sampling Uncertainty Does Not Explain Homogeneity Bias in Large   Language Models | Token Sampling Uncertainty erklärt Homogenität Bias nicht in großen Sprachmodellen | 在大语言模型中抽样抽样的不确定性不能解释同性比重 [2501.19337v2](http://arxiv.org/abs/2501.19337v2)
 
 **Authors**: Messi H. J. Lee, Soyeon Jeon
@@ -13676,6 +14907,7 @@ Homogeneity bias is one form of stereotyping in AI models where certain groups a
 
 ## Article 1231
 ### Title@2025-05-24 (6): Audio Jailbreak Attacks: Exposing Vulnerabilities in SpeechGPT in a   White-Box Framework
+
 **Title**: Audio Jailbreak Attacks: Exposing Vulnerabilities in SpeechGPT in a   White-Box Framework | Audio Jailbreak Attacks: Aufdecken von Schwachstellen in SpeechGPT in einem White-Box-Framework | 音频破室袭击:在白箱框架内揭露语音中的弱点GPPT [2505.18864v1](http://arxiv.org/abs/2505.18864v1)
 
 **Authors**: Binhao Ma, Hanqing Guo, Zhengping Jay Luo, Rui Duan
@@ -13686,6 +14918,7 @@ Recent advances in Multimodal Large Language Models (MLLMs) have significantly e
 
 ## Article 1232
 ### Title@2025-05-24 (6): Writing Like the Best: Exemplar-Based Expository Text Generation
+
 **Title**: Writing Like the Best: Exemplar-Based Expository Text Generation | Schreiben wie das Beste: exemplar-based expository text generation | 写作像最佳的:基于实例的展示性文本生成 [2505.18859v1](http://arxiv.org/abs/2505.18859v1)
 
 **Authors**: Yuxiang Liu, Kevin Chen-Chuan Chang
@@ -13696,6 +14929,7 @@ We introduce the Exemplar-Based Expository Text Generation task, aiming to gener
 
 ## Article 1233
 ### Title@2025-05-24 (6): Large Language Models based ASR Error Correction for Child Conversations
+
 **Title**: Large Language Models based ASR Error Correction for Child Conversations | Große Sprachmodelle basierende ASR-Fehlerkorrektur für Kindergespräche | 基于大语言模型的ASR大语言模型 [2505.16212v2](http://arxiv.org/abs/2505.16212v2)
 
 **Authors**: Anfeng Xu, Tiantian Feng, So Hyun Kim, Somer Bishop, Catherine Lord, Shrikanth Narayanan
@@ -13706,6 +14940,7 @@ Automatic Speech Recognition (ASR) has recently shown remarkable progress, but a
 
 ## Article 1234
 ### Title@2025-05-24 (6): USDC: A Dataset of $\underline{U}$ser $\underline{S}$tance and   $\underline{D}$ogmatism in Long $\underline{C}$onversations
+
 **Title**: USDC: A Dataset of $\underline{U}$ser $\underline{S}$tance and   $\underline{D}$ogmatism in Long $\underline{C}$onversations | USDC: Ein Datensatz von $\underline{U}$ser $\underline{S}$tance und $\underline{D}$ogmatism in langen $\underline{C}$onversations | USCC: 以 $\ underline{U}$ser $\ underline{S}$tance 和 $\ underline{D}$ogmatism 的数据集, 以 Long $\ underline{C} 美元对数值 [2406.16833v2](http://arxiv.org/abs/2406.16833v2)
 
 **Authors**: Mounika Marreddy, Subba Reddy Oota, Venkata Charan Chinni, Manish Gupta, Lucie Flek
@@ -13716,6 +14951,7 @@ Analyzing user opinion changes in long conversation threads is extremely critica
 
 ## Article 1235
 ### Title@2025-05-24 (6): Inference Compute-Optimal Video Vision Language Models
+
 **Title**: Inference Compute-Optimal Video Vision Language Models | Schlussfolgerung Compute-Optimal Video Vision Language Models | 计算视频视觉语言模型 [2505.18855v1](http://arxiv.org/abs/2505.18855v1)
 
 **Authors**: Peiqi Wang, ShengYun Peng, Xuewen Zhang, Hanchao Yu, Yibo Yang, Lifu Huang, Fujun Liu, Qifan Wang
@@ -13726,6 +14962,7 @@ This work investigates the optimal allocation of inference compute across three 
 
 ## Article 1236
 ### Title@2025-05-24 (6): Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation
+
 **Title**: Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation | Smoothie: Glättende Diffusion auf Token-Embeddings für Textgenerierung | 滑滑: 平滑的文本生成时用 Token 嵌入嵌入嵌入器进行传播 [2505.18853v1](http://arxiv.org/abs/2505.18853v1)
 
 **Authors**: Alexander Shabalin, Viacheslav Meshchaninov, Dmitry Vetrov
@@ -13736,6 +14973,7 @@ Diffusion models have achieved state-of-the-art performance in generating images
 
 ## Article 1237
 ### Title@2025-05-24 (6): On the Limit of Language Models as Planning Formalizers
+
 **Title**: On the Limit of Language Models as Planning Formalizers | An der Grenze von Sprachmodellen als Planungsformalisatoren | 关于作为规划正规化机构的语言模式限制 [2412.09879v3](http://arxiv.org/abs/2412.09879v3)
 
 **Authors**: Cassie Huang, Li Zhang
@@ -13746,6 +14984,7 @@ Large Language Models have been found to create plans that are neither executabl
 
 ## Article 1238
 ### Title@2025-05-24 (6): Does Reasoning Introduce Bias? A Study of Social Bias Evaluation and   Mitigation in LLM Reasoning
+
 **Title**: Does Reasoning Introduce Bias? A Study of Social Bias Evaluation and   Mitigation in LLM Reasoning | Führt Reasoning Bias ein? Eine Studie über soziale Bias Evaluation und Milderung in LLM Reasoning | 是否有理由引入偏见? 社会偏见评估和减轻LLM理由研究 [2502.15361v2](http://arxiv.org/abs/2502.15361v2)
 
 **Authors**: Xuyang Wu, Jinming Nian, Ting-Ruen Wei, Zhiqiang Tao, Hsin-Tai Wu, Yi Fang
@@ -13756,6 +14995,7 @@ Recent advances in large language models (LLMs) have enabled automatic generatio
 
 ## Article 1239
 ### Title@2025-05-24 (6): Signal, Image, or Symbolic: Exploring the Best Input Representation for   Electrocardiogram-Language Models Through a Unified Framework
+
 **Title**: Signal, Image, or Symbolic: Exploring the Best Input Representation for   Electrocardiogram-Language Models Through a Unified Framework | Signal, Bild oder Symbolisch: Die beste Eingangsdarstellung für Elektrokardiogramm-Sprachenmodelle durch ein einheitliches Framework erkunden | 信号、图像或符号:通过统一框架探索电动心电图语言模型的最佳输入代表 [2505.18847v1](http://arxiv.org/abs/2505.18847v1)
 
 **Authors**: William Han, Chaojing Duan, Zhepeng Cen, Yihang Yao, Xiaoyu Song, Atharva Mhaskar, Dylan Leong, Michael A. Rosenberg, Emerson Liu, Ding Zhao
@@ -13766,6 +15006,7 @@ Recent advances have increasingly applied large language models (LLMs) to electr
 
 ## Article 1240
 ### Title@2025-05-24 (6): Multi-Party Conversational Agents: A Survey
+
 **Title**: Multi-Party Conversational Agents: A Survey | Multi-Parteien-Gesprächsagenten: Eine Umfrage | 多党对话代表:调查 [2505.18845v1](http://arxiv.org/abs/2505.18845v1)
 
 **Authors**: Sagar Sapkota, Mohammad Saqib Hasan, Mubarak Shah, Santu Karmaker
@@ -13776,6 +15017,7 @@ Multi-party Conversational Agents (MPCAs) are systems designed to engage in dial
 
 ## Article 1241
 ### Title@2025-05-24 (6): Don't Look Only Once: Towards Multimodal Interactive Reasoning with   Selective Visual Revisitation
+
 **Title**: Don't Look Only Once: Towards Multimodal Interactive Reasoning with   Selective Visual Revisitation | Nicht nur einmal suchen: Auf dem Weg zu multimodaler interaktiver Reasonierung mit selektiver visueller Revisitation | 不要只看一次: 走向多模式互动理性, 选择性视觉再审视 [2505.18842v1](http://arxiv.org/abs/2505.18842v1)
 
 **Authors**: Jiwan Chung, Junhyeok Kim, Siyeol Kim, Jaeyoung Lee, Min Soo Kim, Youngjae Yu
@@ -13786,6 +15028,7 @@ We present v1, a lightweight extension to Multimodal Large Language Models (MLLM
 
 ## Article 1242
 ### Title@2025-05-24 (6): Identifying Legal Holdings with LLMs: A Systematic Study of Performance,   Scale, and Memorization
+
 **Title**: Identifying Legal Holdings with LLMs: A Systematic Study of Performance,   Scale, and Memorization | Identifikation von legalen Holdings mit LLMs: Eine systematische Studie über Leistung, Maßstab und Erinnerung | 确定拥有LLM女士的法律控股:系统研究业绩、规模和记忆 [2505.02172v3](http://arxiv.org/abs/2505.02172v3)
 
 **Authors**: Chuck Arvin
@@ -13796,6 +15039,7 @@ As large language models (LLMs) continue to advance in capabilities, it is essen
 
 ## Article 1243
 ### Title@2025-05-24 (6): On the Effect of Negative Gradient in Group Relative Deep Reinforcement   Optimization
+
 **Title**: On the Effect of Negative Gradient in Group Relative Deep Reinforcement   Optimization | Auf die Wirkung des negativen Gradienten in der Gruppe Relative Tiefenverstärkung Optimierung | 对群体相对深强化优化中的负梯度效应的影响 [2505.18830v1](http://arxiv.org/abs/2505.18830v1)
 
 **Authors**: Wenlong Deng, Yi Ren, Muchen Li, Danica J. Sutherland, Xiaoxiao Li, Christos Thrampoulidis
@@ -13806,6 +15050,7 @@ Reinforcement learning (RL) has become popular in enhancing the reasoning capabi
 
 ## Article 1244
 ### Title@2025-05-24 (6): Vision Meets Language: A RAG-Augmented YOLOv8 Framework for Coffee   Disease Diagnosis and Farmer Assistance
+
 **Title**: Vision Meets Language: A RAG-Augmented YOLOv8 Framework for Coffee   Disease Diagnosis and Farmer Assistance | Vision trifft auf Sprache: Ein RAG-gesteigertes YOLOv8-Framework für Kaffeekrankheitsdiagnose und Farmer Assistance | 语言:一个RAG-AG-AG-AGed YOLOv8咖啡疾病诊断和农民援助框架 [2505.21544v1](http://arxiv.org/abs/2505.21544v1)
 
 **Authors**: Semanto Mondal
@@ -13816,6 +15061,7 @@ As a social being, we have an intimate bond with the environment. A plethora of 
 
 ## Article 1245
 ### Title@2025-05-24 (6): AdaCtrl: Towards Adaptive and Controllable Reasoning via   Difficulty-Aware Budgeting
+
 **Title**: AdaCtrl: Towards Adaptive and Controllable Reasoning via   Difficulty-Aware Budgeting | AdaCtrl: Auf dem Weg zur adaptiven und kontrollierbaren Begründung über Schwierigkeits-Bewusst-Budgeting | AdaCtrl:通过困难意识预算编制实现适应和控制性合理理由 [2505.18822v1](http://arxiv.org/abs/2505.18822v1)
 
 **Authors**: Shijue Huang, Hongru Wang, Wanjun Zhong, Zhaochen Su, Jiazhan Feng, Bowen Cao, Yi R. Fung
@@ -13826,6 +15072,7 @@ Modern large reasoning models demonstrate impressive problem-solving capabilitie
 
 ## Article 1246
 ### Title@2025-05-24 (6): Preference Leakage: A Contamination Problem in LLM-as-a-judge
+
 **Title**: Preference Leakage: A Contamination Problem in LLM-as-a-judge | Bevorzugte Leckage: Ein Kontaminierungsproblem im LLM-as-a-Richter | 优先渗漏:LLM-作为法官的LLM中的污染问题 [2502.01534v2](http://arxiv.org/abs/2502.01534v2)
 
 **Authors**: Dawei Li, Renliang Sun, Yue Huang, Ming Zhong, Bohan Jiang, Jiawei Han, Xiangliang Zhang, Wei Wang, Huan Liu
@@ -13836,6 +15083,7 @@ Large Language Models (LLMs) as judges and LLM-based data synthesis have emerged
 
 ## Article 1247
 ### Title@2025-05-24 (6): MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in   Explainable Recommendation
+
 **Title**: MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in   Explainable Recommendation | MAPLE: Verbesserung der Review Generation mit Multi-Aspect Prompt Learning in erklärbarer Empfehlung | MMALE: 在可解释建议中以多角度迅速和迅速的分解方式加强审查的产生 [2408.09865v2](http://arxiv.org/abs/2408.09865v2)
 
 **Authors**: Ching-Wen Yang, Zhi-Quan Feng, Ying-Jia Lin, Che-Wei Chen, Kun-da Wu, Hao Xu, Jui-Feng Yao, Hung-Yu Kao
@@ -13846,6 +15094,7 @@ The Explainable Recommendation task is designed to receive a pair of user and it
 
 ## Article 1248
 ### Title@2025-05-24 (6): From Output to Evaluation: Does Raw Instruction-Tuned Code LLMs Output   Suffice for Fill-in-the-Middle Code Generation?
+
 **Title**: From Output to Evaluation: Does Raw Instruction-Tuned Code LLMs Output   Suffice for Fill-in-the-Middle Code Generation? | Von der Ausgabe bis zur Auswertung: Reicht die Ausgabe von LLMs mit rohem Instruktionscode für die Generierung von Fill-in-the-Middle Code aus? | 从输出到评价:原始指令-指令代码LLMs 输出足量是否用于中代代号的填充? [2505.18789v1](http://arxiv.org/abs/2505.18789v1)
 
 **Authors**: Wasi Uddin Ahmad, Somshubra Majumdar, Boris Ginsburg
@@ -13856,6 +15105,7 @@ Post-processing is crucial for the automatic evaluation of LLMs in fill-in-the-m
 
 ## Article 1249
 ### Title@2025-05-24 (6): ReviewEval: An Evaluation Framework for AI-Generated Reviews
+
 **Title**: ReviewEval: An Evaluation Framework for AI-Generated Reviews | ReviewEval: Ein Bewertungsrahmen für KI-generierte Bewertungen | E. 审评:独立审评评估框架 [2502.11736v3](http://arxiv.org/abs/2502.11736v3)
 
 **Authors**: Madhav Krishan Garg, Tejash Prasad, Tanmay Singhal, Chhavi Kirtani, Murari Mandal, Dhruv Kumar
@@ -13866,6 +15116,7 @@ The escalating volume of academic research, coupled with a shortage of qualified
 
 ## Article 1250
 ### Title@2025-05-24 (6): A generalised editor calculus (Short Paper)
+
 **Title**: A generalised editor calculus (Short Paper) | Eine generalisierte Editorrechnung (Short Paper) | 通用编辑器微积分( 短纸) [2505.18778v1](http://arxiv.org/abs/2505.18778v1)
 
 **Authors**: Benjamin Bennetzen, Peter Buus Steffensen, Hans Hüttel, Nikolaj Rossander Kristensen, Andreas Tor Mortensen
@@ -13876,6 +15127,7 @@ In this paper, we present a generalization of a syntax-directed editor calculus,
 
 ## Article 1251
 ### Title@2025-05-24 (6): Disentangling Knowledge Representations for Large Language Model Editing
+
 **Title**: Disentangling Knowledge Representations for Large Language Model Editing | Entwirren von Wissensdarstellungen für die Bearbeitung von großen Sprachmodellen | 分散大语言模式编辑的知识代表 [2505.18774v1](http://arxiv.org/abs/2505.18774v1)
 
 **Authors**: Mengqi Zhang, Zisheng Zhou, Xiaotian Ye, Qiang Liu, Zhaochun Ren, Zhumin Chen, Pengjie Ren
@@ -13886,6 +15138,7 @@ Knowledge Editing has emerged as a promising solution for efficiently updating e
 
 ## Article 1252
 ### Title@2025-05-24 (6): Attacking Vision-Language Computer Agents via Pop-ups
+
 **Title**: Attacking Vision-Language Computer Agents via Pop-ups | Angriff auf Vision-Sprache Computer-Agenten über Pop-ups | 通过弹出式攻击视觉语言计算机代理器 [2411.02391v2](http://arxiv.org/abs/2411.02391v2)
 
 **Authors**: Yanzhe Zhang, Tao Yu, Diyi Yang
@@ -13896,6 +15149,7 @@ Autonomous agents powered by large vision and language models (VLM) have demonst
 
 ## Article 1253
 ### Title@2025-05-24 (6): Towards Emotionally Consistent Text-Based Speech Editing: Introducing   EmoCorrector and The ECD-TSE Dataset
+
 **Title**: Towards Emotionally Consistent Text-Based Speech Editing: Introducing   EmoCorrector and The ECD-TSE Dataset | Auf dem Weg zu einer emotional konsistenten textbasierten Sprachredaktion: Einführung von EmoCorrector und dem ECD-TSE-Datensatz | 面向情感上一致的文本语音编辑:介绍EmoCorrictor和ECD-TSE数据集 [2505.20341v1](http://arxiv.org/abs/2505.20341v1)
 
 **Authors**: Rui Liu, Pu Gao, Jiatian Xi, Berrak Sisman, Carlos Busso, Haizhou Li
@@ -13906,6 +15160,7 @@ Text-based speech editing (TSE) modifies speech using only text, eliminating re-
 
 ## Article 1254
 ### Title@2025-05-24 (6): Towards an automatic method for generating topical vocabulary test forms   for specific reading passages
+
 **Title**: Towards an automatic method for generating topical vocabulary test forms   for specific reading passages | Auf dem Weg zu einer automatischen Methode zur Generierung aktueller Vokabular-Testformulare für bestimmte Lesepassagen | 建立一个自动方法,为特定阅读段落制作专题词汇测试表 [2505.18762v1](http://arxiv.org/abs/2505.18762v1)
 
 **Authors**: Michael Flor, Zuowei Wang, Paul Deane, Tenaha O'Reilly
@@ -13916,6 +15171,7 @@ Background knowledge is typically needed for successful comprehension of topical
 
 ## Article 1255
 ### Title@2025-05-24 (6): How Is LLM Reasoning Distracted by Irrelevant Context? An Analysis Using   a Controlled Benchmark
+
 **Title**: How Is LLM Reasoning Distracted by Irrelevant Context? An Analysis Using   a Controlled Benchmark | Wie wird LLM-Reasoning vom irrelevanten Kontext abgelenkt? Eine Analyse mit einem kontrollierten Benchmark | LLM 为何被不相关背景所忽略? [2505.18761v1](http://arxiv.org/abs/2505.18761v1)
 
 **Authors**: Minglai Yang, Ethan Huang, Liang Zhang, Mihai Surdeanu, William Wang, Liangming Pan
@@ -13926,6 +15182,7 @@ We introduce Grade School Math with Distracting Context (GSM-DC), a synthetic be
 
 ## Article 1256
 ### Title@2025-05-24 (6): Few-Shot Optimization for Sensor Data Using Large Language Models: A   Case Study on Fatigue Detection
+
 **Title**: Few-Shot Optimization for Sensor Data Using Large Language Models: A   Case Study on Fatigue Detection | Weniger scharfe Optimierung von Sensordaten mit großen Sprachmodellen: Eine Fallstudie zur Ermüdungserkennung | 利用大语言模型对传感器数据使用高语言模型的微小最优化:关于Fatigue探测的案例研究 [2505.18754v1](http://arxiv.org/abs/2505.18754v1)
 
 **Authors**: Elsen Ronando, Sozo Inoue
@@ -13936,6 +15193,7 @@ In this paper, we propose a novel few-shot optimization with HED-LM (Hybrid Eucl
 
 ## Article 1257
 ### Title@2025-05-24 (6): Unifying Attention Heads and Task Vectors via Hidden State Geometry in   In-Context Learning
+
 **Title**: Unifying Attention Heads and Task Vectors via Hidden State Geometry in   In-Context Learning | Vereinheitlichen von Aufmerksamkeitsköpfen und Task-Vektoren über versteckte Zustandsgeometrie im In-Context-Lernen | 通过内文学习中隐藏状态几何几何,统一关注负责人和任务矢量 [2505.18752v1](http://arxiv.org/abs/2505.18752v1)
 
 **Authors**: Haolin Yang, Hakaze Cho, Yiqiao Zhong, Naoya Inoue
@@ -13946,6 +15204,7 @@ The unusual properties of in-context learning (ICL) have prompted investigations
 
 ## Article 1258
 ### Title@2025-05-24 (6): An Illusion of Progress? Assessing the Current State of Web Agents
+
 **Title**: An Illusion of Progress? Assessing the Current State of Web Agents | Eine Illusion des Fortschritts? Bewertung des aktuellen Zustands der Web-Agenten | 进展幻影? 评估网络代理目前的状况 [2504.01382v3](http://arxiv.org/abs/2504.01382v3)
 
 **Authors**: Tianci Xue, Weijian Qi, Tianneng Shi, Chan Hee Song, Boyu Gou, Dawn Song, Huan Sun, Yu Su
@@ -13956,6 +15215,7 @@ As digitalization and cloud technologies evolve, the web is becoming increasingl
 
 ## Article 1259
 ### Title@2025-05-24 (6): LogicCat: A Chain-of-Thought Text-to-SQL Benchmark for Multi-Domain   Reasoning Challenges
+
 **Title**: LogicCat: A Chain-of-Thought Text-to-SQL Benchmark for Multi-Domain   Reasoning Challenges | LogicCat: Ein Chain-of-Thought-Text-to-SQL-Benchmark für Multi-Domain-Reasoning-Herausforderungen | LocicCat:多领域合理性挑战的 " 探索链 " 文本到SQL基准 [2505.18744v1](http://arxiv.org/abs/2505.18744v1)
 
 **Authors**: Tao Liu, Hongying Zan, Yifan Li, Dixuan Zhang, Lulu Kong, Haixin Liu, Jiaming Hou, Aoze Zheng, Rui Li, Yiming Qiao, Zewei Luo, Qi Wang, Zhiqiang Zhang, Jiaxi Li, Supeng Liu, Kunli Zhang, Min Peng
@@ -13966,6 +15226,7 @@ Text-to-SQL is a fundamental task in natural language processing that seeks to t
 
 ## Article 1260
 ### Title@2025-05-24 (6): Interpretable Company Similarity with Sparse Autoencoders
+
 **Title**: Interpretable Company Similarity with Sparse Autoencoders | Interpretierbare Firmenähnlichkeit mit Sparse Autoencodern | 与Sparse Autoencolders 相似 [2412.02605v3](http://arxiv.org/abs/2412.02605v3)
 
 **Authors**: Marco Molinari, Victor Shao, Luca Imeneo, Mateusz Mikolajczak, Vladimir Tregubiak, Abhimanyu Pandey, Sebastian Kuznetsov Ryder Torres Pereira
@@ -13976,6 +15237,7 @@ Determining company similarity is a vital task in finance, underpinning risk man
 
 ## Article 1261
 ### Title@2025-05-24 (6): Feature Extraction and Steering for Enhanced Chain-of-Thought Reasoning   in Language Models
+
 **Title**: Feature Extraction and Steering for Enhanced Chain-of-Thought Reasoning   in Language Models | Feature-Extraktion und -Lenkung für eine verbesserte Kettenbildung in Sprachmodellen | 语言模型中强化研究链理由的特征采掘和指南 [2505.15634v2](http://arxiv.org/abs/2505.15634v2)
 
 **Authors**: Zihao Li, Xu Wang, Yuzhe Yang, Ziyu Yao, Haoyi Xiong, Mengnan Du
@@ -13986,6 +15248,7 @@ Large Language Models (LLMs) demonstrate the ability to solve reasoning and math
 
 ## Article 1262
 ### Title@2025-05-24 (6): ReGUIDE: Data Efficient GUI Grounding via Spatial Reasoning and Search
+
 **Title**: ReGUIDE: Data Efficient GUI Grounding via Spatial Reasoning and Search | ReGUIDE: Dateneffizientes GUI Grounding über räumliche Vernunft und Suche | 数据高效界面:通过空间理性和搜索进行数据高效界面定位 [2505.15259v2](http://arxiv.org/abs/2505.15259v2)
 
 **Authors**: Hyunseok Lee, Jeonghoon Kim, Beomjun Kim, Jihoon Tack, Chansong Jo, Jaehong Lee, Cheonbok Park, Sookyo In, Jinwoo Shin, Kang Min Yoo
@@ -13996,6 +15259,7 @@ Recent advances in Multimodal Large Language Models (MLLMs) have enabled autonom
 
 ## Article 1263
 ### Title@2025-05-24 (6): Demonstration Selection for In-Context Learning via Reinforcement   Learning
+
 **Title**: Demonstration Selection for In-Context Learning via Reinforcement   Learning | Demonstrationsauswahl für das In-Context-Lernen mittels Verstärkungs-Lernen | 通过强化学习,通过强化学习,选入内文学习的示范 [2412.03966v2](http://arxiv.org/abs/2412.03966v2)
 
 **Authors**: Xubin Wang, Jianfei Wu, Yichen Yuan, Deyu Cai, Mingzhe Li, Weijia Jia
@@ -14006,6 +15270,7 @@ Diversity in demonstration selection is critical for enhancing model generalizat
 
 ## Article 1264
 ### Title@2025-05-24 (6): Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking
+
 **Title**: Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking | Zuckerbeschichtetes Gift: Benign Generation entsperrt LLM Jailbreaking | 食糖毒物:善后一代解锁 LLM 监狱破解 [2504.05652v2](http://arxiv.org/abs/2504.05652v2)
 
 **Authors**: Yu-Hang Wu, Yu-Jie Xiong, Hao Zhang, Jia-Chen Zhang, Zheng Zhou
@@ -14016,6 +15281,7 @@ With the increasingly deep integration of large language models (LLMs) across di
 
 ## Article 1265
 ### Title@2025-05-24 (6): Evaluating the Usefulness of Non-Diagnostic Speech Data for Developing   Parkinson's Disease Classifiers
+
 **Title**: Evaluating the Usefulness of Non-Diagnostic Speech Data for Developing   Parkinson's Disease Classifiers | Bewertung der Nützlichkeit nicht-diagnostischer Sprachdaten für die Entwicklung von Parkinson-Krankheitsklassifikatoren | 评价发展帕金森病分级器的非诊断性语音数据的用处 [2505.18722v1](http://arxiv.org/abs/2505.18722v1)
 
 **Authors**: Terry Yi Zhong, Esther Janse, Cristian Tejedor-Garcia, Louis ten Bosch, Martha Larson
@@ -14026,6 +15292,7 @@ Speech-based Parkinson's disease (PD) detection has gained attention for its aut
 
 ## Article 1266
 ### Title@2025-05-24 (6): Optimal Transport-Based Token Weighting scheme for Enhanced Preference   Optimization
+
 **Title**: Optimal Transport-Based Token Weighting scheme for Enhanced Preference   Optimization | Optimales Transport-basiertes Token-Gewichtungssystem für verbesserte Preference-Optimierung | 增强优惠优化的优化运输托肯加权计划 [2505.18720v1](http://arxiv.org/abs/2505.18720v1)
 
 **Authors**: Meng Li, Guangda Huzhang, Haibo Zhang, Xiting Wang, Anxiang Zeng
@@ -14036,6 +15303,7 @@ Direct Preference Optimization (DPO) has emerged as a promising framework for al
 
 ## Article 1267
 ### Title@2025-05-24 (6): Neural Parameter Search for Slimmer Fine-Tuned Models and Better   Transfer
+
 **Title**: Neural Parameter Search for Slimmer Fine-Tuned Models and Better   Transfer | Neurale Parameter Suche nach schlankeren Modellen und besserer Übertragung | 搜索细微精制模型和更好传输的神经参数 [2505.18713v1](http://arxiv.org/abs/2505.18713v1)
 
 **Authors**: Guodong Du, Zitao Fang, Jing Li, Junlin Li, Runhua Jiang, Shuyang Yu, Yifei Guo, Yangneng Chen, Sim Kuan Goh, Ho-Kin Tang, Daojing He, Honghai Liu, Min Zhang
@@ -14046,6 +15314,7 @@ Foundation models and their checkpoints have significantly advanced deep learnin
 
 ## Article 1268
 ### Title@2025-05-24 (6): Dynamic Manifold Evolution Theory: Modeling and Stability Analysis of   Latent Representations in Large Language Models
+
 **Title**: Dynamic Manifold Evolution Theory: Modeling and Stability Analysis of   Latent Representations in Large Language Models | Dynamische Manifold Evolutionstheorie: Modellierung und Stabilitätsanalyse latenter Repräsentationen in großen Sprachmodellen | 动态操纵动态进化理论:大语言模型中前代代表的建模和稳定分析 [2505.20340v1](http://arxiv.org/abs/2505.20340v1)
 
 **Authors**: Yukun Zhang, Qi Dong
@@ -14056,6 +15325,7 @@ We introduce Dynamic Manifold Evolution Theory (DMET),a unified framework that m
 
 ## Article 1269
 ### Title@2025-05-24 (6): What Is That Talk About? A Video-to-Text Summarization Dataset for   Scientific Presentations
+
 **Title**: What Is That Talk About? A Video-to-Text Summarization Dataset for   Scientific Presentations | Worum geht es dabei? Ein Video-zu-Text-Zusammenfassungsdatensatz für wissenschaftliche Präsentationen | 这是在谈论什么?一个用于科学演示的视频到文字汇总数据集 [2502.08279v4](http://arxiv.org/abs/2502.08279v4)
 
 **Authors**: Dongqi Liu, Chenxi Whitehouse, Xi Yu, Louis Mahon, Rohit Saxena, Zheng Zhao, Yifu Qiu, Mirella Lapata, Vera Demberg
@@ -14066,6 +15336,7 @@ Transforming recorded videos into concise and accurate textual summaries is a gr
 
 ## Article 1270
 ### Title@2025-05-24 (6): Improving Bangla Linguistics: Advanced LSTM, Bi-LSTM, and Seq2Seq Models   for Translating Sylheti to Modern Bangla
+
 **Title**: Improving Bangla Linguistics: Advanced LSTM, Bi-LSTM, and Seq2Seq Models   for Translating Sylheti to Modern Bangla | Verbesserung der Bangla-Linguistik: Fortgeschrittene LSTM-, Bi-LSTM- und Seq2Seq-Modelle zur Übertragung von Sylheti auf moderne Bangla | 改进孟加拉语言:高级LSTM、Bi-LSTM和Seq2Seqeq 将Sylheti转换为现代孟加拉语的模式 [2505.18709v1](http://arxiv.org/abs/2505.18709v1)
 
 **Authors**: Sourav Kumar Das, Md. Julkar Naeen, MD. Jahidul Islam, Md. Anisul Haque Sajeeb, Narayan Ranjan Chakraborty, Mayen Uddin Mojumdar
@@ -14076,6 +15347,7 @@ Bangla or Bengali is the national language of Bangladesh, people from different 
 
 ## Article 1271
 ### Title@2025-05-24 (6): A General Knowledge Injection Framework for ICD Coding
+
 **Title**: A General Knowledge Injection Framework for ICD Coding | Ein allgemeiner Wissenseinspritzrahmen für ICD Coding | ICD 编码一般知识输入框架 [2505.18708v1](http://arxiv.org/abs/2505.18708v1)
 
 **Authors**: Xu Zhang, Kun Zhang, Wenxin Ma, Rongsheng Wang, Chenxu Wu, Yingtai Li, S. Kevin Zhou
@@ -14086,6 +15358,7 @@ ICD Coding aims to assign a wide range of medical codes to a medical text docume
 
 ## Article 1272
 ### Title@2025-05-24 (6): OpenOmni: Advancing Open-Source Omnimodal Large Language Models with   Progressive Multimodal Alignment and Real-Time Self-Aware Emotional Speech   Synthesis
+
 **Title**: OpenOmni: Advancing Open-Source Omnimodal Large Language Models with   Progressive Multimodal Alignment and Real-Time Self-Aware Emotional Speech   Synthesis | OpenOmni: Advancing Open-Source Omnimodale große Sprachmodelle mit progressiver multimodaler Ausrichtung und Echtzeit-Self-Aware-Emotional Speech-Synthese | OpenOmni:推进开放源码全现代大语言模式,采用渐进式多模式调整和实时自觉情感言语合成 [2501.04561v5](http://arxiv.org/abs/2501.04561v5)
 
 **Authors**: Run Luo, Ting-En Lin, Haonan Zhang, Yuchuan Wu, Xiong Liu, Min Yang, Yongbin Li, Longze Chen, Jiaming Li, Lei Zhang, Yangyi Chen, Xiaobo Xia, Hamid Alinejad-Rokny, Fei Huang
@@ -14096,6 +15369,7 @@ Recent advancements in omnimodal learning have significantly improved understand
 
 ## Article 1273
 ### Title@2025-05-24 (6): Towards Semantic Integration of Opinions: Unified Opinion Concepts   Ontology and Extraction Task
+
 **Title**: Towards Semantic Integration of Opinions: Unified Opinion Concepts   Ontology and Extraction Task | Auf dem Weg zur semantischen Integration von Meinungen: Einheitliche Meinungskonzepte Ontologie und Extraktionsaufgabe | 争取在语义上综合各种意见:统一意见概念的本体学和采掘业任务 [2505.18703v1](http://arxiv.org/abs/2505.18703v1)
 
 **Authors**: Gaurav Negi, Dhairya Dalal, Omnia Zayed, Paul Buitelaar
@@ -14106,6 +15380,7 @@ This paper introduces the Unified Opinion Concepts (UOC) ontology to integrate o
 
 ## Article 1274
 ### Title@2025-05-24 (6): Assessing the Capability of LLMs in Solving POSCOMP Questions
+
 **Title**: Assessing the Capability of LLMs in Solving POSCOMP Questions | Bewertung der Fähigkeit von LLM bei der Lösung von POSCOMP-Fragen | 评估LLLMs在解决POSCOMP问题方面的能力 [2505.20338v1](http://arxiv.org/abs/2505.20338v1)
 
 **Authors**: Cayo Viegas, Rohit Gheyi, Márcio Ribeiro
@@ -14116,6 +15391,7 @@ Recent advancements in Large Language Models (LLMs) have significantly expanded 
 
 ## Article 1275
 ### Title@2025-05-24 (6): Benchmarking and Rethinking Knowledge Editing for Large Language Models
+
 **Title**: Benchmarking and Rethinking Knowledge Editing for Large Language Models | Benchmarking und Rethinking Knowledge Editing für große Sprachmodelle | 大语言模式知识编辑基准制定和重新思考 [2505.18690v1](http://arxiv.org/abs/2505.18690v1)
 
 **Authors**: Guoxiu He, Xin Song, Futing Wang, Aixin Sun
@@ -14126,6 +15402,7 @@ Knowledge editing aims to update the embedded knowledge within Large Language Mo
 
 ## Article 1276
 ### Title@2025-05-24 (6): A statistically consistent measure of semantic uncertainty using   Language Models
+
 **Title**: A statistically consistent measure of semantic uncertainty using   Language Models | Ein statistisch konsistentes Maß semantischer Unsicherheit mittels Sprachmodellen | 使用语言模式统计一致的语义不确定性计量 [2502.00507v3](http://arxiv.org/abs/2502.00507v3)
 
 **Authors**: Yi Liu
@@ -14136,6 +15413,7 @@ To address the challenge of quantifying uncertainty in the outputs generated by 
 
 ## Article 1277
 ### Title@2025-05-24 (6): Large Language Models in the Task of Automatic Validation of Text   Classifier Predictions
+
 **Title**: Large Language Models in the Task of Automatic Validation of Text   Classifier Predictions | Große Sprachmodelle in der Aufgabe der automatischen Validierung von Textklassifikatoren Vorhersagen | 文本分类自动验证任务中的大语言模型 [2505.18688v1](http://arxiv.org/abs/2505.18688v1)
 
 **Authors**: Aleksandr Tsymbalov
@@ -14146,6 +15424,7 @@ Machine learning models for text classification are trained to predict a class f
 
 ## Article 1278
 ### Title@2025-05-24 (6): From Generation to Detection: A Multimodal Multi-Task Dataset for   Benchmarking Health Misinformation
+
 **Title**: From Generation to Detection: A Multimodal Multi-Task Dataset for   Benchmarking Health Misinformation | Von der Generation zur Erkennung: Ein multimodaler Multi-Task-Datensatz zum Benchmarking von Gesundheitsmissinformationen | 从产生到检测:用于确定健康错误信息基准的多式联运多任务数据集 [2505.18685v1](http://arxiv.org/abs/2505.18685v1)
 
 **Authors**: Zhihao Zhang, Yiran Zhang, Xiyue Zhou, Liting Huang, Imran Razzak, Preslav Nakov, Usman Naseem
@@ -14156,6 +15435,7 @@ Infodemics and health misinformation have significant negative impact on individ
 
 ## Article 1279
 ### Title@2025-05-24 (6): TULUN: Transparent and Adaptable Low-resource Machine Translation
+
 **Title**: TULUN: Transparent and Adaptable Low-resource Machine Translation | TULUN: Transparente und anpassungsfähige Maschinelle Übersetzung mit geringer Ressource | TULUN: 透明和可调适的低资源机器翻译 [2505.18683v1](http://arxiv.org/abs/2505.18683v1)
 
 **Authors**: Raphaël Merx, Hanna Suominen, Lois Hong, Nick Thieberger, Trevor Cohn, Ekaterina Vylomova
@@ -14166,6 +15446,7 @@ Machine translation (MT) systems that support low-resource languages often strug
 
 ## Article 1280
 ### Title@2025-05-24 (6): $PD^3F$: A Pluggable and Dynamic DoS-Defense Framework Against Resource   Consumption Attacks Targeting Large Language Models
+
 **Title**: $PD^3F$: A Pluggable and Dynamic DoS-Defense Framework Against Resource   Consumption Attacks Targeting Large Language Models | $PD^3F$: Ein steckbares und dynamisches DoS-Defense-Framework gegen Angriffe auf den Ressourcenverbrauch | $PD3F$:针对大语言模式的针对资源消费攻击的可渗透和动态的多斯防御框架 [2505.18680v1](http://arxiv.org/abs/2505.18680v1)
 
 **Authors**: Yuanhe Zhang, Xinyue Wang, Haoran Gao, Zhenhong Zhou, Fanyu Meng, Yuyao Zhang, Sen Su
@@ -14176,6 +15457,7 @@ Large Language Models (LLMs), due to substantial computational requirements, are
 
 ## Article 1281
 ### Title@2025-05-24 (6): Safety in Large Reasoning Models: A Survey
+
 **Title**: Safety in Large Reasoning Models: A Survey | Sicherheit in großen vernünftigen Modellen: Eine Umfrage | 大理由模型中的安全性:调查 [2504.17704v3](http://arxiv.org/abs/2504.17704v3)
 
 **Authors**: Cheng Wang, Yue Liu, Baolong Bi, Duzhen Zhang, Zhong-Zhi Li, Yingwei Ma, Yufei He, Shengju Yu, Xinfeng Li, Junfeng Fang, Jiaheng Zhang, Bryan Hooi
@@ -14186,6 +15468,7 @@ Large Reasoning Models (LRMs) have exhibited extraordinary prowess in tasks like
 
 ## Article 1282
 ### Title@2025-05-24 (6): Social Good or Scientific Curiosity? Uncovering the Research Framing   Behind NLP Artefacts
+
 **Title**: Social Good or Scientific Curiosity? Uncovering the Research Framing   Behind NLP Artefacts | Sozialgut oder wissenschaftliche Neugier? Entdeckung der Forschung hinter NLP-Artefakten | 社会良好还是科学好奇? 发现NLP艺术作品背后的研究阵形 [2505.18677v1](http://arxiv.org/abs/2505.18677v1)
 
 **Authors**: Eric Chamoun, Nedjma Ousidhoum, Michael Schlichtkrull, Andreas Vlachos
@@ -14196,6 +15479,7 @@ Clarifying the research framing of NLP artefacts (e.g., models, datasets, etc.) 
 
 ## Article 1283
 ### Title@2025-05-24 (6): IRIS: Interactive Research Ideation System for Accelerating Scientific   Discovery
+
 **Title**: IRIS: Interactive Research Ideation System for Accelerating Scientific   Discovery | IRIS: Interaktives Forschungs-Ideierungssystem zur Beschleunigung der wissenschaftlichen Entdeckung | IRIS:加速科学发现交互式研究标志系统 [2504.16728v2](http://arxiv.org/abs/2504.16728v2)
 
 **Authors**: Aniketh Garikaparthi, Manasi Patwardhan, Lovekesh Vig, Arman Cohan
@@ -14206,6 +15490,7 @@ The rapid advancement in capabilities of large language models (LLMs) raises a p
 
 ## Article 1284
 ### Title@2025-05-24 (6): Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual   Reasoning from Transit Maps
+
 **Title**: Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual   Reasoning from Transit Maps | Kann MLLMs mich nach Hause führen? Eine Benchmark-Studie zur feinkörnigen visuellen Vernunft von Transit Maps | MLLMM MLLM 指导我回家吗? 关于过境地图的精美视觉依据基准研究 [2505.18675v1](http://arxiv.org/abs/2505.18675v1)
 
 **Authors**: Sicheng Feng, Song Wang, Shuyi Ouyang, Lingdong Kong, Zikai Song, Jianke Zhu, Huan Wang, Xinchao Wang
@@ -14216,6 +15501,7 @@ Multimodal large language models (MLLMs) have recently achieved significant prog
 
 ## Article 1285
 ### Title@2025-05-24 (6): Cross-Lingual Pitfalls: Automatic Probing Cross-Lingual Weakness of   Multilingual Large Language Models
+
 **Title**: Cross-Lingual Pitfalls: Automatic Probing Cross-Lingual Weakness of   Multilingual Large Language Models | Cross-Lingual Pitfalls: Automatisches Probieren von Cross-Lingual-Schwächen bei mehrsprachigen großen Sprachmodellen | 跨语言空洞:多种语言大语言模式的自动试探跨语言弱点 [2505.18673v1](http://arxiv.org/abs/2505.18673v1)
 
 **Authors**: Zixiang Xu, Yanbo Wang, Yue Huang, Xiuying Chen, Jieyu Zhao, Meng Jiang, Xiangliang Zhang
@@ -14226,6 +15512,7 @@ Large Language Models (LLMs) have achieved remarkable success in Natural Languag
 
 ## Article 1286
 ### Title@2025-05-24 (6): MOSLIM:Align with diverse preferences in prompts through reward   classification
+
 **Title**: MOSLIM:Align with diverse preferences in prompts through reward   classification | MOSLIM: Mit verschiedenen Präferenzen in Aufforderungen durch Prämienklassifizierung ausrichten | MOSLIM:通过奖励分类与各种偏好保持一致 [2505.20336v1](http://arxiv.org/abs/2505.20336v1)
 
 **Authors**: Yu Zhang, Wanli Jiang, Zhengyu Yang
@@ -14236,6 +15523,7 @@ The multi-objective alignment of Large Language Models (LLMs) is essential for e
 
 ## Article 1287
 ### Title@2025-05-24 (6): Language Model Distillation: A Temporal Difference Imitation Learning   Perspective
+
 **Title**: Language Model Distillation: A Temporal Difference Imitation Learning   Perspective | Sprachmodell Destillation: Ein zeitlicher Unterschied Imitation Lernperspektive | 语言模型蒸馏:时间差异差异模拟学习视角 [2505.20335v1](http://arxiv.org/abs/2505.20335v1)
 
 **Authors**: Zishun Yu, Shangzhe Li, Xinhua Zhang
@@ -14246,6 +15534,7 @@ Large language models have led to significant progress across many NLP tasks, al
 
 ## Article 1288
 ### Title@2025-05-24 (6): Little Data, Big Impact: Privacy-Aware Visual Language Models via   Minimal Tuning
+
 **Title**: Little Data, Big Impact: Privacy-Aware Visual Language Models via   Minimal Tuning | Little Data, Big Impact: Datenschutzerklärung Visual Language Models via Minimal Tuning | Little Data, Big impact: 通过最小图案生成的隐私-软件视觉语言模型 [2405.17423v3](http://arxiv.org/abs/2405.17423v3)
 
 **Authors**: Laurens Samson, Nimrod Barazani, Sennay Ghebreab, Yuki M. Asano
@@ -14256,6 +15545,7 @@ As Visual Language Models (VLMs) become increasingly embedded in everyday applic
 
 ## Article 1289
 ### Title@2025-05-24 (6): ChartGalaxy: A Dataset for Infographic Chart Understanding and   Generation
+
 **Title**: ChartGalaxy: A Dataset for Infographic Chart Understanding and   Generation | ChartGalaxy: Ein Datensatz für Infografik Chart Verstehen und Generieren | 图表银河:用于了解和生成信息图表的数据集 [2505.18668v1](http://arxiv.org/abs/2505.18668v1)
 
 **Authors**: Zhen Li, Yukai Guo, Duan Li, Xinyuan Guo, Bowen Li, Lanxi Xiao, Shenyu Qiao, Jiashu Chen, Zijian Wu, Hui Zhang, Xinhuan Shu, Shixia Liu
@@ -14266,6 +15556,7 @@ Infographic charts are a powerful medium for communicating abstract data by comb
 
 ## Article 1290
 ### Title@2025-05-24 (6): Robustness in Large Language Models: A Survey of Mitigation Strategies   and Evaluation Metrics
+
 **Title**: Robustness in Large Language Models: A Survey of Mitigation Strategies   and Evaluation Metrics | Robustheit in großen Sprachmodellen: Eine Umfrage zu Mitigationsstrategien und Evaluationsmetrics | 大语言模式的强强力:减轻战略调查和评价 [2505.18658v1](http://arxiv.org/abs/2505.18658v1)
 
 **Authors**: Pankaj Kumar, Subhankar Mishra
@@ -14276,6 +15567,7 @@ Large Language Models (LLMs) have emerged as a promising cornerstone for the dev
 
 ## Article 1291
 ### Title@2025-05-24 (6): Climate-Eval: A Comprehensive Benchmark for NLP Tasks Related to Climate   Change
+
 **Title**: Climate-Eval: A Comprehensive Benchmark for NLP Tasks Related to Climate   Change | Climate-Eval: Ein umfassender Maßstab für NLP-Aufgaben im Zusammenhang mit dem Klimawandel | 气候 -- -- Eval:与气候变化有关的国家土地规划任务的综合基准 [2505.18653v1](http://arxiv.org/abs/2505.18653v1)
 
 **Authors**: Murathan Kurfalı, Shorouq Zahra, Joakim Nivre, Gabriele Messori
@@ -14286,6 +15578,7 @@ Climate-Eval is a comprehensive benchmark designed to evaluate natural language 
 
 ## Article 1292
 ### Title@2025-05-24 (6): On the Emergence of Linear Analogies in Word Embeddings
+
 **Title**: On the Emergence of Linear Analogies in Word Embeddings | Zur Entstehung linearer Analogien in Word-Embeddings | 单线模拟在文字嵌入中的出现 [2505.18651v1](http://arxiv.org/abs/2505.18651v1)
 
 **Authors**: Daniel J. Korchinski, Dhruva Karkada, Yasaman Bahri, Matthieu Wyart
@@ -14296,6 +15589,7 @@ Models such as Word2Vec and GloVe construct word embeddings based on the co-occu
 
 ## Article 1293
 ### Title@2025-05-24 (6): Can Prompting LLMs Unlock Hate Speech Detection across Languages? A   Zero-shot and Few-shot Study
+
 **Title**: Can Prompting LLMs Unlock Hate Speech Detection across Languages? A   Zero-shot and Few-shot Study | Kann LLMs die Hate Speech Detection über Sprachen hinweg verhindern? Eine Null- und Wenige-Schuss-Studie | 能够跨语言探测出LMs Unlock仇恨言论吗? [2505.06149v3](http://arxiv.org/abs/2505.06149v3)
 
 **Authors**: Faeze Ghorbanpour, Daryna Dementieva, Alexander Fraser
@@ -14306,6 +15600,7 @@ Despite growing interest in automated hate speech detection, most existing appro
 
 ## Article 1294
 ### Title@2025-05-24 (6): Data-Efficient Hate Speech Detection via Cross-Lingual Nearest Neighbor   Retrieval with Limited Labeled Data
+
 **Title**: Data-Efficient Hate Speech Detection via Cross-Lingual Nearest Neighbor   Retrieval with Limited Labeled Data | Dateneffiziente Hate Speech-Erkennung durch Cross-Lingual Nearchbor Retrieval mit limitierten beschrifteten Daten | 通过带有有限标签数据的跨近近邻检索检索数据有效仇恨言论检测 [2505.14272v2](http://arxiv.org/abs/2505.14272v2)
 
 **Authors**: Faeze Ghorbanpour, Daryna Dementieva, Alexander Fraser
@@ -14316,6 +15611,7 @@ Considering the importance of detecting hateful language, labeled hate speech da
 
 ## Article 1295
 ### Title@2025-05-24 (6): SEW: Self-Evolving Agentic Workflows for Automated Code Generation
+
 **Title**: SEW: Self-Evolving Agentic Workflows for Automated Code Generation | SEW: Selbst-evolvierende Agentische Workflows für die automatisierte Codegenerierung | SEW:自动代码生成的自演动态制剂工作流程 [2505.18646v1](http://arxiv.org/abs/2505.18646v1)
 
 **Authors**: Siwei Liu, Jinyuan Fang, Han Zhou, Yingxu Wang, Zaiqiao Meng
@@ -14326,6 +15622,7 @@ Large Language Models (LLMs) have demonstrated effectiveness in code generation 
 
 ## Article 1296
 ### Title@2025-05-24 (6): Enhancing Generalization of Speech Large Language Models with Multi-Task   Behavior Imitation and Speech-Text Interleaving
+
 **Title**: Enhancing Generalization of Speech Large Language Models with Multi-Task   Behavior Imitation and Speech-Text Interleaving | Verbesserung der Verallgemeinerung von sprachgroßen Sprachmodellen mit Multi-Task Behavior Imitation und Speech-Text Interleaving | 加强具有多任务行为模拟和语音文本互换功能的语音大语言模式的通用化 [2505.18644v1](http://arxiv.org/abs/2505.18644v1)
 
 **Authors**: Jingran Xie, Xiang Li, Hui Wang, Yue Yu, Yang Xiang, Xixin Wu, Zhiyong Wu
@@ -14336,6 +15633,7 @@ Large language models (LLMs) have shown remarkable generalization across tasks, 
 
 ## Article 1297
 ### Title@2025-05-24 (6): Skip-Thinking: Chunk-wise Chain-of-Thought Distillation Enable Smaller   Language Models to Reason Better and Faster
+
 **Title**: Skip-Thinking: Chunk-wise Chain-of-Thought Distillation Enable Smaller   Language Models to Reason Better and Faster | Skip-Thinking: Chain-of-Thought-Destillation ermöglicht kleinere Sprachmodelle besser und schneller zu begründen | 跳过思考: 切入式深思熟虑的蒸馏链让更小的语言模型更好、更快地使用 [2505.18642v1](http://arxiv.org/abs/2505.18642v1)
 
 **Authors**: Xiao Chen, Sihang Zhou, Ke Liang, Xiaoyu Sun, Xinwang Liu
@@ -14346,6 +15644,7 @@ Chain-of-thought (CoT) distillation allows a large language model (LLM) to guide
 
 ## Article 1298
 ### Title@2025-05-24 (6): Multi-Step Alignment as Markov Games: An Optimistic Online Gradient   Descent Approach with Convergence Guarantees
+
 **Title**: Multi-Step Alignment as Markov Games: An Optimistic Online Gradient   Descent Approach with Convergence Guarantees | Multi-Step Alignment als Markov Games: Ein optimaler Online-Gradient-Abstieg mit Konvergenzgarantien | 作为Markov运动会的多步对齐:带有一致保障的乐观的在线逐渐递增人种方法 [2502.12678v2](http://arxiv.org/abs/2502.12678v2)
 
 **Authors**: Yongtao Wu, Luca Viano, Yihang Chen, Zhenyu Zhu, Kimon Antonakopoulos, Quanquan Gu, Volkan Cevher
@@ -14356,6 +15655,7 @@ Reinforcement Learning from Human Feedback (RLHF) has been highly successful in 
 
 ## Article 1299
 ### Title@2025-05-24 (6): Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via   Pseudo Query
+
 **Title**: Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via   Pseudo Query | Lookahead Q-Cache: Konsistentere KV-Cache-Eviktion durch Pseudo-Abfrage | LOSAhead Q-Cache : 通过 Pseudo 查询实现 KV 更一致的 CAche 切除 [2505.20334v1](http://arxiv.org/abs/2505.20334v1)
 
 **Authors**: Yixuan Wang, Shiyu Ji, Yijun Liu, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che
@@ -14366,6 +15666,7 @@ Large language models (LLMs) rely on key-value cache (KV cache) to accelerate de
 
 ## Article 1300
 ### Title@2025-05-24 (6): DDO: Dual-Decision Optimization via Multi-Agent Collaboration for   LLM-Based Medical Consultation
+
 **Title**: DDO: Dual-Decision Optimization via Multi-Agent Collaboration for   LLM-Based Medical Consultation | DDO: Dual-Decision-Optimierung durch Multi-Agent-Kollaboration für LLM-basierte medizinische Beratung | DDO:通过多方机构协作,优化基于LLM的医疗咨询的双重决定 [2505.18630v1](http://arxiv.org/abs/2505.18630v1)
 
 **Authors**: Zhihao Jia, Mingyi Jia, Junwen Duan, Jianxin Wang
@@ -14376,6 +15677,7 @@ Large Language Models (LLMs) demonstrate strong generalization and reasoning abi
 
 ## Article 1301
 ### Title@2025-05-24 (6): Multi-Scale Manifold Alignment: A Unified Framework for Enhanced   Explainability of Large Language Models
+
 **Title**: Multi-Scale Manifold Alignment: A Unified Framework for Enhanced   Explainability of Large Language Models | Multi-Scale Manifold Alignment: Ein einheitliches Framework zur besseren Erklärbarkeit großer Sprachmodelle | 多规模工作人员配置对齐:提高大语言模式解释性的统一框架 [2505.20333v1](http://arxiv.org/abs/2505.20333v1)
 
 **Authors**: Yukun Zhang, Qi Dong
@@ -14386,6 +15688,7 @@ Recent advances in Large Language Models (LLMs) have achieved strong performance
 
 ## Article 1302
 ### Title@2025-05-24 (6): HARP: Hesitation-Aware Reframing in Transformer Inference Pass
+
 **Title**: HARP: Hesitation-Aware Reframing in Transformer Inference Pass | HARP: Hezitation-Aware Reframing in Transformer Inferenz Pass | HARP: 变压器推断通过中的偏移-软件重新配置 [2412.07282v2](http://arxiv.org/abs/2412.07282v2)
 
 **Authors**: Romain Storaï, Seung-won Hwang
@@ -14396,6 +15699,7 @@ This paper aims to improve the performance of large language models by addressin
 
 ## Article 1303
 ### Title@2025-05-24 (6): Empirical Evaluation of Knowledge Distillation from Transformers to   Subquadratic Language Models
+
 **Title**: Empirical Evaluation of Knowledge Distillation from Transformers to   Subquadratic Language Models | Empirische Bewertung der Wissensdestillation von Transformern zu subquadratischen Sprachmodellen | 从变异器到次赤道语言模式的知识提炼经验评估 [2504.14366v2](http://arxiv.org/abs/2504.14366v2)
 
 **Authors**: Patrick Haller, Jonas Golde, Alan Akbik
@@ -14406,6 +15710,7 @@ Knowledge distillation is a widely used technique for compressing large language
 
 ## Article 1304
 ### Title@2025-05-24 (6): Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation?
+
 **Title**: Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation? | Können LLM-Wasserzeichen die unautorisierte Destillation von Wissen wirksam verhindern? | LLM Watermarks能否强有力地防止未经授权的知识蒸馏? [2502.11598v2](http://arxiv.org/abs/2502.11598v2)
 
 **Authors**: Leyi Pan, Aiwei Liu, Shiyu Huang, Yijian Lu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
@@ -14416,6 +15721,7 @@ The radioactive nature of Large Language Model (LLM) watermarking enables the de
 
 ## Article 1305
 ### Title@2025-05-24 (6): Can LLMs assist with Ambiguity? A Quantitative Evaluation of various   Large Language Models on Word Sense Disambiguation
+
 **Title**: Can LLMs assist with Ambiguity? A Quantitative Evaluation of various   Large Language Models on Word Sense Disambiguation | Kann LLMs mit Ambiguity helfen? Eine quantitative Bewertung verschiedener großer Sprachmodelle auf Word Sense Disambiguation | LLMs能否协助其模糊性? 量化评估关于 " Word Sense Disanderation " 的各种大语言模型。 [2411.18337v3](http://arxiv.org/abs/2411.18337v3)
 
 **Authors**: T. G. D. K. Sumanathilaka, Nicholas Micallef, Julian Hough
@@ -14426,6 +15732,7 @@ Ambiguous words are often found in modern digital communications. Lexical ambigu
 
 ## Article 1306
 ### Title@2025-05-24 (6): MAVL: A Multilingual Audio-Video Lyrics Dataset for Animated Song   Translation
+
 **Title**: MAVL: A Multilingual Audio-Video Lyrics Dataset for Animated Song   Translation | MAVL: Ein mehrsprachiger Audio-Video-Text Datensatz für animierte Song-Übersetzung | MAVL: 动动歌曲翻译多语种视听歌词数据集 [2505.18614v1](http://arxiv.org/abs/2505.18614v1)
 
 **Authors**: Woohyun Cho, Youngmin Kim, Sunghyun Lee, Youngjae Yu
@@ -14436,6 +15743,7 @@ Lyrics translation requires both accurate semantic transfer and preservation of 
 
 ## Article 1307
 ### Title@2025-05-24 (6): PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT   LLMs
+
 **Title**: PM-KVQ: Progressive Mixed-precision KV Cache Quantization for Long-CoT   LLMs | PM-KVQ: Progressive Mixed-Precision KV Cache Quantization für Long-CoT LLMs | PM-KVQ: 长 CoT LLMs 的渐进混合精度 KV 缓存量 [2505.18610v1](http://arxiv.org/abs/2505.18610v1)
 
 **Authors**: Tengxuan Liu, Shiyao Li, Jiayi Yang, Tianchen Zhao, Feng Zhou, Xiaohui Song, Guohao Dai, Shengen Yan, Huazhong Yang, Yu Wang
@@ -14446,6 +15754,7 @@ Recently, significant progress has been made in developing reasoning-capable Lar
 
 ## Article 1308
 ### Title@2025-05-24 (6): Flex-Judge: Think Once, Judge Anywhere
+
 **Title**: Flex-Judge: Think Once, Judge Anywhere | Flex-Richter: Denken Sie einmal, Richter überall | 灵活法官:想一想,法官 [2505.18601v1](http://arxiv.org/abs/2505.18601v1)
 
 **Authors**: Jongwoo Ko, Sungnyun Kim, Sungwoo Cho, Se-Young Yun
@@ -14456,6 +15765,7 @@ Human-generated reward signals are critical for aligning generative models with 
 
 ## Article 1309
 ### Title@2025-05-24 (6): SMI: An Information-Theoretic Metric for Predicting Model Knowledge   Solely from Pre-Training Signals
+
 **Title**: SMI: An Information-Theoretic Metric for Predicting Model Knowledge   Solely from Pre-Training Signals | SMI: Ein informationstheoretisches Metric zur Vorhersage von Modellwissen ausschließlich aus Vorschulungssignalen | SMI:从培训前信号中单独预测模型知识的信息理论计量方法 [2502.04066v3](http://arxiv.org/abs/2502.04066v3)
 
 **Authors**: Changhao Jiang, Ming Zhang, Junjie Ye, Xiaoran Fan, Yifei Cao, Jiajun Sun, Zhiheng Xi, Shihan Dou, Yi Dong, Yujiong Shen, Jingqi Tong, Zhen Wang, Tao Liang, Zhihui Fei, Mingyang Wan, Guojun Ma, Qi Zhang, Tao Gui, Xuanjing Huang
@@ -14466,6 +15776,7 @@ The GPT-4 technical report highlights the possibility of predicting model perfor
 
 ## Article 1310
 ### Title@2025-05-24 (6): Safety Alignment via Constrained Knowledge Unlearning
+
 **Title**: Safety Alignment via Constrained Knowledge Unlearning | Sicherheitsausrichtung durch eingeschränktes Wissen Unlernen | 通过受限制的知识实现安全协调 [2505.18588v1](http://arxiv.org/abs/2505.18588v1)
 
 **Authors**: Zesheng Shi, Yucheng Zhou, Jing Li
@@ -14476,6 +15787,7 @@ Despite significant progress in safety alignment, large language models (LLMs) r
 
 ## Article 1311
 ### Title@2025-05-24 (6): Model Extrapolation Expedites Alignment
+
 **Title**: Model Extrapolation Expedites Alignment | Modell Extrapolation Expeditionen Ausrichtung | 模型外推快速调整 [2404.16792v4](http://arxiv.org/abs/2404.16792v4)
 
 **Authors**: Chujie Zheng, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng
@@ -14486,6 +15798,7 @@ Given the high computational cost of preference alignment training of large lang
 
 ## Article 1312
 ### Title@2025-05-24 (6): Removal of Hallucination on Hallucination: Debate-Augmented RAG
+
 **Title**: Removal of Hallucination on Hallucination: Debate-Augmented RAG | Aufhebung der Halluzination auf Halluzination: Debatte-erweiterte RAG | 在幻觉中去除幻觉:辩论增强的RAG [2505.18581v1](http://arxiv.org/abs/2505.18581v1)
 
 **Authors**: Wentao Hu, Wengyu Zhang, Yiyang Jiang, Chen Jason Zhang, Xiaoyong Wei, Qing Li
@@ -14496,6 +15809,7 @@ Retrieval-Augmented Generation (RAG) enhances factual accuracy by integrating ex
 
 ## Article 1313
 ### Title@2025-05-24 (6): Enhancing Efficiency and Exploration in Reinforcement Learning for LLMs
+
 **Title**: Enhancing Efficiency and Exploration in Reinforcement Learning for LLMs | Steigerung der Effizienz und Exploration bei der Stärkung des Lernens für LLMs | 提高LLMM 强化学习的效率和探索 [2505.18573v1](http://arxiv.org/abs/2505.18573v1)
 
 **Authors**: Mengqi Liao, Xiangyu Xi, Ruinian Chen, Jia Leng, Yangen Hu, Ke Zeng, Shuai Liu, Huaiyu Wan
@@ -14506,6 +15820,7 @@ Reasoning large language models (LLMs) excel in complex tasks, which has drawn s
 
 ## Article 1314
 ### Title@2025-05-24 (6): ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for   Empathetic Response Generation via a RL-Diffusion Framework
+
 **Title**: ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for   Empathetic Response Generation via a RL-Diffusion Framework | ReflectDiffu: Reflect zwischen emotional-intent Ansteckung und Mimicry für Empathetic Response Generation über ein RL-Diffusion Framework | 反省:通过RL-扩散框架,对情感-情感内聚变和Mmimimicry之间的反射,以便产生同情性反应 [2409.10289v3](http://arxiv.org/abs/2409.10289v3)
 
 **Authors**: Jiahao Yuan, Zixiang Di, Zhiqing Cui, Guisong Yang, Usman Naseem
@@ -14516,6 +15831,7 @@ Empathetic response generation necessitates the integration of emotional and int
 
 ## Article 1315
 ### Title@2025-05-24 (6): From Word to World: Evaluate and Mitigate Culture Bias via Word   Association Test
+
 **Title**: From Word to World: Evaluate and Mitigate Culture Bias via Word   Association Test | Von Wort zu Welt: Bewertung und Mitigate Kultur Bias via Word Association Test | 从Word到世界:通过Word协会试验评价和消化文化偏见 [2505.18562v1](http://arxiv.org/abs/2505.18562v1)
 
 **Authors**: Xunlian Dai, Li Zhou, Benyou Wang, Haizhou Li
@@ -14526,6 +15842,7 @@ The human-centered word association test (WAT) serves as a cognitive proxy, reve
 
 ## Article 1316
 ### Title@2025-05-24 (6): TAG-INSTRUCT: Controlled Instruction Complexity Enhancement through   Structure-based Augmentation
+
 **Title**: TAG-INSTRUCT: Controlled Instruction Complexity Enhancement through   Structure-based Augmentation | TAG-INSTRUCT: Controlled Instruction Complexity Enhancement durch strukturbasierte Augmentation | TAG-INSTRSUCT:通过基于结构的增强增强控制性教学复杂度 [2505.18557v1](http://arxiv.org/abs/2505.18557v1)
 
 **Authors**: He Zhu, Zhiwen Ruan, Junyou Su, Xingwei He, Wenjia Zhang, Yun Chen, Guanhua Chen
@@ -14536,6 +15853,7 @@ High-quality instruction data is crucial for developing large language models (L
 
 ## Article 1317
 ### Title@2025-05-24 (6): Exploring the Vulnerability of the Content Moderation Guardrail in Large   Language Models via Intent Manipulation
+
 **Title**: Exploring the Vulnerability of the Content Moderation Guardrail in Large   Language Models via Intent Manipulation | Erforschung der Vulnerabilität der Content Moderation Guardrail in großen Sprachmodellen durch Intent Manipulation | 通过意向操纵探索大语言模型中内容调节保护栏的脆弱性 [2505.18556v1](http://arxiv.org/abs/2505.18556v1)
 
 **Authors**: Jun Zhuang, Haibo Jin, Ye Zhang, Zhengjian Kang, Wenbin Zhang, Gaby G. Dagher, Haohan Wang
@@ -14546,6 +15864,7 @@ Intent detection, a core component of natural language understanding, has consid
 
 ## Article 1318
 ### Title@2025-05-24 (6): Unraveling Misinformation Propagation in LLM Reasoning
+
 **Title**: Unraveling Misinformation Propagation in LLM Reasoning | Nichtverbreitung von Fehlinformationen in LLM-Reasoning | 以LLM 理由解释方式进行错误信息传播 [2505.18555v1](http://arxiv.org/abs/2505.18555v1)
 
 **Authors**: Yiyang Feng, Yichen Wang, Shaobo Cui, Boi Faltings, Mina Lee, Jiawei Zhou
@@ -14556,6 +15875,7 @@ Large Language Models (LLMs) have demonstrated impressive capabilities in reason
 
 ## Article 1319
 ### Title@2025-05-24 (6): MSA at BEA 2025 Shared Task: Disagreement-Aware Instruction Tuning for   Multi-Dimensional Evaluation of LLMs as Math Tutors
+
 **Title**: MSA at BEA 2025 Shared Task: Disagreement-Aware Instruction Tuning for   Multi-Dimensional Evaluation of LLMs as Math Tutors | MSA bei BEA 2025 Shared Task: Disagreement-Aware Instruction Tuning für die multidimensionale Bewertung von LLMs als Math Tutoren | BEA 2025年BEA管理事务管理事务协议 共同任务:对作为数学导师的LLMs进行多种不同类型评价的 [2505.18549v1](http://arxiv.org/abs/2505.18549v1)
 
 **Authors**: Baraa Hikal, Mohamed Basem, Islam Oshallah, Ali Hamdi
@@ -14566,6 +15886,7 @@ We present MSA-MathEval, our submission to the BEA 2025 Shared Task on evaluatin
 
 ## Article 1320
 ### Title@2025-05-24 (6): Composable Cross-prompt Essay Scoring by Merging Models
+
 **Title**: Composable Cross-prompt Essay Scoring by Merging Models | Composable Cross-prompt Essay Scoring by Merging Models | 通过合并模型进行可合成的跨速化 ESS Scay Scorporing [2505.18548v1](http://arxiv.org/abs/2505.18548v1)
 
 **Authors**: Sanwoo Lee, Kun Liang, Yunfang Wu
@@ -14576,6 +15897,7 @@ Recent advances in cross-prompt automated essay scoring (AES) typically train mo
 
 ## Article 1321
 ### Title@2025-05-24 (6): B-score: Detecting biases in large language models using response   history
+
 **Title**: B-score: Detecting biases in large language models using response   history | B-Score: Voreingenommenheit in großen Sprachmodellen anhand der Antworthistorie erkennen | B-序号:利用回应历史在大型语言模型中发现偏见 [2505.18545v1](http://arxiv.org/abs/2505.18545v1)
 
 **Authors**: An Vo, Mohammad Reza Taesiri, Daeyoung Kim, Anh Totti Nguyen
@@ -14586,6 +15908,7 @@ Large language models (LLMs) often exhibit strong biases, e.g, against women or 
 
 ## Article 1322
 ### Title@2025-05-24 (6): Unearthing Large Scale Domain-Specific Knowledge from Public Corpora
+
 **Title**: Unearthing Large Scale Domain-Specific Knowledge from Public Corpora | Großes Domain-Spezifisches Wissen aus der öffentlichen Corpora entschlüsseln | 从公共企业中挖掘出大型大型域域特定知识 [2401.14624v4](http://arxiv.org/abs/2401.14624v4)
 
 **Authors**: Zhaoye Fei, Yunfan Shao, Linyang Li, Zhiyuan Zeng, Conghui He, Qipeng Guo, Hang Yan, Dahua Lin, Xipeng Qiu
@@ -14596,6 +15919,7 @@ Large language models (LLMs) have demonstrated remarkable potential in various t
 
 ## Article 1323
 ### Title@2025-05-24 (6): Enhancing Character-Level Understanding in LLMs through Token Internal   Structure Learning
+
 **Title**: Enhancing Character-Level Understanding in LLMs through Token Internal   Structure Learning | Verbesserung des Charakter-Level-Verständnisses in LLMs durch Token Internal Structure Learning | 通过 Token 内部结构学习加强LLM女士的品级理解 [2411.17679v4](http://arxiv.org/abs/2411.17679v4)
 
 **Authors**: Zhu Xu, Zhiqiang Zhao, Zihan Zhang, Yuchi Liu, Quanwei Shen, Fei Liu, Yu Kuang, Jian He, Conglin Liu
@@ -14606,6 +15930,7 @@ Tokenization methods like Byte-Pair Encoding (BPE) enhance computational efficie
 
 ## Article 1324
 ### Title@2025-05-24 (6): NoveltyBench: Evaluating Language Models for Humanlike Diversity
+
 **Title**: NoveltyBench: Evaluating Language Models for Humanlike Diversity | NoveltyBench: Sprachmodelle für die menschliche Vielfalt bewerten | 新闻:评价促进人类多样性的语言模式 [2504.05228v3](http://arxiv.org/abs/2504.05228v3)
 
 **Authors**: Yiming Zhang, Harshita Diddee, Susan Holm, Hanchen Liu, Xinyue Liu, Vinay Samuel, Barry Wang, Daphne Ippolito
@@ -14616,6 +15941,7 @@ Language models have demonstrated remarkable capabilities on standard benchmarks
 
 ## Article 1325
 ### Title@2025-05-24 (6): Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal   Large Language Models
+
 **Title**: Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal   Large Language Models | Verstärkte Feinsteuerungskräfte, die die Fähigkeit multimodaler großer Sprachmodelle begründen | 多种多式大语言模式能力的理由 [2505.18536v1](http://arxiv.org/abs/2505.18536v1)
 
 **Authors**: Haoyuan Sun, Jiaqi Wu, Bo Xia, Yifu Luo, Yifei Zhao, Kai Qin, Xufei Lv, Tiantian Zhang, Yongzhe Chang, Xueqian Wang
@@ -14626,6 +15952,7 @@ Standing in 2025, at a critical juncture in the pursuit of Artificial General In
 
 ## Article 1326
 ### Title@2025-05-24 (6): InftyThink: Breaking the Length Limits of Long-Context Reasoning in   Large Language Models
+
 **Title**: InftyThink: Breaking the Length Limits of Long-Context Reasoning in   Large Language Models | InftyThink: Die Längengrenzen der Langkontext-Reasoning in großen Sprachmodellen durchbrechen | 思考:在大语言模式中打破长句理由的长度限制 [2503.06692v3](http://arxiv.org/abs/2503.06692v3)
 
 **Authors**: Yuchen Yan, Yongliang Shen, Yang Liu, Jin Jiang, Mengdi Zhang, Jian Shao, Yueting Zhuang
@@ -14636,6 +15963,7 @@ Advanced reasoning in large language models has achieved remarkable performance 
 
 ## Article 1327
 ### Title@2025-05-24 (6): SMART: Self-Aware Agent for Tool Overuse Mitigation
+
 **Title**: SMART: Self-Aware Agent for Tool Overuse Mitigation | SMART: Self-Aware Agent für Tool Overuse Mitigation | SMART: 减少工具过度使用自智能剂 [2502.11435v2](http://arxiv.org/abs/2502.11435v2)
 
 **Authors**: Cheng Qian, Emre Can Acikgoz, Hongru Wang, Xiusi Chen, Avirup Sil, Dilek Hakkani-Tür, Gokhan Tur, Heng Ji
@@ -14646,6 +15974,7 @@ Current Large Language Model (LLM) agents demonstrate strong reasoning and tool 
 
 ## Article 1328
 ### Title@2025-05-24 (6): metaTextGrad: Automatically optimizing language model optimizers
+
 **Title**: metaTextGrad: Automatically optimizing language model optimizers | metaTextGrad: Sprachmodell-Optimierer automatisch optimieren | setudeTextGrad: 自动优化语言模型优化器 [2505.18524v1](http://arxiv.org/abs/2505.18524v1)
 
 **Authors**: Guowei Xu, Mert Yuksekgonul, Carlos Guestrin, James Zou
@@ -14656,6 +15985,7 @@ Large language models (LLMs) are increasingly used in learning algorithms, evalu
 
 ## Article 1329
 ### Title@2025-05-24 (6): How Does Sequence Modeling Architecture Influence Base Capabilities of   Pre-trained Language Models? Exploring Key Architecture Design Principles to   Avoid Base Capabilities Degradation
+
 **Title**: How Does Sequence Modeling Architecture Influence Base Capabilities of   Pre-trained Language Models? Exploring Key Architecture Design Principles to   Avoid Base Capabilities Degradation | Wie beeinflusst Sequence-Modellierung Architektur Basisfähigkeiten von vortrainierten Sprachmodellen? Erforschen von Schlüsselarchitektur-Design-Prinzipien zur Vermeidung von Basisfähigkeiten Degradation | 如何按序列模拟结构模型模拟培训前语言模型的建筑影响基础能力? 探索重要建筑设计原则,以避免基础能力退化 [2505.18522v1](http://arxiv.org/abs/2505.18522v1)
 
 **Authors**: Xin Lu, Yanyan Zhao, Si Wei, Shijin Wang, Bing Qin, Ting Liu
@@ -14666,6 +15996,7 @@ Pre-trained language models represented by the Transformer have been proven to p
 
 ## Article 1330
 ### Title@2025-05-24 (6): AcuRank: Uncertainty-Aware Adaptive Computation for Listwise Reranking
+
 **Title**: AcuRank: Uncertainty-Aware Adaptive Computation for Listwise Reranking | AcuRank: Ungewissheits-Bewusst-Adaptive-Computation für Listwise-Reranking | AcuRank: 列表排序的不确定性- 软件适应性计算 [2505.18512v1](http://arxiv.org/abs/2505.18512v1)
 
 **Authors**: Soyoung Yoon, Gyuwan Kim, Gyu-Hwung Cho, Seung-won Hwang
@@ -14676,6 +16007,7 @@ Listwise reranking with large language models (LLMs) enhances top-ranked results
 
 ## Article 1331
 ### Title@2025-05-24 (6): EscapeBench: Towards Advancing Creative Intelligence of Language Model   Agents
+
 **Title**: EscapeBench: Towards Advancing Creative Intelligence of Language Model   Agents | EscapeBench: Auf dem Weg zu mehr kreativer Intelligenz von Sprachmodell-Agenten | 逃避:努力推进语言示范代理的创意智能 [2412.13549v2](http://arxiv.org/abs/2412.13549v2)
 
 **Authors**: Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, Xiusi Chen, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji
@@ -14686,6 +16018,7 @@ Language model agents excel in long-session planning and reasoning, but existing
 
 ## Article 1332
 ### Title@2025-05-24 (6): Group-Adaptive Threshold Optimization for Robust AI-Generated Text   Detection
+
 **Title**: Group-Adaptive Threshold Optimization for Robust AI-Generated Text   Detection | Gruppenadaptive Schwellenoptimierung für robuste KI-generierte Texterkennung | 强力AI-发光的文本探测的集团-适应性阈值优化 [2502.04528v4](http://arxiv.org/abs/2502.04528v4)
 
 **Authors**: Minseok Jung, Cynthia Fuertes Panizo, Liam Dugan, Yi R., Fung, Pin-Yu Chen, Paul Pu Liang
@@ -14696,6 +16029,7 @@ The advancement of large language models (LLMs) has made it difficult to differe
 
 ## Article 1333
 ### Title@2025-05-24 (6): Knowledge Grafting of Large Language Models
+
 **Title**: Knowledge Grafting of Large Language Models | Wissen Graften von großen Sprachmodellen | 大语言模式知识转让 [2505.18502v1](http://arxiv.org/abs/2505.18502v1)
 
 **Authors**: Guodong Du, Xuanning Zhou, Junlin Li, Zhuo Li, Zesheng Shi, Wanyu Lin, Ho-Kin Tang, Xiucheng Li, Fangming Liu, Wenya Wang, Min Zhang, Jing Li
@@ -14706,6 +16040,7 @@ Cross-capability transfer is a key challenge in large language model (LLM) resea
 
 ## Article 1334
 ### Title@2025-05-24 (6): UGPhysics: A Comprehensive Benchmark for Undergraduate Physics Reasoning   with Large Language Models
+
 **Title**: UGPhysics: A Comprehensive Benchmark for Undergraduate Physics Reasoning   with Large Language Models | UGPhysics: Umfassender Benchmark für Undergraduate Physics Reasoning mit großen Sprachmodellen | 动脉物理学:具有大语言模型的本科物理原因综合基准 [2502.00334v3](http://arxiv.org/abs/2502.00334v3)
 
 **Authors**: Xin Xu, Qiyun Xu, Tong Xiao, Tianhao Chen, Yuchen Yan, Jiaxin Zhang, Shizhe Diao, Can Yang, Yang Wang
@@ -14716,6 +16051,7 @@ Large language models (LLMs) have demonstrated remarkable capabilities in solvin
 
 ## Article 1335
 ### Title@2025-05-24 (6): ACECODER: Acing Coder RL via Automated Test-Case Synthesis
+
 **Title**: ACECODER: Acing Coder RL via Automated Test-Case Synthesis | ACECODER: Acing Coder RL über automatisierte Test-Case-Synthese | 通过自动测试-案件综合合成检索编码器 RL [2502.01718v4](http://arxiv.org/abs/2502.01718v4)
 
 **Authors**: Huaye Zeng, Dongfu Jiang, Haozhe Wang, Ping Nie, Xiaotong Chen, Wenhu Chen
@@ -14726,6 +16062,7 @@ Most progress in recent coder models has been driven by supervised fine-tuning (
 
 ## Article 1336
 ### Title@2025-05-24 (6): The Pragmatic Mind of Machines: Tracing the Emergence of Pragmatic   Competence in Large Language Models
+
 **Title**: The Pragmatic Mind of Machines: Tracing the Emergence of Pragmatic   Competence in Large Language Models | Der Pragmatische Geist der Maschinen: Auf der Spur des Entstehens der Pragmatischen Kompetenz in großen Sprachmodellen | 机器的实用思维:追踪大语言模式中实用能力的出现 [2505.18497v1](http://arxiv.org/abs/2505.18497v1)
 
 **Authors**: Kefan Yu, Qingcheng Zeng, Weihao Xuan, Wanxin Li, Jingyi Wu, Rob Voigt
@@ -14736,6 +16073,7 @@ Current large language models (LLMs) have demonstrated emerging capabilities in 
 
 ## Article 1337
 ### Title@2025-05-24 (6): FuseGPT: Learnable Layers Fusion of Generative Pre-trained Transformers
+
 **Title**: FuseGPT: Learnable Layers Fusion of Generative Pre-trained Transformers | FuseGPT: Lernbare Ebenen Fusion generativer vortrainierter Transformer | FuseGPT: 训练前改造器的产生型先导变异器的可学习层融合 [2411.14507v2](http://arxiv.org/abs/2411.14507v2)
 
 **Authors**: Zehua Pei, Hui-Ling Zhen, Xianzhi Yu, Sinno Jialin Pan, Mingxuan Yuan, Bei Yu
@@ -14746,6 +16084,7 @@ Generative Pre-trained Transformers (GPTs) have demonstrated remarkable performa
 
 ## Article 1338
 ### Title@2025-05-24 (6): TextArena
+
 **Title**: TextArena | TextArena | TextArenna 文本 [2504.11442v2](http://arxiv.org/abs/2504.11442v2)
 
 **Authors**: Leon Guertler, Bobby Cheng, Simon Yu, Bo Liu, Leshem Choshen, Cheston Tan
@@ -14756,6 +16095,7 @@ TextArena is an open-source collection of competitive text-based games for train
 
 ## Article 1339
 ### Title@2025-05-24 (6): AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents
+
 **Title**: AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents | AgentOccam: Eine einfache, aber starke Basis für LLM-basierte Web-Agenten | AgentOccam:基于LLM的网络代理的简单而有力的基线 [2410.13825v2](http://arxiv.org/abs/2410.13825v2)
 
 **Authors**: Ke Yang, Yao Liu, Sapana Chaudhary, Rasool Fakoor, Pratik Chaudhari, George Karypis, Huzefa Rangwala
@@ -14766,6 +16106,7 @@ Autonomy via agents using large language models (LLMs) for personalized, standar
 
 ## Article 1340
 ### Title@2025-05-24 (6): ADEPT: A DEbiasing PrompT Framework
+
 **Title**: ADEPT: A DEbiasing PrompT Framework | ADEPT: Ein abschreckendes PrompT-Framework | ADEPT: 减少偏见的促进促进框架 [2211.05414v3](http://arxiv.org/abs/2211.05414v3)
 
 **Authors**: Ke Yang, Charles Yu, Yi Fung, Manling Li, Heng Ji
@@ -14776,6 +16117,7 @@ Several works have proven that finetuning is an applicable approach for debiasin
 
 ## Article 1341
 ### Title@2025-05-24 (6): Synthesizing and Adapting Error Correction Data for Mobile Large   Language Model Applications
+
 **Title**: Synthesizing and Adapting Error Correction Data for Mobile Large   Language Model Applications | Synchronisieren und Anpassen von Fehlerkorrekturdaten für mobile Großsprachen-Modellanwendungen | 合成和调整移动大语言模型应用错误校正数据 [2505.18488v1](http://arxiv.org/abs/2505.18488v1)
 
 **Authors**: Yanxiang Zhang, Zheng Xu, Shanshan Wu, Yuanbo Zhang, Daniel Ramage
@@ -14786,6 +16128,7 @@ Error correction is an important capability when applying large language models 
 
 ## Article 1342
 ### Title@2025-05-24 (6): AI Idea Bench 2025: AI Research Idea Generation Benchmark
+
 **Title**: AI Idea Bench 2025: AI Research Idea Generation Benchmark | KI Idee Bank 2025: KI Forschung Idee Generation Benchmark | AI 2025年大赦国际思想座座:AI 研究思想的产生基准 [2504.14191v3](http://arxiv.org/abs/2504.14191v3)
 
 **Authors**: Yansheng Qiu, Haoquan Zhang, Zhaopan Xu, Ming Li, Diping Song, Zheng Wang, Kaipeng Zhang
@@ -14796,6 +16139,7 @@ Large-scale Language Models (LLMs) have revolutionized human-AI interaction and 
 
 ## Article 1343
 ### Title@2025-05-24 (6): GeoGrid-Bench: Can Foundation Models Understand Multimodal Gridded   Geo-Spatial Data?
+
 **Title**: GeoGrid-Bench: Can Foundation Models Understand Multimodal Gridded   Geo-Spatial Data? | GeoGrid-Bench: Können Stiftungsmodelle multimodale gegrittete Geo-Raumdaten verstehen? | GeoGrid-Bench:基础模型能够理解多式网格地球空间数据吗? [2505.10714v2](http://arxiv.org/abs/2505.10714v2)
 
 **Authors**: Bowen Jiang, Yangxinyu Xie, Xiaomeng Wang, Jiashu He, Joshua Bergerson, John K Hutchison, Jordan Branham, Camillo J Taylor, Tanwi Mallick
@@ -14806,6 +16150,7 @@ We present GeoGrid-Bench, a benchmark designed to evaluate the ability of founda
 
 ## Article 1344
 ### Title@2025-05-24 (6): Pedagogy-R1: Pedagogically-Aligned Reasoning Model with Balanced   Educational Benchmark
+
 **Title**: Pedagogy-R1: Pedagogically-Aligned Reasoning Model with Balanced   Educational Benchmark | Pädagogik-R1: Pädagogisch ausgerichtetes Reasoning-Modell mit ausgewogenem Bildungs-Benchmark | 教育-R1:具有平衡教育基准的教学统一理由模型 [2505.18467v1](http://arxiv.org/abs/2505.18467v1)
 
 **Authors**: Unggi Lee, Jaeyong Lee, Jiyeong Bae, Yeil Jeong, Junbo Koh, Gyeonggeon Lee, Gunho Lee, Taekyung Ahn, Hyeoncheol Kim
@@ -14816,6 +16161,7 @@ Recent advances in large reasoning models (LRMs) show strong performance in stru
 
 ## Article 1345
 ### Title@2025-05-24 (6): Measuring South Asian Biases in Large Language Models
+
 **Title**: Measuring South Asian Biases in Large Language Models | Messung südasiatischer Biasen in großen Sprachmodellen | 衡量大语言模式中的南亚偏见 [2505.18466v1](http://arxiv.org/abs/2505.18466v1)
 
 **Authors**: Mamnuya Rinki, Chahat Raj, Anjishnu Mukherjee, Ziwei Zhu
@@ -14826,6 +16172,7 @@ Evaluations of Large Language Models (LLMs) often overlook intersectional and cu
 
 ## Article 1346
 ### Title@2025-05-24 (6): From Reddit to Generative AI: Evaluating Large Language Models for   Anxiety Support Fine-tuned on Social Media Data
+
 **Title**: From Reddit to Generative AI: Evaluating Large Language Models for   Anxiety Support Fine-tuned on Social Media Data | Von Reddit zur Generativen KI: Bewertung großer Sprachmodelle für Angstunterstützung Feinabstimmung auf Social Media-Daten | 从改编到创创AI:评估社会支助大语言模式,对社会媒体数据进行微调 [2505.18464v1](http://arxiv.org/abs/2505.18464v1)
 
 **Authors**: Ugur Kursuncu, Trilok Padhi, Gaurav Sinha, Abdulkadir Erol, Jaya Krishna Mandivarapu, Christopher R. Larrison
@@ -14836,6 +16183,7 @@ The growing demand for accessible mental health support, compounded by workforce
 
 ## Article 1347
 ### Title@2025-05-24 (6): Self-GIVE: Associative Thinking from Limited Structured Knowledge for   Enhanced Large Language Model Reasoning
+
 **Title**: Self-GIVE: Associative Thinking from Limited Structured Knowledge for   Enhanced Large Language Model Reasoning | Selbst-GIVE: assoziatives Denken aus begrenztem strukturiertem Wissen für erweiterte Großsprachenmodell-Reasoning | 自用自用:从有限的结构化知识中进行联合思考,以强化大语言模式解释理由 [2505.15062v2](http://arxiv.org/abs/2505.15062v2)
 
 **Authors**: Jiashu He, Jinxuan Fan, Bowen Jiang, Ignacio Houine, Dan Roth, Alejandro Ribeiro
@@ -14846,6 +16194,7 @@ When addressing complex questions that require new information, people often ass
 
 ## Article 1348
 ### Title@2025-05-24 (6): Enhanced Multimodal Aspect-Based Sentiment Analysis by LLM-Generated   Rationales
+
 **Title**: Enhanced Multimodal Aspect-Based Sentiment Analysis by LLM-Generated   Rationales | Verbesserte multimodale Aspect-Based-Sentiment-Analyse durch LLM-generierte Rationale | 由LLM-Generered Rationsales公司进行的增强型多式多式频谱感应分析 [2505.14499v2](http://arxiv.org/abs/2505.14499v2)
 
 **Authors**: Jun Cao, Jiyi Li, Ziwei Yang, Renjie Zhou
@@ -14856,6 +16205,7 @@ There has been growing interest in Multimodal Aspect-Based Sentiment Analysis (M
 
 ## Article 1349
 ### Title@2025-05-24 (6): Accelerating Large Language Model Reasoning via Speculative Search
+
 **Title**: Accelerating Large Language Model Reasoning via Speculative Search | Beschleunigen des Large Language Model Reasoning durch spekulative Suche | 通过投机搜索加速大语言示范理由 [2505.02865v2](http://arxiv.org/abs/2505.02865v2)
 
 **Authors**: Zhihai Wang, Jie Wang, Jilai Pan, Xilin Xia, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Feng Wu
@@ -14866,6 +16216,7 @@ Tree-search-based reasoning methods have significantly enhanced the reasoning ca
 
 ## Article 1350
 ### Title@2025-05-24 (6): TokenSkip: Controllable Chain-of-Thought Compression in LLMs
+
 **Title**: TokenSkip: Controllable Chain-of-Thought Compression in LLMs | TokenSkip: Steuerbare Ketten-of-Thought-Kompression in LLMs | TokenSkip: LLMM 中可控制的尝试链压缩 [2502.12067v2](http://arxiv.org/abs/2502.12067v2)
 
 **Authors**: Heming Xia, Chak Tou Leong, Wenjie Wang, Yongqi Li, Wenjie Li
@@ -14876,6 +16227,7 @@ Chain-of-Thought (CoT) has been proven effective in enhancing the reasoning capa
 
 ## Article 1351
 ### Title@2025-05-24 (6): Anchored Diffusion Language Model
+
 **Title**: Anchored Diffusion Language Model | Verankertes Diffusions-Sprachenmodell | 原成品的传播语言模式 [2505.18456v1](http://arxiv.org/abs/2505.18456v1)
 
 **Authors**: Litu Rout, Constantine Caramanis, Sanjay Shakkottai
@@ -14886,6 +16238,7 @@ Diffusion Language Models (DLMs) promise parallel generation and bidirectional c
 
 ## Article 1352
 ### Title@2025-05-24 (6): Hybrid Latent Reasoning via Reinforcement Learning
+
 **Title**: Hybrid Latent Reasoning via Reinforcement Learning | Hybride Latent Reasoning durch Stärkungslernen | 通过强化学习找出原因 [2505.18454v1](http://arxiv.org/abs/2505.18454v1)
 
 **Authors**: Zhenrui Yue, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang
@@ -14896,6 +16249,7 @@ Recent advances in large language models (LLMs) have introduced latent reasoning
 
 ## Article 1353
 ### Title@2025-05-24 (6): MedScore: Factuality Evaluation of Free-Form Medical Answers
+
 **Title**: MedScore: Factuality Evaluation of Free-Form Medical Answers | MedScore: Faktizitätsbewertung von Freiform-medizinischen Antworten | 医疗核心:对免费形式医疗答案的实情评估 [2505.18452v1](http://arxiv.org/abs/2505.18452v1)
 
 **Authors**: Heyuan Huang, Alexandra DeLucia, Vijay Murari Tiyyala, Mark Dredze
@@ -14906,6 +16260,7 @@ While Large Language Models (LLMs) can generate fluent and convincing responses,
 
 ## Article 1354
 ### Title@2025-05-24 (6): $μ$-MoE: Test-Time Pruning as Micro-Grained Mixture-of-Experts
+
 **Title**: $μ$-MoE: Test-Time Pruning as Micro-Grained Mixture-of-Experts | $μ$-MoE: Test-Time Pruning als Mikro-Grained Mixture-of-Experts | 美元-MoE:作为微粒混合剂专家进行试验时休整 [2505.18451v1](http://arxiv.org/abs/2505.18451v1)
 
 **Authors**: Toshiaki Koike-Akino, Jing Liu, Ye Wang
@@ -14916,6 +16271,7 @@ To tackle the huge computational demand of large foundation models, activation-a
 
 ## Article 1355
 ### Title@2025-05-24 (6): BRIT: Bidirectional Retrieval over Unified Image-Text Graph
+
 **Title**: BRIT: Bidirectional Retrieval over Unified Image-Text Graph | BRIT: Bidirektionale Retrieval über Unified Image-Text Graph | BRIT: 统一图像文字图的双向检索 [2505.18450v1](http://arxiv.org/abs/2505.18450v1)
 
 **Authors**: Ainulla Khan, Yamada Moyuru, Srinidhi Akella
@@ -14926,6 +16282,7 @@ Retrieval-Augmented Generation (RAG) has emerged as a promising technique to enh
 
 ## Article 1356
 ### Title@2025-05-24 (6): Leveraging Online Data to Enhance Medical Knowledge in a Small Persian   Language Model
+
 **Title**: Leveraging Online Data to Enhance Medical Knowledge in a Small Persian   Language Model | Nutzung von Online-Daten zur Verbesserung des medizinischen Wissens in einem kleinen persischen Sprachmodell | 在小型波斯语言模式中利用在线数据加强医疗知识 [2505.16000v2](http://arxiv.org/abs/2505.16000v2)
 
 **Authors**: Mehrdad Ghassabi, Pedram Rostami, Hamidreza Baradaran Kashani, Amirhossein Poursina, Zahra Kazemi, Milad Tavakoli
@@ -14936,6 +16293,7 @@ The rapid advancement of language models has demonstrated the potential of artif
 
 ## Article 1357
 ### Title@2025-05-24 (6): Efficient Long CoT Reasoning in Small Language Models
+
 **Title**: Efficient Long CoT Reasoning in Small Language Models | Effiziente Long CoT-Reasoning in kleinen Sprachmodellen | 低语言模式中有效的长期计算成本理由 [2505.18440v1](http://arxiv.org/abs/2505.18440v1)
 
 **Authors**: Zhaoyang Wang, Jinqi Jiang, Tian Qiu, Hui Liu, Xianfeng Tang, Huaxiu Yao
@@ -14946,6 +16304,7 @@ Recent large reasoning models such as DeepSeek-R1 exhibit strong complex problem
 
 ## Article 1358
 ### Title@2025-05-24 (6): Voice of a Continent: Mapping Africa's Speech Technology Frontier
+
 **Title**: Voice of a Continent: Mapping Africa's Speech Technology Frontier | Stimme eines Kontinents: Afrikas Rede-Technologie-Grenze kartieren | 非洲大陆之声:测绘非洲语音技术前沿 [2505.18436v1](http://arxiv.org/abs/2505.18436v1)
 
 **Authors**: AbdelRahim Elmadany, Sang Yun Kwon, Hawau Olamide Toyin, Alcides Alcoba Inciarte, Hanan Aldarmaki, Muhammad Abdul-Mageed
