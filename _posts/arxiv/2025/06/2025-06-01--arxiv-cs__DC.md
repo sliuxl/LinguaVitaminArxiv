@@ -117,7 +117,7 @@ layout: post
 
 This paper envisions 6G as a self-evolving telecom ecosystem, where AI-driven intelligence enables dynamic adaptation beyond static connectivity. We explore the key enablers of autonomous communication systems, spanning reconfigurable infrastructure, adaptive middleware, and intelligent network functions, alongside multi-agent collaboration for distributed decision-making. We explore how these methodologies align with emerging industrial IoT frameworks, ensuring seamless integration within digital manufacturing processes. Our findings emphasize the potential for improved real-time decision-making, optimizing efficiency, and reducing latency in networked control systems. The discussion addresses ethical challenges, research directions, and standardization efforts, concluding with a technology stack roadmap to guide future developments. By leveraging state-of-the-art 6G network management techniques, this research contributes to the next generation of intelligent automation solutions, bridging the gap between theoretical advancements and real-world industrial applications.
 
-本文设想6G是一个自我演化的电信生态系统,AI驱动的智能使动态适应超越静态连接。我们探索了自主通信系统的关键促进因素,包括可重新配置的基础设施、适应性中器和智能网络功能,以及用于分配决策的多机构协作。我们探讨了这些方法如何与新兴工业互联网框架相协调,确保数字制造流程的无缝整合。我们的调查结果强调改进实时决策、优化效率和减少网络控制系统中的延迟的可能性。讨论涉及道德挑战、研究方向和标准化努力,并用技术堆叠路线图结束指导未来发展。通过利用最新的6G网络管理技术,这一研究有助于下一代智能自动化解决方案,弥合理论进步与现实世界工业应用之间的差距。
+nan
 
 ---
 
@@ -130,7 +130,7 @@ This paper envisions 6G as a self-evolving telecom ecosystem, where AI-driven in
 
 In connected and autonomous vehicles, machine learning for safety message classification has become critical for detecting malicious or anomalous behavior. However, conventional approaches that rely on centralized data collection or purely local training face limitations due to the large scale, high mobility, and heterogeneous data distributions inherent in inter-vehicle networks. To overcome these challenges, this paper explores Distributed Federated Learning (DFL), whereby vehicles collaboratively train deep learning models by exchanging model updates among one-hop neighbors and propagating models over multiple hops. Using the Vehicular Reference Misbehavior (VeReMi) Extension Dataset, we show that DFL can significantly improve classification accuracy across all vehicles compared to learning strictly with local data. Notably, vehicles with low individual accuracy see substantial accuracy gains through DFL, illustrating the benefit of knowledge sharing across the network. We further show that local training data size and time-varying network connectivity correlate strongly with the model's overall accuracy. We investigate DFL's resilience and vulnerabilities under attacks in multiple domains, namely wireless jamming and training data poisoning attacks. Our results reveal important insights into the vulnerabilities of DFL when confronted with multi-domain attacks, underlining the need for more robust strategies to secure DFL in vehicular networks.
 
-在连接和自主的车辆中,安全信息分类的机器学习对于发现恶意或异常行为至关重要。然而,依赖集中数据收集或纯本地培训的常规方法由于车辆间网络所固有的大规模、高度流动性和分散的数据分配而面临限制。为克服这些挑战,本文件探讨了分布式联邦学习(DFL),即车辆通过在单点邻居之间交换最新消息和在多个跳站上传播模型来合作培训深层次学习模式。我们利用通用参考Misbehavir(VeRemi)扩展数据集,表明DFL能够大大提高所有车辆的分类准确性,而严格使用当地数据来学习。值得注意的是,个人准确度低的车辆通过DFLL看到大量准确性收益,表明整个网络共享知识的好处。我们进一步表明,当地培训数据规模和时间变化式网络连接与模型的总体准确性密切相关。我们调查DFLL在多个领域(即无线干扰和培训数据中毒攻击)受到攻击时的复原力和脆弱性。我们的结果显示,当面对更强点攻击时,DFLL在更稳健的多点攻击战略时,需要对DFLL的弱点有重要了解。我们的结果。
+nan
 
 ---
 
@@ -143,7 +143,7 @@ In connected and autonomous vehicles, machine learning for safety message classi
 
 We introduce a parallel algorithm to construct a preconditioner for solving a large, sparse linear system where the coefficient matrix is a Laplacian matrix (a.k.a., graph Laplacian). Such a linear system arises from applications such as discretization of a partial differential equation, spectral graph partitioning, and learning problems on graphs. The preconditioner belongs to the family of incomplete factorizations and is purely algebraic. Unlike traditional incomplete factorizations, the new method employs randomization to determine whether or not to keep fill-ins, i.e., newly generated nonzero elements during Gaussian elimination. Since the sparsity pattern of the randomized factorization is unknown, computing such a factorization in parallel is extremely challenging, especially on many-core architectures such as GPUs. Our parallel algorithm dynamically computes the dependency among row/column indices of the Laplacian matrix to be factorized and processes the independent indices in parallel. Furthermore, unlike previous approaches, our method requires little pre-processing time. We implemented the parallel algorithm for multi-core CPUs and GPUs, and we compare their performance to other state-of-the-art methods.
 
-我们引入了平行算法来构建一个解决大型、稀疏线性系统的先决条件,即系数矩阵是拉普拉西亚矩阵(a.k.a.a.a.,图Laplacian)的系数矩阵(a.k.a.a.a.a.,图Laplacian),这种线性系统来自部分差异方程式的离散化、光谱图形分割和图形学习问题等应用。这个前提属于不完全系数化的大家庭,是纯代数的。与传统的不完全的系数化不同,新的方法使用随机化来确定是否保持填充,即在高斯消除期间新产生的非零元素。由于随机化系数化的松散模式是未知的,因此平行计算这种系数化极具挑战性,特别是在诸如GPUs等多个核心结构中。我们平行的算法动态地将拉巴拉帕卡矩阵的行/柱性指数之间的依赖性进行系数化并同时处理独立指数。此外,我们的方法需要很少的预处理时间。我们为多核心的CPU和GPU-GPOs采用了平行的平行算算法,我们将其与其他状态进行比较。
+nan
 
 ---
 
@@ -169,7 +169,7 @@ nan
 
 This paper explores second-order optimization methods in Federated Learning (FL), addressing the critical challenges of slow convergence and the excessive communication rounds required to achieve optimal performance from the global model. While existing surveys in FL primarily focus on challenges related to statistical and device label heterogeneity, as well as privacy and security concerns in first-order FL methods, less attention has been given to the issue of slow model training. This slow training often leads to the need for excessive communication rounds or increased communication costs, particularly when data across clients are highly heterogeneous. In this paper, we examine various FL methods that leverage second-order optimization to accelerate the training process. We provide a comprehensive categorization of state-of-the-art second-order FL methods and compare their performance based on convergence speed, computational cost, memory usage, transmission overhead, and generalization of the global model. Our findings show the potential of incorporating Hessian curvature through second-order optimization into FL and highlight key challenges, such as the efficient utilization of Hessian and its inverse in FL. This work lays the groundwork for future research aimed at developing scalable and efficient federated optimization methods for improving the training of the global model in FL.
 
-本文探讨了联邦学习联合会(FL)的二级优化方法,探讨了缓慢趋同和为达到全球模式最佳业绩所需的过度通信周期等关键挑战。虽然FL的现有调查主要侧重于与统计和装置标签差异有关的挑战,以及一级FL方法的隐私和安全问题,但对模式培训缓慢问题的关注较少。这种缓慢的培训往往导致需要过多的通信回合或增加通信成本,特别是在客户数据高度差异的情况下。我们在本文件中审查了利用第二级优化来加快培训进程的多种FL方法。我们提供了第二级FL方法的全面分类,并根据趋同速度、计算成本、记忆使用、传承间接费用和全球模型的普及,比较其业绩。我们的调查结果显示,通过第二级优化将赫森曲线纳入FL的可能性,并突出了主要挑战,例如赫桑的有效利用及其在FL的反面。这项工作为今后旨在改进FC可升级和高效全球优化方法的示范研究奠定了基础。
+nan
 
 ---
 
@@ -1092,7 +1092,7 @@ Serverless computing enables developers to deploy code without managing infrastr
 
 Retrieval-Augmented Generation (RAG) has emerged as a promising approach to enhance the capabilities of language models by integrating external knowledge. Due to the diversity of data sources and the constraints of memory and computing resources, real-world data is often scattered in multiple devices. Conventional RAGs that store massive amounts of scattered data centrally face increasing privacy concerns and high computational costs. Additionally, RAG in a central node raises latency issues when searching over a large-scale knowledge base. To address these challenges, we propose a distributed Knowledge Graph-based RAG approach, referred to as DGRAG, in an edge-cloud system, where each edge device maintains a local knowledge base without the need to share it with the cloud, instead sharing only summaries of its knowledge. Specifically, DGRAG has two main phases. In the Distributed Knowledge Construction phase, DGRAG organizes local knowledge using knowledge graphs, generating subgraph summaries and storing them in a summary database in the cloud as information sharing. In the Collaborative Retrieval and Generation phase, DGRAG first performs knowledge retrieval and answer generation locally, and a gate mechanism determines whether the query is beyond the scope of local knowledge or processing capabilities. For queries that exceed the local knowledge scope, the cloud retrieves knowledge from the most relevant edges based on the summaries and generates a more precise answer. Experimental results demonstrate the effectiveness of the proposed DGRAG approach in significantly improving the quality of question-answering tasks over baseline approaches.
 
-由于数据来源的多样性以及记忆和计算资源的限制,真实世界数据往往分散在多种设备中。存储大量分散数据的常规区域组面临越来越多的隐私关切和高昂的计算成本。此外,中央节点中的区域组在搜索大型知识库时会提高潜伏问题。为了应对这些挑战,我们提议在边缘悬崖系统中采用分布式知识图表方法,称为DGRAG, 在每个边缘装置都维持一个本地知识库而无需与云共享,而只分享其知识摘要。具体地说,DGRAG有两个主要阶段。在分散式知识建设阶段,DGRAG利用知识图组织本地知识,生成子图摘要,并将其储存在云层的汇总数据库中作为信息共享。在协作检索和生成阶段,DGRAG首先进行知识的本地级检索和回答,在对本地基线进行最深入的搜索时,对本地的准确的定位能力进行超越了本地范围,对本地的升级的定位,对本地的定位的定位,对本地范围进行更精确的检索,对本地的定位,对本地范围进行更精确的检索,对本地的定位的查询能力超过本地范围。
+nan
 
 ---
 
@@ -1105,7 +1105,7 @@ Retrieval-Augmented Generation (RAG) has emerged as a promising approach to enha
 
 The remarkable success of foundation models has been driven by scaling laws, demonstrating that model performance improves predictably with increased training data and model size. However, this scaling trajectory faces two critical challenges: the depletion of high-quality public data, and the prohibitive computational power required for larger models, which have been monopolized by tech giants. These two bottlenecks pose significant obstacles to the further development of AI. In this position paper, we argue that leveraging massive distributed edge devices can break through these barriers. We reveal the vast untapped potential of data and computational resources on massive edge devices, and review recent technical advancements in distributed/federated learning that make this new paradigm viable. Our analysis suggests that by collaborating on edge devices, everyone can participate in training large language models with small edge devices. This paradigm shift towards distributed training on edge has the potential to democratize AI development and foster a more inclusive AI community.
 
-基础模型的显著成功是由规模法驱动的,这表明模型业绩随着培训数据和模型规模的增加而可预见地得到改善。然而,这一规模轨迹面临两个重大挑战:高质量公共数据的耗竭,以及大型模型所需的令人望而却步的计算能力,而大型模型已经被技术巨头所垄断。这两个瓶颈对AI的进一步发展构成重大障碍。在本立场文件中,我们认为利用大规模分布式边缘装置可以突破这些障碍。我们揭示了大规模边缘装置的数据和计算资源的巨大未开发潜力,并审查了分布式/联邦化学习的最新技术进展,使这一新模式具有可行性。我们的分析表明,通过在边缘装置上的合作,每个人都可以参与用小型边缘装置培训大型语言模型。这种向边缘分布式培训的转变,有可能使人工智能开发民主化,并培养更具包容性的人工智能社区。
+nan
 
 ---
 
@@ -1118,7 +1118,7 @@ The remarkable success of foundation models has been driven by scaling laws, dem
 
 We present a practical model of non-transactional consistency levels in the context of distributed data replication. Unlike prior work, our simple Shared Object Pool (SOP) model defines common consistency levels in a unified framework centered around the single concept of ordering. This naturally reflects modern cloud object storage services and is thus easy to understand. We show that a consistency level can be intuitively defined by specifying two types of constraints on the validity of orderings allowed by the level: convergence, which bounds the lineage shape of the ordering, and relationship, which bounds the relative positions between operations. We give examples of representative protocols and systems, and discuss their availability upper bound. To further demonstrate the expressiveness and practical relevance of our model, we use it to implement a Jepsen-integrated consistency checker for the four most common levels (linearizable, sequential, causal+, and eventual); the checker analyzes consistency conformity for small-scale histories of real system runs (etcd, ZooKeeper, and RabbitMQ).
 
-与先前的工作不同,我们简单的共同对象库(SOP)模型在以单一定购概念为中心的统一框架内确定了共同一致性水平。这自然反映了现代云端存储服务,因此容易理解。我们表明,一致性水平可以直截了当地界定,具体指明对允许的定购的有效性的两种限制:趋同,它约束定购的线条形状,以及连接操作相对位置的关系。我们举了具有代表性的协议和系统的例子,并讨论了它们的可用性。为了进一步展示我们模型的清晰度和实际相关性,我们用它来对四种最普通的等级(可线性、相继性、因果+和最终)实施杰普森综合一致性检查;检查器分析实际系统运行的小规模历史的一致性(特克、祖韦尔和拉比特MQ ) 。
+nan
 
 ---
 
@@ -1131,7 +1131,7 @@ We present a practical model of non-transactional consistency levels in the cont
 
 Distributed Stream Processing (DSP) engines analyze continuous data via queries expressed as a graph of operators. Auto-scalers adjust the number of parallel instances of these operators to support a target rate. Current auto-scalers couple CPU and memory scaling, allocating resources as one-size-fits-all packages. This contrasts with operators' high diversity of requirements. We present Justin, an auto-scaler that enables hybrid CPU and memory scaling of DSP operators. Justin monitors both CPU usage and the performance of operators' storage operations. Its mechanisms enable finegrain memory allocation for tasks upon a query reconfiguration. The Justin policy identifies individual operators' memory pressure and decides between adjusting parallelism and/or memory assignment. We implement Justin in Apache Flink, extending the Flink Kubernetes Operator and the DS2 CPU-only auto-scaler. Using the Nexmark benchmark, our evaluation shows that Justin identifies suitable resource allocation in as many or fewer reconfiguration steps as DS2 and supports a target rate with significantly fewer CPU and memory resources.
 
-分布式流处理引擎( DSP) 引擎通过以操作员图表表示的查询分析连续数据。 自动标尺者调整这些操作员的平行事件数量以支持目标率。 当前自动标尺者将CPU和记忆缩放组合, 将资源分配成一刀切的软件包。 这与操作员的要求差异很大形成鲜明对比。 我们介绍Justin, 一个允许混合CPU和存储操作员的记忆缩放的自动标尺者。 Justin 监测 CPU 的使用情况和操作员存储操作的绩效。 它的机制允许在查询重组时对任务进行细微的记忆分配。 Justin 政策确定了单个操作员的内存压力, 并在调整平行和/ 或记忆任务之间做出决定 。 我们在 Acapish Flink 执行 Justin, 扩展 Flink Kubernetes 操作员和 DS2 PUP 唯一的自动标尺。 我们的评价显示, Justin 使用Nexmark 基准, 确定像 DS2 那样的许多或更少的重组步骤的合适资源配置, 支持目标率, 并大大降低 CUPUPU和记忆资源。
+nan
 
 ---
 
@@ -1222,7 +1222,7 @@ Large language models (LLMs) have shown remarkable performance across diverse re
 
 The numerical solution of the Kadanoff-Baym nonlinear integro-differential equations, which yields the non-equilibrium Green's functions (NEGFs) of quantum many-body systems, poses significant computational challenges due to its high computational complexity. In this work, we present efficient implementations of a numerical method for solving these equations on distributed-memory architectures, including many-core CPUs and multi-GPU systems. For CPU-based platforms, we adopt a hybrid MPI/OpenMP programming model to exploit both inter-node and intra-node parallelism. On GPU-accelerated systems, we implement the method using two distinct approaches: MPI/OpenACC and MPI/CUDA FORTRAN. Several optimization strategies are employed to enhance GPU performance, including techniques to maximize computational resource utilization and minimize the overhead associated with kernel launches and memory management. Although OpenACC is easy to use, CUDA FORTRAN provides more advanced features for configuring and managing multiple levels of concurrency, while also simplifying memory allocation and data movement between host and device. This flexibility translates into significant performance improvements. We compare the performance of the three implementations and demonstrate that the GPU-based approaches achieve substantial speedups over CPU-based implementations. Furthermore, both CPU and GPU versions exhibit excellent strong and weak scaling, confirming the scalability and efficiency of our approach for large-scale NEGF computations.
 
-Kadanoff-Baym非线性内分化方程式的数值解决方案,使量子多体系统的非平衡绿色功能(NEGFs)产生量子多体系统的非平衡绿色功能,由于计算复杂性很高,因此在计算上提出了巨大的挑战。在这项工作中,我们提出了在分布式模拟结构中解决这些等式的数字方法的高效实施,包括许多核心CPU和多GPU系统。对于基于CPU的平台,我们采用了混合的MPI/OpenMP编程模式,以利用节点间和节点内平行的多种水平。在GPU加速的系统中,我们采用的方法有两种不同的方法:MPI/OpenACC和MPI/CUDA FORTRAN。我们采用了几种优化战略来提高GPU的性能,包括最大限度地计算资源利用率和尽量减少与内圈启动和记忆管理相关的间接费用。虽然基于CUDAC是容易使用的,但CUDA FORTRAN为配置和管理多级调调调制提供了更先进的特征,同时也简化记忆分配和数据流动的大规模升级化方法。
+nan
 
 ---
 
@@ -1235,7 +1235,7 @@ Kadanoff-Baym非线性内分化方程式的数值解决方案,使量子多体系
 
 Federated Graph Learning (FGL) empowers clients to collaboratively train Graph neural networks (GNNs) in a distributed manner while preserving data privacy. However, FGL methods usually require that the graph data owned by all clients is homophilic to ensure similar neighbor distribution patterns of nodes. Such an assumption ensures that the learned knowledge is consistent across the local models from all clients. Therefore, these local models can be properly aggregated as a global model without undermining the overall performance. Nevertheless, when the neighbor distribution patterns of nodes vary across different clients (e.g., when clients hold graphs with different levels of heterophily), their local models may gain different and even conflict knowledge from their node-level predictive tasks. Consequently, aggregating these local models usually leads to catastrophic performance deterioration on the global model. To address this challenge, we propose FedHERO, an FGL framework designed to harness and share insights from heterophilic graphs effectively. At the heart of FedHERO is a dual-channel GNN equipped with a structure learner, engineered to discern the structural knowledge encoded in the local graphs. With this specialized component, FedHERO enables the local model for each client to identify and learn patterns that are universally applicable across graphs with different patterns of node neighbor distributions. FedHERO not only enhances the performance of individual client models by leveraging both local and shared structural insights but also sets a new precedent in this field to effectively handle graph data with various node neighbor distribution patterns. We conduct extensive experiments to validate the superior performance of FedHERO against existing alternatives.
 
-联邦图表学习(FGL) 授权客户在保存数据隐私的同时,以分布方式合作培训图表神经网络(GNN) 。 但是, FGL 方法通常要求所有客户拥有的图表数据具有同性,以确保相邻节点分布模式的相似性。 这样的假设可以确保从所有客户的当地模型中学习到的知识的一致性。 因此,这些本地模型可以作为一个全球模型进行适当汇总,而不会破坏总体性能。 然而,当相邻节点的分布模式在不同客户之间(例如,当客户持有不同水平的复杂图时,其本地模型可能从他们的节点预测任务中获得不同甚至冲突性的知识。 因此, 合并这些本地模型通常会导致全球模型的灾难性性能恶化。 为了应对这一挑战,我们建议FEHERO, 一种FDGLL框架, 旨在有效地利用和共享性能图表的洞察和共享性能。 在FEHERO中心中心, 设计一个双轨GNN, 在一个结构学习器中, 用来从本地图表中识别结构知识, 并用本地图表的模型在本地图表中识别结构知识, 。
+nan
 
 ---
 
@@ -1248,7 +1248,7 @@ Federated Graph Learning (FGL) empowers clients to collaboratively train Graph n
 
 High-Performance Computing (HPC) systems are the most powerful tools that we currently have to solve complex scientific simulations. Quantum computing (QC) has the potential to enhance HPC systems by accelerating the execution of specific kernels that can be offloaded to a Quantum Processing Unit (QPU), granting them new capabilities, improving the speed of computation, or reducing energy consumption. In this paper, we present QMIO: a state-of-the-art hybrid HPCQC system, which tightly integrates HPC and QC. We describe its hardware and software components, the integration middleware, and the lessons learned during the design, implementation, and operation of the system.
 
-高性能计算系统(HPC)是我们目前必须用来解决复杂的科学模拟的最有力工具。 量子计算(QC)有可能通过加速执行可卸到量子处理股(QPU)的具体内核,赋予它们新的能力,提高计算速度,或减少能源消耗,从而增强HPC系统。在本文件中,我们介绍了QMIO:最先进的混合HPCQC系统,它密切结合了HPC和QC。 我们描述了其硬件和软件组件、集成中间软件,以及在该系统的设计、实施和运行过程中吸取的经验教训。
+nan
 
 ---
 
@@ -1261,7 +1261,7 @@ High-Performance Computing (HPC) systems are the most powerful tools that we cur
 
 Large Language Models (LLMs) have resulted in a surging demand for planet-scale serving systems, where tens of thousands of GPUs continuously serve hundreds of millions of users. Consequently, throughput has emerged as a key metric that determines serving systems' performance. Due to large model sizes and memory-intensive self-attention, LLM serving has been commonly assumed to be memory-bound. Through a detailed analysis, we show that despite having memory-intensive components, end-to-end LLM serving is compute bound for most common workloads and LLMs. Alas, most existing serving engines fall short from optimal compute utilization, because the heterogeneous operations that comprise LLM serving--compute, memory, networking--are executed sequentially within a device.   We propose NanoFlow, a novel serving framework that exploits intra-device parallelism, which overlaps the usage of heterogeneous resources within a single device. NanoFlow splits inputs into smaller nano-batches and duplicates operations to operate on each portion independently, enabling overlapping. NanoFlow automatically identifies the number, size, ordering, and GPU resource allocation of nano-batches to minimize the execution time, while considering the interference of concurrent operations. We evaluate NanoFlow's end-to-end serving throughput on several popular models such as LLaMA-2-70B, Mixtral 8x7B, LLaMA-3-8B, etc. With practical workloads, NanoFlow provides 1.91x throughput boost compared to state-of-the-art serving systems achieving 50% to 72% of optimal throughput across popular models.
 
-大型语言模型(LLMS)导致对全球规模服务系统的需求激增, 成千上万的GPU不断为数亿用户服务。 因此, 输送量已成为决定服务系统性能的关键指标。 由于规模庞大的模型和记忆密集的自我关注, LLM服务通常被假定为记忆性服务。 通过详细分析, 我们显示, 尽管拥有记忆密集型组件, 端到端LLM 服务对大多数常见工作量和LLMS 的计算是固定的。 唉, 大多数现有的服务引擎离优化的计算利用率差, 原因是由LLM- 服务计算、 记忆、 网络化- 在一个设备中连续执行。 我们提议纳诺弗罗( NanoFlow) , 利用内部差异性平行的平行框架。 纳诺福洛( NanoFlow) 将投入分成一个小型超小型超小型超小型超小型超小型超小型超小型超小型超小型超小型超小型超小型超小型超小型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型超大型
+nan
 
 ---
 
@@ -1352,7 +1352,7 @@ In this paper, we focus on the distributed set-membership filtering (SMFing) pro
 
 In today's era of big data, sorting enormous datasets is a major challenge. We present EvoSort, an adaptive parallel sorting framework that employs a Genetic Algorithm (GA) to automatically discover and refine critical parameters, including insertion sort and fallback thresholds, tile size, and mergesort vs Least Significant Digit (LSD) radix sort. EvoSort integrates parallel sorting primitives and adapts continuously to input data and system architecture, ensuring optimal performance. Experiments on up to 10 billion elements show that EvoSort consistently outperforms NumPy sorting by factors from three to over 90 times. EvoSort exemplifies a powerful auto-tuning solution for large-scale data processing.
 
-在当今的大数据时代,对庞大的数据集进行分类是一项重大挑战。我们展示了EvoSort(EvoSort),这是一个适应性平行的分类框架,它使用遗传算法(GA)自动发现和完善关键参数,包括插入分类和后退阈值、瓷块大小、合并索尔特和最小值的Digit(LSD) 弧形等。EvoSort将平行的原始分类和不断适应输入数据和系统结构,确保最佳性能。对多达100亿个元素的实验显示,EvoSort(EvoSort)一直比NumPy(NumPy)的分解三至90倍。EvoSort为大规模数据处理的强大自动调整解决方案提供了示范。
+nan
 
 ---
 
@@ -1365,7 +1365,7 @@ In today's era of big data, sorting enormous datasets is a major challenge. We p
 
 Approximate Agreement (AA) is a key consensus primitive that, even in the presence of Byzantine faults, allows honest parties to obtain close (but not necessarily identical) outputs that lie within the range of their inputs. While the optimal round complexity of synchronous AA on real values is well understood, its extension to other input spaces remains an open problem.   Our work is concerned with AA on trees, where the parties hold as inputs vertices from a publicly known labeled tree $T$ and must output $1$-close vertices in the honest inputs' convex hull. We present an optimal-resilience protocol in the synchronous model, with round complexity $O\left(\frac{\log |V(T)|}{\log \log |V(T)|} \right)$, where $V(T)$ is the set of vertices in the input space tree $T$. Our protocol non-trivially reduces the problem of AA on trees to AA on real values.   Additionally, we extend the impossibility results regarding the round complexity of synchronous AA protocols on real values to trees: we prove a lower bound of $\Omega\left(\frac{\log D(T)}{\log \log D(T) + \log \frac{n + t}{t}} \right)$ rounds, where $D(T)$ denotes the diameter of the tree, $n$ denotes the number of parties, and $t$ denotes the number of Byzantine parties. This establishes the asymptotic optimality of our protocol for trees $T$ of diameter $D(T) \in |V(T)|^{\Theta(1)}$ given that $t \in \Theta(n)$.
 
-近似协议( AA) 是一个关键的共识原始, 即便在有 Byzantine 断层的情况下, 诚实的政党也能在投入范围内获得接近( 但不一定相同) 的输出。 虽然对真实值同步的 AAA 的最佳回合复杂度得到了很好的理解, 但它扩展到其它输入空间仍然是一个尚未解决的问题 。 我们的工作与 AAA 在树上的工作有关, 在树上, 各方持有公开标注为$T$, 并且必须在诚实投入的 convex 船体上输出 $( 直径) $( 直径) 。 我们在同步模型中展示了最佳的( D)\\ left\\\ org@ v\\\\\\ log\ log\ {V (T)\\\\ right) 协议, $( T) 是输入空间树上 $T$( 美元) 的峰值。 我们的协议在树上将 AAAA 的 问题不重 。 此外, 我们把关于同步协议的极复杂性( $- t) 美元协议的概率结果扩展结果扩展到我们的真实值。
+nan
 
 ---
 
@@ -1391,7 +1391,7 @@ nan
 
 Recent advances in secure hardware technologies, such as Intel SGX or ARM TrustZone, offer an opportunity to substantially reduce the costs of Byzantine fault-tolerance by placing the program code and state within a secure enclave known as a Trusted Execution Environment (TEE). However, the protection offered by a TEE only applies during program execution. Once power is switched off, the non-volatile portion of the program state becomes vulnerable to rollback attacks wherein it is undetectably reverted to an older version. In this paper, we consider a problem of implementing reliable read/write registers out of failure-prone replicas subject to state rollbacks. To this end, we introduce a new unified model that captures the multiple failure types that can affect a TEE-based system. We then establish tight bounds on the fault-tolerance of register constructions in this model for both the static case, where failure thresholds hold throughout the entire execution, and the dynamic case, where they only hold eventually. Our dynamic register emulation algorithm resolves a long-standing question of how to correctly rebuild replica state upon restart without relying on additional hardware assumptions such as trusted monotonic counters.
 
-安全硬件技术(如Intel SGX或ARM Trust Zone)的近期进展为大幅降低Byzantine错误容忍度的成本提供了机会,将程序代码和状态置于一个称为信任执行环境(TEE)的安全飞地内,从而大大降低了Byzantine错误容忍度的成本。然而,TEE提供的保护只在程序执行期间适用。一旦电力关闭,程序状态的非挥发性部分就很容易受到反弹攻击,而这种攻击无法被察觉地恢复到旧版本。在本文中,我们考虑了执行可靠的读/写性登记册的问题。为此,我们引入了新的统一模型,捕捉到多种类型的故障,从而可能影响基于TEE的系统。我们随后为这个模型中的注册结构设置了严格的阻断性界限,即在整个执行过程中,故障阈值将维持在最后状态。我们动态登记册的模拟算法解决了一个长期存在的问题,即如何在不依赖其他可靠的硬件假设作为单一反制的情况下,在重新开始时正确重建重复状态。
+nan
 
 ---
 
@@ -1404,7 +1404,7 @@ Recent advances in secure hardware technologies, such as Intel SGX or ARM TrustZ
 
 Large pre-trained Vision-Language Models (VLMs), such as Contrastive Language-Image Pre-training (CLIP), have exhibited remarkable zero-shot performance across various image classification tasks. Fine-tuning these models on domain-specific datasets further enhances their effectiveness for downstream applications. However, fine-tuning in cloud environments raises significant concerns regarding data security and privacy. Federated Learning (FL) offers a decentralized solution by enabling model training across local clients without centralizing sensitive data, but the high communication and computation costs of transmitting full pre-trained models during training limit its scalability. Additionally, non-Independent and Identically Distributed (non-IID) data across local clients can negatively impact model convergence and performance. To address these challenges, we propose CacheFL, a novel federated learning method that replaces traditional full model fine-tuning with lightweight cache model fine-tuning. The cache model is initialized using a class-balanced dataset generated by a generative pre-trained model, effectively mitigating the impact of non-IID data. This cache model is then distributed to local clients for fine-tuning, and the updated parameters from each client are aggregated on the server and redistributed. With the updated cache model, the classification performance of CLIP is improved after just a few epochs. By limiting the training and communication to the cache model, CacheFL significantly reduces resource demands while ensuring data privacy and security. Extensive experiments conducted on ImageNet and 10 additional datasets demonstrate that CacheFL outperforms traditional approaches in terms of classification accuracy, resource efficiency, and privacy preservation.
 
-接受过预先培训的大型视觉语言模型(VLM)等大型视觉语言语言模型(VLMS)在各种图像分类任务中表现出显著的零发性表现。在具体领域数据集上对这些模型进行微调,进一步提高了下游应用的效果。然而,云层环境中的微调引起了对数据安全和隐私的极大关切。Falde(FL)提供了一种分散化的解决办法,在不集中敏感数据的情况下为当地客户提供模型培训,但培训期间传播全部经过培训的成熟程度模型的通信和计算费用高昂,限制了其可缩放性。此外,当地客户的不独立和同化(非IID)数据可能会对模型的趋近效和性能产生消极影响。为了应对这些挑战,我们建议Cachelfl, 一种新的联合学习方法,用轻量级缓存模型微调校正。 缓存模型使用一个班级平衡的模型来初始化,有效地减轻非IID数据的影响。这一缓存模型随后分发给当地客户,用于精细校正的存储成本(非IID)的缩缩缩缩缩缩缩缩缩缩缩缩缩缩缩缩缩缩缩的缩缩缩缩缩缩缩缩缩缩缩缩缩缩缩缩略缩缩缩缩缩缩缩缩缩缩缩缩缩图。我们缩缩缩略图。
+nan
 
 ---
 
