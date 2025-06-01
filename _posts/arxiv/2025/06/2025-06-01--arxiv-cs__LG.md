@@ -1,5 +1,5 @@
 ---
-title: cs.LG @ 2025-06-01: 1952
+title: "cs.LG @ 2025-06-01: 1952"
 date: 2025-06-01
 layout: post
 ---
