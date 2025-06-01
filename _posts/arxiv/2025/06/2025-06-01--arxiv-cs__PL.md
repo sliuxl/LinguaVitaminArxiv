@@ -1,41 +1,41 @@
 ---
-title: cs.PL @ 2025-06-01
+title: "cs.PL @ 2025-06-01: 029"
 date: 2025-06-01
 layout: post
 ---
 
-- [00](#article-0) | 05-29 | Extensional and Non-extensional Functions as Processes | Erweiterungs- und Nichterweiterungsfunktionen als Prozesse | 作为处理过程的扩展和非扩展函数 | [2405.03536v2](http://arxiv.org/abs/2405.03536v2)
+- [00](#article-0) | **05-29 (4)** | Extensional and Non-extensional Functions as Processes | Erweiterungs- und Nichterweiterungsfunktionen als Prozesse | 作为处理过程的扩展和非扩展函数 | [2405.03536v2](http://arxiv.org/abs/2405.03536v2)
 - [01](#article-1) | 05-29 | Quantitative Verification with Neural Networks | Quantitative Überprüfung mit neuralen Netzen | 与神经网络进行定量核查 | [2301.06136v5](http://arxiv.org/abs/2301.06136v5)
 - [02](#article-2) | 05-29 | Is spreadsheet syntax better than numeric indexing for cell selection? | Ist die Tabellensyntax besser als die numerische Indexierung für die Zellenauswahl? | 选择单元格的电子表格语法是否比数字索引更好? | [2505.23296v1](http://arxiv.org/abs/2505.23296v1)
 - [03](#article-3) | 05-29 | VERINA: Benchmarking Verifiable Code Generation | VERINA: Benchmarking der überprüfbaren Code-Generierung | VERINA:可核实代码生成基准 | [2505.23135v1](http://arxiv.org/abs/2505.23135v1)
 - [04](#article-4) | 05-29 | Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of   LLMs on Formal Specification Inference | Kann LLMs Grund über Programm Semantik? Eine umfassende Bewertung von LLMs auf formale Spezifikation Inferenz | CLLMs 方案语义学理由:全面评价关于正式具体推断的LLMs | [2503.04779v4](http://arxiv.org/abs/2503.04779v4)
 - [05](#article-5) | 05-29 | CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark | CASS: Nvidia zu AMD Transpilation mit Daten, Modellen und Benchmark | CASS: Nvidia 到AMD 传输数据、模型和基准 | [2505.16968v3](http://arxiv.org/abs/2505.16968v3)
 - [06](#article-6) | 05-29 | DINGO: Constrained Inference for Diffusion LLMs | DINGO: Beschränkte Schlussfolgerung für Diffusion LLMs | DINGO: 扩散长效LMM的连续推论 | [2505.23061v1](http://arxiv.org/abs/2505.23061v1)
-- [07](#article-7) | 05-28 | HiLDe: Intentional Code Generation via Human-in-the-Loop Decoding | HiLDe: Intentionale Code-Generierung über Human-in-the-Loop-Dekodierung | HILDe:通过 " 人类在圈套解码 " 进行有意代码生成 | [2505.22906v1](http://arxiv.org/abs/2505.22906v1)
+- [07](#article-7) | **05-28 (3)** | HiLDe: Intentional Code Generation via Human-in-the-Loop Decoding | HiLDe: Intentionale Code-Generierung über Human-in-the-Loop-Dekodierung | HILDe:通过 " 人类在圈套解码 " 进行有意代码生成 | [2505.22906v1](http://arxiv.org/abs/2505.22906v1)
 - [08](#article-8) | 05-28 | $Δ$-Nets: Interaction-Based System for Optimal Parallel   $λ$-Reduction | $Δ$-Nets: Interaktionsbasiertes System für eine optimale parallele $λ$-Reduktion | $$-净额:最佳平行互动系统$$$美元-削减 | [2505.20314v2](http://arxiv.org/abs/2505.20314v2)
 - [09](#article-9) | 05-28 | TPDE: A Fast Adaptable Compiler Back-End Framework | TPDE: Ein schnell anpassbares Compiler Back-End Framework | TPDE:一个快速可调适的汇编者后端框架 | [2505.22610v1](http://arxiv.org/abs/2505.22610v1)
 - [10](#article-10) | 05-28 | Custom Representations of Inductive Families | Benutzerdefinierte Darstellungen von induktiven Familien | 感养家庭习俗代表 | [2505.21225v2](http://arxiv.org/abs/2505.21225v2)
 - [11](#article-11) | 05-28 | An instance of FreeCHR with refined operational semantics | Eine Instanz von FreeCHR mit raffinierter operativer Semantik | " 自由人权中心 " 的例子,其中精炼了操作语义 | [2505.22155v1](http://arxiv.org/abs/2505.22155v1)
-- [12](#article-12) | 05-27 | KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel   Performance Tooling on Modern AI Workloads | KPerfIR: Auf dem Weg zu einem offenen und kompilerzentrierten Ökosystem für GPU-Kernel Performance Tooling auf modernen KI-Workloads | KPerfIR:努力建立一个开放的、以编纂者为中心的生态系统,用于在现代AI 工作负荷上使用 GPU 内核性能工具 | [2505.21661v1](http://arxiv.org/abs/2505.21661v1)
+- [12](#article-12) | **05-27 (2)** | KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel   Performance Tooling on Modern AI Workloads | KPerfIR: Auf dem Weg zu einem offenen und kompilerzentrierten Ökosystem für GPU-Kernel Performance Tooling auf modernen KI-Workloads | KPerfIR:努力建立一个开放的、以编纂者为中心的生态系统,用于在现代AI 工作负荷上使用 GPU 内核性能工具 | [2505.21661v1](http://arxiv.org/abs/2505.21661v1)
 - [13](#article-13) | 05-27 | Full LTL Synthesis over Infinite-state Arenas | Vollständige LTL-Synthese über Infinite-State-Arenen | 无限状态阿雷纳斯地区全面LTL综合综合 | [2307.09776v3](http://arxiv.org/abs/2307.09776v3)
 - [14](#article-14) | 05-27 | Local Type Inference for Context-Free Session Types | Lokale Typ-Schlussfolgerung für kontextfreie Sitzungstypen | 无背景会话类型本地类型推推推 | [2505.20855v1](http://arxiv.org/abs/2505.20855v1)
 - [15](#article-15) | 05-27 | An Efficient Implementation of Guard-Based Synchronization for an   Object-Oriented Programming Language | Effiziente Implementierung von Guard-Based Synchronization für eine objektorientierte Programmiersprache | 高效率地实施以警卫为基础的同步,以用于以目标为导向的方案编制语言 | [2505.20850v1](http://arxiv.org/abs/2505.20850v1)
 - [16](#article-16) | 05-27 | Thread and Memory-Safe Programming with CLASS | Thread- und Memory-sichere Programmierung mit CLASS | 使用 CLASS 的线索和内存安全编程 | [2505.20848v1](http://arxiv.org/abs/2505.20848v1)
 - [17](#article-17) | 05-27 | Choreographies as Macros | Choreographien als Makros | 作为宏的舞蹈 | [2505.20845v1](http://arxiv.org/abs/2505.20845v1)
 - [18](#article-18) | 05-27 | INTERLEAVE: A Faster Symbolic Algorithm for Maximal End Component   Decomposition | INTERLEAVE: Ein schnellerer symbolischer Algorithmus für maximale Endkomponentenzersetzung | 最大末端组件分解的更快的符号性算法 | [2505.20748v1](http://arxiv.org/abs/2505.20748v1)
-- [19](#article-19) | 05-26 | GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency | GPUMC: Ein staatenloser Modellprüfer für GPU-Schwachspeicherkonkurrenz | GPUMC: GPU 弱内存调制货币的无国籍模式检查器 | [2505.20207v1](http://arxiv.org/abs/2505.20207v1)
+- [19](#article-19) | **05-26 (1)** | GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency | GPUMC: Ein staatenloser Modellprüfer für GPU-Schwachspeicherkonkurrenz | GPUMC: GPU 弱内存调制货币的无国籍模式检查器 | [2505.20207v1](http://arxiv.org/abs/2505.20207v1)
 - [20](#article-20) | 05-26 | The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary   Decompilation with LLMs | Die CodeInverter Suite: Control-Flow und Data-Mapping Augmented Binary Decompilation mit LLMs | 代码输入器套件:控制-光和数据-制表增强的二进制解析与LLMS | [2503.07215v2](http://arxiv.org/abs/2503.07215v2)
 - [21](#article-21) | 05-26 | Abstractions-of-Thought: Intermediate Representations for LLM Reasoning   in Hardware Design | Abstractions-of-Thought: Mittlere Darstellungen für LLM-Reasoning im Hardware-Design | 设计硬件设计方面LLM理由的中间代表 | [2505.15873v2](http://arxiv.org/abs/2505.15873v2)
 - [22](#article-22) | 05-26 | LEGO-Compiler: Enhancing Neural Compilation Through Translation   Composability | LEGO-Compiler: Neurale Kompilierung durch Übersetzungskompatibilität verbessern | LEGO-Compuper:通过翻译集成加强神经汇编 | [2505.20356v1](http://arxiv.org/abs/2505.20356v1)
 - [23](#article-23) | 05-26 | Fully Randomized Pointers | Vollkommen Randomisierte Zeiger | 完全随机化指针 | [2405.12513v2](http://arxiv.org/abs/2405.12513v2)
-- [24](#article-24) | 05-25 | CLEVER: A Curated Benchmark for Formally Verified Code Generation | CLEVER: Ein kuratierter Benchmark für die formal verifizierte Codegenerierung | 正式核实的代码生成基准 | [2505.13938v3](http://arxiv.org/abs/2505.13938v3)
+- [24](#article-24) | **05-25 (7)** | CLEVER: A Curated Benchmark for Formally Verified Code Generation | CLEVER: Ein kuratierter Benchmark für die formal verifizierte Codegenerierung | 正式核实的代码生成基准 | [2505.13938v3](http://arxiv.org/abs/2505.13938v3)
 - [25](#article-25) | 05-25 | Proceedings 16th International Workshop on Programming Language   Approaches to Concurrency and Communication-cEntric Software | 16. Internationaler Workshop zur Programmierung von Sprachkonzepten für Concurrency und Communication-cEntric Software | 第16次关于以方案语言处理货币和通信软件的国际讲习班 | [2505.19078v1](http://arxiv.org/abs/2505.19078v1)
-- [26](#article-26) | 05-24 | Algorithmic Language Models with Neurally Compiled Libraries | Algorithmische Sprachmodelle mit neurally compiled Bibliotheken | 具有神经编译图书馆的算法语言模型 | [2407.04899v2](http://arxiv.org/abs/2407.04899v2)
+- [26](#article-26) | **05-24 (6)** | Algorithmic Language Models with Neurally Compiled Libraries | Algorithmische Sprachmodelle mit neurally compiled Bibliotheken | 具有神经编译图书馆的算法语言模型 | [2407.04899v2](http://arxiv.org/abs/2407.04899v2)
 - [27](#article-27) | 05-24 | Automated Verification of Monotonic Data Structure Traversals in C | Automatisierte Überprüfung der monotonen Datenstruktur Traversals in C | 自动核查C的单声量数据结构轨迹 | [2505.18818v1](http://arxiv.org/abs/2505.18818v1)
 - [28](#article-28) | 05-24 | Autocomp: LLM-Driven Code Optimization for Tensor Accelerators | Autocomp: LLM-gesteuerte Code-Optimierung für Tensor-Beschleuniger | 自动comp: LLM- Driven 代码对 Tensor 加速器的优化 | [2505.18574v1](http://arxiv.org/abs/2505.18574v1)
 
 ## Article 0
-### Title@2025-05-29: Extensional and Non-extensional Functions as Processes
+### Title@2025-05-29 (4): Extensional and Non-extensional Functions as Processes
 **Title**: Extensional and Non-extensional Functions as Processes | Erweiterungs- und Nichterweiterungsfunktionen als Prozesse | 作为处理过程的扩展和非扩展函数 [2405.03536v2](http://arxiv.org/abs/2405.03536v2)
 
 **Authors**: Ken Sakayori, Davide Sangiorgi
@@ -45,7 +45,7 @@ Following Milner's seminal paper, the representation of functions as processes h
 ---
 
 ## Article 1
-### Title@2025-05-29: Quantitative Verification with Neural Networks
+### Title@2025-05-29 (4): Quantitative Verification with Neural Networks
 **Title**: Quantitative Verification with Neural Networks | Quantitative Überprüfung mit neuralen Netzen | 与神经网络进行定量核查 [2301.06136v5](http://arxiv.org/abs/2301.06136v5)
 
 **Authors**: Alessandro Abate, Alec Edwards, Mirco Giacobbe, Hashan Punchihewa, Diptarko Roy
@@ -55,7 +55,7 @@ We present a data-driven approach to the quantitative verification of probabilis
 ---
 
 ## Article 2
-### Title@2025-05-29: Is spreadsheet syntax better than numeric indexing for cell selection?
+### Title@2025-05-29 (4): Is spreadsheet syntax better than numeric indexing for cell selection?
 **Title**: Is spreadsheet syntax better than numeric indexing for cell selection? | Ist die Tabellensyntax besser als die numerische Indexierung für die Zellenauswahl? | 选择单元格的电子表格语法是否比数字索引更好? [2505.23296v1](http://arxiv.org/abs/2505.23296v1)
 
 **Authors**: Philip Heltweg, Dirk Riehle, Georg-Daniel Schwarz
@@ -65,7 +65,7 @@ Selecting a subset of cells is a common task in data engineering, for example, t
 ---
 
 ## Article 3
-### Title@2025-05-29: VERINA: Benchmarking Verifiable Code Generation
+### Title@2025-05-29 (4): VERINA: Benchmarking Verifiable Code Generation
 **Title**: VERINA: Benchmarking Verifiable Code Generation | VERINA: Benchmarking der überprüfbaren Code-Generierung | VERINA:可核实代码生成基准 [2505.23135v1](http://arxiv.org/abs/2505.23135v1)
 
 **Authors**: Zhe Ye, Zhengxu Yan, Jingxuan He, Timothe Kasriel, Kaiyu Yang, Dawn Song
@@ -75,7 +75,7 @@ Large language models (LLMs) are increasingly integrated in software development
 ---
 
 ## Article 4
-### Title@2025-05-29: Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of   LLMs on Formal Specification Inference
+### Title@2025-05-29 (4): Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of   LLMs on Formal Specification Inference
 **Title**: Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of   LLMs on Formal Specification Inference | Kann LLMs Grund über Programm Semantik? Eine umfassende Bewertung von LLMs auf formale Spezifikation Inferenz | CLLMs 方案语义学理由:全面评价关于正式具体推断的LLMs [2503.04779v4](http://arxiv.org/abs/2503.04779v4)
 
 **Authors**: Thanh Le-Cong, Bach Le, Toby Murray
@@ -85,7 +85,7 @@ Large Language Models (LLMs) are increasingly being used to automate programming
 ---
 
 ## Article 5
-### Title@2025-05-29: CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark
+### Title@2025-05-29 (4): CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark
 **Title**: CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark | CASS: Nvidia zu AMD Transpilation mit Daten, Modellen und Benchmark | CASS: Nvidia 到AMD 传输数据、模型和基准 [2505.16968v3](http://arxiv.org/abs/2505.16968v3)
 
 **Authors**: Ahmed Heakl, Sarim Hashmi, Gustavo Bertolo Stahl, Seung Hun Eddie Han, Salman Khan, Abdulrahman Mahmoud
@@ -95,7 +95,7 @@ We introduce CASS, the first large-scale dataset and model suite for cross-archi
 ---
 
 ## Article 6
-### Title@2025-05-29: DINGO: Constrained Inference for Diffusion LLMs
+### Title@2025-05-29 (4): DINGO: Constrained Inference for Diffusion LLMs
 **Title**: DINGO: Constrained Inference for Diffusion LLMs | DINGO: Beschränkte Schlussfolgerung für Diffusion LLMs | DINGO: 扩散长效LMM的连续推论 [2505.23061v1](http://arxiv.org/abs/2505.23061v1)
 
 **Authors**: Tarun Suresh, Debangshu Banerjee, Shubham Ugare, Sasa Misailovic, Gagandeep Singh
@@ -105,7 +105,7 @@ Diffusion LLMs have emerged as a promising alternative to conventional autoregre
 ---
 
 ## Article 7
-### Title@2025-05-28: HiLDe: Intentional Code Generation via Human-in-the-Loop Decoding
+### Title@2025-05-28 (3): HiLDe: Intentional Code Generation via Human-in-the-Loop Decoding
 **Title**: HiLDe: Intentional Code Generation via Human-in-the-Loop Decoding | HiLDe: Intentionale Code-Generierung über Human-in-the-Loop-Dekodierung | HILDe:通过 " 人类在圈套解码 " 进行有意代码生成 [2505.22906v1](http://arxiv.org/abs/2505.22906v1)
 
 **Authors**: Emmanuel Anaya González, Raven Rothkopf, Sorin Lerner, Nadia Polikarpova
@@ -115,7 +115,7 @@ While AI programming tools hold the promise of increasing programmers' capabilit
 ---
 
 ## Article 8
-### Title@2025-05-28: $Δ$-Nets: Interaction-Based System for Optimal Parallel   $λ$-Reduction
+### Title@2025-05-28 (3): $Δ$-Nets: Interaction-Based System for Optimal Parallel   $λ$-Reduction
 **Title**: $Δ$-Nets: Interaction-Based System for Optimal Parallel   $λ$-Reduction | $Δ$-Nets: Interaktionsbasiertes System für eine optimale parallele $λ$-Reduktion | $$-净额:最佳平行互动系统$$$美元-削减 [2505.20314v2](http://arxiv.org/abs/2505.20314v2)
 
 **Authors**: Daniel Augusto Rizzi Salvadori
@@ -125,7 +125,7 @@ I present a model of universal parallel computation called $\Delta$-Nets, and a 
 ---
 
 ## Article 9
-### Title@2025-05-28: TPDE: A Fast Adaptable Compiler Back-End Framework
+### Title@2025-05-28 (3): TPDE: A Fast Adaptable Compiler Back-End Framework
 **Title**: TPDE: A Fast Adaptable Compiler Back-End Framework | TPDE: Ein schnell anpassbares Compiler Back-End Framework | TPDE:一个快速可调适的汇编者后端框架 [2505.22610v1](http://arxiv.org/abs/2505.22610v1)
 
 **Authors**: Tobias Schwarz, Tobias Kamm, Alexis Engelke
@@ -135,7 +135,7 @@ Fast machine code generation is especially important for fast start-up just-in-t
 ---
 
 ## Article 10
-### Title@2025-05-28: Custom Representations of Inductive Families
+### Title@2025-05-28 (3): Custom Representations of Inductive Families
 **Title**: Custom Representations of Inductive Families | Benutzerdefinierte Darstellungen von induktiven Familien | 感养家庭习俗代表 [2505.21225v2](http://arxiv.org/abs/2505.21225v2)
 
 **Authors**: Constantine Theocharis, Edwin Brady
@@ -145,7 +145,7 @@ Inductive families provide a convenient way of programming with dependent types.
 ---
 
 ## Article 11
-### Title@2025-05-28: An instance of FreeCHR with refined operational semantics
+### Title@2025-05-28 (3): An instance of FreeCHR with refined operational semantics
 **Title**: An instance of FreeCHR with refined operational semantics | Eine Instanz von FreeCHR mit raffinierter operativer Semantik | " 自由人权中心 " 的例子,其中精炼了操作语义 [2505.22155v1](http://arxiv.org/abs/2505.22155v1)
 
 **Authors**: Sascha Rechenberger, Thom Frühwirth
@@ -155,7 +155,7 @@ Constraint Handling Rules (CHR) is a rule-based programming language which is ty
 ---
 
 ## Article 12
-### Title@2025-05-27: KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel   Performance Tooling on Modern AI Workloads
+### Title@2025-05-27 (2): KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel   Performance Tooling on Modern AI Workloads
 **Title**: KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel   Performance Tooling on Modern AI Workloads | KPerfIR: Auf dem Weg zu einem offenen und kompilerzentrierten Ökosystem für GPU-Kernel Performance Tooling auf modernen KI-Workloads | KPerfIR:努力建立一个开放的、以编纂者为中心的生态系统,用于在现代AI 工作负荷上使用 GPU 内核性能工具 [2505.21661v1](http://arxiv.org/abs/2505.21661v1)
 
 **Authors**: Yue Guan, Yuanwei Fang, Keren Zhou, Corbin Robeck, Manman Ren, Zhongkai Yu, Yufei Ding, Adnan Aziz
@@ -165,7 +165,7 @@ In this work, we propose KPerfIR, a novel multilevel compiler-centric infrastruc
 ---
 
 ## Article 13
-### Title@2025-05-27: Full LTL Synthesis over Infinite-state Arenas
+### Title@2025-05-27 (2): Full LTL Synthesis over Infinite-state Arenas
 **Title**: Full LTL Synthesis over Infinite-state Arenas | Vollständige LTL-Synthese über Infinite-State-Arenen | 无限状态阿雷纳斯地区全面LTL综合综合 [2307.09776v3](http://arxiv.org/abs/2307.09776v3)
 
 **Authors**: Shaun Azzopardi, Luca Di Stefano, Nir Piterman, Gerardo Schneider
@@ -175,7 +175,7 @@ Recently, interest has increased in applying reactive synthesis to richer-than-B
 ---
 
 ## Article 14
-### Title@2025-05-27: Local Type Inference for Context-Free Session Types
+### Title@2025-05-27 (2): Local Type Inference for Context-Free Session Types
 **Title**: Local Type Inference for Context-Free Session Types | Lokale Typ-Schlussfolgerung für kontextfreie Sitzungstypen | 无背景会话类型本地类型推推推 [2505.20855v1](http://arxiv.org/abs/2505.20855v1)
 
 **Authors**: Bernardo Almeida, Andreia Mordido, Vasco T. Vasconcelos
@@ -185,7 +185,7 @@ We address the problem of local type inference for a language based on System F 
 ---
 
 ## Article 15
-### Title@2025-05-27: An Efficient Implementation of Guard-Based Synchronization for an   Object-Oriented Programming Language
+### Title@2025-05-27 (2): An Efficient Implementation of Guard-Based Synchronization for an   Object-Oriented Programming Language
 **Title**: An Efficient Implementation of Guard-Based Synchronization for an   Object-Oriented Programming Language | Effiziente Implementierung von Guard-Based Synchronization für eine objektorientierte Programmiersprache | 高效率地实施以警卫为基础的同步,以用于以目标为导向的方案编制语言 [2505.20850v1](http://arxiv.org/abs/2505.20850v1)
 
 **Authors**: Shucai Yao, Emil Sekerinski
@@ -195,7 +195,7 @@ In the shared variable model of concurrency, guarded atomic actions restrict the
 ---
 
 ## Article 16
-### Title@2025-05-27: Thread and Memory-Safe Programming with CLASS
+### Title@2025-05-27 (2): Thread and Memory-Safe Programming with CLASS
 **Title**: Thread and Memory-Safe Programming with CLASS | Thread- und Memory-sichere Programmierung mit CLASS | 使用 CLASS 的线索和内存安全编程 [2505.20848v1](http://arxiv.org/abs/2505.20848v1)
 
 **Authors**: Luís Caires
@@ -205,7 +205,7 @@ CLASS is a proof-of-concept general purpose linear programming language, flexibl
 ---
 
 ## Article 17
-### Title@2025-05-27: Choreographies as Macros
+### Title@2025-05-27 (2): Choreographies as Macros
 **Title**: Choreographies as Macros | Choreographien als Makros | 作为宏的舞蹈 [2505.20845v1](http://arxiv.org/abs/2505.20845v1)
 
 **Authors**: Alexander Bohosian, Andrew K. Hirsch
@@ -215,7 +215,7 @@ Concurrent programming often entails meticulous pairing of sends and receives be
 ---
 
 ## Article 18
-### Title@2025-05-27: INTERLEAVE: A Faster Symbolic Algorithm for Maximal End Component   Decomposition
+### Title@2025-05-27 (2): INTERLEAVE: A Faster Symbolic Algorithm for Maximal End Component   Decomposition
 **Title**: INTERLEAVE: A Faster Symbolic Algorithm for Maximal End Component   Decomposition | INTERLEAVE: Ein schnellerer symbolischer Algorithmus für maximale Endkomponentenzersetzung | 最大末端组件分解的更快的符号性算法 [2505.20748v1](http://arxiv.org/abs/2505.20748v1)
 
 **Authors**: Suguman Bansal, Ramneet Singh
@@ -225,7 +225,7 @@ This paper presents a novel symbolic algorithm for the Maximal End Component (ME
 ---
 
 ## Article 19
-### Title@2025-05-26: GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency
+### Title@2025-05-26 (1): GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency
 **Title**: GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency | GPUMC: Ein staatenloser Modellprüfer für GPU-Schwachspeicherkonkurrenz | GPUMC: GPU 弱内存调制货币的无国籍模式检查器 [2505.20207v1](http://arxiv.org/abs/2505.20207v1)
 
 **Authors**: Soham Chakraborty, S. Krishna, Andreas Pavlogiannis, Omkar Tuppe
@@ -235,7 +235,7 @@ GPU computing is embracing weak memory concurrency for performance improvement. 
 ---
 
 ## Article 20
-### Title@2025-05-26: The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary   Decompilation with LLMs
+### Title@2025-05-26 (1): The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary   Decompilation with LLMs
 **Title**: The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary   Decompilation with LLMs | Die CodeInverter Suite: Control-Flow und Data-Mapping Augmented Binary Decompilation mit LLMs | 代码输入器套件:控制-光和数据-制表增强的二进制解析与LLMS [2503.07215v2](http://arxiv.org/abs/2503.07215v2)
 
 **Authors**: Peipei Liu, Jian Sun, Rongkang Sun, Li Chen, Zhaoteng Yan, Peizheng Zhang, Dapeng Sun, Dawei Wang, Xiaoling Zhang, Dan Li
@@ -245,7 +245,7 @@ Binary decompilation plays a vital role in various cybersecurity and software en
 ---
 
 ## Article 21
-### Title@2025-05-26: Abstractions-of-Thought: Intermediate Representations for LLM Reasoning   in Hardware Design
+### Title@2025-05-26 (1): Abstractions-of-Thought: Intermediate Representations for LLM Reasoning   in Hardware Design
 **Title**: Abstractions-of-Thought: Intermediate Representations for LLM Reasoning   in Hardware Design | Abstractions-of-Thought: Mittlere Darstellungen für LLM-Reasoning im Hardware-Design | 设计硬件设计方面LLM理由的中间代表 [2505.15873v2](http://arxiv.org/abs/2505.15873v2)
 
 **Authors**: Matthew DeLorenzo, Kevin Tieu, Prithwish Jana, Piyush Jha, Dileep Kalathil, Vijay Ganesh, Jeyavijayan Rajendran
@@ -255,7 +255,7 @@ Large language models (LLMs) have achieved impressive proficiency on logic and p
 ---
 
 ## Article 22
-### Title@2025-05-26: LEGO-Compiler: Enhancing Neural Compilation Through Translation   Composability
+### Title@2025-05-26 (1): LEGO-Compiler: Enhancing Neural Compilation Through Translation   Composability
 **Title**: LEGO-Compiler: Enhancing Neural Compilation Through Translation   Composability | LEGO-Compiler: Neurale Kompilierung durch Übersetzungskompatibilität verbessern | LEGO-Compuper:通过翻译集成加强神经汇编 [2505.20356v1](http://arxiv.org/abs/2505.20356v1)
 
 **Authors**: Shuoming Zhang, Jiacheng Zhao, Chunwei Xia, Zheng Wang, Yunji Chen, Xiaobing Feng, Huimin Cui
@@ -265,7 +265,7 @@ Large language models (LLMs) have the potential to revolutionize how we design a
 ---
 
 ## Article 23
-### Title@2025-05-26: Fully Randomized Pointers
+### Title@2025-05-26 (1): Fully Randomized Pointers
 **Title**: Fully Randomized Pointers | Vollkommen Randomisierte Zeiger | 完全随机化指针 [2405.12513v2](http://arxiv.org/abs/2405.12513v2)
 
 **Authors**: Sai Dhawal Phaye, Gregory J. Duck, Roland H. C. Yap, Trevor E. Carlson
@@ -275,7 +275,7 @@ Memory errors continue to be a critical concern for programs written in low-leve
 ---
 
 ## Article 24
-### Title@2025-05-25: CLEVER: A Curated Benchmark for Formally Verified Code Generation
+### Title@2025-05-25 (7): CLEVER: A Curated Benchmark for Formally Verified Code Generation
 **Title**: CLEVER: A Curated Benchmark for Formally Verified Code Generation | CLEVER: Ein kuratierter Benchmark für die formal verifizierte Codegenerierung | 正式核实的代码生成基准 [2505.13938v3](http://arxiv.org/abs/2505.13938v3)
 
 **Authors**: Amitayush Thakur, Jasper Lee, George Tsoukalas, Meghana Sistla, Matthew Zhao, Stefan Zetzsche, Greg Durrett, Yisong Yue, Swarat Chaudhuri
@@ -285,7 +285,7 @@ We introduce ${\rm C{\small LEVER}}$, a high-quality, curated benchmark of 161 p
 ---
 
 ## Article 25
-### Title@2025-05-25: Proceedings 16th International Workshop on Programming Language   Approaches to Concurrency and Communication-cEntric Software
+### Title@2025-05-25 (7): Proceedings 16th International Workshop on Programming Language   Approaches to Concurrency and Communication-cEntric Software
 **Title**: Proceedings 16th International Workshop on Programming Language   Approaches to Concurrency and Communication-cEntric Software | 16. Internationaler Workshop zur Programmierung von Sprachkonzepten für Concurrency und Communication-cEntric Software | 第16次关于以方案语言处理货币和通信软件的国际讲习班 [2505.19078v1](http://arxiv.org/abs/2505.19078v1)
 
 **Authors**: Farzaneh Derakhshan, Jan Hoffmann
@@ -295,7 +295,7 @@ This volume contains the proceedings of PLACES 2025, the 16th edition of the Wor
 ---
 
 ## Article 26
-### Title@2025-05-24: Algorithmic Language Models with Neurally Compiled Libraries
+### Title@2025-05-24 (6): Algorithmic Language Models with Neurally Compiled Libraries
 **Title**: Algorithmic Language Models with Neurally Compiled Libraries | Algorithmische Sprachmodelle mit neurally compiled Bibliotheken | 具有神经编译图书馆的算法语言模型 [2407.04899v2](http://arxiv.org/abs/2407.04899v2)
 
 **Authors**: Lucas Saldyt, Subbarao Kambhampati
@@ -305,7 +305,7 @@ Important tasks such as reasoning and planning are fundamentally algorithmic, me
 ---
 
 ## Article 27
-### Title@2025-05-24: Automated Verification of Monotonic Data Structure Traversals in C
+### Title@2025-05-24 (6): Automated Verification of Monotonic Data Structure Traversals in C
 **Title**: Automated Verification of Monotonic Data Structure Traversals in C | Automatisierte Überprüfung der monotonen Datenstruktur Traversals in C | 自动核查C的单声量数据结构轨迹 [2505.18818v1](http://arxiv.org/abs/2505.18818v1)
 
 **Authors**: Matthew Sotoudeh
@@ -315,7 +315,7 @@ Bespoke data structure operations are common in real-world C code. We identify o
 ---
 
 ## Article 28
-### Title@2025-05-24: Autocomp: LLM-Driven Code Optimization for Tensor Accelerators
+### Title@2025-05-24 (6): Autocomp: LLM-Driven Code Optimization for Tensor Accelerators
 **Title**: Autocomp: LLM-Driven Code Optimization for Tensor Accelerators | Autocomp: LLM-gesteuerte Code-Optimierung für Tensor-Beschleuniger | 自动comp: LLM- Driven 代码对 Tensor 加速器的优化 [2505.18574v1](http://arxiv.org/abs/2505.18574v1)
 
 **Authors**: Charles Hong, Sahil Bhatia, Alvin Cheung, Yakun Sophia Shao
