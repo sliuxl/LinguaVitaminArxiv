@@ -6,6 +6,8 @@ title: Home
 Welcome to **LinguaVitamin arXiv Papers**!
 Here you’ll find daily multilingual arXiv papers to boost your language learning.
 
+- Source code: [LinguaVitaminArxiv](https://github.com/sliuxl/LinguaVitaminArxiv)
+
 ---
 
 ## 📰 Latest Posts
