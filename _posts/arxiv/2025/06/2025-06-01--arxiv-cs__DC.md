@@ -1,10 +1,10 @@
 ---
-title: cs.DC @ 2025-06-01
+title: cs.DC @ 2025-06-01: 103
 date: 2025-06-01
 layout: post
 ---
 
-- [00](#article-0) | 05-29 | From Connectivity to Autonomy: The Dawn of Self-Evolving Communication   Systems | Von der Konnektivität zur Autonomie: Die Morgenröte der sich selbst entwickelnden Kommunikationssysteme | 从连接到自主:自我发展的通信系统的黎明 | [2505.23710v1](http://arxiv.org/abs/2505.23710v1)
+- [00](#article-0) | **05-29 (4)** | From Connectivity to Autonomy: The Dawn of Self-Evolving Communication   Systems | Von der Konnektivität zur Autonomie: Die Morgenröte der sich selbst entwickelnden Kommunikationssysteme | 从连接到自主:自我发展的通信系统的黎明 | [2505.23710v1](http://arxiv.org/abs/2505.23710v1)
 - [01](#article-1) | 05-29 | Distributed Federated Learning for Vehicular Network Security: Anomaly   Detection Benefits and Multi-Domain Attack Threats | Verteiltes Federated Learning für die Sicherheit des Vehicular Network: Anomalieerkennungsvorteile und Multi-Domain-Angriffsbedrohungen | 分布式联邦学习促进车辆网络安全:反常探测效益和多领域攻击威胁 | [2505.23706v1](http://arxiv.org/abs/2505.23706v1)
 - [02](#article-2) | 05-29 | Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky   Preconditioners | Parallele GPU-beschleunigte Randomisierte Konstruktion von ungefähren Cholesky-Vorkonditionen | 平行的GPU-加速加速旋转式建造近焦天空预设装置 | [2505.02977v2](http://arxiv.org/abs/2505.02977v2)
 - [03](#article-3) | 05-29 | Complementary Time-Space Tradeoff for Self-Stabilizing Leader Election:   Polynomial States Meet Sublinear Time | Komplementärer Zeit-Raum-Tradeoff für selbststabilisierende Leader-Wahl: Polynome Staaten treffen auf sublineare Zeit | 自我稳定领导人选举的补充时间-空间权衡:多民族国家满足亚线性时间 | [2505.23649v1](http://arxiv.org/abs/2505.23649v1)
@@ -22,7 +22,7 @@ layout: post
 - [15](#article-15) | 05-29 | Toward Cost-Efficient Serving of Mixture-of-Experts with Asynchrony | Auf dem Weg zu einem kosteneffizienten Servieren von Mixture-of-Experts mit Asynchrony | 争取以成本低效益高的方式服务专家与非同步混合服务 | [2505.08944v2](http://arxiv.org/abs/2505.08944v2)
 - [16](#article-16) | 05-29 | Shortcut-connected Expert Parallelism for Accelerating   Mixture-of-Experts | Shortcut-verbundene Experten-Parallelität für die Beschleunigung von Mixture-of-Experts | 加速混合专家专家专家平行专家 | [2404.05019v3](http://arxiv.org/abs/2404.05019v3)
 - [17](#article-17) | 05-29 | Speeding up Model Loading with fastsafetensors | Beschleunigen des Modells Beladung mit Schnellsicherern | 加速装有快速保障装置的模型加载速度 | [2505.23072v1](http://arxiv.org/abs/2505.23072v1)
-- [18](#article-18) | 05-28 | Profiling and optimization of multi-card GPU machine learning jobs | Profilierung und Optimierung von Multi-Card-GPU-Maschinenlernjobs | 多卡 GPPU 机器学习工作的分析和优化 | [2505.22905v1](http://arxiv.org/abs/2505.22905v1)
+- [18](#article-18) | **05-28 (3)** | Profiling and optimization of multi-card GPU machine learning jobs | Profilierung und Optimierung von Multi-Card-GPU-Maschinenlernjobs | 多卡 GPPU 机器学习工作的分析和优化 | [2505.22905v1](http://arxiv.org/abs/2505.22905v1)
 - [19](#article-19) | 05-28 | Visualizing Cloud-native Applications with KubeDiagrams | Cloud-native Anwendungen mit KubeDiagrammen visualisieren | 带有KubeDiagrams 的可视化云源应用 | [2505.22879v1](http://arxiv.org/abs/2505.22879v1)
 - [20](#article-20) | 05-28 | The National Research Platform: Stretched, Multi-Tenant, Scientific   Kubernetes Cluster | Die Nationale Forschungsplattform: Streckiger, Multi-Tenant-Cluster, wissenschaftlicher Kubernetes-Cluster | 国家研究平台:延伸、多层、多层、科学库伯涅茨集群 | [2505.22864v1](http://arxiv.org/abs/2505.22864v1)
 - [21](#article-21) | 05-28 | $Δ$-Nets: Interaction-Based System for Optimal Parallel   $λ$-Reduction | $Δ$-Nets: Interaktionsbasiertes System für eine optimale parallele $λ$-Reduktion | $$-净额:最佳平行互动系统$$$美元-削减 | [2505.20314v2](http://arxiv.org/abs/2505.20314v2)
@@ -37,7 +37,7 @@ layout: post
 - [30](#article-30) | 05-28 | Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS   Systems | Joint$λ$: Orchestrierung serverloser Workflows auf Jointcloud FaaS-Systemen | 联合 $ $: 联合COLOUD FaaS系统无服务器工作流管 | [2505.21899v1](http://arxiv.org/abs/2505.21899v1)
 - [31](#article-31) | 05-28 | Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation   in Federated Learning | Hybride Batch-Normalisierung: Lösung des Dilemmas der Batch-Normalisierung im Federated Learning | 混合批次正常化:解决联邦学习中批次正常化的难题 | [2505.21877v1](http://arxiv.org/abs/2505.21877v1)
 - [32](#article-32) | 05-28 | gLLM: Global Balanced Pipeline Parallelism System for Distributed LLM   Serving with Token Throttling | gLLM: Global Balanced Pipeline Parallelism System für verteiltes LLM Serving mit Token Throttling | gLLM:全球平衡管道平行系统 | [2504.14775v2](http://arxiv.org/abs/2504.14775v2)
-- [33](#article-33) | 05-27 | Empowering Scientific Workflows with Federated Agents | Stärkung wissenschaftlicher Workflows mit Federated Agents | 赋予联邦药剂部门科学工作流程权能 | [2505.05428v2](http://arxiv.org/abs/2505.05428v2)
+- [33](#article-33) | **05-27 (2)** | Empowering Scientific Workflows with Federated Agents | Stärkung wissenschaftlicher Workflows mit Federated Agents | 赋予联邦药剂部门科学工作流程权能 | [2505.05428v2](http://arxiv.org/abs/2505.05428v2)
 - [34](#article-34) | 05-27 | LV-XAttn: Distributed Cross-Attention for Long Visual Inputs in   Multimodal Large Language Models | LV-XAttn: Verteilte Cross-Attention für lange visuelle Eingänge in multimodalen großen Sprachmodellen | LV-XAttn:多式大语言模型中长视输入分布式交叉注意 | [2502.02406v3](http://arxiv.org/abs/2502.02406v3)
 - [35](#article-35) | 05-27 | Power-Capping Metric Evaluation for Improving Energy Efficiency | Leistungskapitulation Metric-Evaluierung zur Verbesserung der Energieeffizienz | 提高能源效率提高能源使用效率的节能计量评价 | [2505.21758v1](http://arxiv.org/abs/2505.21758v1)
 - [36](#article-36) | 05-27 | FedCostAware: Enabling Cost-Aware Federated Learning on the Cloud | FedCostAware: Kostenbewusstes Lernen in der Cloud ermöglichen | FestAware:在云上进行成本-软件联合学习 | [2505.21727v1](http://arxiv.org/abs/2505.21727v1)
@@ -64,7 +64,7 @@ layout: post
 - [57](#article-57) | 05-27 | Work-Efficient Parallel Counting via Sampling | Arbeitseffiziente parallele Zählung über Probenahme | 通过抽样计算实现工作效率的平行计数 | [2408.09719v2](http://arxiv.org/abs/2408.09719v2)
 - [58](#article-58) | 05-27 | Time-Series Learning for Proactive Fault Prediction in Distributed   Systems with Deep Neural Structures | Time-Series Learning für proaktive Fehlervorhersage in verteilten Systemen mit tiefen neuralen Strukturen | 深心神经结构分布系统预发性故障预测时间序列学习 | [2505.20705v1](http://arxiv.org/abs/2505.20705v1)
 - [59](#article-59) | 05-27 | InstGenIE: Generative Image Editing Made Efficient with Mask-aware   Caching and Scheduling | InstGenIE: Generative Bildbearbeitung mit Mask-aware Caching und Scheduling effizient gemacht | InstGenie: 生成图像编辑, 高效使用防面具图像缓冲和排程 | [2505.20600v1](http://arxiv.org/abs/2505.20600v1)
-- [60](#article-60) | 05-26 | Asynchronous Fault-Tolerant Language Decidability for Runtime   Verification of Distributed Systems | Asynchrone Fehler-Tolerante Sprachentscheidung für die Laufzeitverifizierung von verteilten Systemen | 分布式系统运行时核查的 Al- 同步错失容忍语言 | [2502.00191v2](http://arxiv.org/abs/2502.00191v2)
+- [60](#article-60) | **05-26 (1)** | Asynchronous Fault-Tolerant Language Decidability for Runtime   Verification of Distributed Systems | Asynchrone Fehler-Tolerante Sprachentscheidung für die Laufzeitverifizierung von verteilten Systemen | 分布式系统运行时核查的 Al- 同步错失容忍语言 | [2502.00191v2](http://arxiv.org/abs/2502.00191v2)
 - [61](#article-61) | 05-26 | Avoid Forgetting by Preserving Global Knowledge Gradients in Federated   Learning with Non-IID Data | Vermeiden Sie das Vergessen, indem Sie globale Wissensgradienten im Föderierten Lernen mit nicht-ID-Daten bewahren | 避免在使用非二二二维数据进行联邦学习时因保留全球知识进步而被遗忘 | [2505.20485v1](http://arxiv.org/abs/2505.20485v1)
 - [62](#article-62) | 05-26 | Fixing non-blocking data structures for better compatibility with memory   reclamation schemes | Fixierung von nicht blockierenden Datenstrukturen für eine bessere Kompatibilität mit Speicher-Reklamationssystemen | 固定非阻塞性数据结构,以更好地与内存回收计划兼容 | [2504.06254v2](http://arxiv.org/abs/2504.06254v2)
 - [63](#article-63) | 05-26 | Efficient Optimization Accelerator Framework for Multistate Ising   Problems | Effizientes Optimierungs-Beschleuniger-Framework für Multistate Ising-Probleme | 高效高效优化多州化问题加速加速框架 | [2505.20250v1](http://arxiv.org/abs/2505.20250v1)
@@ -91,13 +91,25 @@ layout: post
 - [84](#article-84) | 05-26 | Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive   Decisions of LLMs | Gewinnen Sie schnell oder verlieren Sie langsam: Ausgleichende Geschwindigkeit und Genauigkeit in Latenz-Sensitive Entscheidungen von LLMs | 慢赢或慢输:LLMs的延缓敏感决定中平衡速度和准确性 | [2505.19481v1](http://arxiv.org/abs/2505.19481v1)
 - [85](#article-85) | 05-26 | GPU acceleration of non-equilibrium Green's function calculation using   OpenACC and CUDA FORTRAN | GPU-Beschleunigung der Nicht-Equilibrium Green-Funktionsberechnung mit OpenACC und CUDA FORTRAN | 使用 OpenACC 和 CUDA FORTRAN 加速 GPU 绿色非平衡的功能计算 | [2505.19467v1](http://arxiv.org/abs/2505.19467v1)
 - [86](#article-86) | 05-26 | FedHERO: A Federated Learning Approach for Node Classification Task on   Heterophilic Graphs | FedHERO: Ein Federated Learning Approach für Knotenklassifikation Aufgaben auf heterophilen Graphen | FEFHERO: 异生物图节点分类任务联邦学习方法 | [2504.21206v2](http://arxiv.org/abs/2504.21206v2)
-- [87](#article-87) | 05-25 | QMIO: A tightly integrated hybrid HPCQC system | QMIO: Ein eng integriertes Hybrid-HPCQC-System | QMIO:一个严格一体化的混合高和分PCQC系统 | [2505.19267v1](http://arxiv.org/abs/2505.19267v1)
+- [87](#article-87) | **05-25 (7)** | QMIO: A tightly integrated hybrid HPCQC system | QMIO: Ein eng integriertes Hybrid-HPCQC-System | QMIO:一个严格一体化的混合高和分PCQC系统 | [2505.19267v1](http://arxiv.org/abs/2505.19267v1)
 - [88](#article-88) | 05-25 | NanoFlow: Towards Optimal Large Language Model Serving Throughput | NanoFlow: Auf dem Weg zu einem optimalen Large Language Model | NanoFlow:走向最佳大语言模式 | [2408.12757v2](http://arxiv.org/abs/2408.12757v2)
 - [89](#article-89) | 05-25 | Matrix Multiplication in the MPC Model | Matrix-Multiplikation im MPC-Modell | MPC 模型中的矩阵乘法 | [2505.19137v1](http://arxiv.org/abs/2505.19137v1)
 - [90](#article-90) | 05-25 | Birch SGD: A Tree Graph Framework for Local and Asynchronous SGD Methods | Birke SGD: Ein Baumdiagramm-Framework für lokale und asynchrone SGD-Methoden | Birch SGD: 当地和非同步 SGD 方法树图框架 | [2505.09218v2](http://arxiv.org/abs/2505.09218v2)
+- [91](#article-91) | **05-24 (6)** | Toward Malicious Clients Detection in Federated Learning | Auf dem Weg zu bösartigen Kunden Erkennung im Föderierten Lernen | 争取在联邦学习中发现恶意客户 | [2505.09110v2](http://arxiv.org/abs/2505.09110v2)
+- [92](#article-92) | 05-24 | Distributed Incremental SAT Solving with Mallob: Report and Case Study   with Hierarchical Planning | Distributed Incremental SAT Solving with Mallob: Report and Case Study with Hierarchical Planning | 与马洛布公司共同解决:与等级规划有关的报告和案例研究 | [2505.18836v1](http://arxiv.org/abs/2505.18836v1)
+- [93](#article-93) | 05-24 | DiSCo: Device-Server Collaborative LLM-Based Text Streaming Services | DiSCo: Geräte-Server Kollaborative LLM-basierte Text-Streaming-Dienste | DisCo: 设备-服务器协作协作LLM基于LLM的文本流服务 | [2502.11417v2](http://arxiv.org/abs/2502.11417v2)
+- [94](#article-94) | 05-24 | Distributed Set-membership Filtering Frameworks For Multi-agent Systems   With Absolute and Relative Measurements | Distributed Set-Membership Filtering Frameworks für Multi-Agent-Systeme mit absoluten und relativen Messungen | 具有绝对和相对计量的多试剂系统分布式成员筛选框架 | [2305.15797v2](http://arxiv.org/abs/2305.15797v2)
+- [95](#article-95) | 05-24 | EvoSort: A Genetic-Algorithm-Based Adaptive Parallel Sorting Framework   for Large-Scale High Performance Computing | EvoSort: Ein genetisch-algorithmisch-adaptives Parallelsortierungs-Framework für großformatige Hochleistungsrechnen | EvoSort: 大型高性能计算方法的基于遗传 -- -- 物理学的适应性平行排序框架 | [2505.18681v1](http://arxiv.org/abs/2505.18681v1)
+- [96](#article-96) | 05-24 | Towards Round-Optimal Approximate Agreement on Trees | Auf dem Weg zu einem runden, optimalen Abkommen über Bäume | 争取达成关于树木的圆顶和最接近于 | [2502.05591v2](http://arxiv.org/abs/2502.05591v2)
+- [97](#article-97) | 05-24 | Asynchronous Approximate Agreement with Quadratic Communication | Asynchrone annähernde Vereinbarung mit quadratischer Kommunikation | 与赤道通信的近似非同步协定 | [2408.05495v3](http://arxiv.org/abs/2408.05495v3)
+- [98](#article-98) | 05-24 | TEE is not a Healer: Rollback-Resistant Reliable Storage | TEE ist kein Heiler: Rollback-Resistent Zuverlässige Lagerung | TEE不是救治者:回击-恢复-可靠储存 | [2505.18648v1](http://arxiv.org/abs/2505.18648v1)
+- [99](#article-99) | 05-24 | CacheFL: Privacy-Preserving and Efficient Federated Cache Model   Fine-Tuning for Vision-Language Models | CacheFL: Datenschutzschonendes und effizientes Federated Cache Model Fine-Tuning für Vision-Language-Modelle | CACHFL: 视力和语言模型微调模型 | [2505.05130v2](http://arxiv.org/abs/2505.05130v2)
+- [100](#article-100) | 05-24 | PacTrain: Pruning and Adaptive Sparse Gradient Compression for Efficient   Collective Communication in Distributed Deep Learning | PacTrain: Pruning and Adaptive Sparse Gradient Compression für effiziente kollektive Kommunikation im verteilten Deep Learning | PacTrain:在分布式深层学习中促进高效集体交流的审慎和适应性零散梯级压缩 | [2505.18563v1](http://arxiv.org/abs/2505.18563v1)
+- [101](#article-101) | 05-24 | Consensus Under Adversary Majority Done Right | Konsens unter gegnerischer Mehrheit Rechtsbeistand | 在相反多数下达成的共识 | [2411.01689v3](http://arxiv.org/abs/2411.01689v3)
+- [102](#article-102) | 05-24 | Recursive Offloading for LLM Serving in Multi-tier Networks | Rekursives Offloading für LLM-Serving in Multi-Tier-Netzwerken | 多层网络LLM服务的递归性卸载 | [2505.16502v2](http://arxiv.org/abs/2505.16502v2)
 
 ## Article 0
-### Title@2025-05-29: From Connectivity to Autonomy: The Dawn of Self-Evolving Communication   Systems
+### Title@2025-05-29 (4): From Connectivity to Autonomy: The Dawn of Self-Evolving Communication   Systems
 **Title**: From Connectivity to Autonomy: The Dawn of Self-Evolving Communication   Systems | Von der Konnektivität zur Autonomie: Die Morgenröte der sich selbst entwickelnden Kommunikationssysteme | 从连接到自主:自我发展的通信系统的黎明 [2505.23710v1](http://arxiv.org/abs/2505.23710v1)
 
 **Authors**: Zeinab Nezami, Syed Danial Ali Shah, Maryam Hafeez, Karim Djemame, Syed Ali Raza Zaidi
@@ -107,7 +119,7 @@ This paper envisions 6G as a self-evolving telecom ecosystem, where AI-driven in
 ---
 
 ## Article 1
-### Title@2025-05-29: Distributed Federated Learning for Vehicular Network Security: Anomaly   Detection Benefits and Multi-Domain Attack Threats
+### Title@2025-05-29 (4): Distributed Federated Learning for Vehicular Network Security: Anomaly   Detection Benefits and Multi-Domain Attack Threats
 **Title**: Distributed Federated Learning for Vehicular Network Security: Anomaly   Detection Benefits and Multi-Domain Attack Threats | Verteiltes Federated Learning für die Sicherheit des Vehicular Network: Anomalieerkennungsvorteile und Multi-Domain-Angriffsbedrohungen | 分布式联邦学习促进车辆网络安全:反常探测效益和多领域攻击威胁 [2505.23706v1](http://arxiv.org/abs/2505.23706v1)
 
 **Authors**: Utku Demir, Yalin E. Sagduyu, Tugba Erpek, Hossein Jafari, Sastry Kompella, Mengran Xue
@@ -117,7 +129,7 @@ In connected and autonomous vehicles, machine learning for safety message classi
 ---
 
 ## Article 2
-### Title@2025-05-29: Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky   Preconditioners
+### Title@2025-05-29 (4): Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky   Preconditioners
 **Title**: Parallel GPU-Accelerated Randomized Construction of Approximate Cholesky   Preconditioners | Parallele GPU-beschleunigte Randomisierte Konstruktion von ungefähren Cholesky-Vorkonditionen | 平行的GPU-加速加速旋转式建造近焦天空预设装置 [2505.02977v2](http://arxiv.org/abs/2505.02977v2)
 
 **Authors**: Tianyu Liang, Chao Chen, Yotam Yaniv, Hengrui Luo, David Tench, Xiaoye S. Li, Aydin Buluc, James Demmel
@@ -127,7 +139,7 @@ We introduce a parallel algorithm to construct a preconditioner for solving a la
 ---
 
 ## Article 3
-### Title@2025-05-29: Complementary Time-Space Tradeoff for Self-Stabilizing Leader Election:   Polynomial States Meet Sublinear Time
+### Title@2025-05-29 (4): Complementary Time-Space Tradeoff for Self-Stabilizing Leader Election:   Polynomial States Meet Sublinear Time
 **Title**: Complementary Time-Space Tradeoff for Self-Stabilizing Leader Election:   Polynomial States Meet Sublinear Time | Komplementärer Zeit-Raum-Tradeoff für selbststabilisierende Leader-Wahl: Polynome Staaten treffen auf sublineare Zeit | 自我稳定领导人选举的补充时间-空间权衡:多民族国家满足亚线性时间 [2505.23649v1](http://arxiv.org/abs/2505.23649v1)
 
 **Authors**: Yuichi Sudo
@@ -137,7 +149,7 @@ We study the self-stabilizing leader election (SS-LE) problem in the population 
 ---
 
 ## Article 4
-### Title@2025-05-29: Accelerated Training of Federated Learning via Second-Order Methods
+### Title@2025-05-29 (4): Accelerated Training of Federated Learning via Second-Order Methods
 **Title**: Accelerated Training of Federated Learning via Second-Order Methods | Beschleunigte Ausbildung des Föderierten Lernens über Methoden der zweiten Ordnung | 通过二级方法加快联邦学习培训 [2505.23588v1](http://arxiv.org/abs/2505.23588v1)
 
 **Authors**: Mrinmay Sen, Sidhant R Nair, C Krishna Mohan
@@ -147,7 +159,7 @@ This paper explores second-order optimization methods in Federated Learning (FL)
 ---
 
 ## Article 5
-### Title@2025-05-29: Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in   Geo-Distributed Cloud Datacenters
+### Title@2025-05-29 (4): Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in   Geo-Distributed Cloud Datacenters
 **Title**: Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in   Geo-Distributed Cloud Datacenters | Nachhaltiges CO2-basiertes und wassereffizientes LLM-Scheeduling in Geo-verteilten Cloud-Rechenzentren | 地球分布云数据中心的可持续碳软件和水效率高的LLM [2505.23554v1](http://arxiv.org/abs/2505.23554v1)
 
 **Authors**: Hayden Moore, Sirui Qi, Ninad Hogade, Dejan Milojicic, Cullen Bash, Sudeep Pasricha
@@ -157,7 +169,7 @@ In recent years, Large Language Models (LLM) such as ChatGPT, CoPilot, and Gemin
 ---
 
 ## Article 6
-### Title@2025-05-29: Accelerating AllReduce with a Persistent Straggler
+### Title@2025-05-29 (4): Accelerating AllReduce with a Persistent Straggler
 **Title**: Accelerating AllReduce with a Persistent Straggler | AllReduce mit einem persistenten Straggler beschleunigen | 使用持久性斯特拉格驱动器加速全部拖动 [2505.23523v1](http://arxiv.org/abs/2505.23523v1)
 
 **Authors**: Arjun Devraj, Eric Ding, Abhishek Vijaya Kumar, Robert Kleinberg, Rachee Singh
@@ -167,7 +179,7 @@ Distributed machine learning workloads use data and tensor parallelism for train
 ---
 
 ## Article 7
-### Title@2025-05-29: SealOS+: A Sealos-based Approach for Adaptive Resource Optimization   Under Dynamic Workloads for Securities Trading System
+### Title@2025-05-29 (4): SealOS+: A Sealos-based Approach for Adaptive Resource Optimization   Under Dynamic Workloads for Securities Trading System
 **Title**: SealOS+: A Sealos-based Approach for Adaptive Resource Optimization   Under Dynamic Workloads for Securities Trading System | SealOS+: Ein Sealos-basierter Ansatz für adaptive Ressourcenoptimierung unter dynamischen Workloads für Securities Trading System | SealOS+:证券交易系统动态工作量下的适应性资源优化的以海路为基础的办法 [2505.23258v1](http://arxiv.org/abs/2505.23258v1)
 
 **Authors**: Haojie Jia, Zhenhao Li, Gen Li, Minxian Xu, Kejiang Ye
@@ -177,7 +189,7 @@ As securities trading systems transition to a microservices architecture, optimi
 ---
 
 ## Article 8
-### Title@2025-05-29: Smaller, Smarter, Closer: The Edge of Collaborative Generative AI
+### Title@2025-05-29 (4): Smaller, Smarter, Closer: The Edge of Collaborative Generative AI
 **Title**: Smaller, Smarter, Closer: The Edge of Collaborative Generative AI | Kleiner, intelligenter, enger: Der Rand der kollaborativen Generativen KI | 较小、更聪明、更近:合作创造的边缘 AI [2505.16499v2](http://arxiv.org/abs/2505.16499v2)
 
 **Authors**: Roberto Morabito, SiYoung Jang
@@ -187,7 +199,7 @@ The rapid adoption of generative AI (GenAI), particularly Large Language Models 
 ---
 
 ## Article 9
-### Title@2025-05-29: MemAscend: System Memory Optimization for SSD-Offloaded LLM Fine-Tuning
+### Title@2025-05-29 (4): MemAscend: System Memory Optimization for SSD-Offloaded LLM Fine-Tuning
 **Title**: MemAscend: System Memory Optimization for SSD-Offloaded LLM Fine-Tuning | MemAscend: Systemspeicheroptimierung für SSD-Offloaded LLM Fine-Tuning | MemAscend: SSD- 卸载 LLM 精密调试的系统内存优化 [2505.23254v1](http://arxiv.org/abs/2505.23254v1)
 
 **Authors**: Yong-Cheng Liaw, Shuo-Han Chen
@@ -197,7 +209,7 @@ Owing to the huge success of generative artificial intelligence (AI), large lang
 ---
 
 ## Article 10
-### Title@2025-05-29: Edge-First Language Model Inference: Models, Metrics, and Tradeoffs
+### Title@2025-05-29 (4): Edge-First Language Model Inference: Models, Metrics, and Tradeoffs
 **Title**: Edge-First Language Model Inference: Models, Metrics, and Tradeoffs | Edge-First Language Model Inferenz: Modelle, Metrics und Tradeoffs | 边缘第一语言模式示范推论:模型、计量和权衡取舍 [2505.16508v2](http://arxiv.org/abs/2505.16508v2)
 
 **Authors**: SiYoung Jang, Roberto Morabito
@@ -207,7 +219,7 @@ The widespread adoption of Language Models (LMs) across industries is driving in
 ---
 
 ## Article 11
-### Title@2025-05-29: Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and   Hetero-Core Parallelism
+### Title@2025-05-29 (4): Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and   Hetero-Core Parallelism
 **Title**: Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and   Hetero-Core Parallelism | Ghidorah: Schnelle LLM-Inferenz am Rand mit spekulativer Dekodierung und Hetero-Core-Parallelität | Ghidorah:快速LLM [2505.23219v1](http://arxiv.org/abs/2505.23219v1)
 
 **Authors**: Jinhui Wei, Ye Huang, Yuhui Zhou, Jiazhi Jiang, Jiangsu Du
@@ -217,7 +229,7 @@ In-situ LLM inference on end-user devices has gained significant interest due to
 ---
 
 ## Article 12
-### Title@2025-05-29: Improving Parallel Program Performance with LLM Optimizers via   Agent-System Interfaces
+### Title@2025-05-29 (4): Improving Parallel Program Performance with LLM Optimizers via   Agent-System Interfaces
 **Title**: Improving Parallel Program Performance with LLM Optimizers via   Agent-System Interfaces | Verbesserung der parallelen Programmleistung mit LLM-Optimierern über Agent-System-Schnittstellen | 通过代理-系统接口改进与LLM优化器的平行方案绩效 [2410.15625v3](http://arxiv.org/abs/2410.15625v3)
 
 **Authors**: Anjiang Wei, Allen Nie, Thiago S. F. X. Teixeira, Rohan Yadav, Wonchan Lee, Ke Wang, Alex Aiken
@@ -227,7 +239,7 @@ Modern scientific discovery increasingly relies on high-performance computing fo
 ---
 
 ## Article 13
-### Title@2025-05-29: The Panaceas for Improving Low-Rank Decomposition in   Communication-Efficient Federated Learning
+### Title@2025-05-29 (4): The Panaceas for Improving Low-Rank Decomposition in   Communication-Efficient Federated Learning
 **Title**: The Panaceas for Improving Low-Rank Decomposition in   Communication-Efficient Federated Learning | Die Panaceas zur Verbesserung der Zersetzung mit geringem Rank im kommunikativ-effizienten Federated Learning | 改善通信-高效联邦学习中低-兰克分解的全景 [2505.23176v1](http://arxiv.org/abs/2505.23176v1)
 
 **Authors**: Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang, Shijie Xu, Weihong Luo, Yuhua Li, Xiuqiang He, Ruixuan Li
@@ -237,7 +249,7 @@ To improve the training efficiency of federated learning (FL), previous research
 ---
 
 ## Article 14
-### Title@2025-05-29: DOPPLER: Dual-Policy Learning for Device Assignment in Asynchronous   Dataflow Graphs
+### Title@2025-05-29 (4): DOPPLER: Dual-Policy Learning for Device Assignment in Asynchronous   Dataflow Graphs
 **Title**: DOPPLER: Dual-Policy Learning for Device Assignment in Asynchronous   Dataflow Graphs | DOPPLER: Dual-Policy-Lernen für die Gerätezuordnung in asynchronen Datenflussgraphen | DOPPLER: 同步数据流图表中设备分配的双政策学习 [2505.23131v1](http://arxiv.org/abs/2505.23131v1)
 
 **Authors**: Xinyu Yao, Daniel Bourgeois, Abhinav Jain, Yuxin Tang, Jiawen Yao, Zhimin Ding, Arlei Silva, Chris Jermaine
@@ -247,7 +259,7 @@ We study the problem of assigning operations in a dataflow graph to devices to m
 ---
 
 ## Article 15
-### Title@2025-05-29: Toward Cost-Efficient Serving of Mixture-of-Experts with Asynchrony
+### Title@2025-05-29 (4): Toward Cost-Efficient Serving of Mixture-of-Experts with Asynchrony
 **Title**: Toward Cost-Efficient Serving of Mixture-of-Experts with Asynchrony | Auf dem Weg zu einem kosteneffizienten Servieren von Mixture-of-Experts mit Asynchrony | 争取以成本低效益高的方式服务专家与非同步混合服务 [2505.08944v2](http://arxiv.org/abs/2505.08944v2)
 
 **Authors**: Shaoyu Wang, Guangrong He, Geon-Woo Kim, Yanqi Zhou, Seo Jin Park
@@ -257,7 +269,7 @@ Mixture-of-Experts (MoE) architectures offer the promise of larger model capacit
 ---
 
 ## Article 16
-### Title@2025-05-29: Shortcut-connected Expert Parallelism for Accelerating   Mixture-of-Experts
+### Title@2025-05-29 (4): Shortcut-connected Expert Parallelism for Accelerating   Mixture-of-Experts
 **Title**: Shortcut-connected Expert Parallelism for Accelerating   Mixture-of-Experts | Shortcut-verbundene Experten-Parallelität für die Beschleunigung von Mixture-of-Experts | 加速混合专家专家专家平行专家 [2404.05019v3](http://arxiv.org/abs/2404.05019v3)
 
 **Authors**: Weilin Cai, Juyong Jiang, Le Qin, Junwei Cui, Sunghun Kim, Jiayi Huang
@@ -267,7 +279,7 @@ Expert parallelism has emerged as a key strategy for distributing the computatio
 ---
 
 ## Article 17
-### Title@2025-05-29: Speeding up Model Loading with fastsafetensors
+### Title@2025-05-29 (4): Speeding up Model Loading with fastsafetensors
 **Title**: Speeding up Model Loading with fastsafetensors | Beschleunigen des Modells Beladung mit Schnellsicherern | 加速装有快速保障装置的模型加载速度 [2505.23072v1](http://arxiv.org/abs/2505.23072v1)
 
 **Authors**: Takeshi Yoshimura, Tatsuhiro Chiba, Manish Sethi, Daniel Waddington, Swaminathan Sundararaman
@@ -277,7 +289,7 @@ The rapid increases in model parameter sizes introduces new challenges in pre-tr
 ---
 
 ## Article 18
-### Title@2025-05-28: Profiling and optimization of multi-card GPU machine learning jobs
+### Title@2025-05-28 (3): Profiling and optimization of multi-card GPU machine learning jobs
 **Title**: Profiling and optimization of multi-card GPU machine learning jobs | Profilierung und Optimierung von Multi-Card-GPU-Maschinenlernjobs | 多卡 GPPU 机器学习工作的分析和优化 [2505.22905v1](http://arxiv.org/abs/2505.22905v1)
 
 **Authors**: Marcin Lawenda, Kyrylo Khloponin, Krzesimir Samborski, Łukasz Szustak
@@ -287,7 +299,7 @@ The effectiveness and efficiency of machine learning methodologies are crucial, 
 ---
 
 ## Article 19
-### Title@2025-05-28: Visualizing Cloud-native Applications with KubeDiagrams
+### Title@2025-05-28 (3): Visualizing Cloud-native Applications with KubeDiagrams
 **Title**: Visualizing Cloud-native Applications with KubeDiagrams | Cloud-native Anwendungen mit KubeDiagrammen visualisieren | 带有KubeDiagrams 的可视化云源应用 [2505.22879v1](http://arxiv.org/abs/2505.22879v1)
 
 **Authors**: Philippe Merle, Fabio Petrillo
@@ -297,7 +309,7 @@ Modern distributed applications increasingly rely on cloud-native platforms to a
 ---
 
 ## Article 20
-### Title@2025-05-28: The National Research Platform: Stretched, Multi-Tenant, Scientific   Kubernetes Cluster
+### Title@2025-05-28 (3): The National Research Platform: Stretched, Multi-Tenant, Scientific   Kubernetes Cluster
 **Title**: The National Research Platform: Stretched, Multi-Tenant, Scientific   Kubernetes Cluster | Die Nationale Forschungsplattform: Streckiger, Multi-Tenant-Cluster, wissenschaftlicher Kubernetes-Cluster | 国家研究平台:延伸、多层、多层、科学库伯涅茨集群 [2505.22864v1](http://arxiv.org/abs/2505.22864v1)
 
 **Authors**: Derek Weitzel, Ashton Graves, Sam Albin, Huijun Zhu, Frank Würthwein, Mahidhar Tatineni, Dmitry Mishin, John Graham, Elham E Khoda, Mohammad Firas Sada, Larry Smarr, Thomas DeFanti
@@ -307,7 +319,7 @@ The National Research Platform (NRP) represents a distributed, multi-tenant Kube
 ---
 
 ## Article 21
-### Title@2025-05-28: $Δ$-Nets: Interaction-Based System for Optimal Parallel   $λ$-Reduction
+### Title@2025-05-28 (3): $Δ$-Nets: Interaction-Based System for Optimal Parallel   $λ$-Reduction
 **Title**: $Δ$-Nets: Interaction-Based System for Optimal Parallel   $λ$-Reduction | $Δ$-Nets: Interaktionsbasiertes System für eine optimale parallele $λ$-Reduktion | $$-净额:最佳平行互动系统$$$美元-削减 [2505.20314v2](http://arxiv.org/abs/2505.20314v2)
 
 **Authors**: Daniel Augusto Rizzi Salvadori
@@ -317,7 +329,7 @@ I present a model of universal parallel computation called $\Delta$-Nets, and a 
 ---
 
 ## Article 22
-### Title@2025-05-28: Smart Contracts for SMEs and Large Companies
+### Title@2025-05-28 (3): Smart Contracts for SMEs and Large Companies
 **Title**: Smart Contracts for SMEs and Large Companies | Intelligente Verträge für KMU und Großunternehmen | 中小企业和大公司的智能合同 [2505.22619v1](http://arxiv.org/abs/2505.22619v1)
 
 **Authors**: C. G. Liu, P. Bodorik, D. Jutla
@@ -327,7 +339,7 @@ Research on blockchains addresses multiple issues, with one being writing smart 
 ---
 
 ## Article 23
-### Title@2025-05-28: Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task   Management
+### Title@2025-05-28 (3): Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task   Management
 **Title**: Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task   Management | Pilot-Quantum: Eine Quantum-HPC Middleware für Ressourcen-, Workload- und Task-Management | 试点量子:资源、工作量和任务管理的量子-氢氯氟烃中软件 [2412.18519v3](http://arxiv.org/abs/2412.18519v3)
 
 **Authors**: Pradeep Mantha, Florian J. Kiwit, Nishant Saurabh, Shantenu Jha, Andre Luckow
@@ -337,7 +349,7 @@ As quantum hardware advances, integrating quantum processing units (QPUs) into H
 ---
 
 ## Article 24
-### Title@2025-05-28: Morpheus Consensus: Excelling on trails and autobahns
+### Title@2025-05-28 (3): Morpheus Consensus: Excelling on trails and autobahns
 **Title**: Morpheus Consensus: Excelling on trails and autobahns | Morpheus Consensus: Excelling auf Trails und Autobahnen | Morpheus共识:关于足迹和自动铢的Excelling [2502.08465v2](http://arxiv.org/abs/2502.08465v2)
 
 **Authors**: Andrew Lewis-Pye, Ehud Shapiro
@@ -347,7 +359,7 @@ Recent research in consensus has often focussed on protocols for State-Machine-R
 ---
 
 ## Article 25
-### Title@2025-05-28: Grassroots Federation: Fair Governance of Large-Scale, Decentralized,   Sovereign Digital Communities
+### Title@2025-05-28 (3): Grassroots Federation: Fair Governance of Large-Scale, Decentralized,   Sovereign Digital Communities
 **Title**: Grassroots Federation: Fair Governance of Large-Scale, Decentralized,   Sovereign Digital Communities | Grassroots Federation: Faire Governance der großen, dezentralisierten, Souveränen Digitalen Gemeinschaften | 基层联合会:大、分散、主权数字共同体的公平治理 [2505.02208v4](http://arxiv.org/abs/2505.02208v4)
 
 **Authors**: Ehud Shapiro, Nimrod Talmon
@@ -357,7 +369,7 @@ Grassroots Federation aims to address the egalitarian formation and the fair dem
 ---
 
 ## Article 26
-### Title@2025-05-28: Broadcast in Almost Mixing Time
+### Title@2025-05-28 (3): Broadcast in Almost Mixing Time
 **Title**: Broadcast in Almost Mixing Time | In fast mischender Zeit übertragen | 几乎混合时间的广播 [2502.02165v2](http://arxiv.org/abs/2502.02165v2)
 
 **Authors**: Anton Paramonov, Roger Wattenhofer
@@ -367,7 +379,7 @@ We study the problem of broadcasting multiple messages in the CONGEST model. In 
 ---
 
 ## Article 27
-### Title@2025-05-28: Inclusive, Differentially Private Federated Learning for Clinical Data
+### Title@2025-05-28 (3): Inclusive, Differentially Private Federated Learning for Clinical Data
 **Title**: Inclusive, Differentially Private Federated Learning for Clinical Data | Inklusives, differenziert privates Federated Learning für klinische Daten | 包容性、差异化私联校临床数据学习 [2505.22108v1](http://arxiv.org/abs/2505.22108v1)
 
 **Authors**: Santhosh Parampottupadam, Melih Coşğun, Sarthak Pati, Maximilian Zenk, Saikat Roy, Dimitrios Bounias, Benjamin Hamm, Sinem Sav, Ralf Floca, Klaus Maier-Hein
@@ -377,7 +389,7 @@ Federated Learning (FL) offers a promising approach for training clinical AI mod
 ---
 
 ## Article 28
-### Title@2025-05-28: A Stochastic Approximation Approach for Efficient Decentralized   Optimization on Random Networks
+### Title@2025-05-28 (3): A Stochastic Approximation Approach for Efficient Decentralized   Optimization on Random Networks
 **Title**: A Stochastic Approximation Approach for Efficient Decentralized   Optimization on Random Networks | Ein stochastischer Annäherungsansatz für eine effiziente dezentralisierte Optimierung von Random Networks | 随机网络高效分散优化优化的斯托卡接近方法 [2410.18774v2](http://arxiv.org/abs/2410.18774v2)
 
 **Authors**: Chung-Yiu Yau, Haoming Liu, Hoi-To Wai
@@ -387,7 +399,7 @@ A challenging problem in decentralized optimization is to develop algorithms wit
 ---
 
 ## Article 29
-### Title@2025-05-28: Towards Efficient Key-Value Cache Management for Prefix Prefilling in   LLM Inference
+### Title@2025-05-28 (3): Towards Efficient Key-Value Cache Management for Prefix Prefilling in   LLM Inference
 **Title**: Towards Efficient Key-Value Cache Management for Prefix Prefilling in   LLM Inference | Effizientes Key-Value-Cache-Management für die Präfixvorfüllung in LLM-Inferenz | 建立高效的键值缓存管理,用于在LLM 推理中预填前补全 [2505.21919v1](http://arxiv.org/abs/2505.21919v1)
 
 **Authors**: Yue Zhu, Hao Yu, Chen Wang, Zhuoran Liu, Eun Kyung Lee
@@ -397,7 +409,7 @@ The increasing adoption of large language models (LLMs) with extended context wi
 ---
 
 ## Article 30
-### Title@2025-05-28: Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS   Systems
+### Title@2025-05-28 (3): Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS   Systems
 **Title**: Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS   Systems | Joint$λ$: Orchestrierung serverloser Workflows auf Jointcloud FaaS-Systemen | 联合 $ $: 联合COLOUD FaaS系统无服务器工作流管 [2505.21899v1](http://arxiv.org/abs/2505.21899v1)
 
 **Authors**: Jianfei Liu, Rui Li, Zhilin Yang, Peichang Shi, Guodong Yi, Huaimin Wang
@@ -407,7 +419,7 @@ Existing serverless workflow orchestration systems are predominantly designed fo
 ---
 
 ## Article 31
-### Title@2025-05-28: Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation   in Federated Learning
+### Title@2025-05-28 (3): Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation   in Federated Learning
 **Title**: Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation   in Federated Learning | Hybride Batch-Normalisierung: Lösung des Dilemmas der Batch-Normalisierung im Federated Learning | 混合批次正常化:解决联邦学习中批次正常化的难题 [2505.21877v1](http://arxiv.org/abs/2505.21877v1)
 
 **Authors**: Hongyao Chen, Tianyang Xu, Xiaojun Wu, Josef Kittler
@@ -417,7 +429,7 @@ Batch Normalisation (BN) is widely used in conventional deep neural network trai
 ---
 
 ## Article 32
-### Title@2025-05-28: gLLM: Global Balanced Pipeline Parallelism System for Distributed LLM   Serving with Token Throttling
+### Title@2025-05-28 (3): gLLM: Global Balanced Pipeline Parallelism System for Distributed LLM   Serving with Token Throttling
 **Title**: gLLM: Global Balanced Pipeline Parallelism System for Distributed LLM   Serving with Token Throttling | gLLM: Global Balanced Pipeline Parallelism System für verteiltes LLM Serving mit Token Throttling | gLLM:全球平衡管道平行系统 [2504.14775v2](http://arxiv.org/abs/2504.14775v2)
 
 **Authors**: Tianyu Guo, Xianwei Zhang, Jiangsu Du, Zhiguang Chen, Nong Xiao, Yutong Lu
@@ -427,7 +439,7 @@ Pipeline parallelism has emerged as a predominant approach for deploying large l
 ---
 
 ## Article 33
-### Title@2025-05-27: Empowering Scientific Workflows with Federated Agents
+### Title@2025-05-27 (2): Empowering Scientific Workflows with Federated Agents
 **Title**: Empowering Scientific Workflows with Federated Agents | Stärkung wissenschaftlicher Workflows mit Federated Agents | 赋予联邦药剂部门科学工作流程权能 [2505.05428v2](http://arxiv.org/abs/2505.05428v2)
 
 **Authors**: J. Gregory Pauloski, Yadu Babuji, Ryan Chard, Mansi Sakarvadia, Kyle Chard, Ian Foster
@@ -437,7 +449,7 @@ Agentic systems, in which diverse agents cooperate to tackle challenging problem
 ---
 
 ## Article 34
-### Title@2025-05-27: LV-XAttn: Distributed Cross-Attention for Long Visual Inputs in   Multimodal Large Language Models
+### Title@2025-05-27 (2): LV-XAttn: Distributed Cross-Attention for Long Visual Inputs in   Multimodal Large Language Models
 **Title**: LV-XAttn: Distributed Cross-Attention for Long Visual Inputs in   Multimodal Large Language Models | LV-XAttn: Verteilte Cross-Attention für lange visuelle Eingänge in multimodalen großen Sprachmodellen | LV-XAttn:多式大语言模型中长视输入分布式交叉注意 [2502.02406v3](http://arxiv.org/abs/2502.02406v3)
 
 **Authors**: Tzu-Tao Chang, Shivaram Venkataraman
@@ -447,7 +459,7 @@ Cross-attention is commonly adopted in multimodal large language models (MLLMs) 
 ---
 
 ## Article 35
-### Title@2025-05-27: Power-Capping Metric Evaluation for Improving Energy Efficiency
+### Title@2025-05-27 (2): Power-Capping Metric Evaluation for Improving Energy Efficiency
 **Title**: Power-Capping Metric Evaluation for Improving Energy Efficiency | Leistungskapitulation Metric-Evaluierung zur Verbesserung der Energieeffizienz | 提高能源效率提高能源使用效率的节能计量评价 [2505.21758v1](http://arxiv.org/abs/2505.21758v1)
 
 **Authors**: Maria Patrou, Thomas Wang, Wael Elwasif, Markus Eisenbach, Ross Miller, William Godoy, Oscar Hernandez
@@ -457,7 +469,7 @@ With high-performance computing systems now running at exascale, optimizing powe
 ---
 
 ## Article 36
-### Title@2025-05-27: FedCostAware: Enabling Cost-Aware Federated Learning on the Cloud
+### Title@2025-05-27 (2): FedCostAware: Enabling Cost-Aware Federated Learning on the Cloud
 **Title**: FedCostAware: Enabling Cost-Aware Federated Learning on the Cloud | FedCostAware: Kostenbewusstes Lernen in der Cloud ermöglichen | FestAware:在云上进行成本-软件联合学习 [2505.21727v1](http://arxiv.org/abs/2505.21727v1)
 
 **Authors**: Aditya Sinha, Zilinghan Li, Tingkai Liu, Volodymyr Kindratenko, Kibaek Kim, Ravi Madduri
@@ -467,7 +479,7 @@ Federated learning (FL) is a distributed machine learning (ML) approach that all
 ---
 
 ## Article 37
-### Title@2025-05-27: AMSFL: Adaptive Multi-Step Federated Learning via Gradient   Difference-Based Error Modeling
+### Title@2025-05-27 (2): AMSFL: Adaptive Multi-Step Federated Learning via Gradient   Difference-Based Error Modeling
 **Title**: AMSFL: Adaptive Multi-Step Federated Learning via Gradient   Difference-Based Error Modeling | AMSFL: Adaptives Multi-Step-Federated Learning über gradient Difference-based Error Modeling | ASFL:通过基于差异的渐进错误建模进行适应性多阶段联邦学习 [2505.21695v1](http://arxiv.org/abs/2505.21695v1)
 
 **Authors**: Ganglou Xu
@@ -477,7 +489,7 @@ Federated learning faces critical challenges in balancing communication efficien
 ---
 
 ## Article 38
-### Title@2025-05-27: Incentivizing Permissionless Distributed Learning of LLMs
+### Title@2025-05-27 (2): Incentivizing Permissionless Distributed Learning of LLMs
 **Title**: Incentivizing Permissionless Distributed Learning of LLMs | Anreize für das unbefugte Lernen von LLMs | 激励对LLMM的无自由分配的学习 [2505.21684v1](http://arxiv.org/abs/2505.21684v1)
 
 **Authors**: Joel Lidin, Amir Sarfi, Evangelos Pappas, Samuel Dare, Eugene Belilovsky, Jacob Steeves
@@ -487,7 +499,7 @@ We describe an incentive system for distributed deep learning of foundational mo
 ---
 
 ## Article 39
-### Title@2025-05-27: KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel   Performance Tooling on Modern AI Workloads
+### Title@2025-05-27 (2): KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel   Performance Tooling on Modern AI Workloads
 **Title**: KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel   Performance Tooling on Modern AI Workloads | KPerfIR: Auf dem Weg zu einem offenen und kompilerzentrierten Ökosystem für GPU-Kernel Performance Tooling auf modernen KI-Workloads | KPerfIR:努力建立一个开放的、以编纂者为中心的生态系统,用于在现代AI 工作负荷上使用 GPU 内核性能工具 [2505.21661v1](http://arxiv.org/abs/2505.21661v1)
 
 **Authors**: Yue Guan, Yuanwei Fang, Keren Zhou, Corbin Robeck, Manman Ren, Zhongkai Yu, Yufei Ding, Adnan Aziz
@@ -497,7 +509,7 @@ In this work, we propose KPerfIR, a novel multilevel compiler-centric infrastruc
 ---
 
 ## Article 40
-### Title@2025-05-27: Fast and Cost-effective Speculative Edge-Cloud Decoding with Early Exits
+### Title@2025-05-27 (2): Fast and Cost-effective Speculative Edge-Cloud Decoding with Early Exits
 **Title**: Fast and Cost-effective Speculative Edge-Cloud Decoding with Early Exits | Schnelle und kostengünstige spekulative Edge-Cloud-Dekodierung mit Early Exits | 快速和成本效益高的投机性边缘-封闭式排污与早期出口 [2505.21594v1](http://arxiv.org/abs/2505.21594v1)
 
 **Authors**: Yeshwanth Venkatesha, Souvik Kundu, Priyadarshini Panda
@@ -507,7 +519,7 @@ Large Language Models (LLMs) enable various applications on edge devices such as
 ---
 
 ## Article 41
-### Title@2025-05-27: Distributed Discrete Morse Sandwich: Efficient Computation of   Persistence Diagrams for Massive Scalar Data
+### Title@2025-05-27 (2): Distributed Discrete Morse Sandwich: Efficient Computation of   Persistence Diagrams for Massive Scalar Data
 **Title**: Distributed Discrete Morse Sandwich: Efficient Computation of   Persistence Diagrams for Massive Scalar Data | Distributed Diskrete Morse Sandwich: Effiziente Berechnung von Persistenzdiagrammen für massive Scalardaten | 分布式分散的莫尔斯桑威奇:有效计算大规模卡路里数据持久性图图 [2505.21266v1](http://arxiv.org/abs/2505.21266v1)
 
 **Authors**: Eve Le Guillou, Pierre Fortin, Julien Tierny
@@ -517,7 +529,7 @@ The persistence diagram, which describes the topological features of a dataset, 
 ---
 
 ## Article 42
-### Title@2025-05-27: DeepCEE: Efficient Cross-Region Model Distributed Training System under   Heterogeneous GPUs and Networks
+### Title@2025-05-27 (2): DeepCEE: Efficient Cross-Region Model Distributed Training System under   Heterogeneous GPUs and Networks
 **Title**: DeepCEE: Efficient Cross-Region Model Distributed Training System under   Heterogeneous GPUs and Networks | DeepCEE: Effizientes regionsübergreifendes Schulungssystem unter heterogenen GPUs und Netzwerken | DeepCEE:在异种性全球保护单位和网络下建立高效跨区域分布示范培训系统 [2505.15536v2](http://arxiv.org/abs/2505.15536v2)
 
 **Authors**: Jinquan Wang, Xiaojian Liao, Xuzhao Liu, Jiashun Suo, Zhisheng Huo, Chenhao Zhang, Xiangrong Xu, Runnan Shen, Xilong Xie, Limin Xiao
@@ -527,7 +539,7 @@ Most existing training systems focus on a single region. In contrast, we envisio
 ---
 
 ## Article 43
-### Title@2025-05-27: Grassroots Consensus
+### Title@2025-05-27 (2): Grassroots Consensus
 **Title**: Grassroots Consensus | Graswurzeln-Konsens | 基层共识 [2505.19216v2](http://arxiv.org/abs/2505.19216v2)
 
 **Authors**: Idit Keidar, Andrew Lewis-Pye, Ehud Shapiro
@@ -537,7 +549,7 @@ Grassroots platforms aim to offer an egalitarian alternative to global platforms
 ---
 
 ## Article 44
-### Title@2025-05-27: Multi-Event Triggers for Serverless Computing
+### Title@2025-05-27 (2): Multi-Event Triggers for Serverless Computing
 **Title**: Multi-Event Triggers for Serverless Computing | Multi-Event-Trigger für serverloses Rechnen | 无服务器电子计算多天触发器 [2505.21199v1](http://arxiv.org/abs/2505.21199v1)
 
 **Authors**: Valentin Carl, Trever Schirmer, Joshua Adamek, Tobias Pfandzelter, Sergio Lucia, David Bermbach
@@ -547,7 +559,7 @@ Function-as-a-Service (FaaS) is an event-driven serverless cloud computing model
 ---
 
 ## Article 45
-### Title@2025-05-27: Vectorized Sequence-Based Chunking for Data Deduplication
+### Title@2025-05-27 (2): Vectorized Sequence-Based Chunking for Data Deduplication
 **Title**: Vectorized Sequence-Based Chunking for Data Deduplication | Vektorisierte Sequenz-basiertes Chunking für Datendeduplikation | 数据解析矢量序列相键 [2505.21194v1](http://arxiv.org/abs/2505.21194v1)
 
 **Authors**: Sreeharsha Udayashankar, Samer Al-Kiswany
@@ -557,7 +569,7 @@ Data deduplication has gained wide acclaim as a mechanism to improve storage eff
 ---
 
 ## Article 46
-### Title@2025-05-27: Constructive community race: full-density spiking neural network model   drives neuromorphic computing
+### Title@2025-05-27 (2): Constructive community race: full-density spiking neural network model   drives neuromorphic computing
 **Title**: Constructive community race: full-density spiking neural network model   drives neuromorphic computing | Konstruktives Community-Rennen: Volldichte-Spitzen neuronales Netzwerkmodell treibt neuromorphes Computing an | 充满建设性的社区种族:完全密度刺激神经网络模型驱动神经形态计算 [2505.21185v1](http://arxiv.org/abs/2505.21185v1)
 
 **Authors**: Johanna Senk, Anno Kurth, Steve Furber, Tobias Gemmeke, Bruno Golosio, Arne Heittmann, James C. Knight, Eric Müller, Tobias Noll, Thomas Nowotny, Gorka Peraza Coppola, Luca Peres, Oliver Rhodes, Andrew Rowley, Johannes Schemmel, Tim Stadtmann, Tom Tetzlaff, Gianmarco Tiddia, Sacha J. van Albada, José Villamar, Markus Diesmann
@@ -567,7 +579,7 @@ The local circuitry of the mammalian brain is a focus of the search for generic 
 ---
 
 ## Article 47
-### Title@2025-05-27: SHE-LoRA: Selective Homomorphic Encryption for Federated Tuning with   Heterogeneous LoRA
+### Title@2025-05-27 (2): SHE-LoRA: Selective Homomorphic Encryption for Federated Tuning with   Heterogeneous LoRA
 **Title**: SHE-LoRA: Selective Homomorphic Encryption for Federated Tuning with   Heterogeneous LoRA | SHE-LoRA: Selektive homomorphe Verschlüsselung für Federated Tuning mit Heterogene LoRA | SHE-LORA: 与异源罗拉结合的联邦调试的选择性单体单体加密 [2505.21051v1](http://arxiv.org/abs/2505.21051v1)
 
 **Authors**: Jianmin Liu, Li Yan, Borui Li, Lei Yu, Chao Shen
@@ -577,7 +589,7 @@ Federated fine-tuning of large language models (LLMs) is critical for improving 
 ---
 
 ## Article 48
-### Title@2025-05-27: A Hitchhiker's Guide to Privacy-Preserving Cryptocurrencies: A Survey on   Anonymity, Confidentiality, and Auditability
+### Title@2025-05-27 (2): A Hitchhiker's Guide to Privacy-Preserving Cryptocurrencies: A Survey on   Anonymity, Confidentiality, and Auditability
 **Title**: A Hitchhiker's Guide to Privacy-Preserving Cryptocurrencies: A Survey on   Anonymity, Confidentiality, and Auditability | Ein Hitchhiker-Leitfaden zur Wahrung der Privatsphäre von Kryptowährungen: Eine Umfrage über Anonymität, Vertraulichkeit und Auditierbarkeit | 《希希克人保护隐私加密指南:关于匿名、保密和可审计性的调查》 [2505.21008v1](http://arxiv.org/abs/2505.21008v1)
 
 **Authors**: Matteo Nardelli, Francesco De Sclavis, Michela Iezzi
@@ -587,7 +599,7 @@ Cryptocurrencies and central bank digital currencies (CBDCs) are reshaping the m
 ---
 
 ## Article 49
-### Title@2025-05-27: RACS-SADL: Robust and Understandable Randomized Consensus in the Cloud
+### Title@2025-05-27 (2): RACS-SADL: Robust and Understandable Randomized Consensus in the Cloud
 **Title**: RACS-SADL: Robust and Understandable Randomized Consensus in the Cloud | RACS-SADL: Robuster und verständlicher Randomisierter Konsens in der Cloud | RACS-SADL:云层中的有力和可理解的随机共识 [2404.04183v3](http://arxiv.org/abs/2404.04183v3)
 
 **Authors**: Pasindu Tennage, Antoine Desjardins, Lefteris Kokoris-Kogias
@@ -597,7 +609,7 @@ Widely deployed consensus protocols in the cloud are often leader-based and opti
 ---
 
 ## Article 50
-### Title@2025-05-27: EPIC: Efficient Position-Independent Caching for Serving Large Language   Models
+### Title@2025-05-27 (2): EPIC: Efficient Position-Independent Caching for Serving Large Language   Models
 **Title**: EPIC: Efficient Position-Independent Caching for Serving Large Language   Models | EPIC: Effizientes positionsunabhängiges Caching für das Servieren großer Sprachmodelle | EPIC: 高效的、独立定位的为大语言模式服务的工作 [2410.15332v3](http://arxiv.org/abs/2410.15332v3)
 
 **Authors**: Junhao Hu, Wenrui Huang, Weidong Wang, Haoyi Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie
@@ -607,7 +619,7 @@ Large Language Models (LLMs) show great capabilities in a wide range of applicat
 ---
 
 ## Article 51
-### Title@2025-05-27: Complexity landscape for local certification
+### Title@2025-05-27 (2): Complexity landscape for local certification
 **Title**: Complexity landscape for local certification | Komplexitätslandschaft für die lokale Zertifizierung | 当地认证的复杂环境 [2505.20915v1](http://arxiv.org/abs/2505.20915v1)
 
 **Authors**: Nicolas Bousquet, Laurent Feuilloley, Sébastien Zeitoun
@@ -617,7 +629,7 @@ An impressive recent line of work has charted the complexity landscape of distri
 ---
 
 ## Article 52
-### Title@2025-05-27: Reduced and mixed precision turbulent flow simulations using explicit   finite difference schemes
+### Title@2025-05-27 (2): Reduced and mixed precision turbulent flow simulations using explicit   finite difference schemes
 **Title**: Reduced and mixed precision turbulent flow simulations using explicit   finite difference schemes | Reduzierte und gemischte Präzision turbulente Strömungssimulationen mit expliziten Finite-Differenz-Systemen | 使用明确的有限差别办法进行减少和混合精密混杂的波动流动模拟 [2505.20911v1](http://arxiv.org/abs/2505.20911v1)
 
 **Authors**: Bálint Siklósi, Pushpender K. Sharma, David J. Lusher, István Z. Reguly, Neil D. Sandham
@@ -627,7 +639,7 @@ The use of reduced and mixed precision computing has gained increasing attention
 ---
 
 ## Article 53
-### Title@2025-05-27: Load Balancing in Strongly Inhomogeneous Simulations -- a Vlasiator Case   Study
+### Title@2025-05-27 (2): Load Balancing in Strongly Inhomogeneous Simulations -- a Vlasiator Case   Study
 **Title**: Load Balancing in Strongly Inhomogeneous Simulations -- a Vlasiator Case   Study | Lastausgleich in stark inhomogenen Simulationen -- eine Vlasiator-Fallstudie | 在极不相异模拟器中平衡载荷 -- -- 挥发器案例研究 [2505.20908v1](http://arxiv.org/abs/2505.20908v1)
 
 **Authors**: Leo Kotipalo, Markus Battarbee, Yann Pfau-Kempf, Vertti Tarvus, Minna Palmroth
@@ -637,7 +649,7 @@ Parallelization is a necessity for large-scale simulations due to the amount of 
 ---
 
 ## Article 54
-### Title@2025-05-27: An Efficient Implementation of Guard-Based Synchronization for an   Object-Oriented Programming Language
+### Title@2025-05-27 (2): An Efficient Implementation of Guard-Based Synchronization for an   Object-Oriented Programming Language
 **Title**: An Efficient Implementation of Guard-Based Synchronization for an   Object-Oriented Programming Language | Effiziente Implementierung von Guard-Based Synchronization für eine objektorientierte Programmiersprache | 高效率地实施以警卫为基础的同步,以用于以目标为导向的方案编制语言 [2505.20850v1](http://arxiv.org/abs/2505.20850v1)
 
 **Authors**: Shucai Yao, Emil Sekerinski
@@ -647,7 +659,7 @@ In the shared variable model of concurrency, guarded atomic actions restrict the
 ---
 
 ## Article 55
-### Title@2025-05-27: Choreographies as Macros
+### Title@2025-05-27 (2): Choreographies as Macros
 **Title**: Choreographies as Macros | Choreographien als Makros | 作为宏的舞蹈 [2505.20845v1](http://arxiv.org/abs/2505.20845v1)
 
 **Authors**: Alexander Bohosian, Andrew K. Hirsch
@@ -657,7 +669,7 @@ Concurrent programming often entails meticulous pairing of sends and receives be
 ---
 
 ## Article 56
-### Title@2025-05-27: ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural   Networks
+### Title@2025-05-27 (2): ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural   Networks
 **Title**: ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural   Networks | ECC-SNN: Kosteneffiziente Edge-Cloud-Kollaboration für Spiking Neuronal Networks | ECC-SNN: 传播神经网络的成本-效益高的边缘-封闭式协作 [2505.20835v1](http://arxiv.org/abs/2505.20835v1)
 
 **Authors**: Di Yu, Changze Lv, Xin Du, Linshan Jiang, Wentao Tong, Zhenyu Liao, Xiaoqing Zheng, Shuiguang Deng
@@ -667,7 +679,7 @@ Most edge-cloud collaboration frameworks rely on the substantial computational a
 ---
 
 ## Article 57
-### Title@2025-05-27: Work-Efficient Parallel Counting via Sampling
+### Title@2025-05-27 (2): Work-Efficient Parallel Counting via Sampling
 **Title**: Work-Efficient Parallel Counting via Sampling | Arbeitseffiziente parallele Zählung über Probenahme | 通过抽样计算实现工作效率的平行计数 [2408.09719v2](http://arxiv.org/abs/2408.09719v2)
 
 **Authors**: Hongyang Liu, Yitong Yin, Yiyao Zhang
@@ -677,7 +689,7 @@ A canonical approach to approximating the partition function of a Gibbs distribu
 ---
 
 ## Article 58
-### Title@2025-05-27: Time-Series Learning for Proactive Fault Prediction in Distributed   Systems with Deep Neural Structures
+### Title@2025-05-27 (2): Time-Series Learning for Proactive Fault Prediction in Distributed   Systems with Deep Neural Structures
 **Title**: Time-Series Learning for Proactive Fault Prediction in Distributed   Systems with Deep Neural Structures | Time-Series Learning für proaktive Fehlervorhersage in verteilten Systemen mit tiefen neuralen Strukturen | 深心神经结构分布系统预发性故障预测时间序列学习 [2505.20705v1](http://arxiv.org/abs/2505.20705v1)
 
 **Authors**: Yang Wang, Wenxuan Zhu, Xuehui Quan, Heyi Wang, Chang Liu, Qiyuan Wu
@@ -687,7 +699,7 @@ This paper addresses the challenges of fault prediction and delayed response in 
 ---
 
 ## Article 59
-### Title@2025-05-27: InstGenIE: Generative Image Editing Made Efficient with Mask-aware   Caching and Scheduling
+### Title@2025-05-27 (2): InstGenIE: Generative Image Editing Made Efficient with Mask-aware   Caching and Scheduling
 **Title**: InstGenIE: Generative Image Editing Made Efficient with Mask-aware   Caching and Scheduling | InstGenIE: Generative Bildbearbeitung mit Mask-aware Caching und Scheduling effizient gemacht | InstGenie: 生成图像编辑, 高效使用防面具图像缓冲和排程 [2505.20600v1](http://arxiv.org/abs/2505.20600v1)
 
 **Authors**: Xiaoxiao Jiang, Suyi Li, Lingyun Yang, Tianyu Feng, Zhipeng Di, Weiyi Lu, Guoxuan Zhu, Xiu Lin, Kan Liu, Yinghao Yu, Tao Lan, Guodong Yang, Lin Qu, Liping Zhang, Wei Wang
@@ -697,7 +709,7 @@ Generative image editing using diffusion models has become a prevalent applicati
 ---
 
 ## Article 60
-### Title@2025-05-26: Asynchronous Fault-Tolerant Language Decidability for Runtime   Verification of Distributed Systems
+### Title@2025-05-26 (1): Asynchronous Fault-Tolerant Language Decidability for Runtime   Verification of Distributed Systems
 **Title**: Asynchronous Fault-Tolerant Language Decidability for Runtime   Verification of Distributed Systems | Asynchrone Fehler-Tolerante Sprachentscheidung für die Laufzeitverifizierung von verteilten Systemen | 分布式系统运行时核查的 Al- 同步错失容忍语言 [2502.00191v2](http://arxiv.org/abs/2502.00191v2)
 
 **Authors**: Armando Castañeda, Gilde Valeria Rodríguez
@@ -707,7 +719,7 @@ Implementing correct distributed systems is an error-prone task. Runtime Verific
 ---
 
 ## Article 61
-### Title@2025-05-26: Avoid Forgetting by Preserving Global Knowledge Gradients in Federated   Learning with Non-IID Data
+### Title@2025-05-26 (1): Avoid Forgetting by Preserving Global Knowledge Gradients in Federated   Learning with Non-IID Data
 **Title**: Avoid Forgetting by Preserving Global Knowledge Gradients in Federated   Learning with Non-IID Data | Vermeiden Sie das Vergessen, indem Sie globale Wissensgradienten im Föderierten Lernen mit nicht-ID-Daten bewahren | 避免在使用非二二二维数据进行联邦学习时因保留全球知识进步而被遗忘 [2505.20485v1](http://arxiv.org/abs/2505.20485v1)
 
 **Authors**: Abhijit Chunduru, Majid Morafah, Mahdi Morafah, Vishnu Pandi Chellapandi, Ang Li
@@ -717,7 +729,7 @@ The inevitable presence of data heterogeneity has made federated learning very c
 ---
 
 ## Article 62
-### Title@2025-05-26: Fixing non-blocking data structures for better compatibility with memory   reclamation schemes
+### Title@2025-05-26 (1): Fixing non-blocking data structures for better compatibility with memory   reclamation schemes
 **Title**: Fixing non-blocking data structures for better compatibility with memory   reclamation schemes | Fixierung von nicht blockierenden Datenstrukturen für eine bessere Kompatibilität mit Speicher-Reklamationssystemen | 固定非阻塞性数据结构,以更好地与内存回收计划兼容 [2504.06254v2](http://arxiv.org/abs/2504.06254v2)
 
 **Authors**: Md Amit Hasan Arovi, Ruslan Nikolaev
@@ -727,7 +739,7 @@ We present a new technique, Safe Concurrent Optimistic Traversals (SCOT), to add
 ---
 
 ## Article 63
-### Title@2025-05-26: Efficient Optimization Accelerator Framework for Multistate Ising   Problems
+### Title@2025-05-26 (1): Efficient Optimization Accelerator Framework for Multistate Ising   Problems
 **Title**: Efficient Optimization Accelerator Framework for Multistate Ising   Problems | Effizientes Optimierungs-Beschleuniger-Framework für Multistate Ising-Probleme | 高效高效优化多州化问题加速加速框架 [2505.20250v1](http://arxiv.org/abs/2505.20250v1)
 
 **Authors**: Chirag Garg, Sayeef Salahuddin
@@ -737,7 +749,7 @@ Ising Machines are a prominent class of hardware architectures that aim to solve
 ---
 
 ## Article 64
-### Title@2025-05-26: FedECA: A Federated External Control Arm Method for Causal Inference   with Time-To-Event Data in Distributed Settings
+### Title@2025-05-26 (1): FedECA: A Federated External Control Arm Method for Causal Inference   with Time-To-Event Data in Distributed Settings
 **Title**: FedECA: A Federated External Control Arm Method for Causal Inference   with Time-To-Event Data in Distributed Settings | FedECA: Eine Federated External Control Arm Methode für ursächliche Schlussfolgerungen mit Zeit-bis-Event-Daten in verteilten Einstellungen | FedECA:在分布环境中利用时间到时间的数据进行因果关系推断的联邦外部控制武器法 [2311.16984v9](http://arxiv.org/abs/2311.16984v9)
 
 **Authors**: Jean Ogier du Terrail, Quentin Klopfenstein, Honghao Li, Imke Mayer, Nicolas Loiseau, Mohammad Hallal, Michael Debouver, Thibault Camalon, Thibault Fouqueray, Jorge Arellano Castro, Zahia Yanes, Laëtitia Dahan, Julien Taïeb, Pierre Laurent-Puig, Jean-Baptiste Bachet, Shulin Zhao, Remy Nicolle, Jérome Cros, Daniel Gonzalez, Robert Carreras-Torres, Adelaida Garcia Velasco, Kawther Abdilleh, Sudheer Doss, Félix Balazard, Mathieu Andreux
@@ -747,7 +759,7 @@ External control arms (ECA) can inform the early clinical development of experim
 ---
 
 ## Article 65
-### Title@2025-05-26: BurstGPT: A Real-world Workload Dataset to Optimize LLM Serving Systems
+### Title@2025-05-26 (1): BurstGPT: A Real-world Workload Dataset to Optimize LLM Serving Systems
 **Title**: BurstGPT: A Real-world Workload Dataset to Optimize LLM Serving Systems | BurstGPT: Ein echter Workload-Datensatz zur Optimierung von LLM-Serviersystemen | BurtGPT:优化LLM服务系统的现实世界工作量数据集 [2401.17644v5](http://arxiv.org/abs/2401.17644v5)
 
 **Authors**: Yuxin Wang, Yuhan Chen, Zeyu Li, Xueze Kang, Yuchu Fang, Yeju Zhou, Yang Zheng, Zhenheng Tang, Xin He, Rui Guo, Xin Wang, Qiang Wang, Amelie Chi Zhou, Xiaowen Chu
@@ -757,7 +769,7 @@ Serving systems for Large Language Models (LLMs) are often optimized to improve 
 ---
 
 ## Article 66
-### Title@2025-05-26: Parallelizing a modern GPU simulator
+### Title@2025-05-26 (1): Parallelizing a modern GPU simulator
 **Title**: Parallelizing a modern GPU simulator | Parallelisierung eines modernen GPU-Simulators | 平行使用现代 GPU 模拟器 [2502.14691v2](http://arxiv.org/abs/2502.14691v2)
 
 **Authors**: Rodrigo Huerta, Antonio González
@@ -767,7 +779,7 @@ Simulators are a primary tool in computer architecture research but are extremel
 ---
 
 ## Article 67
-### Title@2025-05-26: Snowman for partial synchrony
+### Title@2025-05-26 (1): Snowman for partial synchrony
 **Title**: Snowman for partial synchrony | Schneemann für partielle Synchronisation | 部分同步的雪人 [2501.15904v3](http://arxiv.org/abs/2501.15904v3)
 
 **Authors**: Aaron Buchwald, Stephen Buttolph, Andrew Lewis-Pye, Kevin Sekniqi
@@ -777,7 +789,7 @@ Snowman is the consensus protocol run by blockchains on Avalanche. Recent work e
 ---
 
 ## Article 68
-### Title@2025-05-26: Beyond Optimal Fault Tolerance
+### Title@2025-05-26 (1): Beyond Optimal Fault Tolerance
 **Title**: Beyond Optimal Fault Tolerance | Jenseits der optimalen Fehlertoleranz | 超越最佳错失容忍 [2501.06044v6](http://arxiv.org/abs/2501.06044v6)
 
 **Authors**: Andrew Lewis-Pye, Tim Roughgarden
@@ -787,7 +799,7 @@ The optimal fault-tolerance achievable by any protocol has been characterized in
 ---
 
 ## Article 69
-### Title@2025-05-26: Distortion Resilience for Goal-Oriented Semantic Communication
+### Title@2025-05-26 (1): Distortion Resilience for Goal-Oriented Semantic Communication
 **Title**: Distortion Resilience for Goal-Oriented Semantic Communication | Distortion Resilienz für zielorientierte semantische Kommunikation | 目标导向语义交流的扭曲复原力 [2309.14587v2](http://arxiv.org/abs/2309.14587v2)
 
 **Authors**: Minh-Duong Nguyen, Quang-Vinh Do, Zhaohui Yang, Quoc-Viet Pham, Won-Joo Hwang
@@ -797,7 +809,7 @@ Recent research efforts on Semantic Communication (SemCom) have mostly considere
 ---
 
 ## Article 70
-### Title@2025-05-26: Optimizing edge AI models on HPC systems with the edge in the loop
+### Title@2025-05-26 (1): Optimizing edge AI models on HPC systems with the edge in the loop
 **Title**: Optimizing edge AI models on HPC systems with the edge in the loop | Optimierung der Kanten-KI-Modelle auf HPC-Systemen mit der Kante in der Schleife | 优化循环边缘的HPC系统优化边缘 AI 模型 [2505.19995v1](http://arxiv.org/abs/2505.19995v1)
 
 **Authors**: Marcel Aach, Cyril Blanc, Andreas Lintermann, Kurt De Grave
@@ -807,7 +819,7 @@ Artificial intelligence and machine learning models deployed on edge devices, e.
 ---
 
 ## Article 71
-### Title@2025-05-26: Federated Domain Generalization with Data-free On-server Matching   Gradient
+### Title@2025-05-26 (1): Federated Domain Generalization with Data-free On-server Matching   Gradient
 **Title**: Federated Domain Generalization with Data-free On-server Matching   Gradient | Föderierte Domain-Verallgemeinerung mit datenfreiem On-Server-Zustimmungs-Gradient | 具有无数据观测站上与渐变匹配的无数据观测器的联邦通用域 [2501.14653v2](http://arxiv.org/abs/2501.14653v2)
 
 **Authors**: Trong-Binh Nguyen, Minh-Duong Nguyen, Jinsun Park, Quoc-Viet Pham, Won Joo Hwang
@@ -817,7 +829,7 @@ Domain Generalization (DG) aims to learn from multiple known source domains a mo
 ---
 
 ## Article 72
-### Title@2025-05-26: From Few to Many Faults: Adaptive Byzantine Agreement with Optimal   Communication
+### Title@2025-05-26 (1): From Few to Many Faults: Adaptive Byzantine Agreement with Optimal   Communication
 **Title**: From Few to Many Faults: Adaptive Byzantine Agreement with Optimal   Communication | Von wenigen bis zu vielen Fehlern: Adaptive byzantinische Vereinbarung mit optimaler Kommunikation | 从少到多的错失:适应性拜占庭协议与最佳沟通 [2505.19989v1](http://arxiv.org/abs/2505.19989v1)
 
 **Authors**: Andrei Constantinescu, Marc Dufay, Anton Paramonov, Roger Wattenhofer
@@ -827,7 +839,7 @@ Achieving agreement among distributed parties is a fundamental task in modern sy
 ---
 
 ## Article 73
-### Title@2025-05-26: Differential Privacy Analysis of Decentralized Gossip Averaging under   Varying Threat Models
+### Title@2025-05-26 (1): Differential Privacy Analysis of Decentralized Gossip Averaging under   Varying Threat Models
 **Title**: Differential Privacy Analysis of Decentralized Gossip Averaging under   Varying Threat Models | Differential Privacy Analyse dezentralisierter Gossip Average unter unterschiedlichen Bedrohungsmodellen | 对不同威胁模式下分散的流民的隐私差异分析 [2505.19969v1](http://arxiv.org/abs/2505.19969v1)
 
 **Authors**: Antti Koskela, Tejas Kulkarni
@@ -837,7 +849,7 @@ Fully decentralized training of machine learning models offers significant advan
 ---
 
 ## Article 74
-### Title@2025-05-26: Universal Workers: A Vision for Eliminating Cold Starts in Serverless   Computing
+### Title@2025-05-26 (1): Universal Workers: A Vision for Eliminating Cold Starts in Serverless   Computing
 **Title**: Universal Workers: A Vision for Eliminating Cold Starts in Serverless   Computing | Universal Workers: Eine Vision zur Beseitigung von Kaltstarts im serverlosen Computing | 普遍工人:在无服务器计算机中消除冷源的愿景 [2505.19880v1](http://arxiv.org/abs/2505.19880v1)
 
 **Authors**: Saman Akbari, Manfred Hauswirth
@@ -847,7 +859,7 @@ Serverless computing enables developers to deploy code without managing infrastr
 ---
 
 ## Article 75
-### Title@2025-05-26: DGRAG: Distributed Graph-based Retrieval-Augmented Generation in   Edge-Cloud Systems
+### Title@2025-05-26 (1): DGRAG: Distributed Graph-based Retrieval-Augmented Generation in   Edge-Cloud Systems
 **Title**: DGRAG: Distributed Graph-based Retrieval-Augmented Generation in   Edge-Cloud Systems | DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud-Systemen | DGGGAG: 在边缘封闭系统中分布的基于图图的回收回源-养代 [2505.19847v1](http://arxiv.org/abs/2505.19847v1)
 
 **Authors**: Wenqing Zhou, Yuxuan Yan, Qianqian Yang
@@ -857,7 +869,7 @@ Retrieval-Augmented Generation (RAG) has emerged as a promising approach to enha
 ---
 
 ## Article 76
-### Title@2025-05-26: Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed   Resources on Massive Edge Devices
+### Title@2025-05-26 (1): Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed   Resources on Massive Edge Devices
 **Title**: Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed   Resources on Massive Edge Devices | Wird LLMs Skalierung die Wand treffen? Über verteilte Ressourcen auf massiven Edge-Geräten Barrieren überwinden | LLLMs SUlia扩大会撞上隔离墙吗?通过大规模边缘装置分配资源打破障碍 [2503.08223v2](http://arxiv.org/abs/2503.08223v2)
 
 **Authors**: Tao Shen, Didi Zhu, Ziyu Zhao, Zexi Li, Chao Wu, Fei Wu
@@ -867,7 +879,7 @@ The remarkable success of foundation models has been driven by scaling laws, dem
 ---
 
 ## Article 77
-### Title@2025-05-26: A Unified, Practical, and Understandable Model of Non-transactional   Consistency Levels in Distributed Replication
+### Title@2025-05-26 (1): A Unified, Practical, and Understandable Model of Non-transactional   Consistency Levels in Distributed Replication
 **Title**: A Unified, Practical, and Understandable Model of Non-transactional   Consistency Levels in Distributed Replication | Ein einheitliches, praktisches und verständliches Modell nichttransaktionsfähiger Konsistenzstufen in verteilter Replikation | 分布式重复中非交易一致性水平的统一、实用和可理解的模式 [2409.01576v4](http://arxiv.org/abs/2409.01576v4)
 
 **Authors**: Guanzhou Hu, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau
@@ -877,7 +889,7 @@ We present a practical model of non-transactional consistency levels in the cont
 ---
 
 ## Article 78
-### Title@2025-05-26: Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream   Processing
+### Title@2025-05-26 (1): Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream   Processing
 **Title**: Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream   Processing | Justin: Hybride CPU/Memory Elastic Scaling für verteilte Stream-Verarbeitung | Justin: 用于分布流处理的混合 CPU/Memory Elastic 缩放比例 [2505.19739v1](http://arxiv.org/abs/2505.19739v1)
 
 **Authors**: Donatien Schmitz, Guillaume Rosinosky, Etienne Rivière
@@ -887,7 +899,7 @@ Distributed Stream Processing (DSP) engines analyze continuous data via queries 
 ---
 
 ## Article 79
-### Title@2025-05-26: Towards Optimal Distributed Edge Coloring with Fewer Colors
+### Title@2025-05-26 (1): Towards Optimal Distributed Edge Coloring with Fewer Colors
 **Title**: Towards Optimal Distributed Edge Coloring with Fewer Colors | Auf dem Weg zu einer optimalen verteilten Randfärbung mit weniger Farben | 向最优化分布式边缘配色,颜色更少 [2504.13003v2](http://arxiv.org/abs/2504.13003v2)
 
 **Authors**: Manuel Jakob, Yannic Maus, Florian Schager
@@ -897,7 +909,7 @@ There is a huge difference in techniques and runtimes of distributed algorithms 
 ---
 
 ## Article 80
-### Title@2025-05-26: Byzantine Consensus in the Random Asynchronous Model
+### Title@2025-05-26 (1): Byzantine Consensus in the Random Asynchronous Model
 **Title**: Byzantine Consensus in the Random Asynchronous Model | Byzantinischer Konsens im zufälligen asynchronen Modell | 随机非同步模型中的拜占庭共识 [2502.09116v2](http://arxiv.org/abs/2502.09116v2)
 
 **Authors**: George Danezis, Jovan Komatovic, Lefteris Kokoris-Kogias, Alberto Sonnino, Igor Zablotchi
@@ -907,7 +919,7 @@ We propose a novel relaxation of the classic asynchronous network model, called 
 ---
 
 ## Article 81
-### Title@2025-05-26: Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for   Heterogeneous Distributed Environments
+### Title@2025-05-26 (1): Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for   Heterogeneous Distributed Environments
 **Title**: Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for   Heterogeneous Distributed Environments | Mosaic: Datenfreies Wissen Destillieren über Mixture-of-Experts für Heterogene verteilte Umgebungen | Mosaic:通过混合专家进行无数据知识蒸馏,促进异基因分布式环境 [2505.19699v1](http://arxiv.org/abs/2505.19699v1)
 
 **Authors**: Junming Liu, Yanting Gao, Siyuan Meng, Yifei Sun, Aoqi Wu, Yufei Jin, Yirong Chen, Ding Wang, Guosun Zeng
@@ -917,7 +929,7 @@ Federated Learning (FL) is a decentralized machine learning paradigm that enable
 ---
 
 ## Article 82
-### Title@2025-05-26: PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM   Serving
+### Title@2025-05-26 (1): PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM   Serving
 **Title**: PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM   Serving | PRESSERVE: Prefetching Modellgewichte und KV-Cache in verteilter LLM-Servierung | PRESSERVE: 分布式LLM服务中的预伸缩模型重量和 KV-缓冲 [2501.08192v2](http://arxiv.org/abs/2501.08192v2)
 
 **Authors**: Ahmet Caner Yüzügüler, Jiawei Zhuang, Lukas Cavigelli
@@ -927,7 +939,7 @@ Large language models (LLMs) are typically served from clusters of GPUs/NPUs tha
 ---
 
 ## Article 83
-### Title@2025-05-26: Scaling Large-scale GNN Training to Thousands of Processors on CPU-based   Supercomputers
+### Title@2025-05-26 (1): Scaling Large-scale GNN Training to Thousands of Processors on CPU-based   Supercomputers
 **Title**: Scaling Large-scale GNN Training to Thousands of Processors on CPU-based   Supercomputers | Skalierung von großformatigen GNN-Schulungen zu Tausenden von Prozessoren auf CPU-basierten Supercomputern | 向数千台基于CPU的超级计算机处理器提供大规模GNN培训 [2411.16025v2](http://arxiv.org/abs/2411.16025v2)
 
 **Authors**: Chen Zhuang, Lingqi Zhang, Du Wu, Peng Chen, Jiajun Huang, Xin Liu, Rio Yokota, Nikoli Dryden, Toshio Endo, Satoshi Matsuoka, Mohamed Wahib
@@ -937,7 +949,7 @@ Graph Convolutional Networks (GCNs), particularly for large-scale graphs, are cr
 ---
 
 ## Article 84
-### Title@2025-05-26: Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive   Decisions of LLMs
+### Title@2025-05-26 (1): Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive   Decisions of LLMs
 **Title**: Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive   Decisions of LLMs | Gewinnen Sie schnell oder verlieren Sie langsam: Ausgleichende Geschwindigkeit und Genauigkeit in Latenz-Sensitive Entscheidungen von LLMs | 慢赢或慢输:LLMs的延缓敏感决定中平衡速度和准确性 [2505.19481v1](http://arxiv.org/abs/2505.19481v1)
 
 **Authors**: Hao Kang, Qingru Zhang, Han Cai, Weiyuan Xu, Tushar Krishna, Yilun Du, Tsachy Weissman
@@ -947,7 +959,7 @@ Large language models (LLMs) have shown remarkable performance across diverse re
 ---
 
 ## Article 85
-### Title@2025-05-26: GPU acceleration of non-equilibrium Green's function calculation using   OpenACC and CUDA FORTRAN
+### Title@2025-05-26 (1): GPU acceleration of non-equilibrium Green's function calculation using   OpenACC and CUDA FORTRAN
 **Title**: GPU acceleration of non-equilibrium Green's function calculation using   OpenACC and CUDA FORTRAN | GPU-Beschleunigung der Nicht-Equilibrium Green-Funktionsberechnung mit OpenACC und CUDA FORTRAN | 使用 OpenACC 和 CUDA FORTRAN 加速 GPU 绿色非平衡的功能计算 [2505.19467v1](http://arxiv.org/abs/2505.19467v1)
 
 **Authors**: Jia Yin, Khaled Z. Ibrahim, Mauro Del Ben, Jack Deslippe, Yang-hao Chan, Chao Yang
@@ -957,7 +969,7 @@ The numerical solution of the Kadanoff-Baym nonlinear integro-differential equat
 ---
 
 ## Article 86
-### Title@2025-05-26: FedHERO: A Federated Learning Approach for Node Classification Task on   Heterophilic Graphs
+### Title@2025-05-26 (1): FedHERO: A Federated Learning Approach for Node Classification Task on   Heterophilic Graphs
 **Title**: FedHERO: A Federated Learning Approach for Node Classification Task on   Heterophilic Graphs | FedHERO: Ein Federated Learning Approach für Knotenklassifikation Aufgaben auf heterophilen Graphen | FEFHERO: 异生物图节点分类任务联邦学习方法 [2504.21206v2](http://arxiv.org/abs/2504.21206v2)
 
 **Authors**: Zihan Chen, Xingbo Fu, Yushun Dong, Jundong Li, Cong Shen
@@ -967,7 +979,7 @@ Federated Graph Learning (FGL) empowers clients to collaboratively train Graph n
 ---
 
 ## Article 87
-### Title@2025-05-25: QMIO: A tightly integrated hybrid HPCQC system
+### Title@2025-05-25 (7): QMIO: A tightly integrated hybrid HPCQC system
 **Title**: QMIO: A tightly integrated hybrid HPCQC system | QMIO: Ein eng integriertes Hybrid-HPCQC-System | QMIO:一个严格一体化的混合高和分PCQC系统 [2505.19267v1](http://arxiv.org/abs/2505.19267v1)
 
 **Authors**: Javier Cacheiro, Álvaro C Sánchez, Russell Rundle, George B Long, Gavin Dold, Jamie Friel, Andrés Gómez
@@ -977,7 +989,7 @@ High-Performance Computing (HPC) systems are the most powerful tools that we cur
 ---
 
 ## Article 88
-### Title@2025-05-25: NanoFlow: Towards Optimal Large Language Model Serving Throughput
+### Title@2025-05-25 (7): NanoFlow: Towards Optimal Large Language Model Serving Throughput
 **Title**: NanoFlow: Towards Optimal Large Language Model Serving Throughput | NanoFlow: Auf dem Weg zu einem optimalen Large Language Model | NanoFlow:走向最佳大语言模式 [2408.12757v2](http://arxiv.org/abs/2408.12757v2)
 
 **Authors**: Kan Zhu, Yufei Gao, Yilong Zhao, Liangyu Zhao, Gefei Zuo, Yile Gu, Dedong Xie, Tian Tang, Qinyu Xu, Zihao Ye, Keisuke Kamahori, Chien-Yu Lin, Ziren Wang, Stephanie Wang, Arvind Krishnamurthy, Baris Kasikci
@@ -987,7 +999,7 @@ Large Language Models (LLMs) have resulted in a surging demand for planet-scale 
 ---
 
 ## Article 89
-### Title@2025-05-25: Matrix Multiplication in the MPC Model
+### Title@2025-05-25 (7): Matrix Multiplication in the MPC Model
 **Title**: Matrix Multiplication in the MPC Model | Matrix-Multiplikation im MPC-Modell | MPC 模型中的矩阵乘法 [2505.19137v1](http://arxiv.org/abs/2505.19137v1)
 
 **Authors**: Atharv Chhabra, Arya Deshmukh, Chetan Gupta, Lakshya Joshi
@@ -997,12 +1009,132 @@ In this paper, we study the matrix multiplication problem in the MPC model. We h
 ---
 
 ## Article 90
-### Title@2025-05-25: Birch SGD: A Tree Graph Framework for Local and Asynchronous SGD Methods
+### Title@2025-05-25 (7): Birch SGD: A Tree Graph Framework for Local and Asynchronous SGD Methods
 **Title**: Birch SGD: A Tree Graph Framework for Local and Asynchronous SGD Methods | Birke SGD: Ein Baumdiagramm-Framework für lokale und asynchrone SGD-Methoden | Birch SGD: 当地和非同步 SGD 方法树图框架 [2505.09218v2](http://arxiv.org/abs/2505.09218v2)
 
 **Authors**: Alexander Tyurin, Danil Sivtsov
 
 We propose a new unifying framework, Birch SGD, for analyzing and designing distributed SGD methods. The central idea is to represent each method as a weighted directed tree, referred to as a computation tree. Leveraging this representation, we introduce a general theoretical result that reduces convergence analysis to studying the geometry of these trees. This perspective yields a purely graph-based interpretation of optimization dynamics, offering a new and intuitive foundation for method development. Using Birch SGD, we design eight new methods and analyze them alongside previously known ones, with at least six of the new methods shown to have optimal computational time complexity. Our research leads to two key insights: (i) all methods share the same "iteration rate" of $O\left(\frac{(R + 1) L \Delta}{\varepsilon} + \frac{\sigma^2 L \Delta}{\varepsilon^2}\right)$, where $R$ the maximum "tree distance" along the main branch of a tree; and (ii) different methods exhibit different trade-offs-for example, some update iterates more frequently, improving practical performance, while others are more communication-efficient or focus on other aspects. Birch SGD serves as a unifying framework for navigating these trade-offs. We believe these results provide a unified foundation for understanding, analyzing, and designing efficient asynchronous and parallel optimization methods.
+
+---
+
+## Article 91
+### Title@2025-05-24 (6): Toward Malicious Clients Detection in Federated Learning
+**Title**: Toward Malicious Clients Detection in Federated Learning | Auf dem Weg zu bösartigen Kunden Erkennung im Föderierten Lernen | 争取在联邦学习中发现恶意客户 [2505.09110v2](http://arxiv.org/abs/2505.09110v2)
+
+**Authors**: Zhihao Dou, Jiaqi Wang, Wei Sun, Zhuqing Liu, Minghong Fang
+
+Federated learning (FL) enables multiple clients to collaboratively train a global machine learning model without sharing their raw data. However, the decentralized nature of FL introduces vulnerabilities, particularly to poisoning attacks, where malicious clients manipulate their local models to disrupt the training process. While Byzantine-robust aggregation rules have been developed to mitigate such attacks, they remain inadequate against more advanced threats. In response, recent advancements have focused on FL detection techniques to identify potentially malicious participants. Unfortunately, these methods often misclassify numerous benign clients as threats or rely on unrealistic assumptions about the server's capabilities. In this paper, we propose a novel algorithm, SafeFL, specifically designed to accurately identify malicious clients in FL. The SafeFL approach involves the server collecting a series of global models to generate a synthetic dataset, which is then used to distinguish between malicious and benign models based on their behavior. Extensive testing demonstrates that SafeFL outperforms existing methods, offering superior efficiency and accuracy in detecting malicious clients.
+
+---
+
+## Article 92
+### Title@2025-05-24 (6): Distributed Incremental SAT Solving with Mallob: Report and Case Study   with Hierarchical Planning
+**Title**: Distributed Incremental SAT Solving with Mallob: Report and Case Study   with Hierarchical Planning | Distributed Incremental SAT Solving with Mallob: Report and Case Study with Hierarchical Planning | 与马洛布公司共同解决:与等级规划有关的报告和案例研究 [2505.18836v1](http://arxiv.org/abs/2505.18836v1)
+
+**Authors**: Dominik Schreiber
+
+This report describes an extension of the distributed job scheduling and SAT solving platform Mallob by incremental SAT solving, embedded in a case study on SAT-based hierarchical planning. We introduce a low-latency interface for incremental jobs and specifically for IPASIR-style incremental SAT solving to Mallob. This also allows to process many independent planning instances in parallel via Mallob's scheduling capabilities. In an experiment where 587 planning inputs are resolved in parallel on 2348 cores, we observe significant speedups for several planning domains where SAT solving constitutes a major part of the planner's running time. These findings indicate that our approach to distributed incremental SAT solving may be useful for a wide range of SAT applications.
+
+---
+
+## Article 93
+### Title@2025-05-24 (6): DiSCo: Device-Server Collaborative LLM-Based Text Streaming Services
+**Title**: DiSCo: Device-Server Collaborative LLM-Based Text Streaming Services | DiSCo: Geräte-Server Kollaborative LLM-basierte Text-Streaming-Dienste | DisCo: 设备-服务器协作协作LLM基于LLM的文本流服务 [2502.11417v2](http://arxiv.org/abs/2502.11417v2)
+
+**Authors**: Ting Sun, Penghan Wang, Fan Lai
+
+The rapid rise of large language models (LLMs) in text streaming services has introduced significant cost and Quality of Experience (QoE) challenges in serving millions of daily requests, especially in meeting Time-To-First-Token (TTFT) and Time-Between-Token (TBT) requirements for real-time interactions. Our real-world measurements show that both server-based and on-device deployments struggle to meet diverse QoE demands: server deployments face high costs and last-hop issues (e.g., Internet latency and dynamics), while on-device LLM inference is constrained by resources.   We introduce DiSCo, a device-server cooperative scheduler designed to optimize users' QoE by adaptively routing requests and migrating response generation between endpoints while maintaining cost constraints. DiSCo employs cost-aware scheduling, leveraging the predictable speed of on-device LLM inference with the flexible capacity of server-based inference to dispatch requests on the fly, while introducing a token-level migration mechanism to ensure consistent token delivery during migration. Evaluations on real-world workloads -- including commercial services like OpenAI GPT and DeepSeek, and open-source deployments such as LLaMA3 -- show that DiSCo can improve users' QoE by reducing tail TTFT (11-52\%) and mean TTFT (6-78\%) across different model-device configurations, while dramatically reducing serving costs by up to 84\% through its migration mechanism while maintaining comparable QoE levels.
+
+---
+
+## Article 94
+### Title@2025-05-24 (6): Distributed Set-membership Filtering Frameworks For Multi-agent Systems   With Absolute and Relative Measurements
+**Title**: Distributed Set-membership Filtering Frameworks For Multi-agent Systems   With Absolute and Relative Measurements | Distributed Set-Membership Filtering Frameworks für Multi-Agent-Systeme mit absoluten und relativen Messungen | 具有绝对和相对计量的多试剂系统分布式成员筛选框架 [2305.15797v2](http://arxiv.org/abs/2305.15797v2)
+
+**Authors**: Yu Ding, Yirui Cong, Xiangke Wang
+
+In this paper, we focus on the distributed set-membership filtering (SMFing) problem for a multi-agent system with absolute (taken from agents themselves) and relative (taken from neighbors) measurements. In the literature, the relative measurements are difficult to deal with, and the SMFs highly rely on specific set descriptions. As a result, establishing the general distributed SMFing framework having relative measurements is still an open problem. To solve this problem, first, we provide the set description based on uncertain variables determined by the relative measurements between two agents as the foundation. Surprisingly, the accurate description requires only a single calculation step rather than multiple iterations, which can effectively reduce computational complexity. Based on the derived set description, called the uncertain range, we propose two distributed SMFing frameworks: one calculates the joint uncertain range of the agent itself and its neighbors, while the other only computes the marginal uncertain range of each local system. Furthermore, we compare the performance of our proposed two distributed SMFing frameworks and the benchmark -- centralized SMFing framework. A rigorous set analysis reveals that the distributed SMF can be essentially considered as the process of computing the marginal uncertain range to outer bound the projection of the uncertain range obtained by the centralized SMF in the corresponding subspace. Simulation results corroborate the effectiveness of our proposed distributed frameworks and verify our theoretical analysis.
+
+---
+
+## Article 95
+### Title@2025-05-24 (6): EvoSort: A Genetic-Algorithm-Based Adaptive Parallel Sorting Framework   for Large-Scale High Performance Computing
+**Title**: EvoSort: A Genetic-Algorithm-Based Adaptive Parallel Sorting Framework   for Large-Scale High Performance Computing | EvoSort: Ein genetisch-algorithmisch-adaptives Parallelsortierungs-Framework für großformatige Hochleistungsrechnen | EvoSort: 大型高性能计算方法的基于遗传 -- -- 物理学的适应性平行排序框架 [2505.18681v1](http://arxiv.org/abs/2505.18681v1)
+
+**Authors**: Shashank Raj, Kalyanmoy Deb
+
+In today's era of big data, sorting enormous datasets is a major challenge. We present EvoSort, an adaptive parallel sorting framework that employs a Genetic Algorithm (GA) to automatically discover and refine critical parameters, including insertion sort and fallback thresholds, tile size, and mergesort vs Least Significant Digit (LSD) radix sort. EvoSort integrates parallel sorting primitives and adapts continuously to input data and system architecture, ensuring optimal performance. Experiments on up to 10 billion elements show that EvoSort consistently outperforms NumPy sorting by factors from three to over 90 times. EvoSort exemplifies a powerful auto-tuning solution for large-scale data processing.
+
+---
+
+## Article 96
+### Title@2025-05-24 (6): Towards Round-Optimal Approximate Agreement on Trees
+**Title**: Towards Round-Optimal Approximate Agreement on Trees | Auf dem Weg zu einem runden, optimalen Abkommen über Bäume | 争取达成关于树木的圆顶和最接近于 [2502.05591v2](http://arxiv.org/abs/2502.05591v2)
+
+**Authors**: Marc Fuchs, Diana Ghinea, Zahra Parsaeian
+
+Approximate Agreement (AA) is a key consensus primitive that, even in the presence of Byzantine faults, allows honest parties to obtain close (but not necessarily identical) outputs that lie within the range of their inputs. While the optimal round complexity of synchronous AA on real values is well understood, its extension to other input spaces remains an open problem.   Our work is concerned with AA on trees, where the parties hold as inputs vertices from a publicly known labeled tree $T$ and must output $1$-close vertices in the honest inputs' convex hull. We present an optimal-resilience protocol in the synchronous model, with round complexity $O\left(\frac{\log |V(T)|}{\log \log |V(T)|} \right)$, where $V(T)$ is the set of vertices in the input space tree $T$. Our protocol non-trivially reduces the problem of AA on trees to AA on real values.   Additionally, we extend the impossibility results regarding the round complexity of synchronous AA protocols on real values to trees: we prove a lower bound of $\Omega\left(\frac{\log D(T)}{\log \log D(T) + \log \frac{n + t}{t}} \right)$ rounds, where $D(T)$ denotes the diameter of the tree, $n$ denotes the number of parties, and $t$ denotes the number of Byzantine parties. This establishes the asymptotic optimality of our protocol for trees $T$ of diameter $D(T) \in |V(T)|^{\Theta(1)}$ given that $t \in \Theta(n)$.
+
+---
+
+## Article 97
+### Title@2025-05-24 (6): Asynchronous Approximate Agreement with Quadratic Communication
+**Title**: Asynchronous Approximate Agreement with Quadratic Communication | Asynchrone annähernde Vereinbarung mit quadratischer Kommunikation | 与赤道通信的近似非同步协定 [2408.05495v3](http://arxiv.org/abs/2408.05495v3)
+
+**Authors**: Mose Mizrahi Erbes, Roger Wattenhofer
+
+We consider an asynchronous network of $n$ message-sending parties, up to $t$ of which are byzantine. We study approximate agreement, where the parties obtain approximately equal outputs in the convex hull of their inputs. In their seminal work, Abraham, Amit and Dolev [OPODIS '04] solve this problem in $\mathbb{R}$ with the optimal resilience $t < \frac{n}{3}$ with a protocol where each party reliably broadcasts a value in every iteration. This takes $\Theta(n^2)$ messages per reliable broadcast, or $\Theta(n^3)$ messages per iteration.   In this work, we forgo reliable broadcast to achieve asynchronous approximate agreement against $t < \frac{n}{3}$ faults with quadratic communication. In trees of diameter $D$ and maximum degree $\Delta$, we achieve edge agreement in $\lceil{6\log_2 D}\rceil$ rounds with $\mathcal{O}(n^2)$ messages of size $\mathcal{O}(\log \Delta + \log\log D)$ per round. We do this by designing a 6-round multivalued 2-graded consensus protocol, and by repeatedly using it to reduce edge agreement in a tree of diameter $D$ to edge agreement in a tree of diameter $\frac{D}{2}$. Then, we achieve edge agreement in the infinite path $\mathbb{Z}$, again with the help of 2-graded consensus. Finally, by reducing $\varepsilon$-agreement in $\mathbb{R}$ to edge agreement in $\mathbb{Z}$, we show that our edge agreement protocol enables $\varepsilon$-agreement in $\mathbb{R}$ in $6\log_2(\frac{M}{\varepsilon} + 1) + \mathcal{O}(\log \log \frac{M}{\varepsilon})$ rounds with $\mathcal{O}(n^2 \log \frac{M}{\varepsilon})$ messages and $\mathcal{O}(n^2\log \frac{M}{\varepsilon}\log \log \frac{M}{\varepsilon})$ bits of communication, where $M$ is the maximum input magnitude.
+
+---
+
+## Article 98
+### Title@2025-05-24 (6): TEE is not a Healer: Rollback-Resistant Reliable Storage
+**Title**: TEE is not a Healer: Rollback-Resistant Reliable Storage | TEE ist kein Heiler: Rollback-Resistent Zuverlässige Lagerung | TEE不是救治者:回击-恢复-可靠储存 [2505.18648v1](http://arxiv.org/abs/2505.18648v1)
+
+**Authors**: Sadegh Keshavarzi, Gregory Chockler, Alexey Gotsman
+
+Recent advances in secure hardware technologies, such as Intel SGX or ARM TrustZone, offer an opportunity to substantially reduce the costs of Byzantine fault-tolerance by placing the program code and state within a secure enclave known as a Trusted Execution Environment (TEE). However, the protection offered by a TEE only applies during program execution. Once power is switched off, the non-volatile portion of the program state becomes vulnerable to rollback attacks wherein it is undetectably reverted to an older version. In this paper, we consider a problem of implementing reliable read/write registers out of failure-prone replicas subject to state rollbacks. To this end, we introduce a new unified model that captures the multiple failure types that can affect a TEE-based system. We then establish tight bounds on the fault-tolerance of register constructions in this model for both the static case, where failure thresholds hold throughout the entire execution, and the dynamic case, where they only hold eventually. Our dynamic register emulation algorithm resolves a long-standing question of how to correctly rebuild replica state upon restart without relying on additional hardware assumptions such as trusted monotonic counters.
+
+---
+
+## Article 99
+### Title@2025-05-24 (6): CacheFL: Privacy-Preserving and Efficient Federated Cache Model   Fine-Tuning for Vision-Language Models
+**Title**: CacheFL: Privacy-Preserving and Efficient Federated Cache Model   Fine-Tuning for Vision-Language Models | CacheFL: Datenschutzschonendes und effizientes Federated Cache Model Fine-Tuning für Vision-Language-Modelle | CACHFL: 视力和语言模型微调模型 [2505.05130v2](http://arxiv.org/abs/2505.05130v2)
+
+**Authors**: Mengjun Yi, Hanwen Zhang, Hui Dou, Jian Zhao, Furao Shen
+
+Large pre-trained Vision-Language Models (VLMs), such as Contrastive Language-Image Pre-training (CLIP), have exhibited remarkable zero-shot performance across various image classification tasks. Fine-tuning these models on domain-specific datasets further enhances their effectiveness for downstream applications. However, fine-tuning in cloud environments raises significant concerns regarding data security and privacy. Federated Learning (FL) offers a decentralized solution by enabling model training across local clients without centralizing sensitive data, but the high communication and computation costs of transmitting full pre-trained models during training limit its scalability. Additionally, non-Independent and Identically Distributed (non-IID) data across local clients can negatively impact model convergence and performance. To address these challenges, we propose CacheFL, a novel federated learning method that replaces traditional full model fine-tuning with lightweight cache model fine-tuning. The cache model is initialized using a class-balanced dataset generated by a generative pre-trained model, effectively mitigating the impact of non-IID data. This cache model is then distributed to local clients for fine-tuning, and the updated parameters from each client are aggregated on the server and redistributed. With the updated cache model, the classification performance of CLIP is improved after just a few epochs. By limiting the training and communication to the cache model, CacheFL significantly reduces resource demands while ensuring data privacy and security. Extensive experiments conducted on ImageNet and 10 additional datasets demonstrate that CacheFL outperforms traditional approaches in terms of classification accuracy, resource efficiency, and privacy preservation.
+
+---
+
+## Article 100
+### Title@2025-05-24 (6): PacTrain: Pruning and Adaptive Sparse Gradient Compression for Efficient   Collective Communication in Distributed Deep Learning
+**Title**: PacTrain: Pruning and Adaptive Sparse Gradient Compression for Efficient   Collective Communication in Distributed Deep Learning | PacTrain: Pruning and Adaptive Sparse Gradient Compression für effiziente kollektive Kommunikation im verteilten Deep Learning | PacTrain:在分布式深层学习中促进高效集体交流的审慎和适应性零散梯级压缩 [2505.18563v1](http://arxiv.org/abs/2505.18563v1)
+
+**Authors**: Yisu Wang, Ruilong Wu, Xinjiao Li, Dirk Kutscher
+
+Large-scale deep neural networks (DNN) exhibit excellent performance for various tasks. As DNNs and datasets grow, distributed training becomes extremely time-consuming and demands larger clusters. A main bottleneck is the resulting gradient aggregation overhead. While gradient compression and sparse collective communication techniques are commonly employed to alleviate network load, many gradient compression schemes do not achieve acceleration of the training process while also preserving accuracy. This paper introduces PacTrain, a novel framework that accelerates distributed training by combining pruning with sparse gradient compression. Active pruning of the neural network makes the model weights and gradients sparse. By ensuring the global knowledge of the gradient sparsity among all distributed training workers, we can perform lightweight compression communication without harming accuracy. We show that the PacTrain compression scheme achieves a near-optimal compression strategy while remaining compatible with the all-reduce primitive. Experimental evaluations show that PacTrain improves training throughput by 1.25 to 8.72 times compared to state-of-the-art compression-enabled systems for representative vision and language models training tasks under bandwidth-constrained conditions.
+
+---
+
+## Article 101
+### Title@2025-05-24 (6): Consensus Under Adversary Majority Done Right
+**Title**: Consensus Under Adversary Majority Done Right | Konsens unter gegnerischer Mehrheit Rechtsbeistand | 在相反多数下达成的共识 [2411.01689v3](http://arxiv.org/abs/2411.01689v3)
+
+**Authors**: Srivatsan Sridhar, Ertem Nusret Tas, Joachim Neu, Dionysis Zindros, David Tse
+
+A specter is haunting consensus protocols--the specter of adversary majority. Dolev and Strong in 1983 showed an early possibility for up to 99% adversaries. Yet, other works show impossibility results for adversaries above 50% under synchrony, seemingly the same setting as Dolev and Strong's. What gives? It is high time that we pinpoint a key culprit for this ostensible contradiction: the modeling details of clients. Are the clients sleepy or always-on? Are they silent or communicating? Can validators be sleepy too? We systematize models for consensus across four dimensions (sleepy/always-on clients, silent/communicating clients, sleepy/always-on validators, and synchrony/partial-synchrony), some of which are new, and tightly characterize the achievable safety and liveness resiliences with matching possibilities and impossibilities for each of the sixteen models. To this end, we unify folklore and earlier results, and fill gaps left in the literature with new protocols and impossibility theorems.
+
+---
+
+## Article 102
+### Title@2025-05-24 (6): Recursive Offloading for LLM Serving in Multi-tier Networks
+**Title**: Recursive Offloading for LLM Serving in Multi-tier Networks | Rekursives Offloading für LLM-Serving in Multi-Tier-Netzwerken | 多层网络LLM服务的递归性卸载 [2505.16502v2](http://arxiv.org/abs/2505.16502v2)
+
+**Authors**: Zhiyuan Wu, Sheng Sun, Yuwei Wang, Min Liu, Bo Gao, Jinda Lu, Zheming Yang, Tian Wen
+
+Heterogeneous device-edge-cloud computing infrastructures have become widely adopted in telecommunication operators and Wide Area Networks (WANs), offering multi-tier computational support for emerging intelligent services. With the rapid proliferation of Large Language Model (LLM) services, efficiently coordinating inference tasks and reducing communication overhead within these multi-tier network architectures becomes a critical deployment challenge. Existing LLM serving paradigms exhibit significant limitations: on-device deployment supports only lightweight LLMs due to hardware constraints, while cloud-centric deployment suffers from resource congestion and considerable prompt communication overhead caused by frequent service requests during peak periods. Although the model-cascading-based inference strategy adapts better to multi-tier networks, its reliance on fine-grained, manually adjusted thresholds makes it less responsive to dynamic network conditions and varying task complexities. To address these challenges, we propose RecServe, a recursive offloading framework tailored for LLM serving in multi-tier networks. RecServe integrates a task-specific hierarchical confidence evaluation mechanism that guides offloading decisions based on inferred task complexity in progressively scaled LLMs across device, edge, and cloud tiers. To further enable intelligent task routing across tiers, RecServe employs a sliding-window-based dynamic offloading strategy with quantile interpolation, enabling real-time tracking of historical confidence distributions and adaptive offloading threshold adjustments. Experiments on eight datasets demonstrate that RecServe outperforms CasServe in both service quality and communication efficiency, and reduces the communication burden by over 50\% compared to centralized cloud-based serving.
 
 ---
 
