@@ -1,10 +1,10 @@
 ---
-title: cs.MA @ 2025-06-01
+title: "cs.MA @ 2025-06-01: 092"
 date: 2025-06-01
 layout: post
 ---
 
-- [00](#article-0) | 05-29 | ROTATE: Regret-driven Open-ended Training for Ad Hoc Teamwork | ROTATE: Bedauern-getriebenes Open-End-Training für Ad-Hoc-Teamwork | 对特设团队工作不限成员名额培训的遗憾驱动的不限名额培训 | [2505.23686v1](http://arxiv.org/abs/2505.23686v1)
+- [00](#article-0) | **05-29 (4)** | ROTATE: Regret-driven Open-ended Training for Ad Hoc Teamwork | ROTATE: Bedauern-getriebenes Open-End-Training für Ad-Hoc-Teamwork | 对特设团队工作不限成员名额培训的遗憾驱动的不限名额培训 | [2505.23686v1](http://arxiv.org/abs/2505.23686v1)
 - [01](#article-1) | 05-29 | Collaborative Last-Mile Delivery: A Multi-Platform Vehicle Routing   Problem With En-route Charging | Collaborative Last-Mile Lieferung: Ein Multi-Platform Fahrzeug Routing Problem mit en-route Laden | 合作性最后一式交付:多平台车辆运行问题与连路充电 | [2505.23584v1](http://arxiv.org/abs/2505.23584v1)
 - [02](#article-2) | 05-29 | MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without   Predefined SOPs | MegaAgent: Ein autonomes LLM-basiertes Multi-Agent-System ohne vordefinierte SOPs | 大型机构:一个以大型自治LLM为基础的没有预先界定的SOP的多机构系统 | [2408.09955v3](http://arxiv.org/abs/2408.09955v3)
 - [03](#article-3) | 05-29 | Agentic Knowledgeable Self-awareness | Agentisch sachkundiges Selbstbewußtsein | A. 动态知识自觉意识 | [2504.03553v2](http://arxiv.org/abs/2504.03553v2)
@@ -17,7 +17,7 @@ layout: post
 - [10](#article-10) | 05-29 | MedRAX: Medical Reasoning Agent for Chest X-ray | MedRAX: Medizinischer Reasoning Agent für Bruströntgen | MedraX: 胸前X光医疗理疗代理 | [2502.02673v2](http://arxiv.org/abs/2502.02673v2)
 - [11](#article-11) | 05-29 | Learning Recommender Mechanisms for Bayesian Stochastic Games | Lern-Empfänger-Mechanismen für Bayesian Stochastic Games | 贝耶斯沙沙运动会学习建议机制 | [2505.22979v1](http://arxiv.org/abs/2505.22979v1)
 - [12](#article-12) | 05-29 | MermaidFlow: Redefining Agentic Workflow Generation via   Safety-Constrained Evolutionary Programming | MermaidFlow: Neudefinition der agentischen Workflow-Generierung durch sicherheitsbeschränkte evolutionäre Programmierung | 美人鱼:通过受安全限制的进化方案拟订,重新确定干燥性工作流的产生 | [2505.22967v1](http://arxiv.org/abs/2505.22967v1)
-- [13](#article-13) | 05-28 | A Large Language Model-Enabled Control Architecture for Dynamic Resource   Capability Exploration in Multi-Agent Manufacturing Systems | Eine großsprachige modellfähige Steuerungsarchitektur für dynamische Ressourcenkapazitäts-Exploration in Multi-Agent-Produktionssystemen | 多机构制造系统动态资源能力探索大语言模型化控制结构 | [2505.22814v1](http://arxiv.org/abs/2505.22814v1)
+- [13](#article-13) | **05-28 (3)** | A Large Language Model-Enabled Control Architecture for Dynamic Resource   Capability Exploration in Multi-Agent Manufacturing Systems | Eine großsprachige modellfähige Steuerungsarchitektur für dynamische Ressourcenkapazitäts-Exploration in Multi-Agent-Produktionssystemen | 多机构制造系统动态资源能力探索大语言模型化控制结构 | [2505.22814v1](http://arxiv.org/abs/2505.22814v1)
 - [14](#article-14) | 05-28 | Dynamic Task Adaptation for Multi-Robot Manufacturing Systems with Large   Language Models | Dynamische Aufgabenanpassung für Multi-Roboter-Produktionssysteme mit großen Sprachmodellen | 具有大语言模型的多机器人制造系统动态任务适应 | [2505.22804v1](http://arxiv.org/abs/2505.22804v1)
 - [15](#article-15) | 05-28 | Enhancing Lifelong Multi-Agent Path-finding by Using Artificial   Potential Fields | Verbesserung der lebensbegleitenden multi-agenten Path-Finding durch den Einsatz künstlicher Potenzialfelder | 利用人造潜在潜力领域加强终身多机构探索 | [2505.22753v1](http://arxiv.org/abs/2505.22753v1)
 - [16](#article-16) | 05-28 | A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized   Authentication and Fine-Grained Access Control | Ein neuartiges Null-Vertrauens-Identitäts-Framework für Agentische KI: Dezentrale Authentisierung und feinkörnige Zugriffskontrolle | AI:分散认证和精密访问控制 | [2505.19301v2](http://arxiv.org/abs/2505.19301v2)
@@ -38,7 +38,7 @@ layout: post
 - [31](#article-31) | 05-28 | Properties of zero-determinant strategies in multichannel games | Eigenschaften von Zero-Determinant-Strategien in Multichannel-Spielen | 多频道游戏零决定策略属性 | [2505.21952v1](http://arxiv.org/abs/2505.21952v1)
 - [32](#article-32) | 05-28 | Co-Saving: Resource Aware Multi-Agent Collaboration for Software   Development | Co-Saving: Ressourcenschonende Multi-Agenten-Kollaboration für Software-Entwicklung | 共同节省:为开发软件进行有意识的资源、多机构协作 | [2505.21898v1](http://arxiv.org/abs/2505.21898v1)
 - [33](#article-33) | 05-28 | Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation | Einschließlich LLMs für großräumige Urban Complex Mobility Simulation | 大型城市综合流动模拟项目LLMs | [2505.21880v1](http://arxiv.org/abs/2505.21880v1)
-- [34](#article-34) | 05-27 | Optimal Output Feedback Learning Control for Discrete-Time Linear   Quadratic Regulation | Optimale Output-Feedback-Lernsteuerung für diskrete Zeit lineare quadratische Regulierung | 用于分立时线性二次曲线调控的最佳输出反馈学习控制 | [2503.06226v3](http://arxiv.org/abs/2503.06226v3)
+- [34](#article-34) | **05-27 (2)** | Optimal Output Feedback Learning Control for Discrete-Time Linear   Quadratic Regulation | Optimale Output-Feedback-Lernsteuerung für diskrete Zeit lineare quadratische Regulierung | 用于分立时线性二次曲线调控的最佳输出反馈学习控制 | [2503.06226v3](http://arxiv.org/abs/2503.06226v3)
 - [35](#article-35) | 05-27 | Empowering Scientific Workflows with Federated Agents | Stärkung wissenschaftlicher Workflows mit Federated Agents | 赋予联邦药剂部门科学工作流程权能 | [2505.05428v2](http://arxiv.org/abs/2505.05428v2)
 - [36](#article-36) | 05-27 | AI-Supported Platform for System Monitoring and Decision-Making in   Nuclear Waste Management with Large Language Models | AI-unterstützte Plattform für Systemüberwachung und Entscheidungsfindung in der Entsorgung nuklearer Abfälle mit großen Sprachmodellen | AI-支持的具有大语言模式的核废物管理系统监测和决策平台 | [2505.21741v1](http://arxiv.org/abs/2505.21741v1)
 - [37](#article-37) | 05-27 | Communication- and Computation-Efficient Distributed Submodular   Optimization in Robot Mesh Networks | Kommunikation- und Computation-Effizient verteilte Submodulare Optimierung in Robot Mesh-Netzwerken | 机器人网网中的通信和计算-有效分布式子模块优化 | [2407.10382v3](http://arxiv.org/abs/2407.10382v3)
@@ -61,7 +61,7 @@ layout: post
 - [54](#article-54) | 05-27 | Many Heads Are Better Than One: Improved Scientific Idea Generation by A   LLM-Based Multi-Agent System | Viele Köpfe sind besser als eins: Verbesserte wissenschaftliche Idee-Generation durch ein LLM-basiertes Multi-Agent-System | 许多领导人比一个领导人好得多:由以LLM为基础的多种机构系统改进科学思想的一代 | [2410.09403v4](http://arxiv.org/abs/2410.09403v4)
 - [55](#article-55) | 05-27 | ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement   Learning | ReMA: Meta-Denken lernen für LLMs mit Multi-Agenten-Verstärkungs-Lernen | ReMA:学习多机构强化学习的LLMLM的元思维 | [2503.09501v3](http://arxiv.org/abs/2503.09501v3)
 - [56](#article-56) | 05-27 | JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes | JaxRobotarium: Schulung und Einsatz von Multi-Roboter-Politik in 10 Minuten | JaxRobotior:10分钟内培训和部署多机器人政策 | [2505.06771v2](http://arxiv.org/abs/2505.06771v2)
-- [57](#article-57) | 05-26 | xChemAgents: Agentic AI for Explainable Quantum Chemistry | xChemAgenten: Agentische KI für erklärbare Quantenchemie | xchemAgents: 可解释量子化学的AAA剂 | [2505.20574v1](http://arxiv.org/abs/2505.20574v1)
+- [57](#article-57) | **05-26 (1)** | xChemAgents: Agentic AI for Explainable Quantum Chemistry | xChemAgenten: Agentische KI für erklärbare Quantenchemie | xchemAgents: 可解释量子化学的AAA剂 | [2505.20574v1](http://arxiv.org/abs/2505.20574v1)
 - [58](#article-58) | 05-26 | Streamlining Resilient Kubernetes Autoscaling with Multi-Agent Systems   via an Automated Online Design Framework | Straffung des Resilients Kubernetes Autoscaling mit Multi-Agent Systemen über ein automatisiertes Online-Design-Framework | 通过自动在线设计框架与多机构系统自动调整 | [2505.21559v1](http://arxiv.org/abs/2505.21559v1)
 - [59](#article-59) | 05-26 | Reconceptualizing Smart Microscopy: From Data Collection to Knowledge   Creation by Multi-Agent Integration | Intelligente Mikroskopie neu konzipieren: Von der Datenerhebung zur Wissenserstellung durch Multi-Agent-Integration | 重新概念化智能微镜:从数据收集到通过多机构整合创造知识 | [2505.20466v1](http://arxiv.org/abs/2505.20466v1)
 - [60](#article-60) | 05-26 | Sable: a Performant, Efficient and Scalable Sequence Model for MARL | Sable: ein leistungsfähiges, effizientes und skalierbares Sequenzmodell für MARL | 电缆:MARL的性能、高效和可缩放序列模型 | [2410.01706v5](http://arxiv.org/abs/2410.01706v5)
@@ -75,7 +75,7 @@ layout: post
 - [68](#article-68) | 05-26 | DoctorRAG: Medical RAG Fusing Knowledge with Patient Analogy through   Textual Gradients | DoctorRAG: Medizinische RAG Durch Textabstufungen Wissen mit Patient Analogie fusionieren | 医生RAG:通过文字梯度将医学RAG知识与病人分析知识与病人分析相融合 | [2505.19538v1](http://arxiv.org/abs/2505.19538v1)
 - [69](#article-69) | 05-26 | VLMLight: Traffic Signal Control via Vision-Language Meta-Control and   Dual-Branch Reasoning | VLMLight: Verkehrssignalsteuerung über Vision-Language Meta-Control und Dual-Branch-Reasoning | VLMLight:通过视觉语言、超控制和双层理由解释控制交通信号控制 | [2505.19486v1](http://arxiv.org/abs/2505.19486v1)
 - [70](#article-70) | 05-26 | Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive   Decisions of LLMs | Gewinnen Sie schnell oder verlieren Sie langsam: Ausgleichende Geschwindigkeit und Genauigkeit in Latenz-Sensitive Entscheidungen von LLMs | 慢赢或慢输:LLMs的延缓敏感决定中平衡速度和准确性 | [2505.19481v1](http://arxiv.org/abs/2505.19481v1)
-- [71](#article-71) | 05-25 | Making Teams and Influencing Agents: Efficiently Coordinating Decision   Trees for Interpretable Multi-Agent Reinforcement Learning | Teambildung und Beeinflussung von Agenten: Entscheidungsbäume effizient koordinieren für interpretierbares Mehr-Agenten-Verstärkungs-Lernen | 建立团队和对代理人产生影响的代理:高效协调可解释的多机构强化学习决策树 | [2505.19316v1](http://arxiv.org/abs/2505.19316v1)
+- [71](#article-71) | **05-25 (7)** | Making Teams and Influencing Agents: Efficiently Coordinating Decision   Trees for Interpretable Multi-Agent Reinforcement Learning | Teambildung und Beeinflussung von Agenten: Entscheidungsbäume effizient koordinieren für interpretierbares Mehr-Agenten-Verstärkungs-Lernen | 建立团队和对代理人产生影响的代理:高效协调可解释的多机构强化学习决策树 | [2505.19316v1](http://arxiv.org/abs/2505.19316v1)
 - [72](#article-72) | 05-25 | Agentic Information Theory: Ergodicity and Intrinsic Semantics of   Information Processes | Agentische Informationstheorie: Ergodikität und Intrinsische Semantik von Informationsprozessen | 代理信息理论:信息过程的分化和内在的语义 | [2505.19275v1](http://arxiv.org/abs/2505.19275v1)
 - [73](#article-73) | 05-25 | GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal   Graph Modeling | GUARDIAN: LLM-Multiagent-Kollaborationen mit zeitlicher Graphenmodellierung sichern | GUARDIAN: 保护LLM 多机构协作与时间图建模 | [2505.19234v1](http://arxiv.org/abs/2505.19234v1)
 - [74](#article-74) | 05-25 | Where Paths Collide: A Comprehensive Survey of Classic and   Learning-Based Multi-Agent Pathfinding | Where Paths Collide: Eine umfassende Untersuchung der klassischen und lernbasierten multi-agenten Pathfinding | 路径相撞之处:对经典和以学习为基础的多方代理调查的全面调查 | [2505.19219v1](http://arxiv.org/abs/2505.19219v1)
@@ -84,7 +84,7 @@ layout: post
 - [77](#article-77) | 05-25 | Adversarial Bandit over Bandits: Hierarchical Bandits for Online   Configuration Management | Adversarial Bandit über Bandits: Hierarchische Bandits für Online-Konfigurationsmanagement | 反强盗强盗: 用于在线配置管理的等级强盗 | [2505.19061v1](http://arxiv.org/abs/2505.19061v1)
 - [78](#article-78) | 05-25 | Adaptive Inference through Bayesian and Inverse Bayesian Inference with   Symmetry-Bias in Nonstationary Environments | Adaptive Schlussfolgerung durch Bayesische und Inverse Bayesische Schlussfolgerung mit Symmetrie-Bias in nichtstationären Umgebungen | 在非静止环境中,通过贝耶斯和反贝耶斯和反贝耶斯的同对称-比亚推理,进行适应性推理 | [2505.12796v3](http://arxiv.org/abs/2505.12796v3)
 - [79](#article-79) | 05-25 | SANNet: A Semantic-Aware Agentic AI Networking Framework for Multi-Agent   Cross-Layer Coordination | SANNet: Ein Semantic-Aware Agentic AI Networking Framework für die multi-agente Cross-Layer-Koordination | SANNet: 多代理人跨行业协调的语义学-敏感物义学AI联网框架 | [2505.18946v1](http://arxiv.org/abs/2505.18946v1)
-- [80](#article-80) | 05-24 | Distributed Set-membership Filtering Frameworks For Multi-agent Systems   With Absolute and Relative Measurements | Distributed Set-Membership Filtering Frameworks für Multi-Agent-Systeme mit absoluten und relativen Messungen | 具有绝对和相对计量的多试剂系统分布式成员筛选框架 | [2305.15797v2](http://arxiv.org/abs/2305.15797v2)
+- [80](#article-80) | **05-24 (6)** | Distributed Set-membership Filtering Frameworks For Multi-agent Systems   With Absolute and Relative Measurements | Distributed Set-Membership Filtering Frameworks für Multi-Agent-Systeme mit absoluten und relativen Messungen | 具有绝对和相对计量的多试剂系统分布式成员筛选框架 | [2305.15797v2](http://arxiv.org/abs/2305.15797v2)
 - [81](#article-81) | 05-24 | Coordinated guidance and control for multiple parafoil system landing | Koordinierte Führung und Steuerung für die Landung mehrerer Parafoil-Systeme | 协调制导和管制多个抛油系统着陆的协调制导和控制 | [2505.18691v1](http://arxiv.org/abs/2505.18691v1)
 - [82](#article-82) | 05-24 | Augmenting the action space with conventions to improve multi-agent   cooperation in Hanabi | Erweiterung des Aktionsraums mit Konventionen zur Verbesserung der Multi-Agenten-Kooperation in Hanabi | 与公约扩大行动空间,以改进哈纳比多剂合作 | [2412.06333v3](http://arxiv.org/abs/2412.06333v3)
 - [83](#article-83) | 05-24 | DDO: Dual-Decision Optimization via Multi-Agent Collaboration for   LLM-Based Medical Consultation | DDO: Dual-Decision-Optimierung durch Multi-Agent-Kollaboration für LLM-basierte medizinische Beratung | DDO:通过多方机构协作,优化基于LLM的医疗咨询的双重决定 | [2505.18630v1](http://arxiv.org/abs/2505.18630v1)
@@ -98,7 +98,7 @@ layout: post
 - [91](#article-91) | 05-24 | Finite-Time Global Optimality Convergence in Deep Neural Actor-Critic   Methods for Decentralized Multi-Agent Reinforcement Learning | Finite-Time Global Optimality Convergence in Deep Neural Actor-Critic Methoden für dezentralisiertes Mehr-Agenten-Verstärkungs-Lernen | 分散式多机构强化学习的深神经立体-集中式多机构强化学习方法中全球最佳程度趋同 | [2505.18433v1](http://arxiv.org/abs/2505.18433v1)
 
 ## Article 0
-### Title@2025-05-29: ROTATE: Regret-driven Open-ended Training for Ad Hoc Teamwork
+### Title@2025-05-29 (4): ROTATE: Regret-driven Open-ended Training for Ad Hoc Teamwork
 **Title**: ROTATE: Regret-driven Open-ended Training for Ad Hoc Teamwork | ROTATE: Bedauern-getriebenes Open-End-Training für Ad-Hoc-Teamwork | 对特设团队工作不限成员名额培训的遗憾驱动的不限名额培训 [2505.23686v1](http://arxiv.org/abs/2505.23686v1)
 
 **Authors**: Caroline Wang, Arrasy Rahman, Jiaxun Cui, Yoonchang Sung, Peter Stone
@@ -108,7 +108,7 @@ Developing AI agents capable of collaborating with previously unseen partners is
 ---
 
 ## Article 1
-### Title@2025-05-29: Collaborative Last-Mile Delivery: A Multi-Platform Vehicle Routing   Problem With En-route Charging
+### Title@2025-05-29 (4): Collaborative Last-Mile Delivery: A Multi-Platform Vehicle Routing   Problem With En-route Charging
 **Title**: Collaborative Last-Mile Delivery: A Multi-Platform Vehicle Routing   Problem With En-route Charging | Collaborative Last-Mile Lieferung: Ein Multi-Platform Fahrzeug Routing Problem mit en-route Laden | 合作性最后一式交付:多平台车辆运行问题与连路充电 [2505.23584v1](http://arxiv.org/abs/2505.23584v1)
 
 **Authors**: Sumbal Malik, Majid Khonji, Khaled Elbassioni, Jorge Dias
@@ -118,7 +118,7 @@ The rapid growth of e-commerce and the increasing demand for timely, cost-effect
 ---
 
 ## Article 2
-### Title@2025-05-29: MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without   Predefined SOPs
+### Title@2025-05-29 (4): MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without   Predefined SOPs
 **Title**: MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without   Predefined SOPs | MegaAgent: Ein autonomes LLM-basiertes Multi-Agent-System ohne vordefinierte SOPs | 大型机构:一个以大型自治LLM为基础的没有预先界定的SOP的多机构系统 [2408.09955v3](http://arxiv.org/abs/2408.09955v3)
 
 **Authors**: Qian Wang, Tianyu Wang, Zhenheng Tang, Qinbin Li, Nuo Chen, Jingsheng Liang, Bingsheng He
@@ -128,7 +128,7 @@ LLM-based multi-agent systems (MAS) have shown promise in tackling complex tasks
 ---
 
 ## Article 3
-### Title@2025-05-29: Agentic Knowledgeable Self-awareness
+### Title@2025-05-29 (4): Agentic Knowledgeable Self-awareness
 **Title**: Agentic Knowledgeable Self-awareness | Agentisch sachkundiges Selbstbewußtsein | A. 动态知识自觉意识 [2504.03553v2](http://arxiv.org/abs/2504.03553v2)
 
 **Authors**: Shuofei Qiao, Zhisong Qiu, Baochang Ren, Xiaobin Wang, Xiangyuan Ru, Ningyu Zhang, Xiang Chen, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen
@@ -138,7 +138,7 @@ Large Language Models (LLMs) have achieved considerable performance across vario
 ---
 
 ## Article 4
-### Title@2025-05-29: The challenge of hidden gifts in multi-agent reinforcement learning
+### Title@2025-05-29 (4): The challenge of hidden gifts in multi-agent reinforcement learning
 **Title**: The challenge of hidden gifts in multi-agent reinforcement learning | Die Herausforderung der versteckten Gaben in Multi-Agenten-Verstärkung Lernen | 多试剂强化学习中隐藏礼品的挑战 [2505.20579v2](http://arxiv.org/abs/2505.20579v2)
 
 **Authors**: Dane Malenfant, Blake A. Richards
@@ -148,7 +148,7 @@ Sometimes we benefit from actions that others have taken even when we are unawar
 ---
 
 ## Article 5
-### Title@2025-05-29: Understanding the Information Propagation Effects of Communication   Topologies in LLM-based Multi-Agent Systems
+### Title@2025-05-29 (4): Understanding the Information Propagation Effects of Communication   Topologies in LLM-based Multi-Agent Systems
 **Title**: Understanding the Information Propagation Effects of Communication   Topologies in LLM-based Multi-Agent Systems | Verständnis der Informationsverbreitungseffekte von Kommunikationstopologien in LLM-basierten Multi-Agent-Systemen | 了解基于LLOM的多机构机构系统中的通信地形对信息传播的影响 [2505.23352v1](http://arxiv.org/abs/2505.23352v1)
 
 **Authors**: Xu Shen, Yixin Liu, Yiwei Dai, Yili Wang, Rui Miao, Yue Tan, Shirui Pan, Xin Wang
@@ -158,7 +158,7 @@ The communication topology in large language model-based multi-agent systems fun
 ---
 
 ## Article 6
-### Title@2025-05-29: Emergent social conventions and collective bias in LLM populations
+### Title@2025-05-29 (4): Emergent social conventions and collective bias in LLM populations
 **Title**: Emergent social conventions and collective bias in LLM populations | Emergente soziale Konventionen und kollektive Voreingenommenheit in LLM-Populationen | 新出现的社会习俗和LLM人口的集体偏见 [2410.08948v2](http://arxiv.org/abs/2410.08948v2)
 
 **Authors**: Ariel Flint Ashery, Luca Maria Aiello, Andrea Baronchelli
@@ -168,7 +168,7 @@ Social conventions are the backbone of social coordination, shaping how individu
 ---
 
 ## Article 7
-### Title@2025-05-29: Language Agents with Reinforcement Learning for Strategic Play in the   Werewolf Game
+### Title@2025-05-29 (4): Language Agents with Reinforcement Learning for Strategic Play in the   Werewolf Game
 **Title**: Language Agents with Reinforcement Learning for Strategic Play in the   Werewolf Game | Sprachagenten mit Verstärkung Lernen für strategisches Spiel im Werwolf Spiel | 在狼人游戏中进行战略游戏强化学习的语文代理 [2310.18940v4](http://arxiv.org/abs/2310.18940v4)
 
 **Authors**: Zelai Xu, Chao Yu, Fei Fang, Yu Wang, Yi Wu
@@ -178,7 +178,7 @@ Agents built with large language models (LLMs) have shown great potential across
 ---
 
 ## Article 8
-### Title@2025-05-29: Cross-Task Experiential Learning on LLM-based Multi-Agent Collaboration
+### Title@2025-05-29 (4): Cross-Task Experiential Learning on LLM-based Multi-Agent Collaboration
 **Title**: Cross-Task Experiential Learning on LLM-based Multi-Agent Collaboration | Erfahrungsübergreifendes Lernen auf LLM-basierter Multi-Agent-Kollaboration | 关于基于LLM的多机构合作的跨任务跨任务经验学习 [2505.23187v1](http://arxiv.org/abs/2505.23187v1)
 
 **Authors**: Yilong Li, Chen Qian, Yu Xia, Ruijie Shi, Yufan Dang, Zihao Xie, Ziming You, Weize Chen, Cheng Yang, Weichuan Liu, Ye Tian, Xuantang Xiong, Lei Han, Zhiyuan Liu, Maosong Sun
@@ -188,7 +188,7 @@ Large Language Model-based multi-agent systems (MAS) have shown remarkable progr
 ---
 
 ## Article 9
-### Title@2025-05-29: Topological Structure Learning Should Be A Research Priority for   LLM-Based Multi-Agent Systems
+### Title@2025-05-29 (4): Topological Structure Learning Should Be A Research Priority for   LLM-Based Multi-Agent Systems
 **Title**: Topological Structure Learning Should Be A Research Priority for   LLM-Based Multi-Agent Systems | Topologisches Strukturlernen sollte eine Forschungspriorität für LLM-basierte Multi-Agent-Systeme sein | 地形结构学习应成为以LLM为基础的多种机构系统的研究重点 [2505.22467v2](http://arxiv.org/abs/2505.22467v2)
 
 **Authors**: Jiaxi Yang, Mengqi Zhang, Yiqiao Jin, Hao Chen, Qingsong Wen, Lu Lin, Yi He, Weijie Xu, James Evans, Jindong Wang
@@ -198,7 +198,7 @@ Large Language Model-based Multi-Agent Systems (MASs) have emerged as a powerful
 ---
 
 ## Article 10
-### Title@2025-05-29: MedRAX: Medical Reasoning Agent for Chest X-ray
+### Title@2025-05-29 (4): MedRAX: Medical Reasoning Agent for Chest X-ray
 **Title**: MedRAX: Medical Reasoning Agent for Chest X-ray | MedRAX: Medizinischer Reasoning Agent für Bruströntgen | MedraX: 胸前X光医疗理疗代理 [2502.02673v2](http://arxiv.org/abs/2502.02673v2)
 
 **Authors**: Adibvafa Fallahpour, Jun Ma, Alif Munim, Hongwei Lyu, Bo Wang
@@ -208,7 +208,7 @@ Chest X-rays (CXRs) play an integral role in driving critical decisions in disea
 ---
 
 ## Article 11
-### Title@2025-05-29: Learning Recommender Mechanisms for Bayesian Stochastic Games
+### Title@2025-05-29 (4): Learning Recommender Mechanisms for Bayesian Stochastic Games
 **Title**: Learning Recommender Mechanisms for Bayesian Stochastic Games | Lern-Empfänger-Mechanismen für Bayesian Stochastic Games | 贝耶斯沙沙运动会学习建议机制 [2505.22979v1](http://arxiv.org/abs/2505.22979v1)
 
 **Authors**: Bengisu Guresti, Chongjie Zhang, Yevgeniy Vorobeychik
@@ -218,7 +218,7 @@ An important challenge in non-cooperative game theory is coordinating on a singl
 ---
 
 ## Article 12
-### Title@2025-05-29: MermaidFlow: Redefining Agentic Workflow Generation via   Safety-Constrained Evolutionary Programming
+### Title@2025-05-29 (4): MermaidFlow: Redefining Agentic Workflow Generation via   Safety-Constrained Evolutionary Programming
 **Title**: MermaidFlow: Redefining Agentic Workflow Generation via   Safety-Constrained Evolutionary Programming | MermaidFlow: Neudefinition der agentischen Workflow-Generierung durch sicherheitsbeschränkte evolutionäre Programmierung | 美人鱼:通过受安全限制的进化方案拟订,重新确定干燥性工作流的产生 [2505.22967v1](http://arxiv.org/abs/2505.22967v1)
 
 **Authors**: Chengqi Zheng, Jianda Chen, Yueming Lyu, Wen Zheng Terence Ng, Haopeng Zhang, Yew-Soon Ong, Ivor Tsang, Haiyan Yin
@@ -228,7 +228,7 @@ Despite the promise of autonomous agentic reasoning, existing workflow generatio
 ---
 
 ## Article 13
-### Title@2025-05-28: A Large Language Model-Enabled Control Architecture for Dynamic Resource   Capability Exploration in Multi-Agent Manufacturing Systems
+### Title@2025-05-28 (3): A Large Language Model-Enabled Control Architecture for Dynamic Resource   Capability Exploration in Multi-Agent Manufacturing Systems
 **Title**: A Large Language Model-Enabled Control Architecture for Dynamic Resource   Capability Exploration in Multi-Agent Manufacturing Systems | Eine großsprachige modellfähige Steuerungsarchitektur für dynamische Ressourcenkapazitäts-Exploration in Multi-Agent-Produktionssystemen | 多机构制造系统动态资源能力探索大语言模型化控制结构 [2505.22814v1](http://arxiv.org/abs/2505.22814v1)
 
 **Authors**: Jonghan Lim, Ilya Kovalenko
@@ -238,7 +238,7 @@ Manufacturing environments are becoming more complex and unpredictable due to fa
 ---
 
 ## Article 14
-### Title@2025-05-28: Dynamic Task Adaptation for Multi-Robot Manufacturing Systems with Large   Language Models
+### Title@2025-05-28 (3): Dynamic Task Adaptation for Multi-Robot Manufacturing Systems with Large   Language Models
 **Title**: Dynamic Task Adaptation for Multi-Robot Manufacturing Systems with Large   Language Models | Dynamische Aufgabenanpassung für Multi-Roboter-Produktionssysteme mit großen Sprachmodellen | 具有大语言模型的多机器人制造系统动态任务适应 [2505.22804v1](http://arxiv.org/abs/2505.22804v1)
 
 **Authors**: Jonghan Lim, Ilya Kovalenko
@@ -248,7 +248,7 @@ Recent manufacturing systems are increasingly adopting multi-robot collaboration
 ---
 
 ## Article 15
-### Title@2025-05-28: Enhancing Lifelong Multi-Agent Path-finding by Using Artificial   Potential Fields
+### Title@2025-05-28 (3): Enhancing Lifelong Multi-Agent Path-finding by Using Artificial   Potential Fields
 **Title**: Enhancing Lifelong Multi-Agent Path-finding by Using Artificial   Potential Fields | Verbesserung der lebensbegleitenden multi-agenten Path-Finding durch den Einsatz künstlicher Potenzialfelder | 利用人造潜在潜力领域加强终身多机构探索 [2505.22753v1](http://arxiv.org/abs/2505.22753v1)
 
 **Authors**: Arseniy Pertzovsky, Roni Stern, Ariel Felner, Roie Zivan
@@ -258,7 +258,7 @@ We explore the use of Artificial Potential Fields (APFs) to solve Multi-Agent Pa
 ---
 
 ## Article 16
-### Title@2025-05-28: A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized   Authentication and Fine-Grained Access Control
+### Title@2025-05-28 (3): A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized   Authentication and Fine-Grained Access Control
 **Title**: A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized   Authentication and Fine-Grained Access Control | Ein neuartiges Null-Vertrauens-Identitäts-Framework für Agentische KI: Dezentrale Authentisierung und feinkörnige Zugriffskontrolle | AI:分散认证和精密访问控制 [2505.19301v2](http://arxiv.org/abs/2505.19301v2)
 
 **Authors**: Ken Huang, Vineeth Sai Narajala, John Yeoh, Jason Ross, Ramesh Raskar, Youssef Harkati, Jerry Huang, Idan Habler, Chris Hughes
@@ -268,7 +268,7 @@ Traditional Identity and Access Management (IAM) systems, primarily designed for
 ---
 
 ## Article 17
-### Title@2025-05-28: HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined   in HDDL with OpenAI Gym
+### Title@2025-05-28 (3): HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined   in HDDL with OpenAI Gym
 **Title**: HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined   in HDDL with OpenAI Gym | HDDLGym: Ein Tool zum Studieren multi-agenter Hierarchischer Probleme, definiert in HDDL mit OpenAI Gym | HDDLGym: 与 OpenAI Gym 一起研究在HDDL 中界定的多代理等级问题的工具 [2505.22597v1](http://arxiv.org/abs/2505.22597v1)
 
 **Authors**: Ngoc La, Ruaridh Mon-Williams, Julie A. Shah
@@ -278,7 +278,7 @@ In recent years, reinforcement learning (RL) methods have been widely tested usi
 ---
 
 ## Article 18
-### Title@2025-05-28: SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge   Refinement
+### Title@2025-05-28 (3): SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge   Refinement
 **Title**: SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge   Refinement | SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement | Synworld: 用于改进制剂行动知识的虚拟情景合成 [2504.03561v2](http://arxiv.org/abs/2504.03561v2)
 
 **Authors**: Runnan Fang, Xiaobin Wang, Yuan Liang, Shuofei Qiao, Jialong Wu, Zekun Xi, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen
@@ -288,7 +288,7 @@ In the interaction between agents and their environments, agents expand their ca
 ---
 
 ## Article 19
-### Title@2025-05-28: From Strangers to Assistants: Fast Desire Alignment for Embodied   Agent-User Adaptation
+### Title@2025-05-28 (3): From Strangers to Assistants: Fast Desire Alignment for Embodied   Agent-User Adaptation
 **Title**: From Strangers to Assistants: Fast Desire Alignment for Embodied   Agent-User Adaptation | Von Fremdlingen zu Assistenten: Schnelles Wunsch-Ausrichtung für eingedickte Agent-User-Anpassung | 从陌生人到助理:对装装配剂用户适应的快速理想调整 [2505.22503v1](http://arxiv.org/abs/2505.22503v1)
 
 **Authors**: Yuanfei Wang, Xinju Huang, Fangwei Zhong, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong
@@ -298,7 +298,7 @@ While embodied agents have made significant progress in performing complex physi
 ---
 
 ## Article 20
-### Title@2025-05-28: OptiMindTune: A Multi-Agent Framework for Intelligent Hyperparameter   Optimization
+### Title@2025-05-28 (3): OptiMindTune: A Multi-Agent Framework for Intelligent Hyperparameter   Optimization
 **Title**: OptiMindTune: A Multi-Agent Framework for Intelligent Hyperparameter   Optimization | OptiMindTune: Multi-Agenten-Framework für intelligente Hyperparameter-Optimierung | OptiMindTunne: 智能超参数优化的多机构框架 [2505.19205v2](http://arxiv.org/abs/2505.19205v2)
 
 **Authors**: Meher Bhaskar Madiraju, Meher Sai Preetam Madiraju
@@ -308,7 +308,7 @@ Hyperparameter optimization (HPO) is a critical yet challenging aspect of machin
 ---
 
 ## Article 21
-### Title@2025-05-28: The Complexity of Pure Strategy Relevant Equilibria in Concurrent Games
+### Title@2025-05-28 (3): The Complexity of Pure Strategy Relevant Equilibria in Concurrent Games
 **Title**: The Complexity of Pure Strategy Relevant Equilibria in Concurrent Games | Die Komplexität der reinen Strategie Relevante Equilibria in Parallelspielen | 同时运动会中纯粹战略相关平衡的复杂性 [2505.07501v2](http://arxiv.org/abs/2505.07501v2)
 
 **Authors**: Purandar Bhaduri
@@ -318,7 +318,7 @@ We study rational synthesis problems for concurrent games with $\omega$-regular 
 ---
 
 ## Article 22
-### Title@2025-05-28: Voice CMS: updating the knowledge base of a digital assistant through   conversation
+### Title@2025-05-28 (3): Voice CMS: updating the knowledge base of a digital assistant through   conversation
 **Title**: Voice CMS: updating the knowledge base of a digital assistant through   conversation | Voice CMS: Aktualisierung der Wissensbasis eines digitalen Assistenten durch Konversation | 语音CMS:通过对话更新数字助理的知识库 [2505.22303v1](http://arxiv.org/abs/2505.22303v1)
 
 **Authors**: Grzegorz Wolny, Michał Szczerbak
@@ -328,7 +328,7 @@ In this study, we propose a solution based on a multi-agent LLM architecture and
 ---
 
 ## Article 23
-### Title@2025-05-28: Leveraging Dual Process Theory in Language Agent Framework for Real-time   Simultaneous Human-AI Collaboration
+### Title@2025-05-28 (3): Leveraging Dual Process Theory in Language Agent Framework for Real-time   Simultaneous Human-AI Collaboration
 **Title**: Leveraging Dual Process Theory in Language Agent Framework for Real-time   Simultaneous Human-AI Collaboration | Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration | 利用语言代理框架中的双重进程理论促进实时同时人类-AI合作 [2502.11882v5](http://arxiv.org/abs/2502.11882v5)
 
 **Authors**: Shao Zhang, Xihuai Wang, Wenhao Zhang, Chaoran Li, Junru Song, Tingyu Li, Lin Qiu, Xuezhi Cao, Xunliang Cai, Wen Yao, Weinan Zhang, Xinbing Wang, Ying Wen
@@ -338,7 +338,7 @@ Agents built on large language models (LLMs) have excelled in turn-by-turn human
 ---
 
 ## Article 24
-### Title@2025-05-28: Efficient Leave-one-out Approximation in LLM Multi-agent Debate Based on   Introspection
+### Title@2025-05-28 (3): Efficient Leave-one-out Approximation in LLM Multi-agent Debate Based on   Introspection
 **Title**: Efficient Leave-one-out Approximation in LLM Multi-agent Debate Based on   Introspection | Effiziente Ein-Aus-Annäherung in der LLM-Multiagenten-Debatte auf der Grundlage von Introspektion | 以内审为基础的多机构辩论 [2505.22192v1](http://arxiv.org/abs/2505.22192v1)
 
 **Authors**: Yue Cui, Liuyi Yao, Zitao Li, Yaliang Li, Bolin Ding, Xiaofang Zhou
@@ -348,7 +348,7 @@ Multi-agent systems based on large language models (LLMs) advance automatic task
 ---
 
 ## Article 25
-### Title@2025-05-28: Online Fair Division for Personalized $2$-Value Instances
+### Title@2025-05-28 (3): Online Fair Division for Personalized $2$-Value Instances
 **Title**: Online Fair Division for Personalized $2$-Value Instances | Online Fair Division für Personalisierte $2$-Value Instances | 个人个人价值2美元-价值实例在线网上交易会司 [2505.22174v1](http://arxiv.org/abs/2505.22174v1)
 
 **Authors**: Georgios Amanatidis, Alexandros Lolos, Evangelos Markakis, Victor Turmel
@@ -358,7 +358,7 @@ We study an online fair division setting, where goods arrive one at a time and t
 ---
 
 ## Article 26
-### Title@2025-05-28: Sentiment Simulation using Generative AI Agents
+### Title@2025-05-28 (3): Sentiment Simulation using Generative AI Agents
 **Title**: Sentiment Simulation using Generative AI Agents | Sentiment-Simulation mit generativen KI-Agenten | 使用 " 产生AI " 制剂模拟情感 [2505.22125v1](http://arxiv.org/abs/2505.22125v1)
 
 **Authors**: Melrose Tia, Jezreel Sophia Lanuzo, Lei Rigi Baltazar, Marie Joy Lopez-Relente, Diwa Malaya Quiñones, Jason Albia
@@ -368,7 +368,7 @@ Traditional sentiment analysis relies on surface-level linguistic patterns and r
 ---
 
 ## Article 27
-### Title@2025-05-28: Benchmarking LLMs' Swarm intelligence
+### Title@2025-05-28 (3): Benchmarking LLMs' Swarm intelligence
 **Title**: Benchmarking LLMs' Swarm intelligence | Benchmarking der Swarm-Intelligenz der LLM | 基准确定LLLMs的Swarm情报 [2505.04364v3](http://arxiv.org/abs/2505.04364v3)
 
 **Authors**: Kai Ruan, Mowen Huang, Ji-Rong Wen, Hao Sun
@@ -378,7 +378,7 @@ Large Language Models (LLMs) show potential for complex reasoning, yet their cap
 ---
 
 ## Article 28
-### Title@2025-05-28: AudioGenie: A Training-Free Multi-Agent Framework for Diverse   Multimodality-to-Multiaudio Generation
+### Title@2025-05-28 (3): AudioGenie: A Training-Free Multi-Agent Framework for Diverse   Multimodality-to-Multiaudio Generation
 **Title**: AudioGenie: A Training-Free Multi-Agent Framework for Diverse   Multimodality-to-Multiaudio Generation | AudioGenie: Ein trainingsfreies Multi-Agent-Framework für die vielfältige Multimodalität-zu-Multiaudio-Generierung | AudioGenie:多元化多式联运到多民族一代的无培训多机会多机会框架 [2505.22053v1](http://arxiv.org/abs/2505.22053v1)
 
 **Authors**: Yan Rong, Jinting Wang, Shan Yang, Guangzhi Lei, Li Liu
@@ -388,7 +388,7 @@ Multimodality-to-Multiaudio (MM2MA) generation faces significant challenges in s
 ---
 
 ## Article 29
-### Title@2025-05-28: Reward-Independent Messaging for Decentralized Multi-Agent Reinforcement   Learning
+### Title@2025-05-28 (3): Reward-Independent Messaging for Decentralized Multi-Agent Reinforcement   Learning
 **Title**: Reward-Independent Messaging for Decentralized Multi-Agent Reinforcement   Learning | Reward-independent Messaging für dezentralisiertes Mehr-Agenten-Verstärkungs-Lernen | 权力下放多机构加强学习分权式多机构加强学习的回报独立通信 [2505.21985v1](http://arxiv.org/abs/2505.21985v1)
 
 **Authors**: Naoto Yoshida, Tadahiro Taniguchi
@@ -398,7 +398,7 @@ In multi-agent reinforcement learning (MARL), effective communication improves a
 ---
 
 ## Article 30
-### Title@2025-05-28: Preference-CFR$\:$ Beyond Nash Equilibrium for Better Game Strategies
+### Title@2025-05-28 (3): Preference-CFR$\:$ Beyond Nash Equilibrium for Better Game Strategies
 **Title**: Preference-CFR$\:$ Beyond Nash Equilibrium for Better Game Strategies | Präferenz-CFR$\:$ Jenseits von Nash Equilibrium für bessere Spielstrategien | 普特-CFR$ =: Nash 后平衡促进更好游戏战略的美元 [2411.01217v2](http://arxiv.org/abs/2411.01217v2)
 
 **Authors**: Qi Ju, Thomas Tellier, Meng Sun, Zhemei Fang, Yunfeng Luo
@@ -408,7 +408,7 @@ Artificial intelligence (AI) has surpassed top human players in a variety of gam
 ---
 
 ## Article 31
-### Title@2025-05-28: Properties of zero-determinant strategies in multichannel games
+### Title@2025-05-28 (3): Properties of zero-determinant strategies in multichannel games
 **Title**: Properties of zero-determinant strategies in multichannel games | Eigenschaften von Zero-Determinant-Strategien in Multichannel-Spielen | 多频道游戏零决定策略属性 [2505.21952v1](http://arxiv.org/abs/2505.21952v1)
 
 **Authors**: Masahiko Ueda
@@ -418,7 +418,7 @@ Controlling payoffs in repeated games is one of the important topics in control 
 ---
 
 ## Article 32
-### Title@2025-05-28: Co-Saving: Resource Aware Multi-Agent Collaboration for Software   Development
+### Title@2025-05-28 (3): Co-Saving: Resource Aware Multi-Agent Collaboration for Software   Development
 **Title**: Co-Saving: Resource Aware Multi-Agent Collaboration for Software   Development | Co-Saving: Ressourcenschonende Multi-Agenten-Kollaboration für Software-Entwicklung | 共同节省:为开发软件进行有意识的资源、多机构协作 [2505.21898v1](http://arxiv.org/abs/2505.21898v1)
 
 **Authors**: Rennai Qiu, Chen Qian, Ran Li, Yufan Dang, Weize Chen, Cheng Yang, Yingli Zhang, Ye Tian, Xuantang Xiong, Lei Han, Zhiyuan Liu, Maosong Sun
@@ -428,7 +428,7 @@ Recent advancements in Large Language Models (LLMs) and autonomous agents have d
 ---
 
 ## Article 33
-### Title@2025-05-28: Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation
+### Title@2025-05-28 (3): Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation
 **Title**: Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation | Einschließlich LLMs für großräumige Urban Complex Mobility Simulation | 大型城市综合流动模拟项目LLMs [2505.21880v1](http://arxiv.org/abs/2505.21880v1)
 
 **Authors**: Yu-Lun Song, Chung-En Tsern, Che-Cheng Wu, Yu-Ming Chang, Syuan-Bo Huang, Wei-Chu Chen, Michael Chia-Liang Lin, Yu-Ta Lin
@@ -438,7 +438,7 @@ This study presents an innovative approach to urban mobility simulation by integ
 ---
 
 ## Article 34
-### Title@2025-05-27: Optimal Output Feedback Learning Control for Discrete-Time Linear   Quadratic Regulation
+### Title@2025-05-27 (2): Optimal Output Feedback Learning Control for Discrete-Time Linear   Quadratic Regulation
 **Title**: Optimal Output Feedback Learning Control for Discrete-Time Linear   Quadratic Regulation | Optimale Output-Feedback-Lernsteuerung für diskrete Zeit lineare quadratische Regulierung | 用于分立时线性二次曲线调控的最佳输出反馈学习控制 [2503.06226v3](http://arxiv.org/abs/2503.06226v3)
 
 **Authors**: Kedi Xie, Martin Guay, Shimin Wang, Fang Deng, Maobin Lu
@@ -448,7 +448,7 @@ This paper studies the linear quadratic regulation (LQR) problem of unknown disc
 ---
 
 ## Article 35
-### Title@2025-05-27: Empowering Scientific Workflows with Federated Agents
+### Title@2025-05-27 (2): Empowering Scientific Workflows with Federated Agents
 **Title**: Empowering Scientific Workflows with Federated Agents | Stärkung wissenschaftlicher Workflows mit Federated Agents | 赋予联邦药剂部门科学工作流程权能 [2505.05428v2](http://arxiv.org/abs/2505.05428v2)
 
 **Authors**: J. Gregory Pauloski, Yadu Babuji, Ryan Chard, Mansi Sakarvadia, Kyle Chard, Ian Foster
@@ -458,7 +458,7 @@ Agentic systems, in which diverse agents cooperate to tackle challenging problem
 ---
 
 ## Article 36
-### Title@2025-05-27: AI-Supported Platform for System Monitoring and Decision-Making in   Nuclear Waste Management with Large Language Models
+### Title@2025-05-27 (2): AI-Supported Platform for System Monitoring and Decision-Making in   Nuclear Waste Management with Large Language Models
 **Title**: AI-Supported Platform for System Monitoring and Decision-Making in   Nuclear Waste Management with Large Language Models | AI-unterstützte Plattform für Systemüberwachung und Entscheidungsfindung in der Entsorgung nuklearer Abfälle mit großen Sprachmodellen | AI-支持的具有大语言模式的核废物管理系统监测和决策平台 [2505.21741v1](http://arxiv.org/abs/2505.21741v1)
 
 **Authors**: Dongjune Chang, Sola Kim, Young Soo Park
@@ -468,7 +468,7 @@ Nuclear waste management requires rigorous regulatory compliance assessment, dem
 ---
 
 ## Article 37
-### Title@2025-05-27: Communication- and Computation-Efficient Distributed Submodular   Optimization in Robot Mesh Networks
+### Title@2025-05-27 (2): Communication- and Computation-Efficient Distributed Submodular   Optimization in Robot Mesh Networks
 **Title**: Communication- and Computation-Efficient Distributed Submodular   Optimization in Robot Mesh Networks | Kommunikation- und Computation-Effizient verteilte Submodulare Optimierung in Robot Mesh-Netzwerken | 机器人网网中的通信和计算-有效分布式子模块优化 [2407.10382v3](http://arxiv.org/abs/2407.10382v3)
 
 **Authors**: Zirui Xu, Sandilya Sai Garimella, Vasileios Tzoumas
@@ -478,7 +478,7 @@ We provide a communication- and computation-efficient method for distributed sub
 ---
 
 ## Article 38
-### Title@2025-05-27: Paper2Poster: Towards Multimodal Poster Automation from Scientific   Papers
+### Title@2025-05-27 (2): Paper2Poster: Towards Multimodal Poster Automation from Scientific   Papers
 **Title**: Paper2Poster: Towards Multimodal Poster Automation from Scientific   Papers | Paper2Poster: Auf dem Weg zur multimodalen Plakatautomatisierung aus wissenschaftlichen Papieren | Paper2Poster:从科学论文中走向多式海报自动化 [2505.21497v1](http://arxiv.org/abs/2505.21497v1)
 
 **Authors**: Wei Pang, Kevin Qinghong Lin, Xiangru Jian, Xi He, Philip Torr
@@ -488,7 +488,7 @@ Academic poster generation is a crucial yet challenging task in scientific commu
 ---
 
 ## Article 39
-### Title@2025-05-27: Agentic Medical Knowledge Graphs Enhance Medical Question Answering:   Bridging the Gap Between LLMs and Evolving Medical Knowledge
+### Title@2025-05-27 (2): Agentic Medical Knowledge Graphs Enhance Medical Question Answering:   Bridging the Gap Between LLMs and Evolving Medical Knowledge
 **Title**: Agentic Medical Knowledge Graphs Enhance Medical Question Answering:   Bridging the Gap Between LLMs and Evolving Medical Knowledge | Agentisches medizinisches Wissen Grafiken verbessern medizinische Frageantworten: Die Lücke zwischen LLMs und sich entwickelndem medizinischem Wissen überbrücken | 药用知识图加强医疗问题的回答:缩小LLMM与不断发展的医学知识之间的差距 [2502.13010v2](http://arxiv.org/abs/2502.13010v2)
 
 **Authors**: Mohammad Reza Rezaei, Reza Saadati Fard, Rahul G. Krishnan, Milad Lankarany
@@ -498,7 +498,7 @@ Large Language Models (LLMs) have significantly advanced medical question-answer
 ---
 
 ## Article 40
-### Title@2025-05-27: Learning Individual Behavior in Agent-Based Models with Graph Diffusion   Networks
+### Title@2025-05-27 (2): Learning Individual Behavior in Agent-Based Models with Graph Diffusion   Networks
 **Title**: Learning Individual Behavior in Agent-Based Models with Graph Diffusion   Networks | Individuelles Verhalten in agentenbasierten Modellen mit Graph Diffusionsnetzwerken lernen | 具有图表传播网络的基于代理模型的学习个人行为 [2505.21426v1](http://arxiv.org/abs/2505.21426v1)
 
 **Authors**: Francesco Cozzi, Marco Pangallo, Alan Perotti, André Panisson, Corrado Monti
@@ -508,7 +508,7 @@ Agent-Based Models (ABMs) are powerful tools for studying emergent properties in
 ---
 
 ## Article 41
-### Title@2025-05-27: Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused   Ultrasound Ablation Surgery
+### Title@2025-05-27 (2): Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused   Ultrasound Ablation Surgery
 **Title**: Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused   Ultrasound Ablation Surgery | Autonome Multi-Modal LLM-Agenten für die Behandlungsplanung in fokussierter Ultraschallablationschirurgie | 重点超声速超声振动外科手术治疗规划代理 [2505.21418v1](http://arxiv.org/abs/2505.21418v1)
 
 **Authors**: Lina Zhao, Jiaxing Bai, Zihao Bian, Qingyue Chen, Yafang Li, Guangbo Li, Min He, Huaiyuan Yao, Zongjiu Zhang
@@ -518,7 +518,7 @@ Focused Ultrasound Ablation Surgery (FUAS) has emerged as a promising non-invasi
 ---
 
 ## Article 42
-### Title@2025-05-27: Sequential Resource Trading Using Comparison-Based Gradient Estimation
+### Title@2025-05-27 (2): Sequential Resource Trading Using Comparison-Based Gradient Estimation
 **Title**: Sequential Resource Trading Using Comparison-Based Gradient Estimation | Sequentieller Ressourcenhandel mit Vergleichsbasis-Gradientenschätzung | 使用基于比较的逐步梯度估计法进行按顺序进行的资源贸易 [2408.11186v3](http://arxiv.org/abs/2408.11186v3)
 
 **Authors**: Surya Murthy, Mustafa O. Karabag, Ufuk Topcu
@@ -528,7 +528,7 @@ Autonomous agents interact with other autonomous agents and humans of unknown pr
 ---
 
 ## Article 43
-### Title@2025-05-27: PeerGuard: Defending Multi-Agent Systems Against Backdoor Attacks   Through Mutual Reasoning
+### Title@2025-05-27 (2): PeerGuard: Defending Multi-Agent Systems Against Backdoor Attacks   Through Mutual Reasoning
 **Title**: PeerGuard: Defending Multi-Agent Systems Against Backdoor Attacks   Through Mutual Reasoning | PeerGuard: Verteidigen von Multi-Agenten-Systemen gegen Hintertürangriffe durch gegenseitige Vernunft | 同伴保护:捍卫多机构系统,防止通过相互理由进行后门攻击 [2505.11642v2](http://arxiv.org/abs/2505.11642v2)
 
 **Authors**: Falong Fan, Xi Li
@@ -538,7 +538,7 @@ Multi-agent systems leverage advanced AI models as autonomous agents that intera
 ---
 
 ## Article 44
-### Title@2025-05-27: Large Language Models Miss the Multi-Agent Mark
+### Title@2025-05-27 (2): Large Language Models Miss the Multi-Agent Mark
 **Title**: Large Language Models Miss the Multi-Agent Mark | Große Sprachmodelle vermissen das Multi-Agent Mark | 大语言模型 [2505.21298v1](http://arxiv.org/abs/2505.21298v1)
 
 **Authors**: Emanuele La Malfa, Gabriele La Malfa, Samuele Marro, Jie M. Zhang, Elizabeth Black, Micheal Luck, Philip Torr, Michael Wooldridge
@@ -548,7 +548,7 @@ Recent interest in Multi-Agent Systems of Large Language Models (MAS LLMs) has l
 ---
 
 ## Article 45
-### Title@2025-05-27: Breaking the Performance Ceiling in Complex Reinforcement Learning   requires Inference Strategies
+### Title@2025-05-27 (2): Breaking the Performance Ceiling in Complex Reinforcement Learning   requires Inference Strategies
 **Title**: Breaking the Performance Ceiling in Complex Reinforcement Learning   requires Inference Strategies | Breaking the Performance Ceiling in komplexen Verstärkungs-Lernen erfordert Inferenz-Strategien | 综合加强学习中业绩上限的打破需要推断战略 [2505.21236v1](http://arxiv.org/abs/2505.21236v1)
 
 **Authors**: Felix Chalumeau, Daniel Rajaonarivonivelomanantsoa, Ruan de Kock, Claude Formanek, Sasha Abramowitz, Oumayma Mahjoub, Wiem Khlifi, Simon Du Toit, Louay Ben Nessir, Refiloe Shabe, Arnol Fokam, Siddarth Singh, Ulrich Mbou Sob, Arnu Pretorius
@@ -558,7 +558,7 @@ Reinforcement learning (RL) systems have countless applications, from energy-gri
 ---
 
 ## Article 46
-### Title@2025-05-27: Voting or Consensus? Decision-Making in Multi-Agent Debate
+### Title@2025-05-27 (2): Voting or Consensus? Decision-Making in Multi-Agent Debate
 **Title**: Voting or Consensus? Decision-Making in Multi-Agent Debate | Abstimmung oder Konsens? Entscheidungsfindung in Multi-Agent-Debatte | 表决还是协商一致?多机构辩论中的决策 [2502.19130v2](http://arxiv.org/abs/2502.19130v2)
 
 **Authors**: Lars Benedikt Kaesberg, Jonas Becker, Jan Philip Wahle, Terry Ruas, Bela Gipp
@@ -568,7 +568,7 @@ Much of the success of multi-agent debates depends on carefully choosing the rig
 ---
 
 ## Article 47
-### Title@2025-05-27: GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware   Recommender Simulation
+### Title@2025-05-27 (2): GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware   Recommender Simulation
 **Title**: GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware   Recommender Simulation | GGBond: Wachsende Graphen-basierte KI-Agenten-Gesellschaft für sozial-aware-Empfänger-Simulation | GGBond: 不断增长的基于图表的AI-Agent Society 社会软件建议模拟模拟软件 [2505.21154v1](http://arxiv.org/abs/2505.21154v1)
 
 **Authors**: Hailin Zhong, Hanlin Wang, Yujun Ye, Meiyi Zhang, Shengxin Zhu
@@ -578,7 +578,7 @@ Current personalized recommender systems predominantly rely on static offline da
 ---
 
 ## Article 48
-### Title@2025-05-27: Stopping Criteria for Value Iteration on Concurrent Stochastic   Reachability and Safety Games
+### Title@2025-05-27 (2): Stopping Criteria for Value Iteration on Concurrent Stochastic   Reachability and Safety Games
 **Title**: Stopping Criteria for Value Iteration on Concurrent Stochastic   Reachability and Safety Games | Stoppen von Kriterien für die Wert-Iteration bei gleichzeitigen stochastischen Erreichbarkeits- und Sicherheitsspielen | 停止同时举行存储可达性和安全运动会的价值迭代标准 [2505.21087v1](http://arxiv.org/abs/2505.21087v1)
 
 **Authors**: Marta Grobelna, Jan Křetínský, Maximilian Weininger
@@ -588,7 +588,7 @@ We consider two-player zero-sum concurrent stochastic games (CSGs) played on gra
 ---
 
 ## Article 49
-### Title@2025-05-27: Herd Behavior: Investigating Peer Influence in LLM-based Multi-Agent   Systems
+### Title@2025-05-27 (2): Herd Behavior: Investigating Peer Influence in LLM-based Multi-Agent   Systems
 **Title**: Herd Behavior: Investigating Peer Influence in LLM-based Multi-Agent   Systems | Herdverhalten: Untersuchung des Peer-Einflusses in LLM-basierte Multi-Agent-Systeme | 牧民行为:调查基于LLM的多机构机构系统中的同侪影响 [2505.21588v1](http://arxiv.org/abs/2505.21588v1)
 
 **Authors**: Young-Min Cho, Sharath Chandra Guntuku, Lyle Ungar
@@ -598,7 +598,7 @@ Recent advancements in Large Language Models (LLMs) have enabled the emergence o
 ---
 
 ## Article 50
-### Title@2025-05-27: Improving flocking behaviors in street networks with vision
+### Title@2025-05-27 (2): Improving flocking behaviors in street networks with vision
 **Title**: Improving flocking behaviors in street networks with vision | Verbesserung des Beflockungsverhaltens in Straßennetzen mit Vision | 改善街头网络中有远见的群众行为 [2505.21585v1](http://arxiv.org/abs/2505.21585v1)
 
 **Authors**: Guillaume Moinard, Matthieu Latapy
@@ -608,7 +608,7 @@ We improve a flocking model on street networks introduced in a previous paper. W
 ---
 
 ## Article 51
-### Title@2025-05-27: Revisiting Multi-Agent World Modeling from a Diffusion-Inspired   Perspective
+### Title@2025-05-27 (2): Revisiting Multi-Agent World Modeling from a Diffusion-Inspired   Perspective
 **Title**: Revisiting Multi-Agent World Modeling from a Diffusion-Inspired   Perspective | Multi-Agenten-Weltmodellierung aus einer diffusionsinspirierten Perspektive Revue passieren | 从传播启发的视角重新审视多股权世界建模 [2505.20922v1](http://arxiv.org/abs/2505.20922v1)
 
 **Authors**: Yang Zhang, Xinran Li, Jianing Ye, Delin Qu, Shuang Qiu, Chongjie Zhang, Xiu Li, Chenjia Bai
@@ -618,7 +618,7 @@ World models have recently attracted growing interest in Multi-Agent Reinforceme
 ---
 
 ## Article 52
-### Title@2025-05-27: Generalized Coordination of Partially Cooperative Urban Traffic
+### Title@2025-05-27 (2): Generalized Coordination of Partially Cooperative Urban Traffic
 **Title**: Generalized Coordination of Partially Cooperative Urban Traffic | Generalisierte Koordinierung des teilweise kooperativen Stadtverkehrs | 部分合作城市交通协调 [2505.20879v1](http://arxiv.org/abs/2505.20879v1)
 
 **Authors**: Max Bastian Mertens, Michael Buchholz
@@ -628,7 +628,7 @@ Vehicle-to-anything connectivity, especially for autonomous vehicles, promises t
 ---
 
 ## Article 53
-### Title@2025-05-27: MedSentry: Understanding and Mitigating Safety Risks in Medical LLM   Multi-Agent Systems
+### Title@2025-05-27 (2): MedSentry: Understanding and Mitigating Safety Risks in Medical LLM   Multi-Agent Systems
 **Title**: MedSentry: Understanding and Mitigating Safety Risks in Medical LLM   Multi-Agent Systems | MedSentry: Sicherheitsrisiken in medizinischen LLM-Multiagentensystemen verstehen und mindern | MedSentry:了解和减轻医疗LLM多机构系统中的安全风险 [2505.20824v1](http://arxiv.org/abs/2505.20824v1)
 
 **Authors**: Kai Chen, Taihang Zhen, Hewei Wang, Kailai Liu, Xinfeng Li, Jing Huo, Tianpei Yang, Jinfeng Xu, Wei Dong, Yang Gao
@@ -638,7 +638,7 @@ As large language models (LLMs) are increasingly deployed in healthcare, ensurin
 ---
 
 ## Article 54
-### Title@2025-05-27: Many Heads Are Better Than One: Improved Scientific Idea Generation by A   LLM-Based Multi-Agent System
+### Title@2025-05-27 (2): Many Heads Are Better Than One: Improved Scientific Idea Generation by A   LLM-Based Multi-Agent System
 **Title**: Many Heads Are Better Than One: Improved Scientific Idea Generation by A   LLM-Based Multi-Agent System | Viele Köpfe sind besser als eins: Verbesserte wissenschaftliche Idee-Generation durch ein LLM-basiertes Multi-Agent-System | 许多领导人比一个领导人好得多:由以LLM为基础的多种机构系统改进科学思想的一代 [2410.09403v4](http://arxiv.org/abs/2410.09403v4)
 
 **Authors**: Haoyang Su, Renqi Chen, Shixiang Tang, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong
@@ -648,7 +648,7 @@ The rapid advancement of scientific progress requires innovative tools that can 
 ---
 
 ## Article 55
-### Title@2025-05-27: ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement   Learning
+### Title@2025-05-27 (2): ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement   Learning
 **Title**: ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement   Learning | ReMA: Meta-Denken lernen für LLMs mit Multi-Agenten-Verstärkungs-Lernen | ReMA:学习多机构强化学习的LLMLM的元思维 [2503.09501v3](http://arxiv.org/abs/2503.09501v3)
 
 **Authors**: Ziyu Wan, Yunxiang Li, Xiaoyu Wen, Yan Song, Hanjing Wang, Linyi Yang, Mark Schmidt, Jun Wang, Weinan Zhang, Shuyue Hu, Ying Wen
@@ -658,7 +658,7 @@ Recent research on Reasoning of Large Language Models (LLMs) has sought to furth
 ---
 
 ## Article 56
-### Title@2025-05-27: JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes
+### Title@2025-05-27 (2): JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes
 **Title**: JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes | JaxRobotarium: Schulung und Einsatz von Multi-Roboter-Politik in 10 Minuten | JaxRobotior:10分钟内培训和部署多机器人政策 [2505.06771v2](http://arxiv.org/abs/2505.06771v2)
 
 **Authors**: Shalin Anand Jain, Jiazhen Liu, Siva Kailas, Harish Ravichandar
@@ -668,7 +668,7 @@ Multi-agent reinforcement learning (MARL) has emerged as a promising solution fo
 ---
 
 ## Article 57
-### Title@2025-05-26: xChemAgents: Agentic AI for Explainable Quantum Chemistry
+### Title@2025-05-26 (1): xChemAgents: Agentic AI for Explainable Quantum Chemistry
 **Title**: xChemAgents: Agentic AI for Explainable Quantum Chemistry | xChemAgenten: Agentische KI für erklärbare Quantenchemie | xchemAgents: 可解释量子化学的AAA剂 [2505.20574v1](http://arxiv.org/abs/2505.20574v1)
 
 **Authors**: Can Polat, Mehmet Tuncel, Hasan Kurban, Erchin Serpedin, Mustafa Kurban
@@ -678,7 +678,7 @@ Recent progress in multimodal graph neural networks has demonstrated that augmen
 ---
 
 ## Article 58
-### Title@2025-05-26: Streamlining Resilient Kubernetes Autoscaling with Multi-Agent Systems   via an Automated Online Design Framework
+### Title@2025-05-26 (1): Streamlining Resilient Kubernetes Autoscaling with Multi-Agent Systems   via an Automated Online Design Framework
 **Title**: Streamlining Resilient Kubernetes Autoscaling with Multi-Agent Systems   via an Automated Online Design Framework | Straffung des Resilients Kubernetes Autoscaling mit Multi-Agent Systemen über ein automatisiertes Online-Design-Framework | 通过自动在线设计框架与多机构系统自动调整 [2505.21559v1](http://arxiv.org/abs/2505.21559v1)
 
 **Authors**: Julien Soulé, Jean-Paul Jamont, Michel Occello, Louis-Marie Traonouez, Paul Théron
@@ -688,7 +688,7 @@ In cloud-native systems, Kubernetes clusters with interdependent services often 
 ---
 
 ## Article 59
-### Title@2025-05-26: Reconceptualizing Smart Microscopy: From Data Collection to Knowledge   Creation by Multi-Agent Integration
+### Title@2025-05-26 (1): Reconceptualizing Smart Microscopy: From Data Collection to Knowledge   Creation by Multi-Agent Integration
 **Title**: Reconceptualizing Smart Microscopy: From Data Collection to Knowledge   Creation by Multi-Agent Integration | Intelligente Mikroskopie neu konzipieren: Von der Datenerhebung zur Wissenserstellung durch Multi-Agent-Integration | 重新概念化智能微镜:从数据收集到通过多机构整合创造知识 [2505.20466v1](http://arxiv.org/abs/2505.20466v1)
 
 **Authors**: P. S. Kesavan, Pontus Nordenfelt
@@ -698,7 +698,7 @@ Smart microscopy represents a paradigm shift in biological imaging, moving from 
 ---
 
 ## Article 60
-### Title@2025-05-26: Sable: a Performant, Efficient and Scalable Sequence Model for MARL
+### Title@2025-05-26 (1): Sable: a Performant, Efficient and Scalable Sequence Model for MARL
 **Title**: Sable: a Performant, Efficient and Scalable Sequence Model for MARL | Sable: ein leistungsfähiges, effizientes und skalierbares Sequenzmodell für MARL | 电缆:MARL的性能、高效和可缩放序列模型 [2410.01706v5](http://arxiv.org/abs/2410.01706v5)
 
 **Authors**: Omayma Mahjoub, Sasha Abramowitz, Ruan de Kock, Wiem Khlifi, Simon du Toit, Jemma Daniel, Louay Ben Nessir, Louise Beyers, Claude Formanek, Liam Clark, Arnu Pretorius
@@ -708,7 +708,7 @@ As multi-agent reinforcement learning (MARL) progresses towards solving larger a
 ---
 
 ## Article 61
-### Title@2025-05-26: Federated Domain Generalization with Data-free On-server Matching   Gradient
+### Title@2025-05-26 (1): Federated Domain Generalization with Data-free On-server Matching   Gradient
 **Title**: Federated Domain Generalization with Data-free On-server Matching   Gradient | Föderierte Domain-Verallgemeinerung mit datenfreiem On-Server-Zustimmungs-Gradient | 具有无数据观测站上与渐变匹配的无数据观测器的联邦通用域 [2501.14653v2](http://arxiv.org/abs/2501.14653v2)
 
 **Authors**: Trong-Binh Nguyen, Minh-Duong Nguyen, Jinsun Park, Quoc-Viet Pham, Won Joo Hwang
@@ -718,7 +718,7 @@ Domain Generalization (DG) aims to learn from multiple known source domains a mo
 ---
 
 ## Article 62
-### Title@2025-05-26: Semantic-Aware Resource Management for C-V2X Platooning via Multi-Agent   Reinforcement Learning
+### Title@2025-05-26 (1): Semantic-Aware Resource Management for C-V2X Platooning via Multi-Agent   Reinforcement Learning
 **Title**: Semantic-Aware Resource Management for C-V2X Platooning via Multi-Agent   Reinforcement Learning | Semantic-Aware Ressourcenmanagement für C-V2X Platooning über Multi-Agent Verstärkungslernen | 通过多机构强化学习进行 C-V2X 等离子处理的语义软件资源管理 [2411.04672v2](http://arxiv.org/abs/2411.04672v2)
 
 **Authors**: Wenjun Zhang, Qiong Wu, Pingyi Fan, Kezhi Wang, Nan Cheng, Wen Chen, Khaled B. Letaief
@@ -728,7 +728,7 @@ Semantic communication transmits the extracted features of information rather th
 ---
 
 ## Article 63
-### Title@2025-05-26: Multi-Agent Reinforcement Learning in Cybersecurity: From Fundamentals   to Applications
+### Title@2025-05-26 (1): Multi-Agent Reinforcement Learning in Cybersecurity: From Fundamentals   to Applications
 **Title**: Multi-Agent Reinforcement Learning in Cybersecurity: From Fundamentals   to Applications | Multi-Agenten-Verstärkung Lernen in Cybersicherheit: Von Grundlagen zu Anwendungen | 网络安全多机构强化多机构网络安全学习:从基础到应用 [2505.19837v1](http://arxiv.org/abs/2505.19837v1)
 
 **Authors**: Christoph R. Landolt, Christoph Würsch, Roland Meier, Alain Mermoud, Julian Jang-Jaccard
@@ -738,7 +738,7 @@ Multi-Agent Reinforcement Learning (MARL) has shown great potential as an adapti
 ---
 
 ## Article 64
-### Title@2025-05-26: Fast and Robust Flocking of Protesters on Street Networks
+### Title@2025-05-26 (1): Fast and Robust Flocking of Protesters on Street Networks
 **Title**: Fast and Robust Flocking of Protesters on Street Networks | Schnelles und robustes Auspeitschen von Protestierenden auf Straßennetzen | 街头网络上抗争者快速和强力封锁 [2406.01101v3](http://arxiv.org/abs/2406.01101v3)
 
 **Authors**: Guillaume Moinard, Matthieu Latapy
@@ -748,7 +748,7 @@ We propose a simple model of protesters scattered throughout a city who want to 
 ---
 
 ## Article 65
-### Title@2025-05-26: Adaptive Episode Length Adjustment for Multi-agent Reinforcement   Learning
+### Title@2025-05-26 (1): Adaptive Episode Length Adjustment for Multi-agent Reinforcement   Learning
 **Title**: Adaptive Episode Length Adjustment for Multi-agent Reinforcement   Learning | Adaptive Anpassung der Episodenlänge für das Multi-Agenten-Verstärkungs-Lernen | 多试剂强化学习的适应性分单元长度调整 [2505.19637v1](http://arxiv.org/abs/2505.19637v1)
 
 **Authors**: Byunghyun Yoo, Younghwan Shin, Hyunwoo Kim, Euisok Chung, Jeongmin Yang
@@ -758,7 +758,7 @@ In standard reinforcement learning, an episode is defined as a sequence of inter
 ---
 
 ## Article 66
-### Title@2025-05-26: Multi-Agent Collaboration via Evolving Orchestration
+### Title@2025-05-26 (1): Multi-Agent Collaboration via Evolving Orchestration
 **Title**: Multi-Agent Collaboration via Evolving Orchestration | Multi-Agenten-Zusammenarbeit über Evolving Orchestration | 通过不断演变的管弦化多机构协作 [2505.19591v1](http://arxiv.org/abs/2505.19591v1)
 
 **Authors**: Yufan Dang, Chen Qian, Xueheng Luo, Jingru Fan, Zihao Xie, Ruijie Shi, Weize Chen, Cheng Yang, Xiaoyin Che, Ye Tian, Xuantang Xiong, Lei Han, Zhiyuan Liu, Maosong Sun
@@ -768,7 +768,7 @@ Large language models (LLMs) have achieved remarkable results across diverse dow
 ---
 
 ## Article 67
-### Title@2025-05-26: LLM-Agent-Controller: A Universal Multi-Agent Large Language Model   System as a Control Engineer
+### Title@2025-05-26 (1): LLM-Agent-Controller: A Universal Multi-Agent Large Language Model   System as a Control Engineer
 **Title**: LLM-Agent-Controller: A Universal Multi-Agent Large Language Model   System as a Control Engineer | LLM-Agent-Controller: Ein universelles Multi-Agent-Großsprachmodellsystem als Steuerungsingenieur | LLM-代理主计长:作为控制工程师的通用多代理大型语文示范系统 [2505.19567v1](http://arxiv.org/abs/2505.19567v1)
 
 **Authors**: Rasoul Zahedifar, Sayyed Ali Mirghasemi, Mahdieh Soleymani Baghshah, Alireza Taheri
@@ -778,7 +778,7 @@ This study presents the LLM-Agent-Controller, a multi-agent large language model
 ---
 
 ## Article 68
-### Title@2025-05-26: DoctorRAG: Medical RAG Fusing Knowledge with Patient Analogy through   Textual Gradients
+### Title@2025-05-26 (1): DoctorRAG: Medical RAG Fusing Knowledge with Patient Analogy through   Textual Gradients
 **Title**: DoctorRAG: Medical RAG Fusing Knowledge with Patient Analogy through   Textual Gradients | DoctorRAG: Medizinische RAG Durch Textabstufungen Wissen mit Patient Analogie fusionieren | 医生RAG:通过文字梯度将医学RAG知识与病人分析知识与病人分析相融合 [2505.19538v1](http://arxiv.org/abs/2505.19538v1)
 
 **Authors**: Yuxing Lu, Gecheng Fu, Wei Wu, Xukai Zhao, Sin Yee Goi, Jinzhuo Wang
@@ -788,7 +788,7 @@ Existing medical RAG systems mainly leverage knowledge from medical knowledge ba
 ---
 
 ## Article 69
-### Title@2025-05-26: VLMLight: Traffic Signal Control via Vision-Language Meta-Control and   Dual-Branch Reasoning
+### Title@2025-05-26 (1): VLMLight: Traffic Signal Control via Vision-Language Meta-Control and   Dual-Branch Reasoning
 **Title**: VLMLight: Traffic Signal Control via Vision-Language Meta-Control and   Dual-Branch Reasoning | VLMLight: Verkehrssignalsteuerung über Vision-Language Meta-Control und Dual-Branch-Reasoning | VLMLight:通过视觉语言、超控制和双层理由解释控制交通信号控制 [2505.19486v1](http://arxiv.org/abs/2505.19486v1)
 
 **Authors**: Maonan Wang, Yirong Chen, Aoyu Pang, Yuxin Cai, Chung Shue Chen, Yuheng Kan, Man-On Pun
@@ -798,7 +798,7 @@ Traffic signal control (TSC) is a core challenge in urban mobility, where real-t
 ---
 
 ## Article 70
-### Title@2025-05-26: Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive   Decisions of LLMs
+### Title@2025-05-26 (1): Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive   Decisions of LLMs
 **Title**: Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive   Decisions of LLMs | Gewinnen Sie schnell oder verlieren Sie langsam: Ausgleichende Geschwindigkeit und Genauigkeit in Latenz-Sensitive Entscheidungen von LLMs | 慢赢或慢输:LLMs的延缓敏感决定中平衡速度和准确性 [2505.19481v1](http://arxiv.org/abs/2505.19481v1)
 
 **Authors**: Hao Kang, Qingru Zhang, Han Cai, Weiyuan Xu, Tushar Krishna, Yilun Du, Tsachy Weissman
@@ -808,7 +808,7 @@ Large language models (LLMs) have shown remarkable performance across diverse re
 ---
 
 ## Article 71
-### Title@2025-05-25: Making Teams and Influencing Agents: Efficiently Coordinating Decision   Trees for Interpretable Multi-Agent Reinforcement Learning
+### Title@2025-05-25 (7): Making Teams and Influencing Agents: Efficiently Coordinating Decision   Trees for Interpretable Multi-Agent Reinforcement Learning
 **Title**: Making Teams and Influencing Agents: Efficiently Coordinating Decision   Trees for Interpretable Multi-Agent Reinforcement Learning | Teambildung und Beeinflussung von Agenten: Entscheidungsbäume effizient koordinieren für interpretierbares Mehr-Agenten-Verstärkungs-Lernen | 建立团队和对代理人产生影响的代理:高效协调可解释的多机构强化学习决策树 [2505.19316v1](http://arxiv.org/abs/2505.19316v1)
 
 **Authors**: Rex Chen, Stephanie Milani, Zhicheng Zhang, Norman Sadeh, Fei Fang
@@ -818,7 +818,7 @@ Poor interpretability hinders the practical applicability of multi-agent reinfor
 ---
 
 ## Article 72
-### Title@2025-05-25: Agentic Information Theory: Ergodicity and Intrinsic Semantics of   Information Processes
+### Title@2025-05-25 (7): Agentic Information Theory: Ergodicity and Intrinsic Semantics of   Information Processes
 **Title**: Agentic Information Theory: Ergodicity and Intrinsic Semantics of   Information Processes | Agentische Informationstheorie: Ergodikität und Intrinsische Semantik von Informationsprozessen | 代理信息理论:信息过程的分化和内在的语义 [2505.19275v1](http://arxiv.org/abs/2505.19275v1)
 
 **Authors**: James P. Crutchfield, Alexandra Jurgens
@@ -828,7 +828,7 @@ We develop information theory for the temporal behavior of memoryful agents movi
 ---
 
 ## Article 73
-### Title@2025-05-25: GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal   Graph Modeling
+### Title@2025-05-25 (7): GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal   Graph Modeling
 **Title**: GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal   Graph Modeling | GUARDIAN: LLM-Multiagent-Kollaborationen mit zeitlicher Graphenmodellierung sichern | GUARDIAN: 保护LLM 多机构协作与时间图建模 [2505.19234v1](http://arxiv.org/abs/2505.19234v1)
 
 **Authors**: Jialong Zhou, Lichao Wang, Xiao Yang
@@ -838,7 +838,7 @@ The emergence of large language models (LLMs) enables the development of intelli
 ---
 
 ## Article 74
-### Title@2025-05-25: Where Paths Collide: A Comprehensive Survey of Classic and   Learning-Based Multi-Agent Pathfinding
+### Title@2025-05-25 (7): Where Paths Collide: A Comprehensive Survey of Classic and   Learning-Based Multi-Agent Pathfinding
 **Title**: Where Paths Collide: A Comprehensive Survey of Classic and   Learning-Based Multi-Agent Pathfinding | Where Paths Collide: Eine umfassende Untersuchung der klassischen und lernbasierten multi-agenten Pathfinding | 路径相撞之处:对经典和以学习为基础的多方代理调查的全面调查 [2505.19219v1](http://arxiv.org/abs/2505.19219v1)
 
 **Authors**: Shiyue Wang, Haozheng Xu, Yuhan Zhang, Jingran Lin, Changhong Lu, Xiangfeng Wang, Wenhao Li
@@ -848,7 +848,7 @@ Multi-Agent Path Finding (MAPF) is a fundamental problem in artificial intellige
 ---
 
 ## Article 75
-### Title@2025-05-25: Collaborative Agentic AI Needs Interoperability Across Ecosystems
+### Title@2025-05-25 (7): Collaborative Agentic AI Needs Interoperability Across Ecosystems
 **Title**: Collaborative Agentic AI Needs Interoperability Across Ecosystems | Kollaborative Agentische KI braucht Interoperabilität über Ökosysteme hinweg | AI 需要跨生态系统的互操作性 [2505.21550v1](http://arxiv.org/abs/2505.21550v1)
 
 **Authors**: Rishi Sharma, Martijn de Vos, Pradyumna Chari, Ramesh Raskar, Anne-Marie Kermarrec
@@ -858,7 +858,7 @@ Collaborative agentic AI is projected to transform entire industries by enabling
 ---
 
 ## Article 76
-### Title@2025-05-25: Interacting Large Language Model Agents. Interpretable Models and Social   Learning
+### Title@2025-05-25 (7): Interacting Large Language Model Agents. Interpretable Models and Social   Learning
 **Title**: Interacting Large Language Model Agents. Interpretable Models and Social   Learning | Interagieren von Large Language Model Agents. Interpretierbare Modelle und soziales Lernen | 跨大语言示范工具、可解释模型和社会学习 [2411.01271v2](http://arxiv.org/abs/2411.01271v2)
 
 **Authors**: Adit Jain, Vikram Krishnamurthy
@@ -868,7 +868,7 @@ This paper discusses the theory and algorithms for interacting large language mo
 ---
 
 ## Article 77
-### Title@2025-05-25: Adversarial Bandit over Bandits: Hierarchical Bandits for Online   Configuration Management
+### Title@2025-05-25 (7): Adversarial Bandit over Bandits: Hierarchical Bandits for Online   Configuration Management
 **Title**: Adversarial Bandit over Bandits: Hierarchical Bandits for Online   Configuration Management | Adversarial Bandit über Bandits: Hierarchische Bandits für Online-Konfigurationsmanagement | 反强盗强盗: 用于在线配置管理的等级强盗 [2505.19061v1](http://arxiv.org/abs/2505.19061v1)
 
 **Authors**: Chen Avin, Zvi Lotker, Shie Mannor, Gil Shabat, Hanan Shteingart, Roey Yadgar
@@ -878,7 +878,7 @@ Motivated by dynamic parameter optimization in finite, but large action (configu
 ---
 
 ## Article 78
-### Title@2025-05-25: Adaptive Inference through Bayesian and Inverse Bayesian Inference with   Symmetry-Bias in Nonstationary Environments
+### Title@2025-05-25 (7): Adaptive Inference through Bayesian and Inverse Bayesian Inference with   Symmetry-Bias in Nonstationary Environments
 **Title**: Adaptive Inference through Bayesian and Inverse Bayesian Inference with   Symmetry-Bias in Nonstationary Environments | Adaptive Schlussfolgerung durch Bayesische und Inverse Bayesische Schlussfolgerung mit Symmetrie-Bias in nichtstationären Umgebungen | 在非静止环境中,通过贝耶斯和反贝耶斯和反贝耶斯的同对称-比亚推理,进行适应性推理 [2505.12796v3](http://arxiv.org/abs/2505.12796v3)
 
 **Authors**: Shuji Shinohara, Daiki Morita, Hayato Hirai, Ryosuke Kuribayashi, Nobuhito Manome, Toru Moriyama, Yoshihiro Nakajima, Yukio-Pegio Gunji, Ung-il Chung
@@ -888,7 +888,7 @@ This study introduces a novel inference framework, designated as Bayesian and in
 ---
 
 ## Article 79
-### Title@2025-05-25: SANNet: A Semantic-Aware Agentic AI Networking Framework for Multi-Agent   Cross-Layer Coordination
+### Title@2025-05-25 (7): SANNet: A Semantic-Aware Agentic AI Networking Framework for Multi-Agent   Cross-Layer Coordination
 **Title**: SANNet: A Semantic-Aware Agentic AI Networking Framework for Multi-Agent   Cross-Layer Coordination | SANNet: Ein Semantic-Aware Agentic AI Networking Framework für die multi-agente Cross-Layer-Koordination | SANNet: 多代理人跨行业协调的语义学-敏感物义学AI联网框架 [2505.18946v1](http://arxiv.org/abs/2505.18946v1)
 
 **Authors**: Yong Xiao, Haoran Zhou, Xubo Li, Yayu Gao, Guangming Shi, Ping Zhang
@@ -898,7 +898,7 @@ Agentic AI networking (AgentNet) is a novel AI-native networking paradigm that r
 ---
 
 ## Article 80
-### Title@2025-05-24: Distributed Set-membership Filtering Frameworks For Multi-agent Systems   With Absolute and Relative Measurements
+### Title@2025-05-24 (6): Distributed Set-membership Filtering Frameworks For Multi-agent Systems   With Absolute and Relative Measurements
 **Title**: Distributed Set-membership Filtering Frameworks For Multi-agent Systems   With Absolute and Relative Measurements | Distributed Set-Membership Filtering Frameworks für Multi-Agent-Systeme mit absoluten und relativen Messungen | 具有绝对和相对计量的多试剂系统分布式成员筛选框架 [2305.15797v2](http://arxiv.org/abs/2305.15797v2)
 
 **Authors**: Yu Ding, Yirui Cong, Xiangke Wang
@@ -908,7 +908,7 @@ In this paper, we focus on the distributed set-membership filtering (SMFing) pro
 ---
 
 ## Article 81
-### Title@2025-05-24: Coordinated guidance and control for multiple parafoil system landing
+### Title@2025-05-24 (6): Coordinated guidance and control for multiple parafoil system landing
 **Title**: Coordinated guidance and control for multiple parafoil system landing | Koordinierte Führung und Steuerung für die Landung mehrerer Parafoil-Systeme | 协调制导和管制多个抛油系统着陆的协调制导和控制 [2505.18691v1](http://arxiv.org/abs/2505.18691v1)
 
 **Authors**: Zhenyu Wei, Zhijiang Shao, Lorenz T. Biegler
@@ -918,7 +918,7 @@ Multiple parafoil landing is an enabling technology for massive supply delivery 
 ---
 
 ## Article 82
-### Title@2025-05-24: Augmenting the action space with conventions to improve multi-agent   cooperation in Hanabi
+### Title@2025-05-24 (6): Augmenting the action space with conventions to improve multi-agent   cooperation in Hanabi
 **Title**: Augmenting the action space with conventions to improve multi-agent   cooperation in Hanabi | Erweiterung des Aktionsraums mit Konventionen zur Verbesserung der Multi-Agenten-Kooperation in Hanabi | 与公约扩大行动空间,以改进哈纳比多剂合作 [2412.06333v3](http://arxiv.org/abs/2412.06333v3)
 
 **Authors**: F. Bredell, H. A. Engelbrecht, J. C. Schoeman
@@ -928,7 +928,7 @@ The card game Hanabi is considered a strong medium for the testing and developme
 ---
 
 ## Article 83
-### Title@2025-05-24: DDO: Dual-Decision Optimization via Multi-Agent Collaboration for   LLM-Based Medical Consultation
+### Title@2025-05-24 (6): DDO: Dual-Decision Optimization via Multi-Agent Collaboration for   LLM-Based Medical Consultation
 **Title**: DDO: Dual-Decision Optimization via Multi-Agent Collaboration for   LLM-Based Medical Consultation | DDO: Dual-Decision-Optimierung durch Multi-Agent-Kollaboration für LLM-basierte medizinische Beratung | DDO:通过多方机构协作,优化基于LLM的医疗咨询的双重决定 [2505.18630v1](http://arxiv.org/abs/2505.18630v1)
 
 **Authors**: Zhihao Jia, Mingyi Jia, Junwen Duan, Jianxin Wang
@@ -938,7 +938,7 @@ Large Language Models (LLMs) demonstrate strong generalization and reasoning abi
 ---
 
 ## Article 84
-### Title@2025-05-24: An Identity Based Agent Model for Value Alignment
+### Title@2025-05-24 (6): An Identity Based Agent Model for Value Alignment
 **Title**: An Identity Based Agent Model for Value Alignment | Ein identitätsbasiertes Agentenmodell für die Wertausrichtung | 基于身份的保值调整代理模型 [2401.12159v4](http://arxiv.org/abs/2401.12159v4)
 
 **Authors**: Karthik Sama, Janvi Chhabra, Arpitha Srivatsha Malavalli, Jayati Deshmukh, Srinath Srinivasa
@@ -948,7 +948,7 @@ Social identities play an important role in the dynamics of human societies, and
 ---
 
 ## Article 85
-### Title@2025-05-24: MisoDICE: Multi-Agent Imitation from Unlabeled Mixed-Quality   Demonstrations
+### Title@2025-05-24 (6): MisoDICE: Multi-Agent Imitation from Unlabeled Mixed-Quality   Demonstrations
 **Title**: MisoDICE: Multi-Agent Imitation from Unlabeled Mixed-Quality   Demonstrations | MisoDICE: Multi-Agent-Imitation aus nicht gekennzeichneten Mixed-Quality-Demonstrationen | MisoDICE:从未贴标签的混合质量示范中多机构吸收 [2505.18595v1](http://arxiv.org/abs/2505.18595v1)
 
 **Authors**: The Viet Bui, Tien Mai, Hong Thanh Nguyen
@@ -958,7 +958,7 @@ We study offline imitation learning (IL) in cooperative multi-agent settings, wh
 ---
 
 ## Article 86
-### Title@2025-05-24: MASTER: Multi-Agent Security Through Exploration of Roles and   Topological Structures -- A Comprehensive Framework
+### Title@2025-05-24 (6): MASTER: Multi-Agent Security Through Exploration of Roles and   Topological Structures -- A Comprehensive Framework
 **Title**: MASTER: Multi-Agent Security Through Exploration of Roles and   Topological Structures -- A Comprehensive Framework | MASTER: Multi-Agent Sicherheit durch Erforschung von Rollen und topologischen Strukturen -- Ein umfassender Rahmen | 通过探索作用和地形结构实现多机构安全 -- -- 综合框架 [2505.18572v1](http://arxiv.org/abs/2505.18572v1)
 
 **Authors**: Yifan Zhu, Chao Zhang, Xin Shi, Xueqiao Zhang, Yi Yang, Yawei Luo
@@ -968,7 +968,7 @@ Large Language Models (LLMs)-based Multi-Agent Systems (MAS) exhibit remarkable 
 ---
 
 ## Article 87
-### Title@2025-05-24: MRGAgents: A Multi-Agent Framework for Improved Medical Report   Generation with Med-LVLMs
+### Title@2025-05-24 (6): MRGAgents: A Multi-Agent Framework for Improved Medical Report   Generation with Med-LVLMs
 **Title**: MRGAgents: A Multi-Agent Framework for Improved Medical Report   Generation with Med-LVLMs | MRGAgents: Multi-Agenten-Rahmen für verbesserte medizinische Report-Generation mit Med-LVLMs | MRGGGGss: 采用医疗低水平医疗报告制改进医疗报告制的多机构框架 [2505.18530v1](http://arxiv.org/abs/2505.18530v1)
 
 **Authors**: Pengyu Wang, Shuchang Ye, Usman Naseem, Jinman Kim
@@ -978,7 +978,7 @@ Medical Large Vision-Language Models (Med-LVLMs) have been widely adopted for me
 ---
 
 ## Article 88
-### Title@2025-05-24: Group Trip Planning Query Problem with Multimodal Journey
+### Title@2025-05-24 (6): Group Trip Planning Query Problem with Multimodal Journey
 **Title**: Group Trip Planning Query Problem with Multimodal Journey | Gruppenreiseplanungs-Abfrage-Problem mit multimodaler Reise | 具有多模式旅程的问询问题 [2502.03144v2](http://arxiv.org/abs/2502.03144v2)
 
 **Authors**: Dildar Ali, Suman Banerjee, Yamuna Prasad
@@ -988,7 +988,7 @@ In Group Trip Planning (GTP) Query Problem, we are given a city road network whe
 ---
 
 ## Article 89
-### Title@2025-05-24: TextArena
+### Title@2025-05-24 (6): TextArena
 **Title**: TextArena | TextArena | TextArenna 文本 [2504.11442v2](http://arxiv.org/abs/2504.11442v2)
 
 **Authors**: Leon Guertler, Bobby Cheng, Simon Yu, Bo Liu, Leshem Choshen, Cheston Tan
@@ -998,7 +998,7 @@ TextArena is an open-source collection of competitive text-based games for train
 ---
 
 ## Article 90
-### Title@2025-05-24: EdgeAgentX: A Novel Framework for Agentic AI at the Edge in Military   Communication Networks
+### Title@2025-05-24 (6): EdgeAgentX: A Novel Framework for Agentic AI at the Edge in Military   Communication Networks
 **Title**: EdgeAgentX: A Novel Framework for Agentic AI at the Edge in Military   Communication Networks | EdgeAgentX: Ein neuartiges Framework für Agentische KI am Rand in militärischen Kommunikationsnetzwerken | EdgeAgengengenderX:军事通信网络边缘地带AAA剂性AI新框架 [2505.18457v1](http://arxiv.org/abs/2505.18457v1)
 
 **Authors**: Abir Ray
@@ -1008,7 +1008,7 @@ This paper introduces EdgeAgentX, a novel framework integrating federated learni
 ---
 
 ## Article 91
-### Title@2025-05-24: Finite-Time Global Optimality Convergence in Deep Neural Actor-Critic   Methods for Decentralized Multi-Agent Reinforcement Learning
+### Title@2025-05-24 (6): Finite-Time Global Optimality Convergence in Deep Neural Actor-Critic   Methods for Decentralized Multi-Agent Reinforcement Learning
 **Title**: Finite-Time Global Optimality Convergence in Deep Neural Actor-Critic   Methods for Decentralized Multi-Agent Reinforcement Learning | Finite-Time Global Optimality Convergence in Deep Neural Actor-Critic Methoden für dezentralisiertes Mehr-Agenten-Verstärkungs-Lernen | 分散式多机构强化学习的深神经立体-集中式多机构强化学习方法中全球最佳程度趋同 [2505.18433v1](http://arxiv.org/abs/2505.18433v1)
 
 **Authors**: Zhiyao Zhang, Myeung Suk Oh, FNU Hairi, Ziyue Luo, Alvaro Velasquez, Jia Liu
