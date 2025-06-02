@@ -4,10 +4,21 @@ title: Home
 ---
 
 Welcome to **LinguaVitamin arXiv Papers**!
-Here you’ll find daily multilingual arXiv papers to boost your language learning.
+Here you’ll find weekly multilingual arXiv papers to boost your language learning.
 
 - Source code: [LinguaVitaminArxiv](https://github.com/sliuxl/LinguaVitaminArxiv)
 - Read news instead: [https://sliuxl.github.io/LinguaVitaminNews](https://sliuxl.github.io/LinguaVitaminNews)
+
+As of June 2025,
+it covers a few subjects with German (title only) and Chinese translation:
+
+1. `cs.CL`
+1. `cs.DC`
+1. `cs.LG`
+1. `cs.MA`
+1. `cs.PL`
+1. `cs.SE`
+
 
 ---
 
