@@ -7,31 +7,31 @@ layout: post
 - [00](#article-0) | **06-04 (3)** | After court order, OpenAI is now preserving all ChatGPT user logs | Nach gerichtlicher Anordnung bewahrt OpenAI nun alle ChatGPT-Benutzerprotokolle auf | 经法院命令后,OpenAI现在保存所有查特格博特用户日志 | [114627064774788581](https://mastodon.laurenweinstein.org/@lauren/114627064774788581)
 - [01](#article-1) | 06-04 | IRS Direct File on GitHub | IRS-Direktdatei auf GitHub | IRS GitHub 的直接文件 | [](https://chrisgiven.com/2025/05/direct-file-on-github/)
 - [02](#article-2) | 06-04 | FFmpeg merges WebRTC support | FFmpeg fusioniert WebRTC-Unterstützung | FFmpeg 合并 WebRTC 支持 | [167e343bbe75515a80db8ee72ffa0c607c944a00](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00)
-- [03](#article-3) | 06-04 | Merlin Bird ID | Kennnummer des Merlin-Vogels | Merlin 鸟类身份证 | [](https://merlin.allaboutbirds.org/)
-- [04](#article-4) | **06-03 (2)** | Deep learning gets the glory, deep fact checking gets ignored | Deep Learning bekommt den Ruhm, tiefe Faktenprüfung wird ignoriert | 深深的学习得到荣耀 深的事实调查被忽略 | [index.html](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
-- [05](#article-5) | 06-03 | Covert web-to-app tracking via localhost on Android | Covert Web-to-App-Tracking über localhost auf Android | 通过当地主机对 Android 进行网络对应用程序的隐蔽跟踪 | [](https://localmess.github.io/)
-- [06](#article-6) | 06-03 | EU Commission refuses to disclose authors behind its mass surveillance proposal | EU-Kommission weigert sich, Autoren hinter ihrem Massenüberwachungsvorschlag preiszugeben | 欧盟委员会拒绝披露其大规模监视提案背后的作者 | [](https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/)
-- [07](#article-7) | 06-03 | Quarkdown: A modern Markdown-based typesetting system | Quarkdown: Ein modernes Markdown-basiertes Satzsystem | 四面分拆:现代的、以分层分拆为基础的排版系统 | [quarkdown](https://github.com/iamgio/quarkdown)
-- [08](#article-8) | **06-02 (1)** | My AI skeptic friends are all nuts | Meine KI Skeptiker Freunde sind alle verrückt | 我的怀疑分子朋友都是疯子 | [](https://fly.io/blog/youre-all-nuts/)
-- [09](#article-9) | 06-02 | Cloudlflare builds OAuth with Claude and publishes all the prompts | Cloudlflare baut OAuth mit Claude auf und veröffentlicht alle Aufforderungen | 克劳德和克劳德一起建造OAUTS 并出版所有广告 | [](https://github.com/cloudflare/workers-oauth-provider/)
-- [10](#article-10) | 06-02 | Show HN: Kan.bn – An open-source alterative to Trello | Show HN: Kan.bn – Ein Open-Source-Alterativ zu Trello | 显示 HN: Kan.bn - 与 Trello 的开放源码替代 | [kan](https://github.com/kanbn/kan)
-- [11](#article-11) | 06-02 | If you are useful, it doesn't mean you are valued | Wenn Sie nützlich sind, bedeutet das nicht, dass Sie geschätzt werden | 如果你有用,不代表你被重视 | [if-you-are-useful-it-doesnt-mean](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean)
-- [12](#article-12) | 06-02 | How to post when no one is reading | Wie man postet, wenn niemand liest | 如何在没有人在看书时张贴文章 | [thrive-in-obscurity](https://www.jeetmehta.com/posts/thrive-in-obscurity)
-- [13](#article-13) | **06-01 (7)** | The Visual World of 'Samurai Jack' | Die visuelle Welt von 'Samurai Jack' | 萨穆里杰克的视觉世界 | [the-visual-world-of-samurai-jack](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
-- [14](#article-14) | 06-01 | Root shell on a credit card terminal | Root Shell auf einem Kreditkartenterminal | 信用卡终端上的根壳 | [yomani-hack](https://stefan-gloor.ch/yomani-hack)
-- [15](#article-15) | 06-01 | Progressive JSON | Progressive JSON | 进步JSON | [](https://overreacted.io/progressive-json/)
-- [16](#article-16) | **05-31 (6)** | Precision Clock Mk IV | Präzisionsuhr Mk IV | 精密时钟 Mk IV | [precision_clock_mk_iv](https://mitxela.com/projects/precision_clock_mk_iv)
-- [17](#article-17) | **05-30 (5)** | Photos taken inside musical instruments | Fotos aufgenommen in Musikinstrumenten | 在乐器内拍摄的照片 | [probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
-- [18](#article-18) | 05-30 | The ‘white-collar bloodbath’ is all part of the AI hype machine | Das „Weiß-Kollar-Blutbad" ist alles Teil der KI-Hype-Maschine | “白领血腥屠杀”是AI 的Hype机器的一部分。 | [anthropic-amodei-ai-jobs-nightcap](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
-- [19](#article-19) | **05-29 (4)** | FLUX.1 Kontext | FLUX.1 Kontext | FLUX.1 Kontext | [flux-kontext](https://bfl.ai/models/flux-kontext)
-- [20](#article-20) | 05-29 | Human coders are still better than LLMs | Menschliche Coder sind immer noch besser als LLMs | 人文编码器比LLMM还好 | [153](https://antirez.com/news/153)
-- [21](#article-21) | 05-29 | WeatherStar 4000+: Weather Channel Simulator | WeatherStar 4000+: Wetterkanalsimulator | 气象星4000+:气象频道模拟器 | [](https://weatherstar.netbymatt.com/)
-- [22](#article-22) | 05-29 | US Trade Court finds Trump tariffs illegal | US-Handelsgericht hält Trump Zölle illegal | 美国贸易法院认定特朗普关税非法 | [trump-s-global-tariffs-blocked-by-us-trade-court](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
-- [23](#article-23) | **05-28 (3)** | Show HN: I rewrote my Mac Electron app in Rust | Show HN: Ich habe meine Mac Electron App in Rust neu geschrieben | 显示 HN: 我在 Rust 中重写我的 Mac Electron 应用程序 | [?v=2025](https://desktopdocs.com/?v=2025)
-- [24](#article-24) | 05-28 | Japan Post launches 'digital address' system | Japan Post startet digitales Adresssystem | 日本发射日元“数字地址”系统 | [](https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/)
-- [25](#article-25) | 05-28 | The Who Cares Era | Der, der sich um die Zeit kümmert | 爱谁的时代 | [](https://dansinker.com/posts/2025-05-23-who-cares/)
-- [26](#article-26) | 05-28 | My website is ugly because I made it | Meine Website ist hässlich, weil ich es gemacht | 我的网站很丑,因为我做到了 | [](https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/)
-- [27](#article-27) | 05-28 | As a developer, my most important tools are a pen and a notebook | Als Entwickler sind meine wichtigsten Werkzeuge ein Stift und ein Notizbuch | 作为一个开发者,我最重要的工具是笔和笔记本 | [](https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/)
+- [03](#article-3) | 06-04 | Why I wrote the BEAM book | Warum ich das BEAM Buch geschrieben habe | 为什么我写了BAAM的书 | [](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
+- [04](#article-4) | 06-04 | Merlin Bird ID | Kennnummer des Merlin-Vogels | Merlin 鸟类身份证 | [](https://merlin.allaboutbirds.org/)
+- [05](#article-5) | **06-03 (2)** | Deep learning gets the glory, deep fact checking gets ignored | Deep Learning bekommt den Ruhm, tiefe Faktenprüfung wird ignoriert | 深深的学习得到荣耀 深的事实调查被忽略 | [index.html](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
+- [06](#article-6) | 06-03 | Covert web-to-app tracking via localhost on Android | Covert Web-to-App-Tracking über localhost auf Android | 通过当地主机对 Android 进行网络对应用程序的隐蔽跟踪 | [](https://localmess.github.io/)
+- [07](#article-7) | 06-03 | EU Commission refuses to disclose authors behind its mass surveillance proposal | EU-Kommission weigert sich, Autoren hinter ihrem Massenüberwachungsvorschlag preiszugeben | 欧盟委员会拒绝披露其大规模监视提案背后的作者 | [](https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/)
+- [08](#article-8) | 06-03 | Quarkdown: A modern Markdown-based typesetting system | Quarkdown: Ein modernes Markdown-basiertes Satzsystem | 四面分拆:现代的、以分层分拆为基础的排版系统 | [quarkdown](https://github.com/iamgio/quarkdown)
+- [09](#article-9) | **06-02 (1)** | My AI skeptic friends are all nuts | Meine KI Skeptiker Freunde sind alle verrückt | 我的怀疑分子朋友都是疯子 | [](https://fly.io/blog/youre-all-nuts/)
+- [10](#article-10) | 06-02 | Cloudlflare builds OAuth with Claude and publishes all the prompts | Cloudlflare baut OAuth mit Claude auf und veröffentlicht alle Aufforderungen | 克劳德和克劳德一起建造OAUTS 并出版所有广告 | [](https://github.com/cloudflare/workers-oauth-provider/)
+- [11](#article-11) | 06-02 | Show HN: Kan.bn – An open-source alterative to Trello | Show HN: Kan.bn – Ein Open-Source-Alterativ zu Trello | 显示 HN: Kan.bn - 与 Trello 的开放源码替代 | [kan](https://github.com/kanbn/kan)
+- [12](#article-12) | 06-02 | If you are useful, it doesn't mean you are valued | Wenn Sie nützlich sind, bedeutet das nicht, dass Sie geschätzt werden | 如果你有用,不代表你被重视 | [if-you-are-useful-it-doesnt-mean](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean)
+- [13](#article-13) | 06-02 | How to post when no one is reading | Wie man postet, wenn niemand liest | 如何在没有人在看书时张贴文章 | [thrive-in-obscurity](https://www.jeetmehta.com/posts/thrive-in-obscurity)
+- [14](#article-14) | **06-01 (7)** | The Visual World of 'Samurai Jack' | Die visuelle Welt von 'Samurai Jack' | 萨穆里杰克的视觉世界 | [the-visual-world-of-samurai-jack](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
+- [15](#article-15) | 06-01 | Root shell on a credit card terminal | Root Shell auf einem Kreditkartenterminal | 信用卡终端上的根壳 | [yomani-hack](https://stefan-gloor.ch/yomani-hack)
+- [16](#article-16) | 06-01 | Progressive JSON | Progressive JSON | 进步JSON | [](https://overreacted.io/progressive-json/)
+- [17](#article-17) | **05-31 (6)** | Precision Clock Mk IV | Präzisionsuhr Mk IV | 精密时钟 Mk IV | [precision_clock_mk_iv](https://mitxela.com/projects/precision_clock_mk_iv)
+- [18](#article-18) | **05-30 (5)** | Photos taken inside musical instruments | Fotos aufgenommen in Musikinstrumenten | 在乐器内拍摄的照片 | [probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
+- [19](#article-19) | 05-30 | The ‘white-collar bloodbath’ is all part of the AI hype machine | Das „Weiß-Kollar-Blutbad" ist alles Teil der KI-Hype-Maschine | “白领血腥屠杀”是AI 的Hype机器的一部分。 | [anthropic-amodei-ai-jobs-nightcap](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
+- [20](#article-20) | **05-29 (4)** | FLUX.1 Kontext | FLUX.1 Kontext | FLUX.1 Kontext | [flux-kontext](https://bfl.ai/models/flux-kontext)
+- [21](#article-21) | 05-29 | Human coders are still better than LLMs | Menschliche Coder sind immer noch besser als LLMs | 人文编码器比LLMM还好 | [153](https://antirez.com/news/153)
+- [22](#article-22) | 05-29 | WeatherStar 4000+: Weather Channel Simulator | WeatherStar 4000+: Wetterkanalsimulator | 气象星4000+:气象频道模拟器 | [](https://weatherstar.netbymatt.com/)
+- [23](#article-23) | 05-29 | US Trade Court finds Trump tariffs illegal | US-Handelsgericht hält Trump Zölle illegal | 美国贸易法院认定特朗普关税非法 | [trump-s-global-tariffs-blocked-by-us-trade-court](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
+- [24](#article-24) | **05-28 (3)** | Show HN: I rewrote my Mac Electron app in Rust | Show HN: Ich habe meine Mac Electron App in Rust neu geschrieben | 显示 HN: 我在 Rust 中重写我的 Mac Electron 应用程序 | [?v=2025](https://desktopdocs.com/?v=2025)
+- [25](#article-25) | 05-28 | Japan Post launches 'digital address' system | Japan Post startet digitales Adresssystem | 日本发射日元“数字地址”系统 | [](https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/)
+- [26](#article-26) | 05-28 | The Who Cares Era | Der, der sich um die Zeit kümmert | 爱谁的时代 | [](https://dansinker.com/posts/2025-05-23-who-cares/)
+- [27](#article-27) | 05-28 | My website is ugly because I made it | Meine Website ist hässlich, weil ich es gemacht | 我的网站很丑,因为我做到了 | [](https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/)
 - [28](#article-28) | **05-27 (2)** | Show HN: My LLM CLI tool can run tools now, from Python code or plugins | HN anzeigen: Mein LLM CLI Tool kann jetzt Werkzeuge aus Python Code oder Plugins ausführen | 显示 HN: 我的 LLLM CLI 工具现在可以运行工具, 从 Python 代码或插件运行工具 | [](https://simonwillison.net/2025/May/27/llm-tools/)
 - [29](#article-29) | 05-27 | Square Theory | Quadratische Theorie | 方形理论 | [square-theory](https://aaronson.org/blog/square-theory)
 
@@ -42,9 +42,9 @@ layout: post
 
 **Authors** (1): ColinWright
 
-<p>Article URL: <a href="https://mastodon.laurenweinstein.org/@lauren/114627064774788581">https://mastodon.laurenweinstein.org/@lauren/114627064774788581</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44185913">https://news.ycombinator.com/item?id=44185913</a></p> <p>Points: 592</p> <p># Comments: 395</p>
+<p>Article URL: <a href="https://mastodon.laurenweinstein.org/@lauren/114627064774788581">https://mastodon.laurenweinstein.org/@lauren/114627064774788581</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44185913">https://news.ycombinator.com/item?id=44185913</a></p> <p>Points: 645</p> <p># Comments: 433</p>
 
-<p> article URL: < a href="https://mastodon.laurenweinstein.org/@lauren/11462706477774788581>https://mastodon.laurenweinstein.org/@lauren/1146270707777774788581 </p> <p>Comments URL: <a href="https://news.ycombinator.com/item/news/news.ycombingator.com=44185913 </a/p > <p>points:592 </p> 评论:395 </p>
+<p> 条款 URL: < a href="https://mastodon.laurenweinstein.org/@lauren/ 11462706477774788581>https://mastodon.laurenweinstein.org/@lauren/1146270707777774788581 </p> <p>Comments URL: <a href="https://news.ycombinator.com/item/news/news.ycombingator.com=44185913 </a/p > <p>points:645 </p> 评论:433 </p>
 
 ---
 
@@ -55,9 +55,9 @@ layout: post
 
 **Authors** (1): nickthegreek
 
-<p><a href="https://github.com/IRS-Public/direct-file">https://github.com/IRS-Public/direct-file</a></p> <hr /> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44182356">https://news.ycombinator.com/item?id=44182356</a></p> <p>Points: 528</p> <p># Comments: 228</p>
+<p><a href="https://github.com/IRS-Public/direct-file">https://github.com/IRS-Public/direct-file</a></p> <hr /> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44182356">https://news.ycombinator.com/item?id=44182356</a></p> <p>Points: 533</p> <p># Comments: 227</p>
 
-<pa href=<https://github.com/IRS-Public/direct-files>>https://github.com/IRS-Public/IRS-pirent-files </a/p> <p>评论 URL: <a href=><https://news.ycombingator.com/item?id=44182356>>https://news.ycombinator.com/item?id=44182356 </a/p > <p>points:528 </p> <p评论:228 </p>
+<pa href=<https://github.com/IRS-Public/direct-files>>https://github.com/IRS-Public/IRS-pirent-files </a/p> <p>评论 URL: <a href=><https://news.ycombingator.com/itm?id=44182356>>https://news.ycombinator.com/item?id=44182356 </a/p > <p>points:533 </p> <p评论:227 </p>
 
 ---
 
@@ -68,52 +68,65 @@ layout: post
 
 **Authors** (1): Sean-Der
 
-<p>Article URL: <a href="https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00">https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44182186">https://news.ycombinator.com/item?id=44182186</a></p> <p>Points: 632</p> <p># Comments: 135</p>
+<p>Article URL: <a href="https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00">https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44182186">https://news.ycombinator.com/item?id=44182186</a></p> <p>Points: 646</p> <p># Comments: 142</p>
 
-<p> article URL: <https://git.ffmpeg.org/gitweb/ffmpeg.org/gitweb/commit/167e343bbe515a80db872ffa0c607c944a00>https://git.ffmpeg.org/gitweb/ffmpeg.git/commit1673bbe75515a80db872ffa0c607c944a00 <a/p > <p> URLus: <ahref=<https://news.ycombingator.com/item=44186> > https://news.ycombinator.com/items?id=44182186 </a/p > <p>points: 632 </p评论:135 </p>
+<p> article URL: <https://git.ffmpeg.org/gitweb/ffmpeg.org/gitweb/commit/167e343bbe515a80db872ffa0c607c944a00>https://git.ffmpeg.org/gitweb/ffmpeg.git/commit1673bbe75515a80db872ffa0c607c944a00 <a/p > <p> URLus: <ahref=<https://news.ycombingator.com/item=44186> > https://news.ycombinator.com/items?id=44182186 </a/p > <p> Points: 646 </p> 评论:142 </p>
 
 ---
 
 ## Article 3
+### Title@2025-06-04 (3): Why I wrote the BEAM book
+
+**Title**: Why I wrote the BEAM book | Warum ich das BEAM Buch geschrieben habe | 为什么我写了BAAM的书 [](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
+
+**Authors** (1): lawik
+
+<p>Article URL: <a href="https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/">https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44179257">https://news.ycombinator.com/item?id=44179257</a></p> <p>Points: 466</p> <p># Comments: 121</p>
+
+<p> article URL: <https://happihacking.com/blog/posts/2025/why_I_rote_theBEAMBook/>https://happihacking.com/blog/pposs/2025/ why_I_rote_theBEAMBook/ <p>/ <p>评论 URL:<a href="https://news.ycombinator.com/item?id=44179257> > https://news.ycombingator.com/item=?id=44179257 </a>/p > <p>points:466 <p > <p> 批注:121/p>
+
+---
+
+## Article 4
 ### Title@2025-06-04 (3): Merlin Bird ID
 
 **Title**: Merlin Bird ID | Kennnummer des Merlin-Vogels | Merlin 鸟类身份证 [](https://merlin.allaboutbirds.org/)
 
 **Authors** (1): twitchard
 
-<p>Article URL: <a href="https://merlin.allaboutbirds.org/">https://merlin.allaboutbirds.org/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44176829">https://news.ycombinator.com/item?id=44176829</a></p> <p>Points: 571</p> <p># Comments: 195</p>
+<p>Article URL: <a href="https://merlin.allaboutbirds.org/">https://merlin.allaboutbirds.org/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44176829">https://news.ycombinator.com/item?id=44176829</a></p> <p>Points: 573</p> <p># Comments: 196</p>
 
-<p> article URL: < a href=<https://merlin.allabirds.org/><https://merlin.allabirds.org/ </a/p> <p>评论 URL:<a href=>https://news.ycombinator.com/item?id=44176829> > https://news.ycombinator.com/item?id=44176829 </a/p > <p > 点:571 </p> <p评论:195 </p>
+<p> article URL: < a href=<https://merlin.allabirds.org/><https://merlin.allabirds.org/ </a/p> <p>评论 URL: <a href=>https://news.ycombinator.com/item?id=44176829> > https://news.ycombinator.com/item?id=44176829 </a/p > <p > points:573 </p > <p评论:196 </p>
 
 ---
 
-## Article 4
+## Article 5
 ### Title@2025-06-03 (2): Deep learning gets the glory, deep fact checking gets ignored
 
 **Title**: Deep learning gets the glory, deep fact checking gets ignored | Deep Learning bekommt den Ruhm, tiefe Faktenprüfung wird ignoriert | 深深的学习得到荣耀 深的事实调查被忽略 [index.html](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
 
 **Authors** (1): chmaynard
 
-<p>Article URL: <a href="https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html">https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44174965">https://news.ycombinator.com/item?id=44174965</a></p> <p>Points: 578</p> <p># Comments: 153</p>
+<p>Article URL: <a href="https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html">https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44174965">https://news.ycombinator.com/item?id=44174965</a></p> <p>Points: 579</p> <p># Comments: 153</p>
 
-<p> 条款 URL: < a href=<https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html>https://rachel.faster.ai/poss/2025-06-04-enzyme-ml-fails/index.html >/a/p > <p > Comments URL: < a href="https://news.ycombinator.com/itects=44174965" > > https://news.ycombinator.com/item=44174965 </a/p > <p > p>pointers:578 <p > <p> 评论:153 </p>
+<p> 条款 URL: < a href=<https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html>https://rachel.fast.ai/poss/2025-06-04-enzyme-ml-fails/index.html >/a/p > <p>评论意见URL:<a href="https://news.ycombinator.com/item/item=44174965" > > https://news.ycombingator.com/item=44174965 </a/p > <p > p>pointers:579 <p > <p> 评论:153 </p>
 
 ---
 
-## Article 5
+## Article 6
 ### Title@2025-06-03 (2): Covert web-to-app tracking via localhost on Android
 
 **Title**: Covert web-to-app tracking via localhost on Android | Covert Web-to-App-Tracking über localhost auf Android | 通过当地主机对 Android 进行网络对应用程序的隐蔽跟踪 [](https://localmess.github.io/)
 
 **Authors** (1): sebastian_z
 
-<p>Article URL: <a href="https://localmess.github.io/">https://localmess.github.io/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44169115">https://news.ycombinator.com/item?id=44169115</a></p> <p>Points: 497</p> <p># Comments: 319</p>
+<p>Article URL: <a href="https://localmess.github.io/">https://localmess.github.io/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44169115">https://news.ycombinator.com/item?id=44169115</a></p> <p>Points: 498</p> <p># Comments: 319</p>
 
-<p> article URL: <a href=<https://localmess.github.io/><https://localmess.github.io/ </a_p>/p> Comments URL: <a href=>https://news.ycombinator.com/itemport?id=44169115> > https://news.ycombinator.com/itemid=44169115 </a_/p> <p> points:497 </p> <p}评论:319 </p>
+<p> article URL: <a href=<https://localmess.github.io/><https://localmess.github.io/ </a_p><p>评论 URL:<a href=>https://news.ycombinator.com/itemport?id=44169115>> >https://news.ycombinator.com/itemid=44169115 </a_/p> <p>points:498 </p> <p_ocord:319 </p>
 
 ---
 
-## Article 6
+## Article 7
 ### Title@2025-06-03 (2): EU Commission refuses to disclose authors behind its mass surveillance proposal
 
 **Title**: EU Commission refuses to disclose authors behind its mass surveillance proposal | EU-Kommission weigert sich, Autoren hinter ihrem Massenüberwachungsvorschlag preiszugeben | 欧盟委员会拒绝披露其大规模监视提案背后的作者 [](https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/)
@@ -126,7 +139,7 @@ layout: post
 
 ---
 
-## Article 7
+## Article 8
 ### Title@2025-06-03 (2): Quarkdown: A modern Markdown-based typesetting system
 
 **Title**: Quarkdown: A modern Markdown-based typesetting system | Quarkdown: Ein modernes Markdown-basiertes Satzsystem | 四面分拆:现代的、以分层分拆为基础的排版系统 [quarkdown](https://github.com/iamgio/quarkdown)
@@ -139,20 +152,20 @@ layout: post
 
 ---
 
-## Article 8
+## Article 9
 ### Title@2025-06-02 (1): My AI skeptic friends are all nuts
 
 **Title**: My AI skeptic friends are all nuts | Meine KI Skeptiker Freunde sind alle verrückt | 我的怀疑分子朋友都是疯子 [](https://fly.io/blog/youre-all-nuts/)
 
 **Authors** (1): tabletcorry
 
-<p>Article URL: <a href="https://fly.io/blog/youre-all-nuts/">https://fly.io/blog/youre-all-nuts/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44163063">https://news.ycombinator.com/item?id=44163063</a></p> <p>Points: 2243</p> <p># Comments: 2760</p>
+<p>Article URL: <a href="https://fly.io/blog/youre-all-nuts/">https://fly.io/blog/youre-all-nuts/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44163063">https://news.ycombinator.com/item?id=44163063</a></p> <p>Points: 2247</p> <p># Comments: 2761</p>
 
-<p> article URL: < a href="https://fly.io/blog/yore-all-nuts/" >https://fly.io/blog/yore-all-nuts/ </a/p> <p>评论 URL: <a href="https://news.ycombingator.com/item=44163063" > <https://news.ycombingator.com/item=44163063 > </a_p > <p>points:2243 </p> <p评论:2760 </p>
+<p> article URL: < a href="https://fly.io/blog/yore-all-nuts/"<https://fly.io/blog/yore-all-nuts/ </a/p> <p>评论 URL: <a href="https://news.ycombingator.com/item=44163063" > <https://news.ycombingator.com/item=44163063 > </a_p > <p>points:2247 </p> <p评论:2761 </p>
 
 ---
 
-## Article 9
+## Article 10
 ### Title@2025-06-02 (1): Cloudlflare builds OAuth with Claude and publishes all the prompts
 
 **Title**: Cloudlflare builds OAuth with Claude and publishes all the prompts | Cloudlflare baut OAuth mit Claude auf und veröffentlicht alle Aufforderungen | 克劳德和克劳德一起建造OAUTS 并出版所有广告 [](https://github.com/cloudflare/workers-oauth-provider/)
@@ -165,46 +178,46 @@ layout: post
 
 ---
 
-## Article 10
+## Article 11
 ### Title@2025-06-02 (1): Show HN: Kan.bn – An open-source alterative to Trello
 
 **Title**: Show HN: Kan.bn – An open-source alterative to Trello | Show HN: Kan.bn – Ein Open-Source-Alterativ zu Trello | 显示 HN: Kan.bn - 与 Trello 的开放源码替代 [kan](https://github.com/kanbn/kan)
 
 **Authors** (1): henryball
 
-<p>Article URL: <a href="https://github.com/kanbn/kan">https://github.com/kanbn/kan</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44157177">https://news.ycombinator.com/item?id=44157177</a></p> <p>Points: 496</p> <p># Comments: 215</p>
+<p>Article URL: <a href="https://github.com/kanbn/kan">https://github.com/kanbn/kan</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44157177">https://news.ycombinator.com/item?id=44157177</a></p> <p>Points: 497</p> <p># Comments: 215</p>
 
-<p> article URL: <a href=<https://github.com/kanbn/kan> > https://github.com/kanbn/kan <github.kanb.com/kanbn/kan/kan </a_p>/p> Comments URL: <a href="https://news.ycombinator.com/item?id=441571777> > https://news.ycombinator.com/item?id=441571777 </a_p> <p> <points:496 </p> <p评论:215 <p>
+<p> article URL: <a href=<https://github.com/kanbn/kan> > https://github.com/kanbn/kan </a_p>/p> Comments URL: <a href=>https://news.ycombinator.com/itms=441571777> > https://news.ycombinator.com/item?id=441571777 </a_p> <p> points:497 </p> <p评论:215 <p>
 
 ---
 
-## Article 11
+## Article 12
 ### Title@2025-06-02 (1): If you are useful, it doesn't mean you are valued
 
 **Title**: If you are useful, it doesn't mean you are valued | Wenn Sie nützlich sind, bedeutet das nicht, dass Sie geschätzt werden | 如果你有用,不代表你被重视 [if-you-are-useful-it-doesnt-mean](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean)
 
 **Authors** (1): weltview
 
-<p>Article URL: <a href="https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean">https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44156935">https://news.ycombinator.com/item?id=44156935</a></p> <p>Points: 815</p> <p># Comments: 352</p>
+<p>Article URL: <a href="https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean">https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44156935">https://news.ycombinator.com/item?id=44156935</a></p> <p>Points: 816</p> <p># Comments: 352</p>
 
-<p> 条款 URL: < a href="https://betterthanrandom.substack.com/p/if-you-a-useful-it-doesnt-meative" <https://betterthanrandom.substack.com/p/if-yo-yo-are-useful-it-doesnt-meat-meat-mee/ a_p> URL: < a href="https://news.ycombinator.com/id=44156935" > https://news.ycombinator.com/item=id=44156935 < a_p > <p > points:815 </p > <p> 评论:352 </p>
+<p> 条款 URL: < a href="https://betterthanrandom.substack.com/p/if-you-a-useful-it-doesnt-meative" <https://betterthanrandom.substack.com/p/if-yo-yo-are-useful-it-doesnt-meet-meat-mee/a_p> URL: < a href="https://news.ycombinator.com/id=44156935" > https://news.ycombinator.com/item=id=44156935 < a_p > <p > points:816 </p > <p> 批注:352 </p>
 
 ---
 
-## Article 12
+## Article 13
 ### Title@2025-06-02 (1): How to post when no one is reading
 
 **Title**: How to post when no one is reading | Wie man postet, wenn niemand liest | 如何在没有人在看书时张贴文章 [thrive-in-obscurity](https://www.jeetmehta.com/posts/thrive-in-obscurity)
 
 **Authors** (1): j4mehta
 
-<p>Article URL: <a href="https://www.jeetmehta.com/posts/thrive-in-obscurity">https://www.jeetmehta.com/posts/thrive-in-obscurity</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44155746">https://news.ycombinator.com/item?id=44155746</a></p> <p>Points: 640</p> <p># Comments: 250</p>
+<p>Article URL: <a href="https://www.jeetmehta.com/posts/thrive-in-obscurity">https://www.jeetmehta.com/posts/thrive-in-obscurity</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44155746">https://news.ycombinator.com/item?id=44155746</a></p> <p>Points: 641</p> <p># Comments: 250</p>
 
-<p> article URL: <a href="https://www.jeetmehta.com/posts/thrive-in-obscurity" >https://www.jeetmehta.com/posts/thrive-in-obscurity//a/p > <p > Comments URL: <a href="https://news.ycombinator.com/itms://news.ycombingator.com/items?id=4415746 </a/p > <p>points:640 </p> <p评论:250 </p>
+<p> article URL: <a href="https://www.jeetmehta.com/posts/thrive-in-obscurity" >https://www.jeetmehta.com/posts/thrive-in-obscurity//a/p > <p > Comments URL: <a href="https://news.ycombinator.com/itms://news.ycombingator.com/items?id=4415746 </a/p > <p>points:641 </p> <p{o评:250 </p>
 
 ---
 
-## Article 13
+## Article 14
 ### Title@2025-06-01 (7): The Visual World of 'Samurai Jack'
 
 **Title**: The Visual World of 'Samurai Jack' | Die visuelle Welt von 'Samurai Jack' | 萨穆里杰克的视觉世界 [the-visual-world-of-samurai-jack](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
@@ -217,7 +230,7 @@ layout: post
 
 ---
 
-## Article 14
+## Article 15
 ### Title@2025-06-01 (7): Root shell on a credit card terminal
 
 **Title**: Root shell on a credit card terminal | Root Shell auf einem Kreditkartenterminal | 信用卡终端上的根壳 [yomani-hack](https://stefan-gloor.ch/yomani-hack)
@@ -230,7 +243,7 @@ layout: post
 
 ---
 
-## Article 15
+## Article 16
 ### Title@2025-06-01 (7): Progressive JSON
 
 **Title**: Progressive JSON | Progressive JSON | 进步JSON [](https://overreacted.io/progressive-json/)
@@ -243,7 +256,7 @@ layout: post
 
 ---
 
-## Article 16
+## Article 17
 ### Title@2025-05-31 (6): Precision Clock Mk IV
 
 **Title**: Precision Clock Mk IV | Präzisionsuhr Mk IV | 精密时钟 Mk IV [precision_clock_mk_iv](https://mitxela.com/projects/precision_clock_mk_iv)
@@ -256,7 +269,7 @@ layout: post
 
 ---
 
-## Article 17
+## Article 18
 ### Title@2025-05-30 (5): Photos taken inside musical instruments
 
 **Title**: Photos taken inside musical instruments | Fotos aufgenommen in Musikinstrumenten | 在乐器内拍摄的照片 [probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
@@ -269,7 +282,7 @@ layout: post
 
 ---
 
-## Article 18
+## Article 19
 ### Title@2025-05-30 (5): The ‘white-collar bloodbath’ is all part of the AI hype machine
 
 **Title**: The ‘white-collar bloodbath’ is all part of the AI hype machine | Das „Weiß-Kollar-Blutbad" ist alles Teil der KI-Hype-Maschine | “白领血腥屠杀”是AI 的Hype机器的一部分。 [anthropic-amodei-ai-jobs-nightcap](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap)
@@ -282,7 +295,7 @@ layout: post
 
 ---
 
-## Article 19
+## Article 20
 ### Title@2025-05-29 (4): FLUX.1 Kontext
 
 **Title**: FLUX.1 Kontext | FLUX.1 Kontext | FLUX.1 Kontext [flux-kontext](https://bfl.ai/models/flux-kontext)
@@ -295,20 +308,20 @@ layout: post
 
 ---
 
-## Article 20
+## Article 21
 ### Title@2025-05-29 (4): Human coders are still better than LLMs
 
 **Title**: Human coders are still better than LLMs | Menschliche Coder sind immer noch besser als LLMs | 人文编码器比LLMM还好 [153](https://antirez.com/news/153)
 
 **Authors** (1): longwave
 
-<p>Article URL: <a href="https://antirez.com/news/153">https://antirez.com/news/153</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44127739">https://news.ycombinator.com/item?id=44127739</a></p> <p>Points: 644</p> <p># Comments: 728</p>
+<p>Article URL: <a href="https://antirez.com/news/153">https://antirez.com/news/153</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44127739">https://news.ycombinator.com/item?id=44127739</a></p> <p>Points: 645</p> <p># Comments: 728</p>
 
-<p> article URL: <a href="https://antirez.com/news/153" >https://antirez.com/news/news/153 <a/p> <p>评论 URL: <a href="https://news.ycombingator.com/item?id=44127739" > https://news.ycombingator.com/itemid=44127739 </a/p > < p> <p>points: 644 </p > <p评论:728 </p>
+<p> article URL: <a href="https://antirez.com/news/153" >https://antirez.com/news/news/153 <a/p> <p>评论 URL: <a href="https://news.ycombingator.com/item?id=44127739" > https://news.ycombingator.com/itemid=44127739 </a/p > < p> <p>points:645 </p > <p评论:728 </p>
 
 ---
 
-## Article 21
+## Article 22
 ### Title@2025-05-29 (4): WeatherStar 4000+: Weather Channel Simulator
 
 **Title**: WeatherStar 4000+: Weather Channel Simulator | WeatherStar 4000+: Wetterkanalsimulator | 气象星4000+:气象频道模拟器 [](https://weatherstar.netbymatt.com/)
@@ -321,7 +334,7 @@ layout: post
 
 ---
 
-## Article 22
+## Article 23
 ### Title@2025-05-29 (4): US Trade Court finds Trump tariffs illegal
 
 **Title**: US Trade Court finds Trump tariffs illegal | US-Handelsgericht hält Trump Zölle illegal | 美国贸易法院认定特朗普关税非法 [trump-s-global-tariffs-blocked-by-us-trade-court](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
@@ -334,7 +347,7 @@ layout: post
 
 ---
 
-## Article 23
+## Article 24
 ### Title@2025-05-28 (3): Show HN: I rewrote my Mac Electron app in Rust
 
 **Title**: Show HN: I rewrote my Mac Electron app in Rust | Show HN: Ich habe meine Mac Electron App in Rust neu geschrieben | 显示 HN: 我在 Rust 中重写我的 Mac Electron 应用程序 [?v=2025](https://desktopdocs.com/?v=2025)
@@ -347,7 +360,7 @@ nan
 
 ---
 
-## Article 24
+## Article 25
 ### Title@2025-05-28 (3): Japan Post launches 'digital address' system
 
 **Title**: Japan Post launches 'digital address' system | Japan Post startet digitales Adresssystem | 日本发射日元“数字地址”系统 [](https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/)
@@ -360,7 +373,7 @@ nan
 
 ---
 
-## Article 25
+## Article 26
 ### Title@2025-05-28 (3): The Who Cares Era
 
 **Title**: The Who Cares Era | Der, der sich um die Zeit kümmert | 爱谁的时代 [](https://dansinker.com/posts/2025-05-23-who-cares/)
@@ -373,7 +386,7 @@ nan
 
 ---
 
-## Article 26
+## Article 27
 ### Title@2025-05-28 (3): My website is ugly because I made it
 
 **Title**: My website is ugly because I made it | Meine Website ist hässlich, weil ich es gemacht | 我的网站很丑,因为我做到了 [](https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/)
@@ -383,19 +396,6 @@ nan
 <p>Article URL: <a href="https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/">https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44114982">https://news.ycombinator.com/item?id=44114982</a></p> <p>Points: 555</p> <p># Comments: 129</p>
 
 <p> article URL: < a href=<https://goodinternetmagazine.com/my-website-is-ugly-resuel-i-maded-it/><https://goodinternetmagazine.com/my-webs-internetmagazine-is-ugly-wise-i-maded-it/>https://goodinternetmagazine. com/my-wef=" <p> URLUR: < a href="https://news.ycombingator.com/itemp=44114982 </a/p > <p>points:555 < p > <p> <p_o评:129 <p>
-
----
-
-## Article 27
-### Title@2025-05-28 (3): As a developer, my most important tools are a pen and a notebook
-
-**Title**: As a developer, my most important tools are a pen and a notebook | Als Entwickler sind meine wichtigsten Werkzeuge ein Stift und ein Notizbuch | 作为一个开发者,我最重要的工具是笔和笔记本 [](https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/)
-
-**Authors** (1): ingve
-
-<p>Article URL: <a href="https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/">https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44113210">https://news.ycombinator.com/item?id=44113210</a></p> <p>Points: 464</p> <p># Comments: 287</p>
-
-<p> article URL:<https://hamatti.org/posts/as-a- developer-my- most-import-tools-are-pen-and-a-notebook/>https://hamatti.org/posts/as-a-developer-my-import-tools-a-a-are-a-pen-and-a-notebook/ <p > 评论 URL: <a_href="https://news.ycombingator.com/itects://news.ycombingator.com/item?id=4411310 </a_p> <p>points:464 < p > <p> 评论:287 </p>
 
 ---
 
