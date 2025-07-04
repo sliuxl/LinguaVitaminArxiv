@@ -1,0 +1,455 @@
+---
+title: "cs.PL @ 2025-07-04: 032"
+date: 2025-07-04
+layout: post
+---
+
+- [00](#article-0) | **07-03 (4)** | A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual   Machine in a Meta-Tracing Compiler Framework | Eine leichte Methode zur Generierung multi-Tierer JIT Compilation Virtual Machine in einem Meta-Tracing Compiler Framework | 在元跟踪汇编器框架内生成多台JIT编译虚拟机的轻量方法 | [2504.17460v3](http://arxiv.org/abs/2504.17460v3)
+- [01](#article-1) | 07-03 | DecoRTL: A Run-time Decoding Framework for RTL Code Generation with LLMs | DecoRTL: Ein Laufzeit-Decoding-Framework für RTL-Code-Generierung mit LLMs | DecoRTL: 使用LLMs的RTL代码生成运行时间解码框架 | [2507.02226v1](http://arxiv.org/abs/2507.02226v1)
+- [02](#article-2) | **07-02 (3)** | OblivIO: Securing reactive programs by oblivious execution with bounded   traffic overheads | OblivIO: Sichern von reaktiven Programmen durch unvorsichtige Ausführung mit begrenzten Verkehrsüberschüssen | Oblivio:通过不留意地执行约束性交通间接费用,确保反应性程序的安全 | [2301.08148v2](http://arxiv.org/abs/2301.08148v2)
+- [03](#article-3) | 07-02 | Quantifying the Importance of Data Alignment in Downstream Model   Performance | Quantifizierung der Bedeutung der Datenausrichtung in Downstream-Modellleistung | 量化数据协调在下游模式绩效中的重要性 | [2501.08496v3](http://arxiv.org/abs/2501.08496v3)
+- [04](#article-4) | 07-02 | Structural Code Search using Natural Language Queries | Structural Code Suche mit Hilfe von Natural Language Queries | 使用自然语言查询的结构性法规搜索 | [2507.02107v1](http://arxiv.org/abs/2507.02107v1)
+- [05](#article-5) | 07-02 | LeanLTL: A unifying framework for linear temporal logics in Lean | LeanLTL: Ein einheitlicher Rahmen für lineare zeitliche Logiken in Lean | LeanLTL:利昂线性时间逻辑的统一框架 | [2507.01780v1](http://arxiv.org/abs/2507.01780v1)
+- [06](#article-6) | 07-02 | Globality and Regions | Globalität und Regionen | 全球和区域 | [2507.01664v1](http://arxiv.org/abs/2507.01664v1)
+- [07](#article-7) | 07-02 | Expressivity of AuDaLa: Turing Completeness and Possible Extensions | Expressivität von AuDaLa: Turing Vollständigkeit und mögliche Erweiterungen | AUDaLa的表达性:预测完整性和可能的扩展 | [2412.14938v2](http://arxiv.org/abs/2412.14938v2)
+- [08](#article-8) | 07-02 | Advanced LPeg techniques: A dual case study approach | Fortgeschrittene LPeg-Techniken: Ein Ansatz für eine Doppelfallstudie | 高级LPeg技术:双重案例研究方法 | [2507.01272v1](http://arxiv.org/abs/2507.01272v1)
+- [09](#article-9) | **07-01 (2)** | A Diagrammatic Calculus for a Functional Model of Natural Language   Semantics | Ein diagrammatischer Kalkulus für ein funktionelles Modell der natürlichen Sprachsemantik | 自然语言语义学功能模型的图表计算 | [2507.00782v1](http://arxiv.org/abs/2507.00782v1)
+- [10](#article-10) | 07-01 | The Secrets Must Not Flow: Scaling Security Verification to Large   Codebases (extended version) | Die Geheimnisse dürfen nicht fließen: Skalierung der Sicherheitsüberprüfung auf große Codebases (erweiterte Version) | 秘密不得流动:将安全核查扩大到大型代码库(扩展版) | [2507.00595v1](http://arxiv.org/abs/2507.00595v1)
+- [11](#article-11) | 07-01 | Have Object-Oriented Languages Missed a Trick with Class Function and   its Subclasses? | Haben objektorientierte Sprachen einen Trick mit Klassenfunktion und seinen Unterklassen verpasst? | 对象语言是否错过了类函数及其子类的骗局? | [2507.00488v1](http://arxiv.org/abs/2507.00488v1)
+- [12](#article-12) | **06-30 (1)** | Rust vs. C for Python Libraries: Evaluating Rust-Compatible Bindings   Toolchains | Rust vs. C für Python Bibliotheken: Bewertung von Rust-kompatiblen Bindungen Toolchains | Python图书馆的Rust诉C案:评估Rust-Compable Contracable Contails 工具链 | [2507.00264v1](http://arxiv.org/abs/2507.00264v1)
+- [13](#article-13) | 06-30 | Teaching Programming in the Age of Generative AI: Insights from   Literature, Pedagogical Proposals, and Student Perspectives | Lehrprogrammierung im Zeitalter der Generativen KI: Einsichten aus der Literatur, pädagogische Vorschläge und studentische Perspektiven | 创世时代教学规划:从文学、教学建议和学生视角看问题 | [2507.00108v1](http://arxiv.org/abs/2507.00108v1)
+- [14](#article-14) | 06-30 | Full Version: (De/Re)-Composition of Data-Parallel Computations via   Multi-Dimensional Homomorphisms | Vollversion: (De/Re)-Zusammensetzung von Daten-Parallel-Computationen über multidimensionale Homomorphismen | 完整版本: (de/Re) - 通过多维同形体进行的数据- Parallel 计算集成 | [2405.05118v4](http://arxiv.org/abs/2405.05118v4)
+- [15](#article-15) | 06-30 | Using Read Promotion and Mixed Isolation Levels for Performant Yet   Serializable Execution of Transaction Programs | Verwendung von Read Promotion und Mixed Isolation Levels für Performante und dennoch Serialisierbare Ausführung von Transaktionsprogrammen | 使用读促进和混合隔离水平来实施交易方案 | [2501.18377v3](http://arxiv.org/abs/2501.18377v3)
+- [16](#article-16) | 06-30 | What Challenges Do Developers Face When Using Verification-Aware   Programming Languages? | Welche Herausforderungen stellen sich Entwickler bei der Verwendung von Verifikations-Software-Programmiersprachen? | 开发者在使用核查-软件编程语言时面临哪些挑战? | [2506.23696v1](http://arxiv.org/abs/2506.23696v1)
+- [17](#article-17) | 06-30 | Efficient Conformance Checking of Rich Data-Aware Declare Specifications   (Extended) | Effiziente Konformitätsprüfung von Rich Data-Aware Declare Spezifikationen (erweitert) | 高富数据软件申报规格的高效合规检查(延期) | [2507.00094v1](http://arxiv.org/abs/2507.00094v1)
+- [18](#article-18) | 06-30 | Can Large Language Models Help Students Prove Software Correctness? An   Experimental Study with Dafny | Können große Sprachmodelle den Studierenden helfen, Software-Korrektur zu beweisen? Eine experimentelle Studie mit Dafny | 大语言模型能帮助学生证明软件正确性吗? 与Dafny的实验研究 | [2506.22370v2](http://arxiv.org/abs/2506.22370v2)
+- [19](#article-19) | **06-29 (7)** | Compiling a Q# Subset to QASM 3.0 in TypeScript via a JSON Based IR | Kompilieren eines Q#-Untersatzes zu QASM 3.0 in TypeScript über eine JSON-basierte IR | 在类型Script中通过基于 JSON 的 IR 计算 QASM 3. 0 的 QASM 子集 | [2506.23407v1](http://arxiv.org/abs/2506.23407v1)
+- [20](#article-20) | 06-29 | A Denotational Semantics for Quantum Loops | Eine denotationale Semantik für Quantenschleifen | 量子循环的注释性语义学 | [2506.23320v1](http://arxiv.org/abs/2506.23320v1)
+- [21](#article-21) | 06-29 | On the Feasibility of Deduplicating Compiler Bugs with Bisection | Über die Machbarkeit von Compiler Bugs mit Bisection zu deduplizieren | 应用编译器比分错误的可行性 | [2506.23281v1](http://arxiv.org/abs/2506.23281v1)
+- [22](#article-22) | 06-29 | Verifying Properties of Index Arrays in a Purely-Functional   Data-Parallel Language | Überprüfung der Eigenschaften von Index-Arrays in einer rein funktionalen Daten-Parallel-Sprache | 校验纯功能数据- Parallel 语言索引阵列属性 | [2506.23058v1](http://arxiv.org/abs/2506.23058v1)
+- [23](#article-23) | **06-28 (6)** | Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code   Generation | Kleiner = schwach? Benchmarking Robustheit quantifizierter LLMs bei der Codegenerierung | 小 = 弱 = 弱 ? | [2506.22776v1](http://arxiv.org/abs/2506.22776v1)
+- [24](#article-24) | **06-27 (5)** | L2MAC: Large Language Model Automatic Computer for Extensive Code   Generation | L2MAC: Automatischer Computer mit großem Sprachmodell für umfangreiche Code-Generierung | L2MAC:用于广泛代码生成的大型语言模拟自动计算机 | [2310.02003v6](http://arxiv.org/abs/2310.02003v6)
+- [25](#article-25) | 06-27 | Under the Hood of BlotchyQuasar: DLL-Based RAT Campaigns Against Latin   America | Unter der Haube von BlotchyQuasar: DLL-basierte RAT-Kampagnen gegen Lateinamerika | Blottchy Quasar:以DLL为基础的针对拉丁美洲的RAT运动在Blotchy Quasar的兜帽之下 | [2506.22323v1](http://arxiv.org/abs/2506.22323v1)
+- [26](#article-26) | 06-27 | Graph-Reward-SQL: Execution-Free Reinforcement Learning for Text-to-SQL   via Graph Matching and Stepwise Reward | Graph-Reward-SQL: Executionsfreies Verstärkungslernen für Text-zu-SQL über Graph Matching und Stepwise Reward | 图表-评分-SQL:通过图表匹配和分步评分,为文本到SQL进行无执行加强学习 | [2505.12380v2](http://arxiv.org/abs/2505.12380v2)
+- [27](#article-27) | 06-27 | MCFuser: High-Performance and Rapid Fusion of Memory-Bound   Compute-Intensive Operators | MCFuser: High-Performance und schnelle Fusion von Memory-Bound Compute-Intensive Operatoren | MCFuser: 内存 -- -- 弹道计算密集操作员的高度性能和迅速扩散 | [2506.22169v1](http://arxiv.org/abs/2506.22169v1)
+- [28](#article-28) | 06-27 | Programming Distributed Collective Processes in the eXchange Calculus | Programmierung verteilter kollektiver Prozesse im eXchange Calculus | eXchange Calculus 中的程序编程分配集体进程 | [2401.11212v4](http://arxiv.org/abs/2401.11212v4)
+- [29](#article-29) | **06-26 (4)** | Estimating Correctness Without Oracles in LLM-Based Code Generation | Schätzung der Korrektheit ohne Oracles in der LLM-basierten Code-Generierung | 在基于LLM的代码生成中估算无甲骨文的正确性 | [2507.00057v1](http://arxiv.org/abs/2507.00057v1)
+- [30](#article-30) | 06-26 | Large Language Model-Powered Agent for C to Rust Code Translation | Large Language Model-Powered Agent für C to Rust Code Übersetzung | C至Rust 代码翻译的大型语言示范授权代理 | [2505.15858v2](http://arxiv.org/abs/2505.15858v2)
+- [31](#article-31) | 06-26 | Describing Console I/O Behavior for Testing Student Submissions in   Haskell | Beschreibung von Console I/O-Behavior für die Prüfung von Studentenanträgen in Haskell | 哈斯凯尔测试学生提交材料的I/O行为 | [2008.09253v2](http://arxiv.org/abs/2008.09253v2)
+
+## Article 0
+### Title@2025-07-03 (4): A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual   Machine in a Meta-Tracing Compiler Framework
+
+**Title**: A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual   Machine in a Meta-Tracing Compiler Framework | Eine leichte Methode zur Generierung multi-Tierer JIT Compilation Virtual Machine in einem Meta-Tracing Compiler Framework | 在元跟踪汇编器框架内生成多台JIT编译虚拟机的轻量方法 [2504.17460v3](http://arxiv.org/abs/2504.17460v3)
+
+**Authors** (3): Yusuke Izawa, Hidehiko Masuhara, Carl Friedrich Bolz-Tereick
+
+Meta-compiler frameworks, such as RPython and Graal/Truffle, generate high-performance virtual machines (VMs) from interpreter definitions. Although they generate VMs with high-quality just-in-time (JIT) compilers, they still lack an important feature that dedicated VMs (i.e., VMs that are developed for specific languages) have, namely \emph{multi-tier compilation}. Multi-tier compilation uses light-weight compilers at early stages and highly-optimizing compilers at later stages in order to balance between compilation overheads and code quality.   We propose a novel approach to enabling multi-tier compilation in the VMs generated by a meta-compiler framework. Instead of extending the JIT compiler backend of the framework, our approach drives an existing (heavyweight) compiler backend in the framework to quickly generate unoptimized native code by merely embedding directives and compile-time operations into interpreter definitions.   As a validation of the approach, we developed 2SOM, a Simple Object Machine with a two-tier JIT compiler based on RPython. 2SOM first applies the tier-1 threaded code generator that is generated by our proposed technique, then, to the loops that exceed a threshold, applies the tier-2 tracing JIT compiler that is generated by the original RPython framework. Our performance evaluation that runs a program with a realistic workload showed that 2SOM improved, when compared against an RPython-based VM, warm-up performance by 15\%, with merely a 5\% reduction in peak performance.
+
+Meta-compiler 框架,如Rpython 和 Graal/Truffle 框架,从翻译定义中产生高性能虚拟机器(VMs),虽然它们生成了高品质虚拟机器(VMs),具有高质量的正时制(JIT)编译器,但它们仍然缺乏一个专门的VMs(即为特定语言开发的VMs)的重要特征,即:\emph{多层次编集}。多层编译器在早期阶段使用轻量的编译器,在后期高度优化编译器,以便在编译管理器和代码质量之间取得平衡。我们提出了一种新颖的方法,让VMs生成的多层次编译器能多层次的多层次编译器能够使 VMMs(即为特定语言开发的VMMs,即VMs) 后期编译器快速生成的本地代码。作为对方法的验证,我们开发了2SOM, 将第一级的JIT编辑器与双级的双级编译器比, IMS
+
+---
+
+## Article 1
+### Title@2025-07-03 (4): DecoRTL: A Run-time Decoding Framework for RTL Code Generation with LLMs
+
+**Title**: DecoRTL: A Run-time Decoding Framework for RTL Code Generation with LLMs | DecoRTL: Ein Laufzeit-Decoding-Framework für RTL-Code-Generierung mit LLMs | DecoRTL: 使用LLMs的RTL代码生成运行时间解码框架 [2507.02226v1](http://arxiv.org/abs/2507.02226v1)
+
+**Authors** (3): Mohammad Akyash, Kimia Azar, Hadi Kamali
+
+As one of their many applications, large language models (LLMs) have recently shown promise in automating register transfer level (RTL) code generation. However, conventional LLM decoding strategies, originally designed for natural language, often fail to meet the structural and semantic demands of RTL, leading to hallucinated, repetitive, or invalid code outputs. In this paper, we first investigate the root causes of these decoding failures through an empirical analysis of token-level entropy during RTL generation. Our findings reveal that LLMs exhibit low confidence in regions of structural ambiguity or semantic complexity, showing that standard decoding strategies fail to differentiate between regions requiring determinism (syntax-critical regions) and those that benefit from creative exploratory variability (design-critical regions). Then, to overcome this, we introduce DecoRTL, a novel run-time decoding strategy, that is both syntax-aware and contrastive for RTL code generation. DecoRTL integrates two complementary components: (i) self-consistency sampling, which generates multiple candidates and re-ranks them based on token-level agreement to promote correctness while maintaining diversity; and (ii) syntax-aware temperature adaptation, which classifies tokens by their syntactical and functional roles and adjusts the sampling temperature accordingly, enforcing low temperature for syntax-critical tokens and higher temperature for exploratory ones. Our approach operates entirely at inference time without requiring any additional model fine-tuning. Through evaluations on multiple open-source LLMs using the VerilogEval benchmark, we demonstrate significant improvements in syntactic validity, functional correctness, and output diversity, while the execution overhead (performance overhead) is imperceptible.
+
+作为许多应用之一,大型语言模型(LLMS)最近显示,在注册传输水平(RTL)代码生成自动化方面,大型语言模型(LLM)最近显示出了前景;然而,原本为自然语言设计的常规LLM解码战略往往无法满足RTL的结构和语义要求,导致幻灭、重复或无效代码输出。在本文中,我们首先通过对RTL生成过程中的代币性激素进行实验性分析来调查这些解码失败的根源。我们的调查结果显示,LLMS在结构模糊或语义复杂度区域中表现出了多度的可靠性,表明标准解码战略未能区分需要确定性(合成关键区域)的区域和那些受益于创造性探索性变异(设计关键区域)的区域。为了克服这些差异,我们引入了DecoRTL(一种新型运行时间解码战略),这是对RTL生成的代币种性调和对比性的。
+
+---
+
+## Article 2
+### Title@2025-07-02 (3): OblivIO: Securing reactive programs by oblivious execution with bounded   traffic overheads
+
+**Title**: OblivIO: Securing reactive programs by oblivious execution with bounded   traffic overheads | OblivIO: Sichern von reaktiven Programmen durch unvorsichtige Ausführung mit begrenzten Verkehrsüberschüssen | Oblivio:通过不留意地执行约束性交通间接费用,确保反应性程序的安全 [2301.08148v2](http://arxiv.org/abs/2301.08148v2)
+
+**Authors** (2): Jeppe Fredsgaard Blaabjerg, Aslan Askarov
+
+Traffic analysis attacks remain a significant problem for online security. Communication between nodes can be observed by network level attackers as it inherently takes place in the open. Despite online services increasingly using encrypted traffic, the shape of the traffic is not hidden. To prevent traffic analysis, the shape of a system's traffic must be independent of secrets. We investigate adapting the data-oblivious approach the reactive setting and present OblivIO, a secure language for writing reactive programs driven by network events. Our approach pads with dummy messages to hide which program sends are genuinely executed. We use an information-flow type system to provably enforce timing-sensitive noninterference. The type system is extended with potentials to bound the overhead in traffic introduced by our approach. We address challenges that arise from joining data-oblivious and reactive programming and demonstrate the feasibility of our resulting language by developing an interpreter that implements security critical operations as constant-time algorithms.
+
+网络级别的攻击者可以观察到节点之间的通信,因为其内在的开放性。尽管在线服务越来越多地使用加密的交通,但交通的形状并不隐藏。为了防止交通分析,系统交通的形状必须独立于秘密。我们调查如何调整数据透明的方法,即反应性设置,并介绍ObliviIO,这是由网络事件驱动的写作反应程序的一种安全语言。我们使用的带有隐藏程序发送的虚假信息的方法板是真正执行的。我们使用信息流类型系统来执行对时间敏感的不干预。类型系统扩展了,有可能将我们的方法引入的交通间接费用捆绑起来。我们应对加入数据渗透性和反应性编程所产生的挑战,并通过开发一个将安全关键操作作为固定时间算法的口译员来显示我们由此产生的语言的可行性。
+
+---
+
+## Article 3
+### Title@2025-07-02 (3): Quantifying the Importance of Data Alignment in Downstream Model   Performance
+
+**Title**: Quantifying the Importance of Data Alignment in Downstream Model   Performance | Quantifizierung der Bedeutung der Datenausrichtung in Downstream-Modellleistung | 量化数据协调在下游模式绩效中的重要性 [2501.08496v3](http://arxiv.org/abs/2501.08496v3)
+
+**Authors** (7): Krrish Chawla, Aryan Sahai, Mario DePavia, Sudharsan Sundar, Brando Miranda, Elyas Obbad, Sanmi Koyejo
+
+Contrary to the conventional emphasis on dataset size, we explore the role of data alignment -- an often overlooked aspect of data quality -- in training capable Large Language Models (LLMs). To do so, we use the Task2Vec-based alignment coefficient, a quantitative measure of the similarity between two datasets, to quantify the impact of alignment between training data and evaluation data on downstream performance. In particular, we conduct controlled \textit{interventional} experiments for two settings: 1. the impact of increased alignment coefficients between various pre-training (pt) against evaluation datasets, and 2. the impact of increased alignment coefficients between domain specific fine-tuning (ft) against domain specific evaluation. The domain specific task we explore is Autoformalization -- the machine translation task between natural language and code for formal verification. In both settings, we find a strong, predictable negative correlation between the alignment coefficient of a model's training and evaluation data and the model's loss/perplexity on the respective downstream task. These findings suggest a re-evaluation of LLM training approaches, demonstrating the relevance of data alignment compared to data quantity, especially in specialized downstream tasks such as Autoformalization.
+
+与传统强调数据集大小相反,我们探索了数据调整的作用 -- -- 这是数据质量中经常被忽视的一个方面 -- -- 培训有能力的大型语言模型(LLM)的作用。为此,我们使用基于TH2Vec的校准系数,这是衡量两个数据集之间相似性的量化尺度,以量化培训数据与下游业绩评价数据之间一致的影响。特别是,我们为两个环境进行了控制下对以下两个环境的测试:1. 提高培训前(试用)对评价数据集的校准系数的影响,2. 提高具体领域微调(软)对具体评价的校准系数的影响。我们探讨的领域具体任务是自动正规化 -- -- 自然语言与正式核查代码之间的机器翻译任务。在这两种情况下,我们发现模型的培训和评价数据的校准系数与模型对各下游任务的损失/难度之间存在强烈、可预测的负相关关系。这些结论表明,对LLM培训方法的重新评价,表明数据与数据数量的相关性,特别是在诸如自动正规化等专门的下游任务中。
+
+---
+
+## Article 4
+### Title@2025-07-02 (3): Structural Code Search using Natural Language Queries
+
+**Title**: Structural Code Search using Natural Language Queries | Structural Code Suche mit Hilfe von Natural Language Queries | 使用自然语言查询的结构性法规搜索 [2507.02107v1](http://arxiv.org/abs/2507.02107v1)
+
+**Authors** (8): Ben Limpanukorn, Yanjun Wang, Zach Patterson, Pranav Garg, Murali Krishna Ramanathan, Xiaofei Ma, Anoop Deoras, Miryung Kim
+
+Searching code is a common task that developers perform to understand APIs, learn common code patterns, and navigate code. Currently, developers most commonly search using keywords and regular expressions that are easy to use and widely available. Beyond keywords and regular expressions, structural code search tools allow developers to search for code based on its syntactic structure. This has numerous applications ranging from bug finding to systematically refactoring code. However, these structural code search tools operate on queries expressed in domain-specific languages (DSL) that can be difficult to learn and write. We propose to allow developers to use natural language to search for code structurally. Expressing queries in natural language provides an intuitive way to search for code and lowers the barrier to entry.   In this work, we develop a novel general approach that combines the reasoning capabilities of an LLM to interpret natural language search queries with the power of structural search tools to efficiently and accurately retrieve relevant code. We then instantiate this approach for two structural code search DSLs: Semgrep and GQL. In our evaluation, we construct a new benchmark for structural code search consisting of 400 queries over 10 Java projects. We show that our approach for structural code search based on translating NL queries to DSL queries using an LLM is effective and robust, achieving a high precision and recall ranging from 55% - 70%. Further, our approach significantly outperforms baselines based on semantic code search and LLM retrievals by up to 57% and 14% on F1 scores.
+
+搜索代码是开发者为理解 API 、 学习通用代码模式和浏览代码而执行的一项共同任务。 目前, 开发者最常用的是使用易于使用和广泛可用的关键字和常规表达式进行搜索。 除了关键字和常规表达式外, 结构代码搜索工具允许开发者搜索基于其合成结构的代码。 这有许多应用程序, 从错误查找到系统性重构代码。 然而, 这些结构代码搜索工具运行于以特定域语言( DSL) 表达的、 可能难以学习和写入的查询 。 我们提议允许开发者使用自然语言来搜索代码结构结构。 以自然语言表达的查询提供了搜索代码的直观方法, 并降低了进入障碍。 在这项工作中, 我们开发了一个新的通用方法, 将一个翻译自然语言搜索询问的推理能力与结构搜索工具的能力结合起来, 以便高效和准确地检索相关代码。 我们随后将这个方法用于两个结构代码搜索 DSLSL1 和 GQLL。 在我们的评估中, 我们为结构代码搜索的400个查询提供了新的基准, 将NLM 高级搜索到一个基于 70 LLSLSLR 和高级的排序。
+
+---
+
+## Article 5
+### Title@2025-07-02 (3): LeanLTL: A unifying framework for linear temporal logics in Lean
+
+**Title**: LeanLTL: A unifying framework for linear temporal logics in Lean | LeanLTL: Ein einheitlicher Rahmen für lineare zeitliche Logiken in Lean | LeanLTL:利昂线性时间逻辑的统一框架 [2507.01780v1](http://arxiv.org/abs/2507.01780v1)
+
+**Authors** (3): Eric Vin, Kyle A. Miller, Daniel J. Fremont
+
+We propose LeanLTL, a unifying framework for linear temporal logics in Lean 4. LeanLTL supports reasoning about traces that represent either infinite or finite linear time. The library allows traditional LTL syntax to be combined with arbitrary Lean expressions, making it straightforward to define properties involving numerical or other types. We prove that standard flavors of LTL can be embedded in our framework. The library also provides automation for reasoning about LeanLTL formulas in a way that facilitates using Lean's existing tactics. Finally, we provide examples illustrating the utility of the library in reasoning about systems that come from applications.
+
+我们建议使用LeanLTL,作为Lean 4. LeanLTL的线性时间逻辑的统一框架。图书馆允许将传统的LTL语法与任意的Lean表达式结合起来,直接界定涉及数字或其他类型的属性。我们证明,我们的框架可以嵌入LTL的标准口味。图书馆还提供自动化,以方便使用Lean的现有战术的方式解释LTL公式。最后,我们提供实例,说明图书馆在解释来自应用的系统时的效用。
+
+---
+
+## Article 6
+### Title@2025-07-02 (3): Globality and Regions
+
+**Title**: Globality and Regions | Globalität und Regionen | 全球和区域 [2507.01664v1](http://arxiv.org/abs/2507.01664v1)
+
+**Authors** (1): Hector Gramaglia
+
+We obtain a characterization of global variables by unifying abstraction with region abstraction in a region-based language. More precisely, in a previous work a language called global was presented, whose virtue is to provide a conceptually clear way of introducing imperative operations in a functional language. Memory safety is provided by the concept of linear protection, which connects the global system to a linear one. In this paper we show that the concept of global variable provided by the global language arises from the Tofte and Talping's region language through the unification of abstraction and region abstraction.
+
+更确切地说,在以前的工作中,提出了一种称为全球的语言,其优点是提供一种概念清晰的方式,以功能语言开展必要行动。 线性保护概念提供了记忆安全,将全球系统与线性保护联系起来。 在本文中,我们表明全球语言提供的全球变量概念来自托夫特语和Talping区域语言,其方法是统一抽象和区域抽象。
+
+---
+
+## Article 7
+### Title@2025-07-02 (3): Expressivity of AuDaLa: Turing Completeness and Possible Extensions
+
+**Title**: Expressivity of AuDaLa: Turing Completeness and Possible Extensions | Expressivität von AuDaLa: Turing Vollständigkeit und mögliche Erweiterungen | AUDaLa的表达性:预测完整性和可能的扩展 [2412.14938v2](http://arxiv.org/abs/2412.14938v2)
+
+**Authors** (2): Tom T. P. Franken, Thomas Neele
+
+AuDaLa is a recently introduced programming language that follows the new data autonomous paradigm. In this paradigm, small pieces of data execute functions autonomously. Considering the paradigm and the design choices of AuDaLa, it is interesting to determine the expressivity of the language. In this paper, we implement Turing machines in AuDaLa and prove that implementation correct. This proves that AuDaLa is Turing complete, giving an initial indication of AuDaLa's expressivity. Additionally, we give examples of how to add extensions to AuDaLa to increase its practical expressivity and to better match conventional parallel languages, allowing for a more straightforward and performant implementation of algorithms.
+
+AuDaLa是最近引入的编程语言,它遵循了新的数据自主模式。在这个模式中,少量数据可以自主地执行功能。考虑到AuDaLa的范式和设计选择,确定语言的表达性是很有趣的。在本文中,我们在AuDaLa使用图灵机器,并证明执行正确。这证明AuDaLa已经完成了图灵,初步显示了AuDaLa的表达性。此外,我们举例说明了如何增加AuDaLa的扩展,以提高其实际的表达性,更好地匹配传统的平行语言,从而使得算法的实施更加直接和出色。
+
+---
+
+## Article 8
+### Title@2025-07-02 (3): Advanced LPeg techniques: A dual case study approach
+
+**Title**: Advanced LPeg techniques: A dual case study approach | Fortgeschrittene LPeg-Techniken: Ein Ansatz für eine Doppelfallstudie | 高级LPeg技术:双重案例研究方法 [2507.01272v1](http://arxiv.org/abs/2507.01272v1)
+
+**Authors** (1): Zixuan Zhu
+
+This paper presents advanced optimization techniques for Lua Parsing Expression Grammars (LPeg) through two complementary case studies: a high-performance JSON parser and a sophisticated Glob-to-LPeg pattern converter. We demonstrate how strategic grammar construction can dramatically improve parsing performance without modifying the underlying LPeg library. For the JSON parser, we implement substitution capture and table construction optimization to reduce memory allocation overhead and improve object processing. For the Glob converter, we introduce segment-boundary separation, implement Cox's flattened search strategy, and develop optimized braced condition handling to prevent exponential backtracking. Comprehensive benchmarks demonstrate that our JSON parser achieves processing speeds up to 125 MB/s on complex documents, consistently outperforming dkjson and showing competitive results against rxi_json across most test cases. Our Glob-to-LPeg converter exhibits 14-92% better performance than Bun.Glob and runs 3-14 times faster than Minimatch across diverse pattern matching scenarios. This research provides practical optimization techniques for LPeg-based parsers, contributing valuable strategies to the text processing ecosystem.
+
+本文通过两个补充案例研究介绍Lua Parsing 表达语法(LPeg)的先进优化技术:高性能的 JSON 采集器和精密的Glob-LPeg模式转换器。我们展示了战略语法构造如何在不修改基本的 LPeg 库的情况下大幅提高分解性能。对于JSON 采集器,我们实施了替代捕获和表格构建优化,以减少记忆分配管理管理,改善对象处理。对于 Glob 转换器,我们引入了分界隔离,实施Cox 平坦搜索战略,并开发了优化的坚固状态处理,以防止指数回溯跟踪。全面基准显示,我们的JSON 采集器在复杂的文档上实现处理速度高达125 MB/s, 持续超过 dkjson, 并在大多数测试案例中显示对 rxi_json 的竞争结果。 我们的Glob- LPeg 转换器显示的14- 92%的性能比 Bun.Glob, 在不同模式匹配情景中运行速度比Minmmmatch快3-14。这一研究提供了实用化技术,为基于生态系统处理的宝贵战略。
+
+---
+
+## Article 9
+### Title@2025-07-01 (2): A Diagrammatic Calculus for a Functional Model of Natural Language   Semantics
+
+**Title**: A Diagrammatic Calculus for a Functional Model of Natural Language   Semantics | Ein diagrammatischer Kalkulus für ein funktionelles Modell der natürlichen Sprachsemantik | 自然语言语义学功能模型的图表计算 [2507.00782v1](http://arxiv.org/abs/2507.00782v1)
+
+**Authors** (1): Matthieu Pierre Boyer
+
+In this paper, we study a functional programming approach to natural language semantics, allowing us to increase the expressivity of a more traditional denotation style. We will formalize a category based type and effect system, and construct a diagrammatic calculus to model parsing and handling of effects, and use it to efficiently compute the denotations for sentences.
+
+在本文中,我们研究了自然语言语义学的功能性编程方法,从而使我们能够提高更传统的批注风格的表达性。 我们将正式确定基于类别类型和效果的系统,并建立一个图表计算法,以模拟对效果的分解和处理,并用它有效地计算判决的批注。
+
+---
+
+## Article 10
+### Title@2025-07-01 (2): The Secrets Must Not Flow: Scaling Security Verification to Large   Codebases (extended version)
+
+**Title**: The Secrets Must Not Flow: Scaling Security Verification to Large   Codebases (extended version) | Die Geheimnisse dürfen nicht fließen: Skalierung der Sicherheitsüberprüfung auf große Codebases (erweiterte Version) | 秘密不得流动:将安全核查扩大到大型代码库(扩展版) [2507.00595v1](http://arxiv.org/abs/2507.00595v1)
+
+**Authors** (6): Linard Arquint, Samarth Kishor, Jason R. Koenig, Joey Dodds, Daniel Kroening, Peter Müller
+
+Existing program verifiers can prove advanced properties about security protocol implementations, but are difficult to scale to large codebases because of the manual effort required. We develop a novel methodology called *Diodon* that addresses this challenge by splitting the codebase into the protocol implementation (the *Core*) and the remainder (the *Application*). This split allows us to apply powerful semi-automated verification techniques to the security-critical Core, while fully-automatic static analyses scale the verification to the entire codebase by ensuring that the Application cannot invalidate the security properties proved for the Core. The static analyses achieve that by proving *I/O independence*, i.e., that the I/O operations within the Application are independent of the Core's security-relevant data (such as keys), and that the Application meets the Core's requirements. We have proved Diodon sound by first showing that we can safely allow the Application to perform I/O independent of the security protocol, and second that manual verification and static analyses soundly compose. We evaluate Diodon on two case studies: an implementation of the signed Diffie-Hellman key exchange and a large (100k+ LoC) production Go codebase implementing a key exchange protocol for which we obtained secrecy and injective agreement guarantees by verifying a Core of about 1% of the code with the auto-active program verifier Gobra in less than three person months.
+
+现有的程序核查器可以证明有关安全协议执行的先进属性,但是由于需要人工操作,很难推广到大型代码库。我们开发了名为 *Diodon* 的新颖方法,通过将代码库分为协议执行(*Core* ) 和其余(*Application * ) 来应对这一挑战。这种分割使我们能够对安全关键核心应用强大的半自动核查技术,而全自动静态分析则通过确保应用程序不能使核心的安全属性被证明无效而将核查范围扩大到整个代码库。静态分析通过证明 *I/O独立性* ,即应用程序内I/O操作独立于协议,即应用程序内I/O操作独立于核心安全相关数据(例如钥匙),满足了核心要求。我们首先证明了Diodoon的正确性,我们能够安全地允许应用程序执行独立于安全协议的I/O,其次人工核查和静态分析可以正确进行。我们评估了两个案例研究:与Diffie-O独立性* 独立协议的I/O/OO/O/OO/O real 操作协议在3个月后进行一个核心交易中执行一个关键交易协议的3个核心程序。我们用Goffie-C 和一个大代码的核查协议,在3个关键交易中执行一个核心交易协议的运行协议的3个代码的核查协议。我们用一个加密的加密的加密的3个关键交易的版本,在1号中执行一个核心交易中,一个核心交易的代码的运行的3个加密协议的核查协议的3个加密协议的运行。
+
+---
+
+## Article 11
+### Title@2025-07-01 (2): Have Object-Oriented Languages Missed a Trick with Class Function and   its Subclasses?
+
+**Title**: Have Object-Oriented Languages Missed a Trick with Class Function and   its Subclasses? | Haben objektorientierte Sprachen einen Trick mit Klassenfunktion und seinen Unterklassen verpasst? | 对象语言是否错过了类函数及其子类的骗局? [2507.00488v1](http://arxiv.org/abs/2507.00488v1)
+
+**Authors** (1): Lloyd Allison
+
+Compared to functions in mathematics, functions in programming languages seem to be under classified. Functional programming languages based on the lambda calculus famously treat functions as first-class values. Object-oriented languages have adopted ``lambdas'', notably for call-back routines in event-based programming. Typically a programming language has functions, a function has a type, and some functions act on other functions and/or return functions but there is generally a lack of (i) ``class Function'' in the OO sense of the word class and particularly (ii) subclasses of Function for functions having specific properties. Some such classes are presented here and programmed in some popular programming languages as an experimental investigation into OO languages missing this opportunity.
+
+与数学功能相比,编程语言功能似乎处于分类之下; 功能性编程语言,以ambda cluculus著称,将功能作为头等值处理; 以目标为导向的语言采用了“lambdas''”, 特别是在以事件为基础的编程中用于回调的例行程序; 典型的编程语言有功能,一种功能有类型,有些功能是与其他功能和/或返回功能相对应的,但通常缺乏(一) 字级OO的“类函数'”,特别是(二) 功能分级,以具有特定属性的职能。有些这类课程在这里介绍,并编成一些流行的编程语言,作为对OO语言的实验性调查,没有这个机会。
+
+---
+
+## Article 12
+### Title@2025-06-30 (1): Rust vs. C for Python Libraries: Evaluating Rust-Compatible Bindings   Toolchains
+
+**Title**: Rust vs. C for Python Libraries: Evaluating Rust-Compatible Bindings   Toolchains | Rust vs. C für Python Bibliotheken: Bewertung von Rust-kompatiblen Bindungen Toolchains | Python图书馆的Rust诉C案:评估Rust-Compable Contracable Contails 工具链 [2507.00264v1](http://arxiv.org/abs/2507.00264v1)
+
+**Authors** (3): Isabella Basso do Amaral, Renato Cordeiro Ferreira, Alfredo Goldman
+
+The Python programming language is best known for its syntax and scientific libraries, but it is also notorious for its slow interpreter. Optimizing critical sections in Python entails special knowledge of the binary interactions between programming languages, and can be cumbersome to interface manually, with implementers often resorting to convoluted third-party libraries. This comparative study evaluates the performance and ease of use of the PyO3 Python bindings toolchain for Rust against ctypes and cffi. By using Rust tooling developed for Python, we can achieve state-of-the-art performance with no concern for API compatibility.
+
+Python 编程语言在其语法和科学图书馆中最出名,但它也因其翻译速度缓慢而臭名昭著。 优化 Python 的关键部分需要特别了解程序语言之间的二进制互动,并且可能难以用手动方式连接,因为执行者经常求助于复杂的第三方图书馆。 这份比较研究评估了 PyO3 Python 捆绑工具链的性能和容易使用性。 通过使用为 Python 开发的 Rust 工具链,我们可以在不考虑API 兼容性的情况下实现最先进的性能。
+
+---
+
+## Article 13
+### Title@2025-06-30 (1): Teaching Programming in the Age of Generative AI: Insights from   Literature, Pedagogical Proposals, and Student Perspectives
+
+**Title**: Teaching Programming in the Age of Generative AI: Insights from   Literature, Pedagogical Proposals, and Student Perspectives | Lehrprogrammierung im Zeitalter der Generativen KI: Einsichten aus der Literatur, pädagogische Vorschläge und studentische Perspektiven | 创世时代教学规划:从文学、教学建议和学生视角看问题 [2507.00108v1](http://arxiv.org/abs/2507.00108v1)
+
+**Authors** (4): Clemente Rubio-Manzano, Jazna Meza, Rodolfo Fernandez-Santibanez, Christian Vidal-Castro
+
+Computer programming is undergoing a true transformation driven by powerful new tools for automatic source code generation based on large language models. This transformation is also manifesting in introductory programming courses at universities around the world, generating an in-depth debate about how programming content should be taught, learned, and assessed in the context of generative artificial intelligence.   This article aims, on the one hand, to review the most relevant studies on this issue, highlighting the advantages and disadvantages identified in the specialized literature. On the other hand, it proposes enriching teaching and learning methodologies by focusing on code comprehension and execution rather than on mere coding or program functionality. In particular, it advocates for the use of visual representations of code and visual simulations of its execution as effective tools for teaching, learning, and assessing programming, thus fostering a deeper understanding among students.   Finally, the opinions of students who took the object-oriented programming course are presented to provide preliminary context supporting the incorporation of visual simulations in Java (or other languages) as part of the training process.
+
+在基于大型语言模型的自动源代码生成的强大新工具驱动下,计算机编程正在经历一场真正的转变,这种转变还体现在世界各地的大学的入门编程课程中,就如何在基因化人工智能的背景下教授、学习和评估编程内容进行了深入的辩论,文章的目的一方面是审查关于这一问题的最相关研究,突出专门文献中查明的利弊,另一方面,建议通过侧重于代码理解和执行而不是单纯的编码或程序功能来丰富教学和学习方法,特别是提倡使用代码的视觉表达和对代码执行的视觉模拟,作为教学、学习和评估编程的有效工具,从而培养学生之间的更深入理解,最后,提出参加以目标为导向的编程课程的学生的意见,以便提供初步背景,支持将爪哇语(或其他语言)的视觉模拟纳入培训过程。
+
+---
+
+## Article 14
+### Title@2025-06-30 (1): Full Version: (De/Re)-Composition of Data-Parallel Computations via   Multi-Dimensional Homomorphisms
+
+**Title**: Full Version: (De/Re)-Composition of Data-Parallel Computations via   Multi-Dimensional Homomorphisms | Vollversion: (De/Re)-Zusammensetzung von Daten-Parallel-Computationen über multidimensionale Homomorphismen | 完整版本: (de/Re) - 通过多维同形体进行的数据- Parallel 计算集成 [2405.05118v4](http://arxiv.org/abs/2405.05118v4)
+
+**Authors** (1): Ari Rasch
+
+We formally introduce a systematic (de/re)-composition approach, based on the algebraic formalism of "Multi-Dimensional Homomorphisms (MDHs)". Our approach is designed as general enough to be applicable to a wide range of data-parallel computations and for various kinds of target parallel architectures. To efficiently target the deep and complex memory and core hierarchies of contemporary architectures, we exploit our introduced (de/re)-composition approach for a correct-by-construction, parametrized cache blocking and parallelization strategy. We show that our approach is powerful enough to express, in the same formalism, the (de/re)-composition strategies of different classes of state-of-the-art approaches (scheduling-based, polyhedral, etc), and we demonstrate that the parameters of our strategies enable systematically generating code that can be fully automatically optimized (auto-tuned) for the particular target architecture and characteristics of the input and output data (e.g., their sizes and memory layouts). Particularly, our experiments confirm that via auto-tuning, we achieve higher performance than state-of-the-art approaches, including hand-optimized solutions provided by vendors (such as NVIDIA cuBLAS/cuDNN and Intel oneMKL/oneDNN), on real-world data sets and for a variety of data-parallel computations, including: linear algebra routines, stencil and quantum chemistry computations, data mining algorithms, and computations that recently gained high attention due to their relevance for deep learning.
+
+我们正式采用一种系统化(de/re)组合方法,其基础是“多元-多元-多元性同族体(MDHs)”的代数正规化。我们的方法设计得非常笼统,足以适用于广泛的数据平行计算和各种目标平行结构。为了有效地针对当代建筑的深复杂的记忆和核心等级,我们利用我们采用的(de/re)组合方法,以建立、平衡化的碳化缓存阻塞和平行化战略。我们表明,我们的方法足够强大,足以在相同的正规化中表达不同类别的最新(de/re)最新(de/re)最新(de/re)组合战略,以适用于各种数据平行计算和平行结构。我们证明,我们战略的参数能够系统地生成代码,这些代码可以自动优化(de/re)用于输入和输出数据的特定目标结构和特性(例如,其大小和记忆布局)。 特别是,我们的实验证实,通过内部-新元-内值的计算方法,我们通过自动-本地的计算和内部-轨道的计算方法,我们通过内部-数字的计算,我们通过高级-数字的计算,我们通过自动-数字-级-数字-数字-数字-数字-数字-数字-级的计算获得了数据-数字-数字-高级-数字-数字-数字-数字-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级-升级
+
+---
+
+## Article 15
+### Title@2025-06-30 (1): Using Read Promotion and Mixed Isolation Levels for Performant Yet   Serializable Execution of Transaction Programs
+
+**Title**: Using Read Promotion and Mixed Isolation Levels for Performant Yet   Serializable Execution of Transaction Programs | Verwendung von Read Promotion und Mixed Isolation Levels für Performante und dennoch Serialisierbare Ausführung von Transaktionsprogrammen | 使用读促进和混合隔离水平来实施交易方案 [2501.18377v3](http://arxiv.org/abs/2501.18377v3)
+
+**Authors** (5): Brecht Vandevoort, Alan Fekete, Bas Ketsman, Frank Neven, Stijn Vansummeren
+
+We propose a theory that can determine the lowest isolation level that can be allocated to each transaction program in an application in a mixed-isolation-level setting, to guarantee that all executions will be serializable and thus preserve all integrity constraints, even those that are not explicitly declared. This extends prior work applied to completely known transactions, to deal with the realistic situation where transactions are generated by running programs with parameters that are not known in advance. Using our theory, we propose an optimization method that allows for high throughput while ensuring that all executions are serializable. Our method is based on searching for application code modifications that are semantics-preserving while improving the isolation level allocation. We illustrate our approach to the SmallBank benchmark.
+
+我们提出了一种理论,可以确定在混合隔离环境下申请中可以分配给每个交易方案的最低隔离水平,以保证所有处决都可连续进行,从而保留所有完整性限制,甚至那些没有明确宣布的限制。这扩大了以前的工作范围,适用于完全已知的交易,处理现实的情况,即交易是通过运行带有事先不为人知的参数的程序产生的。我们提出一种优化方法,既允许高吞吐,又确保所有处决都可连续进行。我们的方法是在改进隔离水平分配的同时,寻找应用代码的修改,同时改进“小银行”基准。我们举例说明了我们对待“小银行”基准的方法。
+
+---
+
+## Article 16
+### Title@2025-06-30 (1): What Challenges Do Developers Face When Using Verification-Aware   Programming Languages?
+
+**Title**: What Challenges Do Developers Face When Using Verification-Aware   Programming Languages? | Welche Herausforderungen stellen sich Entwickler bei der Verwendung von Verifikations-Software-Programmiersprachen? | 开发者在使用核查-软件编程语言时面临哪些挑战? [2506.23696v1](http://arxiv.org/abs/2506.23696v1)
+
+**Authors** (3): Francisco Oliveira, Alexandra Mendes, Carolina Carreira
+
+Software reliability is critical in ensuring that the digital systems we depend on function correctly. In software development, increasing software reliability often involves testing. However, for complex and critical systems, developers can use Design by Contract (DbC) methods to define precise specifications that software components must satisfy. Verification-Aware (VA) programming languages support DbC and formal verification at compile-time or run-time, offering stronger correctness guarantees than traditional testing. However, despite the strong guarantees provided by VA languages, their adoption remains limited. In this study, we investigate the barriers to adopting VA languages by analyzing developer discussions on public forums using topic modeling techniques. We complement this analysis with a developer survey to better understand the practical challenges associated with VA languages. Our findings reveal key obstacles to adoption, including steep learning curves and usability issues. Based on these insights, we identify actionable recommendations to improve the usability and accessibility of VA languages. Our findings suggest that simplifying tool interfaces, providing better educational materials, and improving integration with everyday development environments could improve the usability and adoption of these languages. Our work provides actionable insights for improving the usability of VA languages and making verification tools more accessible.
+
+软件的可靠性对于确保我们正确依赖数字系统至关重要。在软件开发中,提高软件的可靠性往往涉及测试。然而,对于复杂和关键的系统,开发者可以使用合同设计(DbC)方法来界定软件组件必须满足的精确规格。核查-软件(VA)程序语言支持DbC,在编译或运行时进行正式核查,提供比传统测试更强的正确性保障。然而,尽管VA语言提供了强有力的保证,但采用VA语言仍然有限。在本研究中,我们通过分析关于公共论坛的开发者讨论,利用专题模型技术,来调查采用VA语言的障碍。我们用开发者调查来补充这一分析,以更好地了解与VA语言相关的实际挑战。我们的调查结果揭示了在采用方面的主要障碍,包括粗糙的学习曲线和可用性问题。我们根据这些洞察,确定了提高VA语言的可使用性和可获取性、可操作性的建议。我们的研究结果表明,简化工具界面、提供更好的教育材料以及改进与日常发展环境的融合可以提高这些语言的可用性和采用性。我们的工作提供了可操作性的洞察力。
+
+---
+
+## Article 17
+### Title@2025-06-30 (1): Efficient Conformance Checking of Rich Data-Aware Declare Specifications   (Extended)
+
+**Title**: Efficient Conformance Checking of Rich Data-Aware Declare Specifications   (Extended) | Effiziente Konformitätsprüfung von Rich Data-Aware Declare Spezifikationen (erweitert) | 高富数据软件申报规格的高效合规检查(延期) [2507.00094v1](http://arxiv.org/abs/2507.00094v1)
+
+**Authors** (6): Jacobo Casas-Ramos, Sarah Winkler, Alessandro Gianola, Marco Montali, Manuel Mucientes, Manuel Lama
+
+Despite growing interest in process analysis and mining for data-aware specifications, alignment-based conformance checking for declarative process models has focused on pure control-flow specifications, or mild data-aware extensions limited to numerical data and variable-to-constant comparisons. This is not surprising: finding alignments is computationally hard, even more so in the presence of data dependencies. In this paper, we challenge this problem in the case where the reference model is captured using data-aware Declare with general data types and data conditions. We show that, unexpectedly, it is possible to compute data-aware optimal alignments in this rich setting, enjoying at once efficiency and expressiveness. This is achieved by carefully combining the two best-known approaches to deal with control flow and data dependencies when computing alignments, namely A* search and SMT solving. Specifically, we introduce a novel algorithmic technique that efficiently explores the search space, generating descendant states through the application of repair actions aiming at incrementally resolving constraint violations. We prove the correctness of our algorithm and experimentally show its efficiency. The evaluation witnesses that our approach matches or surpasses the performance of the state of the art while also supporting significantly more expressive data dependencies, showcasing its potential to support real-world applications.
+
+尽管对流程分析和挖掘数据认知规格的兴趣日益浓厚,但对申报过程模型的校正检查也越来越注重纯控制流规格,或仅限于数字数据和可变至连续的比较的轻微数据认知扩展,这并不令人惊讶:在数据依赖性存在的情况下,发现校正在计算上是困难的,甚至更为困难。在本文中,我们质疑在使用数据认知声明以一般数据类型和数据条件来采集参考模型时的这一问题。我们出乎意料地表明,在这个丰富环境中,有可能计算出数据认知的最佳校正,既具有一度的效率和直观性。这是通过仔细结合两种最著名的方法实现的:在计算校正对时,即A*搜索和SMT解算时,处理控制流量和数据依赖性这两个最著名的方法。具体地说,我们采用了一种新的算法技术,即有效探索搜索空间,通过应用旨在逐步解决约束性违规现象的修复行动产生后代国家。我们证明了我们的算法的正确性,并实验性地展示了它的效率。我们的评价证人们认为,我们的方法在支持或超过其实际应用的状态的同时,也十分可靠地证明了它的真实性。
+
+---
+
+## Article 18
+### Title@2025-06-30 (1): Can Large Language Models Help Students Prove Software Correctness? An   Experimental Study with Dafny
+
+**Title**: Can Large Language Models Help Students Prove Software Correctness? An   Experimental Study with Dafny | Können große Sprachmodelle den Studierenden helfen, Software-Korrektur zu beweisen? Eine experimentelle Studie mit Dafny | 大语言模型能帮助学生证明软件正确性吗? 与Dafny的实验研究 [2506.22370v2](http://arxiv.org/abs/2506.22370v2)
+
+**Authors** (4): Carolina Carreira, Álvaro Silva, Alexandre Abreu, Alexandra Mendes
+
+Students in computing education increasingly use large language models (LLMs) such as ChatGPT. Yet, the role of LLMs in supporting cognitively demanding tasks, like deductive program verification, remains poorly understood. This paper investigates how students interact with an LLM when solving formal verification exercises in Dafny, a language that supports functional correctness, by allowing programmers to write formal specifications and automatically verifying that the implementation satisfies the specification. We conducted a mixed-methods study with master's students enrolled in a formal methods course. Each participant completed two verification problems, one with access to a custom ChatGPT interface that logged all interactions, and the other without. We identified strategies used by successful students and assessed the level of trust students place in LLMs. Our findings show that students perform significantly better when using ChatGPT; however, performance gains are tied to prompt quality. We conclude with practical recommendations for integrating LLMs into formal methods courses more effectively, including designing LLM-aware challenges that promote learning rather than substitution.
+
+然而,LLMS在支持认知要求高的任务(如计算程序核查)方面的作用仍然不为人所知。本文调查了学生在解决Dafny的正式核查练习时如何与LLM互动。 Dafny是支持功能正确性的一种语言,它使程序设计员能够编写正式的规格,并自动核实执行符合规格。我们与注册参加正规方法课程的硕士学生进行了混合方法研究。每个参与者都完成了两个核查问题,一个是能够使用记录所有互动的CatGPT用户界面,另一个是没有。我们确定了成功学生使用的战略,并评估了LLMS学生的信任程度。我们的调查结果显示,学生在使用CatGPT时表现得更好;然而,成绩与及时的质量挂钩。我们最后提出了将LMS更有效地纳入正规方法课程的实用建议,包括设计LMM-aware挑战,促进学习而不是替代。
+
+---
+
+## Article 19
+### Title@2025-06-29 (7): Compiling a Q# Subset to QASM 3.0 in TypeScript via a JSON Based IR
+
+**Title**: Compiling a Q# Subset to QASM 3.0 in TypeScript via a JSON Based IR | Kompilieren eines Q#-Untersatzes zu QASM 3.0 in TypeScript über eine JSON-basierte IR | 在类型Script中通过基于 JSON 的 IR 计算 QASM 3. 0 的 QASM 子集 [2506.23407v1](http://arxiv.org/abs/2506.23407v1)
+
+**Authors** (1): Marcus Edwards
+
+We implement a compile toolchain from Q# to QASM 3.0 including a full-featured lexer and parser implementation, as well as a compiler that supports a subset of Q# features. The lexer, parser and compiler are shown to work with various input Q# programs and the implementation is compared against existing Q# compile tools. Unlike the Microsoft implementation of the official Q# compile toolchain, our implementation is written in TypeScript in order to port functionality to web environments.
+
+我们实施了从至QASM3.0的汇编工具链,包括全功能词汇和剖析器实施,以及一个支持子集特征的汇编器。词典、剖析器和汇编器被显示与各种输入程序一起工作,并且与现有的汇编工具进行比较。与微软实施官方的汇编工具链不同,我们的实施用TypeScript书写,以便将功能移植到网络环境。
+
+---
+
+## Article 20
+### Title@2025-06-29 (7): A Denotational Semantics for Quantum Loops
+
+**Title**: A Denotational Semantics for Quantum Loops | Eine denotationale Semantik für Quantenschleifen | 量子循环的注释性语义学 [2506.23320v1](http://arxiv.org/abs/2506.23320v1)
+
+**Authors** (2): Nicola Assolini, Alessandra Di Pierro
+
+Programming a quantum computer, i.e., implementing quantum algorithms on a quantum processor-based copmputer architecture, is a task that can be addressed (just as for classical computers) at different levels of abstraction. This paper proposes a denotational semantics for high-level quantum programming constructs, focusing on the conceptual meaning of quantum-controlled branching and iteration. We introduce a denotational domain where a mathematical meaning of a quantum control flow with loops can be defined, which reflects the coherent evolution of the quantum system implementing the program.
+
+编程量子计算机,也就是在量子处理器基共生器结构上实施量子算法,这是一项可以在不同抽象层次处理的任务(正像古典计算机一样)。本文建议对高量子编程结构进行批注性语义学,重点是量子控制分支和迭代的概念含义。我们引入了一个批注性域,在这个域中,可以界定量子控制流的数学含义,并循环,这反映了执行程序的量子系统的连贯演进。
+
+---
+
+## Article 21
+### Title@2025-06-29 (7): On the Feasibility of Deduplicating Compiler Bugs with Bisection
+
+**Title**: On the Feasibility of Deduplicating Compiler Bugs with Bisection | Über die Machbarkeit von Compiler Bugs mit Bisection zu deduplizieren | 应用编译器比分错误的可行性 [2506.23281v1](http://arxiv.org/abs/2506.23281v1)
+
+**Authors** (3): Xintong Zhou, Zhenyang Xu, Chengnian Sun
+
+Random testing has proven to be an effective technique for compiler validation. However, the debugging of bugs identified through random testing presents a significant challenge due to the frequent occurrence of duplicate test programs that expose identical compiler bugs. The process to identify duplicates is a practical research problem known as bug deduplication. Prior methodologies for compiler bug deduplication primarily rely on program analysis to extract bug-related features for duplicate identification, which can result in substantial computational overhead and limited generalizability. This paper investigates the feasibility of employing bisection, a standard debugging procedure largely overlooked in prior research on compiler bug deduplication, for this purpose. Our study demonstrates that the utilization of bisection to locate failure-inducing commits provides a valuable criterion for deduplication, albeit one that requires supplementary techniques for more accurate identification. Building on these results, we introduce BugLens, a novel deduplication method that primarily uses bisection, enhanced by the identification of bug-triggering optimizations to minimize false negatives. Empirical evaluations conducted on four real-world datasets demonstrate that BugLens significantly outperforms the state-of-the-art analysis-based methodologies Tamer and D3 by saving an average of 26.98% and 9.64% human effort to identify the same number of distinct bugs. Given the inherent simplicity and generalizability of bisection, it presents a highly practical solution for compiler bug deduplication in real-world applications.
+
+事实证明,随机测试是编译器验证的有效技术。然而,通过随机测试查明的错误的调试是一个重大挑战,因为经常出现重复的测试程序,暴露了相同的编译器错误。识别重复的程序是一个实际的研究问题,称为“错误除错”。编译器错误解析的先前方法主要依靠程序分析,以提取与错误有关的特性进行重复识别,这可能导致大量的计算间接费用和有限的一般性。本文调查了使用双节的可行性,这是一种标准调试程序,在以前关于编译器错误除错的研究中大都忽略了。我们的研究显示,使用双节来定位失败引引引出错误的程序,为解析提供了宝贵的标准,尽管这是一个需要补充技术才能更准确地辨别的问题。基于这些结果,我们引入了一种新颖的解析方法,主要使用双节,通过识别错误调式优化来尽量减少虚假的负差。对四个真实世界数据集进行的“BugLens”评估显示, 错误Lenergal 大大超越了“错误-duction-inal-deal-developyal”应用了“9.68-deal-laft-laphyal-de-deal-laphy-deal-de-deal-laphyal-deal-debiltyal-deal-deal roduction-deal-deal-deal-deal-deal-deal-robal-deal-deal-deal-deal-deal-deal-deal-deal-deal-debal-deal-deal-deal-deal-deal-debal-deal-deal-deal-deal-deal-deal-rodal-deal-deal-deal-deal-deal-deal-deal-deal-deal-rodal-deal rodal-deal-deal-deal-debal-deal-deal-debal-deal-deal-deal-deal-deal-deal-deal-deal-deal-deal-deal-deal-deal-deal-deal-deal-deal-deal-deal-deal-de
+
+---
+
+## Article 22
+### Title@2025-06-29 (7): Verifying Properties of Index Arrays in a Purely-Functional   Data-Parallel Language
+
+**Title**: Verifying Properties of Index Arrays in a Purely-Functional   Data-Parallel Language | Überprüfung der Eigenschaften von Index-Arrays in einer rein funktionalen Daten-Parallel-Sprache | 校验纯功能数据- Parallel 语言索引阵列属性 [2506.23058v1](http://arxiv.org/abs/2506.23058v1)
+
+**Authors** (3): Nikolaj Hey Hinnerskov, Robert Schenck, Cosmin E. Oancea
+
+This paper presents a novel approach to automatically verify properties of pure data-parallel programs with non-linear indexing -- expressed as pre- and post-conditions on functions. Programs consist of nests of second-order array combinators (e.g., map, scan, and scatter) and loops. The key idea is to represent arrays as index functions: programs are index function transformations over which properties are propagated and inferred. Our framework proves properties on index functions by distilling them into algebraic (in)equalities and discharging them to a Fourier-Motzkin-based solver. The framework is practical and accessible: properties are not restricted to a decidable logic, but instead are carefully selected to express practically useful guarantees that can be automatically reasoned about and inferred. These guarantees extend beyond program correctness and can be exploited by the entire compiler pipeline for optimization. We implement our system in the pure data-parallel language Futhark and demonstrate its practicality on seven applications, reporting an average verification time of 1 second. Two case studies show how eliminating dynamic verification in GPU programs results in significant speedups.
+
+本文介绍了一种新颖的方法,用于自动核查纯数据平行程序(以功能的预设和后设条件表示)的特性。程序由二阶阵列组合器(如地图、扫描和散射)和环形组成。关键的想法是将阵列作为索引功能:程序是指数函数转换,其属性是传播和推断的。我们的框架通过将这些功能转化为代数(不平等),并将其放入以Fourier-Motzkin为基础的求解器,来证明索引功能的特性。框架是实用和可访问的:特性不局限于一个可分解的逻辑,而是经过仔细选择,以表达可以自动解释和推断的实用的保证。这些保证超出了程序正确性,可以被整个编译管道用于优化。我们用纯数据单词 Futhark 来实施我们的系统,并在7个应用程序上展示其实用性,报告平均核查时间为1秒。两个案例研究显示如何消除GPU程序动态核查结果显著的速度。
+
+---
+
+## Article 23
+### Title@2025-06-28 (6): Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code   Generation
+
+**Title**: Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code   Generation | Kleiner = schwach? Benchmarking Robustheit quantifizierter LLMs bei der Codegenerierung | 小 = 弱 = 弱 ? [2506.22776v1](http://arxiv.org/abs/2506.22776v1)
+
+**Authors** (4): Sen Fang, Weiyuan Ding, Antonio Mastropaolo, Bowen Xu
+
+Quantization has emerged as a mainstream method for compressing Large Language Models (LLMs), reducing memory requirements and accelerating inference without architectural modifications. While existing research primarily focuses on evaluating the effectiveness of quantized LLMs compared to their original counterparts, the impact on robustness remains largely unexplored.In this paper, we present the first systematic investigation of how quantization affects the robustness of LLMs in code generation tasks. Through extensive experiments across four prominent LLM families (LLaMA, DeepSeek, CodeGen, and StarCoder) with parameter scales ranging from 350M to 33B, we evaluate robustness from dual perspectives: adversarial attacks on input prompts and noise perturbations on model architecture. Our findings challenge conventional wisdom by demonstrating that quantized LLMs often exhibit superior robustness compared to their full-precision counterparts, with 51.59% versus 42.86% of our adversarial experiments showing better resilience in quantized LLMs. Similarly, our noise perturbation experiments also confirm that LLMs after quantitation generally withstand higher levels of weight disturbances. These results suggest that quantization not only reduces computational requirements but can actually enhance LLMs' reliability in code generation tasks, providing valuable insights for developing more robust and efficient LLM deployment strategies.
+
+量化已成为压缩大语言模型(LLMS)的主流方法,减少了记忆要求,加快了不进行建筑修改的推论。虽然现有研究主要侧重于评价量化的LMS相对于原始对等公司的效力,但对稳健性的影响基本上尚未探索。在本文件中,我们首次系统地调查了量化如何影响高语言模型在代码生成任务中的稳健性。通过在四个著名的LLM家庭(LLAMA、DeepSeek、CocGen和StarCoder)进行从350M到33B等参数尺度的广泛实验,我们从两个角度评估了稳健性:对投入提示的对抗性攻击和对模型结构的噪音。我们的调查结果挑战了常规智慧,表明量化的LMS往往比其完全精准的对等企业表现出超强的稳健性。在量化的LMS中,51.59%比42.86%的对抗性实验显示出更强的弹性。同样,我们的噪音渗透性实验还证实,在量化后,LMSMS通常能够承受更高程度的重量扰动。这些结果表明,为更可靠的LMS的计算任务提供更可靠的配置。
+
+---
+
+## Article 24
+### Title@2025-06-27 (5): L2MAC: Large Language Model Automatic Computer for Extensive Code   Generation
+
+**Title**: L2MAC: Large Language Model Automatic Computer for Extensive Code   Generation | L2MAC: Automatischer Computer mit großem Sprachmodell für umfangreiche Code-Generierung | L2MAC:用于广泛代码生成的大型语言模拟自动计算机 [2310.02003v6](http://arxiv.org/abs/2310.02003v6)
+
+**Authors** (3): Samuel Holt, Max Ruiz Luyten, Mihaela van der Schaar
+
+Transformer-based large language models (LLMs) are constrained by the fixed context window of the underlying transformer architecture, hindering their ability to produce long and coherent outputs. Memory-augmented LLMs are a promising solution, but current approaches cannot handle long output generation tasks since they (1) only focus on reading memory and reduce its evolution to the concatenation of new memories or (2) use very specialized memories that cannot adapt to other domains. This paper presents L2MAC, the first practical LLM-based general-purpose stored-program automatic computer (von Neumann architecture) framework, an LLM-based multi-agent system, for long and consistent output generation. Its memory has two components: the instruction registry, which is populated with a prompt program to solve the user-given task, and a file store, which will contain the final and intermediate outputs. Each instruction in turn is executed by a separate LLM agent, whose context is managed by a control unit capable of precise memory reading and writing to ensure effective interaction with the file store. These components enable L2MAC to generate extensive outputs, bypassing the constraints of the finite context window while producing outputs that fulfill a complex user-specified task. We empirically demonstrate that L2MAC achieves state-of-the-art performance in generating large codebases for system design tasks, significantly outperforming other coding methods in implementing the detailed user-specified task; we show that L2MAC works for general-purpose extensive text-based tasks, such as writing an entire book; and we provide valuable insights into L2MAC's performance improvement over existing methods.
+
+基于变压器的大型变换语言模型(LLMS)受到基础变压器结构固定背景窗口的限制,妨碍其产生长期和连贯产出的能力。内存增强的LLMS是一个很有希望的解决方案,但目前的方法无法处理长期产出生成任务,因为它们(1) 只侧重于读取记忆,将其演化到新记忆的融合,或(2) 使用无法适应其他领域的非常专门的记忆。本文展示了L2MAC, 这是第一个基于LMM的实用通用存储自动程序(Von Neumann架构)框架,一个基于LMM的多试机系统,用于长期和一致产出的生成。它的记忆有两个组成部分:指示登记册,它包含一个用于解析用户授权的任务的快速程序,以及一个包含最终和中间产出的文件储存。 每项指示都由一个独立的LMMA代理机构执行,其背景由一个能够精确记忆读写和书写的控制单位管理,以确保与文件库的有效互动。这些组成部分使得L2MAC公司能够产生广泛的产出,绕过有限背景窗口的限制,同时将产出制成一个执行复杂版本的LMAC2号的系统,从而完成复杂的用户任务。
+
+---
+
+## Article 25
+### Title@2025-06-27 (5): Under the Hood of BlotchyQuasar: DLL-Based RAT Campaigns Against Latin   America
+
+**Title**: Under the Hood of BlotchyQuasar: DLL-Based RAT Campaigns Against Latin   America | Unter der Haube von BlotchyQuasar: DLL-basierte RAT-Kampagnen gegen Lateinamerika | Blottchy Quasar:以DLL为基础的针对拉丁美洲的RAT运动在Blotchy Quasar的兜帽之下 [2506.22323v1](http://arxiv.org/abs/2506.22323v1)
+
+**Authors** (1): Alessio Di Santo
+
+A sophisticated malspam campaign was recently uncovered targeting Latin American countries, with a particular focus on Brazil. This operation utilizes a highly deceptive phishing email to trick users into executing a malicious MSI file, initiating a multi-stage infection. The core of the attack leverages DLL side-loading, where a legitimate executable from Valve Corporation is used to load a trojanized DLL, thereby bypassing standard security defenses.   Once active, the malware, a variant of QuasarRAT known as BlotchyQuasar, is capable of a wide range of malicious activities. It is designed to steal sensitive browser-stored credentials and banking information, the latter through fake login windows mimicking well-known Brazilian banks. The threat establishes persistence by modifying the Windows registry , captures user keystrokes through keylogging , and exfiltrates stolen data to a Command-and-Control (C2) server using encrypted payloads. Despite its advanced capabilities, the malware code exhibits signs of rushed development, with inefficiencies and poor error handling that suggest the threat actors prioritized rapid deployment over meticulous design. Nonetheless, the campaign extensive reach and sophisticated mechanisms pose a serious and immediate threat to the targeted regions, underscoring the need for robust cybersecurity defenses.
+
+最近发现了一个针对拉丁美洲国家的复杂的恶性垃圾邮件运动,特别以巴西为重点。这项行动利用了一个高度欺骗性的假象邮件来欺骗用户执行恶意的 MSI 文件,启动多阶段感染。 攻击的核心是 DLL 侧载杠杆, Valve 公司的一个合法执行者用来装载一个硬盘化的 DLL, 从而绕过标准的安全防御系统。 一旦启动, 恶意软件, 一种名为BlotchyQuasar的变种 QuasarRAT , 能够开展广泛的恶意活动。 设计它的目的是通过假的登录窗口窃取敏感浏览器存储的证书和银行信息, 而后者则通过模拟广为人知的巴西银行。 威胁通过修改视窗登记册,通过键盘捕捉用户键盘键盘, 以及使用加密的有效有效载荷( C2) 将被窃取的数据释放到一个指挥控制系统( C2) 服务器。 尽管能力先进, 恶意代码显示仓促发展的迹象, 其效率低劣和错误的处理表明威胁行为者将优先迅速部署到严格的安全系统。 尽管如此, , 大规模的行动需要立即的严密的安保。
+
+---
+
+## Article 26
+### Title@2025-06-27 (5): Graph-Reward-SQL: Execution-Free Reinforcement Learning for Text-to-SQL   via Graph Matching and Stepwise Reward
+
+**Title**: Graph-Reward-SQL: Execution-Free Reinforcement Learning for Text-to-SQL   via Graph Matching and Stepwise Reward | Graph-Reward-SQL: Executionsfreies Verstärkungslernen für Text-zu-SQL über Graph Matching und Stepwise Reward | 图表-评分-SQL:通过图表匹配和分步评分,为文本到SQL进行无执行加强学习 [2505.12380v2](http://arxiv.org/abs/2505.12380v2)
+
+**Authors** (13): Han Weng, Puzhen Wu, Cui Longjie, Yi Zhan, Boyi Liu, Yuanfeng Song, Dun Zeng, Yingxiang Yang, Qianru Zhang, Dong Huang, Xiaoming Yin, Yang Sun, Xing Chen
+
+Reinforcement learning (RL) has been widely adopted to enhance the performance of large language models (LLMs) on Text-to-SQL tasks. However, existing methods often rely on execution-based or LLM-based Bradley-Terry reward models. The former suffers from high execution latency caused by repeated database calls, whereas the latter imposes substantial GPU memory overhead, both of which significantly hinder the efficiency and scalability of RL pipelines. To this end, we propose a novel Text-to-SQL RL fine-tuning framework named Graph-Reward-SQL, which employs the GMNScore outcome reward model. We leverage SQL graph representations to provide accurate reward signals while significantly reducing inference time and GPU memory usage. Building on this foundation, we further introduce StepRTM, a stepwise reward model that provides intermediate supervision over Common Table Expression (CTE) subqueries. This encourages both functional correctness and structural clarity of SQL. Extensive comparative and ablation experiments on standard benchmarks, including Spider and BIRD, demonstrate that our method consistently outperforms existing reward models.
+
+强化学习(RL)已被广泛采用,以提高关于文本到SQL任务的大型语言模型(LLM)的性能,然而,现有方法往往依赖基于执行的或基于LLM的布拉德利-泰瑞奖励模型,前者由于多次的数据库访问而导致的高度执行延迟,而后者则造成大量的GPU记忆管理管理费,两者都严重妨碍了RL输油管的效率和可缩放性。为此,我们提议采用名为图-Rward-SQL的新文本到SQL的微调调整框架,采用GMNS核心成果奖励模型。我们利用SQL图表表示法提供准确的奖赏信号,同时大大减少推算时间和GPU记忆的使用。在此基础上,我们进一步引入了StepRTM,这是对通用表表达(CTE)子槽进行中间监督的一种渐进式奖励模式。这鼓励SQL(包括蜘蛛和BIRD)在标准基准方面进行功能上的正确性和结构清晰性比较和升级试验,表明我们的方法一贯地超越了现有的奖励模式。
+
+---
+
+## Article 27
+### Title@2025-06-27 (5): MCFuser: High-Performance and Rapid Fusion of Memory-Bound   Compute-Intensive Operators
+
+**Title**: MCFuser: High-Performance and Rapid Fusion of Memory-Bound   Compute-Intensive Operators | MCFuser: High-Performance und schnelle Fusion von Memory-Bound Compute-Intensive Operatoren | MCFuser: 内存 -- -- 弹道计算密集操作员的高度性能和迅速扩散 [2506.22169v1](http://arxiv.org/abs/2506.22169v1)
+
+**Authors** (4): Zheng Zhang, Donglin Yang, Xiaobo Zhou, Dazhao Cheng
+
+Operator fusion, a key technique to improve data locality and alleviate GPU memory bandwidth pressure, often fails to extend to the fusion of multiple compute-intensive operators due to saturated computation throughput. However, the dynamicity of tensor dimension sizes could potentially lead to these operators becoming memory-bound, necessitating the generation of fused kernels, a task hindered by limited search spaces for fusion strategies, redundant memory access, and prolonged tuning time, leading to sub-optimal performance and inefficient deployment.   We introduce MCFuser, a pioneering framework designed to overcome these obstacles by generating high-performance fused kernels for what we define as memory-bound compute-intensive (MBCI) operator chains. Leveraging high-level tiling expressions to delineate a comprehensive search space, coupled with Directed Acyclic Graph (DAG) analysis to eliminate redundant memory accesses, MCFuser streamlines kernel optimization. By implementing guidelines to prune the search space and incorporating an analytical performance model with a heuristic search, MCFuser not only significantly accelerates the tuning process but also demonstrates superior performance. Benchmarked against leading compilers like Ansor on NVIDIA A100 and RTX3080 GPUs, MCFuser achieves up to a 5.9x speedup in kernel performance and outpaces other baselines while reducing tuning time by over 70-fold, showcasing its agility.
+
+操作员融合是改进数据地点和减轻 GPU 记忆带宽压力的关键技术,由于饱和的计算过程,这种关键技术往往无法扩大到多重计算密集操作员的融合,但由于饱和的计算过程,这些计算密集操作员往往无法将其融合起来。然而,强度尺寸的动态性能可能会导致这些操作员进入记忆中,从而需要生成引信的内核,这一任务由于聚合战略搜索空间有限、多余的内存访问和延长调时而受阻,导致工作表现不尽理想,部署效率低下。我们引入了MCFuser,这是一个开拓性框架,旨在克服这些障碍,通过生成高性能的装装合内核密集操作员(MBCI)操作链来生成高性能的内装内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核 执行准则。执行准则 执行准则 执行准则 执行准则 执行准则 执行准则 执行准则 执行准则 执行准则 执行准则 。M内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核内核 核 , 等 等等 等 等 等 等 等 等 等 等 等一级 等一级 等前核内核内核管制内核内核内核内核内核管制内核内核内核内核内核内核管制内核内核内核
+
+---
+
+## Article 28
+### Title@2025-06-27 (5): Programming Distributed Collective Processes in the eXchange Calculus
+
+**Title**: Programming Distributed Collective Processes in the eXchange Calculus | Programmierung verteilter kollektiver Prozesse im eXchange Calculus | eXchange Calculus 中的程序编程分配集体进程 [2401.11212v4](http://arxiv.org/abs/2401.11212v4)
+
+**Authors** (5): Giorgio Audrito, Roberto Casadei, Ferruccio Damiani, Gianluca Torta, Mirko Viroli
+
+Recent trends like the Internet of Things (IoT) suggest a vision of dense and multi-scale deployments of computing devices in nearly all kinds of environments. A prominent engineering challenge revolves around programming the collective adaptive behaviour of such computational ecosystems. This requires abstractions able to capture concepts like ensembles (dynamic groups of cooperating devices) and collective tasks (joint activities carried out by ensembles). In this work, we consider collections of devices interacting with neighbours and that execute in nearly-synchronised sense-compute-interact rounds, where the computation is given by a single program mapping sensing values and incoming messages to output and outcoming messages. To support programming whole computational collectives, we propose the abstraction of a distributed collective process, which can be used to define at once the ensemble formation logic and its collective task. We formalise the abstraction in the eXchange Calculus (XC), a core functional language based on neighbouring values (maps from neighbours to values) where state and interaction is handled through a single primitive, exchange, and provide a corresponding implementation in the FCPP language. Then, we exercise distributed collective processes using two case studies: multi-hop message propagation and distributed monitoring of spatial properties. Finally, we discuss the features of the abstraction and its suitability for different kinds of distributed computing applications.
+
+在这项工作中,我们考虑与邻居发生互动的装置的集成,这些装置以近同步的感知和计算互动周期执行,计算方法是由一个单一程序绘制感测值和发送信息到输出和流出信息。为了支持整个计算集体的编程,我们提议一个分布式集体过程的抽象化,这个过程可以用来立即界定共性形成逻辑及其集体任务。我们把电子Xchange Calculus(XC)中的抽象化,这是一个基于相邻价值的核心功能语言(从邻居到价值观的图解),通过单一原始、交换处理国家和互动,并在FCPP语言中提供相应的执行。最后,我们利用两种案例研究,进行分布式集成的集体进程,并传播各种空间信息。最后,我们用两种案例研究的形式,进行集体分布式的数学特性。我们用两种案例研究来传播其空间信息。最后,我们用两种案例研究来传播空间信息。
+
+---
+
+## Article 29
+### Title@2025-06-26 (4): Estimating Correctness Without Oracles in LLM-Based Code Generation
+
+**Title**: Estimating Correctness Without Oracles in LLM-Based Code Generation | Schätzung der Korrektheit ohne Oracles in der LLM-basierten Code-Generierung | 在基于LLM的代码生成中估算无甲骨文的正确性 [2507.00057v1](http://arxiv.org/abs/2507.00057v1)
+
+**Authors** (4): Thomas Valentin, Ardi Madadi, Gaetano Sapia, Marcel Böhme
+
+Generating code from natural language specifications is one of the most successful applications of Large Language Models (LLMs). Yet, they hallucinate: LLMs produce outputs that may be grammatically correct but are factually incorrect. Without an existing, correct implementation (i.e., an oracle), can we quantify how likely the generated program is correct?   In this paper, we propose a measure of incorrectness, called incoherence, that can be estimated efficiently in the absence of an oracle and provides a lower bound on the error, i.e., the probability that the LLM-generated program for that specification is incorrect. Our experiments demonstrate an extraordinary effectiveness. For the average code generation task, our incoherence-based methodology can automatically identify about two-thirds of incorrect programs without reports of false positives. In fact, an oracle-based evaluation of LLMs can be reliably replaced by an incoherence-based evaluation. In particular, we find a very strong agreement between the ranking of LLMs by the number of programs deemed correct via an oracle (pass@1) and the ranking of LLMs by the number of programs deemed correct via our incoherence.
+
+从自然语言规格中生成代码是大语言模型(LLMs)最成功的应用之一。然而,它们却产生幻觉:LLMs产出的文法可能正确,但实际上不正确。没有现有的、正确的执行(即甲骨文),我们能否量化生成的程序是否正确?在本文中,我们提出了一个称为不一致性的不正确度,在没有甲骨文的情况下可以有效估计,并且对错误的等级限制较低,即LLMs生成的规格程序不正确的可能性。我们的实验显示了一种非同寻常的效果。对于平均代码生成任务,我们基于不协调的方法可以自动识别出大约三分之二不正确的程序,而没有虚假的正数报告。事实上,基于甲骨肉的LMs评价可以可靠地被以不连贯为基础的评价所取代。特别是,我们发现在LMs的等级与通过一个甲骨文(pass@1)被认为正确的程序数目之间的非常强烈的一致。
+
+---
+
+## Article 30
+### Title@2025-06-26 (4): Large Language Model-Powered Agent for C to Rust Code Translation
+
+**Title**: Large Language Model-Powered Agent for C to Rust Code Translation | Large Language Model-Powered Agent für C to Rust Code Übersetzung | C至Rust 代码翻译的大型语言示范授权代理 [2505.15858v2](http://arxiv.org/abs/2505.15858v2)
+
+**Authors** (6): HoHyun Sim, Hyeonjoong Cho, Yeonghyeon Go, Zhoulai Fu, Ali Shokri, Binoy Ravindran
+
+The C programming language has been foundational in building system-level software. However, its manual memory management model frequently leads to memory safety issues. In response, a modern system programming language, Rust, has emerged as a memory-safe alternative. Moreover, automating the C-to-Rust translation empowered by the rapid advancements of the generative capabilities of LLMs is gaining growing interest for large volumes of legacy C code. Despite some success, existing LLM-based approaches have constrained the role of LLMs to static prompt-response behavior and have not explored their agentic problem-solving capability. Applying the LLM agentic capability for the C-to-Rust translation introduces distinct challenges, as this task differs from the traditional LLM agent applications, such as math or commonsense QA domains. First, the scarcity of parallel C-to-Rust datasets hinders the retrieval of suitable code translation exemplars for in-context learning. Second, unlike math or commonsense QA, the intermediate steps required for C-to-Rust are not well-defined. Third, it remains unclear how to organize and cascade these intermediate steps to construct a correct translation trajectory. To address these challenges in the C-to-Rust translation, we propose a novel intermediate step, the Virtual Fuzzing-based equivalence Test (VFT), and an agentic planning framework, the LLM-powered Agent for C-to-Rust code translation (LAC2R). The VFT guides LLMs to identify input arguments that induce divergent behaviors between an original C function and its Rust counterpart and to generate informative diagnoses to refine the unsafe Rust code. LAC2R uses the MCTS to systematically organize the LLM-induced intermediate steps for correct translation. We experimentally demonstrated that LAC2R effectively conducts C-to-Rust translation on large-scale, real-world benchmarks.
+
+C编程语言是建立系统级软件的基础语言。然而,其人工内存管理模式经常导致记忆安全问题。作为回应,现代系统编程语言Rust(Rust)已成为一种耐记忆的替代方案。此外,由于LLM的基因化能力迅速提高,使得C-Rust翻译自动化起来。尽管取得了一些成功,但基于LLMst的现有方法限制了LLM(LLM)的作用,使其成了静态的快速反应行为,而没有探索其中间解决问题的能力。在C-Rst翻译中应用LLM(LM)代理能力,带来了不同的挑战,因为这一任务不同于传统的LLM代理应用程序,例如数学或普通QA域。首先,平行C-Rust数据集的缺乏,阻碍了适当的C(LM)代码翻译的检索。第二,与数学或普通QA(Commerical-R)的QA(C-RM),为C-RM(LM)的原始-RM(LM-R-RM)的解算法解算的中间步骤没有很好地界定。第三,它仍然不清楚如何组织和不断组织和升级的翻译。
+
+---
+
+## Article 31
+### Title@2025-06-26 (4): Describing Console I/O Behavior for Testing Student Submissions in   Haskell
+
+**Title**: Describing Console I/O Behavior for Testing Student Submissions in   Haskell | Beschreibung von Console I/O-Behavior für die Prüfung von Studentenanträgen in Haskell | 哈斯凯尔测试学生提交材料的I/O行为 [2008.09253v2](http://arxiv.org/abs/2008.09253v2)
+
+**Authors** (2): Oliver Westphal, Janis Voigtländer
+
+We present a small, formal language for specifying the behavior of simple console I/O programs. The design is driven by the concrete application case of testing interactive Haskell programs written by students. Specifications are structurally similar to lexical analysis regular expressions, but are augmented with features like global variables that track state and history of program runs, enabling expression of an interesting range of dynamic behavior. We give a semantics for our specification language based on acceptance of execution traces. From this semantics we derive a definition of the set of all traces valid for a given specification. Sampling that set enables us to mechanically check program behavior against specifications in a probabilistic fashion. Beyond testing, other possible uses of the specification language in an education context include related activities like providing more helpful feedback, generating sample solutions, and even generating random exercise tasks.
+
+我们为指定简单的控制台 I/ O 程序的行为提供了一种小的、正式的语言。 设计是由测试学生编写的交互式哈斯凯尔程序的具体应用案例驱动的。 规格在结构上类似于常规语言分析, 但增加了一些特征, 比如跟踪程序运行状态和历史的全球变量, 使得能够表达一系列有趣的动态行为。 我们根据接受执行痕迹, 给我们的规格语言提供了一种语义。 我们从这个语义中得出了对特定规格有效的所有痕迹的定义 。 抽样让我们能够机械地检查程序行为与规格的概率化方式。 除了测试之外, 在教育背景下, 规格语言的其他可能用途包括相关活动, 比如提供更有用的反馈, 生成样本解决方案, 甚至产生随机练习任务 。
+
+---
+
