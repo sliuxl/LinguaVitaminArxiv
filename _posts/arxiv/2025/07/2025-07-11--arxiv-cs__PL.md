@@ -1,0 +1,357 @@
+---
+title: "cs.PL @ 2025-07-11: 025"
+date: 2025-07-11
+layout: post
+---
+
+- [00](#article-0) | **07-10 (4)** | QCP: A Practical Separation Logic-based C Program Verification Tool | QCP: Eine praktische Trennung Logisch-basiertes C-Programm Verifikationswerkzeug | QCP:基于实际隔离逻辑的C方案核查工具 | [2505.12878v2](http://arxiv.org/abs/2505.12878v2)
+- [01](#article-1) | 07-10 | Modular Reasoning about Error Bounds for Concurrent Probabilistic   Programs (Extended Version) | Modulare Begründung über Fehlergrenzen für gleichzeitige probabilistische Programme (Erweiterte Version) | 用于同时概率程序(例外版本)的错误误界的模块原因 | [2503.04512v2](http://arxiv.org/abs/2503.04512v2)
+- [02](#article-2) | 07-10 | On Propositional Program Equivalence (extended abstract) | Über Propositionelle Programmäquivalenz (erweiterte Zusammenfassung) | 提议方案等效(扩展抽象) | [2507.07480v1](http://arxiv.org/abs/2507.07480v1)
+- [03](#article-3) | **07-09 (3)** | Sound Interval-Based Synthesis for Probabilistic Programs | Sound Interval-Based Synthesis für probabilistische Programme | 概率方案基于声音的合成合成 | [2507.06939v1](http://arxiv.org/abs/2507.06939v1)
+- [04](#article-4) | 07-09 | Verifying Graph Algorithms in Separation Logic: A Case for an Algebraic   Approach (Extended Version) | Überprüfung von Graphenalgorithmen in der Trennungslogik: Ein Fall für einen algebraischen Ansatz (erweiterte Version) | 校验分离逻辑中的图表数值:代数法实例(扩展版本) | [2501.13603v2](http://arxiv.org/abs/2501.13603v2)
+- [05](#article-5) | 07-09 | Finding Compiler Bugs through Cross-Language Code Generator and   Differential Testing | Finden von Compiler-Fehlern durch Cross-Language-Code-Generator und Differential-Tests | 通过跨语言代码生成器和差异测试查找编译器错误 | [2507.06584v1](http://arxiv.org/abs/2507.06584v1)
+- [06](#article-6) | **07-08 (2)** | Fast Collection Operations from Indexed Stream Fusion | Schnelle Sammlungsoperationen aus indexierter Stream-Fusion | 指数化串流融合的快速收集操作 | [2507.06456v1](http://arxiv.org/abs/2507.06456v1)
+- [07](#article-7) | 07-08 | Representing Prompting Patterns with PDL: Compliance Agent Case Study | Präsentieren von Prompting Patterns mit PDL: Compliance Agent Case Study | 代表PDL的提示模式:合规代理案例研究 | [2507.06396v1](http://arxiv.org/abs/2507.06396v1)
+- [08](#article-8) | 07-08 | Pyrosome: Verified Compilation for Modular Metatheory | Pyrosom: Verifizierte Zusammenstellung für modulare Metatheorie | 热质体: 模块元体校验汇编 | [2507.06360v1](http://arxiv.org/abs/2507.06360v1)
+- [09](#article-9) | 07-08 | hdl2v: A Code Translation Dataset for Enhanced LLM Verilog Generation | hdl2v: Ein Code-Übersetzungsdatensatz für verbesserte LLM Verilog-Generierung | hdl2v: 用于强化LLM Verilog 生成的代码翻译数据集 | [2506.04544v2](http://arxiv.org/abs/2506.04544v2)
+- [10](#article-10) | 07-08 | Ohana trees and Taylor expansion for the $λ$I-calculus. No   variable gets left behind or forgotten! | Ohana Bäume und Taylor Erweiterung für die $λ$I-Calculus. Keine Variable wird zurückgelassen oder vergessen! | 奥哈娜树和泰勒的扩张 以换取$$$I的计算。没有变数被抛在后面或被遗忘! | [2505.06193v2](http://arxiv.org/abs/2505.06193v2)
+- [11](#article-11) | 07-08 | Current Practices for Building LLM-Powered Reasoning Tools Are Ad Hoc --   and We Can Do Better | Aktuelle Praktiken für den Aufbau LLM-Powered Reasoning Tools sind Ad Hoc -- und wir können besser tun | 建立LLM公司授权的理据工具的现行做法是临时性的 -- -- 我们能够做得更好 | [2507.05886v1](http://arxiv.org/abs/2507.05886v1)
+- [12](#article-12) | **07-07 (1)** | React-tRace: A Semantics for Understanding React Hooks | React-tRace: Eine Semantik zum Verständnis von React Hooks | React-trace:理解反应钩的语义 | [2507.05234v1](http://arxiv.org/abs/2507.05234v1)
+- [13](#article-13) | 07-07 | ChipSeek-R1: Generating Human-Surpassing RTL with LLM via Hierarchical   Reward-Driven Reinforcement Learning | ChipSeek-R1: Generierung von Mensch-Überwindungs-RTL mit LLM über hierarchisches Reward-getriebenes Verstärkungs-Lernen | ChipSeek-R1:通过等级制奖励强化学习,与LLM一道产生载人超越越越越越越越越越权 | [2507.04736v1](http://arxiv.org/abs/2507.04736v1)
+- [14](#article-14) | 07-07 | Datalog with First-Class Facts | Datalog mit Fakten der ersten Klasse | 带有第一类事实的数据图 | [2411.14330v2](http://arxiv.org/abs/2411.14330v2)
+- [15](#article-15) | **07-06 (7)** | Qudit Quantum Programming with Projective Cliffords | Qudit Quantum Programmierung mit projektiven Cliffords | 配有投影悬崖的量子编程 | [2407.16801v2](http://arxiv.org/abs/2407.16801v2)
+- [16](#article-16) | 07-06 | Retargeting an Abstract Interpreter for a New Language by Partial   Evaluation | Retargeting eines Abstract Interpreters für eine neue Sprache durch Teilevaluierung | 通过部分评价重新定位新语言摘要口译员 | [2507.04316v1](http://arxiv.org/abs/2507.04316v1)
+- [17](#article-17) | 07-06 | CCR 2.0: High-level Reasoning for Conditional Refinements | CCR 2.0: Hochrangige Begründung für bedingte Veredelungen | CCR 2.0: 有条件改进的高层次理由 | [2507.04298v1](http://arxiv.org/abs/2507.04298v1)
+- [18](#article-18) | **07-05 (6)** | Semantically Separating Nominal Wyvern for Usability and Decidability | Semantisch Trennung der nominalen Wyvern für Usability und Entscheidungsfähigkeit | 可用性和可衰变性 | [2507.03867v1](http://arxiv.org/abs/2507.03867v1)
+- [19](#article-19) | **07-04 (5)** | RVISmith: Fuzzing Compilers for RVV Intrinsics | RVISmith: Fuzzing Compiler für RVV-Intrinsik | RVISmith: RVV Intrinsics 模糊的编译者 | [2507.03773v1](http://arxiv.org/abs/2507.03773v1)
+- [20](#article-20) | 07-04 | Specification-Guided Repair of Arithmetic Errors in Dafny Programs using   LLMs | Spezifikationsgeführte Reparatur von Arithmetischen Fehlern in Dafny-Programmen mit LLMs | 利用LLMM项目对达夫尼方案中的亚氏误差进行规格规范-指导修补 | [2507.03659v1](http://arxiv.org/abs/2507.03659v1)
+- [21](#article-21) | 07-04 | Towards Automatic Error Recovery in Parsing Expression | Auf dem Weg zur automatischen Fehlerwiederherstellung im Parsing-Ausdruck | 在解析表达式中实现自动错误恢复 | [2507.03629v1](http://arxiv.org/abs/2507.03629v1)
+- [22](#article-22) | 07-04 | Generically Automating Separation Logic by Functors, Homomorphisms and   Modules | Generisch automatisierende Trennungslogik durch Functors, Homomorphismen und Module | 由富集体、单形体和模块构成的分离逻辑 | [2411.06094v3](http://arxiv.org/abs/2411.06094v3)
+- [23](#article-23) | **07-03 (4)** | A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual   Machine in a Meta-Tracing Compiler Framework | Eine leichte Methode zur Generierung multi-Tierer JIT Compilation Virtual Machine in einem Meta-Tracing Compiler Framework | 在元跟踪汇编器框架内生成多台JIT编译虚拟机的轻量方法 | [2504.17460v3](http://arxiv.org/abs/2504.17460v3)
+- [24](#article-24) | 07-03 | DecoRTL: A Run-time Decoding Framework for RTL Code Generation with LLMs | DecoRTL: Ein Laufzeit-Decoding-Framework für RTL-Code-Generierung mit LLMs | DecoRTL: 使用LLMs的RTL代码生成运行时间解码框架 | [2507.02226v1](http://arxiv.org/abs/2507.02226v1)
+
+## Article 0
+### Title@2025-07-10 (4): QCP: A Practical Separation Logic-based C Program Verification Tool
+
+**Title**: QCP: A Practical Separation Logic-based C Program Verification Tool | QCP: Eine praktische Trennung Logisch-basiertes C-Programm Verifikationswerkzeug | QCP:基于实际隔离逻辑的C方案核查工具 [2505.12878v2](http://arxiv.org/abs/2505.12878v2)
+
+**Authors** (13): Xiwei Wu, Yueyang Feng, Xiaoyang Lu, Tianchuan Lin, Kan Liu, Zhiyi Wang, Shushu Wu, Lihan Xie, Chengxi Yang, Hongyi Zhong, Naijun Zhan, Zhenjiang Hu, Qinxiang Cao
+
+As software systems increase in size and complexity dramatically, ensuring their correctness, security, and reliability becomes an increasingly formidable challenge. Despite significant advancements in verification techniques and tools, there still remain %these tools still continue to encounter substantial difficulties when applying these tools to complex, real-world scenarios. To address these difficulties, this paper introduces a novel verification tool, called \textbf{Qualified C Programming Verifier (QCP)}. QCP incorporates a refined front-end %syntax of assertion language to enhance user interaction. The proposed assertion language aims to %syntax is designed to lower the entry barrier for verification tools, improve proof efficiency by improving automation, and facilitate a deeper understanding of both the program and its verification results.
+
+随着软件系统规模和复杂性的急剧扩大,确保其正确性、安全和可靠性成为日益艰巨的挑战。尽管在核查技术和工具方面有了显著的进步,但是仍然有%这些工具在将这些工具应用于复杂的现实世界情景方面仍然面临着巨大的困难。为了解决这些困难,本文件引入了一种新型的核查工具,称为\ textb-ZQATIC(QCP)}。QCP采用了一种精细的前端 %syngycast 语言,以加强用户的互动。拟议的主张语言旨在使用 %syngyx,目的是降低核查工具的进入屏障,通过改进自动化提高证明效率,并促进对程序及其核查结果的更深入了解。
+
+---
+
+## Article 1
+### Title@2025-07-10 (4): Modular Reasoning about Error Bounds for Concurrent Probabilistic   Programs (Extended Version)
+
+**Title**: Modular Reasoning about Error Bounds for Concurrent Probabilistic   Programs (Extended Version) | Modulare Begründung über Fehlergrenzen für gleichzeitige probabilistische Programme (Erweiterte Version) | 用于同时概率程序(例外版本)的错误误界的模块原因 [2503.04512v2](http://arxiv.org/abs/2503.04512v2)
+
+**Authors** (6): Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Philipp G. Haselwarter, Joseph Tassarotti, Lars Birkedal
+
+We present Coneris, the first higher-order concurrent separation logic for reasoning about error probability bounds of higher-order concurrent probabilistic programs with higher-order state. To support modular reasoning about concurrent (non-probabilistic) program modules, state-of-the-art program logics internalize the classic notion of linearizability within the logic through the concept of logical atomicity.   Coneris extends this idea to probabilistic concurrent program modules. Thus Coneris supports modular reasoning about probabilistic concurrent modules by capturing a novel notion of randomized logical atomicity within the logic. To do so, Coneris utilizes presampling tapes and a novel probabilistic update modality to describe how state is changed probabilistically at linearization points. We demonstrate this approach by means of smaller synthetic examples and larger case studies.   All of the presented results, including the meta-theory, have been mechanized in the Rocq proof assistant and the Iris separation logic framework
+
+我们提出了第一个更高顺序的共和分离逻辑Coneris, 这是关于更高顺序同时概率程序与较高顺序状态的较高顺序同时概率程序误差概率界限的推理的首个更高顺序共和分离逻辑。 为了支持关于同时(非概率)程序模块的模块推理, 最先进的程序逻辑通过逻辑原子概念将典型的线性概念内化了逻辑内线性概念。 共和逻辑将这一理念扩展至概率共和程序模块。 因此, 共和逻辑通过在逻辑中捕捉随机化逻辑原子的新概念来支持概率共和模块的模块推理。 为了做到这一点, Coneris使用预取样磁带和新颖的概率更新模式来描述线性点的概率变化。 我们通过较小的合成实例和较大的案例研究来展示这一方法。 所提出的所有结果,包括元理论,已经在罗克证据助理和伊里斯分离逻辑框架中被机械化。
+
+---
+
+## Article 2
+### Title@2025-07-10 (4): On Propositional Program Equivalence (extended abstract)
+
+**Title**: On Propositional Program Equivalence (extended abstract) | Über Propositionelle Programmäquivalenz (erweiterte Zusammenfassung) | 提议方案等效(扩展抽象) [2507.07480v1](http://arxiv.org/abs/2507.07480v1)
+
+**Authors** (1): Tobias Kappé
+
+General program equivalence is undecidable. However, if we abstract away the semantics of statements, then this problem becomes not just decidable, but practically feasible. For instance, a program of the form "if $b$ then $e$ else $f$" should be equivalent to "if not $b$ then $f$ else $e$" - no matter what $b$, $e$ and $f$ are. This kind of equivalence is known as propositional equivalence. In this extended abstract, we discuss recent developments in propositional program equivalence from the perspective of (Guarded) Kleene Algebra with Tests, or (G)KAT.
+
+一般程序等值是不可变的。 但是, 如果我们抽象地删除语句的语义, 这个问题不仅可以分解, 而且实际上可行 。 例如, “ 如果一美元, 那么一美元, 另一美元” 形式的方案应该等同于“ 如果不是一美元, 那么一美元, 那么其他美元” 。 不论美元, 美元, 美元和美元。 这种等值被称为推论等值 。 在这个扩展的抽象中, 我们从( Kleene Algebra with Tests) 或 ( G) KAT 的角度讨论提议方案等值的最新发展 。
+
+---
+
+## Article 3
+### Title@2025-07-09 (3): Sound Interval-Based Synthesis for Probabilistic Programs
+
+**Title**: Sound Interval-Based Synthesis for Probabilistic Programs | Sound Interval-Based Synthesis für probabilistische Programme | 概率方案基于声音的合成合成 [2507.06939v1](http://arxiv.org/abs/2507.06939v1)
+
+**Authors** (2): Guilherme Espada, Alcides Fonseca
+
+Probabilistic programming has become a standard practice to model stochastic events and learn about the behavior of nature in different scientific contexts, ranging from Genetics and Ecology to Linguistics and Psychology. However, domain practitioners (such as biologists) also need to be experts in statistics in order to select which probabilistic model is suitable for a given particular problem, relying then on probabilistic inference engines such as Stan, Pyro or Edward to fine-tune the parameters of that particular model. Probabilistic Programming would be more useful if the model selection is made automatic, without requiring statistics expertise from the end user. Automatically selecting the model is challenging because of the large search space of probabilistic programs needed to be explored, because the fact that most of that search space contains invalid programs, and because invalid programs may only be detected in some executions, due to its probabilistic nature. We propose a type system to statically reject invalid probabilistic programs, a type-directed synthesis algorithm that guarantees that generated programs are type-safe by construction, and an heuristic search procedure to handle the vast search space. We collect a number of probabilistic programs from the literature, and use them to compare our method with both a type-agnostic random search, and a data-guided method from the literature (DaPPer). Our results show that our technique both outperforms random search and DaPPer, specially on more complex programs. This drastic performance difference in synthesis allows for fast sampling of programs and enables techniques that previously suffered from the complexity of synthesis, such as Genetic Programming, to be applied.
+
+概率性编程已成为一种标准做法,用于模拟随机事件,并了解不同科学背景(从遗传学和生态学到语言学和心理学)中的自然行为,从遗传学和生态学到语言学和心理学等不同科学背景。然而,域内从业者(例如生物学家)也需要成为统计专家,以便选择哪些概率性模型适合特定问题,然后依靠斯坦、皮罗或爱德华等概率性推论引擎来微调该特定模型的参数。如果模型选择是自动的,而不需要终端用户提供统计数据,则概率性编程会更加有用。自动选择模型具有挑战性,因为需要探索概率性程序的大量搜索空间,因为大部分搜索空间都包含无效的程序,而且由于某些执行过程的概率性能性质,因为无效的程序可能只在某些处决中被检测。我们建议一种型式系统,静静地拒绝无效的概率性程序,一种类型直截面合成算法,保证生成程序从构建中安全,而不需要终端搜索程序,而需要大量搜索程序具有挑战性搜索程序,因为大量搜索空间需要加以应用,因为大多数搜索空间,我们专门收集程序,并且用一种快速的编程式程序,我们用来显示数据性程序,我们用来显示数据性程序。我们使用一种手法方法,我们的数据性程序,我们用一种手法方法,我们用一种手法的方法,我们用一种手法式程序,我们用一种手法的方法,我们用一种手法的方法,我们用一种手法的方法,我们用一种手法,我们用一种手法的方法,我们用一种手法的方法,我们用一种手法的方法,我们用一种手法的方法,我们用一种方法,我们用一种手法的方法,我们用一种手法方法,我们用一种方法,我们用一种手法方法,我们用一种方法,我们用一种方法,我们用一种手法的方法,我们用一种手法方法,我们用一种手法方法,我们用一种手法方法,我们用一种手法方法,我们用一种手法方法,我们用一种手法方法,我们用一种手法,我们用一种手法的方法,我们用一种手法的方法,我们用一种手法方法,我们用一种手法的方法,我们用一种手法的方法,我们用一种手法方法,我们用一种手法方法,用一种手法的方法,我们用一种
+
+---
+
+## Article 4
+### Title@2025-07-09 (3): Verifying Graph Algorithms in Separation Logic: A Case for an Algebraic   Approach (Extended Version)
+
+**Title**: Verifying Graph Algorithms in Separation Logic: A Case for an Algebraic   Approach (Extended Version) | Überprüfung von Graphenalgorithmen in der Trennungslogik: Ein Fall für einen algebraischen Ansatz (erweiterte Version) | 校验分离逻辑中的图表数值:代数法实例(扩展版本) [2501.13603v2](http://arxiv.org/abs/2501.13603v2)
+
+**Authors** (3): Marcos Grandury, Aleksandar Nanevski, Alexander Gryzlov
+
+Verifying graph algorithms has long been considered challenging in separation logic, mainly due to structural sharing between graph subcomponents. We show that these challenges can be effectively addressed by representing graphs as a partial commutative monoid (PCM), and by leveraging structure-preserving functions (PCM morphisms), including higher-order combinators.   PCM morphisms are important because they generalize separation logic's principle of local reasoning. While traditional framing isolates relevant portions of the heap only at the top level of a specification, morphisms enable contextual localization: they distribute over monoid operations to isolate relevant subgraphs, even when nested deeply within a specification.   We demonstrate the morphisms' effectiveness with novel and concise verifications of two canonical graph benchmarks: the Schorr-Waite graph marking algorithm and the union-find data structure.
+
+长期以来,人们一直认为图表算法在分离逻辑中具有挑战性,这主要是因为图形子组件之间的结构共享。我们表明,这些挑战可以通过将图表作为部分移动单体(PCM)来代表,并通过利用结构保护功能(PCM形态学)来有效解决。 PCM 形态学很重要,因为它们概括了分离逻辑的当地推理原则。传统框架将堆积的相关部分仅仅从规格的顶层分离出来,而形态学则使背景化成为可能:它们分布在单项操作上,以孤立相关的子集,即使它们深深嵌入一个规格之内。我们通过对两个孔形图基准(Schorr-Weite图标记算法和统形数据结构)进行新颖和简洁的验证来展示形态学的有效性。
+
+---
+
+## Article 5
+### Title@2025-07-09 (3): Finding Compiler Bugs through Cross-Language Code Generator and   Differential Testing
+
+**Title**: Finding Compiler Bugs through Cross-Language Code Generator and   Differential Testing | Finden von Compiler-Fehlern durch Cross-Language-Code-Generator und Differential-Tests | 通过跨语言代码生成器和差异测试查找编译器错误 [2507.06584v1](http://arxiv.org/abs/2507.06584v1)
+
+**Authors** (6): Qiong Feng, Xiaotian Ma, Ziyuan Feng, Marat Akhin, Wei Song, Peng Liang
+
+Compilers play a central role in translating high-level code into executable programs, making their correctness essential for ensuring code safety and reliability. While extensive research has focused on verifying the correctness of compilers for single-language compilation, the correctness of cross-language compilation - which involves the interaction between two languages and their respective compilers - remains largely unexplored. To fill this research gap, we propose CrossLangFuzzer, a novel framework that introduces a universal intermediate representation (IR) for JVM-based languages and automatically generates cross-language test programs with diverse type parameters and complex inheritance structures. After generating the initial IR, CrossLangFuzzer applies three mutation techniques - LangShuffler, FunctionRemoval, and TypeChanger - to enhance program diversity. By evaluating both the original and mutated programs across multiple compiler versions, CrossLangFuzzer successfully uncovered 10 confirmed bugs in the Kotlin compiler, 4 confirmed bugs in the Groovy compiler, 7 confirmed bugs in the Scala 3 compiler, 2 confirmed bugs in the Scala 2 compiler, and 1 confirmed bug in the Java compiler. Among all mutators, TypeChanger is the most effective, detecting 11 of the 24 compiler bugs. Furthermore, we analyze the symptoms and root causes of cross-compilation bugs, examining the respective responsibilities of language compilers when incorrect behavior occurs during cross-language compilation. To the best of our knowledge, this is the firstwork specifically focused on identifying and diagnosing compiler bugs in cross-language compilation scenarios. Our research helps to understand these challenges and contributes to improving compiler correctness in multi-language environments.
+
+编译者在将高级代码转换为可执行程序方面发挥着核心作用, 使其正确性成为确保代码安全和可靠性的关键。 虽然广泛的研究侧重于验证单语编译者的正确性, 但跨语言编译的正确性( 包括两种语言和各自的编译者之间的互动) 仍然基本上没有被探索。 为了填补这一研究空白, 我们提议CrossLangFuzzer, 这是一个新颖的框架, 它为 JVM 语言引入通用中间代号( IR ) , 并自动生成跨语言测试程序, 具有不同类型参数和复杂的继承结构。 在生成初始 IR 后, CrossLangFuzzer 应用了三种突变技术 - LangShuffler、 DyRemoval 和 TyCanger - 来增强程序的多样性。 通过评估多个编译者版本的原始和变异程序, CrossLangFuzzer 成功发现了科特林编译员的10个经确认的错误, 4个经确认的错误在Groovy编译员编译器中, 7个经确认的错误在Scala 3 编译者、 2 经确认的错误和复杂继承结构中, 。 在Scalview codu lical Recodudustruction codududucal ladal liar lidar ladars ladar lads lads 在我们 中, 在Strax lax recocudre dre dre dre disals redududududududing 中, ladals ladre disl ladre ladalsrere disldalsre dislre disl 中, 在我们 ladals recudre dre disldaldalsl ladals 中, ladaldaldaldaldaldaldrerere disldre disldaldre disldals 。
+
+---
+
+## Article 6
+### Title@2025-07-08 (2): Fast Collection Operations from Indexed Stream Fusion
+
+**Title**: Fast Collection Operations from Indexed Stream Fusion | Schnelle Sammlungsoperationen aus indexierter Stream-Fusion | 指数化串流融合的快速收集操作 [2507.06456v1](http://arxiv.org/abs/2507.06456v1)
+
+**Authors** (5): Scott Kovach, Praneeth Kolichala, Kyle A. Miller, David Broman, Fredrik Kjolstad
+
+We present a system of efficient methods for traversing and combining associative collection data structures. A distinguishing feature of the system is that, like traditional sequential iterator libraries, it does not require specialized compiler infrastructure or staged compilation for efficiency and composability. By using a representation based on indexed streams, the library can express complex joins over input collections while using no intermediate allocations. We implement the library for the Lean, Morphic, and Rust programming languages and provide a mechanized proof of functional correctness in Lean.
+
+我们提出了一套有效方法系统,用以查找和合并联合收集数据结构,该系统的一个显著特征是,与传统的相继迭代图书馆一样,它不需要专门的编纂者基础设施或分阶段汇编,以提高效率和可作成性。通过使用基于索引流的表述,图书馆可以表达复杂的结合,而不是使用中间分配。我们为莱昂语、莫尔菲奇语和鲁斯特语编程语言建立了图书馆,并提供一个机械化的证明,证明莱昂语的功能正确性。
+
+---
+
+## Article 7
+### Title@2025-07-08 (2): Representing Prompting Patterns with PDL: Compliance Agent Case Study
+
+**Title**: Representing Prompting Patterns with PDL: Compliance Agent Case Study | Präsentieren von Prompting Patterns mit PDL: Compliance Agent Case Study | 代表PDL的提示模式:合规代理案例研究 [2507.06396v1](http://arxiv.org/abs/2507.06396v1)
+
+**Authors** (6): Mandana Vaziri, Louis Mandel, Yuji Watanabe, Hirokuni Kitahara, Martin Hirzel, Anca Sailer
+
+Prompt engineering for LLMs remains complex, with existing frameworks either hiding complexity behind restrictive APIs or providing inflexible canned patterns that resist customization -- making sophisticated agentic programming challenging. We present the Prompt Declaration Language (PDL), a novel approach to prompt representation that tackles this fundamental complexity by bringing prompts to the forefront, enabling manual and automatic prompt tuning while capturing the composition of LLM calls together with rule-based code and external tools. By abstracting away the plumbing for such compositions, PDL aims at improving programmer productivity while providing a declarative representation that is amenable to optimization. This paper demonstrates PDL's utility through a real-world case study of a compliance agent. Tuning the prompting pattern of this agent yielded up to 4x performance improvement compared to using a canned agent and prompt pattern.
+
+LLMs的快速工程仍然很复杂,现有的框架要么隐藏在限制性的API后面,要么提供抵制定制化的不灵活罐头模式 -- -- 使复杂的代理程序编制变得具有挑战性。我们提出了快速代表的新颖方法,即即快速宣言语言(PDL),通过将提示带到最前沿,使手册和自动快速调整能够解决这一根本的复杂性,同时捕捉LLM电话的构成以及基于规则的代码和外部工具。PDL通过抽取用于这些构件的管道,目的是提高程序员的生产率,同时提供一个易于优化的宣示性表述。本文通过对合规代理进行真实世界案例研究,展示PDL的效用。与使用罐头代理和快速模式相比,该代理的快速模式产生了高达4x的绩效改进。
+
+---
+
+## Article 8
+### Title@2025-07-08 (2): Pyrosome: Verified Compilation for Modular Metatheory
+
+**Title**: Pyrosome: Verified Compilation for Modular Metatheory | Pyrosom: Verifizierte Zusammenstellung für modulare Metatheorie | 热质体: 模块元体校验汇编 [2507.06360v1](http://arxiv.org/abs/2507.06360v1)
+
+**Authors** (4): Dustin Jamner, Gabriel Kammer, Ritam Nag, Adam Chlipala
+
+We present Pyrosome, a generic framework for modular language metatheory that embodies a novel approach to extensible semantics and compilation, implemented in Coq. Common techniques for semantic reasoning are often tied to the specific structures of the languages and compilers that they support. In Pyrosome, verified compilers are fully extensible, meaning that to extend a language (even with a new kind of effect) simply requires defining and verifying the compilation of the new feature, reusing the old correctness theorem for all other cases. The novel enabling idea is an inductive formulation of equivalence preservation that supports the addition of new rules to the source language, target language, and compiler.   Pyrosome defines a formal, deeply embedded notion of programming languages with semantics given by dependently sorted equational theories, so all compiler-correctness proofs boil down to type-checking and equational reasoning. We support vertical composition of any compilers expressed in our framework in addition to feature extension. As a case study, we present a multipass compiler from System F with simple references, through CPS translation and closure conversion. Specifically, we demonstrate how we can build such a compiler incrementally by starting with a compiler for simply typed lambda-calculus and adding natural numbers, the unit type, recursive functions, and a global heap, then extending judgments with a type environment and adding type abstraction, all while reusing the original theorems. We also present a linear version of the simply typed CPS pass and compile a small imperative language to the simply typed target to show how Pyrosome handles substructural typing and imperative features.
+
+我们提出了一个模块语言元神话的通用框架,它体现了一种新颖的扩展语义和编译方法,在 Coq 中实施。 语义推理的常用技术往往与他们所支持的语言和编译者的具体结构捆绑在一起。 在 Pyros 中, 校验的编译者是完全可扩展的, 意思是扩展一种语言( 即使具有一种新的效果) 只需要定义和核查新功能的编译, 重新使用旧的正本理论, 用于所有其他案例。 新的赋能理念是一种对等保护的演化式, 支持将新规则添加到源语言、 目标语言和编译者中。 Pyros 定义了一种正式的、 深层的编程语言概念, 由独立排序的方程式理论提供, 所以所有的编译者校正校正校正校正校正校正校正校正的校正, 然后我们用一个多通的系统F编译器, 通过 CPS 翻译和编校正的校正格式来编校正。 我们用一个不断的编校正的编程类型, 格式来编校正的编校正式, 然后, 将一个不断的校正的编制, 格式, 然后用一个不断的校正的校正的校正的编校正的编制, 格式,我们我们用的编制的编制, ,我们的编制, 我们的编制一个不断式的编制, ,我们的编制,我们的编程的编程的校正的校正的校正的编制, ,我们用的编制,我们的编制, ,我们用的编程的编制,我们用的编制,我们用的编制的编程的机型式,用的编制,用的编制,用的编制,用的编制,用的机,用的制,用的机,用式,用的制,用式,用式,用式,用式,用式,用的制,用式,用的造式,用式,用式,用的制,用式,用的制,我们式,用的, 和制, 和制式,用的校制,用的
+
+---
+
+## Article 9
+### Title@2025-07-08 (2): hdl2v: A Code Translation Dataset for Enhanced LLM Verilog Generation
+
+**Title**: hdl2v: A Code Translation Dataset for Enhanced LLM Verilog Generation | hdl2v: Ein Code-Übersetzungsdatensatz für verbesserte LLM Verilog-Generierung | hdl2v: 用于强化LLM Verilog 生成的代码翻译数据集 [2506.04544v2](http://arxiv.org/abs/2506.04544v2)
+
+**Authors** (6): Charles Hong, Brendan Roberts, Huijae An, Alex Um, Advay Ratan, Yakun Sophia Shao
+
+Large language models (LLMs) are playing an increasingly large role in domains such as code generation, including hardware code generation, where Verilog is the key language. However, the amount of publicly available Verilog code pales in comparison to the amount of code available for software languages like Python. In this work, we present hdl2v ("HDL-to-Verilog"), a dataset which seeks to increase the amount of available human-written Verilog data by translating or compiling three other hardware description languages - VHDL, Chisel, and PyMTL3 - to Verilog. Furthermore, we demonstrate the value of hdl2v in enhancing LLM Verilog generation by improving performance of a 32 billion-parameter open-weight model by up to 23% (pass@10) in VerilogEvalV2, without utilizing any data augmentation or knowledge distillation from larger models. We also show hdl2v's ability to boost the performance of a data augmentation-based fine-tuning approach by 63%. Finally, we characterize and analyze our dataset to better understand which characteristics of HDL-to-Verilog datasets can be expanded upon in future work for even better performance.
+
+大型语言模型(LLMS)在诸如代码生成(包括硬件代码生成)等领域发挥着越来越重要的作用, 包括硬件代码生成( Verilog 是 Verilog 的关键语言 ) 。 然而, 公开提供的 Verilog 代码数量与 Python 等软件语言可用的代码数量相比, 与可用代码数量相比, Vython 等软件语言的代码数量是苍白的。 在这项工作中, 我们提供了 hdl2v (“ HDL- 到 Verilog ” ) , 这个数据集试图通过翻译或汇编其他三种硬件描述语言( VHDL、 Chisel 和 PyMTL3 - 至 Verilog ) 来增加现有的人文版 Verilog 数据数量。 此外, 我们用 HDL- VerivalV 2 改进了320亿 参数开放度模型的性能模型的性能( passel@10) 。 我们还展示了 hdl2 能力, 63% 来提升基于数据增强基于 微调方法的性能的性能。 最后, 我们分析和分析了我们的数据数据集, 以便更好地了解未来数据系统如何改进了HDL- 。
+
+---
+
+## Article 10
+### Title@2025-07-08 (2): Ohana trees and Taylor expansion for the $λ$I-calculus. No   variable gets left behind or forgotten!
+
+**Title**: Ohana trees and Taylor expansion for the $λ$I-calculus. No   variable gets left behind or forgotten! | Ohana Bäume und Taylor Erweiterung für die $λ$I-Calculus. Keine Variable wird zurückgelassen oder vergessen! | 奥哈娜树和泰勒的扩张 以换取$$$I的计算。没有变数被抛在后面或被遗忘! [2505.06193v2](http://arxiv.org/abs/2505.06193v2)
+
+**Authors** (3): Rémy Cerda, Giulio Manzonetto, Alexis Saurin
+
+Although the $\lambda$I-calculus is a natural fragment of the $\lambda$-calculus, obtained by forbidding the erasure, its equational theories did not receive much attention. The reason is that all proper denotational models studied in the literature equate all non-normalizable $\lambda$I-terms, whence the associated theory is not very informative. The goal of this paper is to introduce a previously unknown theory of the $\lambda$I-calculus, induced by a notion of evaluation trees that we call "Ohana trees". The Ohana tree of a $\lambda$I-term is an annotated version of its B\"ohm tree, remembering all free variables that are hidden within its meaningless subtrees, or pushed into infinity along its infinite branches.   We develop the associated theories of program approximation: the first approach -- more classic -- is based on finite trees and continuity, the second adapts Ehrhard and Regnier's Taylor expansion. We then prove a Commutation Theorem stating that the normal form of the Taylor expansion of a $\lambda$I-term coincides with the Taylor expansion of its Ohana tree. As a corollary, we obtain that the equality induced by Ohana trees is compatible with abstraction and application. We conclude by discussing the cases of L\'evy-Longo and Berarducci trees, and generalizations to the full $\lambda$-calculus.
+
+虽然$lambda$I 计算仪是用禁止消化而获得的 $lambda$-计算仪的自然碎片,但它的等式理论没有引起多少注意。 原因是文献中研究的所有适当的注解模型都等同于所有非正常的 $\ lambda$I 术语, 而相关理论并不十分丰富。 本文的目的是引入一个先前未知的美元llambda$I 计算仪理论, 由我们称之为“ 奥哈纳树”的评价树概念所引致的。 美元lamda 术语的奥哈纳树是一个注解版的 B\ ohm树, 记住了所有隐藏在无意义的亚树中的自由变量, 或者推到其无限分支的无限。 我们开发了相关的方案近似理论: 第一个方法 - - - - - - - - 更经典 - - - - - 以有限的树木和连续性为基础, 第二次调整Ehrharard 和 Regnier的Taylor 扩展。 我们随后证明一个名为Oharda 树 的交际 的通俗 , 和Asal-
+
+---
+
+## Article 11
+### Title@2025-07-08 (2): Current Practices for Building LLM-Powered Reasoning Tools Are Ad Hoc --   and We Can Do Better
+
+**Title**: Current Practices for Building LLM-Powered Reasoning Tools Are Ad Hoc --   and We Can Do Better | Aktuelle Praktiken für den Aufbau LLM-Powered Reasoning Tools sind Ad Hoc -- und wir können besser tun | 建立LLM公司授权的理据工具的现行做法是临时性的 -- -- 我们能够做得更好 [2507.05886v1](http://arxiv.org/abs/2507.05886v1)
+
+**Authors** (1): Aaron Bembenek
+
+There is growing excitement about building software verifiers, synthesizers, and other Automated Reasoning (AR) tools by combining traditional symbolic algorithms and Large Language Models (LLMs). Unfortunately, the current practice for constructing such neurosymbolic AR systems is an ad hoc programming model that does not have the strong guarantees of traditional symbolic algorithms, nor a deep enough synchronization of neural networks and symbolic reasoning to unlock the full potential of LLM-powered reasoning. I propose Neurosymbolic Transition Systems as a principled computational model that can underlie infrastructure for building neurosymbolic AR tools. In this model, symbolic state is paired with intuition, and state transitions operate over symbols and intuition in parallel. I argue why this new paradigm can scale logical reasoning beyond current capabilities while retaining the strong guarantees of symbolic algorithms, and I sketch out how the computational model I propose can be reified in a logic programming language.
+
+通过将传统的象征性算法和大语言模型(LLMs)结合起来,建立软件验证器、合成器和其他自动解释工具(AR)的兴奋情绪日益增长。 不幸的是,目前建造这类神经同步AR系统的做法是一种临时性的编程模式,没有传统象征性算法的有力保障,神经网络和象征性推理的高度同步性不足以释放LLM动力推理的全部潜力。 我提议将Neurosymbolic Transport System系统作为一个原则计算模型,作为建设神经同步AR工具的基础设施的基础。 在这个模型中,象征性状态与直觉相配,同时运行符号和直觉的转型状态。 我争论为什么这一新模式可以超越现有能力而扩大逻辑推理,同时保留符号算法的有力保障,我还想出我提议的计算模型如何用逻辑编程语言进行重塑。
+
+---
+
+## Article 12
+### Title@2025-07-07 (1): React-tRace: A Semantics for Understanding React Hooks
+
+**Title**: React-tRace: A Semantics for Understanding React Hooks | React-tRace: Eine Semantik zum Verständnis von React Hooks | React-trace:理解反应钩的语义 [2507.05234v1](http://arxiv.org/abs/2507.05234v1)
+
+**Authors** (3): Jay Lee, Joongwon Ahn, Kwangkeun Yi
+
+React has become the most widely used web front-end framework, enabling the creation of user interfaces in a declarative and compositional manner. Hooks are a set of APIs that manage side effects in functional components in React. However, their semantics are often seen as opaque to developers, leading to UI bugs. In this paper, we formalize the semantics of the essence of React Hooks we name React-tRace, providing a framework that clarifies their behavior. We demonstrate that our model captures the behavior of React, by theoretically showing that it embodies essential properties of Hooks and empirically comparing our React-tRace-definitional interpreter against a test suite. Furthermore, we showcase a practical visualization tool based on the formalization to demonstrate how developers can better understand the semantics of Hooks.
+
+重新反应已成为最广泛使用的网络前端框架, 使得能够以声明和组成方式创建用户界面。 钩子是一套控制反应功能组件副作用的API。 但是, 它们的语义对于开发者来说常常被视为不透明, 导致 UI 错误。 在本文中, 我们正式确定了我们命名的React- trace 的精髓的语义, 提供了一个澄清其行为的框架 。 我们证明我们的模型捕捉了反应行为, 从理论上表明它体现了 Hooks 的基本特性, 从经验上比较了我们的 React- trace- 定义解释器与测试套件。 此外, 我们展示了一个基于正规化的实用可视化工具, 以演示开发者如何更好地理解虎克的语义。
+
+---
+
+## Article 13
+### Title@2025-07-07 (1): ChipSeek-R1: Generating Human-Surpassing RTL with LLM via Hierarchical   Reward-Driven Reinforcement Learning
+
+**Title**: ChipSeek-R1: Generating Human-Surpassing RTL with LLM via Hierarchical   Reward-Driven Reinforcement Learning | ChipSeek-R1: Generierung von Mensch-Überwindungs-RTL mit LLM über hierarchisches Reward-getriebenes Verstärkungs-Lernen | ChipSeek-R1:通过等级制奖励强化学习,与LLM一道产生载人超越越越越越越越越越权 [2507.04736v1](http://arxiv.org/abs/2507.04736v1)
+
+**Authors** (10): Zhirong Chen, Kaiyan Chang, Zhuolin Li, Xinyang He, Chujie Chen, Cangyuan Li, Mengdi Wang, Haobo Xu, Yinhe Han, Ying Wang
+
+Large Language Models (LLMs) show significant potential for automating Register-Transfer Level (RTL) code generation. However, current approaches face a critical challenge: they can not simultaneously optimize for functional correctness and hardware quality (Power, Performance, Area - PPA). Methods based on supervised fine-tuning often generate functionally correct but PPA-suboptimal code, lacking mechanisms to learn optimization principles. In contrast, post-processing techniques that attempt to improve PPA metrics after generation are often inefficient because they operate externally without updating the LLM's parameters, thus failing to enhance the model's intrinsic design capabilities.   To bridge this gap, we introduce ChipSeek-R1, a hierarchical reward-driven reinforcement learning framework to train LLMs to generate RTL code that achieves both functional correctness and optimized PPA metrics. ChipSeek-R1 employs a hierarchical reward system, which incorporates direct feedback on syntax, functional correctness (from simulators) and PPA metrics (from synthesis tools) during reinforcement learning. This enables the model to learn complex hardware design trade-offs via trial-and-error, generating RTL code that is both functionally correct and PPA-optimized. Evaluating ChipSeek-R1 on standard benchmarks (VerilogEval, RTLLM), we achieve state-of-the-art results in functional correctness. Notably, on the RTLLM benchmark, ChipSeek-R1 generated 27 RTL designs surpassing the PPA metrics of the original human-written code. Our findings demonstrate the effectiveness of integrating toolchain feedback into LLM training and highlight the potential for reinforcement learning to enable automated generation of human-surpassing RTL code. We open-source our code in anonymous github.
+
+大型语言模型(LLMS) 显示在登记册-传输级别(RTL)代码生成自动化方面的巨大潜力。然而,当前的方法面临一个严峻的挑战:它们不能同时优化功能正确性和硬件质量(Power、Paper、Sea-PPA) 。基于监管微调的方法往往产生功能正确性但PPA亚最佳代码,缺乏学习优化原则的机制。相比之下,试图在生成后改进 PPPA 度量度的后处理技术往往效率低下,因为它们不更新 LLM 参数而从外部操作,从而无法增强模型的内在设计能力。为了缩小这一差距,我们引入了 ChipSeek-RPA 以等级为驱动的强化学习框架,以生成功能正确性和优化 PPPPA 度。 ChipSeek-Rlock-RDRL1 使用一个等级奖励系统,在强化学习过程中直接反馈Syntax、功能性(从模拟器) 和 Pubal-Ral-L Ral-al-Silviewal-Ial-Silviewal-Ial-Ial-Siling Reval-Serviews-I) 数据, 在测试中显示我们27R-rent-ral-ral-ral-I-I-l-l-l-l-S-S-S-S-S-S-S-leval-l-S-S-S-S-Sildalking-Silking-Silking-SD-SDisalking-SD-Sildalking-S-Supalking-SD-l-l-SD-SD-SD-SD-S-S-S-S-S-l-l-S-S-S-S-l-S-S-S-S-S-S-SD-SD-Sil-Silking-Sil-Sil-Sil-Sl-Sl-S-Sl-Sl-S-l-l-l-S-l-SD-S-S-S-S-S-S-l-S-S-S-S-S-S-S-S-S-S-S
+
+---
+
+## Article 14
+### Title@2025-07-07 (1): Datalog with First-Class Facts
+
+**Title**: Datalog with First-Class Facts | Datalog mit Fakten der ersten Klasse | 带有第一类事实的数据图 [2411.14330v2](http://arxiv.org/abs/2411.14330v2)
+
+**Authors** (6): Thomas Gilray, Arash Sahebolamri, Yihao Sun, Sowmith Kunapaneni, Sidharth Kumar, Kristopher Micinski
+
+Datalog is a popular logic programming language for deductive reasoning tasks in a wide array of applications, including business analytics, program analysis, and ontological reasoning. However, Datalog's restriction to flat facts over atomic constants leads to challenges in working with tree-structured data, such as derivation trees or abstract syntax trees. To ameliorate Datalog's restrictions, popular extensions of Datalog support features such as existential quantification in rule heads (Datalog$^\pm$, Datalog$^\exists$) or algebraic data types (Souffl\'e). Unfortunately, these are imperfect solutions for reasoning over structured and recursive data types, with general existentials leading to complex implementations requiring unification, and ADTs unable to trigger rule evaluation and failing to support efficient indexing.   We present DL$^{\exists!}$, a Datalog with first-class facts, wherein every fact is identified with a Skolem term unique to the fact. We show that this restriction offers an attractive price point for Datalog-based reasoning over tree-shaped data, demonstrating its application to databases, artificial intelligence, and programming languages. We implemented DL$^{\exists!}$ as a system \slog{}, which leverages the uniqueness restriction of DL$^{\exists!}$ to enable a communication-avoiding, massively-parallel implementation built on MPI. We show that Slog outperforms leading systems (Nemo, Vlog, RDFox, and Souffl\'e) on a variety of benchmarks, with the potential to scale to thousands of threads.
+
+数据log 是一种广受欢迎的逻辑编程语言, 用于一系列应用中的推理推理任务, 包括商业分析、 程序分析和本科学推理 。 但不幸的是, 数据log 限制对原子常量的平坦事实进行推理, 导致与树结构化数据( 如衍生树或抽象语法树 ) 合作的挑战。 为了改善数据log 的限制, 数据log 支持的普及扩展功能, 比如在规则头部( Datalog$\ pm$, Datalog$ = exeptals $) 或变数数据类型( Soffl\'e ) 。 不幸的是, 这些数据是结构化和递归数据类型的推理不完善的解决方案, 导致复杂的执行, 以及ADTs无法触发规则评估, 并且无法支持高效的索引。 我们展示了DL$( =) 标准头等事实, 每个事实都以Skole 术语识别 。 我们显示, 基于数据推理学推算的参数有吸引力的价格基准, 显示对树结构化数据 $ 水平 的应用程序的应用 。
+
+---
+
+## Article 15
+### Title@2025-07-06 (7): Qudit Quantum Programming with Projective Cliffords
+
+**Title**: Qudit Quantum Programming with Projective Cliffords | Qudit Quantum Programmierung mit projektiven Cliffords | 配有投影悬崖的量子编程 [2407.16801v2](http://arxiv.org/abs/2407.16801v2)
+
+**Authors** (2): Jennifer Paykin, Sam Winnick
+
+This paper introduces a novel abstraction for programming quantum operations, specifically projective Cliffords, as functions over the qudit Pauli group. Generalizing the idea behind Pauli tableaux, we introduce a type system and lambda calculus for projective Cliffords called LambdaPC, which captures well-formed Clifford operations via a Curry-Howard correspondence with a particular encoding of the Clifford and Pauli groups. Importantly, the language captures not just qubit operations, but qudit operations for any dimension $d$.   Throughout the paper we explore what it means to program with projective Cliffords through a number of examples and a case study focusing on stabilizer error correcting codes.
+
+本文介绍了编程量子操作的新抽象, 特别是投影克里福德, 作为对Qudit Pauli 组的函数。 概括地说, Pauli 平板背后的想法, 我们为投影克里福德人引入了一种类型系统和羊羔微积分, 叫做LambdaPC, 它通过与克里福德和保利组的特殊编码的Curry- Howard对应来捕捉完善的克里福德操作。 重要的是, 语言不仅捕捉了qubit 操作, 而且还捕捉了任何维度( $d$ ) 的二次操作。 在整个论文中, 我们通过一些实例和案例研究, 侧重于稳定错误代码, 来探索与投影克里福德人一起编程的含义 。
+
+---
+
+## Article 16
+### Title@2025-07-06 (7): Retargeting an Abstract Interpreter for a New Language by Partial   Evaluation
+
+**Title**: Retargeting an Abstract Interpreter for a New Language by Partial   Evaluation | Retargeting eines Abstract Interpreters für eine neue Sprache durch Teilevaluierung | 通过部分评价重新定位新语言摘要口译员 [2507.04316v1](http://arxiv.org/abs/2507.04316v1)
+
+**Authors** (1): Jay Lee
+
+It is well-known that abstract interpreters can be systematically derived from their concrete counterparts using a "recipe," but developing sound static analyzers remains a time-consuming task. Reducing the effort required and mechanizing the process of developing analyzers continues to be a significant challenge. Is it possible to automatically retarget an existing abstract interpreter for a new language?   We propose a novel technique to automatically derive abstract interpreters for various languages from an existing abstract interpreter. By leveraging partial evaluation, we specialize an abstract interpreter for a source language. The specialization is performed using the semantics of target languages written in the source language. Our approach eliminates the need to develop analyzers for new targets from scratch. We show that our method can effectively retarget an abstract interpreter for one language into a correct analyzer for another language.
+
+众所周知,抽象口译员可以使用“recipe”系统地从其具体对应方中系统地产生,但开发音响静态分析器仍是一项耗时的工作。 减少所需的努力和机械化开发分析器的过程仍然是一项重大挑战。 能否自动重新定位现有的新语言的抽象口译员? 我们建议一种新技术,从现有的抽象口译员中自动获取各种语言的抽象口译员。 通过利用部分评价,我们专门为源语言设置一个抽象口译员。 专业化工作是使用源语言编写的目标语言的语义来进行。 我们的方法消除了从零开始为新目标开发分析器的需要。 我们表明,我们的方法可以有效地将一种语言的抽象口译员重新定位为另一种语言的正确分析器。
+
+---
+
+## Article 17
+### Title@2025-07-06 (7): CCR 2.0: High-level Reasoning for Conditional Refinements
+
+**Title**: CCR 2.0: High-level Reasoning for Conditional Refinements | CCR 2.0: Hochrangige Begründung für bedingte Veredelungen | CCR 2.0: 有条件改进的高层次理由 [2507.04298v1](http://arxiv.org/abs/2507.04298v1)
+
+**Authors** (2): Youngju Song, Minki Cho
+
+In recent years, great progress has been made in the field of formal verification for low-level systems. Many of them are based on one of two popular approaches: refinement or separation logic. These two approaches are very different in nature and offer complementary benefits in terms of compositionality. Recently, to fuse these benefits in a unified mechanism, a new approach called Conditional Contextual Refinement (CCR 1.0 for short) was proposed. In this paper, we advance the model of CCR 1.0 and provide novel and intuitive reasoning principles, resulting in: CCR 2.0. Specifically, CCR 2.0 (i) comes with a better compositionality theorem, having the practical benefit of facilitating more proof reuse, and (ii) provides a proof technique that hides model-level (i.e., resources of the separation logic) details from the user. Achieving this goal was challenging due to non-trivial counterexamples which necessitated us to devise novel notions. Our results are formalized in Coq.
+
+近年来,在对低级系统的正式核查领域取得了巨大进展,其中许多是基于两种流行方法之一:改进或分离逻辑。这两种方法性质大不相同,在构成方面具有补充性好处。最近,为了将这些效益整合到一个统一机制,提出了一种称为有条件的背景改进的新方法(CCCR 1.0简称缩略图)。在本文件中,我们推广了CCR 1.0的模型,提供了新颖和直观的推理原则,导致:CCR 2.0。具体地说,CCR 2.0 (一) 具有更好的构成性理论,具有促进更多证据再利用的实际好处,以及(二) 提供了一种向用户隐藏模型层面细节(即分离逻辑的资源)的证明技术。由于非三边反比标要求我们设计新概念,实现这一目标是困难的。我们的结果在Coq正式化。
+
+---
+
+## Article 18
+### Title@2025-07-05 (6): Semantically Separating Nominal Wyvern for Usability and Decidability
+
+**Title**: Semantically Separating Nominal Wyvern for Usability and Decidability | Semantisch Trennung der nominalen Wyvern für Usability und Entscheidungsfähigkeit | 可用性和可衰变性 [2507.03867v1](http://arxiv.org/abs/2507.03867v1)
+
+**Authors** (7): Yu Xiang Zhu, Amos Robinson, Sophia Roshal, Timothy Mou, Julian Mackay, Jonathan Aldrich, Alex Potanin
+
+The Dependent Object Types (DOT) calculus incorporates concepts from functional languages (e.g. modules) with traditional object-oriented features (e.g. objects, subtyping) to achieve greater expressivity (e.g. F-bounded polymorphism). However, this merger of paradigms comes at the cost of subtype decidability. Recent work on bringing decidability to DOT has either sacrificed expressiveness or ease of use. The unrestricted construction of recursive types and type bounds has made subtype decidability a much harder problem than in traditional object-oriented programming.   Recognizing this, our paper introduces Nominal Wyvern, a DOT-like dependent type system that takes an alternative approach: instead of having a uniform structural syntax like DOT, Nominal Wyvern is designed around a "semantic separation" between the nominal declaration of recursive types on the one hand, and the structural refinement of those types when they are used on the other. This design naturally guides the user to avoid writing undecidably recursive structural types.   From a technical standpoint, this separation also makes guaranteeing decidability possible by allowing for an intuitive adaptation of material/shape separation, a technique for achieving subtype decidability by separating types responsible for subtyping constraints from types that represent concrete data. The result is a type system with syntax and structure familiar to OOP users that achieves decidability without compromising the expressiveness of F-bounded polymorphism and module systems as they are used in practice.
+
+独立对象类型(DOT) 缩略语包含来自功能语言(例如模块)的概念,这些功能语言(例如模块)具有传统的面向目标的特性(例如对象、亚型),以实现更大的表达性(例如F-绑定多式)。然而,这种模式的合并是以亚型变异性为代价的。最近关于将变异性引入DOT的工作要么牺牲了表情或便于使用。不受限制地构建循环类型和类型界限使亚型变异性模块比传统的面向目标的编程更加困难。认识到这一点,我们的纸张引入了类似DOT的直观型(例如对象、亚型、亚型、亚型、类似DOT的依附型系统,采用另一种不同的方法:使用统一的结构性合成法,而不是像DOOT那样的统一结构,而将Nomin Wyvernal Wyvern 设计成“结构分离性分离性分离性分离性” 和这些类型结构的结构性改进,这自然地引导用户避免了不易变现的结构结构类型。从技术的易变现性结构类型中为分立式的分型,使得分型的分型系统能够实现分解性数据。
+
+---
+
+## Article 19
+### Title@2025-07-04 (5): RVISmith: Fuzzing Compilers for RVV Intrinsics
+
+**Title**: RVISmith: Fuzzing Compilers for RVV Intrinsics | RVISmith: Fuzzing Compiler für RVV-Intrinsik | RVISmith: RVV Intrinsics 模糊的编译者 [2507.03773v1](http://arxiv.org/abs/2507.03773v1)
+
+**Authors** (6): Yibo He, Cunjian Huang, Xianmiao Qu, Hongdeng Chen, Wei Yang, Tao Xie
+
+Modern processors are equipped with single instruction multiple data (SIMD) instructions for fine-grained data parallelism. Compiler auto-vectorization techniques that target SIMD instructions face performance limitations due to insufficient information available at compile time, requiring programmers to manually manipulate SIMD instructions. SIMD intrinsics, a type of built-in function provided by modern compilers, enable programmers to manipulate SIMD instructions within high-level programming languages. Bugs in compilers for SIMD intrinsics can introduce potential threats to software security, producing unintended calculation results, data loss, program crashes, etc.   To detect bugs in compilers for SIMD intrinsics, we propose RVISmith, a randomized fuzzer that generates well-defined C programs that include various invocation sequences of RVV (RISC-V Vector Extension) intrinsics. We design RVISmith to achieve the following objectives: (i) achieving high intrinsic coverage, (ii) improving sequence variety, and (iii) without known undefined behaviors. We implement RVISmith based on the ratified RVV intrinsic specification and evaluate our approach with three modern compilers: GCC, LLVM, and XuanTie. Experimental results show that RVISmith achieves 11.5 times higher intrinsic coverage than the state-of-the-art fuzzer for RVV intrinsics. By differential testing that compares results across different compilers, optimizations, and equivalent programs, we detect and report 13 previously unknown bugs of the three compilers under test to date. Of these bugs, 10 are confirmed and another 3 are fixed by the compiler developers.
+
+以 SIMD 指令为目标的编译器自动演算技术由于在编译时提供的信息不足而面临性能限制,要求程序员手动操作 SIMD 指令。 SIMD 内在功能是现代编译器提供的一种内在功能,使程序员能够在高层次编程语言中操作SIMD指令。 SIMD 内在内容编译器中的错误可能对软件安全造成潜在威胁,产生意外的计算结果、数据丢失、程序崩溃等。为了检测SIMD 内在内容的编译器中的错误,我们建议使用RVIS ,一个随机化的烟雾器,生成定义明确的C程序,其中包括各种 RVV(RISC-V Vctor 扩展) 的内置序列。我们设计了RVIS , 以实现以下目标:(一) 实现高内在覆盖, (二) 改进序列种类,以及(三) 没有已知的细微值行为, 我们根据已经批准的 RV 内在规格的编译器进行 RVIDM 3 , 用三个现代的内置的内置程序来评估结果。
+
+---
+
+## Article 20
+### Title@2025-07-04 (5): Specification-Guided Repair of Arithmetic Errors in Dafny Programs using   LLMs
+
+**Title**: Specification-Guided Repair of Arithmetic Errors in Dafny Programs using   LLMs | Spezifikationsgeführte Reparatur von Arithmetischen Fehlern in Dafny-Programmen mit LLMs | 利用LLMM项目对达夫尼方案中的亚氏误差进行规格规范-指导修补 [2507.03659v1](http://arxiv.org/abs/2507.03659v1)
+
+**Authors** (3): Valentina Wu, Alexandra Mendes, Alexandre Abreu
+
+Formal verification offers strong assurances of software correctness. However, debugging and repairing the underlying faults can be complex and time-consuming when verification fails. Automated Program Repair (APR) aims to ease this by automatically identifying and fixing faults. Traditional APR techniques often depend on test suites for validation, but these may fail to capture all scenarios. In contrast, formal specifications provide stronger correctness criteria for effective repairs.   We present an innovative APR tool for Dafny, a verification-aware programming language that uses formal specifications - including pre-conditions, post-conditions, and invariants - as oracles for fault localization and repair. Assuming the correctness of the specifications and focusing on arithmetic bugs, we localize faults through a series of steps, which include using Hoare Logic to determine the state of each statement within the program and state-of-the-art Large Language Models (LLMs) to synthesize candidate fixes. The chosen models were GPT-4o mini, Llama 3, Mistral 7B, and Llemma 7B.   We evaluate our approach using DafnyBench, a benchmark of real-world Dafny programs. Our tool achieves 89.6% accuracy in fault localization, with GPT-4o mini yielding the highest repair success rate (74.18%). These results highlight the potential of combining formal reasoning with LLM-driven program synthesis for automated program repair.
+
+正式核查为软件的正确性提供了有力的保证。然而,当核查失败时,调试和修复基本缺陷可能是复杂和耗时的。自动程序修理(APR)的目的是通过自动识别和修补缺陷来缓解这一点。传统的PRA技术通常依赖于测试套件来验证,但可能无法捕捉所有情景。相反,正式规格为有效修理提供了更强的正确性标准。我们为Dafny提供了一种具有核查意识的编程语言,一种具有核查意识的编程语言,它使用正式规格,包括预设条件、后设条件和变异性,作为地方化和修理错误的标志。假设规格的正确性并侧重于算术错误,我们通过一系列步骤将故障本地化,包括使用Hoare Logic来确定每个报表的状况,以及最新的大型语言模型(LLLMM),我们选择的模型是:GPT-4o迷你、Llama 3、Mistral 7B和Lleamma 7B。我们用Dafma 7B 来评估我们的方法,我们使用DafnyBny Brealimimalimalimalimal,我们的方法是Dafnicalimalimalimalimaliming 和我们的Drealimalimpalimpaliming 18,我们的方法,我们用Drequenalbilizalimal 和我们使用Drolationalbildrol 和我们使用Dalbilizaltalbildrol 的方法,我们使用Dalbilizaltaltaltaltaltaltaltaltaltaltaltal 的方法,我们使用Drobilizaldaltaltaltal 的方法,我们的方法,我们的方法,我们使用Dimal 的方法,我们使用Daldaldal 的方法,我们使用Daldaldalalalalalaldalbilizaldaldaldaldaldaldaldalalalalalalalalalaldalalalalalalalal 6的比方法,我们用的方法,我们使用Daldaldaldaldaldaldaldaldalal 的方法,我们用的方法,我们使用D
+
+---
+
+## Article 21
+### Title@2025-07-04 (5): Towards Automatic Error Recovery in Parsing Expression
+
+**Title**: Towards Automatic Error Recovery in Parsing Expression | Auf dem Weg zur automatischen Fehlerwiederherstellung im Parsing-Ausdruck | 在解析表达式中实现自动错误恢复 [2507.03629v1](http://arxiv.org/abs/2507.03629v1)
+
+**Authors** (2): Sérgio Queiroz de Medeiros, Fabio Mascarenhas
+
+Error recovery is an essential feature for a parser that should be plugged in Integrated Development Environments (IDEs), which must build Abstract Syntax Trees (ASTs) even for syntactically invalid programs in order to offer features such as automated refactoring and code completion.   Parsing Expressions Grammars (PEGs) are a formalism that naturally describes recursive top-down parsers using a restricted form of backtracking. Labeled failures are a conservative extension of PEGs that adds an error reporting mechanism for PEG parsers, and these labels can also be associated with recovery expressions to also be an error recovery mechanism. These expressions can use the full expressivity of PEGs to recover from syntactic errors.   Manually annotating a large grammar with labels and recovery expressions can be difficult. In this work, we present an algorithm that automatically annotates a PEG with labels, and builds their corresponding recovery expressions. We evaluate this algorithm by adding error recovery to the parser of the Titan programming language. The results shown that with a small amount of manual intervention our algorithm can be used to produce error recovering parsers for PEGs where most of the alternatives are disjoint.
+
+错误回收是剖析器的基本特征, 应在集成开发环境( IDES) 中插入, 剖析器必须构建抽象的语法树( ASTs) , 即使是对于综合开发环境( IDEs) 来说, 它也必须构建抽象的语法树( ASTs) , 即使是对于综合无效的程序, 以提供自动重新设定和代码完成等特性。 剖析表达式语法( PEGs) 是一种形式主义, 自然地描述循环式自上而下自上而的剖析器, 使用一种限制反向回溯形式。 标签失败是 PEGs 的保守延伸, 并且为 PEGs 采集表达器添加一个错误报告机制, 这些标签也可以与回收表达器相联, 也是一种错误回收机制。 这些表达器可以使用 PEGsparegs 的完整表达式来从同步错误中恢复。 手动干涉算法中的大语法可能比较困难。 在这项工作中, 我们提出了一个算法, 自动将PEGsetrectioners 用于恢复大多数手动干涉算法错误。
+
+---
+
+## Article 22
+### Title@2025-07-04 (5): Generically Automating Separation Logic by Functors, Homomorphisms and   Modules
+
+**Title**: Generically Automating Separation Logic by Functors, Homomorphisms and   Modules | Generisch automatisierende Trennungslogik durch Functors, Homomorphismen und Module | 由富集体、单形体和模块构成的分离逻辑 [2411.06094v3](http://arxiv.org/abs/2411.06094v3)
+
+**Authors** (6): Qiyuan Xu, David Sanan, Zhe Hou, Xiaokun Luan, Conrad Watt, Yang Liu
+
+Foundational verification considers the functional correctness of programming languages with formalized semantics and uses proof assistants (e.g., Coq, Isabelle) to certify proofs. The need for verifying complex programs compels it to involve expressive Separation Logics (SLs) that exceed the scopes of well-studied automated proof theories, e.g., symbolic heap. Consequently, automation of SL in foundational verification relies heavily on ad-hoc heuristics that lack a systematic meta-theory and face scalability issues. To mitigate the gap, we propose a theory to specify SL predicates using abstract algebras including functors, homomorphisms, and modules over rings. Based on this theory, we develop a generic SL automation algorithm to reason about any data structures that can be characterized by these algebras. In addition, we also present algorithms for automatically instantiating the algebraic models to real data structures. The instantiation reuses the algebraic models of component structures and preserves their data abstractions. Case studies on formalized imperative semantics show our algorithm can instantiate the algebraic models automatically for a variety of complex data structures. Experimental results indicate the automatically instantiated reasoners from our generic theory show similar results to the state-of-the-art systems made of specifically crafted reasoning rules. The presented theories, proofs, and the verification framework are formalized in Isabelle/HOL.
+
+因此,基础核查中SL的自动化在很大程度上依赖于缺乏系统元代数和可变性问题的超高超理论。为了缩小差距,我们提出了一个理论,用抽象代数来指定 SL 上游,包括真菌、同型和环上的模块。基于这一理论,我们开发了通用 SL 自动化算法,以说明任何数据结构,而这些数据结构可以用这些代数来定性。此外,我们还提出了自动将代数模型转换成真实数据结构的算法。即时再利用结构的代数模型,并保存其数据抽象。关于必须使用的代数代数的案例研究,包括真菌、同型和环上的模块。基于这一理论,我们开发了通用 SL 自动化算法,以说明这些代数参数所描述的任何数据结构。此外,我们还提出了自动将代数模型转换为真实数据结构的算法。即时序结构的变校正模型是组件结构的代数模型,并保留其数据抽象数据。关于正式的代数代数结构模型的案例研究,包括真数、同形态的代数理论,从模拟模型中可自动显示我们模拟的变数理论性模型,从而显示我们的数据推理算。
+
+---
+
+## Article 23
+### Title@2025-07-03 (4): A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual   Machine in a Meta-Tracing Compiler Framework
+
+**Title**: A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual   Machine in a Meta-Tracing Compiler Framework | Eine leichte Methode zur Generierung multi-Tierer JIT Compilation Virtual Machine in einem Meta-Tracing Compiler Framework | 在元跟踪汇编器框架内生成多台JIT编译虚拟机的轻量方法 [2504.17460v3](http://arxiv.org/abs/2504.17460v3)
+
+**Authors** (3): Yusuke Izawa, Hidehiko Masuhara, Carl Friedrich Bolz-Tereick
+
+Meta-compiler frameworks, such as RPython and Graal/Truffle, generate high-performance virtual machines (VMs) from interpreter definitions. Although they generate VMs with high-quality just-in-time (JIT) compilers, they still lack an important feature that dedicated VMs (i.e., VMs that are developed for specific languages) have, namely \emph{multi-tier compilation}. Multi-tier compilation uses light-weight compilers at early stages and highly-optimizing compilers at later stages in order to balance between compilation overheads and code quality.   We propose a novel approach to enabling multi-tier compilation in the VMs generated by a meta-compiler framework. Instead of extending the JIT compiler backend of the framework, our approach drives an existing (heavyweight) compiler backend in the framework to quickly generate unoptimized native code by merely embedding directives and compile-time operations into interpreter definitions.   As a validation of the approach, we developed 2SOM, a Simple Object Machine with a two-tier JIT compiler based on RPython. 2SOM first applies the tier-1 threaded code generator that is generated by our proposed technique, then, to the loops that exceed a threshold, applies the tier-2 tracing JIT compiler that is generated by the original RPython framework. Our performance evaluation that runs a program with a realistic workload showed that 2SOM improved, when compared against an RPython-based VM, warm-up performance by 15\%, with merely a 5\% reduction in peak performance.
+
+Meta-compiler 框架,如Rpython 和 Graal/Truffle 框架,从翻译定义中产生高性能虚拟机器(VMs),虽然它们生成了高品质虚拟机器(VMs),具有高质量的正时制(JIT)编译器,但它们仍然缺乏一个专门的VMs(即为特定语言开发的VMs)的重要特征,即:\emph{多层次编集}。多层编译器在早期阶段使用轻量的编译器,在后期高度优化编译器,以便在编译管理器和代码质量之间取得平衡。我们提出了一种新颖的方法,让VMs生成的多层次编译器能多层次的多层次编译器能够使 VMMs(即为特定语言开发的VMMs,即VMs) 后期编译器快速生成的本地代码。作为对方法的验证,我们开发了2SOM, 将第一级的JIT编辑器与双级的双级编译器比, IMS
+
+---
+
+## Article 24
+### Title@2025-07-03 (4): DecoRTL: A Run-time Decoding Framework for RTL Code Generation with LLMs
+
+**Title**: DecoRTL: A Run-time Decoding Framework for RTL Code Generation with LLMs | DecoRTL: Ein Laufzeit-Decoding-Framework für RTL-Code-Generierung mit LLMs | DecoRTL: 使用LLMs的RTL代码生成运行时间解码框架 [2507.02226v1](http://arxiv.org/abs/2507.02226v1)
+
+**Authors** (3): Mohammad Akyash, Kimia Azar, Hadi Kamali
+
+As one of their many applications, large language models (LLMs) have recently shown promise in automating register transfer level (RTL) code generation. However, conventional LLM decoding strategies, originally designed for natural language, often fail to meet the structural and semantic demands of RTL, leading to hallucinated, repetitive, or invalid code outputs. In this paper, we first investigate the root causes of these decoding failures through an empirical analysis of token-level entropy during RTL generation. Our findings reveal that LLMs exhibit low confidence in regions of structural ambiguity or semantic complexity, showing that standard decoding strategies fail to differentiate between regions requiring determinism (syntax-critical regions) and those that benefit from creative exploratory variability (design-critical regions). Then, to overcome this, we introduce DecoRTL, a novel run-time decoding strategy, that is both syntax-aware and contrastive for RTL code generation. DecoRTL integrates two complementary components: (i) self-consistency sampling, which generates multiple candidates and re-ranks them based on token-level agreement to promote correctness while maintaining diversity; and (ii) syntax-aware temperature adaptation, which classifies tokens by their syntactical and functional roles and adjusts the sampling temperature accordingly, enforcing low temperature for syntax-critical tokens and higher temperature for exploratory ones. Our approach operates entirely at inference time without requiring any additional model fine-tuning. Through evaluations on multiple open-source LLMs using the VerilogEval benchmark, we demonstrate significant improvements in syntactic validity, functional correctness, and output diversity, while the execution overhead (performance overhead) is imperceptible.
+
+作为许多应用之一,大型语言模型(LLMS)最近显示,在注册传输水平(RTL)代码生成自动化方面,大型语言模型(LLM)最近显示出了前景;然而,原本为自然语言设计的常规LLM解码战略往往无法满足RTL的结构和语义要求,导致幻灭、重复或无效代码输出。在本文中,我们首先通过对RTL生成过程中的代币性激素进行实验性分析来调查这些解码失败的根源。我们的调查结果显示,LLMS在结构模糊或语义复杂度区域中表现出了多度的可靠性,表明标准解码战略未能区分需要确定性(合成关键区域)的区域和那些受益于创造性探索性变异(设计关键区域)的区域。为了克服这些差异,我们引入了DecoRTL(一种新型运行时间解码战略),这是对RTL生成的代币种性调和对比性的。
+
+---
+
