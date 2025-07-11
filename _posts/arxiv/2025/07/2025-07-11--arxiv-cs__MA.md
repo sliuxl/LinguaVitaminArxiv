@@ -1,0 +1,875 @@
+---
+title: "cs.MA @ 2025-07-11: 062"
+date: 2025-07-11
+layout: post
+---
+
+- [00](#article-0) | **07-10 (4)** | MAEBE: Multi-Agent Emergent Behavior Framework | MAEBE: Multi-Agent Emergent Behavior Framework | 多边代理新兴行为框架 | [2506.03053v2](http://arxiv.org/abs/2506.03053v2)
+- [01](#article-1) | 07-10 | MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large   Language Model Framework | MF-LLM: Simulation von Populationsentscheidungsdynamiken über ein mittleres Feld Large Language Model Framework | MF-LLM:通过一个中外地大语言示范框架模拟人口决策动态 | [2504.21582v3](http://arxiv.org/abs/2504.21582v3)
+- [02](#article-2) | 07-10 | Conjugated Capabilities: Interrelations of Elementary Human Capabilities   and Their Implication on Human-Machine Task Allocation and Capability Testing   Procedures | Konjugierte Fähigkeiten: Zusammenhänge von elementaren menschlichen Fähigkeiten und deren Implikationen auf Mensch-Maschine-Aufgaben-Zuteilungs- und Fähigkeitsprüfungsverfahren | 相容能力:人类基本能力之间的相互关系及其对人类-海洋任务分配和能力测试程序的影响 | [2507.07560v1](http://arxiv.org/abs/2507.07560v1)
+- [03](#article-3) | 07-10 | Toward Real-World Chinese Psychological Support Dialogues: CPsDD Dataset   and a Co-Evolving Multi-Agent System | Auf dem Weg zu echten chinesischen Psychologischen Unterstützungsdialogen: CPsDD-Datensatz und ein gemeinsames Multi-Agenten-System | 走向现实世界的中国心理支持对话:CPsDD数据集和共同演进的多行为者系统 | [2507.07509v1](http://arxiv.org/abs/2507.07509v1)
+- [04](#article-4) | 07-10 | KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent   Workflows | KVFlow: Effizientes Präfix-Caching zur Beschleunigung von LLM-basierten Multiagenten-Workflows | KVFlow: 为加速基于LLM的多重需要工作流程而高效预置缓存 | [2507.07400v1](http://arxiv.org/abs/2507.07400v1)
+- [05](#article-5) | 07-10 | Multi-Agent Pathfinding Under Team-Connected Communication Constraint   via Adaptive Path Expansion and Dynamic Leading | Multi-Agent Pathfinding unter Team-Connected Communication Constraint über Adaptive Path Expansion und Dynamic Leading | 通过适应性路径扩展和动态领导,在联成一体的通信制约下,开展多机构多方机构路透调查 | [2501.02770v4](http://arxiv.org/abs/2501.02770v4)
+- [06](#article-6) | **07-09 (3)** | HARMONIC: Cognitive and Control Collaboration in Human-Robotic Teams | HARMONIC: Kognitive und Control Collaboration in human-robotischen Teams | HARMONIC: 人类-热带小组的认知和控制协作 | [2409.18047v3](http://arxiv.org/abs/2409.18047v3)
+- [07](#article-7) | 07-09 | Open Source Planning & Control System with Language Agents for   Autonomous Scientific Discovery | Open Source Planning & Control System mit Language Agents für autonome wissenschaftliche Entdeckung | 拥有自主科学发现语言代理的开放源规划和控制系统 | [2507.07257v1](http://arxiv.org/abs/2507.07257v1)
+- [08](#article-8) | 07-09 | Graph-Based Complexity Metrics for Multi-Agent Curriculum Learning: A   Validated Approach to Task Ordering in Cooperative Coordination Environments | Graph-based Complexity Metrics for Multi-Agent Curriculum Learning: A Validated Approach to Task Ordering in Cooperative Coordination Environments | 用于多机构课程学习的基于图表的复杂程度计量表:在合作协调环境中确定任务 | [2507.07074v1](http://arxiv.org/abs/2507.07074v1)
+- [09](#article-9) | 07-09 | DICE: Data Influence Cascade in Decentralized Learning | DICE: Dateneinfluss Cascade im dezentralisierten Lernen | DICIC: 分散学习中的数据影响连锁数据 | [2507.06931v1](http://arxiv.org/abs/2507.06931v1)
+- [10](#article-10) | 07-09 | Towards Enterprise-Ready Computer Using Generalist Agent | Auf dem Weg zu Enterprise-Ready Computer mit Generalist Agent | 争取利用通才代理实现企业-准备计算机 | [2503.01861v3](http://arxiv.org/abs/2503.01861v3)
+- [11](#article-11) | 07-09 | Learning safe, constrained policies via imitation learning: Connection   to Probabilistic Inference and a Naive Algorithm | Sicheres Lernen, eingeschränkte Richtlinien durch Nachahmung des Lernens: Verbindung zur probabilistischen Inferenz und zu einem Naive-Algorithmus | 通过模仿学习学习,学习安全、有限制的政策:与概率推论和自然算法的联系 | [2507.06780v1](http://arxiv.org/abs/2507.06780v1)
+- [12](#article-12) | 07-09 | Distributed Fault-Tolerant Multi-Robot Cooperative Localization in   Adversarial Environments | Distributed Fehler-Tolerant Multi-Roboter kooperative Lokalisierung in Adversarial Environments | 在逆向环境中分散的分散式失责协调者多机器人合作地方化 | [2507.06750v1](http://arxiv.org/abs/2507.06750v1)
+- [13](#article-13) | 07-09 | A Single Merging Suffices: Recovering Server-based Learning Performance   in Decentralized Learning | Eine einzige Zusammenführung: Wiederherstellung serverbasierter Lernleistung im dezentralisierten Lernen | 单一合并条件:在分散学习中恢复基于服务器的学习绩效 | [2507.06542v1](http://arxiv.org/abs/2507.06542v1)
+- [14](#article-14) | 07-09 | Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration | Gradientsys: Ein Multi-Agent LLM Scheduler mit ReAct Orchestration | Gridientsyss: 配有重动作管弦的多代理性LLM调度器 | [2507.06520v1](http://arxiv.org/abs/2507.06520v1)
+- [15](#article-15) | 07-09 | Pun Intended: Multi-Agent Translation of Wordplay with Contrastive   Learning and Phonetic-Semantic Embeddings | Pun Intended: Multi-Agent Übersetzung von Wordplay mit Kontrastivem Lernen und phonetisch-semantischen Einbettungen | 未预期:多代理翻译与矛盾学习和语音-语言嵌入的文字游戏的多代理翻译 | [2507.06506v1](http://arxiv.org/abs/2507.06506v1)
+- [16](#article-16) | 07-09 | Learning To Communicate Over An Unknown Shared Network | Über ein unbekanntes gemeinsames Netzwerk kommunizieren lernen | 学习通过未知共享网络进行交流 | [2507.06499v1](http://arxiv.org/abs/2507.06499v1)
+- [17](#article-17) | **07-08 (2)** | Too Human to Model:The Uncanny Valley of LLMs in Social Simulation --   When Generative Language Agents Misalign with Modelling Principles | Zu menschlich zum Modell:Das unheimliche Tal der LLMs in der sozialen Simulation -- Wenn Generative Sprachagenten mit Modellierungsgrundsätzen missverstehen | " 人不宜模型:社会模拟中LLMs的奇坎尼谷 -- -- 当产生语言代理物与模拟原则不相符时 " | [2507.06310v1](http://arxiv.org/abs/2507.06310v1)
+- [18](#article-18) | 07-08 | Learning-Augmented Model-Based Multi-Robot Planning for Time-Critical   Search and Inspection Under Uncertainty | Learning-Augmented Modellbasierte Multi-Roboter-Planung für zeitkritische Suche und Inspektion unter Unsicherheit | 在不确定性下进行时间紧急搜索和检查的学习增强型模型多机器人规划 | [2507.06129v1](http://arxiv.org/abs/2507.06129v1)
+- [19](#article-19) | 07-08 | The Algorithmic State Architecture (ASA): An Integrated Framework for   AI-Enabled Government | Die algorithmische Staatsarchitektur (ASA): Ein integrierter Rahmen für eine KI-fähige Regierung | 高等级国家结构:大赦国际参与政府综合框架 | [2503.08725v3](http://arxiv.org/abs/2503.08725v3)
+- [20](#article-20) | 07-08 | From General Relation Patterns to Task-Specific Decision-Making in   Continual Multi-Agent Coordination | Von den allgemeinen Beziehungsmustern zur aufgabenspezifischen Entscheidungsfindung in kontinuierlicher Multi-Agenten-Koordinierung | 从一般关系模式到持续多机构协调的具体任务决策 | [2507.06004v1](http://arxiv.org/abs/2507.06004v1)
+- [21](#article-21) | 07-08 | A Survey of Multi Agent Reinforcement Learning: Federated Learning and   Cooperative and Noncooperative Decentralized Regimes | Eine Umfrage über das Lernen von Multi-Agenten-Verstärkung: Föderiertes Lernen und kooperative und nichtkooperative dezentralisierte Regimes | 多代理强化学习调查:联邦学习与合作及不合作的权力下放制度 | [2507.06278v1](http://arxiv.org/abs/2507.06278v1)
+- [22](#article-22) | 07-08 | Constella: Supporting Storywriters' Interconnected Character Creation   through LLM-based Multi-Agents | Constella: Unterstützung der miteinander verbundenen Charaktererstellung von Storywritern durch LLM-basierte Multi-Agenten | Constella:通过基于LLM的多种代理商支持故事作家的相互联系的创造 | [2507.05820v1](http://arxiv.org/abs/2507.05820v1)
+- [23](#article-23) | 07-08 | Origin-Destination Pattern Effects on Large-Scale Mixed Traffic Control   via Multi-Agent Reinforcement Learning | Origin-Destination-Muster Effekte auf großflächige gemischte Verkehrssteuerung durch Multi-Agenten-Verstärkungs-Lernen | 通过多机构强化学习对大型混合交通控制的影响 | [2505.13543v2](http://arxiv.org/abs/2505.13543v2)
+- [24](#article-24) | 07-08 | Large Language Models for Agent-Based Modelling: Current and possible   uses across the modelling cycle | Große Sprachmodelle für agentenbasierte Modellierung: Aktuelle und mögliche Anwendungen über den Modellierungszyklus hinweg | 用于代理建模的大型语言模型:当前和整个建模周期的可能用途 | [2507.05723v1](http://arxiv.org/abs/2507.05723v1)
+- [25](#article-25) | 07-08 | Horus: A Protocol for Trustless Delegation Under Uncertainty | Horus: Ein Protokoll für eine treulose Delegation unter Unsicherheit | 荷鲁斯:不确定性下无信托代表团议定书 | [2507.00631v5](http://arxiv.org/abs/2507.00631v5)
+- [26](#article-26) | 07-08 | The Complexity of Pure Strategy Relevant Equilibria in Concurrent Games | Die Komplexität der reinen Strategie Relevante Equilibria in Parallelspielen | 同时运动会中纯粹战略相关平衡的复杂性 | [2505.07501v3](http://arxiv.org/abs/2505.07501v3)
+- [27](#article-27) | 07-08 | MOD-X: A Modular Open Decentralized eXchange Framework proposal for   Heterogeneous Interoperable Artificial Intelligence Agents | MOD-X: Ein modularer, offener, dezentralisierter eXchange-Rahmenvorschlag für heterogene interoperable Künstliche Intelligenz-Agenten | MOD-X:关于不同基因、可相互操作的人工情报代理人的模块开放的分散式电子交流框架提案 | [2507.04376v2](http://arxiv.org/abs/2507.04376v2)
+- [28](#article-28) | 07-08 | An AI Theory of Mind Will Enhance Our Collective Intelligence | Eine KI-Theorie des Geistes wird unsere kollektive Intelligenz verbessern | AI 心理理论会加强我们的集体情报 | [2411.09168v2](http://arxiv.org/abs/2411.09168v2)
+- [29](#article-29) | **07-07 (1)** | Inaugural MOASEI Competition at AAMAS'2025: A Technical Report | Inauguraler MOASEI-Wettbewerb auf der AAMAS'2025: Ein technischer Bericht | AAMAS'2025年AAMAS'2025年AAAMAS'2025年AAMASAAAAAAAAAAESAI 成立之初的MOASEI竞争:技术报告 | [2507.05469v1](http://arxiv.org/abs/2507.05469v1)
+- [30](#article-30) | 07-07 | From Marginal to Joint Predictions: Evaluating Scene-Consistent   Trajectory Prediction Approaches for Automated Driving | Von Marginal zu Joint Predictions: Bewertung szenekonsistenter Trajektorien-Vorhersageansätze für Automatisiertes Fahren | 从边际到联合预测:评价自动驾驶的场景-群集轨迹预测方法 | [2507.05254v1](http://arxiv.org/abs/2507.05254v1)
+- [31](#article-31) | 07-07 | Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent   Collaboration | Modellierung latenter Partnerstrategien für eine anpassungsfähige, zero-shot-menschliche Zusammenarbeit | 零热人类-机构合作适应性零热人类-机构协作示范伙伴伙伴战略 | [2507.05244v1](http://arxiv.org/abs/2507.05244v1)
+- [32](#article-32) | 07-07 | CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale | CREW-WILDFIRE: Benchmarking Agentische Multi-Agentische Kooperationen im Maßstab | CREW-WILDFIRE: 规模化基准代理多机构协作机制 | [2507.05178v1](http://arxiv.org/abs/2507.05178v1)
+- [33](#article-33) | 07-07 | Effects of Unplanned Incoming Flights on Airport Relief Processes after   a Major Natural Disaster | Auswirkungen nicht geplanter Incoming-Flüge auf Flughafen-Entlastungsprozesse nach einer großen Naturkatastrophe | 重大自然灾害后未经计划的入侵飞行对机场救济进程的影响 | [2507.05150v1](http://arxiv.org/abs/2507.05150v1)
+- [34](#article-34) | 07-07 | Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic   Empirical Study | Warum kämpfen Open Source LLMs mit Datenanalyse? Eine systematische empirische Studie | 开放源码LLMs为何要与数据分析斗争?系统的经验研究 | [2506.19794v2](http://arxiv.org/abs/2506.19794v2)
+- [35](#article-35) | 07-07 | Leadership Detection via Time-Lagged Correlation-Based Network Inference | Leadership-Erkennung durch zeitverzögerte Korrelations-basierte Netzwerkinferenz | 通过时间-时间-时间-关系-基于网络的推断发现领导能力 | [2507.04917v1](http://arxiv.org/abs/2507.04917v1)
+- [36](#article-36) | 07-07 | MARBLE: A Multi-Agent Rule-Based LLM Reasoning Engine for Accident   Severity Prediction | MARBLE: Eine regelbasierte LLM-Reasoning-Engine für die Vorhersage von Unfällen mit Schweregrad | 事故严重性预测的多机构、以规则为基础的多机构、基于规则的LLM 理疗引擎 | [2507.04893v1](http://arxiv.org/abs/2507.04893v1)
+- [37](#article-37) | 07-07 | Who's the Mole? Modeling and Detecting Intention-Hiding Malicious Agents   in LLM-Based Multi-Agent Systems | Wer ist der Maulwurf? Modellierung und Erkennung von Absicht-verbergenden bösartigen Agenten in LLM-basierten Multi-Agenten-Systemen | 以LLM为基础的多机构系统中的模拟和检测恶意恶意代理人 | [2507.04724v1](http://arxiv.org/abs/2507.04724v1)
+- [38](#article-38) | 07-07 | Balancing Act: Prioritization Strategies for LLM-Designed Restless   Bandit Rewards | Balance Act: Priorisierungsstrategien für LLM-Designed Restless Bandit Rewards | 平衡法:LLM-指派的无无无无无无无无无无无无无无无无有匪奖项的优先战略 | [2408.12112v4](http://arxiv.org/abs/2408.12112v4)
+- [39](#article-39) | 07-07 | Method of Equal Shares with Bounded Overspending | Methode der gleichen Aktien mit beschränkter Überfinanzierung | 折叠超支平分方法 | [2409.15005v3](http://arxiv.org/abs/2409.15005v3)
+- [40](#article-40) | **07-06 (7)** | Agentic Distributed Computing | Agentisch verteiltes Computing | A. 分配的计算 | [2507.04459v1](http://arxiv.org/abs/2507.04459v1)
+- [41](#article-41) | 07-06 | KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality | KnowRL: Erforschendes Wissenswertes Verstärktes Lernen für die Realität | KnowRL:探索知识强化学习促进事实质量 | [2506.19807v2](http://arxiv.org/abs/2506.19807v2)
+- [42](#article-42) | 07-06 | AutoMind: Adaptive Knowledgeable Agent for Automated Data Science | AutoMind: Adaptives Knowledgeable Agent für automatisierte Datenwissenschaft | 自动Mind:自动数据科学适应性知识代理 | [2506.10974v2](http://arxiv.org/abs/2506.10974v2)
+- [43](#article-43) | 07-06 | KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot   Diagnosis Prediction Using Multi-agent LLMs | KERAP: Ein wissensbasierter Ansatz für genaue Null-Shot-Diagnose-Vorhersage mit Multi-Agent LLMs | KERRAP: 利用多种试剂LLMs进行准确零光诊断预测的知识强化理由说明方法 | [2507.02773v2](http://arxiv.org/abs/2507.02773v2)
+- [44](#article-44) | 07-06 | Optimal Sizing and Control of a Grid-Connected Battery in a Stacked   Revenue Model Including an Energy Community | Optimale Sizing und Kontrolle einer netzgebundenen Batterie in einem Stacked Revenue Modell inklusive einer Energiegemeinschaft | 包括能源共同体在内的堆装收入模式中的电网连接电池的最佳尺寸和控制 | [2507.04343v1](http://arxiv.org/abs/2507.04343v1)
+- [45](#article-45) | 07-06 | SCALE: Towards Collaborative Content Analysis in Social Science with   Large Language Model Agents and Human Intervention | SCALE: Auf dem Weg zu einer kollaborativen Inhaltsanalyse in der Sozialwissenschaft mit großen Sprachmodellen und menschlicher Intervention | SCALE:促进社会科学与大语言模范媒介和人类干预合作内容分析 | [2502.10937v2](http://arxiv.org/abs/2502.10937v2)
+- [46](#article-46) | **07-05 (6)** | Enhancing Robustness of LLM-Driven Multi-Agent Systems through   Randomized Smoothing | Verbesserung der Robustheit von LLM-getriebenen Multi-Agent-Systemen durch Randomized Glättung | 通过随机平滑,加强LLM-Dripen多机构系统的力量 | [2507.04105v1](http://arxiv.org/abs/2507.04105v1)
+- [47](#article-47) | 07-05 | A LLM-Driven Multi-Agent Systems for Professional Development of   Mathematics Teachers | Ein LLM-getriebenes Multi-Agent-System für die berufliche Entwicklung von Mathematiklehrern | ALLM-Driven 数学教师专业发展多机构系统 | [2507.05292v1](http://arxiv.org/abs/2507.05292v1)
+- [48](#article-48) | 07-05 | HAWK: A Hierarchical Workflow Framework for Multi-Agent Collaboration | HAWK: Hierarchisches Workflow-Framework für multi-agente Zusammenarbeit | HAWK:多机构合作的等级工作流程框架 | [2507.04067v1](http://arxiv.org/abs/2507.04067v1)
+- [49](#article-49) | 07-05 | Quantum Computing and Neuromorphic Computing for Safe, Reliable, and   explainable Multi-Agent Reinforcement Learning: Optimal Control in Autonomous   Robotics | Quantum Computing und Neuromorphic Computing für sicheres, zuverlässiges und erklärbares Multi-Agenten-Verstärkungslernen: Optimale Kontrolle in der autonomen Robotik | 用于安全、可靠和可解释的多机构强化学习的量子计算和神经形态计算:自主机器人学的最佳控制 | [2408.03884v2](http://arxiv.org/abs/2408.03884v2)
+- [50](#article-50) | 07-05 | CortexDebate: Debating Sparsely and Equally for Multi-Agent Debate | CortexDebatte: Spärlich und gleichermaßen für die Mehr-Agenten-Debatte debattieren | CortexDebate: 为多机构辩论进行粗略和同等的争论 | [2507.03928v1](http://arxiv.org/abs/2507.03928v1)
+- [51](#article-51) | 07-05 | Agent Exchange: Shaping the Future of AI Agent Economics | Agent Exchange: Die Zukunft von AI Agent Economics gestalten | A. 交流:构建AI A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. | [2507.03904v1](http://arxiv.org/abs/2507.03904v1)
+- [52](#article-52) | 07-05 | Enhancing Clinical Trial Patient Matching through Knowledge Augmentation   and Reasoning with Multi-Agent | Verbesserung klinischer Studienpatienten, die durch Wissensvergrößerung und Vernunft mit Multi-Agenten übereinstimmen | 通过知识增加和与多方代理商的理据,加强临床试验病人与多方代理商匹配的能力 | [2411.14637v3](http://arxiv.org/abs/2411.14637v3)
+- [53](#article-53) | **07-04 (5)** | You Can't Always Get What You Want: Games of Ordered Preference | Sie können nicht immer bekommen, was Sie wollen: Spiele der bestellten Präferenz | 你不能总是得到你想要的东西: 有序优惠的游戏 | [2410.21447v3](http://arxiv.org/abs/2410.21447v3)
+- [54](#article-54) | 07-04 | Towards a Playground to Democratize Experimentation and Benchmarking of   AI Agents for Network Troubleshooting | Auf dem Weg zu einem Spielplatz zur Demokratisierung von Experimenten und Benchmarking von KI-Agenten zur Netzwerkfehlerbehebung | 走向使AI 网络排除问题代理机构民主化试验和基准设定的竞技场 | [2507.01997v2](http://arxiv.org/abs/2507.01997v2)
+- [55](#article-55) | 07-04 | A unifying approach to self-organizing systems interacting via   conservation laws | Ein vereinheitlichter Ansatz für selbstorganisierende Systeme, die über Erhaltungsgesetze interagieren | 对通过养护法相互作用的自我组织系统采取统一办法 | [2507.02575v2](http://arxiv.org/abs/2507.02575v2)
+- [56](#article-56) | 07-04 | GenSim: A General Social Simulation Platform with Large Language Model   based Agents | GenSim: Eine allgemeine soziale Simulationsplattform mit großformatigen Agenten | GenSim:一个配有以大语言模式为基础的示范物剂的一般社会模拟平台 | [2410.04360v3](http://arxiv.org/abs/2410.04360v3)
+- [57](#article-57) | **07-03 (4)** | A Fuzzy Supervisor Agent Design for Clinical Reasoning Assistance in a   Multi-Agent Educational Clinical Scenario Simulation | Ein Fuzzy Supervisor Agent Design für klinische Hilfe bei einer multi-agenten pädagogischen klinischen Szenario-Simulation | 一名模糊的监管员,在多机构教育临床假想模拟中为临床理疗协助设计 | [2507.05275v1](http://arxiv.org/abs/2507.05275v1)
+- [58](#article-58) | 07-03 | Agentic Business Process Management: Practitioner Perspectives on Agent   Governance in Business Processes | Agentic Business Process Management: Praxisperspektiven zur Agenten-Governance in Unternehmensprozessen | 代理业务流程管理:从业者对业务流程代理治理的看法 | [2504.03693v2](http://arxiv.org/abs/2504.03693v2)
+- [59](#article-59) | 07-03 | Autonomous Control Leveraging LLMs: An Agentic Framework for   Next-Generation Industrial Automation | Autonome Steuerung Leveraging LLMs: Agentische Rahmenbedingungen für die industrielle Automatisierung der nächsten Generation | 自主控制杠杆利用LMM: 下一启动工业自动化的 Agentic 框架 | [2507.07115v1](http://arxiv.org/abs/2507.07115v1)
+- [60](#article-60) | 07-03 | Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation | Einschließlich LLMs für großräumige Urban Complex Mobility Simulation | 大型城市综合流动模拟项目LLMs | [2505.21880v2](http://arxiv.org/abs/2505.21880v2)
+- [61](#article-61) | 07-03 | Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm   Collaboration Challenge at CVPR 2025 MEIS Workshop | Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge bei CVPR 2025 MEIS Workshop | 基准的可通用二手操纵:2025年欧洲气象和气象科学研究所讲习班上的机器人双臂双臂合作挑战 | [2506.23351v2](http://arxiv.org/abs/2506.23351v2)
+
+## Article 0
+### Title@2025-07-10 (4): MAEBE: Multi-Agent Emergent Behavior Framework
+
+**Title**: MAEBE: Multi-Agent Emergent Behavior Framework | MAEBE: Multi-Agent Emergent Behavior Framework | 多边代理新兴行为框架 [2506.03053v2](http://arxiv.org/abs/2506.03053v2)
+
+**Authors** (4): Sinem Erisken, Timothy Gothard, Martin Leitgab, Ram Potham
+
+Traditional AI safety evaluations on isolated LLMs are insufficient as multi-agent AI ensembles become prevalent, introducing novel emergent risks. This paper introduces the Multi-Agent Emergent Behavior Evaluation (MAEBE) framework to systematically assess such risks. Using MAEBE with the Greatest Good Benchmark (and a novel double-inversion question technique), we demonstrate that: (1) LLM moral preferences, particularly for Instrumental Harm, are surprisingly brittle and shift significantly with question framing, both in single agents and ensembles. (2) The moral reasoning of LLM ensembles is not directly predictable from isolated agent behavior due to emergent group dynamics. (3) Specifically, ensembles exhibit phenomena like peer pressure influencing convergence, even when guided by a supervisor, highlighting distinct safety and alignment challenges. Our findings underscore the necessity of evaluating AI systems in their interactive, multi-agent contexts.
+
+对孤立的LLMs进行传统的AI安全评价是不够的,因为多试剂AI联合体变得很普遍,带来新的新风险。本文件介绍了多代理新兴行为评价(MAEBE)框架,以系统评估此类风险。我们利用MAEBE和最伟大的良好基准(以及一种新型的双重反向问题技术)来证明:(1)LLM道德偏好,特别是工具伤害的道德偏好,在单一代理体和组合体中都令人惊讶地变得脆弱,随着问题设置而发生重大变化。 (2)LLM联合体的道德推理不能直接从新出现的集团动态造成的孤立的代理体行为中预见出来。(3)具体地说,集合体展示了影响趋同的同行压力等现象,即使由上司指导,也突出了不同的安全和一致性挑战。我们的调查结果强调,有必要在其互动的多剂环境中评价AI系统。
+
+---
+
+## Article 1
+### Title@2025-07-10 (4): MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large   Language Model Framework
+
+**Title**: MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large   Language Model Framework | MF-LLM: Simulation von Populationsentscheidungsdynamiken über ein mittleres Feld Large Language Model Framework | MF-LLM:通过一个中外地大语言示范框架模拟人口决策动态 [2504.21582v3](http://arxiv.org/abs/2504.21582v3)
+
+**Authors** (9): Qirui Mi, Mengyue Yang, Xiangning Yu, Zhiyu Zhao, Cheng Deng, Bo An, Haifeng Zhang, Xu Chen, Jun Wang
+
+Simulating collective decision-making involves more than aggregating individual behaviors; it emerges from dynamic interactions among individuals. While large language models (LLMs) offer strong potential for social simulation, achieving quantitative alignment with real-world data remains a key challenge. To bridge this gap, we propose the Mean-Field LLM (MF-LLM) framework, the first to incorporate mean field theory into LLM-based social simulation. MF-LLM models bidirectional interactions between individuals and the population through an iterative process, generating population signals to guide individual decisions, which in turn update the signals. This interplay produces coherent trajectories of collective behavior. To improve alignment with real-world data, we introduce IB-Tune, a novel fine-tuning method inspired by the Information Bottleneck principle, which retains population signals most predictive of future actions while filtering redundant history. Evaluated on a real-world social dataset, MF-LLM reduces KL divergence to human population distributions by 47\% compared to non-mean-field baselines, enabling accurate trend forecasting and effective intervention planning. Generalizing across 7 domains and 4 LLM backbones, MF-LLM provides a scalable, high-fidelity foundation for social simulation.
+
+模拟集体决策涉及的不仅仅是综合个人行为;它产生于个人之间的动态互动;虽然大型语言模型(LLMs)为社会模拟提供了巨大的潜力,但与现实世界数据实现数量一致仍然是一个关键挑战。为了缩小这一差距,我们提议了中-实地LLM(MF-LLM)框架,这是第一个将中-实地理论纳入基于LLM的社会模拟中的第一个框架。MF-LLM模型通过一个迭接过程将个人和人口之间的双向互动纳入到LM社会模拟中,生成人口信号以指导个人决策,而后者又更新信号。这种相互作用产生了一致的集体行为轨迹。为了改善与现实世界数据的一致性,我们引入了IB-Tune,这是受信息博特内克原则启发的一种创新的微调方法,它保留了人口信号,在过滤多余历史的同时最能预测未来行动。MF-LM(LM)将KLM减少KLL与人口分布的差别,比非中等水平基线减少47,从而能够准确的趋势预测和有效干预规划。
+
+---
+
+## Article 2
+### Title@2025-07-10 (4): Conjugated Capabilities: Interrelations of Elementary Human Capabilities   and Their Implication on Human-Machine Task Allocation and Capability Testing   Procedures
+
+**Title**: Conjugated Capabilities: Interrelations of Elementary Human Capabilities   and Their Implication on Human-Machine Task Allocation and Capability Testing   Procedures | Konjugierte Fähigkeiten: Zusammenhänge von elementaren menschlichen Fähigkeiten und deren Implikationen auf Mensch-Maschine-Aufgaben-Zuteilungs- und Fähigkeitsprüfungsverfahren | 相容能力:人类基本能力之间的相互关系及其对人类-海洋任务分配和能力测试程序的影响 [2507.07560v1](http://arxiv.org/abs/2507.07560v1)
+
+**Authors** (5): Nils Mandischer, Larissa Füller, Torsten Alles, Frank Flemisch, Lars Mikelsons
+
+Human and automation capabilities are the foundation of every human-autonomy interaction and interaction pattern. Therefore, machines need to understand the capacity and performance of human doing, and adapt their own behavior, accordingly. In this work, we address the concept of conjugated capabilities, i.e. capabilities that are dependent or interrelated and between which effort can be distributed. These may be used to overcome human limitations, by shifting effort from a deficient to a conjugated capability with performative resources. For example: A limited arm's reach may be compensated by tilting the torso forward. We analyze the interrelation between elementary capabilities within the IMBA standard to uncover potential conjugation, and show evidence in data of post-rehabilitation patients. From the conjugated capabilities, within the example application of stationary manufacturing, we create a network of interrelations. With this graph, a manifold of potential uses is enabled. We showcase the graph's usage in optimizing IMBA test design to accelerate data recordings, and discuss implications of conjugated capabilities on task allocation between the human and an autonomy.
+
+人的能力和自动化能力是每一种人类自主互动和互动模式的基础。 因此, 机器需要了解人类行为的能力和表现, 并相应调整自己的行为。 在这项工作中, 我们处理共生能力的概念, 即依赖或相互联系的能力, 以及可以分散努力的能力。 这些能力可以用来克服人类的局限性, 将努力从不足的能力转向与性能资源相融合的能力。 例如: 有限的手臂的覆盖范围可以通过向前倾斜来弥补。 我们分析IMBA标准范围内的基本能力之间的相互关系, 以发现潜在的共生, 并在康复后病人的数据中显示证据。 从共生能力, 在固定的制造业应用中, 我们创建了一个相互联系的网络。 通过这个图表, 我们启用了多种潜在用途。 我们展示了图表在优化IMBA测试设计以加速数据记录, 并讨论共生能力对人与自主任务分配的影响。
+
+---
+
+## Article 3
+### Title@2025-07-10 (4): Toward Real-World Chinese Psychological Support Dialogues: CPsDD Dataset   and a Co-Evolving Multi-Agent System
+
+**Title**: Toward Real-World Chinese Psychological Support Dialogues: CPsDD Dataset   and a Co-Evolving Multi-Agent System | Auf dem Weg zu echten chinesischen Psychologischen Unterstützungsdialogen: CPsDD-Datensatz und ein gemeinsames Multi-Agenten-System | 走向现实世界的中国心理支持对话:CPsDD数据集和共同演进的多行为者系统 [2507.07509v1](http://arxiv.org/abs/2507.07509v1)
+
+**Authors** (3): Yuanchen Shi, Longyin Zhang, Fang Kong
+
+The growing need for psychological support due to increasing pressures has exposed the scarcity of relevant datasets, particularly in non-English languages. To address this, we propose a framework that leverages limited real-world data and expert knowledge to fine-tune two large language models: Dialog Generator and Dialog Modifier. The Generator creates large-scale psychological counseling dialogues based on predefined paths, which guide system response strategies and user interactions, forming the basis for effective support. The Modifier refines these dialogues to align with real-world data quality. Through both automated and manual review, we construct the Chinese Psychological support Dialogue Dataset (CPsDD), containing 68K dialogues across 13 groups, 16 psychological problems, 13 causes, and 12 support focuses. Additionally, we introduce the Comprehensive Agent Dialogue Support System (CADSS), where a Profiler analyzes user characteristics, a Summarizer condenses dialogue history, a Planner selects strategies, and a Supporter generates empathetic responses. The experimental results of the Strategy Prediction and Emotional Support Conversation (ESC) tasks demonstrate that CADSS achieves state-of-the-art performance on both CPsDD and ESConv datasets.
+
+由于压力增加,对心理支持的需求日益增长,这暴露了相关数据集的稀缺,特别是非英语的数据集。为此,我们提议了一个框架,利用有限的真实世界数据和专家知识对两种大语言模型进行微调:对话框生成器和对话框修饰器。发电机创造了基于预设路径的大规模心理咨询对话,指导系统反应战略和用户互动,为有效支持奠定基础。修饰器将这些对话改进为与现实世界数据质量相一致。通过自动化和人工审查,我们构建了中国心理支持对话数据集,其中包括13个群体之间的68K对话、16个心理问题、13个原因和12个支持重点。此外,我们引入了全面代理对话支持系统(CADSS),其中剖析器分析用户特性,一个解析器压缩对话历史,一个规划器选择战略,以及一个支持器生成了同情性反应。战略预测和情感支持对话(ESC)任务的实验结果显示,中国心理支持系统在CPDD和CURS上都实现了状态。
+
+---
+
+## Article 4
+### Title@2025-07-10 (4): KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent   Workflows
+
+**Title**: KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent   Workflows | KVFlow: Effizientes Präfix-Caching zur Beschleunigung von LLM-basierten Multiagenten-Workflows | KVFlow: 为加速基于LLM的多重需要工作流程而高效预置缓存 [2507.07400v1](http://arxiv.org/abs/2507.07400v1)
+
+**Authors** (9): Zaifeng Pan, Ajjkumar Patel, Zhengding Hu, Yipeng Shen, Yue Guan, Wan-Lu Li, Lianhui Qin, Yida Wang, Yufei Ding
+
+Large language model (LLM) based agentic workflows have become a popular paradigm for coordinating multiple specialized agents to solve complex tasks. To improve serving efficiency, existing LLM systems employ prefix caching to reuse key-value (KV) tensors corresponding to agents' fixed prompts, thereby avoiding redundant computation across repeated invocations. However, current systems typically evict KV caches using a Least Recently Used (LRU) policy, which fails to anticipate future agent usage and often discards KV caches shortly before their reuse. This leads to frequent cache misses and substantial recomputation or swapping overhead. We present KVFlow, a workflow-aware KV cache management framework tailored for agentic workloads. KVFlow abstracts the agent execution schedule as an Agent Step Graph and assigns each agent a steps-to-execution value that estimates its temporal proximity to future activation. These values guide a fine-grained eviction policy at the KV node level, allowing KVFlow to preserve entries likely to be reused and efficiently manage shared prefixes in tree-structured caches. Moreover, KVFlow introduces a fully overlapped KV prefetching mechanism, which proactively loads required tensors from CPU to GPU in background threads for agents scheduled in the next step, thereby avoiding cache miss stalls during generation. Compared to SGLang with hierarchical radix cache, KVFlow achieves up to 1.83$\times$ speedup for single workflows with large prompts, and up to 2.19$\times$ speedup for scenarios with many concurrent workflows.
+
+大型语言模型( LLM) 以大型语言模式为基础的代理工作流程已成为协调多个专门代理商解决复杂任务的流行范例。 为了提高效率, 现有的 LLM 系统使用前缀缓存, 重新使用与代理商固定提示相对的键值( KV) , 从而避免重复计算。 然而, 当前系统通常使用最不常用的( LRU) 政策驱逐 KV 缓存, 这无法预测未来代理商的使用情况, 并经常在重新使用之前不久丢弃 KV 缓存 。 这导致频繁的缓存丢失和大量重置或转换管理管理管理管理。 我们展示了 KVFlow, 一个为代理工作量量定制的工作流程- World KVVV 缓存管理框架。 KVFlow 将代理商执行时间表作为代理Step 图表, 并给每个代理商分配一个步骤到执行值, 估计其与未来激活时间的距离。 这些值指导了 KVPO 节点的细化驱逐政策, 允许 KVFlow 保存可能被再利用的单流流流流和高效共享的预置速度, 。 KVlalal-lickraterateal 时间里, 时间里, 需要完全地在 SG 。
+
+---
+
+## Article 5
+### Title@2025-07-10 (4): Multi-Agent Pathfinding Under Team-Connected Communication Constraint   via Adaptive Path Expansion and Dynamic Leading
+
+**Title**: Multi-Agent Pathfinding Under Team-Connected Communication Constraint   via Adaptive Path Expansion and Dynamic Leading | Multi-Agent Pathfinding unter Team-Connected Communication Constraint über Adaptive Path Expansion und Dynamic Leading | 通过适应性路径扩展和动态领导,在联成一体的通信制约下,开展多机构多方机构路透调查 [2501.02770v4](http://arxiv.org/abs/2501.02770v4)
+
+**Authors** (3): Hoang-Dung Bui, Erion Plaku, Gregoy J. Stein
+
+This paper proposes a novel planning framework to handle a multi-agent pathfinding problem under team-connected communication constraint, where all agents must have a connected communication channel to the rest of the team during their entire movements. Standard multi-agent path finding approaches (e.g., priority-based search) have potential in this domain but fail when neighboring configurations at start and goal differ. Their single-expansion approach -- computing each agent's path from the start to the goal in just a single expansion -- cannot reliably handle planning under communication constraints for agents as their neighbors change during navigating. Similarly, leader-follower approaches (e.g., platooning) are effective at maintaining team communication, but fixing the leader at the outset of planning can cause planning to become stuck in dense-clutter environments, limiting their practical utility. To overcome this limitation, we propose a novel two-level multi-agent pathfinding framework that integrates two techniques: adaptive path expansion to expand agent paths to their goals in multiple stages; and dynamic leading technique that enables the reselection of the leading agent during each agent path expansion whenever progress cannot be made. Simulation experiments show the efficiency of our planners, which can handle up to 25 agents across five environment types under a limited communication range constraint and up to 11-12 agents on three environment types under line-of-sight communication constraint, exceeding 90% success-rate where baselines routinely fail.
+
+本文提出一个新的规划框架,以处理在团队连接的通信限制下多试剂路径调查问题,所有代理人员必须在整个移动期间拥有与团队其余部分的连接通信渠道。标准多试剂查找方法(例如基于优先的搜索)在这方面具有潜力,但当周边配置在开始时和目标不同时却失败。他们的一个扩展方法 -- -- 计算每个代理人员从一开始到仅仅以单一扩展为目标的路径 -- -- 无法可靠地处理在通信限制下对代理人员进行规划,因为其邻国在导航过程中发生变化。同样,领导追随者方法(例如排)在维持团队通信方面十分有效,但在规划开始时确定领导者可以导致规划被困在拥挤的环境中,限制其实际效用。为了克服这一限制,我们提议一个新的两级多试探框架,将两种技术结合起来:适应性路径扩展,将代理人员路径扩大到多个阶段的目标;动态领先技术,使领导代理人员在每一个代理人员扩展过程中,只要无法取得进展,就能在每一个代理人员扩展过程中重新进行选择。模拟实验,但在规划开始时确定领导者的效率时,在密集的第三种通信限制范围下,在超过第四种环境中可以进行限制范围为第三种环境之下,在第四种情况下进行。
+
+---
+
+## Article 6
+### Title@2025-07-09 (3): HARMONIC: Cognitive and Control Collaboration in Human-Robotic Teams
+
+**Title**: HARMONIC: Cognitive and Control Collaboration in Human-Robotic Teams | HARMONIC: Kognitive und Control Collaboration in human-robotischen Teams | HARMONIC: 人类-热带小组的认知和控制协作 [2409.18047v3](http://arxiv.org/abs/2409.18047v3)
+
+**Authors** (10): Sanjay Oruganti, Sergei Nirenburg, Marjorie McShane, Jesse English, Michael K. Roberts, Christian Arndt, Sahithi Kamireddy, Carlos Gonzalez, Mingyo Seo, Luis Sentis
+
+This paper describes HARMONIC, a cognitive-robotic architecture that integrates the OntoAgent cognitive framework with general-purpose robot control systems applied to human-robot teaming (HRT). HARMONIC incorporates metacognition, meaningful natural language communication, and explainability capabilities required for developing mutual trust in HRT. Through simulation experiments involving a joint search task performed by a heterogeneous team of two HARMONIC-based robots and a human operator, we demonstrate heterogeneous robots that coordinate their actions, adapt to complex scenarios, and engage in natural human-robot communication. Evaluation results show that HARMONIC-based robots can reason about plans, goals, and team member attitudes while providing clear explanations for their decisions, which are essential requirements for realistic human-robot teaming.
+
+本文介绍HARMONTIC,这是一个将OntoAgency认知框架与适用于人类机器人团队的通用机器人控制系统相结合的认知-机器人结构。HARMONIC包含在HRT中发展相互信任所需的内分化、有意义的自然语言交流和解释能力。通过由HARMONIC的两名机器人和一个人类操作员组成的多元团队进行联合搜索任务的模拟实验,我们展示了协调其行动、适应复杂情景和从事自然人类机器人通信的异体机器人。评价结果显示,基于HARMONIC的机器人可以解释计划、目标和团队成员的态度,同时为其决定提供明确的解释,这是现实人类机器人团队化的基本要求。
+
+---
+
+## Article 7
+### Title@2025-07-09 (3): Open Source Planning & Control System with Language Agents for   Autonomous Scientific Discovery
+
+**Title**: Open Source Planning & Control System with Language Agents for   Autonomous Scientific Discovery | Open Source Planning & Control System mit Language Agents für autonome wissenschaftliche Entdeckung | 拥有自主科学发现语言代理的开放源规划和控制系统 [2507.07257v1](http://arxiv.org/abs/2507.07257v1)
+
+**Authors** (26): Licong Xu, Milind Sarkar, Anto I. Lonappan, Íñigo Zubeldia, Pablo Villanueva-Domingo, Santiago Casas, Christian Fidler, Chetana Amancharla, Ujjwal Tiwari, Adrian Bayer, Chadi Ait Ekiou, Miles Cranmer, Adrian Dimitrov, James Fergusson, Kahaan Gandhi, Sven Krippendorf, Andrew Laverick, Julien Lesgourgues, Antony Lewis, Thomas Meier, Blake Sherwin, Kristen Surrao, Francisco Villaescusa-Navarro, Chi Wang, Xueqing Xu, Boris Bolliet
+
+We present a multi-agent system for automation of scientific research tasks, cmbagent. The system is formed by about 30 Large Language Model (LLM) agents and implements a Planning & Control strategy to orchestrate the agentic workflow, with no human-in-the-loop at any point. Each agent specializes in a different task (performing retrieval on scientific papers and codebases, writing code, interpreting results, critiquing the output of other agents) and the system is able to execute code locally. We successfully apply cmbagent to carry out a PhD level cosmology task (the measurement of cosmological parameters using supernova data) and evaluate its performance on two benchmark sets, finding superior performance over state-of-the-art LLMs. The source code is available on GitHub, demonstration videos are also available, and the system is deployed on HuggingFace and will be available on the cloud.
+
+我们提出了一个多试剂系统,用于科研任务的自动化,cmbexic。这个系统由大约30个大语言模型代理商组成,并执行一项规划与控制战略,以协调代理工作流程,在任何时间都没有人在行。每个代理商都专门从事不同的任务(科学论文和代码库的检索、写法、解释结果、使其他代理商的输出具有生命力)和系统能够在当地执行代码。我们成功地应用了cmbexuc执行博士级宇宙学任务(使用超新星数据测量宇宙参数),并评估其在两个基准系列上的性能,在最新LLMS上找到优异的性能。源代码在GitHub上可以找到,演示视频也可以在HuggingFace上安装,并将在云层上提供。
+
+---
+
+## Article 8
+### Title@2025-07-09 (3): Graph-Based Complexity Metrics for Multi-Agent Curriculum Learning: A   Validated Approach to Task Ordering in Cooperative Coordination Environments
+
+**Title**: Graph-Based Complexity Metrics for Multi-Agent Curriculum Learning: A   Validated Approach to Task Ordering in Cooperative Coordination Environments | Graph-based Complexity Metrics for Multi-Agent Curriculum Learning: A Validated Approach to Task Ordering in Cooperative Coordination Environments | 用于多机构课程学习的基于图表的复杂程度计量表:在合作协调环境中确定任务 [2507.07074v1](http://arxiv.org/abs/2507.07074v1)
+
+**Authors** (5): Farhaan Ebadulla, Dharini Hindlatti, Srinivaasan NS, Apoorva VH, Ayman Aftab
+
+Multi-agent reinforcement learning (MARL) faces significant challenges in task sequencing and curriculum design, particularly for cooperative coordination scenarios. While curriculum learning has demonstrated success in single-agent domains, principled approaches for multi-agent coordination remain limited due to the absence of validated task complexity metrics. This approach presents a graph-based coordination complexity metric that integrates agent dependency entropy, spatial interference patterns, and goal overlap analysis to predict task difficulty in multi-agent environments. The complexity metric achieves strong empirical validation with rho = 0.952 correlation (p < 0.001) between predicted complexity and empirical difficulty determined by random agent performance evaluation. This approach evaluates the curriculum learning framework using MADDPG across two distinct coordination environments: achieving 56x performance improvement in tight coordination tasks (MultiWalker) and demonstrating systematic task progression in cooperative navigation (Simple Spread). Through systematic analysis, coordination tightness emerges as a predictor of curriculum learning effectiveness, where environments requiring strict agent interdependence benefit substantially from structured progression. This approach provides a validated complexity metric for multi-agent curriculum design and establishes empirical guidelines for multi-robot coordination applications.
+
+多剂强化学习(MARL)在任务排序和课程设计方面面临重大挑战,特别是在合作协调情景方面。课程学习在单一剂领域取得了成功,但多剂协调的原则办法仍然有限,因为缺乏经验证的任务复杂度指标。这种方法提出了基于图表的协调复杂度指标,其中结合了物剂依赖性激素、空间干扰模式以及目标重叠分析,以预测多剂环境中的任务困难。复杂的指标在预测复杂性和随机剂绩效评估确定的经验困难之间实现了强有力的经验验证,Rho=0.952相关(p <0.001),这种方法为多剂课程设计提供了经过验证的复杂度指标,并为多剂协调应用制定了经验准则。
+
+---
+
+## Article 9
+### Title@2025-07-09 (3): DICE: Data Influence Cascade in Decentralized Learning
+
+**Title**: DICE: Data Influence Cascade in Decentralized Learning | DICE: Dateneinfluss Cascade im dezentralisierten Lernen | DICIC: 分散学习中的数据影响连锁数据 [2507.06931v1](http://arxiv.org/abs/2507.06931v1)
+
+**Authors** (4): Tongtian Zhu, Wenhao Li, Can Wang, Fengxiang He
+
+Decentralized learning offers a promising approach to crowdsource data consumptions and computational workloads across geographically distributed compute interconnected through peer-to-peer networks, accommodating the exponentially increasing demands. However, proper incentives are still in absence, considerably discouraging participation. Our vision is that a fair incentive mechanism relies on fair attribution of contributions to participating nodes, which faces non-trivial challenges arising from the localized connections making influence ``cascade'' in a decentralized network. To overcome this, we design the first method to estimate \textbf{D}ata \textbf{I}nfluence \textbf{C}ascad\textbf{E} (DICE) in a decentralized environment. Theoretically, the framework derives tractable approximations of influence cascade over arbitrary neighbor hops, suggesting the influence cascade is determined by an interplay of data, communication topology, and the curvature of loss landscape. DICE also lays the foundations for applications including selecting suitable collaborators and identifying malicious behaviors. Project page is available at https://raiden-zhu.github.io/blog/2025/DICE/.
+
+分散化学习为通过同侪网络进行地理分布的多方源数据消费和计算工作量提供了一种充满希望的方法,通过同侪网络进行计算,从而满足急剧增长的需求。然而,适当的奖励办法仍然缺乏,大大抑制了参与。我们的愿景是,公平的奖励机制依赖于对参与节点的捐款的公平分配,而参与节点面临非三重挑战,因为地方联系在分散化的网络中产生了“连带”影响。为了克服这一点,我们设计了第一个方法来估计在分散化的环境中对各种应用进行估计,包括选择适当的合作者和查明恶意行为。从理论上讲,该框架产生了对任意邻里跳跃的可移动影响力的可移动近似值,表明影响是数据、通信地貌和损失地貌曲线的相互作用所决定的。DICE还为各种应用奠定了基础,包括选择合适的合作者和确定恶意行为。项目网页见https://raiden-zhu.github.io/blogb/205/DICE/。
+
+---
+
+## Article 10
+### Title@2025-07-09 (3): Towards Enterprise-Ready Computer Using Generalist Agent
+
+**Title**: Towards Enterprise-Ready Computer Using Generalist Agent | Auf dem Weg zu Enterprise-Ready Computer mit Generalist Agent | 争取利用通才代理实现企业-准备计算机 [2503.01861v3](http://arxiv.org/abs/2503.01861v3)
+
+**Authors** (9): Sami Marreed, Alon Oved, Avi Yaeli, Segev Shlomov, Ido Levy, Offer Akrabi, Aviad Sela, Asaf Adi, Nir Mashkif
+
+This paper presents our ongoing work toward developing an enterprise-ready Computer Using Generalist Agent (CUGA) system. Our research highlights the evolutionary nature of building agentic systems suitable for enterprise environments. By integrating state-of-the-art agentic AI techniques with a systematic approach to iterative evaluation, analysis, and refinement, we have achieved rapid and cost-effective performance gains, notably reaching a new state-of-the-art performance on the WebArena and AppWorld benchmarks. We detail our development roadmap, the methodology and tools that facilitated rapid learning from failures and continuous system refinement, and discuss key lessons learned and future challenges for enterprise adoption.
+
+本文件介绍了我们目前为开发企业准备的计算机使用通用代理系统而开展的工作,我们的研究突出了适合企业环境的建筑代理系统的演变性质,通过将最先进的代理性AI技术与系统化的迭代评价、分析和完善方法相结合,我们取得了迅速和成本效益高的业绩收益,特别是在WebArena和AppWorld基准上取得了新的最新业绩,我们详细介绍了我们的发展路线图、促进从失败和持续系统完善中快速学习的方法和工具,并讨论了企业采用的关键经验教训和未来挑战。
+
+---
+
+## Article 11
+### Title@2025-07-09 (3): Learning safe, constrained policies via imitation learning: Connection   to Probabilistic Inference and a Naive Algorithm
+
+**Title**: Learning safe, constrained policies via imitation learning: Connection   to Probabilistic Inference and a Naive Algorithm | Sicheres Lernen, eingeschränkte Richtlinien durch Nachahmung des Lernens: Verbindung zur probabilistischen Inferenz und zu einem Naive-Algorithmus | 通过模仿学习学习,学习安全、有限制的政策:与概率推论和自然算法的联系 [2507.06780v1](http://arxiv.org/abs/2507.06780v1)
+
+**Authors** (2): George Papadopoulos, George A. Vouros
+
+This article introduces an imitation learning method for learning maximum entropy policies that comply with constraints demonstrated by expert trajectories executing a task. The formulation of the method takes advantage of results connecting performance to bounds for the KL-divergence between demonstrated and learned policies, and its objective is rigorously justified through a connection to a probabilistic inference framework for reinforcement learning, incorporating the reinforcement learning objective and the objective to abide by constraints in an entropy maximization setting. The proposed algorithm optimizes the learning objective with dual gradient descent, supporting effective and stable training. Experiments show that the proposed method can learn effective policy models for constraints-abiding behaviour, in settings with multiple constraints of different types, accommodating different modalities of demonstrated behaviour, and with abilities to generalize.
+
+本条引入了一种模拟学习方法,以学习符合执行任务的专家轨迹所显示的限制的最大限度的诱变政策。该方法的制定利用了将表现与所显示和所学政策之间的KL-调和界限联系起来的结果,其目标通过与强化学习的概率推理框架相联系,纳入强化学习的目标和在恒温最大化环境中遵守限制的目标而得到严格合理解释。拟议的算法将学习目标优化为双梯度下降,支持有效和稳定的培训。实验表明,拟议的方法能够在不同类型、适应所显示行为的不同模式和普及能力的情况下学习约束行为的有效政策模式。
+
+---
+
+## Article 12
+### Title@2025-07-09 (3): Distributed Fault-Tolerant Multi-Robot Cooperative Localization in   Adversarial Environments
+
+**Title**: Distributed Fault-Tolerant Multi-Robot Cooperative Localization in   Adversarial Environments | Distributed Fehler-Tolerant Multi-Roboter kooperative Lokalisierung in Adversarial Environments | 在逆向环境中分散的分散式失责协调者多机器人合作地方化 [2507.06750v1](http://arxiv.org/abs/2507.06750v1)
+
+**Authors** (2): Tohid Kargar Tasooji, Ramviyas Parasuraman
+
+In multi-robot systems (MRS), cooperative localization is a crucial task for enhancing system robustness and scalability, especially in GPS-denied or communication-limited environments. However, adversarial attacks, such as sensor manipulation, and communication jamming, pose significant challenges to the performance of traditional localization methods. In this paper, we propose a novel distributed fault-tolerant cooperative localization framework to enhance resilience against sensor and communication disruptions in adversarial environments. We introduce an adaptive event-triggered communication strategy that dynamically adjusts communication thresholds based on real-time sensing and communication quality. This strategy ensures optimal performance even in the presence of sensor degradation or communication failure. Furthermore, we conduct a rigorous analysis of the convergence and stability properties of the proposed algorithm, demonstrating its resilience against bounded adversarial zones and maintaining accurate state estimation. Robotarium-based experiment results show that our proposed algorithm significantly outperforms traditional methods in terms of localization accuracy and communication efficiency, particularly in adversarial settings. Our approach offers improved scalability, reliability, and fault tolerance for MRS, making it suitable for large-scale deployments in real-world, challenging environments.
+
+在多机器人系统中,合作本地化是提高系统稳健性和可扩缩性的关键任务,特别是在全球定位系统封闭或通信受限制的环境中。然而,对抗性攻击,例如传感器操纵和通信干扰,对传统本地化方法的性能构成重大挑战。在本文件中,我们提议建立一个新颖的分散式的容错合作本地化框架,以提高抵御敌对环境中的感应力和通信中断的能力。我们引入了适应性事件触发通信战略,根据实时感应和通信质量动态调整通信阈值。这一战略确保即使在传感器退化或通信失灵的情况下也实现最佳性能。此外,我们对拟议算法的趋同性和稳定性进行严格分析,展示其抵御约束性对抗敌对区的能力,并保持准确的状态估计。机器人天平实验结果表明,我们拟议的算法在本地化精确度和通信效率方面大大优于传统方法,特别是在对抗性环境下。我们的方法提高了多边遥感系统的可扩缩性、可靠性和错错容性,使之适合在现实世界中大规模部署,具有挑战性的环境。
+
+---
+
+## Article 13
+### Title@2025-07-09 (3): A Single Merging Suffices: Recovering Server-based Learning Performance   in Decentralized Learning
+
+**Title**: A Single Merging Suffices: Recovering Server-based Learning Performance   in Decentralized Learning | Eine einzige Zusammenführung: Wiederherstellung serverbasierter Lernleistung im dezentralisierten Lernen | 单一合并条件:在分散学习中恢复基于服务器的学习绩效 [2507.06542v1](http://arxiv.org/abs/2507.06542v1)
+
+**Authors** (5): Tongtian Zhu, Tianyu Zhang, Mingze Wang, Zhanpeng Zhou, Can Wang
+
+Decentralized learning provides a scalable alternative to traditional parameter-server-based training, yet its performance is often hindered by limited peer-to-peer communication. In this paper, we study how communication should be scheduled over time, including determining when and how frequently devices synchronize. Our empirical results show that concentrating communication budgets in the later stages of decentralized training markedly improves global generalization. Surprisingly, we uncover that fully connected communication at the final step, implemented by a single global merging, is sufficient to match the performance of server-based training. We further show that low communication in decentralized learning preserves the \textit{mergeability} of local models throughout training. Our theoretical contributions, which explains these phenomena, are first to establish that the globally merged model of decentralized SGD can converge faster than centralized mini-batch SGD. Technically, we novelly reinterpret part of the discrepancy among local models, which were previously considered as detrimental noise, as constructive components that accelerate convergence. This work challenges the common belief that decentralized learning generalizes poorly under data heterogeneity and limited communication, while offering new insights into model merging and neural network loss landscapes.
+
+分散化学习为传统的参数服务器培训提供了可扩缩的替代办法,但是其绩效往往受到有限的同侪通信的阻碍。在本文中,我们研究沟通应如何安排一段时间,包括确定时间和频率的同步装置。我们的实证结果表明,将通信预算集中到分散化培训的后期阶段可明显改善全球普遍化。令人惊讶的是,我们发现,在最后一步通过单一全球合并进行的完全相连的通信足以与服务器培训的绩效相匹配。我们进一步表明,分散化学习中的低通信能在整个培训中保留当地模式的textit{mergeable}。我们解释这些现象的理论贡献首先确定,分散化的 SGD的全球合并模式可以比集中化的小型组合SGD速度更快。技术上,我们新重新解读了地方模式之间差异的一部分,这些模式过去被认为是有害的噪音,是加速趋同的建设性组成部分。这项工作挑战了一种共同的信念,即分散化学习在数据繁杂性和有限通信中一般化程度很低,同时对模型合并和神经网络景观损失提出了新的见解。
+
+---
+
+## Article 14
+### Title@2025-07-09 (3): Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration
+
+**Title**: Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration | Gradientsys: Ein Multi-Agent LLM Scheduler mit ReAct Orchestration | Gridientsyss: 配有重动作管弦的多代理性LLM调度器 [2507.06520v1](http://arxiv.org/abs/2507.06520v1)
+
+**Authors** (5): Xinyuan Song, Zeyu Wang, Siyi Wu, Tianyu Shi, Lynn Ai
+
+We present Gradientsys, a next-generation multi-agent scheduling framework that coordinates diverse specialized AI agents using a typed Model-Context Protocol (MCP) and a ReAct-based dynamic planning loop. At its core, Gradientsys employs an LLM-powered scheduler for intelligent one-to-many task dispatch, enabling parallel execution of heterogeneous agents such as PDF parsers, web search modules, GUI controllers, and web builders. The framework supports hybrid synchronous/asynchronous execution, respects agent capacity constraints, and incorporates a robust retry-and-replan mechanism to handle failures gracefully. To promote transparency and trust, Gradientsys includes an observability layer streaming real-time agent activity and intermediate reasoning via Server-Sent Events (SSE). We offer an architectural overview and evaluate Gradientsys against existing frameworks in terms of extensibility, scheduling topology, tool reusability, parallelism, and observability. Experiments on the GAIA general-assistant benchmark show that Gradientsys achieves higher task success rates with reduced latency and lower API costs compared to a MinionS-style baseline, demonstrating the strength of its LLM-driven multi-agent orchestration.
+
+我们提出了 " 渐进式系统 " ,这是一个下一代多剂列表框架,它利用一个打印模式-文本协议(MCP)和基于ReAct的动态规划环来协调各种专门的AI剂,其核心是, " 梯子 " 使用一个LLM动力调度器,用于智能一对多项任务发送,使PDF授精器、网络搜索模块、图形用户界面控制器和网络建设器等多种物剂能够平行执行。该框架支持混合同步/不同步执行,尊重代理能力限制,并纳入一个强有力的再试验和再规划机制,以优雅地处理失败。为了提高透明度和信任, " 梯子 " 包括一个可耐性层流转实时物剂活动以及通过服务器-智能事件(SSE)进行中间推理。我们提供了一个建筑概览,对照现有框架,如扩展性、表层表、工具可重复性、平行性和耐性。关于 " 加速性 " 工具 " 的实验表明, " 渐进式 " 实现更高的任务成功率率率,以较低的压力和低压力型多制动性模型为示范。
+
+---
+
+## Article 15
+### Title@2025-07-09 (3): Pun Intended: Multi-Agent Translation of Wordplay with Contrastive   Learning and Phonetic-Semantic Embeddings
+
+**Title**: Pun Intended: Multi-Agent Translation of Wordplay with Contrastive   Learning and Phonetic-Semantic Embeddings | Pun Intended: Multi-Agent Übersetzung von Wordplay mit Kontrastivem Lernen und phonetisch-semantischen Einbettungen | 未预期:多代理翻译与矛盾学习和语音-语言嵌入的文字游戏的多代理翻译 [2507.06506v1](http://arxiv.org/abs/2507.06506v1)
+
+**Authors** (3): Russell Taylor, Benjamin Herbert, Michael Sana
+
+Translating wordplay across languages presents unique challenges that have long confounded both professional human translators and machine translation systems. This research proposes a novel approach for translating puns from English to French by combining state-of-the-art large language models with specialized techniques for wordplay generation.   Our methodology employs a three-stage approach. First, we establish a baseline using multiple frontier large language models with feedback based on a new contrastive learning dataset. Second, we implement a guided chain-of-thought pipeline with combined phonetic-semantic embeddings. Third, we implement a multi-agent generator-discriminator framework for evaluating and regenerating puns with feedback.   Moving beyond the limitations of literal translation, our methodology's primary objective is to capture the linguistic creativity and humor of the source text wordplay, rather than simply duplicating its vocabulary. Our best runs earned first and second place in the CLEF JOKER 2025 Task 2 competition where they were evaluated manually by expert native French speakers.   This research addresses a gap between translation studies and computational linguistics by implementing linguistically-informed techniques for wordplay translation, advancing our understanding of how language models can be leveraged to handle the complex interplay between semantic ambiguity, phonetic similarity, and the implicit cultural and linguistic awareness needed for successful humor.
+
+翻译跨语言的文字游戏提出了独特的挑战,这些挑战长期以来一直困扰着专业的人类翻译员和机器翻译系统。本研究提出了将最先进的大语言模型与文字剧生成的专门技术相结合,把英语译成法语的新颖方法。我们的方法采用三阶段方法。首先,我们利用基于新的对比学习数据集的反馈,用多种前沿大语言模型建立一个基线。第二,我们实施一个带指导的思维链管道,将语音-语义嵌入结合起来。第三,我们实施一个多试剂的生成器/差异器框架,用于评估和用反馈重新生成标本。超越了文字翻译的局限性,我们的方法的主要目标是捕捉取原始文字剧的语言创造力和幽默感,而不是简单地复制其词汇。我们的最佳运行在CLEF JOKER 2025任务2中获得了第一和第二名的反馈。我们的研究通过应用语言智能化翻译技术解决了翻译和计算语言语言学之间的差距,推进了我们对于复杂语言模范模式的理解,从而能够利用复杂的语言模棱两极性来控制语言模型。
+
+---
+
+## Article 16
+### Title@2025-07-09 (3): Learning To Communicate Over An Unknown Shared Network
+
+**Title**: Learning To Communicate Over An Unknown Shared Network | Über ein unbekanntes gemeinsames Netzwerk kommunizieren lernen | 学习通过未知共享网络进行交流 [2507.06499v1](http://arxiv.org/abs/2507.06499v1)
+
+**Authors** (5): Shivangi Agarwal, Adi Asija, Sanjit K. Kaul, Arani Bhattacharya, Saket Anand
+
+As robots (edge-devices, agents) find uses in an increasing number of settings and edge-cloud resources become pervasive, wireless networks will often be shared by flows of data traffic that result from communication between agents and corresponding edge-cloud. In such settings, agent communicating with the edge-cloud is unaware of state of network resource, which evolves in response to not just agent's own communication at any given time but also to communication by other agents, which stays unknown to the agent. We address challenge of an agent learning a policy that allows it to decide whether or not to communicate with its cloud node, using limited feedback it obtains from its own attempts to communicate, to optimize its utility. The policy generalizes well to any number of other agents sharing the network and must not be trained for any particular network configuration. Our proposed policy is a DRL model Query Net (QNet) that we train using a proposed simulation-to-real framework. Our simulation model has just one parameter and is agnostic to specific configurations of any wireless network. It allows training an agent's policy over a wide range of outcomes that an agent's communication with its edge-cloud node may face when using a shared network, by suitably randomizing the simulation parameter. We propose a learning algorithm that addresses challenges observed in training QNet. We validate our simulation-to-real driven approach through experiments conducted on real wireless networks including WiFi and cellular. We compare QNet with other policies to demonstrate its efficacy. WiFi experiments involved as few as five agents, resulting in barely any contention for the network, to as many as fifty agents, resulting in severe contention. The cellular experiments spanned a broad range of network conditions, with baseline RTT ranging from a low of 0.07 second to a high of 0.83 second.
+
+机器人( 隐形装置、 代理商) 在越来越多的设置中发现用途, 边缘云层资源变得十分普遍, 无线网络通常会被来自代理商之间通信和相应的边缘云层之间通信的数据流量共享。 在这种环境下, 与边缘库的代理商沟通并不了解网络资源的状况, 这不仅是因为代理商在任何特定时间自己的通信, 也是为了其他代理商的通信而演变的。 我们处理代理商学习一项政策的挑战, 该政策允许该代理商使用有限的反馈, 来决定是否与其云节点进行通信。 R 利用它从自己的通信尝试中获得的有限反馈, 以优化其效用。 在这种环境中, 与边缘的代理商进行通信。 我们的拟议政策是一个 DRL 模式 Query Net (QNet) , 不仅在任何特定的时间里, 也是为了应对其他代理商的通信。 我们的模拟模型只有一个参数, 并且对于任何无线网络的具体配置是不可知的。 它使得一个代理商在真实的网络上 面对一个清晰的策略, , 使用一个可观察到的虚拟的网络的模型, 将它作为我们所观测到一个稳定的网络的路径 。
+
+---
+
+## Article 17
+### Title@2025-07-08 (2): Too Human to Model:The Uncanny Valley of LLMs in Social Simulation --   When Generative Language Agents Misalign with Modelling Principles
+
+**Title**: Too Human to Model:The Uncanny Valley of LLMs in Social Simulation --   When Generative Language Agents Misalign with Modelling Principles | Zu menschlich zum Modell:Das unheimliche Tal der LLMs in der sozialen Simulation -- Wenn Generative Sprachagenten mit Modellierungsgrundsätzen missverstehen | " 人不宜模型:社会模拟中LLMs的奇坎尼谷 -- -- 当产生语言代理物与模拟原则不相符时 " [2507.06310v1](http://arxiv.org/abs/2507.06310v1)
+
+**Authors** (3): Yongchao Zeng, Calum Brown, Mark Rounsevell
+
+Large language models (LLMs) have been increasingly used to build agents in social simulation because of their impressive abilities to generate fluent, contextually coherent dialogues. Such abilities can enhance the realism of models. However, the pursuit of realism is not necessarily compatible with the epistemic foundation of modelling. We argue that LLM agents, in many regards, are too human to model: they are too expressive, detailed and intractable to be consistent with the abstraction, simplification, and interpretability typically demanded by modelling. Through a model-building thought experiment that converts the Bass diffusion model to an LLM-based variant, we uncover five core dilemmas: a temporal resolution mismatch between natural conversation and abstract time steps; the need for intervention in conversations while avoiding undermining spontaneous agent outputs; the temptation to introduce rule-like instructions in prompts while maintaining conversational naturalness; the tension between role consistency and role evolution across time; and the challenge of understanding emergence, where system-level patterns become obscured by verbose micro textual outputs. These dilemmas steer the LLM agents towards an uncanny valley: not abstract enough to clarify underlying social mechanisms, while not natural enough to represent realistic human behaviour. This exposes an important paradox: the realism of LLM agents can obscure, rather than clarify, social dynamics when misapplied. We tease out the conditions in which LLM agents are ideally suited: where system-level emergence is not the focus, linguistic nuances and meaning are central, interactions unfold in natural time, and stable role identity is more important than long-term behavioural evolution. We call for repositioning LLM agents in the ecosystem of social simulation for future applications.
+
+大型语言模型(LLMS)越来越多地被用于在社会模拟中建立代理人,因为其令人印象深刻的能力能够产生流畅的、符合背景特点的对话。这种能力可以增强模型的现实性。然而,追求现实主义并不一定与建模的缩略基础相容。我们认为,在许多方面,LLM代理商过于人性化:它们过于直观、详细和棘手,无法与建模通常要求的抽象、简化和可解释性相一致。通过将Bass传播模型转换成以LLM为基础的变异体的建模性思想实验,我们发现了五个核心两难点:自然对话与抽象时间步骤不匹配;需要干预对话,同时避免自发的代理产出;在保持自然自然自然自然特性的同时,引入符合规则的指示;角色一致性和角色演进之间的紧张关系;以及理解的出现,即系统层面的格局因verbose 微观文字产出而变得模糊不清。这些两难困境使LM代理商转向一个不透明谷:不能完全抽象地澄清重要的社会机制中的重要时间比抽象的运用时间性变化,同时,而不能充分反映人类的自然的动态的走向的动态的走向的走向,而使人类的走向的走向的走向的走向更接近:我们所处系的走向的走向的走向的走向,而不能代表的走向的走向的走向的走向的走向的走向的走向,而使我们的走向的走向的走向的走向是:我们的走向。
+
+---
+
+## Article 18
+### Title@2025-07-08 (2): Learning-Augmented Model-Based Multi-Robot Planning for Time-Critical   Search and Inspection Under Uncertainty
+
+**Title**: Learning-Augmented Model-Based Multi-Robot Planning for Time-Critical   Search and Inspection Under Uncertainty | Learning-Augmented Modellbasierte Multi-Roboter-Planung für zeitkritische Suche und Inspektion unter Unsicherheit | 在不确定性下进行时间紧急搜索和检查的学习增强型模型多机器人规划 [2507.06129v1](http://arxiv.org/abs/2507.06129v1)
+
+**Authors** (4): Abhish Khanal, Joseph Prince Mathew, Cameron Nowzari, Gregory J. Stein
+
+In disaster response or surveillance operations, quickly identifying areas needing urgent attention is critical, but deploying response teams to every location is inefficient or often impossible. Effective performance in this domain requires coordinating a multi-robot inspection team to prioritize inspecting locations more likely to need immediate response, while also minimizing travel time. This is particularly challenging because robots must directly observe the locations to determine which ones require additional attention. This work introduces a multi-robot planning framework for coordinated time-critical multi-robot search under uncertainty. Our approach uses a graph neural network to estimate the likelihood of PoIs needing attention from noisy sensor data and then uses those predictions to guide a multi-robot model-based planner to determine the cost-effective plan. Simulated experiments demonstrate that our planner improves performance at least by 16.3\%, 26.7\%, and 26.2\% for 1, 3, and 5 robots, respectively, compared to non-learned and learned baselines. We also validate our approach on real-world platforms using quad-copters.
+
+在救灾或监测行动中,迅速查明需要紧急注意的地区至关重要,但在每个地点部署应急小组是效率低下或往往不可能做到的。这一领域的有效工作需要协调多机器人检查组,以便优先检查更可能需要立即作出反应的地点,同时尽量减少旅行时间。这特别具有挑战性,因为机器人必须直接观察地点,以确定哪些地点需要额外注意。这项工作为在不确定情况下协调、时间紧迫、多机器人搜索引入了多机器人规划框架。我们的方法使用一个图形神经网络来估计需要从噪音感应数据中注意POIs的可能性,然后利用这些预测来指导多机器人模型规划师确定成本效益高的计划。模拟实验表明,我们的规划师与非学习和学习基线相比,至少可以提高1个、3个和5个机器人的性能,至少16.3、26.7和26.2。我们还验证了我们使用四分机在现实世界平台上的做法。
+
+---
+
+## Article 19
+### Title@2025-07-08 (2): The Algorithmic State Architecture (ASA): An Integrated Framework for   AI-Enabled Government
+
+**Title**: The Algorithmic State Architecture (ASA): An Integrated Framework for   AI-Enabled Government | Die algorithmische Staatsarchitektur (ASA): Ein integrierter Rahmen für eine KI-fähige Regierung | 高等级国家结构:大赦国际参与政府综合框架 [2503.08725v3](http://arxiv.org/abs/2503.08725v3)
+
+**Authors** (4): Zeynep Engin, Jon Crowcroft, David Hand, Philip Treleaven
+
+As artificial intelligence transforms public sector operations, governments struggle to integrate technological innovations into coherent systems for effective service delivery. This paper introduces the Algorithmic State Architecture (ASA), a novel four-layer framework conceptualising how Digital Public Infrastructure, Data-for-Policy, Algorithmic Government/Governance, and GovTech interact as an integrated system in AI-enabled states. Unlike approaches that treat these as parallel developments, ASA positions them as interdependent layers with specific enabling relationships and feedback mechanisms. Through comparative analysis of implementations in Estonia, Singapore, India, and the UK, we demonstrate how foundational digital infrastructure enables systematic data collection, which powers algorithmic decision-making processes, ultimately manifesting in user-facing services. Our analysis reveals that successful implementations require balanced development across all layers, with particular attention to integration mechanisms between them. The framework contributes to both theory and practice by bridging previously disconnected domains of digital government research, identifying critical dependencies that influence implementation success, and providing a structured approach for analysing the maturity and development pathways of AI-enabled government systems.
+
+由于人工智能改变了公共部门的运作,政府努力将技术创新纳入协调一致的系统,以有效提供服务。本文件介绍了 " 算术国家架构 " (ASA),这是一个新的四层框架,构思数字公共基础设施、数据换政策、政府/治理以及GovTech如何在AI支持的邦作为一个综合系统进行互动。与将两者视为平行发展的方法不同,ASA将它们定位为具有具体扶持关系和反馈机制的相互依存层。通过对爱沙尼亚、新加坡、印度和联合王国的执行情况进行比较分析,我们展示了基础数字基础设施如何促成系统数据收集,其中授权进行算法决策进程,最终体现在用户布局服务中。我们的分析表明,成功的实施需要所有层次的均衡发展,特别注意它们之间的整合机制。该框架通过弥合以前相互脱节的政府数字研究领域,确定影响执行成功的关键依赖性,以及提供分析AI支持的政府系统的成熟和发展途径的结构化方法,从而推动理论和实践。
+
+---
+
+## Article 20
+### Title@2025-07-08 (2): From General Relation Patterns to Task-Specific Decision-Making in   Continual Multi-Agent Coordination
+
+**Title**: From General Relation Patterns to Task-Specific Decision-Making in   Continual Multi-Agent Coordination | Von den allgemeinen Beziehungsmustern zur aufgabenspezifischen Entscheidungsfindung in kontinuierlicher Multi-Agenten-Koordinierung | 从一般关系模式到持续多机构协调的具体任务决策 [2507.06004v1](http://arxiv.org/abs/2507.06004v1)
+
+**Authors** (7): Chang Yao, Youfang Lin, Shoucheng Song, Hao Wu, Yuqing Ma, Shang Han, Kai Lv
+
+Continual Multi-Agent Reinforcement Learning (Co-MARL) requires agents to address catastrophic forgetting issues while learning new coordination policies with the dynamics team. In this paper, we delve into the core of Co-MARL, namely Relation Patterns, which refer to agents' general understanding of interactions. In addition to generality, relation patterns exhibit task-specificity when mapped to different action spaces. To this end, we propose a novel method called General Relation Patterns-Guided Task-Specific Decision-Maker (RPG). In RPG, agents extract relation patterns from dynamic observation spaces using a relation capturer. These task-agnostic relation patterns are then mapped to different action spaces via a task-specific decision-maker generated by a conditional hypernetwork. To combat forgetting, we further introduce regularization items on both the relation capturer and the conditional hypernetwork. Results on SMAC and LBF demonstrate that RPG effectively prevents catastrophic forgetting when learning new tasks and achieves zero-shot generalization to unseen tasks.
+
+连续多机构强化学习(Co-MARL)要求代理商在与动态团队学习新的协调政策的同时,解决灾难性的遗忘问题。在本文中,我们深入探讨联合MARL的核心,即关系模式,即代理商对互动的一般理解。除了一般性外,关系模式在绘制到不同行动空间时显示出任务的具体特点。为此,我们提议了一个名为“通用关系模式-指导任务特定决策员(RPG)”的新方法。在RPG中,代理商利用关系捕捉者从动态观测空间提取了关系模式。这些任务、不可知关系模式随后通过一个有条件的超网络产生的任务决定制造者绘制到不同的行动空间。为了消除忘记,我们进一步在关系捕捉者和有条件的超网络上引入了规范项目。SMAC和LBF的成果表明,当学习新任务并实现对无形任务的零光化时,RPGPG能够有效防止灾难性的遗忘。
+
+---
+
+## Article 21
+### Title@2025-07-08 (2): A Survey of Multi Agent Reinforcement Learning: Federated Learning and   Cooperative and Noncooperative Decentralized Regimes
+
+**Title**: A Survey of Multi Agent Reinforcement Learning: Federated Learning and   Cooperative and Noncooperative Decentralized Regimes | Eine Umfrage über das Lernen von Multi-Agenten-Verstärkung: Föderiertes Lernen und kooperative und nichtkooperative dezentralisierte Regimes | 多代理强化学习调查:联邦学习与合作及不合作的权力下放制度 [2507.06278v1](http://arxiv.org/abs/2507.06278v1)
+
+**Authors** (6): Kemboi Cheruiyot, Nickson Kiprotich, Vyacheslav Kungurtsev, Kennedy Mugo, Vivian Mwirigi, Marvin Ngesa
+
+The increasing interest in research and innovation towards the development of autonomous agents presents a number of complex yet important scenarios of multiple AI Agents interacting with each other in an environment. The particular setting can be understood as exhibiting three possibly topologies of interaction - centrally coordinated cooperation, ad-hoc interaction and cooperation, and settings with noncooperative incentive structures. This article presents a comprehensive survey of all three domains, defined under the formalism of Federal Reinforcement Learning (RL), Decentralized RL, and Noncooperative RL, respectively. Highlighting the structural similarities and distinctions, we review the state of the art in these subjects, primarily explored and developed only recently in the literature. We include the formulations as well as known theoretical guarantees and highlights and limitations of numerical performance.
+
+研究和创新对自主代理的发展的兴趣日益浓厚,这呈现出多种AI代理在环境中相互互动的一系列复杂而重要的情景,这种特殊环境可理解为展示了三种可能的互动模式----中央协调的合作、特设互动和合作,以及与不合作的激励结构的关系。本文章对联邦强化学习、分散的RL和不合作的RL等形式主义分别界定的所有三个领域进行了全面调查。我们强调了结构上的异同。我们审视了这些学科的先进程度,主要是最近才在文献中探讨和开发的。我们包括了各种表述以及已知的理论保障、重点以及数字性能的局限性。
+
+---
+
+## Article 22
+### Title@2025-07-08 (2): Constella: Supporting Storywriters' Interconnected Character Creation   through LLM-based Multi-Agents
+
+**Title**: Constella: Supporting Storywriters' Interconnected Character Creation   through LLM-based Multi-Agents | Constella: Unterstützung der miteinander verbundenen Charaktererstellung von Storywritern durch LLM-basierte Multi-Agenten | Constella:通过基于LLM的多种代理商支持故事作家的相互联系的创造 [2507.05820v1](http://arxiv.org/abs/2507.05820v1)
+
+**Authors** (3): Syemin Park, Soobin Park, Youn-kyung Lim
+
+Creating a cast of characters by attending to their relational dynamics is a critical aspect of most long-form storywriting. However, our formative study (N=14) reveals that writers struggle to envision new characters that could influence existing ones, to balance similarities and differences among characters, and to intricately flesh out their relationships. Based on these observations, we designed Constella, an LLM-based multi-agent tool that supports storywriters' interconnected character creation process. Constella suggests related characters (FRIENDS DISCOVERY feature), reveals the inner mindscapes of several characters simultaneously (JOURNALS feature), and manifests relationships through inter-character responses (COMMENTS feature). Our 7-8 day deployment study with storywriters (N=11) shows that Constella enabled the creation of expansive communities composed of related characters, facilitated the comparison of characters' thoughts and emotions, and deepened writers' understanding of character relationships. We conclude by discussing how multi-agent interactions can help distribute writers' attention and effort across the character cast.
+
+然而,我们的成型研究(N=14)揭示了作家们试图想象能够影响现有角色的新角色,平衡不同角色之间的异同,并错综复杂地丰富他们的关系。根据这些观察,我们设计了Constella,这是一个基于LLM的多剂工具,支持写作者的相互联系的字符创建过程。Constella建议了相关的字符(FRIENDS DiscoverY特征),同时揭示了几个字符的内心侧面(JOURNALS特征),并通过字符间反应(COMAMINS特征)展示了各种关系。我们与写作家的7-8天部署研究(N=11)显示,Constella帮助创建了由相关人物组成的广阔社区,促进了对角色思想和情感的比较,加深了作家对字符关系的了解。我们通过讨论多剂互动如何帮助将作者的注意力和精力分散到角色上。
+
+---
+
+## Article 23
+### Title@2025-07-08 (2): Origin-Destination Pattern Effects on Large-Scale Mixed Traffic Control   via Multi-Agent Reinforcement Learning
+
+**Title**: Origin-Destination Pattern Effects on Large-Scale Mixed Traffic Control   via Multi-Agent Reinforcement Learning | Origin-Destination-Muster Effekte auf großflächige gemischte Verkehrssteuerung durch Multi-Agenten-Verstärkungs-Lernen | 通过多机构强化学习对大型混合交通控制的影响 [2505.13543v2](http://arxiv.org/abs/2505.13543v2)
+
+**Authors** (4): Muyang Fan, Songyang Liu, Shuai Li, Weizi Li
+
+Traffic congestion remains a major challenge for modern urban transportation, diminishing both efficiency and quality of life. While autonomous driving technologies and reinforcement learning (RL) have shown promise for improving traffic control, most prior work has focused on small-scale networks or isolated intersections. Large-scale mixed traffic control, involving both human-driven and robotic vehicles, remains underexplored. In this study, we propose a decentralized multi-agent reinforcement learning framework for managing large-scale mixed traffic networks, where intersections are controlled either by traditional traffic signals or by robotic vehicles. We evaluate our approach on a real-world network of 14 intersections in Colorado Springs, Colorado, USA, using average vehicle waiting time as the primary measure of traffic efficiency. We are exploring a problem that has not been sufficiently addressed: Is large-scale Multi-Agent Traffic Control (MTC) still feasible when facing time-varying Origin-Destination (OD) patterns?
+
+虽然自主驾驶技术和强化学习(RL)对改善交通控制很有希望,但以往的大部分工作都集中在小型网络或孤立的交叉点上。大型混合交通控制,包括人驱动车辆和机器人车辆在内,仍然未得到充分探讨。在本研究报告中,我们提议建立一个分散的多剂强化学习框架,以管理大型混合交通网络,其中交叉点由传统交通信号或机器人车辆控制。我们用平均车辆等候时间作为交通效率的主要衡量标准,对美国科罗拉多州科罗拉多泉14个交叉点的现实世界网络进行评估。我们正在探索一个尚未充分解决的问题:大规模多点交通控制在面临时间变化的原产目的地模式时是否仍然可行?
+
+---
+
+## Article 24
+### Title@2025-07-08 (2): Large Language Models for Agent-Based Modelling: Current and possible   uses across the modelling cycle
+
+**Title**: Large Language Models for Agent-Based Modelling: Current and possible   uses across the modelling cycle | Große Sprachmodelle für agentenbasierte Modellierung: Aktuelle und mögliche Anwendungen über den Modellierungszyklus hinweg | 用于代理建模的大型语言模型:当前和整个建模周期的可能用途 [2507.05723v1](http://arxiv.org/abs/2507.05723v1)
+
+**Authors** (11): Loïs Vanhée, Melania Borit, Peer-Olaf Siebers, Roger Cremades, Christopher Frantz, Önder Gürcan, František Kalvas, Denisa Reshef Kera, Vivek Nallur, Kavin Narasimhan, Martin Neumann
+
+The emergence of Large Language Models (LLMs) with increasingly sophisticated natural language understanding and generative capabilities has sparked interest in the Agent-based Modelling (ABM) community. With their ability to summarize, generate, analyze, categorize, transcribe and translate text, answer questions, propose explanations, sustain dialogue, extract information from unstructured text, and perform logical reasoning and problem-solving tasks, LLMs have a good potential to contribute to the modelling process. After reviewing the current use of LLMs in ABM, this study reflects on the opportunities and challenges of the potential use of LLMs in ABM. It does so by following the modelling cycle, from problem formulation to documentation and communication of model results, and holding a critical stance.
+
+具有日益精密的自然语言理解和遗传能力的大语言模型的出现引起了对以代理人为基础的模型界的兴趣,由于其能够总结、生成、分析、分类、抄录和翻译文本、回答问题、提出解释、保持对话、从非结构化文本中提取信息以及执行逻辑推理和解决问题的任务,LLMS具有促进模拟进程的良好潜力。在审查反弹道导弹中目前使用LMs的情况之后,这项研究反映了反弹道导弹中可能使用LMs的机会和挑战。它这样做的方式是遵循模拟周期,从问题拟订到文件整理和交流示范结果,以及采取批评立场。
+
+---
+
+## Article 25
+### Title@2025-07-08 (2): Horus: A Protocol for Trustless Delegation Under Uncertainty
+
+**Title**: Horus: A Protocol for Trustless Delegation Under Uncertainty | Horus: Ein Protokoll für eine treulose Delegation unter Unsicherheit | 荷鲁斯:不确定性下无信托代表团议定书 [2507.00631v5](http://arxiv.org/abs/2507.00631v5)
+
+**Authors** (2): David Shi, Kevin Joo
+
+Correctness is an emergent property of systems where exposing error is cheaper than committing it. In dynamic, low-trust environments, autonomous AI agents benefit from delegating work to sub-agents, yet correctness cannot be assured through upfront specification or centralized oversight. We propose a protocol that enforces correctness through collateralized claims in a recursive verification game. Tasks are published as intents, and solvers compete to fulfill them. Selected solvers carry out tasks under risk, with correctness checked post hoc by verifiers. Any challenger can challenge a result by staking against it to trigger the verification process. Incorrect agents are slashed and correct opposition is rewarded, with an escalation path that penalizes erroneous verifiers themselves. When incentives are aligned across solvers, challengers, and verifiers, falsification conditions make correctness the Nash equilibrium.
+
+正确性是暴露错误比实施错误更便宜的系统的一种新兴特性。 在动态的低信任环境中,自主的AI代理商从将工作委托给分代理人中受益,但无法通过先期规格或集中监督来保证正确性。 我们提议了一项协议,在循环性核查游戏中通过抵押债权强制执行正确性。 任务作为意图公布,解决者竞相完成。 选定的解决者执行有风险的任务,由核查者检查是否正确性。 任何挑战者都可以通过对它进行打击以触发核查进程来挑战结果。 错误的代理商被砍断,正确的反对者被奖励,而升级路径则惩罚错误的验证者本身。 当激励措施在解决者、挑战者和核查者之间一致时,伪造的条件可以使纳什平衡得到正确性。
+
+---
+
+## Article 26
+### Title@2025-07-08 (2): The Complexity of Pure Strategy Relevant Equilibria in Concurrent Games
+
+**Title**: The Complexity of Pure Strategy Relevant Equilibria in Concurrent Games | Die Komplexität der reinen Strategie Relevante Equilibria in Parallelspielen | 同时运动会中纯粹战略相关平衡的复杂性 [2505.07501v3](http://arxiv.org/abs/2505.07501v3)
+
+**Authors** (1): Purandar Bhaduri
+
+We study rational synthesis problems for concurrent games with $\omega$-regular objectives. Our model of rationality considers only pure strategy Nash equilibria that satisfy either a social welfare or Pareto optimality condition with respect to an $\omega$-regular objective for each agent. This extends earlier work on equilibria in concurrent games, without consideration about their quality. Our results show that the existence of Nash equilibria satisfying social welfare conditions can be computed as efficiently as the constrained Nash equilibrium existence problem. On the other hand, the existence of Nash equilibria satisfying the Pareto optimality condition possibly involves a higher upper bound, except in the case of B\"uchi and Muller games, for which all three problems are in the classes P and PSPACE-complete, respectively.
+
+我们研究的是同时游戏的合理合成问题,同时使用美元-美元-经常目标。我们的理性模式只考虑满足社会福利或Pareto最佳条件的纯纳什平衡战略,每个代理商通常以美元-经常目标满足社会福利或Pareto最佳条件。这扩大了先前在同时游戏中平衡工作的范围,而没有考虑其质量。我们的结果表明,满足社会福利条件的纳什平衡的存在可以与受限制的纳什均衡存在问题一样有效地计算。另一方面,满足Pareto最佳条件的纳什平衡存在可能涉及更高的上限,但B\\"uchi和Muller游戏除外,因为B\"uchi和Muller游戏的所有三个问题都分别属于P和PSPACE类的完成阶段。
+
+---
+
+## Article 27
+### Title@2025-07-08 (2): MOD-X: A Modular Open Decentralized eXchange Framework proposal for   Heterogeneous Interoperable Artificial Intelligence Agents
+
+**Title**: MOD-X: A Modular Open Decentralized eXchange Framework proposal for   Heterogeneous Interoperable Artificial Intelligence Agents | MOD-X: Ein modularer, offener, dezentralisierter eXchange-Rahmenvorschlag für heterogene interoperable Künstliche Intelligenz-Agenten | MOD-X:关于不同基因、可相互操作的人工情报代理人的模块开放的分散式电子交流框架提案 [2507.04376v2](http://arxiv.org/abs/2507.04376v2)
+
+**Authors** (5): Georgios Ioannides, Christos Constantinou, Vinija Jain, Aman Chadha, Aaron Elkins
+
+As Artificial Intelligence systems evolve from monolithic models to ecosystems of specialized agents, the need for standardized communication protocols becomes increasingly critical. This paper introduces MOD-X (Modular Open Decentralized eXchange), a novel architectural framework proposal for agent interoperability that addresses key limitations of existing protocols. Unlike current approaches, MOD-X proposes a layered architecture with a Universal Message Bus, thorough state management, translation capabilities, and blockchain-based security mechanisms. We present MOD-X's architecture, compare it with existing protocols, and demonstrate its application through a worked example how it enables integration between heterogeneous specialist agents (agents with different architectures, vendors, capabilities, and knowledge representations--including rule-based systems, neural networks, symbolic reasoning engines, and legacy software with agent wrappers). MOD-X's key innovations include a publish-subscribe communication model, semantic capability discovery, and dynamic workflow orchestration--providing a framework that bridges theoretical formalism with practical implementation. This architecture addresses the growing need for truly decentralized, interoperable agent ecosystems that can scale effectively without the need for central coordination.
+
+随着人工智能系统从单一模式发展到专业代理的生态系统,标准化通信协议的需要变得越来越重要。本文件介绍了MOD-X(Modular Open Defliced eXchange),这是关于代理互操作性的新建筑框架提案,解决了现有协议的主要局限性。与目前的做法不同,MOD-X提出了具有通用信息管道、彻底的国家管理、翻译能力和基于链锁的安全机制的分层结构。我们提出了MOD-X的架构,将其与现有的协议进行比较,并通过一个成功的例子展示了其应用,它是如何使不同专家代理(具有不同结构、供应商、能力和知识代表的代理,包括基于规则的系统、神经网络、象征性推理引擎和与代理包装商的遗留软件)之间实现一体化的。MOD-X的主要创新包括一个出版物订阅通信模式、语系能力发现和动态工作流程管弦化提供一种框架,将理论形式主义与实际执行联系起来。这一架构解决了日益需要真正分散、可相互操作的代理生态系统,而无需中央协调。
+
+---
+
+## Article 28
+### Title@2025-07-08 (2): An AI Theory of Mind Will Enhance Our Collective Intelligence
+
+**Title**: An AI Theory of Mind Will Enhance Our Collective Intelligence | Eine KI-Theorie des Geistes wird unsere kollektive Intelligenz verbessern | AI 心理理论会加强我们的集体情报 [2411.09168v2](http://arxiv.org/abs/2411.09168v2)
+
+**Authors** (3): Michael S. Harré, Catherine Drysdale, Jaime Ruiz-Serra
+
+Collective intelligence plays a central role in many fields, from economics and evolutionary theory to neural networks and eusocial insects, and is also core to work on emergence and self-organisation in complex-systems theory. However, in human collective intelligence there is still much to understand about how specific psychological processes at the individual level give rise to self-organised structures at the social level. Psychological factors have so far played a minor role in collective-intelligence studies because the principles are often general and applicable to agents without sophisticated psychologies. We emphasise, with examples from other complex adaptive systems, the broad applicability of collective-intelligence principles, while noting that mechanisms and time scales differ markedly between cases. We review evidence that flexible collective intelligence in human social settings is improved by a particular cognitive tool: our Theory of Mind. We then hypothesise that AIs equipped with a theory of mind will enhance collective intelligence in ways similar to human contributions. To make this case, we step back from the algorithmic basis of AI psychology and consider the large-scale impact AI can have as agential actors in a 'social ecology' rather than as mere technological tools. We identify several key characteristics of psychologically mediated collective intelligence and show that the development of a Theory of Mind is crucial in distinguishing human social collective intelligence from more general forms. Finally, we illustrate how individuals, human or otherwise, integrate within a collective not by being genetically or algorithmically programmed, but by growing and adapting into the socio-cognitive niche they occupy. AI can likewise inhabit one or multiple such niches, facilitated by a Theory of Mind.
+
+集体情报在许多领域发挥着核心作用,从经济学和进化理论到神经网络和超社会昆虫,也是在复杂系统理论中就出现和自我组织开展工作的核心。然而,在人类集体情报中,对于个人层面的具体心理过程如何导致社会层面的自我组织结构,仍有许多需要理解之处。心理因素迄今在集体情报研究中起了小作用,因为这些原则往往具有普遍性,适用于没有复杂心理学的代理人。我们强调,以其他复杂的适应系统为例,集体情报原则的广泛适用性,同时指出,各种案例之间的机制和时间尺度差别明显不同。我们审查证据表明,人类社会环境中的灵活集体情报如何通过特定的认知工具(我们的思想理论)得到改进。然后我们假设,具备思想理论的人工情报将提高集体情报与人类贡献相似的方式。我们从人工心理学的算法基础中退一步,认为人工智能的大规模影响可以作为`社会生态'的代理人,而不是作为简单的技术工具。我们最后通过一种重要的集体情报或集体智慧形式,我们通过某种重要的集体智慧来说明,我们通过某种集体智慧和一般的生理结构的特性的特性的某种特性的特性的特性的特性的特性的特性的特性,可以表明,我们最后通过某种特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性和特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性和特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的特性的
+
+---
+
+## Article 29
+### Title@2025-07-07 (1): Inaugural MOASEI Competition at AAMAS'2025: A Technical Report
+
+**Title**: Inaugural MOASEI Competition at AAMAS'2025: A Technical Report | Inauguraler MOASEI-Wettbewerb auf der AAMAS'2025: Ein technischer Bericht | AAMAS'2025年AAMAS'2025年AAAMAS'2025年AAMASAAAAAAAAAAESAI 成立之初的MOASEI竞争:技术报告 [2507.05469v1](http://arxiv.org/abs/2507.05469v1)
+
+**Authors** (7): Ceferino Patino, Tyler J. Billings, Alireza Saleh Abadi, Daniel Redder, Adam Eck, Prashant Doshi, Leen-Kiat Soh
+
+We present the Methods for Open Agent Systems Evaluation Initiative (MOASEI) Competition, a multi-agent AI benchmarking event designed to evaluate decision-making under open-world conditions. Built on the free-range-zoo environment suite, MOASEI introduced dynamic, partially observable domains with agent and task openness--settings where entities may appear, disappear, or change behavior over time. The 2025 competition featured three tracks--Wildfire, Rideshare, and Cybersecurity--each highlighting distinct dimensions of openness and coordination complexity. Eleven teams from international institutions participated, with four of those teams submitting diverse solutions including graph neural networks, convolutional architectures, predictive modeling, and large language model--driven meta--optimization. Evaluation metrics centered on expected utility, robustness to perturbations, and responsiveness to environmental change. The results reveal promising strategies for generalization and adaptation in open environments, offering both empirical insight and infrastructure for future research. This report details the competition's design, findings, and contributions to the open-agent systems research community.
+
+我们介绍了开放剂系统评价倡议(MOASEI)竞争方法,这是一个多试剂的AI基准活动,旨在评估开放世界条件下的决策;在自由带动物环境套件上建立了自由带动物环境,MOASEI引进了动态、部分可观测的领域,有代理和任务开放设置,各实体可以在那里出现、消失或随着时间的推移改变行为;2025年的竞争有三个轨道――野火、里德夏尔和网络安全----焦点突出开放和协调复杂性的不同方面;来自国际机构的11个小组参加了这次活动,其中4个小组提出了各种解决办法,包括图表神经网络、革命结构、预测型建模和大型语言模型驱动的元性优化;评价指标集中在预期效用、对扰动的稳健性和对环境变化的反应;结果揭示了开放环境中普遍化和适应的有希望的战略,为今后的研究提供了经验洞察和基础设施。本报告详细介绍了竞争的设计、发现和对开放试管系统研究界的贡献。
+
+---
+
+## Article 30
+### Title@2025-07-07 (1): From Marginal to Joint Predictions: Evaluating Scene-Consistent   Trajectory Prediction Approaches for Automated Driving
+
+**Title**: From Marginal to Joint Predictions: Evaluating Scene-Consistent   Trajectory Prediction Approaches for Automated Driving | Von Marginal zu Joint Predictions: Bewertung szenekonsistenter Trajektorien-Vorhersageansätze für Automatisiertes Fahren | 从边际到联合预测:评价自动驾驶的场景-群集轨迹预测方法 [2507.05254v1](http://arxiv.org/abs/2507.05254v1)
+
+**Authors** (7): Fabian Konstantinidis, Ariel Dallari Guerreiro, Raphael Trumpp, Moritz Sackmann, Ulrich Hofmann, Marco Caccamo, Christoph Stiller
+
+Accurate motion prediction of surrounding traffic participants is crucial for the safe and efficient operation of automated vehicles in dynamic environments. Marginal prediction models commonly forecast each agent's future trajectories independently, often leading to sub-optimal planning decisions for an automated vehicle. In contrast, joint prediction models explicitly account for the interactions between agents, yielding socially and physically consistent predictions on a scene level. However, existing approaches differ not only in their problem formulation but also in the model architectures and implementation details used, making it difficult to compare them. In this work, we systematically investigate different approaches to joint motion prediction, including post-processing of the marginal predictions, explicitly training the model for joint predictions, and framing the problem as a generative task. We evaluate each approach in terms of prediction accuracy, multi-modality, and inference efficiency, offering a comprehensive analysis of the strengths and limitations of each approach. Several prediction examples are available at https://frommarginaltojointpred.github.io/.
+
+边际预测模型通常独立预测每种物剂的未来轨迹,往往导致对自动车辆作出次优规划决定;相反,联合预测模型明确说明各种物剂之间的相互作用,在现场一级作出社会上和物理上一致的预测;然而,现有方法不仅在问题拟订方面有所不同,而且在所使用模型结构和实施细节方面也各不相同,因此难以进行比较;在这项工作中,我们系统地调查联合运动预测的不同方法,包括边际预测处理后,明确培训联合预测的模式,将问题确定为一项基因任务;我们从预测准确性、多模式和推论效率等方面评价每一种方法,对每种方法的优点和局限性进行全面分析。
+
+---
+
+## Article 31
+### Title@2025-07-07 (1): Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent   Collaboration
+
+**Title**: Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent   Collaboration | Modellierung latenter Partnerstrategien für eine anpassungsfähige, zero-shot-menschliche Zusammenarbeit | 零热人类-机构合作适应性零热人类-机构协作示范伙伴伙伴战略 [2507.05244v1](http://arxiv.org/abs/2507.05244v1)
+
+**Authors** (10): Benjamin Li, Shuyang Shi, Lucia Romero, Huao Li, Yaqi Xie, Woojun Kim, Stefanos Nikolaidis, Michael Lewis, Katia Sycara, Simon Stepputtis
+
+In collaborative tasks, being able to adapt to your teammates is a necessary requirement for success. When teammates are heterogeneous, such as in human-agent teams, agents need to be able to observe, recognize, and adapt to their human partners in real time. This becomes particularly challenging in tasks with time pressure and complex strategic spaces where the dynamics can change rapidly. In this work, we introduce TALENTS, a strategy-conditioned cooperator framework that learns to represent, categorize, and adapt to a range of partner strategies, enabling ad-hoc teamwork. Our approach utilizes a variational autoencoder to learn a latent strategy space from trajectory data. This latent space represents the underlying strategies that agents employ. Subsequently, the system identifies different types of strategy by clustering the data. Finally, a cooperator agent is trained to generate partners for each type of strategy, conditioned on these clusters. In order to adapt to previously unseen partners, we leverage a fixed-share regret minimization algorithm that infers and adjusts the estimated partner strategy dynamically. We assess our approach in a customized version of the Overcooked environment, posing a challenging cooperative cooking task that demands strong coordination across a wide range of possible strategies. Using an online user study, we show that our agent outperforms current baselines when working with unfamiliar human partners.
+
+在合作任务中,能够适应你的队友是成功的必要条件。当队友(如人体试剂队)各异时,代理人需要能够实时观察、认识和适应其人类伙伴。在时间压力和复杂的战略空间,动态可以迅速变化的情况下,这特别具有挑战性。在这项工作中,我们引入了TALENTS,一个具有战略条件的操作者框架,这个框架可以学习代表、分类和适应一系列伙伴战略,从而能够进行临时团队合作。我们的方法利用变式自动编码器从轨迹数据中学习潜在战略空间。这个潜在空间代表代理人采用的基本战略。随后,这个系统通过将数据组合来确定不同类型的战略。最后,一个协作者受到训练,为每一种战略创造伙伴,以这些集群为条件。为了适应以往的不见得伙伴,我们利用固定比例的最小化算法,以动态的方式推断和调整估计的伙伴战略。我们用一个定制的定制化的自动编码来评估我们的方法,用超常化的环境来说明潜在的战略空间。这个潜在空间代表了代理人所采用的战略。随后,系统通过将数据组合来确定不同的战略。最后,通过训练一个协作工具来产生一个具有挑战性的基准要求。
+
+---
+
+## Article 32
+### Title@2025-07-07 (1): CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale
+
+**Title**: CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale | CREW-WILDFIRE: Benchmarking Agentische Multi-Agentische Kooperationen im Maßstab | CREW-WILDFIRE: 规模化基准代理多机构协作机制 [2507.05178v1](http://arxiv.org/abs/2507.05178v1)
+
+**Authors** (3): Jonathan Hyun, Nicholas R Waytowich, Boyuan Chen
+
+Despite rapid progress in large language model (LLM)-based multi-agent systems, current benchmarks fall short in evaluating their scalability, robustness, and coordination capabilities in complex, dynamic, real-world tasks. Existing environments typically focus on small-scale, fully observable, or low-complexity domains, limiting their utility for developing and assessing next-generation multi-agent Agentic AI frameworks. We introduce CREW-Wildfire, an open-source benchmark designed to close this gap. Built atop the human-AI teaming CREW simulation platform, CREW-Wildfire offers procedurally generated wildfire response scenarios featuring large maps, heterogeneous agents, partial observability, stochastic dynamics, and long-horizon planning objectives. The environment supports both low-level control and high-level natural language interactions through modular Perception and Execution modules. We implement and evaluate several state-of-the-art LLM-based multi-agent Agentic AI frameworks, uncovering significant performance gaps that highlight the unsolved challenges in large-scale coordination, communication, spatial reasoning, and long-horizon planning under uncertainty. By providing more realistic complexity, scalable architecture, and behavioral evaluation metrics, CREW-Wildfire establishes a critical foundation for advancing research in scalable multi-agent Agentic intelligence. All code, environments, data, and baselines will be released to support future research in this emerging domain.
+
+尽管在大型语言模型(LLM)的多试剂系统中取得了快速进展,但目前的基准在评估复杂、动态和现实世界任务中的可扩展性、稳健性和协调能力方面仍然不够,现有环境通常侧重于小规模、完全可观测或低复杂领域,限制了其开发和评估下一代多试剂AI框架的实用性;我们引入了CREW-Wildfire,这是一个旨在缩小这一差距的开放源基准;在人-AI团队CREW模拟平台上,CREW-Wildfire提供了由程序产生的野火反应情景,包括大地图、多元物剂、部分可观测性、随机动态以及长和相容规划目标;环境支持低水平控制和高水平的自然语言互动,通过模块的感知性和执行模式;我们实施和评价了若干基于LLMMM的开放源的多试剂AI框架,发现在大规模协调、通信、空间推理以及长期规划中出现的野火反应情景情景情景;在不确定性下,为新的研究、更现实的、更精确的、更精确的、更精确的模型化的模型基础,我们将建立一个可靠的、更现实的、更现实的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的、更精确的研
+
+---
+
+## Article 33
+### Title@2025-07-07 (1): Effects of Unplanned Incoming Flights on Airport Relief Processes after   a Major Natural Disaster
+
+**Title**: Effects of Unplanned Incoming Flights on Airport Relief Processes after   a Major Natural Disaster | Auswirkungen nicht geplanter Incoming-Flüge auf Flughafen-Entlastungsprozesse nach einer großen Naturkatastrophe | 重大自然灾害后未经计划的入侵飞行对机场救济进程的影响 [2507.05150v1](http://arxiv.org/abs/2507.05150v1)
+
+**Authors** (4): Luka Van de Sype, Matthieu Vert, Alexei Sharpanskykh, Seyed Sahand Mohammadi Ziabari
+
+The severity of natural disasters is increasing every year, impacting many people's lives. During the response phase of disasters, airports are important hubs where relief aid arrives and people need to be evacuated. However, the airport often forms a bottleneck in these relief operations due to the sudden need for increased capacity. Limited research has been done on the operational side of airport disaster management. Experts identify the main problems as, first, the asymmetry of information between the airport and incoming flights, and second, the lack of resources. The goal of this research is to understand the effects of incomplete knowledge of incoming flights with different resource allocation strategies on the performance of cargo handling operations at an airport after a natural disaster. An agent-based model is created, implementing realistic offloading strategies with different degrees of information uncertainty. Model calibration and verification are performed with experts in the field. The model performance is measured by the average turnaround time, which is divided into offloading time, boarding time, and cumulative waiting times. The results show that the effects of one unplanned aircraft are negligible. However, all waiting times increase with more arriving unplanned aircraft.
+
+自然灾害的严重性每年都在增加,影响到许多人的生活。在救灾阶段,机场是救灾援助到达和需要疏散人员的重要枢纽。然而,由于突然需要增加能力,机场往往在这些救济行动中构成瓶颈。在机场灾害管理的业务方面进行了有限的研究。专家们确定的主要问题是,第一,机场与即将抵达的航班之间信息不对称,第二,缺乏资源。这项研究的目的是了解由于对即将抵达的航班缺乏了解,而采用不同的资源分配战略对自然灾害发生后机场货物装卸业务的影响。建立了一个以代理为基础的模型,在信息不确定的不同程度上执行现实的卸载战略。模型的校准和核查是与实地专家一起进行的。模型性能以平均周转时间来衡量,平均周转时间分为卸载时间、登机时间和累积等待时间。结果显示,一架非计划飞机的影响微不足道。然而,随着更多的非计划飞机抵达,所有等待时间都会增加。
+
+---
+
+## Article 34
+### Title@2025-07-07 (1): Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic   Empirical Study
+
+**Title**: Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic   Empirical Study | Warum kämpfen Open Source LLMs mit Datenanalyse? Eine systematische empirische Studie | 开放源码LLMs为何要与数据分析斗争?系统的经验研究 [2506.19794v2](http://arxiv.org/abs/2506.19794v2)
+
+**Authors** (10): Yuqi Zhu, Yi Zhong, Jintian Zhang, Ziheng Zhang, Shuofei Qiao, Yujie Luo, Lun Du, Da Zheng, Huajun Chen, Ningyu Zhang
+
+Large Language Models (LLMs) hold promise in automating data analysis tasks, yet open-source models face significant limitations in these kinds of reasoning-intensive scenarios. In this work, we investigate strategies to enhance the data analysis capabilities of open-source LLMs. By curating a seed dataset of diverse, realistic scenarios, we evaluate models across three dimensions: data understanding, code generation, and strategic planning. Our analysis reveals three key findings: (1) Strategic planning quality serves as the primary determinant of model performance; (2) Interaction design and task complexity significantly influence reasoning capabilities; (3) Data quality demonstrates a greater impact than diversity in achieving optimal performance. We leverage these insights to develop a data synthesis methodology, demonstrating significant improvements in open-source LLMs' analytical reasoning capabilities.
+
+大型语言模型(LLMs)在数据分析任务自动化方面很有希望,然而,开放源代码模型在这类推理密集型假设情景中面临重大限制。在这项工作中,我们调查了提高开放源代码LLMs数据分析能力的战略。我们通过整理一套多样、现实的假设情景的种子数据集,评估了三个方面的模型:数据理解、代码生成和战略规划。我们的分析揭示了三个主要结论:(1)战略规划质量是模型绩效的主要决定因素;(2)互动设计和任务复杂性极大地影响推理能力;(3)数据质量显示在实现最佳绩效方面的影响大于多样性。我们利用这些洞见来开发数据综合方法,展示了开放源代码LLMs分析推理能力的重大改进。
+
+---
+
+## Article 35
+### Title@2025-07-07 (1): Leadership Detection via Time-Lagged Correlation-Based Network Inference
+
+**Title**: Leadership Detection via Time-Lagged Correlation-Based Network Inference | Leadership-Erkennung durch zeitverzögerte Korrelations-basierte Netzwerkinferenz | 通过时间-时间-时间-关系-基于网络的推断发现领导能力 [2507.04917v1](http://arxiv.org/abs/2507.04917v1)
+
+**Authors** (2): Thayanne França da Silva, José Everardo Bessa Maia
+
+Understanding leadership dynamics in collective behavior is a key challenge in animal ecology, swarm robotics, and intelligent transportation. Traditional information-theoretic approaches, including Transfer Entropy (TE) and Time-Lagged Mutual Information (TLMI), have been widely used to infer leader-follower relationships but face critical limitations in noisy or short-duration datasets due to their reliance on robust probability estimations. This study proposes a method based on dynamic network inference using time-lagged correlations across multiple kinematic variables: velocity, acceleration, and direction. Our approach constructs directed influence graphs over time, enabling the identification of leadership patterns without the need for large volumes of data or parameter-sensitive discretization. We validate our method through two multi-agent simulations in NetLogo: a modified Vicsek model with informed leaders and a predator-prey model featuring coordinated and independent wolf groups. Experimental results demonstrate that the network-based method outperforms TE and TLMI in scenarios with limited spatiotemporal observations, ranking true leaders at the top of influence metrics more consistently than TE and TLMI.
+
+理解集体行为中的领导能力动态是动物生态、群温机器人和智能运输方面的一个关键挑战。传统的信息理论方法,包括转移 Entropy(TE)和时间标记的相互信息(TLMI),已被广泛用来推断领导者与追随者之间的关系,但由于依赖可靠的概率估计,因此在吵闹或短期数据集中面临严重的限制。本研究提出了一个基于动态网络推断的方法,使用多种运动变数:速度、加速度和方向等时间滞后的关联。我们的方法构建了定向影响图,使得能够识别领导模式而无需大量的数据或对参数敏感的分解。我们通过在NetLogo的两个多剂模拟来验证我们的方法:一个有知情领导人的经修改的Vicsek模型和一个由协调和独立的狼群组成的掠食者-先导模型。实验结果表明,网络方法在有限的速率观察情况下超越了TE和TLMI。我们通过比TE和TLMI更一致地将真正的领导人排在影响指标顶端。
+
+---
+
+## Article 36
+### Title@2025-07-07 (1): MARBLE: A Multi-Agent Rule-Based LLM Reasoning Engine for Accident   Severity Prediction
+
+**Title**: MARBLE: A Multi-Agent Rule-Based LLM Reasoning Engine for Accident   Severity Prediction | MARBLE: Eine regelbasierte LLM-Reasoning-Engine für die Vorhersage von Unfällen mit Schweregrad | 事故严重性预测的多机构、以规则为基础的多机构、基于规则的LLM 理疗引擎 [2507.04893v1](http://arxiv.org/abs/2507.04893v1)
+
+**Authors** (2): Kaleem Ullah Qasim, Jiashu Zhang
+
+Accident severity prediction plays a critical role in transportation safety systems but is a persistently difficult task due to incomplete data, strong feature dependencies, and severe class imbalance in which rare but high-severity cases are underrepresented and hard to detect. Existing methods often rely on monolithic models or black box prompting, which struggle to scale in noisy, real-world settings and offer limited interpretability. To address these challenges, we propose MARBLE a multiagent rule based LLM engine that decomposes the severity prediction task across a team of specialized reasoning agents, including an interchangeable ML-backed agent. Each agent focuses on a semantic subset of features (e.g., spatial, environmental, temporal), enabling scoped reasoning and modular prompting without the risk of prompt saturation. Predictions are coordinated through either rule-based or LLM-guided consensus mechanisms that account for class rarity and confidence dynamics. The system retains structured traces of agent-level reasoning and coordination outcomes, supporting in-depth interpretability and post-hoc performance diagnostics. Across both UK and US datasets, MARBLE consistently outperforms traditional machine learning classifiers and state-of-the-art (SOTA) prompt-based reasoning methods including Chain-of-Thought (CoT), Least-to-Most (L2M), and Tree-of-Thought (ToT) achieving nearly 90% accuracy where others plateau below 48%. This performance redefines the practical ceiling for accident severity classification under real world noise and extreme class imbalance. Our results position MARBLE as a generalizable and interpretable framework for reasoning under uncertainty in safety-critical applications.
+
+事故严重程度预测在运输安全系统中发挥着关键作用,但由于数据不全、特征依赖性强以及严重阶级不平衡,罕见但严重程度高的案件代表性不足且难以检测,因此,事故严重程度预测是一项持续艰巨的任务。现有方法往往依赖单板模型或黑盒催化,在吵闹、现实世界环境中很难缩小规模,而且解释性有限。为了应对这些挑战,我们建议MARBLBL采用基于多剂规则的LLM引擎,在一组专业推理剂中分解严重程度预测任务,包括可互换的 ML 支持的代理。每个代理都侧重于一系列精度特征(如空间、环境、时间等),使范围推理和模块推导,而没有迅速饱和风险。预测是通过基于规则或LLLMM指导的共识机制加以协调,考虑到等级的不稳定性和信心动态。这个系统保留了基于代理力层次推理和协调结果的结构性痕迹,支持深度解释和后热度性性表现诊断。在英国和美国以下的数据集、MARbelble Streal-road Stal-rolex-rolex-lax-lax-lifal-lifal-rocal-lical-lax-lax-rocal-lax-lax-lax-rocal-rocal-rocal-lex-rolal-rolal-lex-lex-lex-lex-roal-roal-lax-roal-lex-lexxxx-rolation-rolation-rolation-le-routal-rolation-le-rox-roxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-在48-在48-在48-在48-在英国和最低和最低法和最低级中,在不断法和最低和最低级中,在不断法和最低轨道和最低和最低轨道上,在SOL-Sal-Sal-Sal-Sal-SOLLLLLLILILLLLILILILAx-Sal-Sal-S
+
+---
+
+## Article 37
+### Title@2025-07-07 (1): Who's the Mole? Modeling and Detecting Intention-Hiding Malicious Agents   in LLM-Based Multi-Agent Systems
+
+**Title**: Who's the Mole? Modeling and Detecting Intention-Hiding Malicious Agents   in LLM-Based Multi-Agent Systems | Wer ist der Maulwurf? Modellierung und Erkennung von Absicht-verbergenden bösartigen Agenten in LLM-basierten Multi-Agenten-Systemen | 以LLM为基础的多机构系统中的模拟和检测恶意恶意代理人 [2507.04724v1](http://arxiv.org/abs/2507.04724v1)
+
+**Authors** (7): Yizhe Xie, Congcong Zhu, Xinyue Zhang, Minghao Wang, Chi Liu, Minglu Zhu, Tianqing Zhu
+
+Multi-agent systems powered by Large Language Models (LLM-MAS) demonstrate remarkable capabilities in collaborative problem-solving. While LLM-MAS exhibit strong collaborative abilities, the security risks in their communication and coordination remain underexplored. We bridge this gap by systematically investigating intention-hiding threats in LLM-MAS, and design four representative attack paradigms that subtly disrupt task completion while maintaining high concealment. These attacks are evaluated in centralized, decentralized, and layered communication structures. Experiments conducted on six benchmark datasets, including MMLU, MMLU-Pro, HumanEval, GSM8K, arithmetic, and biographies, demonstrate that they exhibit strong disruptive capabilities. To identify these threats, we propose a psychology-based detection framework AgentXposed, which combines the HEXACO personality model with the Reid Technique, using progressive questionnaire inquiries and behavior-based monitoring. Experiments conducted on six types of attacks show that our detection framework effectively identifies all types of malicious behaviors. The detection rate for our intention-hiding attacks is slightly lower than that of the two baselines, Incorrect Fact Injection and Dark Traits Injection, demonstrating the effectiveness of intention concealment. Our findings reveal the structural and behavioral risks posed by intention-hiding attacks and offer valuable insights into securing LLM-based multi-agent systems through psychological perspectives, which contributes to a deeper understanding of multi-agent safety. The code and data are available at https://anonymous.4open.science/r/AgentXposed-F814.
+
+由大语言模型(LLMM-MAS)推动的多剂系统展示了在协作解决问题方面的非凡能力。虽然LLM-MAS表现出了强大的协作能力,但其通信和协调的安全风险仍未得到充分探讨。我们通过系统地调查LM-MAS中意图隐藏的威胁来弥补这一差距,并设计了四种有代表性的攻击模式,在保持高度隐蔽的同时,使任务完成受到干扰。这些攻击在集中、分散和分层的通信结构中进行了评价。在包括MMMLU、MMMMLU-Pro、HumanEval、GSM8K、算术和生物学等6个基准数据集上进行的实验表明,它们表现出很强的破坏能力。为了查明这些威胁,我们提议了一个基于心理学的探测框架,将HEXACO人格模型与Reid Technique, 使用渐进的问卷调查和基于行为的监测。对六种攻击进行的实验表明,我们的探测框架有效地识别了所有类型的恶意行为。我们意图攻击的探测率略低于两个基线,即纠正事实的精确洞察/深层次,通过我们的深层意图分析,通过我们隐藏意图的理论和深层次的观察,提供了我们对目的的观察的观察,提供了我们进行。
+
+---
+
+## Article 38
+### Title@2025-07-07 (1): Balancing Act: Prioritization Strategies for LLM-Designed Restless   Bandit Rewards
+
+**Title**: Balancing Act: Prioritization Strategies for LLM-Designed Restless   Bandit Rewards | Balance Act: Priorisierungsstrategien für LLM-Designed Restless Bandit Rewards | 平衡法:LLM-指派的无无无无无无无无无无无无无无无无有匪奖项的优先战略 [2408.12112v4](http://arxiv.org/abs/2408.12112v4)
+
+**Authors** (4): Shresth Verma, Niclas Boehmer, Lingkai Kong, Milind Tambe
+
+LLMs are increasingly used to design reward functions based on human preferences in Reinforcement Learning (RL). We focus on LLM-designed rewards for Restless Multi-Armed Bandits, a framework for allocating limited resources among agents. In applications such as public health, this approach empowers grassroots health workers to tailor automated allocation decisions to community needs. In the presence of multiple agents, altering the reward function based on human preferences can impact subpopulations very differently, leading to complex tradeoffs and a multi-objective resource allocation problem. We are the first to present a principled method termed Social Choice Language Model for dealing with these tradeoffs for LLM-designed rewards for multiagent planners in general and restless bandits in particular. The novel part of our model is a transparent and configurable selection component, called an adjudicator, external to the LLM that controls complex tradeoffs via a user-selected social welfare function. Our experiments demonstrate that our model reliably selects more effective, aligned, and balanced reward functions compared to purely LLM-based approaches.
+
+在加强学习(RL)中,LLM越来越多地用于根据人的偏好设计奖励功能。我们注重LLM设计的对无休止的多武装匪徒的奖励,这是在代理人之间分配有限资源的一个框架。在公共卫生等应用中,这一方法使基层保健工作者能够根据社区需要作出自动分配决定。在多个代理人的出现下,改变基于人的偏好的奖励功能可能会对亚群体产生非常不同的影响,导致复杂的权衡和多目标的资源分配问题。我们是第一个提出称为社会选择语言模式的原则性方法,用以处理LLM为多代理人规划者、特别是无休止匪徒设计的奖励的权衡。我们模式的新颖部分是透明和可配置的选择部分,称为裁决者,这是LLM的外部部分,它通过用户选择的社会福利功能控制复杂的权衡。我们的实验表明,我们的模式比纯以LM为基础的方法可靠地选择了更有效、一致和平衡的奖励功能。
+
+---
+
+## Article 39
+### Title@2025-07-07 (1): Method of Equal Shares with Bounded Overspending
+
+**Title**: Method of Equal Shares with Bounded Overspending | Methode der gleichen Aktien mit beschränkter Überfinanzierung | 折叠超支平分方法 [2409.15005v3](http://arxiv.org/abs/2409.15005v3)
+
+**Authors** (5): Georgios Papasotiropoulos, Seyedeh Zeinab Pishbin, Oskar Skibski, Piotr Skowron, Tomasz Wąs
+
+In participatory budgeting (PB), voters decide through voting which subset of projects to fund within a given budget. Proportionality in the context of PB is crucial to ensure equal treatment of all groups of voters. However, pure proportional rules can sometimes lead to suboptimal outcomes. We introduce the Method of Equal Shares with Bounded Overspending (BOS Equal Shares), a robust variant of Equal Shares that balances proportionality and efficiency. BOS Equal Shares addresses inefficiencies implied by strict proportionality axioms, yet the rule still provides fairness guarantees, similar to the original Method of Equal Shares. Our extensive empirical analysis on real-world PB instances shows excellent performance of BOS Equal Shares across several metrics. In the course of the analysis, we also present and examine a fractional variant of the Method of Equal Shares which allows for partial funding of projects.
+
+在参与性预算编制(BB)中,选民通过投票决定在特定预算范围内资助哪些项目子集。在PB范围内的相称性对于确保平等对待所有选民群体至关重要。然而,纯粹比例性规则有时会导致不理想的结果。我们引入了平衡相称性和效率的稳健平等份额变式(BOS平等份额),即平衡比例和效率的平等份额。BOS平等份额处理严格相称性轴心所隐含的低效率问题,但规则仍然提供公平性保障,类似于原来的平等份额方法。我们对真实世界的PB案例的广泛经验分析显示,BOS平等份额在几个衡量标准方面表现优异。在分析过程中,我们还提出并审查允许部分资助项目的“平等份额方法”的零碎变式。
+
+---
+
+## Article 40
+### Title@2025-07-06 (7): Agentic Distributed Computing
+
+**Title**: Agentic Distributed Computing | Agentisch verteiltes Computing | A. 分配的计算 [2507.04459v1](http://arxiv.org/abs/2507.04459v1)
+
+**Authors** (4): Ajay D. Kshemkalyani, Manish Kumar, Anisur Rahaman Molla, Gokarna Sharma
+
+The most celebrated and extensively studied model of distributed computing is the {\em message-passing model,} in which each vertex/node of the (distributed network) graph corresponds to a static computational device that communicates with other devices through passing messages. In this paper, we consider the {\em agentic model} of distributed computing which extends the message-passing model in a new direction. In the agentic model, computational devices are modeled as relocatable or mobile computational devices (called agents in this paper), i.e., each vertex/node of the graph serves as a container for the devices, and hence communicating with another device requires relocating to the same node. We study two fundamental graph level tasks, leader election, and minimum spanning tree, in the agentic model, which will enhance our understanding of distributed computation across paradigms. The objective is to minimize both time and memory complexities. Following the literature, we consider the synchronous setting in which each agent performs its operations synchronously with others, and hence the time complexity can be measured in rounds. In this paper, we present two deterministic algorithms for leader election: one for the case of $k<n$ and another for the case of $k=n$, minimizing both time and memory complexities, where $k$ and $n$, respectively, are the number of agents and number of nodes of the graph. Using these leader election results, we develop deterministic algorithms for agents to construct a minimum spanning tree of the graph, minimizing both time and memory complexities. To the best of our knowledge, this is the first study of distributed graph level tasks in the agentic model with $k\leq n$. Previous studies only considered the case of $k=n$.
+
+最有名和广泛研究的分布式计算模型是 $ 的递增或移动计算工具(本文中称为代理人), 也就是说, 图表的每个顶点/ 节点作为装置的容器, 因此与另一个装置的沟通需要迁移到同一个节点。 我们研究了两个基本的图表级别任务, 领导选举, 和在代理模型中最小的横跨树, 这将提高我们对分布式模式计算的理解。 在代理模型中, 计算设备建模为可转式或移动计算设备( 本文中称为代理人) , 也就是说, 图表的每个顶点/ 节点作为( 分布式网络) 的容器, 因此, 与另一个装置进行通信。 在本文中, 我们使用两个基本图表级别任务, 领导选举的首席选举和最起码的树型算法 。 目标是将时间和记忆的复杂度降低到时间。 在文献中, 我们考虑每个代理人进行其操作的同步的基点, 并且可以用最复杂的时间来测量 。 在本文中, 我们使用两个模型, 最起码的缩的缩的算数 和最精度 。
+
+---
+
+## Article 41
+### Title@2025-07-06 (7): KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality
+
+**Title**: KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality | KnowRL: Erforschendes Wissenswertes Verstärktes Lernen für die Realität | KnowRL:探索知识强化学习促进事实质量 [2506.19807v2](http://arxiv.org/abs/2506.19807v2)
+
+**Authors** (5): Baochang Ren, Shuofei Qiao, Wenhao Yu, Huajun Chen, Ningyu Zhang
+
+Large Language Models (LLMs), particularly slow-thinking models, often exhibit severe hallucination, outputting incorrect content due to an inability to accurately recognize knowledge boundaries during reasoning. While Reinforcement Learning (RL) can enhance complex reasoning abilities, its outcome-oriented reward mechanism often lacks factual supervision over the thinking process, further exacerbating the hallucination problem. To address the high hallucination in slow-thinking models, we propose Knowledge-enhanced RL, KnowRL. KnowRL guides models to perform fact-based slow thinking by integrating a factuality reward, based on knowledge verification, into the RL training process, helping them recognize their knowledge boundaries. KnowRL guides models to perform fact-based slow thinking by integrating a factuality reward, based on knowledge verification, into the RL training process, helping them recognize their knowledge boundaries. This targeted factual input during RL training enables the model to learn and internalize fact-based reasoning strategies. By directly rewarding adherence to facts within the reasoning steps, KnowRL fosters a more reliable thinking process. Experimental results on three hallucination evaluation datasets and two reasoning evaluation datasets demonstrate that KnowRL effectively mitigates hallucinations in slow-thinking models while maintaining their original strong reasoning capabilities. Our code is available at https://github.com/zjunlp/KnowRL.
+
+大型语言模型(LLMs),特别是低思维模式,往往表现出严重的幻觉,由于在推理过程中无法准确识别知识界限,输出不正确的内容,结果模型(LLMs),特别是低思维模式,往往表现出严重的幻觉,由于在推理过程中无法准确识别知识界限,结果不正确的内容。虽然加强学习(RL)可以增强复杂的推理能力,但其注重结果的奖励机制往往缺乏对思维过程的实际监督,从而进一步加剧幻觉问题。为解决低思维模型中高幻觉的问题,我们提议“知识强化RL”(KnowRL.KnowRL)指导模型进行基于事实的缓慢思维,在知识核查的基础上,将事实质量奖赏纳入RL培训过程,从而进行基于事实的缓慢思维模式。在RL.Sintinking/Rsurgrass中,“KondRL”系统在慢思维中有效地减少原始/原始逻辑。
+
+---
+
+## Article 42
+### Title@2025-07-06 (7): AutoMind: Adaptive Knowledgeable Agent for Automated Data Science
+
+**Title**: AutoMind: Adaptive Knowledgeable Agent for Automated Data Science | AutoMind: Adaptives Knowledgeable Agent für automatisierte Datenwissenschaft | 自动Mind:自动数据科学适应性知识代理 [2506.10974v2](http://arxiv.org/abs/2506.10974v2)
+
+**Authors** (9): Yixin Ou, Yujie Luo, Jingsheng Zheng, Lanning Wei, Shuofei Qiao, Jintian Zhang, Da Zheng, Huajun Chen, Ningyu Zhang
+
+Large Language Model (LLM) agents have shown great potential in addressing real-world data science problems. LLM-driven data science agents promise to automate the entire machine learning pipeline, yet their real-world effectiveness remains limited. Existing frameworks depend on rigid, pre-defined workflows and inflexible coding strategies; consequently, they excel only on relatively simple, classical problems and fail to capture the empirical expertise that human practitioners bring to complex, innovative tasks. In this work, we introduce AutoMind, an adaptive, knowledgeable LLM-agent framework that overcomes these deficiencies through three key advances: (1) a curated expert knowledge base that grounds the agent in domain expert knowledge, (2) an agentic knowledgeable tree search algorithm that strategically explores possible solutions, and (3) a self-adaptive coding strategy that dynamically tailors code generation to task complexity. Evaluations on two automated data science benchmarks demonstrate that AutoMind delivers superior performance versus state-of-the-art baselines. Additional analyses confirm favorable effectiveness, efficiency, and qualitative solution quality, highlighting AutoMind as an efficient and robust step toward fully automated data science.
+
+大型语言模型(LLM)代理商在解决现实世界数据科学问题方面表现出了巨大的潜力。LLM驱动的数据科学代理商承诺使整个机器学习管道自动化,然而其真实世界的有效性仍然有限。现有框架依赖于僵硬、预先定义的工作流程和不灵活的编码战略;因此,它们仅擅长于相对简单、古老的问题,未能捕捉人类从业者带来复杂、创新任务的经验专长。在这项工作中,我们引入了AutoMind(AutoMind)(一个适应性、知识丰富的LLM(LM)代理商)框架,通过三项关键进步克服了这些缺陷:(1) 一种成熟的专家知识基础,使该代理商具有领域专家知识;(2) 一种具有代理知识的树搜索算法,从战略上探索可能的解决方案;(3) 一种自我调整的编码战略,根据任务的复杂性动态地定制生成代码。对两个自动化数据科学基准的评估表明,AutoMind(AutoMind)能够提供优异的绩效、效率和质量解决方案质量,强调AutMind(Autmind)是迈向完全自动化数据科学的高效和稳健健捷的一步。
+
+---
+
+## Article 43
+### Title@2025-07-06 (7): KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot   Diagnosis Prediction Using Multi-agent LLMs
+
+**Title**: KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot   Diagnosis Prediction Using Multi-agent LLMs | KERAP: Ein wissensbasierter Ansatz für genaue Null-Shot-Diagnose-Vorhersage mit Multi-Agent LLMs | KERRAP: 利用多种试剂LLMs进行准确零光诊断预测的知识强化理由说明方法 [2507.02773v2](http://arxiv.org/abs/2507.02773v2)
+
+**Authors** (8): Yuzhang Xie, Hejie Cui, Ziyang Zhang, Jiaying Lu, Kai Shu, Fadi Nahab, Xiao Hu, Carl Yang
+
+Medical diagnosis prediction plays a critical role in disease detection and personalized healthcare. While machine learning (ML) models have been widely adopted for this task, their reliance on supervised training limits their ability to generalize to unseen cases, particularly given the high cost of acquiring large, labeled datasets. Large language models (LLMs) have shown promise in leveraging language abilities and biomedical knowledge for diagnosis prediction. However, they often suffer from hallucinations, lack structured medical reasoning, and produce useless outputs. To address these challenges, we propose KERAP, a knowledge graph (KG)-enhanced reasoning approach that improves LLM-based diagnosis prediction through a multi-agent architecture. Our framework consists of a linkage agent for attribute mapping, a retrieval agent for structured knowledge extraction, and a prediction agent that iteratively refines diagnosis predictions. Experimental results demonstrate that KERAP enhances diagnostic reliability efficiently, offering a scalable and interpretable solution for zero-shot medical diagnosis prediction.
+
+医学诊断预测在疾病检测和个性化保健方面发挥着关键作用。虽然对机器学习模式(ML)在这项工作中被广泛采用,但它们对监督培训的依赖限制了其推广到隐形病例的能力,特别是鉴于获取有标签的大型数据集的成本很高。大型语言模型(LLMs)在利用语言能力和生物医学知识进行诊断预测方面显示了希望。然而,这些模型往往存在幻觉,缺乏结构化的医疗推理,并产生无用的产物。为了应对这些挑战,我们建议采用知识图表(KG)强化的推理方法,通过多剂结构改进基于LLM的诊断预测。我们的框架包括属性绘图的连接剂、结构知识提取的检索剂以及反复完善诊断预测的预测剂。实验结果表明,KERAP提高了诊断可靠性,为零速诊断诊断预测提供了可扩展和可解释的解决方案。
+
+---
+
+## Article 44
+### Title@2025-07-06 (7): Optimal Sizing and Control of a Grid-Connected Battery in a Stacked   Revenue Model Including an Energy Community
+
+**Title**: Optimal Sizing and Control of a Grid-Connected Battery in a Stacked   Revenue Model Including an Energy Community | Optimale Sizing und Kontrolle einer netzgebundenen Batterie in einem Stacked Revenue Modell inklusive einer Energiegemeinschaft | 包括能源共同体在内的堆装收入模式中的电网连接电池的最佳尺寸和控制 [2507.04343v1](http://arxiv.org/abs/2507.04343v1)
+
+**Authors** (8): Tudor Octavian Pocola, Valentin Robu, Jip Rietveld, Sonam Norbu, Benoit Couraud, Merlinda Andoni, David Flynn, H. Vincent Poor
+
+Recent years have seen rapid increases in intermittent renewable generation, requiring novel battery energy storage systems (BESS) solutions. One recent trend is the emergence of large grid-connected batteries, that can be controlled to provide multiple storage and flexibility services, using a stacked revenue model. Another emerging development is renewable energy communities (REC), in which prosumers invest in their own renewable generation capacity, but also requiring battery storage for flexibility. In this paper, we study settings in which energy communities rent battery capacity from a battery operator through a battery-as-a-service (BaaS) model. We present a methodology for determining the sizing and pricing of battery capacity that can be rented, such that it provides economic benefits to both the community and the battery operator that participates in the energy market. We examine how sizes and prices vary across a number of different scenarios for different types of tariffs (flat, dynamic) and competing energy market uses. Second, we conduct a systematic study of linear optimization models for battery control when deployed to provide flexibility to energy communities. We show that existing approaches for battery control with daily time windows have a number of important limitations in practical deployments, and we propose a number of regularization functions in the optimization to address them. Finally, we investigate the proposed method using real generation, demand, tariffs, and battery data, based on a practical case study from a large battery operator in the Netherlands. For the settings in our case study, we find that a community of 200 houses with a 330 kW wind turbine can save up to 12,874 euros per year by renting just 280 kWh of battery capacity (after subtracting battery rental costs), with the methodology applicable to a wide variety of settings and tariff types.
+
+近些年来,间歇性可再生能源发电迅速增加,需要新的电池能源储存系统(BESS)解决方案。最近出现的一个趋势是出现大型电网连网电池,可以用堆叠的收入模式加以控制,以提供多种储存和灵活服务。另一个正在出现的发展是可再生能源社区(REC),在这种社区,计生机投资于自己的可再生能源发电能力,但也要求电池储存具有灵活性。在本文件中,我们研究能源社区通过电池升级服务(BaAS)模式从电池操作商中出租电池电池的能力。我们提出了一个确定可租用的电池能力规模化和定价的方法,这种电池网联网能够利用堆积的收入模式提供多种储存和灵活性服务。我们提出了一个方法,用以确定不同类型关税(膨胀、动态)和竞争能源市场用途的大小和价格。第二,我们研究了能源社区通过电池升级(Baasy-as-as-servic)模式从电池操作商中获取电池控制电量的线性优化模型的设置。我们发现,在实际部署的电池成本结构中有一些重要的限制,因此建议对参与能源市场的社区和参与能源市场的电池的电池成本,我们用量进行一个标准,我们最后用一个标准来研究。我们用一个基于电池生产模型的模型的模型的模型的模型的模型的模型的模型, 研究。
+
+---
+
+## Article 45
+### Title@2025-07-06 (7): SCALE: Towards Collaborative Content Analysis in Social Science with   Large Language Model Agents and Human Intervention
+
+**Title**: SCALE: Towards Collaborative Content Analysis in Social Science with   Large Language Model Agents and Human Intervention | SCALE: Auf dem Weg zu einer kollaborativen Inhaltsanalyse in der Sozialwissenschaft mit großen Sprachmodellen und menschlicher Intervention | SCALE:促进社会科学与大语言模范媒介和人类干预合作内容分析 [2502.10937v2](http://arxiv.org/abs/2502.10937v2)
+
+**Authors** (6): Chengshuai Zhao, Zhen Tan, Chau-Wai Wong, Xinyan Zhao, Tianlong Chen, Huan Liu
+
+Content analysis breaks down complex and unstructured texts into theory-informed numerical categories. Particularly, in social science, this process usually relies on multiple rounds of manual annotation, domain expert discussion, and rule-based refinement. In this paper, we introduce SCALE, a novel multi-agent framework that effectively $\underline{\textbf{S}}$imulates $\underline{\textbf{C}}$ontent $\underline{\textbf{A}}$nalysis via $\underline{\textbf{L}}$arge language model (LLM) ag$\underline{\textbf{E}}$nts. SCALE imitates key phases of content analysis, including text coding, collaborative discussion, and dynamic codebook evolution, capturing the reflective depth and adaptive discussions of human researchers. Furthermore, by integrating diverse modes of human intervention, SCALE is augmented with expert input to further enhance its performance. Extensive evaluations on real-world datasets demonstrate that SCALE achieves human-approximated performance across various complex content analysis tasks, offering an innovative potential for future social science research.
+
+内容分析将复杂且非结构化的文本分解成理论知情的数值类别。 特别是在社会科学中, 这一过程通常依赖于多轮人工注释、 域专家讨论和基于规则的完善。 在本文件中, 我们引入了 SSCLE, 这是一种新型的多试剂框架, 能够有效地反映人类研究人员的反射深度和适应性讨论。 此外, 通过整合人类干预的不同模式, SCALE 增加了专家投入, 以进一步提高其性能。 对真实世界数据集的广泛评估表明, SCALE 可以在各种复杂内容分析任务中取得接近人的性能, 为未来的社会科学研究提供了创新潜力。
+
+---
+
+## Article 46
+### Title@2025-07-05 (6): Enhancing Robustness of LLM-Driven Multi-Agent Systems through   Randomized Smoothing
+
+**Title**: Enhancing Robustness of LLM-Driven Multi-Agent Systems through   Randomized Smoothing | Verbesserung der Robustheit von LLM-getriebenen Multi-Agent-Systemen durch Randomized Glättung | 通过随机平滑,加强LLM-Dripen多机构系统的力量 [2507.04105v1](http://arxiv.org/abs/2507.04105v1)
+
+**Authors** (4): Jinwei Hu, Yi Dong, Zhengtao Ding, Xiaowei Huang
+
+This paper presents a defense framework for enhancing the safety of large language model (LLM) empowered multi-agent systems (MAS) in safety-critical domains such as aerospace. We apply randomized smoothing, a statistical robustness certification technique, to the MAS consensus context, enabling probabilistic guarantees on agent decisions under adversarial influence. Unlike traditional verification methods, our approach operates in black-box settings and employs a two-stage adaptive sampling mechanism to balance robustness and computational efficiency. Simulation results demonstrate that our method effectively prevents the propagation of adversarial behaviors and hallucinations while maintaining consensus performance. This work provides a practical and scalable path toward safe deployment of LLM-based MAS in real-world, high-stakes environments.
+
+本文为加强大型语言模型(LLM)授权的多剂系统在航空航天等安全关键领域的安全性提供了一个防御框架。我们对MAS共识环境采用随机化的平滑技术,即统计稳健性认证技术,使在对抗影响下对代理决定提供概率保障。与传统的核查方法不同,我们的方法在黑箱环境中运作,并采用两阶段适应性抽样机制,平衡稳健性和计算效率。模拟结果表明,我们的方法有效地防止了对抗行为和幻觉的传播,同时保持了协商一致的绩效。这项工作为在现实世界中安全部署基于LM MAS提供了一条实用和可扩展的途径。
+
+---
+
+## Article 47
+### Title@2025-07-05 (6): A LLM-Driven Multi-Agent Systems for Professional Development of   Mathematics Teachers
+
+**Title**: A LLM-Driven Multi-Agent Systems for Professional Development of   Mathematics Teachers | Ein LLM-getriebenes Multi-Agent-System für die berufliche Entwicklung von Mathematiklehrern | ALLM-Driven 数学教师专业发展多机构系统 [2507.05292v1](http://arxiv.org/abs/2507.05292v1)
+
+**Authors** (7): Kaiqi Yang, Hang Li, Yucheng Chu, Ahreum Han, Yasemin Copur-Gencturk, Jiliang Tang, Hui Liu
+
+Professional development (PD) serves as the cornerstone for teacher tutors to grasp content knowledge. However, providing equitable and timely PD opportunities for teachers poses significant challenges. To address this issue, we introduce I-VIP (Intelligent Virtual Interactive Program), an intelligent tutoring platform for teacher professional development, driven by large language models (LLMs) and supported by multi-agent frameworks. This platform offers a user-friendly conversational interface and allows users to employ a variety of interactive tools to facilitate question answering, knowledge comprehension, and reflective summarization while engaging in dialogue. To underpin the functionality of this platform, including knowledge expectation analysis, response scoring and classification, and feedback generation, the multi-agent frameworks are leveraged to enhance the accuracy of judgments and mitigate the issue of missing key points.
+
+专业发展(PD)是教师辅导员掌握内容知识的基石,然而,为教师提供公平、及时的PD机会带来了重大挑战。为解决这一问题,我们引入了智能虚拟互动方案(智能虚拟互动方案),这是一个由大型语言模式驱动、多试办框架支持的教师专业发展智能辅导平台。这个平台提供了一个方便用户的谈话界面,使用户能够使用各种互动工具,在开展对话的同时,促进问题回答、知识理解和反思总结。为了巩固这一平台的功能,包括知识预期分析、回应评分和分类以及反馈生成,多试办框架被用来提高判断的准确性,缓解缺失关键点的问题。
+
+---
+
+## Article 48
+### Title@2025-07-05 (6): HAWK: A Hierarchical Workflow Framework for Multi-Agent Collaboration
+
+**Title**: HAWK: A Hierarchical Workflow Framework for Multi-Agent Collaboration | HAWK: Hierarchisches Workflow-Framework für multi-agente Zusammenarbeit | HAWK:多机构合作的等级工作流程框架 [2507.04067v1](http://arxiv.org/abs/2507.04067v1)
+
+**Authors** (4): Yuyang Cheng, Yumiao Xu, Chaojia Yu, Yong Zhao
+
+Contemporary multi-agent systems encounter persistent challenges in cross-platform interoperability, dynamic task scheduling, and efficient resource sharing. Agents with heterogeneous implementations often lack standardized interfaces; collaboration frameworks remain brittle and hard to extend; scheduling policies are static; and inter-agent state synchronization is insufficient. We propose Hierarchical Agent Workflow (HAWK), a modular framework comprising five layers-User, Workflow, Operator, Agent, and Resource-and supported by sixteen standardized interfaces. HAWK delivers an end-to-end pipeline covering task parsing, workflow orchestration, intelligent scheduling, resource invocation, and data synchronization. At its core lies an adaptive scheduling and optimization module in the Workflow Layer, which harnesses real-time feedback and dynamic strategy adjustment to maximize utilization. The Resource Layer provides a unified abstraction over heterogeneous data sources, large models, physical devices, and third-party services&tools, simplifying cross-domain information retrieval. We demonstrate HAWK's scalability and effectiveness via CreAgentive, a multi-agent novel-generation prototype, which achieves marked gains in throughput, lowers invocation complexity, and improves system controllability. We also show how hybrid deployments of large language models integrate seamlessly within HAWK, highlighting its flexibility. Finally, we outline future research avenues-hallucination mitigation, real-time performance tuning, and enhanced cross-domain adaptability-and survey prospective applications in healthcare, government, finance, and education.
+
+在跨平台互操作性、动态任务时间安排和高效资源共享方面,当代多试剂系统面临长期挑战。执行各异的代理机构往往缺乏标准化的界面;协作框架仍然不便,难以扩展;时间安排政策是静态的;以及州际同步不力。我们提议等级代理工作流(HAWK)是一个模块框架,由五层用户、工作流程、操作者、代理、代理和资源组成,并得到16个标准化界面的支持。HAWK提供一条端到端管道,涵盖任务对齐、工作流程协调、智能时间安排、资源运用和数据同步。其核心是工作流层的适应性时间安排和优化模块,利用实时反馈和动态战略调整,以最大限度地利用。资源层为混合数据源、大型模型、物理装置和第三方服务及工具提供了统一的抽象,简化了跨层信息检索。我们通过CreAWK展示了任务分流、多剂新生成的原型模型的可缩缩和有效性,这在工作流中取得了显著的增益、低流动性的流动性,我们展示了未来部署的弹性度、高流动性模型。
+
+---
+
+## Article 49
+### Title@2025-07-05 (6): Quantum Computing and Neuromorphic Computing for Safe, Reliable, and   explainable Multi-Agent Reinforcement Learning: Optimal Control in Autonomous   Robotics
+
+**Title**: Quantum Computing and Neuromorphic Computing for Safe, Reliable, and   explainable Multi-Agent Reinforcement Learning: Optimal Control in Autonomous   Robotics | Quantum Computing und Neuromorphic Computing für sicheres, zuverlässiges und erklärbares Multi-Agenten-Verstärkungslernen: Optimale Kontrolle in der autonomen Robotik | 用于安全、可靠和可解释的多机构强化学习的量子计算和神经形态计算:自主机器人学的最佳控制 [2408.03884v2](http://arxiv.org/abs/2408.03884v2)
+
+**Authors** (2): Mazyar Taghavi, Rahman Farnoosh
+
+This paper investigates the utilization of Quantum Computing and Neuromorphic Computing for Safe, Reliable, and Explainable Multi_Agent Reinforcement Learning (MARL) in the context of optimal control in autonomous robotics. The objective was to address the challenges of optimizing the behavior of autonomous agents while ensuring safety, reliability, and explainability. Quantum Computing techniques, including Quantum Approximate Optimization Algorithm (QAOA), were employed to efficiently explore large solution spaces and find approximate solutions to complex MARL problems. Neuromorphic Computing, inspired by the architecture of the human brain, provided parallel and distributed processing capabilities, which were leveraged to develop intelligent and adaptive systems. The combination of these technologies held the potential to enhance the safety, reliability, and explainability of MARL in autonomous robotics. This research contributed to the advancement of autonomous robotics by exploring cutting-edge technologies and their applications in multi-agent systems. Codes and data are available.
+
+本文件调查了在自主机器人最佳控制范围内利用量子计算机和神经变形计算机实现安全、可靠和可解释的多重强化学习(MARL)的情况,目的是应对在确保安全、可靠性和可解释性的同时优化自主代理者行为的挑战,包括量子计算机技术,包括量子计算机接近优化阿尔哥里特姆(QAOA),用于有效探索大型解决方案空间,并找到解决复杂MARL问题的近似办法。在人类大脑结构的启发下,神经变形计算机提供了平行和分散的处理能力,这些能力被利用来开发智能和适应系统。这些技术的结合具有加强自主机器人中MARL的安全、可靠性和可解释性的潜力。这一研究通过探索尖端技术及其在多试器系统中的应用,促进了自主机器人的进步。可提供代码和数据。
+
+---
+
+## Article 50
+### Title@2025-07-05 (6): CortexDebate: Debating Sparsely and Equally for Multi-Agent Debate
+
+**Title**: CortexDebate: Debating Sparsely and Equally for Multi-Agent Debate | CortexDebatte: Spärlich und gleichermaßen für die Mehr-Agenten-Debatte debattieren | CortexDebate: 为多机构辩论进行粗略和同等的争论 [2507.03928v1](http://arxiv.org/abs/2507.03928v1)
+
+**Authors** (4): Yiliu Sun, Zicheng Zhao, Sheng Wan, Chen Gong
+
+Nowadays, single Large Language Model (LLM) struggles with critical issues such as hallucination and inadequate reasoning abilities. To mitigate these issues, Multi-Agent Debate (MAD) has emerged as an effective strategy, where LLM agents engage in in-depth debates with others on tasks. However, existing MAD methods face two major issues: (a) too lengthy input contexts, which causes LLM agents to get lost in plenty of input information and experiences performance drop; and (b) the overconfidence dilemma, where self-assured LLM agents dominate the debate, leading to low debating effectiveness. To address these limitations, we propose a novel MAD method called "CortexDebate". Inspired by the human brain's tendency to establish a sparse and dynamically optimized network among cortical areas governed by white matter, CortexDebate constructs a sparse debating graph among LLM agents, where each LLM agent only debates with the ones that are helpful to it. To optimize the graph, we propose a module named McKinsey-based Debate Matter (MDM), which acts as an artificial analog to white matter. By integrating the McKinsey Trust Formula, a well-established measure of trustworthiness from sociology, MDM enables credible evaluations that guide graph optimization. The effectiveness of our CortexDebate has been well demonstrated by extensive experimental results across eight datasets from four task types.
+
+目前,单一的大型语言模型(LLM)与幻觉和不充分的推理能力等关键问题抗争。为了缓解这些问题,多机构辩论(MAD)已成为一项有效的战略,使LLM代理商与其他人就任务进行深入的辩论。然而,现有的MAD方法面临两大问题:(a) 投入环境过长,使LLM代理商在大量投入信息和工作表现下降中丢失;和(b) 过度自信困境,自闭式LLM代理商在辩论中占主导地位,导致辩论效率低。为解决这些问题,我们提议了一个名为“CortexDebate”的新的MAD方法。由于人类大脑倾向于在受白质制约的皮层地区建立稀疏和动态优化的网络,CortexDebate在LM代理商中构建了一个鲜散的争论图,使LLMM代理商只与对其有帮助的方面展开辩论。为了优化图表,我们提议了一个名为MKinsey辩论主题的模块(MMMMMMMM),这是从一个人为的模拟到白色事物的模拟模拟。通过将MKKSY Trustin Trust的四级的模型整合,使得我们获得了一个可靠的模型的模型。
+
+---
+
+## Article 51
+### Title@2025-07-05 (6): Agent Exchange: Shaping the Future of AI Agent Economics
+
+**Title**: Agent Exchange: Shaping the Future of AI Agent Economics | Agent Exchange: Die Zukunft von AI Agent Economics gestalten | A. 交流:构建AI A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. [2507.03904v1](http://arxiv.org/abs/2507.03904v1)
+
+**Authors** (4): Yingxuan Yang, Ying Wen, Jun Wang, Weinan Zhang
+
+The rise of Large Language Models (LLMs) has transformed AI agents from passive computational tools into autonomous economic actors. This shift marks the emergence of the agent-centric economy, in which agents take on active economic roles-exchanging value, making strategic decisions, and coordinating actions with minimal human oversight. To realize this vision, we propose Agent Exchange (AEX), a specialized auction platform designed to support the dynamics of the AI agent marketplace. AEX offers an optimized infrastructure for agent coordination and economic participation. Inspired by Real-Time Bidding (RTB) systems in online advertising, AEX serves as the central auction engine, facilitating interactions among four ecosystem components: the User-Side Platform (USP), which translates human goals into agent-executable tasks; the Agent-Side Platform (ASP), responsible for capability representation, performance tracking, and optimization; Agent Hubs, which coordinate agent teams and participate in AEX-hosted auctions; and the Data Management Platform (DMP), ensuring secure knowledge sharing and fair value attribution. We outline the design principles and system architecture of AEX, laying the groundwork for agent-based economic infrastructure in future AI ecosystems.
+
+大语言模型(LLMS)的兴起使AI代理机构从被动计算工具转变为自主经济行为方。这一转变标志着代理中心经济的出现,在这种经济中,代理机构承担积极的经济作用,改变价值,作出战略决定,并在最低限度的人力监督下协调行动。为了实现这一愿景,我们提议Agent Exchange(AEX),这是一个旨在支持AI代理市场动态的专门拍卖平台。AEX为代理机构协调和经济参与提供了最优化的基础设施。受网上广告实时投标系统(RTB)的启发,AEX成为中央拍卖引擎,促进四个生态系统组成部分之间的互动:用户-Side平台(USP),该平台将人类目标转化为代理执行的任务;Asid Side平台(ASP),负责能力代表、绩效跟踪和优化;AEX主持拍卖的代理小组协调并参与拍卖;以及数据管理平台(DMP),确保安全的知识共享和公允价值归属。我们概述了AEX的设计原则和系统架构,为未来AI基于代理机构的经济基础设施奠定基础。
+
+---
+
+## Article 52
+### Title@2025-07-05 (6): Enhancing Clinical Trial Patient Matching through Knowledge Augmentation   and Reasoning with Multi-Agent
+
+**Title**: Enhancing Clinical Trial Patient Matching through Knowledge Augmentation   and Reasoning with Multi-Agent | Verbesserung klinischer Studienpatienten, die durch Wissensvergrößerung und Vernunft mit Multi-Agenten übereinstimmen | 通过知识增加和与多方代理商的理据,加强临床试验病人与多方代理商匹配的能力 [2411.14637v3](http://arxiv.org/abs/2411.14637v3)
+
+**Authors** (3): Hanwen Shi, Jin Zhang, Kunpeng Zhang
+
+Matching patients effectively and efficiently for clinical trials is a significant challenge due to the complexity and variability of patient profiles and trial criteria. This paper introduces \textbf{Multi-Agent for Knowledge Augmentation and Reasoning (MAKAR)}, a novel multi-agent system that enhances patient-trial matching by integrating criterion augmentation with structured reasoning. MAKAR consistently improves performance by an average of 7\% across different datasets. Furthermore, it enables privacy-preserving deployment and maintains competitive performance when using smaller open-source models. Overall, MAKAR can contributes to more transparent, accurate, and privacy-conscious AI-driven patient matching.
+
+由于患者概况和试验标准的复杂性和变异性,使患者能够有效和高效地匹配临床试验是一项重大挑战。本文介绍了\ textbf{多位知识增加和理由代理商(MAKAR)},这是一个新型的多试剂系统,通过将增强标准与结构化推理相结合,加强患者与审判的匹配。MAKAR不断在不同数据集之间提高平均7的性能。此外,它允许在使用较小的开放源码模型时进行隐私保护部署并保持竞争性性能。 总体而言,MAKAR可以促进更加透明、准确和有隐私意识的AI驱动的患者匹配。
+
+---
+
+## Article 53
+### Title@2025-07-04 (5): You Can't Always Get What You Want: Games of Ordered Preference
+
+**Title**: You Can't Always Get What You Want: Games of Ordered Preference | Sie können nicht immer bekommen, was Sie wollen: Spiele der bestellten Präferenz | 你不能总是得到你想要的东西: 有序优惠的游戏 [2410.21447v3](http://arxiv.org/abs/2410.21447v3)
+
+**Authors** (3): Dong Ho Lee, Lasse Peters, David Fridovich-Keil
+
+We study noncooperative games, in which each player's objective is composed of a sequence of ordered- and potentially conflicting-preferences. Problems of this type naturally model a wide variety of scenarios: for example, drivers at a busy intersection must balance the desire to make forward progress with the risk of collision. Mathematically, these problems possess a nested structure, and to behave properly players must prioritize their most important preference, and only consider less important preferences to the extent that they do not compromise performance on more important ones. We consider multi-agent, noncooperative variants of these problems, and seek generalized Nash equilibria in which each player's decision reflects both its hierarchy of preferences and other players' actions. We make two key contributions. First, we develop a recursive approach for deriving the first-order optimality conditions of each player's nested problem. Second, we propose a sequence of increasingly tight relaxations, each of which can be transcribed as a mixed complementarity problem and solved via existing methods. Experimental results demonstrate that our approach reliably converges to equilibrium solutions that strictly reflect players' individual ordered preferences.
+
+我们研究的是不合作的游戏,每个玩家的目标都是由一系列有秩序的和可能相互冲突的偏好组成。这种类型的问题自然会以各种各样的情景为模型:例如,繁忙十字路口的司机必须平衡前进的愿望和碰撞的风险。从数学角度讲,这些问题具有一个嵌套结构,并且行为得当的玩家必须优先考虑其最重要的偏好,而只考虑不太重要的偏好,只要它们不会损害更重要的游戏的性能。我们考虑这些问题的多试剂、不合作的变种,并寻求普遍的纳什平衡,其中每个玩家的决定既反映其偏好等级,又反映其他玩家的行动。我们作出了两个关键的贡献。首先,我们制定了一种循环方法,以得出每个玩家嵌套装问题的第一阶的最佳条件。第二,我们提出一个越来越紧紧的放松顺序,其中每一种都可以作为混合互补问题,通过现有方法加以解决。实验结果表明,我们的方法可以可靠地接近平衡的解决办法,严格地反映玩家个人的偏好。
+
+---
+
+## Article 54
+### Title@2025-07-04 (5): Towards a Playground to Democratize Experimentation and Benchmarking of   AI Agents for Network Troubleshooting
+
+**Title**: Towards a Playground to Democratize Experimentation and Benchmarking of   AI Agents for Network Troubleshooting | Auf dem Weg zu einem Spielplatz zur Demokratisierung von Experimenten und Benchmarking von KI-Agenten zur Netzwerkfehlerbehebung | 走向使AI 网络排除问题代理机构民主化试验和基准设定的竞技场 [2507.01997v2](http://arxiv.org/abs/2507.01997v2)
+
+**Authors** (6): Zhihao Wang, Alessandro Cornacchia, Franco Galante, Carlo Centofanti, Alessio Sacco, Dingde Jiang
+
+Recent research has demonstrated the effectiveness of Artificial Intelligence (AI), and more specifically, Large Language Models (LLMs), in supporting network configuration synthesis and automating network diagnosis tasks, among others. In this preliminary work, we restrict our focus to the application of AI agents to network troubleshooting and elaborate on the need for a standardized, reproducible, and open benchmarking platform, where to build and evaluate AI agents with low operational effort.
+
+最近的研究表明,人工智能(AI),更具体地说,大语言模型(LLMs),在支持网络配置合成和网络诊断任务自动化等方面是有效的。 在这一初步工作中,我们的重点仅限于应用AI代理机构解决网络故障,并阐明需要一个标准化的、可复制的和开放的基准平台,以便低投入地建立和评估AI代理机构。
+
+---
+
+## Article 55
+### Title@2025-07-04 (5): A unifying approach to self-organizing systems interacting via   conservation laws
+
+**Title**: A unifying approach to self-organizing systems interacting via   conservation laws | Ein vereinheitlichter Ansatz für selbstorganisierende Systeme, die über Erhaltungsgesetze interagieren | 对通过养护法相互作用的自我组织系统采取统一办法 [2507.02575v2](http://arxiv.org/abs/2507.02575v2)
+
+**Authors** (8): Frank Barrows, Guanming Zhang, Satyam Anand, Zizi Chen, Jonathan Lin, Amman Desai, Stefano Martiniani, Francesco Caravelli
+
+We present a unified framework for embedding and analyzing dynamical systems using generalized projection operators rooted in local conservation laws. By representing physical, biological, and engineered systems as graphs with incidence and cycle matrices, we derive dual projection operators that decompose network fluxes and potentials. This formalism aligns with principles of non-equilibrium thermodynamics and captures a broad class of systems governed by flux-forcing relationships and local constraints. We extend this approach to collective dynamics through the PRojective Embedding of Dynamical Systems (PrEDS), which lifts low-dimensional dynamics into a high-dimensional space, enabling both replication and recovery of the original dynamics. When systems fall within the PrEDS class, their collective behavior can be effectively approximated through projection onto a mean-field space. We demonstrate the versatility of PrEDS across diverse domains, including resistive and memristive circuits, adaptive flow networks (e.g., slime molds), elastic string networks, and particle swarms. Notably, we establish a direct correspondence between PrEDS and swarm dynamics, revealing new insights into optimization and self-organization. Our results offer a general theoretical foundation for analyzing complex networked systems and for designing systems that self-organize through local interactions.
+
+我们提出了一个统一框架,用于利用植根于当地保护法的通用预测操作员嵌入和分析动态系统。我们通过将物理、生物和工程设计系统作为事件和周期矩阵的图表来代表物理、生物和工程系统,产生分解网络通量和潜力的双重预测操作员。这种形式主义符合非平衡热动力学的原则,并捕捉了由通量-促进关系和地方制约的多种系统。我们通过动态系统(PrEDS)的旋转嵌入式嵌入系统(e.g.,粘液型模子)、弹性弦网络和粒子蒸发器等,将这一方法推广到集体动态中,将低维动态提升到一个高维空间,使原始动态得以复制和恢复。当系统属于PREDS级时,它们的集体行为可以通过投射到一个中等空间空间来有效地近似。我们展示了PREDS的多功能性,包括受通量-促进关系和地方制约的电路、适应性流动网络(e.g.lipee molds)、弹性弦网络网络和粒子蒸发波波波波波波体。 特别是,我们为自我分析的系统提供了自我分析的系统。
+
+---
+
+## Article 56
+### Title@2025-07-04 (5): GenSim: A General Social Simulation Platform with Large Language Model   based Agents
+
+**Title**: GenSim: A General Social Simulation Platform with Large Language Model   based Agents | GenSim: Eine allgemeine soziale Simulationsplattform mit großformatigen Agenten | GenSim:一个配有以大语言模式为基础的示范物剂的一般社会模拟平台 [2410.04360v3](http://arxiv.org/abs/2410.04360v3)
+
+**Authors** (14): Jiakai Tang, Heyang Gao, Xuchen Pan, Lei Wang, Haoran Tan, Dawei Gao, Yushuo Chen, Xu Chen, Yankai Lin, Yaliang Li, Bolin Ding, Jingren Zhou, Jun Wang, Ji-Rong Wen
+
+With the rapid advancement of large language models (LLMs), recent years have witnessed many promising studies on leveraging LLM-based agents to simulate human social behavior. While prior work has demonstrated significant potential across various domains, much of it has focused on specific scenarios involving a limited number of agents and has lacked the ability to adapt when errors occur during simulation. To overcome these limitations, we propose a novel LLM-agent-based simulation platform called \textit{GenSim}, which: (1) \textbf{Abstracts a set of general functions} to simplify the simulation of customized social scenarios; (2) \textbf{Supports one hundred thousand agents} to better simulate large-scale populations in real-world contexts; (3) \textbf{Incorporates error-correction mechanisms} to ensure more reliable and long-term simulations. To evaluate our platform, we assess both the efficiency of large-scale agent simulations and the effectiveness of the error-correction mechanisms. To our knowledge, GenSim represents an initial step toward a general, large-scale, and correctable social simulation platform based on LLM agents, promising to further advance the field of social science.
+
+随着大型语言模型(LLMS)的快速发展,近年来,在利用LLM代理物模拟人类社会行为方面进行了许多有希望的研究。虽然以前的工作表明在各个领域具有巨大潜力,但大部分集中在涉及有限代理物的具体情景上,在模拟过程中出现错误时缺乏适应能力。为了克服这些限制,我们提议建立一个名为\textit{GenSim}的新的LLM代理物模拟平台,这个平台:(1)\textb{Abts abs a general 函数}以简化定制社会情景的模拟;(2)\ textbf{支持十万个代理物 以更好地模拟现实世界环境中的大规模人口;(3)\textbf{Incompany错误纠正机制}以确保更可靠和长期的模拟。为了评估我们的平台,我们既评估大型代理物模拟的效率,又评估错误纠正机制的有效性。据我们所知,GenSim代表了朝着一个以LM代理物为基础、大规模和可纠正的社会模拟平台迈出的第一步,希望进一步推进社会科学领域。
+
+---
+
+## Article 57
+### Title@2025-07-03 (4): A Fuzzy Supervisor Agent Design for Clinical Reasoning Assistance in a   Multi-Agent Educational Clinical Scenario Simulation
+
+**Title**: A Fuzzy Supervisor Agent Design for Clinical Reasoning Assistance in a   Multi-Agent Educational Clinical Scenario Simulation | Ein Fuzzy Supervisor Agent Design für klinische Hilfe bei einer multi-agenten pädagogischen klinischen Szenario-Simulation | 一名模糊的监管员,在多机构教育临床假想模拟中为临床理疗协助设计 [2507.05275v1](http://arxiv.org/abs/2507.05275v1)
+
+**Authors** (6): Weibing Zheng, Laurah Turner, Jess Kropczynski, Murat Ozer, Seth Overla, Shane Halse
+
+Assisting medical students with clinical reasoning (CR) during clinical scenario training remains a persistent challenge in medical education. This paper presents the design and architecture of the Fuzzy Supervisor Agent (FSA), a novel component for the Multi-Agent Educational Clinical Scenario Simulation (MAECSS) platform. The FSA leverages a Fuzzy Inference System (FIS) to continuously interpret student interactions with specialized clinical agents (e.g., patient, physical exam, diagnostic, intervention) using pre-defined fuzzy rule bases for professionalism, medical relevance, ethical behavior, and contextual distraction. By analyzing student decision-making processes in real-time, the FSA is designed to deliver adaptive, context-aware feedback and provides assistance precisely when students encounter difficulties. This work focuses on the technical framework and rationale of the FSA, highlighting its potential to provide scalable, flexible, and human-like supervision in simulation-based medical education. Future work will include empirical evaluation and integration into broader educational settings. More detailed design and implementation is~\href{https://github.com/2sigmaEdTech/MAS/}{open sourced here}.
+
+在临床情景培训期间,协助医科学生临床推理(CR)仍然是医学教育中的一个长期挑战,本文件介绍了Fuzzy督导员(FSA)的设计和结构,这是多功能教育临床情景模拟(MAECSS)平台的新构件。FSA利用一个模糊推理系统(FIS)不断解释学生与专门的临床代理(如病人、体格检查、诊断和干预)的互动,使用预先界定的模糊规则基础,促进专业精神、医疗相关性、道德行为和背景分心。通过实时分析学生决策过程,FSA旨在提供适应性、环境意识的反馈,并在学生遇到困难时提供准确的援助。这项工作侧重于FSA的技术框架和理由,强调其在模拟医学教育中提供可扩展、灵活和人性监督的潜力。未来工作将包括经验评估和融入更广泛的教育环境。更详尽的设计和实施是href{https://github.com/2sigma-dech/MAS/ }。
+
+---
+
+## Article 58
+### Title@2025-07-03 (4): Agentic Business Process Management: Practitioner Perspectives on Agent   Governance in Business Processes
+
+**Title**: Agentic Business Process Management: Practitioner Perspectives on Agent   Governance in Business Processes | Agentic Business Process Management: Praxisperspektiven zur Agenten-Governance in Unternehmensprozessen | 代理业务流程管理:从业者对业务流程代理治理的看法 [2504.03693v2](http://arxiv.org/abs/2504.03693v2)
+
+**Authors** (5): Hoang Vu, Nataliia Klievtsova, Henrik Leopold, Stefanie Rinderle-Ma, Timotheus Kampik
+
+With the rise of generative AI, industry interest in software agents is growing. Given the stochastic nature of generative AI-based agents, their effective and safe deployment in organizations requires robust governance, which can be facilitated by agentic business process management. However, given the nascence of this new-generation agent notion, it is not clear what BPM practitioners consider to be an agent, and what benefits, risks and governance challenges they associate with agent deployments. To investigate how organizations can effectively govern AI agents, we conducted a qualitative study involving semi-structured interviews with 22 BPM practitioners from diverse industries. They anticipate that agents will enhance efficiency, improve data quality, ensure better compliance, and boost scalability through automation, while also cautioning against risks such as bias, over-reliance, cybersecurity threats, job displacement, and ambiguous decision-making. To address these challenges, the study presents six key recommendations for the responsible adoption of AI agents: define clear business goals, set legal and ethical guardrails, establish human-agent collaboration, customize agent behavior, manage risks, and ensure safe integration with fallback options. Additionally, the paper outlines actions to align traditional BPM with agentic AI, including balancing human and agent roles, redefining human involvement, adapting process structures, and introducing performance metrics. These insights provide a practical foundation for integrating AI agents into business processes while preserving oversight, flexibility, and trust.
+
+随着基因化的AI的兴起,工业界对软件代理的兴趣正在增加。鉴于基因化的AI型代理的随机性质,在组织中有效和安全地部署它们需要强有力的治理,而这种治理可以通过代理业务流程管理加以促进。然而,鉴于这种新一代代理概念的诞生,目前尚不清楚BPM从业人员认为什么是代理,以及他们与代理部署有关哪些好处、风险和治理挑战。为了调查各组织如何能够有效地管理AI代理,我们开展了一项定性研究,涉及与不同行业22名BPM从业人员的半结构性访谈。他们预计,代理将提高效率,提高数据质量,确保更好的遵守,并通过自动化提高可扩展性,同时告诫人们避免偏见、过度依赖、网络安全威胁、工作流离失所和模棱两可的决策等风险。为了应对这些挑战,BPM从业人员研究提出了六项重要建议,以便负责地采用AI代理:确定明确的商业目标、设置法律和道德护栏、建立人类代理协作、定制代理行为、管理风险和确保安全地与倒行选项相结合。此外,文件概述了为使传统的BPM结构结构与代理人参与和重新确定机构的工作基础。
+
+---
+
+## Article 59
+### Title@2025-07-03 (4): Autonomous Control Leveraging LLMs: An Agentic Framework for   Next-Generation Industrial Automation
+
+**Title**: Autonomous Control Leveraging LLMs: An Agentic Framework for   Next-Generation Industrial Automation | Autonome Steuerung Leveraging LLMs: Agentische Rahmenbedingungen für die industrielle Automatisierung der nächsten Generation | 自主控制杠杆利用LMM: 下一启动工业自动化的 Agentic 框架 [2507.07115v1](http://arxiv.org/abs/2507.07115v1)
+
+**Authors** (2): Javal Vyas, Mehmet Mercangoz
+
+The increasing complexity of modern chemical processes, coupled with workforce shortages and intricate fault scenarios, demands novel automation paradigms that blend symbolic reasoning with adaptive control. In this work, we introduce a unified agentic framework that leverages large language models (LLMs) for both discrete fault-recovery planning and continuous process control within a single architecture. We adopt Finite State Machines (FSMs) as interpretable operating envelopes: an LLM-driven planning agent proposes recovery sequences through the FSM, a Simulation Agent executes and checks each transition, and a Validator-Reprompting loop iteratively refines invalid plans. In Case Study 1, across 180 randomly generated FSMs of varying sizes (4-25 states, 4-300 transitions), GPT-4o and GPT-4o-mini achieve 100% valid-path success within five reprompts-outperforming open-source LLMs in both accuracy and latency. In Case Study 2, the same framework modulates dual-heater inputs on a laboratory TCLab platform (and its digital twin) to maintain a target average temperature under persistent asymmetric disturbances. Compared to classical PID control, our LLM-based controller attains similar performance, while ablation of the prompting loop reveals its critical role in handling nonlinear dynamics. We analyze key failure modes-such as instruction following lapses and coarse ODE approximations. Our results demonstrate that, with structured feedback and modular agents, LLMs can unify high-level symbolic planningand low-level continuous control, paving the way towards resilient, language-driven automation in chemical engineering.
+
+现代化学流程日益复杂,加上劳动力短缺和复杂故障情况,要求采用新颖的自动化模式,将象征性推理与适应性控制相结合。在这项工作中,我们引入一个统一的代理框架,利用大型语言模型(LLMS),在单一架构内进行分散的故障恢复规划和连续流程控制。我们采用Finite State Mechanis(FSMS)作为可解释的操作信封:由LLLM驱动的规划代理商通过密克罗尼西亚联邦提出恢复序列,一个模拟代理执行和检查每次过渡,以及一个验证器-更新循环,反复完善无效计划。在案例研究1中,180多个随机生成了不同大小(4-25个州,4-300个过渡)、GPT-4o和GPT-4o-mini使用大型语言模型(LMMS),在5个重塑性国家机器(FMMs)中,在准确和透明性平面平台(及其数字双向)中调整双热器投入,以维持持续不完全性扰动状态下的目标平均温度。比平时,我们的主要方向分析系统操作模式展示了我们的关键操作。
+
+---
+
+## Article 60
+### Title@2025-07-03 (4): Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation
+
+**Title**: Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation | Einschließlich LLMs für großräumige Urban Complex Mobility Simulation | 大型城市综合流动模拟项目LLMs [2505.21880v2](http://arxiv.org/abs/2505.21880v2)
+
+**Authors** (8): Yu-Lun Song, Chung-En Tsern, Che-Cheng Wu, Yu-Ming Chang, Syuan-Bo Huang, Wei-Chu Chen, Michael Chia-Liang Lin, Yu-Ta Lin
+
+This study presents an innovative approach to urban mobility simulation by integrating a Large Language Model (LLM) with Agent-Based Modeling (ABM). Unlike traditional rule-based ABM, the proposed framework leverages LLM to enhance agent diversity and realism by generating synthetic population profiles, allocating routine and occasional locations, and simulating personalized routes. Using real-world data, the simulation models individual behaviors and large-scale mobility patterns in Taipei City. Key insights, such as route heat maps and mode-specific indicators, provide urban planners with actionable information for policy-making. Future work focuses on establishing robust validation frameworks to ensure accuracy and reliability in urban planning applications.
+
+与传统的基于规则的反弹道导弹框架不同,拟议框架利用LLM,通过制作合成人口概况、分配常规和偶发地点以及模拟个人化路线,加强代理人多样性和现实主义。 利用台北市的现实世界数据、模拟模型个人行为和大规模流动模式,重要见解,如路线热图和模式特定指标,为城市规划者提供了可供决策使用的信息。未来工作的重点是建立强有力的验证框架,以确保城市规划应用的准确性和可靠性。
+
+---
+
+## Article 61
+### Title@2025-07-03 (4): Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm   Collaboration Challenge at CVPR 2025 MEIS Workshop
+
+**Title**: Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm   Collaboration Challenge at CVPR 2025 MEIS Workshop | Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge bei CVPR 2025 MEIS Workshop | 基准的可通用二手操纵:2025年欧洲气象和气象科学研究所讲习班上的机器人双臂双臂合作挑战 [2506.23351v2](http://arxiv.org/abs/2506.23351v2)
+
+**Authors** (99): Tianxing Chen, Kaixuan Wang, Zhaohui Yang, Yuhao Zhang, Zanxin Chen, Baijun Chen, Wanxi Dong, Ziyuan Liu, Dong Chen, Tianshuo Yang, Haibao Yu, Xiaokang Yang, Yusen Qin, Zhiqiang Xie, Yao Mu, Ping Luo, Tian Nian, Weiliang Deng, Yiheng Ge, Yibin Liu, Zixuan Li, Dehui Wang, Zhixuan Liang, Haohui Xie, Rijie Zeng, Yunfei Ge, Peiqing Cong, Guannan He, Zhaoming Han, Ruocheng Yin, Jingxiang Guo, Lunkai Lin, Tianling Xu, Hongzhe Bi, Xuewu Lin, Tianwei Lin, Shujie Luo, Keyu Li, Ziyan Zhao, Ke Fan, Heyang Xu, Bo Peng, Wenlong Gao, Dongjiang Li, Feng Jin, Hui Shen, Jinming Li, Chaowei Cui, Yu Chen, Yaxin Peng, Lingdong Zeng, Wenlong Dong, Tengfei Li, Weijie Ke, Jun Chen, Erdemt Bao, Tian Lan, Tenglong Liu, Jin Yang, Huiping Zhuang, Baozhi Jia, Shuai Zhang, Zhengfeng Zou, Fangheng Guan, Tianyi Jia, Ke Zhou, Hongjiu Zhang, Yating Han, Cheng Fang, Yixian Zou, Chongyang Xu, Qinglun Zhang, Shen Cheng, Xiaohe Wang, Ping Tan, Haoqiang Fan, Shuaicheng Liu, Jiaheng Chen, Chuxuan Huang, Chengliang Lin, Kaijun Luo, Boyu Yue, Yi Liu, Jinyu Chen, Zichang Tan, Liming Deng, Shuo Xu, Zijian Cai, Shilong Yin, Hao Wang, Hongshan Liu, Tianyang Li, Long Shi, Ran Xu, Huilin Xu, Zhengquan Zhang, Congsheng Xu, Jinchang Yang, Feng Xu
+
+Embodied Artificial Intelligence (Embodied AI) is an emerging frontier in robotics, driven by the need for autonomous systems that can perceive, reason, and act in complex physical environments. While single-arm systems have shown strong task performance, collaborative dual-arm systems are essential for handling more intricate tasks involving rigid, deformable, and tactile-sensitive objects. To advance this goal, we launched the RoboTwin Dual-Arm Collaboration Challenge at the 2nd MEIS Workshop, CVPR 2025. Built on the RoboTwin Simulation platform (1.0 and 2.0) and the AgileX COBOT-Magic Robot platform, the competition consisted of three stages: Simulation Round 1, Simulation Round 2, and a final Real-World Round. Participants totally tackled 17 dual-arm manipulation tasks, covering rigid, deformable, and tactile-based scenarios. The challenge attracted 64 global teams and over 400 participants, producing top-performing solutions like SEM and AnchorDP3 and generating valuable insights into generalizable bimanual policy learning. This report outlines the competition setup, task design, evaluation methodology, key findings and future direction, aiming to support future research on robust and generalizable bimanual manipulation policies. The Challenge Webpage is available at https://robotwin-benchmark.github.io/cvpr-2025-challenge/.
+
+人工智能(Embodied AI)是机器人的新兴前沿,其驱动力是需要能够感知、理性和在复杂的物理环境中行动的自主系统。虽然单臂系统已经表现出很强的任务性能,但协作双臂系统对于处理涉及僵硬、变形和触摸敏感物体的更复杂的任务至关重要。为推进这一目标,我们在第二次MEIS研讨会上发起了机器人双臂双臂协作挑战(CVPR 2025 2025)。在RoboTwin模拟平台(1.0和2.0)和AgileX COBOT-Magic机器人平台(AgilX COBOT-Magic机器人平台)上建立起来,竞争由三个阶段组成:模拟回合1、模拟回合2和最后现实世界回合。参与者完全处理了17项双臂操纵任务,包括僵硬、变形和触角假设。这项挑战吸引了64个全球团队和400多名参与者,产生了像SEM和AnchorDP3这样的最优秀的解决方案,并对通用双体政策学习产生了宝贵的见解。这份报告概述了竞争设置、强有力设计任务设计、关键结果以及未来战略评估方法,这是未来研究的基础研究,目的是要达到总目标。
+
+---
+
