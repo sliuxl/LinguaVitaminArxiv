@@ -5053,7 +5053,7 @@ Estimation of model uncertainty can help improve the explainability of Graph Con
 
 In the kernel density estimation (KDE) problem, we are given a set $X$ of data points in $\mathbb{R}^d$, a kernel function $k: \mathbb{R}^d \times \mathbb{R}^d \rightarrow \mathbb{R}$, and a query point $\mathbf{q} \in \mathbb{R}^d$, and the objective is to quickly output an estimate of $\sum_{\mathbf{x} \in X} k(\mathbf{q}, \mathbf{x})$. In this paper, we consider $\textsf{KDE}$ in the dynamic setting, and introduce a data structure that efficiently maintains the estimates for a set of query points as data points are added to $X$ over time. Based on this, we design a dynamic data structure that maintains a sparse approximation of the fully connected similarity graph on $X$, and develop a fast dynamic spectral clustering algorithm. We further evaluate the effectiveness of our algorithms on both synthetic and real-world datasets.
 
-在内核密度估计(KDE)问题中,我们得到一套以$mathbb{Rd$($mathbb{Rd$)计算的数据点的一套美元美元,一个内核函数美元:\mathbb{Rd\time\mathbb{R}$;一个查询点$\mathbf{{q}(在\mathbb{Rd$)中,一个查询点$\mathb{Rd$(美元),目标是快速输出一个以$sum=mathbbf{x}\in X} k} k(\mathbf{q}},\mathbf{x}}美元计算的数据点的估计数。在本文中,我们考虑在动态环境中的$\ textsf{KDE}$,并引入一个数据结构,有效地维持一套查询点的估计数,因为数据点会随着时间增加到$X$X美元。在此基础上,我们设计一个动态的数据结构,它将维持一个完全相连的图表的鲜密近似近,并发展一个快速动态的合成的合成光谱数据组合。我们进一步评估了我们的数据的效能。
+在内核密度估计(KDE)问题中,我们得到一套以$mathbb{Rd$($mathbb{Rd$)计算的数据点的一套美元美元,一个内核函数美元:\mathbb{Rd\time\mathbb{R}$;一个查询点$\mathbf{ {q}(在\mathbb{Rd$)中,一个查询点$\mathb{Rd$(美元),目标是快速输出一个以$sum=mathbbf{x}\in X} k} k(\mathbf{q}},\mathbf{x}}美元计算的数据点的估计数。在本文中,我们考虑在动态环境中的$\ textsf{KDE}$,并引入一个数据结构,有效地维持一套查询点的估计数,因为数据点会随着时间增加到$X$X美元。在此基础上,我们设计一个动态的数据结构,它将维持一个完全相连的图表的鲜密近似近,并发展一个快速动态的合成的合成光谱数据组合。我们进一步评估了我们的数据的效能。
 
 ---
 
