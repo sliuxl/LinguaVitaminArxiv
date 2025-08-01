@@ -1,0 +1,483 @@
+---
+title: "cs.PL @ 2025-08-01: 034"
+date: 2025-08-01
+layout: post
+---
+
+- [00](#article-0) | **07-31 (4)** | A Compute-Matched Re-Evaluation of TroVE on MATH | Eine berechenbare Re-Evaluierung von Trübsal auf MATH | 对MATH上的 Trove 进行计算再匹配的重新评价 | [2507.22069v2](http://arxiv.org/abs/2507.22069v2)
+- [01](#article-1) | 07-31 | SequenceLayers: Sequence Processing and Streaming Neural Networks Made   Easy | SequenzLayer: Sequenzverarbeitung und Streaming von Neuronalen Netzwerken leicht gemacht | 序列激光器:序列处理和串联神经网络变得容易 | [2507.23292v1](http://arxiv.org/abs/2507.23292v1)
+- [02](#article-2) | 07-31 | CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large   Language Models in Interactive Code Generation | CodeIF-Bench: Bewertung von Instruction-Following-Fähigkeiten von großen Sprachmodellen in der interaktiven Codegenerierung | 守则-框架框架框架:评估互动代码生成中大语言模式的指令-遵守能力 | [2503.22688v3](http://arxiv.org/abs/2503.22688v3)
+- [03](#article-3) | 07-31 | Kernel-FFI: Transparent Foreign Function Interfaces for Interactive   Notebooks | Kernel-FFI: Transparente Fremdfunktionsschnittstellen für interaktive Notebooks | 核心-FFI:交互式笔记本的透明外国函数界面 | [2507.23205v1](http://arxiv.org/abs/2507.23205v1)
+- [04](#article-4) | 07-31 | CodePod: A Language-Agnostic Hierarchical Scoping System for Interactive   Development | CodePod: Ein sprach-agnostisches Hierarchisches Scoping-System für interaktive Entwicklung | 代码pod:一个促进互动发展的语文、不可知的等级分级范围界定系统 | [2301.02410v2](http://arxiv.org/abs/2301.02410v2)
+- [05](#article-5) | 07-31 | NaN-Propagation: A Novel Method for Sparsity Detection in Black-Box   Computational Functions | NaN-Propagation: Eine neuartige Methode zur Erkennung von Sparsität in Black-Box Computational Functions | NaN- propagation: 在黑箱计算函数中检测分数的新颖方法 | [2507.23186v1](http://arxiv.org/abs/2507.23186v1)
+- [06](#article-6) | **07-30 (3)** | Abstractions of Sequences, Functions and Operators | Abstraktionen von Sequenzen, Funktionen und Operatoren | 序列、函数和运算符的抽象体 | [2507.23151v1](http://arxiv.org/abs/2507.23151v1)
+- [07](#article-7) | 07-30 | Place Capability Graphs: A General-Purpose Model of Rust's Ownership and   Borrowing Guarantees | Ortsfähigkeitsdiagramme: Ein allgemein angelegtes Modell der Rust-Eigentums- und Leihgarantien | 所在地能力图:混乱所有权和借款担保的一般目的模型 | [2503.21691v3](http://arxiv.org/abs/2503.21691v3)
+- [08](#article-8) | 07-30 | The Algebra of Patterns (Extended Version) | Die Algebra der Muster (erweiterte Version) | 模式代数(扩展版本) | [2504.18920v2](http://arxiv.org/abs/2504.18920v2)
+- [09](#article-9) | 07-30 | Floating-Point Neural Networks Are Provably Robust Universal   Approximators | Floating-Point-Neural-Netzwerke sind wahrscheinlich robuste Universal-Annäherung | 浮动点神经网络具有可可预见强健的通用通用近似器 | [2506.16065v2](http://arxiv.org/abs/2506.16065v2)
+- [10](#article-10) | **07-29 (2)** | Composable Effect Handling for Programming LLM-integrated Scripts | Composable Effect Handling für die Programmierung von LLM-integrierten Skripten | 程序编程 LLM 集成脚本的可集成效果处理 | [2507.22048v1](http://arxiv.org/abs/2507.22048v1)
+- [11](#article-11) | 07-29 | Rule-Based Graph Programs Matching the Time Complexity of Imperative   Algorithms | Regelbasierte Grafikprogramme, die der Zeitkomplexität imperativer Algorithmen entsprechen | 基于规则的图表程序,与规定性算法的复杂时间相匹配 | [2501.09144v2](http://arxiv.org/abs/2501.09144v2)
+- [12](#article-12) | 07-29 | Fixed-Point-Oriented Programming: A Concise and Elegant Paradigm | Fixed-Point-Oriented Programmierung: Ein konzises und elegantes Paradigm | 以固定点为主的方案拟订:一个简洁和优优雅的范例 | [2507.21439v1](http://arxiv.org/abs/2507.21439v1)
+- [13](#article-13) | **07-28 (1)** | One Weird Trick to Untie Landin's Knot | Ein seltsamer Trick, Landins Knoten zu lösen | 给安蒂·兰丁的拳一个诡异的诡计 | [2507.21317v1](http://arxiv.org/abs/2507.21317v1)
+- [14](#article-14) | 07-28 | TypyBench: Evaluating LLM Type Inference for Untyped Python Repositories | TypyBench: Bewertung der LLM-Typ-Schlussfolgerung für nicht typisierte Python-Repositories | TypyBench: 评估非型式 Python 仓库的 LLM 类型推理 | [2507.22086v1](http://arxiv.org/abs/2507.22086v1)
+- [15](#article-15) | 07-28 | LLM-Based Repair of Static Nullability Errors | LLM-basierte Reparatur von statischen Nullierbarkeitsfehlern | LLM -- -- 基于LLM的静态误差修复 | [2507.20674v1](http://arxiv.org/abs/2507.20674v1)
+- [16](#article-16) | 07-28 | Program Analysis for High-Value Smart Contract Vulnerabilities:   Techniques and Insights | Programmanalyse für hochwertige Smart Contract Vulnerabilitys: Techniken und Erkenntnisse | 高价值智能合同脆弱性方案分析:技术和洞察 | [2507.20672v1](http://arxiv.org/abs/2507.20672v1)
+- [17](#article-17) | **07-27 (7)** | Semantics of Sets of Programs | Semantik von Sets von Programmen | 一组程序的语义 | [2410.16102v2](http://arxiv.org/abs/2410.16102v2)
+- [18](#article-18) | 07-27 | DisQ: A Model of Distributed Quantum Processors | DisQ: Ein Modell von verteilten Quantenprozessoren | 分布Q:分布量量处理器模型 | [2407.09710v4](http://arxiv.org/abs/2407.09710v4)
+- [19](#article-19) | 07-27 | The Power of Negation in Higher-Order Datalog | Die Macht der Negation im Datalog höherer Ordnung | 高等级数据中偏差的力量 | [2507.20251v1](http://arxiv.org/abs/2507.20251v1)
+- [20](#article-20) | **07-26 (6)** | Development and Evaluation of Adaptive LearningSupport System Based on   Ontology of MultipleProgramming Languages | Entwicklung und Evaluierung eines adaptiven Lernunterstützungssystems auf der Grundlage der Ontologie mehrerer Programmiersprachen | 基于多方案语言本体学的适应性学习支持系统开发和评价 | [2507.19728v1](http://arxiv.org/abs/2507.19728v1)
+- [21](#article-21) | **07-25 (5)** | Special Delivery: Programming with Mailbox Types (Extended Version) | Spezielle Lieferung: Programmierung mit Mailbox-Typen (erweiterte Version) | 特别发送:用邮箱类型编程(扩展版本) | [2306.12935v2](http://arxiv.org/abs/2306.12935v2)
+- [22](#article-22) | 07-25 | Fine-Tuning Multilingual Language Models for Code Review: An Empirical   Study on Industrial C# Projects | Fine-Tuning Mehrsprachige Sprachmodelle für Code Review: Eine empirische Studie zu industriellen C#-Projekten | 用于代码审查的精美多语言语言模式:工业C#项目经验研究 | [2507.19271v1](http://arxiv.org/abs/2507.19271v1)
+- [23](#article-23) | 07-25 | A Programming Language for Feasible Solutions | Eine Programmiersprache für Machbare Lösungen | 可行解决方案的编程语言 | [2507.19176v1](http://arxiv.org/abs/2507.19176v1)
+- [24](#article-24) | 07-25 | An Enumerative Embedding of the Python Type System in ACL2s | Eine Enumerative Einbettung des Python-Typsystems in ACL2s | Python型系统在ACL2中的插图嵌入 | [2507.19015v1](http://arxiv.org/abs/2507.19015v1)
+- [25](#article-25) | 07-25 | A Formalization of the Yul Language and Some Verified Yul Code   Transformations | Eine Formalisierung der Yul-Sprache und einige verifizierte Yul-Code-Transformationen | 正式化YUL语言和部分经验证的YUL代码转换 | [2507.19012v1](http://arxiv.org/abs/2507.19012v1)
+- [26](#article-26) | 07-25 | Towards Bug-Free Distributed Go Programs | Auf dem Weg zu fehlerfreien verteilten Go-Programmen | 迈向无臭虫分配方案 | [2506.15135v2](http://arxiv.org/abs/2506.15135v2)
+- [27](#article-27) | 07-25 | IsaMini: Redesigned Isabelle Proof Lanugage for Machine Learning | IsaMini: Isabelle Proof Lanugage für maschinelles Lernen neu gestaltet | IsaMini:重新设计的伊莎贝尔机器学习校对 | [2507.18885v1](http://arxiv.org/abs/2507.18885v1)
+- [28](#article-28) | **07-24 (4)** | Decompiling Rust: An Empirical Study of Compiler Optimizations and   Reverse Engineering Challenges | Decompiling Rust: Eine empirische Studie über Compiler-Optimierungen und Reverse Engineering-Herausforderungen | Drecomping Rust:关于编纂者优化和逆向工程挑战的经验性研究 | [2507.18792v1](http://arxiv.org/abs/2507.18792v1)
+- [29](#article-29) | 07-24 | Agentic Program Repair from Test Failures at Scale: A Neuro-symbolic   approach with static analysis and test execution feedback | Agentische Programm-Reparatur von Testfehlern im Maßstab: Ein neuro-symbolischer Ansatz mit statischer Analyse und Test-Ausführungs-Feedback | 大规模试验失败时的试验失败时的代理方案修复:采用静态分析和测试执行反馈的神经-正反方法 | [2507.18755v1](http://arxiv.org/abs/2507.18755v1)
+- [30](#article-30) | 07-24 | Probabilistic Concurrent Reasoning in Outcome Logic: Independence,   Conditioning, and Invariants | Probabilistische Concurrent Reasoning in Outcome Logic: Unabhängigkeit, Konditionierung und Invarianten | 结果逻辑的概率并存理由:独立、条件和不稳定 | [2411.11662v2](http://arxiv.org/abs/2411.11662v2)
+- [31](#article-31) | 07-24 | Higher-Order Behavioural Conformances via Fibrations | Behavioural Conformances höherer Ordnung durch Fibrationen | 通过纤维纤维达到较高等级的行为合规 | [2507.18509v1](http://arxiv.org/abs/2507.18509v1)
+- [32](#article-32) | 07-24 | Language-Integrated Recursive Queries | Sprachintegrierte rekursive Abfragen | 语言综合递归查询 | [2504.02443v2](http://arxiv.org/abs/2504.02443v2)
+- [33](#article-33) | 07-24 | Building an Accelerated OpenFOAM Proof-of-Concept Application using   Modern C++ | Aufbau einer beschleunigten OpenFOAM Proof-of-Concept-Anwendung mit modernem C++ | 利用现代C++建立加速的开放有机金融AM系统概念校验应用 | [2507.18268v1](http://arxiv.org/abs/2507.18268v1)
+
+## Article 0
+### Title@2025-07-31 (4): A Compute-Matched Re-Evaluation of TroVE on MATH
+
+**Title**: A Compute-Matched Re-Evaluation of TroVE on MATH | Eine berechenbare Re-Evaluierung von Trübsal auf MATH | 对MATH上的 Trove 进行计算再匹配的重新评价 [2507.22069v2](http://arxiv.org/abs/2507.22069v2)
+
+**Authors** (4): Tobias Sesterhenn, Ian Berlot-Attwell, Janis Zenkner, Christian Bartelt
+
+Reusing established theorems and formulas is central to mathematical problem solving, serving as essential building blocks for tackling increasingly complex challenges. Recent work, TroVE, argues that code-generating Large Language Models (LLMs) can benefit similarly on the MATH benchmark by inducing and reusing higher-level toolboxes. By allocating computational budget across an ensemble of three modes -- directly generating code, creating tools, and reusing tools -- TroVE claims to outperform a PRIMITIVE baseline that only performs direct generation. However, recent analysis (Berlot-Attwell et al., 2024) casts doubt on these gains, noting that the tools created are often trivial or rarely reused, suggesting that improvements may stem from self-consistency or self-correction. In this work, we re-evaluate TroVE on MATH, analyze the impact of each of its modes, and show that its benefit does not come from these mechanisms, but simply from a higher computational budget spent for TroVE compared to PRIMITIVE. To this end, we also perform a small correction in the original implementation of TroVE's selection mechanism, boosting TroVE's performance on MATH by 3\% in accuracy. After matching for compute, the benefit of TroVE reduces to a marginal improvement of 1\%, suggesting that this toolbox approach does not provide a significant benefit on MATH.
+
+重新使用既定的理论和公式是数学问题解决的核心,是应对日益复杂挑战的基本构件。最近的工作,Trove认为,代码生成的大型语言模型(LLMs)可以通过诱导和重新使用更高层次的工具箱,对MATH基准同样受益。通过在三种模式的组合中分配计算预算 -- -- 直接生成代码、创建工具和再使用工具 -- -- 将索赔要求的计算预算用于超越只进行直接生成的原始基准。然而,最近的分析(Berlot-Attwell等人,2024年)使人们对这些成果产生怀疑,指出所创建的工具往往微不足道或很少被再利用,这表明改进可能源于自我一致性或自我校正。在这项工作中,我们重新评价MATH的Trove,分析其每一种模式的影响,并表明其好处并非来自这些机制,而仅仅是用于TroVE的更高计算预算,与PriMITive相比,因此,我们也没有对这些成果进行小的修改,我们也没有在最初实施TROVE的精确度方法时进行微小的修改,因此建议MAVE的升级工具的改进。
+
+---
+
+## Article 1
+### Title@2025-07-31 (4): SequenceLayers: Sequence Processing and Streaming Neural Networks Made   Easy
+
+**Title**: SequenceLayers: Sequence Processing and Streaming Neural Networks Made   Easy | SequenzLayer: Sequenzverarbeitung und Streaming von Neuronalen Netzwerken leicht gemacht | 序列激光器:序列处理和串联神经网络变得容易 [2507.23292v1](http://arxiv.org/abs/2507.23292v1)
+
+**Authors** (11): RJ Skerry-Ryan, Julian Salazar, Soroosh Mariooryad, David Kao, Daisy Stanton, Eric Battenberg, Matt Shannon, Ron J. Weiss, Robin Scheibler, Jonas Rothfuss, Tom Bagby
+
+We introduce a neural network layer API and library for sequence modeling, designed for easy creation of sequence models that can be executed both layer-by-layer (e.g., teacher-forced training) and step-by-step (e.g., autoregressive sampling). To achieve this, layers define an explicit representation of their state over time (e.g., a Transformer KV cache, a convolution buffer, an RNN hidden state), and a step method that evolves that state, tested to give identical results to a stateless layer-wise invocation. This and other aspects of the SequenceLayers contract enables complex models to be immediately streamable, mitigates a wide range of common bugs arising in both streaming and parallel sequence processing, and can be implemented in any deep learning library. A composable and declarative API, along with a comprehensive suite of layers and combinators, streamlines the construction of production-scale models from simple streamable components while preserving strong correctness guarantees. Our current implementations of SequenceLayers (JAX, TensorFlow 2) are available at https://github.com/google/sequence-layers.
+
+为实现这一目标,我们引入了神经网络层 API 和 序列模型库, 目的是容易地创建可以逐层执行的序列模型( 教师强制培训) 和一步步执行的序列模型( 自动递减抽样 ) 。 为了实现这一点, 层界定了它们随着时间推移的状态的清晰描述( 例如变换器 KV 缓存、 混凝土缓冲、 隐藏的 RNN ) , 并引入一个步骤方法, 该步骤方法将状态化, 测试为给无国籍的分层性职业带来相同结果。 以及序列激光器合同的其他方面使复杂模型能够立即流动, 减轻在串流和平行序列处理中产生的广泛常见的错误, 并且可以在任何深层学习图书馆中实施。 一个可比较和具有宣示性的 API , 连同一个全面的层层和梳理器组合, 将生产规模模型的构建从简单可流成的组件简化, 同时又保持强烈的正确性保证。 我们目前实施的SquecesLayers ( JAX, TensorFlow 2) 可在 httpsrence.
+
+---
+
+## Article 2
+### Title@2025-07-31 (4): CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large   Language Models in Interactive Code Generation
+
+**Title**: CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large   Language Models in Interactive Code Generation | CodeIF-Bench: Bewertung von Instruction-Following-Fähigkeiten von großen Sprachmodellen in der interaktiven Codegenerierung | 守则-框架框架框架:评估互动代码生成中大语言模式的指令-遵守能力 [2503.22688v3](http://arxiv.org/abs/2503.22688v3)
+
+**Authors** (7): Peiding Wang, Li Zhang, Fang Liu, Lin Shi, Minxiao Li, Bo Shen, An Fu
+
+Large Language Models (LLMs) have demonstrated exceptional performance in code generation tasks and have become indispensable programming assistants for developers. However, existing code generation benchmarks primarily assess the functional correctness of code generated by LLMs in single-turn interactions. They offer limited insight into LLMs' abilities to generate code that strictly follows users' instructions in multi-turn interaction scenarios. In this paper, we introduce CodeIF-Bench, a benchmark for evaluating the instruction-following capabilities of LLMs in interactive code generation. Specifically, CodeIF-Bench incorporates nine types of verifiable instructions aligned with the real-world software development requirements, which can be independently and objectively validated through specified test cases, facilitating the evaluation of instruction-following capability in multi-turn interactions. In both \textit{Static Conversation} and \textit{Dynamic Conversation} settings, we evaluate the performance of 7 state-of-the-art LLMs and summarize the important factors influencing the instruction-following ability of LLMs in multi-turn interactions, as well as potential directions for improvement.
+
+大型语言模型(LLMS)在代码生成任务方面表现出色,成为开发者不可或缺的编程助理;然而,现有的代码生成基准主要评估LMS在单向互动中生成的代码的功能正确性,对LLMs生成的代码严格遵循多方向互动情景中用户指令的能力的洞察力有限;在本文中,我们引入了CodIF-Bench,这是评价LMS在互动代码生成中遵循指令的能力的基准;具体地说,CodIF-Bench包含九类与真实世界软件开发要求相一致的可核查指令,这些指令可以通过特定的测试案例独立和客观地验证,有助于评估多方向互动中遵循指令的能力。在“textit{Static conversation}和“textit{yncrict Conversation}环境中,我们评估了7个最先进的LMs的性能,总结影响LMs在多方向互动中遵循指令的能力以及可能的改进方向。
+
+---
+
+## Article 3
+### Title@2025-07-31 (4): Kernel-FFI: Transparent Foreign Function Interfaces for Interactive   Notebooks
+
+**Title**: Kernel-FFI: Transparent Foreign Function Interfaces for Interactive   Notebooks | Kernel-FFI: Transparente Fremdfunktionsschnittstellen für interaktive Notebooks | 核心-FFI:交互式笔记本的透明外国函数界面 [2507.23205v1](http://arxiv.org/abs/2507.23205v1)
+
+**Authors** (4): Hebi Li, Forrest Sheng Bao, Qi Xiao, Jin Tian
+
+Foreign Function Interfaces (FFIs) are essential for enabling interoperability between programming languages, yet existing FFI solutions are ill-suited for the dynamic, interactive workflows prevalent in modern notebook environments such as Jupyter. Current approaches require extensive manual configuration, introduce significant boilerplate, and often lack support for recursive calls and object-oriented programming (OOP) constructs-features critical for productive, multi-language development.   We present Kernel-FFI, a transparent, language-agnostic framework that enables seamless cross-language function calls and object manipulation within interactive notebooks. Kernel-FFI employs source-level transformation to automatically rewrite cross-language invocations, eliminating the need for manual bindings or boilerplate. Kernel-FFI provides robust support for OOP by enabling foreign object referencing and automatic resource management across language boundaries. Furthermore, to address the blocking nature of Jupyter kernels and support recursive and asynchronous foreign calls, we introduce a novel side-channel communication mechanism. Our tool will be open-sourced and available at https://codepod.io/docs/kernel-ffi
+
+外国功能界面(FFI)对于使编程语言之间实现互操作性至关重要,但现有的FFI解决方案不适合诸如Jupyter等现代笔记本环境中普遍存在的动态互动工作流程。目前的做法需要广泛的手工配置,引入重要的锅炉板,而且往往缺乏对循环调用和面向目标的编程(OOP)的支持,对于生产性、多语言的发展至关重要。我们介绍了一个透明、语言通晓的框架,即Kernel-FFI,这个框架可以使跨语言的调用和物体操作在互动笔记本中无缝无缝。Kernel-FFI使用源级转换自动重写跨语言职业,消除手动装订或锅炉的需要。Kernel-FFI为OOP提供了强有力的支持,它使外国物体的查找和自动资源管理跨越语言边界。此外,为了解决Jupyter内核的阻塞性质,支持重复和不同步的外国调用,我们引入了一个新型侧声道通讯机制。我们的工具将开放源,并可在https://coppodpod/kerkennel-nalevi/dols/dols/doskis/dalnial
+
+---
+
+## Article 4
+### Title@2025-07-31 (4): CodePod: A Language-Agnostic Hierarchical Scoping System for Interactive   Development
+
+**Title**: CodePod: A Language-Agnostic Hierarchical Scoping System for Interactive   Development | CodePod: Ein sprach-agnostisches Hierarchisches Scoping-System für interaktive Entwicklung | 代码pod:一个促进互动发展的语文、不可知的等级分级范围界定系统 [2301.02410v2](http://arxiv.org/abs/2301.02410v2)
+
+**Authors** (4): Hebi Li, Forrest Sheng Bao, Qi Xiao, Jin Tian
+
+Interactive development environments like Jupyter Notebooks enable incremental coding through cells with immediate feedback, but their linear structure and global namespace limit scalability for large software projects. We present CodePod, a hierarchical extension of Jupyter that introduces a novel scoped execution model with formal semantics. Our key contribution is a language-agnostic runtime system that performs source-level transformations to implement hierarchical scoping rules, enabling true incremental evaluation across nested modules without requiring language-specific kernel modifications. We formalize the scoping semantics as a mathematical framework with precise visibility relations and prove key properties including uniqueness of symbol resolution and correctness of the resolution algorithm. A qualitative user study with seven senior developers demonstrates that CodePod enables significant improvements in project scalability compared to Jupyter, with notable reductions in navigation effort. We validate the system's effectiveness on large-scale projects with thousands of lines of code, demonstrating its applicability beyond traditional notebook boundaries. Our tool is open-source and available at https://codepod.io
+
+互动发展环境,如Jupyter Notesbook等互动开发环境,能够通过立即反馈的单元格进行递增编码,但其线性结构和全球命名空间限制大型软件项目的可缩放性。我们介绍了CodePod,这是Jupyter的等级延伸,它引入了带有正式语义的新型范围执行模式。我们的主要贡献是一个语言-不可知的运行时间系统,它进行源级变换,以实施等级范围界定规则,使得能够对嵌套模块进行真正的递增评价,而不需要对语言特定的内核进行修改。我们正式将范围界定语义作为一个数学框架,具有精确的可见性关系,并证明关键特性,包括符号分辨率和分辨率算法的独特性。我们与7位高级开发商进行的一项定性用户研究显示,Cocolpod使得项目可缩放性与Jupyter相比有了显著的改进,导航工作也显著减少。我们验证了该系统在有数千行代码的大型项目上的有效性,表明其可超越传统的笔界线。我们的工具是开放源,可在https://codepodpodpod.io查阅。
+
+---
+
+## Article 5
+### Title@2025-07-31 (4): NaN-Propagation: A Novel Method for Sparsity Detection in Black-Box   Computational Functions
+
+**Title**: NaN-Propagation: A Novel Method for Sparsity Detection in Black-Box   Computational Functions | NaN-Propagation: Eine neuartige Methode zur Erkennung von Sparsität in Black-Box Computational Functions | NaN- propagation: 在黑箱计算函数中检测分数的新颖方法 [2507.23186v1](http://arxiv.org/abs/2507.23186v1)
+
+**Authors** (1): Peter Sharpe
+
+Sparsity detection in black-box functions enables significant computational speedups in gradient-based optimization through Jacobian compression, but existing finite-difference methods suffer from false negatives due to coincidental zero gradients. These false negatives can silently corrupt gradient calculations, leading to difficult-to-diagnose errors. We introduce NaN-propagation, which exploits the universal contamination property of IEEE 754 Not-a-Number floating-point values to trace input-output dependencies through floating-point numerical computations. By systematically contaminating inputs with NaN and observing which outputs become NaN, the method reconstructs conservative sparsity patterns that eliminate false negatives. We demonstrate the approach on an aerospace wing weight model, achieving a 1.52x speedup while detecting dozens of dependencies missed by conventional methods -- a significant improvement since gradient computation is the bottleneck in many optimization workflows. The technique leverages IEEE 754 compliance to work across programming languages and math libraries without modifying existing black-box codes. Advanced strategies including NaN payload encoding enable faster-than-linear time complexity, improving upon existing black-box sparsity detection methods. Practical algorithms are also proposed to mitigate challenges from branching code execution common in engineering applications.
+
+黑盒功能的分辨使通过 Jacobian 压缩,在基于梯度优化的精度优化中实现大量计算加速,但现有的有限差异方法由于时空零梯度而出现虚假的负差。这些虚假的负差可以静悄悄地腐蚀梯度计算,导致难以辨别错误。我们引入了NaN-propagation, 利用IEEE 754 Not-a- exple点值的普遍污染属性,通过浮动点数字计算,追踪输入-输出依赖性。通过系统污染与纳纳NN的输入,观察产出成为纳NNN,该方法重建了消除虚假负差的保守的松散模式。我们展示了在航空航天翼重量模型上采用的方法,实现了1.52x的加速,同时检测了被传统方法忽略的数十种依赖性 -- -- 这是一大进步,因为梯度计算是许多优化工作流程中的瓶颈。 技术将IEEEEEE- 754在不修改现有黑箱代码的情况下,使所有方案库库库库库的合规性工作得以遵守。 包括纳N 有效编码编码能够更快地实现超线时间的复杂程度,同时改进了现有的黑箱操作。
+
+---
+
+## Article 6
+### Title@2025-07-30 (3): Abstractions of Sequences, Functions and Operators
+
+**Title**: Abstractions of Sequences, Functions and Operators | Abstraktionen von Sequenzen, Funktionen und Operatoren | 序列、函数和运算符的抽象体 [2507.23151v1](http://arxiv.org/abs/2507.23151v1)
+
+**Authors** (3): Louis Rustenholz, Pedro Lopez-Garcia, Manuel V. Hermenegildo
+
+We present theoretical and practical results on the order theory of lattices of functions, focusing on Galois connections that abstract (sets of) functions - a topic known as higher-order abstract interpretation.   We are motivated by the challenge of inferring closed-form bounds on functions which are defined recursively, i.e. as the fixed point of an operator or, equivalently, as the solution to a functional equation. This has multiple applications in program analysis (e.g. cost analysis, loop acceleration, declarative language analysis) and in hybrid systems governed by differential equations.   Our main contribution is a new family of constraint-based abstract domains for abstracting numerical functions, B-bound domains, which abstract a function f by a conjunction of bounds from a preselected set of boundary functions. They allow inferring highly non-linear numerical invariants, which classical numerical abstract domains struggle with. We uncover a convexity property in the constraint space that simplifies, and, in some cases, fully automates, transfer function design.   We also introduce domain abstraction, a functor that lifts arbitrary mappings in value space to Galois connections in function space. This supports abstraction from symbolic to numerical functions (i.e. size abstraction), and enables dimensionality reduction of equations.   We base our constructions of transfer functions on a simple operator language, starting with sequences, and extending to more general functions, including multivariate, piecewise, and non-discrete domains.
+
+我们展示了功能阶梯的顺序理论的理论和实际结果, 重点是抽象( 一组) 函数的Galois 连接, 抽象( 一组) 函数的抽象( 一组) 抽象( 一组) 的抽象( 一组) 抽象的抽象解释。 我们的主要贡献是一个挑战, 是对循环定义的函数, 即作为操作者的固定点, 或作为功能等式的解决方案, 来推断封闭式的界限。 这在程序分析( 成本分析、 循环加速、 宣告性语言分析) 和由差异方程式管理的混合系统中具有多种应用。 我们的主要贡献是, 一个基于约束性的抽象域的新组合, 一个基于约束性的抽象的抽象域, B带域, 由预选的一组边界函数组合来推断封闭的封闭式矩阵。 这些函数可以推断出高度非线形的数值变量, 与典型数字抽象域相对应。 我们发现一个制约空间的连接空间的连接性属性, 在某些情况下, 完全自动化的功能设计。 我们还引入了域抽象, 一个基于非约束性的非约束性的抽象的抽象的抽象的抽象的抽象域域, 将开始在抽象空间空间的任意绘制, 和抽象的模型的模型的大小中, , , 支持着我们的数学的矩阵的模型的矩阵的矩阵的矩阵的构造的矩阵的矩阵的矩阵的大小, 。
+
+---
+
+## Article 7
+### Title@2025-07-30 (3): Place Capability Graphs: A General-Purpose Model of Rust's Ownership and   Borrowing Guarantees
+
+**Title**: Place Capability Graphs: A General-Purpose Model of Rust's Ownership and   Borrowing Guarantees | Ortsfähigkeitsdiagramme: Ein allgemein angelegtes Modell der Rust-Eigentums- und Leihgarantien | 所在地能力图:混乱所有权和借款担保的一般目的模型 [2503.21691v3](http://arxiv.org/abs/2503.21691v3)
+
+**Authors** (7): Zachary Grannan, Aurel Bílý, Jonáš Fiala, Jasper Geer, Markus de Medeiros, Peter Müller, Alexander J. Summers
+
+Rust's novel type system has proved an attractive target for verification and program analysis tools, due to the rich guarantees it provides for controlling aliasing and mutability. However, fully understanding, extracting and exploiting these guarantees is subtle and challenging: existing models for Rust's type checking either support a smaller idealised language disconnected from real-world Rust code, or come with severe limitations in terms of precise modelling of Rust borrows, composite types storing them, function signatures and loops.   In this paper, we present a novel model of Rust's type-checking called Place Capability Graphs, which lifts these limitations, and which can be directly calculated from the Rust compiler's own programmatic representations and analyses. We demonstrate that our model supports over 97% of Rust functions in the most popular public crates, and show its suitability as a general-purpose basis for verification and program analysis tools by developing promising new prototype versions of the existing Flowistry and Prusti tools.
+
+鲁斯特的新类型系统被证明是核查和程序分析工具的一个有吸引力的目标,因为它为控制别名和易变性提供了丰富的保障。然而,完全理解、提取和利用这些保障是微妙而具有挑战性的:鲁斯特的现有类型检查模式要么支持一种与现实世界的鲁斯特代码脱钩的较小理想化语言,要么在精确模拟鲁斯特借款、复合类型储存这些借款、功能特征和循环方面受到严重限制。在本文中,我们提出了一个名为“地方能力图”的罗斯特类型检查的新模式,它解除了这些限制,并且可以直接从鲁斯特汇编者自己的方案表述和分析中计算出来。我们证明,我们的模型支持了97%以上的最受欢迎的公用纸箱中的鲁斯特功能,并通过开发有希望的新版本的现有花流和普鲁斯蒂工具,表明它是否适合作为核查和程序分析工具的通用基础。
+
+---
+
+## Article 8
+### Title@2025-07-30 (3): The Algebra of Patterns (Extended Version)
+
+**Title**: The Algebra of Patterns (Extended Version) | Die Algebra der Muster (erweiterte Version) | 模式代数(扩展版本) [2504.18920v2](http://arxiv.org/abs/2504.18920v2)
+
+**Authors** (2): David Binder, Lean Ermantraut
+
+Pattern matching is a popular feature in functional, imperative and object-oriented programming languages. Language designers should therefore invest effort in a good design for pattern matching. Most languages choose a first-match semantics for pattern matching; that is, clauses are tried in the order in which they appear in the program until the first one matches. As a consequence, the order in which the clauses appear cannot be arbitrarily changed, which results in a less declarative programming model. The declarative alternative to this is an order-independent semantics for pattern matching, which is not implemented in most programming languages since it requires more verbose patterns. The reason for this verbosity is that the syntax of patterns is usually not expressive enough to express the complement of a pattern. In this paper, we show a principled way to make order-independent pattern matching practical. Our solution consists of two parts: First, we introduce a boolean algebra of patterns which can express the complement of a pattern. Second, we introduce default clauses to pattern matches. These default clauses capture the essential idea of a fallthrough case without sacrificing the property of order-independence.
+
+模式匹配是功能性、必要性和面向目标的编程语言中流行的特征。 因此,语言设计师应该投入精力,为模式匹配设计好。 多数语言应该为模式匹配选择一种最先匹配的语义; 也就是说, 条款按在程序中出现的顺序试行, 直到第一次匹配。 因此, 条款的出现顺序不能任意改变, 从而导致一个不太宣示性编程模式。 与此不同的宣示性选项是模式匹配的自定语义, 多数编程语言没有实施, 因为它需要更多动词模式。 这种动词的理由是, 模式的拼写通常不足以表达出一个模式的补全。 在本文中, 我们展示了一种原则性的方式, 使独立模式匹配实用。 我们的解决方案包括两个部分: 首先, 我们引入一个布列恩代数模式, 可以表达模式的补充。 其次, 我们引入默认条款来匹配模式。 这些默认条款可以捕捉一个失败案例的基本想法, 但不牺牲秩序独立的属性 。
+
+---
+
+## Article 9
+### Title@2025-07-30 (3): Floating-Point Neural Networks Are Provably Robust Universal   Approximators
+
+**Title**: Floating-Point Neural Networks Are Provably Robust Universal   Approximators | Floating-Point-Neural-Netzwerke sind wahrscheinlich robuste Universal-Annäherung | 浮动点神经网络具有可可预见强健的通用通用近似器 [2506.16065v2](http://arxiv.org/abs/2506.16065v2)
+
+**Authors** (5): Geonho Hwang, Wonyeol Lee, Yeachan Park, Sejun Park, Feras Saad
+
+The classical universal approximation (UA) theorem for neural networks establishes mild conditions under which a feedforward neural network can approximate a continuous function $f$ with arbitrary accuracy. A recent result shows that neural networks also enjoy a more general interval universal approximation (IUA) theorem, in the sense that the abstract interpretation semantics of the network using the interval domain can approximate the direct image map of $f$ (i.e., the result of applying $f$ to a set of inputs) with arbitrary accuracy. These theorems, however, rest on the unrealistic assumption that the neural network computes over infinitely precise real numbers, whereas their software implementations in practice compute over finite-precision floating-point numbers. An open question is whether the IUA theorem still holds in the floating-point setting.   This paper introduces the first IUA theorem for floating-point neural networks that proves their remarkable ability to perfectly capture the direct image map of any rounded target function $f$, showing no limits exist on their expressiveness. Our IUA theorem in the floating-point setting exhibits material differences from the real-valued setting, which reflects the fundamental distinctions between these two computational models. This theorem also implies surprising corollaries, which include (i) the existence of provably robust floating-point neural networks; and (ii) the computational completeness of the class of straight-line programs that use only floating-point additions and multiplications for the class of all floating-point programs that halt.
+
+古典通用近似( UA) 神经网络的古典通用近似( UA) 理论建立了温和的条件, 进料神经网络可以在这种条件下任意精确地估计一个连续功能$f美元。 最近的结果显示,神经网络也享有更普遍的间隙通用近近近( IUA) 理论, 也就是说, 使用间域网络的抽象解释语解可以任意精确地接近美元直接图像地图( 即对一组输入应用$f美元的结果 ) 。 然而, 这些理论依据的假设是不切实际的, 神经网络可以对无限精确的多数值进行计算, 而它们在实践中的软件执行则对有限精准浮点浮点数字进行计算。 一个公开的问题就是, 使用间距网的抽象解释语解, 浮点神经网络的第一个IUA理论, 证明其完全能够精确地捕捉到任何圆形目标的直成像图, 美元, 显示其清晰度是没有限制的。 我们的IUA理论网络在实践中的软件执行过程对有限, 相对于有限, 有限地, 浮点的计算, 浮点模型的精确的计算, 也反映了这些浮点 和 水平 的 的模型的精确值 的 , , 和 的 的 的 , 的 代表了这些 的 的 和 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 和 的 的 的 的 的 的 的 的 的 的 和 的 的 的 的 的 的 的 的 的 的 的 的 和 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的
+
+---
+
+## Article 10
+### Title@2025-07-29 (2): Composable Effect Handling for Programming LLM-integrated Scripts
+
+**Title**: Composable Effect Handling for Programming LLM-integrated Scripts | Composable Effect Handling für die Programmierung von LLM-integrierten Skripten | 程序编程 LLM 集成脚本的可集成效果处理 [2507.22048v1](http://arxiv.org/abs/2507.22048v1)
+
+**Authors** (1): Di Wang
+
+Implementing LLM-integrated scripts introduces challenges in modularity and performance, as scripts are often coupled to specific LLM implementations and fail to exploit parallelization opportunities. This paper proposes using composable effect handling to separate workflow logic from effectful operations, such as LLM calls, I/O, and concurrency, enabling modularity without sacrificing the opportunity for performance optimization. By treating these operations as abstract interfaces and discharging them via effect handlers, this paper shows that scripts can achieve significant speedups (e.g., 10$\times$ in a Tree-of-Thoughts case study) without compromising modularity. This paper aims to promote composable effect handling as a programming style for LLM scripting.
+
+实施LLM综合脚本在模块化和性能方面提出了挑战,因为脚本往往与具体的LLM实施相配合,无法利用平行机会。本文建议使用可变效果处理法将工作流程逻辑与实际操作(例如LLM电话、I/O电话和conconpoly等)分开,使模块化不牺牲优化业绩的机会。本文将这些操作视为抽象界面,并通过效果处理器将其释放,表明脚本可以在不影响模块化的情况下实现显著的超速(例如,在Trean-of-houghts案例研究中,10美元/times $ ) 。本文旨在促进可变效果处理作为LLM脚本的编程风格。
+
+---
+
+## Article 11
+### Title@2025-07-29 (2): Rule-Based Graph Programs Matching the Time Complexity of Imperative   Algorithms
+
+**Title**: Rule-Based Graph Programs Matching the Time Complexity of Imperative   Algorithms | Regelbasierte Grafikprogramme, die der Zeitkomplexität imperativer Algorithmen entsprechen | 基于规则的图表程序,与规定性算法的复杂时间相匹配 [2501.09144v2](http://arxiv.org/abs/2501.09144v2)
+
+**Authors** (2): Ziad Ismaili Alaoui, Detlef Plump
+
+We report on recent advances in rule-based graph programming, which allow us to match the time complexity of some fundamental imperative graph algorithms. In general, achieving the time complexity of graph algorithms implemented in conventional languages using a rule-based graph-transformation language is challenging due to the cost of graph matching. Previous work demonstrated that with rooted rules, certain algorithms can be implemented in the graph programming language GP 2 such that their runtime matches the time complexity of imperative implementations. However, this required input graphs to have a bounded node degree and (for some algorithms) to be connected. In this paper, we overcome these limitations by enhancing the graph data structure generated by the GP 2 compiler and exploiting the new structure in programs. We present three case studies: the first program checks whether input graphs are connected, the second program checks whether input graphs are acyclic, and the third program solves the single-source shortest-paths problem for graphs with integer edge-weights. The first two programs run in linear time on (possibly disconnected) input graphs with arbitrary node degrees. The third program runs in time $O(nm)$ on arbitrary input graphs, matching the time complexity of imperative implementations of the Bellman-Ford algorithm. For each program, we formally prove its correctness and time complexity, and provide runtime experiments on various graph classes.
+
+我们报告基于规则的图形程序的最新进展,这使我们能够匹配某些基本必要图形算法的时间复杂性。 一般来说, 使用基于规则的图形转换语言在常规语言中实施图表算法的时间复杂性由于图形匹配的成本而具有挑战性。 先前的工作表明, 某些算法可以在基于规则的图形程序语言 GP 2 中实施, 这样它们的运行时间可以与执行强制要求的时间复杂性相匹配。 但是, 这需要输入图形具有一个约束节点度和( 某些算法) 的连接。 在本文中, 我们克服了这些局限性, 加强了GP 2 编译器生成的图形数据结构, 并利用了程序中的新结构。 我们提出了三个案例研究: 第一个程序检查输入图是否连接, 第二个程序检查输入图是否是循环的,第三个程序解决了使用纯度边缘重量的图形的单一源最短路径问题。 头两个程序以直线时间运行( 可能断开的) 输入图表以任意的节点度为直线时间运行两个程序。 第三个程序在时间里( ) 需要的时间里, 要求的精度的精确度和精确性图表中, 。
+
+---
+
+## Article 12
+### Title@2025-07-29 (2): Fixed-Point-Oriented Programming: A Concise and Elegant Paradigm
+
+**Title**: Fixed-Point-Oriented Programming: A Concise and Elegant Paradigm | Fixed-Point-Oriented Programmierung: Ein konzises und elegantes Paradigm | 以固定点为主的方案拟订:一个简洁和优优雅的范例 [2507.21439v1](http://arxiv.org/abs/2507.21439v1)
+
+**Authors** (3): Yong Qi Foo, Brian Sze-Kai Cheong, Michael D. Adams
+
+Fixed-Point-Oriented Programming (FPOP) is an emerging paradigm designed to streamline the implementation of problems involving self-referential computations. These include graph algorithms, static analysis, parsing, and distributed computing-domains that traditionally require complex and tricky-to-implement work-queue algorithms. Existing programming paradigms lack direct support for these inherently fixed-point computations, leading to inefficient and error-prone implementations.   This white paper explores the potential of the FPOP paradigm, which offers a high-level abstraction that enables concise and expressive problem formulations. By leveraging structured inference rules and user-directed optimizations, FPOP allows developers to write declarative specifications while the compiler ensures efficient execution. It not only reduces implementation complexity for programmers but also enhances adaptability, making it easier for programmers to explore alternative solutions and optimizations without modifying the core logic of their program.   We demonstrate how FPOP simplifies algorithm implementation, improves maintainability, and enables rapid prototyping by allowing problems to be clearly and concisely expressed. For example, the graph distance problem can be expressed in only two executable lines of code with FPOP, while it takes an order of magnitude more code in other paradigms. By bridging the gap between theoretical fixed-point formulations and practical implementations, we aim to foster further research and adoption of this paradigm.
+
+固定点-方向-编程(PFOP)是一个新兴的范例,旨在简化实施涉及自选计算的问题,包括图表算法、静态分析、分解和分布式计算域,传统上需要复杂和难于执行的工作-队格算法。现有的编程范式缺乏对这些固有的固定点计算的直接支持,导致效率低下和容易出错的操作。白皮书探讨了FPOP模式的潜力,它提供了高层次的抽象化,使得能够简明和直白地提出问题。通过利用结构化推论规则和用户引导的优化,FPOP允许开发者撰写宣示性规格,而汇编者则确保有效执行。它不仅降低程序员执行的复杂性,而且增强适应性,使编程者在不修改其程序的核心逻辑的情况下更容易探索替代的解决办法和优化。我们展示了FPOP模式如何简化算法的实施,改进了可维持性,通过允许明确和简明地表达问题来迅速进行编程。例如,通过清晰和简明的推理,可以将图表距离问题写成声明性说明性规格的规格问题在两种可操作性模式型号中表达。我们只能以更精确地标定的版本式式格式化的思路,同时在理论型式型式型式型式-级之间,用更精确地标定型号的排列的顺序进行。
+
+---
+
+## Article 13
+### Title@2025-07-28 (1): One Weird Trick to Untie Landin's Knot
+
+**Title**: One Weird Trick to Untie Landin's Knot | Ein seltsamer Trick, Landins Knoten zu lösen | 给安蒂·兰丁的拳一个诡异的诡计 [2507.21317v1](http://arxiv.org/abs/2507.21317v1)
+
+**Authors** (2): Paulette Koronkevich, William J. Bowman
+
+In this work, we explore Landin's Knot, which is understood as a pattern for encoding general recursion, including non-termination, that is possible after adding higher-order references to an otherwise terminating language. We observe that this isn't always true -- higher-order references, by themselves, don't lead to non-termination. The key insight is that Landin's Knot relies not primarily on references storing functions, but on unrestricted quantification over a function's environment. We show this through a closure converted language, in which the function's environment is made explicit and hides the type of the environment through impredicative quantification. Once references are added, this impredicative quantification can be exploited to encode recursion. We conjecture that by restricting the quantification over the environment, higher-order references can be safely added to terminating languages, without resorting to more complex type systems such as linearity, and without restricting references from storing functions.
+
+在这项工作中,我们探索Landin's Knot, 它被理解为一种编码一般递归的模式, 包括非终止, 在添加以其他终止语言的更高顺序引用之后, 这是可能的。 我们观察到这并不总是真实的 -- 较高顺序引用本身不会导致非终止。 关键的观点是 Landin's Knot 不主要依赖参考存储功能, 而是依赖对函数环境的无限制量化。 我们通过关闭转换语言来显示这一点, 在这种语言中, 函数的环境是明确的, 并通过临时量化来隐藏环境的类型 。 一旦添加了引用, 这种推定的量化可以用来编码递归。 我们推测, 通过限制对环境的量化, 更高顺序引用可以安全地添加到终止语言上, 而不诉诸更复杂的类型系统, 如线性, 并且不限制存储功能的引用 。
+
+---
+
+## Article 14
+### Title@2025-07-28 (1): TypyBench: Evaluating LLM Type Inference for Untyped Python Repositories
+
+**Title**: TypyBench: Evaluating LLM Type Inference for Untyped Python Repositories | TypyBench: Bewertung der LLM-Typ-Schlussfolgerung für nicht typisierte Python-Repositories | TypyBench: 评估非型式 Python 仓库的 LLM 类型推理 [2507.22086v1](http://arxiv.org/abs/2507.22086v1)
+
+**Authors** (7): Honghua Dong, Jiacheng Yang, Xun Deng, Yuhe Jiang, Gennady Pekhimenko, Fan Long, Xujie Si
+
+Type inference for dynamic languages like Python is a persistent challenge in software engineering. While large language models (LLMs) have shown promise in code understanding, their type inference capabilities remain underexplored. We introduce TypyBench, a benchmark designed to evaluate LLMs' type inference across entire Python repositories. TypyBench features two novel metrics: TypeSim, which captures nuanced semantic relationships between predicted and ground truth types, and TypeCheck, which assesses type consistency across codebases. Our evaluation of various LLMs on a curated dataset of 50 high-quality Python repositories reveals that, although LLMs achieve decent TypeSim scores, they struggle with complex nested types and exhibit significant type consistency errors. These findings suggest that future research should shift focus from improving type similarity to addressing repository-level consistency. TypyBench provides a foundation for this new direction, offering insights into model performance across different type complexities and usage contexts. Our code and data are available at https://github.com/typybench/typybench.
+
+Python 等动态语言的类型推断是软件工程的一个长期挑战。大型语言模型(LLMs)在代码理解方面表现出希望,但其类型推断能力仍然未得到充分探索。我们引入了TypyBench,这是用来评估整个Python 库中LLMs类型推断的基准。TypyBench 有两个新的指标:TypeSim,它捕捉了预测和地面真实类型之间的细微语义关系,TypeBench,它评估了各代码库之间的类型一致性。我们对50个高品质Python 库集成数据集的各种LLMs的评估显示,虽然LLMs取得了体面的Sim 类型评分,但它们与复杂的嵌套类型争斗,并显示出明显的类型一致性错误。这些研究结果表明,未来的研究的重点应该从改进类型相似性转向处理存储库层面的一致性。TypyBench为这一新方向提供了一个基础,为不同类型复杂和使用背景的模型性表现提供了深入的见解。我们的代码和数据可在https://github.com/typench/typybench/tybench。
+
+---
+
+## Article 15
+### Title@2025-07-28 (1): LLM-Based Repair of Static Nullability Errors
+
+**Title**: LLM-Based Repair of Static Nullability Errors | LLM-basierte Reparatur von statischen Nullierbarkeitsfehlern | LLM -- -- 基于LLM的静态误差修复 [2507.20674v1](http://arxiv.org/abs/2507.20674v1)
+
+**Authors** (4): Nima Karimipour, Michael Pradel, Martin Kellogg, Manu Sridharan
+
+Modern Java projects increasingly adopt static analysis tools that prevent null-pointer exceptions by treating nullness as a type property. However, integrating such tools into large, existing codebases remains a significant challenge. While annotation inference can eliminate many errors automatically, a subset of residual errors -- typically a mix of real bugs and false positives -- often persist and can only be resolved via code changes. Manually addressing these errors is tedious and error-prone. Large language models (LLMs) offer a promising path toward automating these repairs, but naively-prompted LLMs often generate incorrect, contextually-inappropriate edits. Resolving a nullability error demands a deep understanding of how a symbol is used across the codebase, often spanning methods, classes, and packages. We present NullRepair, a system that integrates LLMs into a structured workflow for resolving the errors from a nullability checker. NullRepair's decision process follows a flowchart derived from manual analysis of 200 real-world errors. It leverages static analysis to identify safe and unsafe usage regions of symbols, using error-free usage examples to contextualize model prompts. Patches are generated through an iterative interaction with the LLM that incorporates project-wide context and decision logic. Our evaluation on 12 real-world Java projects shows that NullRepair resolves an average of 72% of the errors that remain after applying a state-of-the-art annotation inference technique. Unlike a naively-prompted LLM, NullRepair also largely preserves program semantics, with all unit tests passing in 10/12 projects after applying every edit proposed by NullRepair, and 98% or more tests passing in the remaining two projects.
+
+现代爪哇项目越来越多地采用静态分析工具,通过将无效性视为一种类型属性来防止无效性例外。然而,将此类工具整合到大型的属性中,现有的代码库仍是一个重大挑战。虽然批注推算可以自动消除许多错误,但一系列残余错误 -- -- 通常是由真正错误和虚假正反相混合而成 -- -- 往往会持续,并且只能通过代码修改来解决。手工处理这些错误是乏味和易出错的。大型语言模型(LLLMs)为这些修复自动化提供了一条充满希望的道路,但天真的LMs经常产生不正确、背景不适当的编辑。解决一个无效性错误错误错误错误错误错误的错误错误错误错误错误,现有的代码库仍然是一个巨大的挑战。尽管要解决一个符号如何在代码库中使用,但一个通常跨越方法、类别和包的子串联。我们介绍一个系统,将LMSLM纳入一个结构性的流程。Nell RellRepair的流程进程遵循一个流程图案图案,通过一个不误算法的模型,在正常的版本中将一个不误判。
+
+---
+
+## Article 16
+### Title@2025-07-28 (1): Program Analysis for High-Value Smart Contract Vulnerabilities:   Techniques and Insights
+
+**Title**: Program Analysis for High-Value Smart Contract Vulnerabilities:   Techniques and Insights | Programmanalyse für hochwertige Smart Contract Vulnerabilitys: Techniken und Erkenntnisse | 高价值智能合同脆弱性方案分析:技术和洞察 [2507.20672v1](http://arxiv.org/abs/2507.20672v1)
+
+**Authors** (7): Yannis Smaragdakis, Neville Grech, Sifis Lagouvardos, Konstantinos Triantafyllou, Ilias Tsatiris, Yannis Bollanos, Tony Rocco Valentine
+
+A widespread belief in the blockchain security community is that automated techniques are only good for detecting shallow bugs, typically of small value. In this paper, we present the techniques and insights that have led us to repeatable success in automatically discovering high-value smart contract vulnerabilities. Our vulnerability disclosures have yielded 10 bug bounties, for a total of over $3M, over high-profile deployed code, as well as hundreds of bugs detected in pre-deployment or under-audit code.   We argue that the elements of this surprising success are a) a very high-completeness static analysis approach that manages to maintain acceptable precision; b) domain knowledge, provided by experts or captured via statistical inference. We present novel techniques for automatically inferring domain knowledge from statistical analysis of a large corpus of deployed contracts, as well as discuss insights on the ideal precision and warning rate of a promising vulnerability detector. In contrast to academic literature in program analysis, which routinely expects false-positive rates below 50% for publishable results, we posit that a useful analysis for high-value real-world vulnerabilities will likely flag very few programs (under 1%) and will do so with a high false-positive rate (e.g., 95%, meaning that only one-of-twenty human inspections will yield an exploitable vulnerability).
+
+链链安全界的普遍信念是,自动化技术只是用来探测浅虫的好方法,通常价值很小。在本文中,我们展示了导致我们在自动发现高价值智能合同脆弱性方面再次取得成功的技术和洞察力。我们的脆弱性披露产生了10个错误元,总共超过3M美元,超过高知名度部署的代码,以及成百上千个在部署前或审计不足的代码中发现的错误。我们争辩说,这一惊人成功的要素是:(a) 一种非常完整的静态分析方法,能够维持可接受的精确度;(b) 由专家提供或通过统计推断获得的域知识。我们介绍了从大量部署合同的统计分析中自动推断域知识的新技术,并讨论了关于有希望的脆弱性探测器的理想精确度和警告率的洞察力。与方案分析中的学术文献通常期望在50%以下的假阳率为可公布的结果,我们假设,对高价值真实世界脆弱性的有用分析将显示很少的程序(低于1 %),而且只能显示高价值的实际脆弱性率。我们提出的是,95 %的人类增长率。
+
+---
+
+## Article 17
+### Title@2025-07-27 (7): Semantics of Sets of Programs
+
+**Title**: Semantics of Sets of Programs | Semantik von Sets von Programmen | 一组程序的语义 [2410.16102v2](http://arxiv.org/abs/2410.16102v2)
+
+**Authors** (4): Jinwoo Kim, Shaan Nagy, Thomas Reps, Loris D'Antoni
+
+Applications like program synthesis sometimes require proving that a property holds for all of the infinitely many programs described by a grammar - i.e., an inductively defined set of programs. Current verification frameworks overapproximate programs' behavior when sets of programs contain loops, including two Hoare-style logics that fail to be relatively complete when loops are allowed. In this work, we prove that compositionally verifying simple properties for infinite sets of programs requires tracking distinct program behaviors over unboundedly many executions. Tracking this information is both necessary and sufficient for verification. We prove this fact in a general, reusable theory of denotational semantics that can model the expressivity and compositionality of verification techniques over infinite sets of programs. We construct the minimal compositional semantics that captures simple properties of sets of programs and use it to derive the first sound and relatively complete Hoare-style logic for infinite sets of programs. Thus, our methods can be used to design minimally complex, compositional verification techniques for sets of programs.
+
+程序合成等应用有时需要证明语法描述的所有无限许多程序都有属性, 也就是说, 一种自定义的一套程序。 当程序组包含环状时, 当前的核查框架超过程序组的近似行为, 包括两个Hoare式逻辑, 当允许环状时这些逻辑不能相对完整。 在这项工作中, 我们证明对无限程序组的简单特性进行组成核查, 需要跟踪无限制的众多处决中不同的程序行为。 跟踪这些信息既必要, 也足以进行核实。 我们用一个一般的、 可重复使用的解记性语义理论来证明这一事实, 可以模拟核查技术对无限程序组的表达性和构成性。 我们构建了最起码的构成性语义, 捕捉到程序组的简单特性, 并用它来为无限程序组的首个声音组和相对完整的Hoare式逻辑组。 因此, 我们的方法可以用来设计一套程序组的简单、 复杂、 构成性的核查技术。
+
+---
+
+## Article 18
+### Title@2025-07-27 (7): DisQ: A Model of Distributed Quantum Processors
+
+**Title**: DisQ: A Model of Distributed Quantum Processors | DisQ: Ein Modell von verteilten Quantenprozessoren | 分布Q:分布量量处理器模型 [2407.09710v4](http://arxiv.org/abs/2407.09710v4)
+
+**Authors** (6): Le Chang, Saitej Yavvari, Rance Cleaveland, Samik Basu, Runzhou Tao, Liyi Li
+
+The next generation of distributed quantum processors combines single-location quantum computing and quantum networking techniques to permit large entangled qubit groups to be established through remote processors, and quantum algorithms can be executed distributively. We present DisQ, as the first formal model of distributed quantum processors, and permit the analysis of distributed quantum programs in the new computation environment. The core of DisQ is a distributed quantum programming language that combines the concepts of Chemical Abstract Machine (CHAM) and Markov Decision Processes (MDP) with the objective of providing clearly distinguishing quantum concurrent and distributed behaviors. Based on the DisQ language, we develop a simulation relation, based on classical simulation infrastructure, to check the equivalence of a quantum algorithm and its distributed versions so that users can develop the distributed version of a sequential quantum program via a simulation check.
+
+下一代分布式量子处理器将单位量子计算和量子联网技术结合起来,以便通过远程处理器建立大型缠住的qubit组,而量子算法可以进行分配。我们提出DisQ,作为分布式量子处理器的第一个正式模型,并允许在新的计算环境中分析分布式量子程序。DisQ的核心是一种分布式量子编程语言,将化学抽象机(CHAM)和Markov决定程序(MDP)的概念结合起来,目的是提供明确的区分量子并存和分布式的行为。根据DisQ语言,我们发展一种模拟关系,以经典模拟基础设施为基础,检查量子算法及其分布式的等同性,以便用户可以通过模拟检查开发分布式连续量子程序。
+
+---
+
+## Article 19
+### Title@2025-07-27 (7): The Power of Negation in Higher-Order Datalog
+
+**Title**: The Power of Negation in Higher-Order Datalog | Die Macht der Negation im Datalog höherer Ordnung | 高等级数据中偏差的力量 [2507.20251v1](http://arxiv.org/abs/2507.20251v1)
+
+**Authors** (4): Angelos Charalambidis, Babis Kostopoulos, Christos Nomikos, Panos Rondogiannis
+
+We investigate the expressive power of Higher-Order Datalog$^\neg$ under both the well-founded and the stable model semantics, establishing tight connections with complexity classes. We prove that under the well-founded semantics, for all $k\geq 1$, $(k+1)$-Order Datalog$^\neg$ captures k-EXP, a result that holds without explicit ordering of the input database. The proof of this fact can be performed either by using the powerful existential predicate variables of the language or by using partially applied relations and relation enumeration. Furthermore, we demonstrate that this expressive power is retained within a stratified fragment of the language. Under the stable model semantics, we show that $(k+1)$-Order Datalog$^\neg$ captures co-(k-NEXP) using cautious reasoning and k-NEXP using brave reasoning, again with analogous results for the stratified fragment augmented with choice rules. Our results establish a hierarchy of expressive power, highlighting an interesting trade-off between order and non-determinism in the context of higher-order logic programming: increasing the order of programs under the well-founded semantics can surpass the expressive power of lower-order programs under the stable model semantics.
+
+我们根据有根据和稳定的模型语义学,调查高奥数据元元元的表达力,在有根据和稳定的模型语义学中,建立与复杂等级的紧密联系。我们证明,在有根据的语义学中,所有$k\geq 1美元,$(k+1)$-Order Datalog$neg$(Order Datalog$美元)捕捉 k-EXP,这一结果在没有明确命令输入数据库的情况下存在。这个事实的证明可以通过使用语言的强大存在前端变量或通过使用部分应用的关系和关系查点来进行。此外,我们证明,这种表达力保留在语言的分层中。在稳定的语义学模型中,我们证明$(k+1)$-Order Datalog$neg$(Order Datag$)是使用谨慎的推理和k-NEXP(k-NEXP)来捕捉取 Co-(k-NEXP),而没有明确命令输入数据库的碎片的类似结果可以由选择规则加以补充。我们的结果确立了表达力的等级力量的等级分级的等级分级,我们的结果可以确立一种分级,突出的顺序和分级的分级的分级的分级,突出的分级的分级的分级的分级的分级的分级程序可以增加在较级的分级的分级的分级的分级程序下的分级程序。
+
+---
+
+## Article 20
+### Title@2025-07-26 (6): Development and Evaluation of Adaptive LearningSupport System Based on   Ontology of MultipleProgramming Languages
+
+**Title**: Development and Evaluation of Adaptive LearningSupport System Based on   Ontology of MultipleProgramming Languages | Entwicklung und Evaluierung eines adaptiven Lernunterstützungssystems auf der Grundlage der Ontologie mehrerer Programmiersprachen | 基于多方案语言本体学的适应性学习支持系统开发和评价 [2507.19728v1](http://arxiv.org/abs/2507.19728v1)
+
+**Authors** (3): Lalita Na Nongkhai, Jingyun Wang, Takahiko Mendori
+
+This paper introduces an ontology-based approach within an adaptive learning support system for computer programming. This system (named ADVENTURE) is designed to deliver personalized programming exercises that are tailored to individual learners' skill levels. ADVENTURE utilizes an ontology, named CONTINUOUS, which encompasses common concepts across multiple programming languages. The system leverages this ontology not only to visualize programming concepts but also to provide hints during practice programming exercises and recommend subsequent programming concepts. The adaptive mechanism is driven by the Elo Rating System, applied in an educational context to dynamically estimate the most appropriate exercise difficulty for each learner. An experimental study compared two instructional modes, adaptive and random, based on six features derived from 1,186 code submissions across all the experimental groups. The results indicate significant differences in four of six analyzed features between these two modes. Notably, the adaptive mode demonstrates a significant difference over the random mode in two features, the submission of correct answers and the number of pass concepts. Therefore, these results underscore that this adaptive learning support system may support learners in practicing programming exercises.
+
+本文在计算机编程的适应性学习支持系统中引入了基于本体学的方法。这个系统(名为ADVENTURE)旨在提供适合个别学习者技能水平的个人化编程练习。ADVENTURE使用名为CONTIONUS的本体学,它包含多种编程语言的共同概念。这个系统不仅利用本体学来直观地描述编程概念,而且还在实际的编程练习中提供提示,并建议随后的编程概念。适应性机制由Elo分级系统驱动,用于教育背景,以动态地估计每个学习者最适当的练习困难。一个实验性研究比较了两种教学模式,即适应性和随机模式,其依据是所有实验群体提交的1,186种代码中的6种特征。结果显示这两种模式之间在分析的6种特征中的4种存在重大差异。值得注意的是,适应性模式在两种特征、正确答案的提交和通过概念的数量上显示出随机模式的巨大差异。因此,这些结果强调,这一适应性学习支持系统可以支持学习者进行编程。
+
+---
+
+## Article 21
+### Title@2025-07-25 (5): Special Delivery: Programming with Mailbox Types (Extended Version)
+
+**Title**: Special Delivery: Programming with Mailbox Types (Extended Version) | Spezielle Lieferung: Programmierung mit Mailbox-Typen (erweiterte Version) | 特别发送:用邮箱类型编程(扩展版本) [2306.12935v2](http://arxiv.org/abs/2306.12935v2)
+
+**Authors** (5): Simon Fowler, Duncan Paul Attard, Danielle Marshall, Simon J. Gay, Phil Trinder
+
+The asynchronous and unidirectional communication model supported by mailboxes is a key reason for the success of actor languages like Erlang and Elixir for implementing reliable and scalable distributed systems. While many actors may send messages to some actor, only the actor may receive from its mailbox. Although actors eliminate many of the issues stemming from shared memory concurrency, they remain vulnerable to communication errors such as protocol violations and deadlocks.   Mailbox types are a novel behavioural type system for mailboxes first introduced for a process calculus by de'Liguoro and Padovani in 2018, which capture the contents of a mailbox as a commutative regular expression. Due to aliasing and nested evaluation contexts, moving from a process calculus to a programming language is challenging. This paper presents Pat, the first programming language design incorporating mailbox types, and describes an algorithmic type system. We make essential use of quasi-linear typing to tame some of the complexity introduced by aliasing. Our algorithmic type system is necessarily co-contextual, achieved through a novel use of backwards bidirectional typing, and we prove it sound and complete with respect to our declarative type system. We extend Pat with sums, products and higher-order functions, and also interfaces that allow finer-grained reasoning about mailbox contents. We implement a prototype type checker, and use it to demonstrate the expressiveness of Pat on a factory automation case study and a series of examples from the Savina actor benchmark suite.
+
+信箱支持的无序和单向通信模式是2018年Erlang和Elixir等行为语言成功实施可靠和可扩展分布系统的关键原因。 虽然许多行为者可能向某些行为者发送信息,但只有行为者可以从邮箱接收信息。 虽然行为者消除了来自共同记忆货币的许多问题,但它们仍然容易受到协议违约和僵局等通信错误的影响。邮箱类型是2018年由De'Liguoro和Padovani为进程缩略语首次引入的新型信箱行为类型系统,它捕捉信箱的内容,作为通缩的定期表达方式。由于别名和嵌套化的评价环境,从进程缩入到编程语言,只有行为者才能从邮箱类型中接收信息。虽然行为者消除了许多来自共享记忆货币的问题,但他们仍然容易受到协议违约和僵局等通信错误的影响。 我们的算法类型系统必然具有共同性,通过新颖的双向双向缩缩缩缩缩缩图,我们证明了它从过程的缩略图格式到更高级的缩图式系统,我们用了一个更清晰的缩略图式的缩图式的缩缩图。
+
+---
+
+## Article 22
+### Title@2025-07-25 (5): Fine-Tuning Multilingual Language Models for Code Review: An Empirical   Study on Industrial C# Projects
+
+**Title**: Fine-Tuning Multilingual Language Models for Code Review: An Empirical   Study on Industrial C# Projects | Fine-Tuning Mehrsprachige Sprachmodelle für Code Review: Eine empirische Studie zu industriellen C#-Projekten | 用于代码审查的精美多语言语言模式:工业C#项目经验研究 [2507.19271v1](http://arxiv.org/abs/2507.19271v1)
+
+**Authors** (3): Igli Begolli, Meltem Aksoy, Daniel Neider
+
+Code review is essential for maintaining software quality but often time-consuming and cognitively demanding, especially in industrial environments. Recent advancements in language models (LMs) have opened new avenues for automating core review tasks. This study presents the empirical evaluation of monolingual fine-tuning on the performance of open-source LMs across three key automated code review tasks: Code Change Quality Estimation, Review Comment Generation, and Code Refinement. We fine-tuned three distinct models, CodeReviewer, CodeLlama-7B, and DeepSeek-R1-Distill, on a C\# specific dataset combining public benchmarks with industrial repositories. Our study investigates how different configurations of programming languages and natural languages in the training data affect LM performance, particularly in comment generation. Additionally, we benchmark the fine-tuned models against an automated software analysis tool (ASAT) and human reviewers to evaluate their practical utility in real-world settings. Our results show that monolingual fine-tuning improves model accuracy and relevance compared to multilingual baselines. While LMs can effectively support code review workflows, especially for routine or repetitive tasks, human reviewers remain superior in handling semantically complex or context-sensitive changes. Our findings highlight the importance of language alignment and task-specific adaptation in optimizing LMs for automated code review.
+
+特别是在工业环境中,最近语文模式的进步为核心审查任务自动化开辟了新的途径。本研究报告介绍了对开放源码LM业绩进行单一语言微调的经验评价,这涉及三种关键的自动代码审查任务:代码改变质量估计、评论生成和代码改进。我们微调了三种不同的模型,即代码审查器、代码Llama-7B和DeepSeek-R1-Distill,将公共基准与工业储存库相结合的C具体数据集。我们的研究调查了培训数据中方案语言和自然语言的不同配置如何影响LM业绩,特别是在评论生成方面。此外,我们用自动化软件分析工具(ASAT)和人类审查员来衡量微调模型,以评价其在现实环境中的实际效用。我们的结果显示,单语言微调提高了模型的准确性和相关性,与多语种基线相比。虽然LMS可以有效地支持代码审查工作流程,特别是例行或重复的任务,但人类审查员仍然对LMMS-S-S-S-SL-S-SL-SL-S-SL-SL-SL-SIM-S-S-S-SL-SL-SL-SL-SL-SL-S-S-S-Sl-Sl-S-Sl-Sl-S-Sl-S-S-I-S-S-SMA-S-SL-S-S-S-S-S-S-S-S-S-SAR-S-SMA-S-S-SMA-SMA-SMA-SMA-SMA-S-S-SMA-SMA-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S
+
+---
+
+## Article 23
+### Title@2025-07-25 (5): A Programming Language for Feasible Solutions
+
+**Title**: A Programming Language for Feasible Solutions | Eine Programmiersprache für Machbare Lösungen | 可行解决方案的编程语言 [2507.19176v1](http://arxiv.org/abs/2507.19176v1)
+
+**Authors** (3): Weijun Chen, Yuxi Fu, Huan Long
+
+Runtime efficiency and termination are crucial properties in the studies of program verification. Instead of dealing with these issues in an ad hoc manner, it would be useful to develop a robust framework in which such properties are guaranteed by design. This paper introduces a new imperative programming language whose design is grounded in a static type system that ensures the following equivalence property: All definable programs are guaranteed to run in polynomial time; Conversely, all problems solvable in polynomial time can be solved by some programs of the language. The contribution of this work is twofold. On the theoretical side, the foundational equivalence property is established, and the proof of the equivalence theorem is non-trivial. On the practical side, a programming approach is proposed that can streamline program analysis and verification for feasible computations. An interpreter for the language has been implemented, demonstrating the feasibility of the approach in practice.
+
+运行效率和终止是方案核查研究中的关键特性。 与临时处理这些问题相比,最好制定一个强有力的框架,通过设计来保障这些特性。本文件介绍了一种新的迫切的编程语言,其设计以静态类型系统为基础,确保以下等值财产: 所有可定义的方案都保证在多元时间运行; 相反,在多语言时间中可以解决的所有问题都可以由该语言的某些程序解决。这项工作的贡献是双重的。在理论方面,基本等值财产已经建立,对等词的证明是非三维的。在实际方面,建议一种编程方法,可以简化方案分析和核实,以便进行可行的计算。语言的翻译已经实施,表明该方法在实践中的可行性。
+
+---
+
+## Article 24
+### Title@2025-07-25 (5): An Enumerative Embedding of the Python Type System in ACL2s
+
+**Title**: An Enumerative Embedding of the Python Type System in ACL2s | Eine Enumerative Einbettung des Python-Typsystems in ACL2s | Python型系统在ACL2中的插图嵌入 [2507.19015v1](http://arxiv.org/abs/2507.19015v1)
+
+**Authors** (4): Samuel Xifaras, Panagiotis Manolios, Andrew T. Walter, William Robertson
+
+Python is a high-level interpreted language that has become an industry standard in a wide variety of applications. In this paper, we take a first step towards using ACL2s to reason about Python code by developing an embedding of a subset of the Python type system in ACL2s. The subset of Python types we support includes many of the most commonly used type annotations as well as user-defined types comprised of supported types. We provide ACL2s definitions of these types, as well as defdata enumerators that are customized to provide code coverage and identify errors in Python programs. Using the ACL2s embedding, we can generate instances of types that can then be used as inputs to fuzz Python programs, which allows us to identify bugs in Python code that are not detected by state-of-the-art Python type checkers. We evaluate our work against four open-source repositories, extracting their type information and generating inputs for fuzzing functions with type signatures that are in the supported subset of Python types. Note that we only use the type signatures of functions to generate inputs and treat the bodies of functions as black boxes. We measure code coverage, which ranges from about 68% to more than 80%, and identify code patterns that hinder coverage such as complex branch conditions and external file system dependencies. We conclude with a discussion of the results and recommendations for future work.
+
+Python 是一种高层次的翻译语言, 它在各种各样的应用中已成为行业标准。 在本文中, 我们迈出第一步, 使用 ACL2 来解释 Python 代码。 我们支持的 Python 类型包括许多最常用的类型说明以及用户定义类型, 包括支持类型。 我们提供这些类型的 ACL2 定义, 以及拆解数据计算器, 定制以提供代码覆盖, 并识别 Python 程序错误。 使用 ACL2 嵌入模式, 我们可以产生一些类型, 然后作为Fuzz Python 类型系统的一个子集的输入。 我们所支持的 Python 类型包含。 我们使用 Python 类型中最常用的错误说明以及用户定义类型。 我们使用四个开放源存储库来评估我们的工作, 提取其类型信息, 并生成用于 fluzz 函数, 以及 Python 系统支持的子集中的错误。 使用 ACL2 模式覆盖范围, 我们只使用 Python 的外部定义, 范围, 我们只能使用该选项的功能, 用于构建的代码, 范围, 我们只能使用这些选项的选项的选项的选项的选项的代码, 。
+
+---
+
+## Article 25
+### Title@2025-07-25 (5): A Formalization of the Yul Language and Some Verified Yul Code   Transformations
+
+**Title**: A Formalization of the Yul Language and Some Verified Yul Code   Transformations | Eine Formalisierung der Yul-Sprache und einige verifizierte Yul-Code-Transformationen | 正式化YUL语言和部分经验证的YUL代码转换 [2507.19012v1](http://arxiv.org/abs/2507.19012v1)
+
+**Authors** (2): Alessandro Coglio, Eric McCarthy
+
+Yul is an intermediate language used in the compilation of the Solidity programming language for Ethereum smart contracts. The compiler applies customizable sequences of transformations to Yul code. To help ensure the correctness of these transformations and their sequencing, we used the ACL2 theorem prover to develop a formalization of the syntax and semantics of Yul, proofs relating static and dynamic semantics, a formalization of some Yul code transformations, and correctness proofs for these transformations.
+
+Yul 是 Etheum 智能合同的“ Soliity” 编程语言汇编中使用的一种中间语言。 编译者将可定制的转换序列应用到 Yul 代码中。 为了帮助确保这些转换及其顺序的正确性, 我们使用 ACL2 理论验证程序来开发Yol 语法和语义的正式化, 与静态和动态语义相关的证据, 一些 Yul 代码转换的正规化, 以及这些转换的正确性证明 。
+
+---
+
+## Article 26
+### Title@2025-07-25 (5): Towards Bug-Free Distributed Go Programs
+
+**Title**: Towards Bug-Free Distributed Go Programs | Auf dem Weg zu fehlerfreien verteilten Go-Programmen | 迈向无臭虫分配方案 [2506.15135v2](http://arxiv.org/abs/2506.15135v2)
+
+**Authors** (1): Zhengqun Koo
+
+Programmers of distributed systems need to reason about concurrency to avoid races. However, reasoning about concurrency is difficult, and unexpected races show up as bugs. Data race detection in shared memory systems is well-studied (dynamic data race detection [13], behavioral types [15], dynamic race detection [31]). Similar to how a data race consists of reads and writes not related by happens-before at a shared memory location, a communication race consists of receives and sends not related by happens-before on a shared channel. Communication races are problematic: a receiver expects a specific message from a specific sender, but with a communication race, the receiver can receive a message meant for another receiver, or not receive anything at all. In this work, we describe a verification framework that can prove the absence of communication races for distributed programs that use a subset of the Go programming language, where synchronization is mainly achieved via message passing. We statically reason about how a distributed program executes, using a happens-before order, extended to buffered and unbuffered channels.
+
+分布式系统的程序员需要了解如何用同种货币来避免种族。 但是,关于同种货币的推理是困难的,意想不到的种族是虫子。在共享的记忆系统中,数据种族探测是研究周密的(动态数据种族探测[13]、行为类型[15]、动态种族探测[31])。类似于数据种族是如何包括读数和写数,在共享的记忆位置之前没有发生意外,通信竞赛是接收和发送,而不是在共享的频道上发生意外。通信竞赛是有问题的:接收者期望特定发件人发出特定信息,但有通信竞赛,接收者可以接收另一个接收到信息,或者完全接收不到任何信息。在这项工作中,我们描述了一个核查框架,可以证明在使用Go编程语言的一组分布式程序上没有通信竞赛,而该编程主要是通过传递信息实现同步。我们静态地解释一个分布式程序是如何执行的,使用事前顺序,扩展至缓冲和未受困的频道。
+
+---
+
+## Article 27
+### Title@2025-07-25 (5): IsaMini: Redesigned Isabelle Proof Lanugage for Machine Learning
+
+**Title**: IsaMini: Redesigned Isabelle Proof Lanugage for Machine Learning | IsaMini: Isabelle Proof Lanugage für maschinelles Lernen neu gestaltet | IsaMini:重新设计的伊莎贝尔机器学习校对 [2507.18885v1](http://arxiv.org/abs/2507.18885v1)
+
+**Authors** (5): Qiyuan Xu, Renxi Wang, Haonan Li, David Sanan, Conrad Watt
+
+Neural Theorem Proving (NTP) employs deep learning methods, particularly Large Language Models (LLMs), to automate formal proofs in proof assistants. This approach holds promise for reducing the dramatic labor costs or computation costs required in proof engineering, which is fundamental to formal verification and other software engineering methods. The paper explores the potential of improving NTP by redesigning the proof language, given that LLMs' capabilities depend highly on representations. We introduce \emph{MiniLang}, a redesigned proof language for Isabelle/HOL incorporating an improved version of Sledgehammer. Experiments show MiniLang benefits two fine-tuned LLMs by improving the success rate on the PISA benchmark by up to 29\% in comparison to generation of Isar proof script. The success rate under one attempt (so-called \emph{pass@1}) reaches 69.1\%, exceeding the previous Baldur's pass@64 (65.7\%); The pass@8 reaches 79.2\%, exceeding the state-of-the-art on PISA (71.0\%) achieved by Magnushammer.
+
+NTP 使用深层次的学习方法,特别是大语言模型(LLMS),将正式的证明证明作为助理自动化。这个方法有望降低证明工程所需的巨大的人工成本或计算成本,这是正式核查和其他软件工程方法的基础。鉴于LOMS的能力高度依赖演示,本文探讨了通过重新设计证明语言来改进NTP的潜力。我们引入了\emph{MiniLang},这是伊莎贝尔/HOL的重新设计的证明语言,其中包括改进版的Sledgehammer。实验显示MiniLang 有两个经过微调的LMS, 提高了PISA基准的成功率,与Isar证据脚本的生成相比,提高了29。一次尝试的成功率(所谓的emph{pass@1})达到69.1,超过了以前的Baldur通行证@64(65.7); 通行证@8达到79.2,超过了Magnushammer在PISA(71.0)上达到的状态。
+
+---
+
+## Article 28
+### Title@2025-07-24 (4): Decompiling Rust: An Empirical Study of Compiler Optimizations and   Reverse Engineering Challenges
+
+**Title**: Decompiling Rust: An Empirical Study of Compiler Optimizations and   Reverse Engineering Challenges | Decompiling Rust: Eine empirische Studie über Compiler-Optimierungen und Reverse Engineering-Herausforderungen | Drecomping Rust:关于编纂者优化和逆向工程挑战的经验性研究 [2507.18792v1](http://arxiv.org/abs/2507.18792v1)
+
+**Authors** (1): Zixu Zhou
+
+Decompiling Rust binaries is challenging due to the language's rich type system, aggressive compiler optimizations, and widespread use of high-level abstractions. In this work, we conduct a benchmark-driven evaluation of decompilation quality across core Rust features and compiler build modes. Our automated scoring framework shows that generic types, trait methods, and error handling constructs significantly reduce decompilation quality, especially in release builds. Through representative case studies, we analyze how specific language constructs affect control flow, variable naming, and type information recovery. Our findings provide actionable insights for tool developers and highlight the need for Rust-aware decompilation strategies.
+
+由于语言的丰富类型系统、积极的编译优化和高层次抽象的普及使用,分解规则的二进制具有挑战性。 在这项工作中,我们根据基准对核心的 Rust 特征和编译者构建模式的分解质量进行评估。 我们的自动评分框架显示,通用类型、特性方法和错误处理结构大大降低了分解质量,特别是在发布过程中。 通过有代表性的案例研究,我们分析了特定语言结构如何影响控制流程、变量命名和类型信息恢复。 我们的发现为工具开发者提供了可操作的洞察,并凸显了 Rust-aware 解析战略的必要性。
+
+---
+
+## Article 29
+### Title@2025-07-24 (4): Agentic Program Repair from Test Failures at Scale: A Neuro-symbolic   approach with static analysis and test execution feedback
+
+**Title**: Agentic Program Repair from Test Failures at Scale: A Neuro-symbolic   approach with static analysis and test execution feedback | Agentische Programm-Reparatur von Testfehlern im Maßstab: Ein neuro-symbolischer Ansatz mit statischer Analyse und Test-Ausführungs-Feedback | 大规模试验失败时的试验失败时的代理方案修复:采用静态分析和测试执行反馈的神经-正反方法 [2507.18755v1](http://arxiv.org/abs/2507.18755v1)
+
+**Authors** (24): Chandra Maddila, Adam Tait, Claire Chang, Daniel Cheng, Nauman Ahmad, Vijayaraghavan Murali, Marshall Roch, Arnaud Avondet, Aaron Meltzer, Victor Montalvao, Michael Hopko, Chris Waterson, Parth Thakkar, Renuka Fernandez, Kristian Kristensen, Sivan Barzily, Sherry Chen, Rui Abreu, Nachiappan Nagappan, Payam Shodjai, Killian Murphy, James Everingham, Aparna Ramani, Peter C. Rigby
+
+Aim: With the advent of LLMs, sophisticated agentic program repair has become viable at large organizations with large codebases. In this work, we develop an Engineering Agent that fixes the source code based on test failures at scale across diverse software offerings internally.   Method: Using Llama as the base, we employ the ReAct harness to develop an agent. We start with a test failure that was triaged by a rule-based test failure bot. We then set up an agentic harness and allow the agent to reason and run a set of 15 actions from reading a file to generating a patch. We provide feedback to the agent through static analysis and test failures so it can refine its solution. We leverage an LLM-as-a-Judge to ensure that the patch conforms to the standards followed by a human review to land fixes.   Benchmark Findings: We curated offline benchmarks for our patch generator, the Engineering Agent loop, and the LLM-as-a-Judge. In offline evaluations we found that a specialized 70B model is highly competitive with the much larger but vanilla Llama-405B. In an ablation study, we found that the ReAct harness (neural model) benefited from the symbolic information from static analysis tools and test execution traces. A model that strikes a balance between the solve rate and error rate vs the cost and latency has a benchmark solve rate of 42.3% using an average 11.8 feedback iterations.   Production Findings: In a three month period, 80% of the generated fixes were reviewed, of which 31.5% were landed (25.5% of the total number of generated fixes).   Feedback from Engineers: We used open coding to extract qualitative themes from engineers' feedback. We saw positive feedback in the form of quick approvals, gratitude, and surprise. We also found mixed feedback when the Engineering Agent's solution was partially correct and it served as a good starting point.
+
+目标 : 随着LLMS的到来, 精密的代理程序修理在拥有大代码库的大型组织中变得可行。 在这项工作中, 我们开发了一个工程剂, 根据各种软件内部提供的规模测试失败来修正源代码。 方法 : 使用Llama作为基础, 我们使用 ReAct 来开发一个代理物。 我们从测试失败的测试失败开始, 我们先用基于规则的测试失败机来修正测试失败。 我们随后设置了一种代理物力, 让代理商理性地, 并运行了一套15个动作。 我们通过静态分析和测试失败来向代理商提供反馈, 以便改进它的解决方案。 我们利用LLMAA- A- A-J 5 模型来确保源源代码符合对土地进行的人审查所遵循的标准 。 基准结论: 我们用基于规则的测试发电机、 快速循环和 LLM- A- Judi 模型的离线基准点, 我们发现一个专门的70B模型在更大程度上具有竞争力, 但是用Vanilla Llama- 405B 的反馈方法来改进其解决方案 。 在模拟研究中, 我们发现, IMA- bral 模型中, 我们利用了80 的进度分析中, 我们从一个测试了一个运行率 的进度模型中, 我们找到了一个测试了一种对一个从一个运行率的进度的进度。
+
+---
+
+## Article 30
+### Title@2025-07-24 (4): Probabilistic Concurrent Reasoning in Outcome Logic: Independence,   Conditioning, and Invariants
+
+**Title**: Probabilistic Concurrent Reasoning in Outcome Logic: Independence,   Conditioning, and Invariants | Probabilistische Concurrent Reasoning in Outcome Logic: Unabhängigkeit, Konditionierung und Invarianten | 结果逻辑的概率并存理由:独立、条件和不稳定 [2411.11662v2](http://arxiv.org/abs/2411.11662v2)
+
+**Authors** (3): Noam Zilberstein, Alexandra Silva, Joseph Tassarotti
+
+Although randomization has long been used in distributed computing, formal methods for reasoning about probabilistic concurrent programs have lagged behind. No existing program logics can express specifications about the full distributions of outcomes resulting from programs that are both probabilistic and concurrent. To address this, we introduce Probabilistic Concurrent Outcome Logic (pcOL), which incorporates ideas from concurrent and probabilistic separation logics into Outcome Logic to introduce new compositional reasoning principles. At its core, pcOL reinterprets the rules of Concurrent Separation Logic in a setting where separation models probabilistic independence, so as to compositionally describe joint distributions over variables in concurrent threads. Reasoning about outcomes also proves crucial, as case analysis is often necessary to derive precise information about threads that rely on randomized shared state. We demonstrate pcOL on a variety of examples, including to prove almost sure termination for unbounded loops.
+
+尽管在分布式计算中长期以来一直使用随机化,但关于概率并行程序的正式推理方法却落后于以往。任何现有的程序逻辑都无法对概率性和同时性两种程序所产生的结果的全面分布作出具体说明。为了解决这个问题,我们引入了概率性同时结果逻辑(pcOL),将同时性和概率分离逻辑的理念纳入结果逻辑,以引入新的构成性推理原则。在核心,PcOL在分离模型概率独立的环境中重新解释同时分离逻辑规则,从而在结构上描述对同时线变量的联合分布。结果的理由也证明至关重要,因为案例分析往往有必要获得依赖随机共有状态的线索的准确信息。我们用多种实例展示PcOL,包括证明几乎可以确定无界循环的终止。
+
+---
+
+## Article 31
+### Title@2025-07-24 (4): Higher-Order Behavioural Conformances via Fibrations
+
+**Title**: Higher-Order Behavioural Conformances via Fibrations | Behavioural Conformances höherer Ordnung durch Fibrationen | 通过纤维纤维达到较高等级的行为合规 [2507.18509v1](http://arxiv.org/abs/2507.18509v1)
+
+**Authors** (1): Henning Urbat
+
+Coinduction is a widely used technique for establishing behavioural equivalence of programs in higher-order languages. In recent years, the rise of languages with quantitative (e.g.~probabilistic) features has led to extensions of coinductive methods to more refined types of behavioural conformances, most notably notions of behavioural distance. To guarantee soundness of coinductive reasoning, one needs to show that the behavioural conformance at hand forms a program congruence, i.e. it is suitably compatible with the operations of the language. This is usually achieved by a complex proof technique known as \emph{Howe's method}, which needs to be carefully adapted to both the specific language and the targeted notion of behavioural conformance. We develop a uniform categorical approach to Howe's method that features two orthogonal dimensions of abstraction: (1) the underlying higher-order language is modelled by an \emph{abstract higher-order specification} (AHOS), a novel and very general categorical account of operational semantics, and (2) notions of behavioural conformance (such as relations or metrics) are modelled via fibrations over the base category of an AHOS. Our main result is a fundamental congruence theorem at this level of generality: Under natural conditions on the categorical ingredients and the operational rules of a language modelled by an AHOS, the greatest behavioural (bi)conformance on its operational model forms a congruence. We illustrate our theory by deriving congruence of bisimilarity and behavioural pseudometrics for probabilistic higher-order languages.
+
+223. 最近几年,具有定量(例如~概率)特征的语言的上升导致创造性方法扩展至更精细的行为一致性类型,最明显的是行为距离概念。为了保证硬度推理的正确性,人们需要表明手头的行为一致性是一种与语言操作相容的方案一致性,即它与语言运行相适应。这通常是通过一种称为 emph{Howe's 方法} 的复杂证据技术实现的。 该技术需要谨慎地适应特定语言和行为一致性的定向概念。我们开发了一种统一的直截了当的方法,其特征是抽象的两个或两个不同的层面:(1) 基本高阶语言以\emph{tract 更高层级的规格为模范(AHOS),一个新型和非常直观的操作语性描述,以及(2) 行为一致性(例如关系或度)的概念,是用最直观的运行性规则的直径直径比,是基础的直线度。
+
+---
+
+## Article 32
+### Title@2025-07-24 (4): Language-Integrated Recursive Queries
+
+**Title**: Language-Integrated Recursive Queries | Sprachintegrierte rekursive Abfragen | 语言综合递归查询 [2504.02443v2](http://arxiv.org/abs/2504.02443v2)
+
+**Authors** (4): Anna Herlihy, Amir Shaikhha, Anastasia Ailamaki, Martin Odersky
+
+Performance-critical industrial applications, including large-scale program, network, and distributed system analyses, rely on fixed-point computations. The introduction of recursive common table expressions (CTEs) using the WITH RECURSIVE keyword in SQL:1999 extended the ability of relational database systems to handle fixed-point computations, unlocking significant performance advantages by allowing computation to move closer to the data. Yet with recursion, SQL becomes a Turing-complete programming language and, with that, unrecoverable safety and correctness risks. SQL itself lacks a fixed semantics, as the SQL specification is written in natural language, full of ambiguities that database vendors resolve in divergent ways. As a result, reasoning about the correctness of recursive SQL programs must rely on isolated mathematical properties of queries rather than wrestling a unified formal model out of a language with notoriously inconsistent semantics. To address these challenges, we propose a calculus that automatically derives mathematical properties from embedded recursive queries and, depending on the database backend, rejects queries that may lead to the three classes of recursive query errors - database errors, incorrect results, and non-termination. We introduce TyQL, a practical implementation in Scala for safe, recursive language-integrated query. Using Named-Tuples and type-level pattern matching, TyQL ensures query portability and safety, showing no performance penalty compared to raw SQL strings while unlocking a three-orders-of-magnitude speedup over non-recursive SQL queries.
+
+SQL本身缺乏固定的语义,因为SQL规格是用自然语言编写的,数据库供应商以不同方式解决的非模糊性。因此,关于递归性 SQL 程序是否准确的推论必须依靠孤立的数学特性来进行查询,而不是通过让计算方法更接近于数据而将统一的正式模型从一种臭名昭著的语义中挤出。为了应对这些挑战,我们建议一种计算法,从嵌入的反复查询中自动获得数学特性,并视数据库的后端情况,拒绝可能导致递归性精度为三类的SQL 标准、数据库供应商以不同方式解决的非模糊性。结果是,关于递归性 SQL 程序是否准确性的理由必须依靠孤立的查询数学属性,而不是通过一个与臭名不相容的语义不一致的语言拼出一个统一的正式模型。为了应对这些挑战,我们建议一种计算法,从嵌入的反复性查询中自动获得数学特性,并取决于数据库的后端点,拒绝可能导致循环性查询质量等级的三个类别,而SQL ,在实际的S-Sral-real-real trueal rodition Scal rodual roud 上显示一个不正确的Silal 。
+
+---
+
+## Article 33
+### Title@2025-07-24 (4): Building an Accelerated OpenFOAM Proof-of-Concept Application using   Modern C++
+
+**Title**: Building an Accelerated OpenFOAM Proof-of-Concept Application using   Modern C++ | Aufbau einer beschleunigten OpenFOAM Proof-of-Concept-Anwendung mit modernem C++ | 利用现代C++建立加速的开放有机金融AM系统概念校验应用 [2507.18268v1](http://arxiv.org/abs/2507.18268v1)
+
+**Authors** (5): Giulio Malenza, Giovanni Stabile, Filippo Spiga, Robert Birke, Marco Aldinucci
+
+The modern trend in High-Performance Computing (HPC) involves the use of accelerators such as Graphics Processing Units (GPUs) alongside Central Processing Units (CPUs) to speed up numerical operations in various applications. Leading manufacturers such as NVIDIA, Intel, and AMD are constantly advancing these architectures, augmenting them with features such as mixed precision, enhanced memory hierarchies, and specialised accelerator silicon blocks (e.g., Tensor Cores on GPU or AMX/SME engines on CPU) to enhance compute performance. At the same time, significant efforts in software development are aimed at optimizing the use of these innovations, seeking to improve usability and accessibility. This work contributes to the state-of-the-art of OpenFOAM development by presenting a working Proof-Of-Concept application built using modern ISO C++ parallel constructs. This approach, combined with an appropriate compiler runtime stack, like the one provided by the NVIDIA HPC SDK, makes it possible to accelerate well-defined kernels, allowing multi-core execution and GPU offloading using a single codebase. The study demonstrates that it is possible to increase the performance of the OpenFOAM laplacianFoam application by offloading the computations on NVIDIA GPUs using the C++ parallel construct.
+
+高性能计算(HPC)的现代趋势涉及与中央处理股(CPU)一起使用图形处理股(GPUs)等加速器来加速各种应用中的数字操作。像NVIDIA、英特尔和AMD等主要制造商一直在不断推进这些结构,以混合精度、增强记忆等级和专用加速器硅合块(例如,GPU或AMX/SME引擎的Tensor Corps)等特征来增强计算性能。与此同时,软件开发方面的重大努力旨在优化这些创新的使用,力求提高可用性和无障碍性。这项工作通过展示使用现代ISO C++ 平行结构构建的工作校验设备应用程序,促进OpFAM开发的状态。这个方法与适当的编译器运行时间堆一起,如由NVIDA HPC SDK提供的编程堆,使得能够利用定义良好的C-BOF内核应用, 显示OFAM的多级性能,从而通过GAM的单个计算工具,通过ODRA的升级来提高运行。
+
+---
+
