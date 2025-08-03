@@ -1,0 +1,427 @@
+---
+title: "hacker-news @ 2025-08-03: 030"
+date: 2025-08-03
+layout: post
+---
+
+- [00](#article-0) | **08-01 (5)** | Corporation for Public Broadcasting ceasing operations | Unternehmen für den öffentlichen Rundfunk | 公共广播公司 | [Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding)
+- [01](#article-1) | **07-31 (4)** | Slow | Langsam | 慢 | [index.html](https://michaelnotebook.com/slow/index.html)
+- [02](#article-2) | 07-31 | How was the Universal Pictures 1936 opening logo created? | Wie wurde das Universal Pictures 1936 Eröffnungslogo erstellt? | 1936年环球图片的开放标识是如何创建的? | [how-was-the-universal-pictures-1936-opening-logo-created](https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created)
+- [03](#article-3) | **07-30 (3)** | Ollama's new app | Ollamas neue App | 奥拉马的新应用程序 | [new-app](https://ollama.com/blog/new-app)
+- [04](#article-4) | 07-30 | Vibe code is legacy code | Stimmungscode ist Legacy-Code | 维贝代码是遗产代码 | [vibe-code](https://blog.val.town/vibe-code)
+- [05](#article-5) | 07-30 | Fast | Schnell | 快速快速 | [fast](https://www.catherinejue.com/fast)
+- [06](#article-6) | 07-30 | Helsinki records zero traffic deaths for full year | Helsinki verzeichnet null Verkehrstote für das ganze Jahr | 赫尔辛基全年交通事故死亡人数为零 | [27539-helsinki-records-zero-traffic-deaths-for-full-year.html](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)
+- [07](#article-7) | 07-30 | Our $100M Series B | Unsere 100M Serie B | 我们的100M系列B | [our-100m-series-b](https://oxide.computer/blog/our-100m-series-b)
+- [08](#article-8) | 07-30 | Sleep all comes down to the mitochondria | Schlaf kommt alle runter zu den Mitochondrien | 入睡后,一切就都沉睡在梦幻中 | [it-all-comes-down-mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
+- [09](#article-9) | 07-30 | ‘No Other Land’ consultant Awdah Hathaleen killed by Israeli settler | „Kein anderer Land-Berater Awdah Hathaleen vom israelischen Siedler getötet | " 没有其他土地 " 顾问Awdah Hathaleen被以色列定居者杀害 | [awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler](https://www.latimes.com/entertainment-arts/story/2025-07-29/awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler)
+- [10](#article-10) | 07-30 | M8.7 earthquake in Western Pacific, tsunami warning issued | M8.7 Erdbeben im Westpazifik, Tsunami-Warnung veröffentlicht | M8.7 西太平洋的M8.7地震,发出海啸警报 | [executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
+- [11](#article-11) | **07-29 (2)** | Study mode | Studienmodus | 学习模式 | [](https://openai.com/index/chatgpt-study-mode/)
+- [12](#article-12) | 07-29 | iPhone 16 cameras vs. traditional digital cameras | iPhone 16 Kameras vs. traditionelle Digitalkameras | iPhone 16 相机与传统数码相机对比 | [](https://candid9.com/phone-camera/)
+- [13](#article-13) | 07-29 | My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air) | Mein 2,5 Jahre alter Laptop kann jetzt Space Invaders in JavaScript schreiben (GLM-4.5 Air) | 我的2.5年的笔记本电脑现在可以在 JavaScript (GLM-4.5 Air) 书写太空入侵者。 | [](https://simonwillison.net/2025/Jul/29/space-invaders/)
+- [14](#article-14) | 07-29 | Show HN: Draw a fish and watch it swim with the others | Show HN: Zeichnen Sie einen Fisch und beobachten Sie es schwimmen mit den anderen | 显示 HN: 绘制一条鱼并观看鱼与其他鱼一起游泳 | [drawafish.com](https://drawafish.com)
+- [15](#article-15) | **07-28 (1)** | Show HN: Use Their ID – Use your local UK MP’s ID for the Online Safety Act | Show HN: Verwenden Sie ihre ID – Verwenden Sie Ihre lokale UK MP-ID für den Online-Sicherheitsgesetz | 显示 HN: 使用他们的 ID - 使用本地的英国国会议员的 ID 用于在线安全法 | [](https://use-their-id.com/)
+- [16](#article-16) | 07-28 | Sign in with Google in Chrome | Melden Sie sich mit Google in Chrome | 与在铬中的 Google 签名 | [5.html](https://underpassapp.com/news/2025/7/5.html)
+- [17](#article-17) | 07-28 | ‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video] | „Ich war Zeuge von Kriegsverbrechen in Gaza – ehemaliger Arbeiter am GHF-Hilfsort [Video] | 加沙的「我目睹战争罪行」 — — GHF援助点前工人[视频] | [cy8k8045nx9o](https://www.bbc.com/news/videos/cy8k8045nx9o)
+- [18](#article-18) | 07-28 | Claude Code weekly rate limits | Claude Code wöchentliche Steuersätze | Claude 代码每周费率限额 | [item?id=44713757](https://news.ycombinator.com/item?id=44713757)
+- [19](#article-19) | 07-28 | Visa and Mastercard are getting overwhelmed by gamer fury over censorship | Visa und Mastercard werden von Gamer Wut über Zensur überwältigt | 签证和总卡被游戏游戏家的愤怒所压倒, | [visa-mastercard-steam-itchio-campaign-adult-games](https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games)
+- [20](#article-20) | 07-28 | Copyparty – Turn almost any device into a file server | Copyparty – Verwandeln Sie fast jedes Gerät in einen Dateiserver | 复制方 - 将几乎所有设备转换为文件服务器 | [copyparty](https://github.com/9001/copyparty)
+- [21](#article-21) | 07-28 | Tao on “blue team” vs. “red team” LLMs | Tao auf der blauen Mannschaft gegen die rote Mannschaft gegen die LLMs | Tao on " 蓝队 " 与 " 红队 " 之间 | [114915604830689046](https://mathstodon.xyz/@tao/114915604830689046)
+- [22](#article-22) | 07-28 | Face it: you're a crazy person | Sieh es dir an: Du bist ein verrückter Mensch | 面对现实:你是个疯子 | [face-it-youre-a-crazy-person](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
+- [23](#article-23) | 07-28 | VPN use surges in UK as new online safety rules kick in | VPN nutzen Überspannungen in Großbritannien als neue Online-Sicherheitsregeln kick in | 新的在线安全规则启动时, VPN 使用英国的VPN 激增 | [356674b0-9f1d-4f95-b1d5-f27570379a9b](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
+- [24](#article-24) | **07-27 (7)** | Enough AI copilots, we need AI HUDs | Genug KI-Copiloten, wir brauchen KI-HUDs | 足够的AI联合驾驶员 我们需要AIHUD | [enough-ai-copilots-we-need-ai-huds](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
+- [25](#article-25) | 07-27 | EU age verification app to ban any Android system not licensed by Google | EU-Altersprüfung App, um jedes Android-System nicht von Google lizenziert verbieten | 欧盟年龄核查应用软件,以禁止任何未经谷歌许可的Android系统 | [YxmPgFes8a](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
+- [26](#article-26) | 07-27 | Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork | Leistungs- und Telemetrieanalyse von Trae IDE, ByteDances VSCode Gabel | 对Trae IDE,ByteDance的VSCode Fork的 Trae IDE的性能和遥测分析 | [trae_telemetry_research](https://github.com/segmentationf4u1t/trae_telemetry_research)
+- [27](#article-27) | 07-27 | Tom Lehrer has died | Tom Lehrer ist gestorben | 汤姆·元首死了 | [tom-lehrer-dead.html](https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html)
+- [28](#article-28) | 07-27 | Dumb Pipe | Dumb Pipe | 哑巴管 | [](https://www.dumbpipe.dev/)
+- [29](#article-29) | 07-27 | 4k NASA employees opt to leave agency through deferred resignation program | 4k NASA-Mitarbeiter entscheiden sich dafür, die Agentur durch ein aufgeschobenes Rücktrittsprogramm zu verlassen | 4k 美国航天局雇员通过推迟辞职方案选择离开代理机构 | [nx-s1-5481304](https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304)
+
+## Article 0
+### Title@2025-08-01 (5): Corporation for Public Broadcasting ceasing operations
+
+**Title**: Corporation for Public Broadcasting ceasing operations | Unternehmen für den öffentlichen Rundfunk | 公共广播公司 [Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding](https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding)
+
+**Authors** (1): coloneltcb
+
+<p>Article URL: <a href="https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding">https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44759382">https://news.ycombinator.com/item?id=44759382</a></p> <p>Points: 602</p> <p># Comments: 578</p>
+
+<a href=>https://cpb.org/pressroom/Corporation-Public-Broadcasting-Address-Operations-Conference-Loss-Federal-Funding>https://cpb.org/pressroom/Corporation-Public-Broadcasting-Address-Operations-Fooling-Loss-Federal-Funding </a>
+
+---
+
+## Article 1
+### Title@2025-07-31 (4): Slow
+
+**Title**: Slow | Langsam | 慢 [index.html](https://michaelnotebook.com/slow/index.html)
+
+**Authors** (1): calvinfo
+
+<p>Article URL: <a href="https://michaelnotebook.com/slow/index.html">https://michaelnotebook.com/slow/index.html</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44748934">https://news.ycombinator.com/item?id=44748934</a></p> <p>Points: 954</p> <p># Comments: 226</p>
+
+<a href=>https://michaelnotebook.com/slow/index.html>https://michaelnotebook.com/slow/index.html </a>
+
+---
+
+## Article 2
+### Title@2025-07-31 (4): How was the Universal Pictures 1936 opening logo created?
+
+**Title**: How was the Universal Pictures 1936 opening logo created? | Wie wurde das Universal Pictures 1936 Eröffnungslogo erstellt? | 1936年环球图片的开放标识是如何创建的? [how-was-the-universal-pictures-1936-opening-logo-created](https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created)
+
+**Authors** (1): azeemba
+
+<p>Article URL: <a href="https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created">https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44744454">https://news.ycombinator.com/item?id=44744454</a></p> <p>Points: 523</p> <p># Comments: 72</p>
+
+<a href="https://movies.stackchange.com/ questions/128020/how -was -the- open-pictures-1936-opening-logo-created" >https://movies.stackchange.com/ questions/128020/how -was-the-copen-pictures-1936-opening-logo-created </a>
+
+---
+
+## Article 3
+### Title@2025-07-30 (3): Ollama's new app
+
+**Title**: Ollama's new app | Ollamas neue App | 奥拉马的新应用程序 [new-app](https://ollama.com/blog/new-app)
+
+**Authors** (1): BUFU
+
+<p>Article URL: <a href="https://ollama.com/blog/new-app">https://ollama.com/blog/new-app</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44739632">https://news.ycombinator.com/item?id=44739632</a></p> <p>Points: 548</p> <p># Comments: 280</p>
+
+<a href=>https://ollama.com/blog/new-app>https://ollama.com/blog/new-app </a>
+
+---
+
+## Article 4
+### Title@2025-07-30 (3): Vibe code is legacy code
+
+**Title**: Vibe code is legacy code | Stimmungscode ist Legacy-Code | 维贝代码是遗产代码 [vibe-code](https://blog.val.town/vibe-code)
+
+**Authors** (1): simonw
+
+<p>Article URL: <a href="https://blog.val.town/vibe-code">https://blog.val.town/vibe-code</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44739556">https://news.ycombinator.com/item?id=44739556</a></p> <p>Points: 744</p> <p># Comments: 451</p>
+
+<a href=>https://blog.val.town/vibe-code><https://blog.val.town/vibe-code>>https://blog.town/town/vibe-code </a>
+
+---
+
+## Article 5
+### Title@2025-07-30 (3): Fast
+
+**Title**: Fast | Schnell | 快速快速 [fast](https://www.catherinejue.com/fast)
+
+**Authors** (1): gaplong
+
+<p>Article URL: <a href="https://www.catherinejue.com/fast">https://www.catherinejue.com/fast</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44736967">https://news.ycombinator.com/item?id=44736967</a></p> <p>Points: 1560</p> <p># Comments: 427</p>
+
+<a href=>https://www.catherinejue.com/fast>https://www.catherinejue.com/fast </a>
+
+---
+
+## Article 6
+### Title@2025-07-30 (3): Helsinki records zero traffic deaths for full year
+
+**Title**: Helsinki records zero traffic deaths for full year | Helsinki verzeichnet null Verkehrstote für das ganze Jahr | 赫尔辛基全年交通事故死亡人数为零 [27539-helsinki-records-zero-traffic-deaths-for-full-year.html](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)
+
+**Authors** (1): DaveZale
+
+<p>Article URL: <a href="https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html">https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44736025">https://news.ycombinator.com/item?id=44736025</a></p> <p>Points: 638</p> <p># Comments: 344</p>
+
+<a href="https://www.helsinkitimes.fi/finland/finland-news/omenal/27539-helsinki-records-zero-traffic- deaths-full-year.html>https://www.helsinkitims.fi/finland/finland-news/omen/27539-helsinki-records-zero-traffic- deaths-full-y-year.html </a>
+
+---
+
+## Article 7
+### Title@2025-07-30 (3): Our $100M Series B
+
+**Title**: Our $100M Series B | Unsere 100M Serie B | 我们的100M系列B [our-100m-series-b](https://oxide.computer/blog/our-100m-series-b)
+
+**Authors** (1): spatulon
+
+<p>Article URL: <a href="https://oxide.computer/blog/our-100m-series-b">https://oxide.computer/blog/our-100m-series-b</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44733817">https://news.ycombinator.com/item?id=44733817</a></p> <p>Points: 745</p> <p># Comments: 499</p>
+
+<a href=>https://xxxx.come/blog/our-100m-series-b>https://xxxxxx.come/blog/our-100m-series-b </a>
+
+---
+
+## Article 8
+### Title@2025-07-30 (3): Sleep all comes down to the mitochondria
+
+**Title**: Sleep all comes down to the mitochondria | Schlaf kommt alle runter zu den Mitochondrien | 入睡后,一切就都沉睡在梦幻中 [it-all-comes-down-mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
+
+**Authors** (1): A_D_E_P_T
+
+<p>Article URL: <a href="https://www.science.org/content/blog-post/it-all-comes-down-mitochondria">https://www.science.org/content/blog-post/it-all-comes-down-mitochondria</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44732020">https://news.ycombinator.com/item?id=44732020</a></p> <p>Points: 627</p> <p># Comments: 307</p>
+
+<https://www.science.org/content/blog-post/it-all-comes-down-mitochondria><https://www.science.org/content/blog-post/it-all-comes-down-mitochondria </a>
+
+---
+
+## Article 9
+### Title@2025-07-30 (3): ‘No Other Land’ consultant Awdah Hathaleen killed by Israeli settler
+
+**Title**: ‘No Other Land’ consultant Awdah Hathaleen killed by Israeli settler | „Kein anderer Land-Berater Awdah Hathaleen vom israelischen Siedler getötet | " 没有其他土地 " 顾问Awdah Hathaleen被以色列定居者杀害 [awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler](https://www.latimes.com/entertainment-arts/story/2025-07-29/awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler)
+
+**Authors** (1): _shadi
+
+<p>Article URL: <a href="https://www.latimes.com/entertainment-arts/story/2025-07-29/awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler">https://www.latimes.com/entertainment-arts/story/2025-07-29/awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44731958">https://news.ycombinator.com/item?id=44731958</a></p> <p>Points: 728</p> <p># Comments: 822</p>
+
+<a href="https://www.latimes.com/entretainment-arts/story/2025-07-29/awdah-hathaleen- killed-no-other-land-palestinian-activist-israeli-settler"<https://www.latims.com/entainment-arts/story/2025-07-29/awdah-hathaleen- killed-no-other-land-palestinian-activian-israeli-settler </a>
+
+---
+
+## Article 10
+### Title@2025-07-30 (3): M8.7 earthquake in Western Pacific, tsunami warning issued
+
+**Title**: M8.7 earthquake in Western Pacific, tsunami warning issued | M8.7 Erdbeben im Westpazifik, Tsunami-Warnung veröffentlicht | M8.7 西太平洋的M8.7地震,发出海啸警报 [executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
+
+**Authors** (1): jandrewrogers
+
+<p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44729865">https://news.ycombinator.com/item?id=44729865</a></p> <p>Points: 861</p> <p># Comments: 241</p>
+
+<a href=>https://earthquake.usgs.gov/earthqukekes/eventpage/us6000qw60/effective>https://earthquake.usgs.gov/earthqukekes/eventpage/us6000qw60/effect </a>
+
+---
+
+## Article 11
+### Title@2025-07-29 (2): Study mode
+
+**Title**: Study mode | Studienmodus | 学习模式 [](https://openai.com/index/chatgpt-study-mode/)
+
+**Authors** (1): meetpateltech
+
+<p>Article URL: <a href="https://openai.com/index/chatgpt-study-mode/">https://openai.com/index/chatgpt-study-mode/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44725764">https://news.ycombinator.com/item?id=44725764</a></p> <p>Points: 1112</p> <p># Comments: 800</p>
+
+<a href=>https://openai.com/index/chatgpt-study-mode/>https://openai.com/index/chatgpt-study-mode/ </a>
+
+---
+
+## Article 12
+### Title@2025-07-29 (2): iPhone 16 cameras vs. traditional digital cameras
+
+**Title**: iPhone 16 cameras vs. traditional digital cameras | iPhone 16 Kameras vs. traditionelle Digitalkameras | iPhone 16 相机与传统数码相机对比 [](https://candid9.com/phone-camera/)
+
+**Authors** (1): sergiotapia
+
+<p>Article URL: <a href="https://candid9.com/phone-camera/">https://candid9.com/phone-camera/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44723461">https://news.ycombinator.com/item?id=44723461</a></p> <p>Points: 510</p> <p># Comments: 502</p>
+
+<a href=>https://candid9.com/phone-camera/>https://candid9.com/phone-camera/>https://candid9.com/phone-camera/</a>
+
+---
+
+## Article 13
+### Title@2025-07-29 (2): My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)
+
+**Title**: My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air) | Mein 2,5 Jahre alter Laptop kann jetzt Space Invaders in JavaScript schreiben (GLM-4.5 Air) | 我的2.5年的笔记本电脑现在可以在 JavaScript (GLM-4.5 Air) 书写太空入侵者。 [](https://simonwillison.net/2025/Jul/29/space-invaders/)
+
+**Authors** (1): simonw
+
+<p>Article URL: <a href="https://simonwillison.net/2025/Jul/29/space-invaders/">https://simonwillison.net/2025/Jul/29/space-invaders/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44723316">https://news.ycombinator.com/item?id=44723316</a></p> <p>Points: 571</p> <p># Comments: 395</p>
+
+<a href="https://simonwillison.net/2025/Jul/29/space-invaders/"<https://simonwillison.net/2025/Jul/29/space-invaders/ </a>
+
+---
+
+## Article 14
+### Title@2025-07-29 (2): Show HN: Draw a fish and watch it swim with the others
+
+**Title**: Show HN: Draw a fish and watch it swim with the others | Show HN: Zeichnen Sie einen Fisch und beobachten Sie es schwimmen mit den anderen | 显示 HN: 绘制一条鱼并观看鱼与其他鱼一起游泳 [drawafish.com](https://drawafish.com)
+
+**Authors** (1): hallak
+
+<p>Made this website as an exercise in vibe-coding and GCP. It was posted about a few times around the internet, on sites like [Morning Brew](<a href="https://www.morningbrew.com/issues/business-buzzkill" rel="nofollow">https://www.morningbrew.com/issues/business-buzzkill</a>), [MetaFilter](<a href="https://www.metafilter.com/209703/Draw-A-Fish" rel="nofollow">https://www.metafilter.com/209703/Draw-A-Fish</a>), boingboing.net, etc. I think it's cute!<p>I built a basic CNN trained against penises and swastikas, and then anything that doesn't hit the 63% confidence score gets sent to a mod queue, a [vibe-coded fish-tinder](<a href="https://bsky.app/profile/bigass.bsky.social/post/3luvikxn3f22n" rel="nofollow">https://bsky.app/profile/bigass.bsky.social/post/3luvikxn3f2...</a>).<p>Was a fun exercise, spent about a month on it. Frontend is HTML5 hosted on github pages, backend is Node.JS on GCP.</p> <hr /> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44719222">https://news.ycombinator.com/item?id=44719222</a></p> <p>Points: 898</p> <p># Comments: 229</p>
+
+<p> 条次 URL: </p>
+
+---
+
+## Article 15
+### Title@2025-07-28 (1): Show HN: Use Their ID – Use your local UK MP’s ID for the Online Safety Act
+
+**Title**: Show HN: Use Their ID – Use your local UK MP’s ID for the Online Safety Act | Show HN: Verwenden Sie ihre ID – Verwenden Sie Ihre lokale UK MP-ID für den Online-Sicherheitsgesetz | 显示 HN: 使用他们的 ID - 使用本地的英国国会议员的 ID 用于在线安全法 [](https://use-their-id.com/)
+
+**Authors** (1): timje1
+
+<p>Hi HN -  I made a site that takes a UK postcode, grabs the local MP's information and generates an AI mockup of what their ID might look like.<p>It's a small, silly protest at the stupidity of the Online Safety Act that just came into force.<p>edit - My open AI credits got hugged to death, please use a known postcode (like one from Kier Starmer's constituency, WC2B6NH) in the meantime.</p> <hr /> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44716106">https://news.ycombinator.com/item?id=44716106</a></p> <p>Points: 854</p> <p># Comments: 279</p>
+
+<p> 条次 URL: </p>
+
+---
+
+## Article 16
+### Title@2025-07-28 (1): Sign in with Google in Chrome
+
+**Title**: Sign in with Google in Chrome | Melden Sie sich mit Google in Chrome | 与在铬中的 Google 签名 [5.html](https://underpassapp.com/news/2025/7/5.html)
+
+**Authors** (1): frizlab
+
+<p>Article URL: <a href="https://underpassapp.com/news/2025/7/5.html">https://underpassapp.com/news/2025/7/5.html</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44715166">https://news.ycombinator.com/item?id=44715166</a></p> <p>Points: 562</p> <p># Comments: 301</p>
+
+<a href=>https://undepassapp.com/news/2025/7/5.html>https://undepassapp.com/news/2025/7/5.html </a>
+
+---
+
+## Article 17
+### Title@2025-07-28 (1): ‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video]
+
+**Title**: ‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video] | „Ich war Zeuge von Kriegsverbrechen in Gaza – ehemaliger Arbeiter am GHF-Hilfsort [Video] | 加沙的「我目睹战争罪行」 — — GHF援助点前工人[视频] [cy8k8045nx9o](https://www.bbc.com/news/videos/cy8k8045nx9o)
+
+**Authors** (1): nathanyz
+
+<p>Article URL: <a href="https://www.bbc.com/news/videos/cy8k8045nx9o">https://www.bbc.com/news/videos/cy8k8045nx9o</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44714221">https://news.ycombinator.com/item?id=44714221</a></p> <p>Points: 994</p> <p># Comments: 1268</p>
+
+<a href=>https://www.bbc.com/news/vices/cy8k8045nx9o>>https://www.bbc.com/news/vices/cy8k8045nx9o </a>
+
+---
+
+## Article 18
+### Title@2025-07-28 (1): Claude Code weekly rate limits
+
+**Title**: Claude Code weekly rate limits | Claude Code wöchentliche Steuersätze | Claude 代码每周费率限额 [item?id=44713757](https://news.ycombinator.com/item?id=44713757)
+
+**Authors** (1): thebestmoshe
+
+<p>Hi there,<p>Next month, we're introducing new weekly rate limits for Claude subscribers, affecting less than 5% of users based on current usage patterns.<p>Claude Code, especially as part of our subscription bundle, has seen unprecedented growth. At the same time, we’ve identified policy violations like account sharing and reselling access—and advanced usage patterns like running Claude 24/7 in the background—that are impacting system capacity for all. Our new rate limits address these issues and provide a more equitable experience for all users.<p>What’s changing: Starting August 28, we're introducing weekly usage limits alongside our existing 5-hour limits: Current: Usage limit that resets every 5 hours (no change) New: Overall weekly limit that resets every 7 days New: Claude Opus 4 weekly limit that resets every 7 days As we learn more about how developers use Claude Code, we may adjust usage limits to better serve our community.  What this means for you: Most users won't notice any difference. The weekly limits are designed to support typical daily use across your projects.  Most Max 5x users can expect 140-280 hours of Sonnet 4 and 15-35 hours of Opus 4 within their weekly rate limits. Heavy Opus users with large codebases or those running multiple Claude Code instances in parallel will hit their limits sooner. You can manage or cancel your subscription anytime in Settings. We take these decisions seriously. We're committed to supporting long-running use cases through other options in the future, but until then, weekly limits will help us maintain reliable service for everyone.<p>We also recognize that during this same period, users have encountered several reliability and performance issues. We've been working to fix these as quickly as possible, and will continue addressing any remaining issues over the coming days and weeks.<p>–The Anthropic Team</p> <hr /> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44713757">https://news.ycombinator.com/item?id=44713757</a></p> <p>Points: 604</p> <p># Comments: 703</p>
+
+<p> 条次 URL: </p>
+
+---
+
+## Article 19
+### Title@2025-07-28 (1): Visa and Mastercard are getting overwhelmed by gamer fury over censorship
+
+**Title**: Visa and Mastercard are getting overwhelmed by gamer fury over censorship | Visa und Mastercard werden von Gamer Wut über Zensur überwältigt | 签证和总卡被游戏游戏家的愤怒所压倒, [visa-mastercard-steam-itchio-campaign-adult-games](https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games)
+
+**Authors** (1): mrzool
+
+<p>Article URL: <a href="https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games">https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44713414">https://news.ycombinator.com/item?id=44713414</a></p> <p>Points: 614</p> <p># Comments: 584</p>
+
+<https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games>https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games </a>
+
+---
+
+## Article 20
+### Title@2025-07-28 (1): Copyparty – Turn almost any device into a file server
+
+**Title**: Copyparty – Turn almost any device into a file server | Copyparty – Verwandeln Sie fast jedes Gerät in einen Dateiserver | 复制方 - 将几乎所有设备转换为文件服务器 [copyparty](https://github.com/9001/copyparty)
+
+**Authors** (1): saint11
+
+<p>Article URL: <a href="https://github.com/9001/copyparty">https://github.com/9001/copyparty</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44711519">https://news.ycombinator.com/item?id=44711519</a></p> <p>Points: 1068</p> <p># Comments: 166</p>
+
+<a href=>https://github.com/9001/copyparty>https://github.com/9001/copyparty</a>
+
+---
+
+## Article 21
+### Title@2025-07-28 (1): Tao on “blue team” vs. “red team” LLMs
+
+**Title**: Tao on “blue team” vs. “red team” LLMs | Tao auf der blauen Mannschaft gegen die rote Mannschaft gegen die LLMs | Tao on " 蓝队 " 与 " 红队 " 之间 [114915604830689046](https://mathstodon.xyz/@tao/114915604830689046)
+
+**Authors** (1): qsort
+
+<p>Article URL: <a href="https://mathstodon.xyz/@tao/114915604830689046">https://mathstodon.xyz/@tao/114915604830689046</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44711306">https://news.ycombinator.com/item?id=44711306</a></p> <p>Points: 536</p> <p># Comments: 168</p>
+
+<a href="https://mathstodon.xyz/@tao/1114915604830689046" >https://mathstodon.xyz/@tao/114915604830689046 </a>
+
+---
+
+## Article 22
+### Title@2025-07-28 (1): Face it: you're a crazy person
+
+**Title**: Face it: you're a crazy person | Sieh es dir an: Du bist ein verrückter Mensch | 面对现实:你是个疯子 [face-it-youre-a-crazy-person](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
+
+**Authors** (1): surprisetalk
+
+<p>Article URL: <a href="https://www.experimental-history.com/p/face-it-youre-a-crazy-person">https://www.experimental-history.com/p/face-it-youre-a-crazy-person</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44710651">https://news.ycombinator.com/item?id=44710651</a></p> <p>Points: 724</p> <p># Comments: 364</p>
+
+<a href=>https://www.experimental-histary.com/p/face-it-yore-a-crazy-person>https://www.experiment-histary.com/p/face-it-yore-a-crazy-person </a>
+
+---
+
+## Article 23
+### Title@2025-07-28 (1): VPN use surges in UK as new online safety rules kick in
+
+**Title**: VPN use surges in UK as new online safety rules kick in | VPN nutzen Überspannungen in Großbritannien als neue Online-Sicherheitsregeln kick in | 新的在线安全规则启动时, VPN 使用英国的VPN 激增 [356674b0-9f1d-4f95-b1d5-f27570379a9b](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
+
+**Authors** (1): mmarian
+
+<p>Article URL: <a href="https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b">https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44706653">https://news.ycombinator.com/item?id=44706653</a></p> <p>Points: 688</p> <p># Comments: 1340</p>
+
+<a href="https://www.ft.com/content/ 356674b0-9f1d-4f95-b1d5-f27570379a9b" <https://www.ft.com/content/ 356674b0-9f1d-4f95-b1d5-f27570379a9b </a>
+
+---
+
+## Article 24
+### Title@2025-07-27 (7): Enough AI copilots, we need AI HUDs
+
+**Title**: Enough AI copilots, we need AI HUDs | Genug KI-Copiloten, wir brauchen KI-HUDs | 足够的AI联合驾驶员 我们需要AIHUD [enough-ai-copilots-we-need-ai-huds](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
+
+**Authors** (1): walterbell
+
+<p>Article URL: <a href="https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds">https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44705445">https://news.ycombinator.com/item?id=44705445</a></p> <p>Points: 968</p> <p># Comments: 267</p>
+
+<a href="https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-de need-ai-huds" <https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-de need-ai-huds </a>
+
+---
+
+## Article 25
+### Title@2025-07-27 (7): EU age verification app to ban any Android system not licensed by Google
+
+**Title**: EU age verification app to ban any Android system not licensed by Google | EU-Altersprüfung App, um jedes Android-System nicht von Google lizenziert verbieten | 欧盟年龄核查应用软件,以禁止任何未经谷歌许可的Android系统 [YxmPgFes8a](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
+
+**Authors** (1): cft
+
+<p>Article URL: <a href="https://www.reddit.com/r/degoogle/s/YxmPgFes8a">https://www.reddit.com/r/degoogle/s/YxmPgFes8a</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44705240">https://news.ycombinator.com/item?id=44705240</a></p> <p>Points: 1039</p> <p># Comments: 684</p>
+
+<a href=>https://www.reddit.com/r/degoogle/s/YxmPgFes8a><https://www.reddit.com/r/degoogle/s/YxmPgFes8a </a>
+
+---
+
+## Article 26
+### Title@2025-07-27 (7): Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork
+
+**Title**: Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork | Leistungs- und Telemetrieanalyse von Trae IDE, ByteDances VSCode Gabel | 对Trae IDE,ByteDance的VSCode Fork的 Trae IDE的性能和遥测分析 [trae_telemetry_research](https://github.com/segmentationf4u1t/trae_telemetry_research)
+
+**Authors** (1): segfault22
+
+<p>Hi HN, I was evaluating IDEs for a personal project and decided to test Trae, ByteDance's fork of VSCode. I immediately noticed some significant performance and privacy issues that I felt were worth sharing. I've written up a full analysis with screenshots, network logs, and data payloads in the linked post.<p>Here are the key findings:<p>1. Extreme Resource Consumption: Out of the box, Trae used 6.3x more RAM (~5.7 GB) and spawned 3.7x more processes (33 total) than a standard VSCode setup with the same project open. The team has since made improvements, but it's still significantly heavier.<p>2. Telemetry Opt-Out Doesn't Work (It Makes It Worse): I found Trae was constantly sending data to ByteDance servers (byteoversea.com). I went into the settings and disabled all telemetry. To my surprise, this didn't stop the traffic. In fact, it increased the frequency of batch data collection. The telemetry "off" switch appears to be purely cosmetic.<p>3. What's Being Sent: Even with telemetry "disabled," Trae sends detailed payloads including: Hardware specs (CPU, memory, etc.) Persistent user, device, and machine IDs OS version, app language, user name Granular usage data like time-on-ide, window focus state, and active file types.<p>4. Community Censorship: When I tried to discuss these findings on their official Discord, my posts were deleted and my account was muted for 7 days. It seems words like "track" trigger an automated gag rule, which prevents any real discussion about privacy.<p>I believe developers should be aware of this behavior. The combination of resource drain, non-functional privacy settings, and censorship of technical feedback is a major red flag. The full, detailed analysis with all the evidence (process lists, Fiddler captures, JSON payloads, and screenshots of the Discord moderation) is available at the link. Happy to answer any questions.</p> <hr /> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44703164">https://news.ycombinator.com/item?id=44703164</a></p> <p>Points: 953</p> <p># Comments: 366</p>
+
+<p> 条次 URL: </p>
+
+---
+
+## Article 27
+### Title@2025-07-27 (7): Tom Lehrer has died
+
+**Title**: Tom Lehrer has died | Tom Lehrer ist gestorben | 汤姆·元首死了 [tom-lehrer-dead.html](https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html)
+
+**Authors** (1): detaro
+
+<p><a href="https://archive.ph/gY3Xa" rel="nofollow">https://archive.ph/gY3Xa</a><p>Also: <a href="https://apnews.com/article/tom-lehrer-son-satirist-mathematician-dies-9caa7ee01faf4fbfb793d7ba984c179d" rel="nofollow">https://apnews.com/article/tom-lehrer-son-satirist-mathemati...</a></p> <hr /> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44702782">https://news.ycombinator.com/item?id=44702782</a></p> <p>Points: 638</p> <p># Comments: 115</p>
+
+<p> 条次 URL: </p>
+
+---
+
+## Article 28
+### Title@2025-07-27 (7): Dumb Pipe
+
+**Title**: Dumb Pipe | Dumb Pipe | 哑巴管 [](https://www.dumbpipe.dev/)
+
+**Authors** (1): udev4096
+
+<p>Article URL: <a href="https://www.dumbpipe.dev/">https://www.dumbpipe.dev/</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44701555">https://news.ycombinator.com/item?id=44701555</a></p> <p>Points: 1000</p> <p># Comments: 245</p>
+
+<a href=>https://www.dumbipop.dev/>https://www.dumbipop.dev/ </a>
+
+---
+
+## Article 29
+### Title@2025-07-27 (7): 4k NASA employees opt to leave agency through deferred resignation program
+
+**Title**: 4k NASA employees opt to leave agency through deferred resignation program | 4k NASA-Mitarbeiter entscheiden sich dafür, die Agentur durch ein aufgeschobenes Rücktrittsprogramm zu verlassen | 4k 美国航天局雇员通过推迟辞职方案选择离开代理机构 [nx-s1-5481304](https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304)
+
+**Authors** (1): ProAm
+
+<p>Article URL: <a href="https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304">https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304</a></p> <p>Comments URL: <a href="https://news.ycombinator.com/item?id=44699052">https://news.ycombinator.com/item?id=44699052</a></p> <p>Points: 515</p> <p># Comments: 721</p>
+
+<a href=>https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304>>https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304</a>
+
+---
+
