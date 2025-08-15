@@ -1,0 +1,259 @@
+---
+title: "cs.PL @ 2025-08-15: 018"
+date: 2025-08-15
+layout: post
+---
+
+- [00](#article-0) | **08-14 (4)** | Generating Compilers for Qubit Mapping and Routing | Kompiler für Qubit Mapping und Routing generieren | 正在生成Qubit 绘图和运行运行的编译器 | [2508.10781v1](http://arxiv.org/abs/2508.10781v1)
+- [01](#article-1) | 08-14 | A bargain for mergesorts -- How to prove your mergesort correct and   stable, almost for free | Ein Schnäppchen für Mergesorts -- Wie Sie Ihr Mergesort korrekt und stabil beweisen, fast kostenlos | 合并的讨价还价 -- -- 如何证明合并的正确和稳定,几乎是免费的 | [2403.08173v3](http://arxiv.org/abs/2403.08173v3)
+- [02](#article-2) | **08-13 (3)** | Unraveling the iterative CHAD | Entwirren des iterativen CHAD | 解开反复的CHAD | [2505.15002v2](http://arxiv.org/abs/2505.15002v2)
+- [03](#article-3) | 08-13 | Invertible Syntax without the Tuples (Functional Pearl) | Invertible Syntax ohne Tupel (Funktionale Perle) | 无图例( 功能珍珠) 的不可逆语法 | [2508.09856v1](http://arxiv.org/abs/2508.09856v1)
+- [04](#article-4) | 08-13 | SaraCoder: Orchestrating Semantic and Structural Cues for   Profit-Oriented Repository-Level Code Completion | SaraCoder: Orchestrierung semantischer und struktureller Queues für gewinnorientiertes Repository-Level-Code-Vervollständigung | Sara Coder:为以利润为导向的仓库一级规则完成完成而为利润导向的仓库一级规则提供管弦和结构构件 | [2508.10068v1](http://arxiv.org/abs/2508.10068v1)
+- [05](#article-5) | **08-12 (2)** | CRDT Emulation, Simulation, and Representation Independence | CRDT Emulation, Simulation und Repräsentation Unabhängigkeit | CRDT 模拟、模拟和代表独立性 | [2504.05398v2](http://arxiv.org/abs/2504.05398v2)
+- [06](#article-6) | 08-12 | Synthesizing JSON Schema Transformers | JSON-Schema-Transformatoren synthetisieren | Json Schema 转换器合成器 | [2405.17681v2](http://arxiv.org/abs/2405.17681v2)
+- [07](#article-7) | **08-11 (1)** | Empowering Children to Create AI-Enabled Augmented Reality Experiences | Ermächtigen Kinder, KI-fähige Augmented Reality-Erfahrungen zu erstellen | 增强儿童权能以创造独立、可实现和增强的现实经验 | [2508.08467v1](http://arxiv.org/abs/2508.08467v1)
+- [08](#article-8) | 08-11 | On the Origins of Objects by Means of Careful Selection | Über die Ursprünge von Objekten durch sorgfältige Auswahl | 以仔细挑选的方式挑选物体的来源 | [2206.02585v5](http://arxiv.org/abs/2206.02585v5)
+- [09](#article-9) | 08-11 | Towards General-Purpose Data Discovery: A Programming Languages Approach | Auf dem Weg zu einer allgemeinen Zieldatenerkundung: Ein Programmiersprache-Ansatz | 争取实现一般目的数据发现:方案编制语文方法 | [2508.08074v1](http://arxiv.org/abs/2508.08074v1)
+- [10](#article-10) | 08-11 | TQL: Towards Type-Driven Data Discovery | TQL: Auf dem Weg zur typgetriebenen Datenerkennung | TQL: 转向类型驱动数据发现 | [2508.08054v1](http://arxiv.org/abs/2508.08054v1)
+- [11](#article-11) | 08-11 | Checking Consistency of Event-driven Traces | Überprüfung der Konsistenz von ereignisgesteuerten Spuren | 检查事件驱动追踪的一致性 | [2508.07855v1](http://arxiv.org/abs/2508.07855v1)
+- [12](#article-12) | **08-08 (5)** | Efficient Decrease-And-Conquer Linearizability Monitoring | Effiziente Überwachung der Abnahme-und-Eroberung-Linearizierbarkeit | 高效减少和制备线性监测 | [2410.04581v4](http://arxiv.org/abs/2410.04581v4)
+- [13](#article-13) | 08-08 | CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive   Program Synthesis | CodeARC: Benchmarking-Gründerfähigkeiten von LLM-Agenten für induktive Programmsynthese | 守则ARC:用于引入方案合成的LLM代理商基准推理能力 | [2503.23145v2](http://arxiv.org/abs/2503.23145v2)
+- [14](#article-14) | 08-08 | Hybrid Game Control Envelope Synthesis | Hybrid Game Control Envelope Synthesis | 混合控制游戏信封合成 | [2508.05997v1](http://arxiv.org/abs/2508.05997v1)
+- [15](#article-15) | **08-07 (4)** | Qunity: A Unified Language for Quantum and Classical Computing (Extended   Version) | Qunity: Eine einheitliche Sprache für Quanten- und klassisches Rechnen (erweiterte Version) | 纯度:量度和古典计算统一语言(例外版本) | [2204.12384v5](http://arxiv.org/abs/2204.12384v5)
+- [16](#article-16) | 08-07 | From Code to Correctness: Closing the Last Mile of Code Generation with   Hierarchical Debugging | Vom Code zur Korrektheit: Die letzte Meile der Code-Generation mit Hierarchischem Debugging schließen | 从代码到正确性:结束代码生成的最后一步,使用等级调试 | [2410.01215v3](http://arxiv.org/abs/2410.01215v3)
+- [17](#article-17) | 08-07 | Modular Reasoning about Error Bounds for Concurrent Probabilistic   Programs (Extended Version) | Modulare Begründung über Fehlergrenzen für gleichzeitige probabilistische Programme (Erweiterte Version) | 用于同时概率程序(例外版本)的错误误界的模块原因 | [2503.04512v3](http://arxiv.org/abs/2503.04512v3)
+
+## Article 0
+### Title@2025-08-14 (4): Generating Compilers for Qubit Mapping and Routing
+
+**Title**: Generating Compilers for Qubit Mapping and Routing | Kompiler für Qubit Mapping und Routing generieren | 正在生成Qubit 绘图和运行运行的编译器 [2508.10781v1](http://arxiv.org/abs/2508.10781v1)
+
+**Authors** (5): Abtin Molavi, Amanda Xu, Ethan Cecchetti, Swamit Tannu, Aws Albarghouthi
+
+Quantum computers promise to solve important problems faster than classical computers, potentially unlocking breakthroughs in materials science, chemistry, and beyond. Optimizing compilers are key to realizing this potential, as they minimize expensive resource usage and limit error rates. A critical compilation step is qubit mapping and routing (QMR), which finds mappings from circuit qubits to qubits on a target device and plans instruction execution while satisfying the device's connectivity constraints. The challenge is that the landscape of quantum architectures is incredibly diverse and fast-evolving. Given this diversity, hundreds of papers have addressed the QMR problem for different qubit hardware, connectivity constraints, and quantum error correction schemes.   We present an approach for automatically generating qubit mapping and routing compilers for arbitrary quantum architectures. Though each QMR problem is different, we identify a common core structure-device state machine-that we use to formulate an abstract QMR problem. Our formulation naturally leads to a domain-specific language, Marol, for specifying QMR problems-for example, the well-studied NISQ mapping and routing problem requires only 12 lines of Marol. We demonstrate that QMR problems, defined in Marol, can be solved with a powerful parametric solver that can be instantiated for any Marol program. We evaluate our approach through case studies of important QMR problems from prior and recent work, covering noisy and fault-tolerant quantum architectures on all major hardware platforms. Our thorough evaluation shows that generated compilers are competitive with handwritten, specialized compilers in terms of runtime and solution quality. We envision that our approach will simplify development of future quantum compilers as new quantum architectures continue to emerge.
+
+量子计算机承诺以比古典计算机更快的速度解决重要问题,这有可能释放材料科学、化学等领域的突破。优化编译者是实现这一潜力的关键,因为他们最大限度地减少昂贵的资源使用和限制误差率。一个关键的编译步骤是qubit绘图和路由(QMR ) , 它在目标装置和计划中找到从电路qubit到qubit的映射, 在满足设备连通性限制的同时, 指令执行。 挑战在于量子结构的景观是极其多样化和快速变化的。 鉴于这种多样性, 数百篇论文已经解决了不同qubit硬件、连通性限制和量子错误校正计划等的QMR问题。 我们提出了一个自动生成qubet绘图和路径编程编辑者的方法。 尽管每个QMRMR问题都不同, 我们找到一个共同的核心结构- 代号机器,我们用来设计一个抽象的QMRR问题。 我们的配制自然导致一个特定域的量子语言, Marol , 用于说明QMR的问题, 例如, 正确研究的QQQ 的精准的Q , Marrrral 的地图和直径直径直线路路路路路路的计算方法需要我们定义的任何问题, 。我们只有任何直标的直线路路路路路路路的计算, 我们只能通过任何直路的直路的直路标, 。
+
+---
+
+## Article 1
+### Title@2025-08-14 (4): A bargain for mergesorts -- How to prove your mergesort correct and   stable, almost for free
+
+**Title**: A bargain for mergesorts -- How to prove your mergesort correct and   stable, almost for free | Ein Schnäppchen für Mergesorts -- Wie Sie Ihr Mergesort korrekt und stabil beweisen, fast kostenlos | 合并的讨价还价 -- -- 如何证明合并的正确和稳定,几乎是免费的 [2403.08173v3](http://arxiv.org/abs/2403.08173v3)
+
+**Authors** (2): Cyril Cohen, Kazuhiko Sakaguchi
+
+We present a novel characterization of stable mergesort functions using relational parametricity, and show that it implies the functional correctness of mergesort. As a result, one can prove the correctness of several variations of mergesort (e.g., top-down, bottom-up, tail-recursive, non-tail-recursive, smooth, and non-smooth mergesorts) by proving the characteristic property for each variation. Thanks to our characterization and the parametricity translation, we deduced the correctness results, including stability, of various implementations of mergesort for lists, including highly optimized ones, in the Rocq Prover (formerly the Coq Proof Assistant).
+
+我们用相对准度来描述稳定合并的功能,并表明它意味着合并的功能正确性。 因此,我们可以通过证明每种变异的特征属性,来证明合并的几种变异(例如自上而下、自下而上、尾部-后向、尾部-后向、非尾部-后向、非尾部-后向、平稳和非间向合并的)的正确性。 由于我们的定性和对准度的翻译,我们推断出对罗克普罗维尔(前科克验证助理)的合并(包括高度优化的合并)清单的各种执行的正确性,包括稳定性。
+
+---
+
+## Article 2
+### Title@2025-08-13 (3): Unraveling the iterative CHAD
+
+**Title**: Unraveling the iterative CHAD | Entwirren des iterativen CHAD | 解开反复的CHAD [2505.15002v2](http://arxiv.org/abs/2505.15002v2)
+
+**Authors** (3): Fernando Lucatelli Nunes, Gordon Plotkin, Matthijs Vákár
+
+Combinatory Homomorphic Automatic Differentiation (CHAD) was originally formulated as a semantics-driven source-to-source transformation for reverse-mode AD of total (terminating) functional programs. In this work, we extend CHAD to encompass programs featuring constructs such as partial (potentially non-terminating) operations, data-dependent conditionals (e.g., real-valued tests), and iteration constructs (i.e. while-loops), while maintaining CHAD's core principle of structure-preserving semantics.   A central contribution is the introduction of iteration-extensive indexed categories, which provide a principled integration of iteration into dependently typed programming languages. This integration is achieved by requiring that iteration in the base category lifts to parameterized initial algebras in the indexed category, yielding an op-fibred iterative structure that models while-loops and other iteration constructs in the total category, which corresponds to the category of containers of our dependently typed language.   Through the idea of iteration-extensive indexed categories, we extend the CHAD transformation to looping programs as the unique structure-preserving functor in a suitable sense. Specifically, it is the unique iterative Freyd category morphism from the iterative Freyd category corresponding to the source language to the category of containers obtained from the target language, such that each primitive operation is mapped to its (transposed) derivative. We establish the correctness of this extended transformation via the universal property of the syntactic categorical model of the source language, showing that the differentiated programs compute correct reverse-mode derivatives of their originals.
+
+在这项工作中,我们扩展了 CHAD , 以包含包含部分( 潜在非终止) 操作、 数据依赖性条件( 例如, 实际价值测试) 和迭代性结构( 即, 值值测试) 等构造的方案。 同时保持 CHAD 结构保存语义的核心原则。 一个核心贡献是引入代数- 扩展指数化类别, 将迭代原则纳入独立( 终止) 功能程序。 在这项工作中, 我们扩展 CHAD , 以包含部分( 可能非终止) 操作、 数据依赖性条件( 即, 实际值测试) 和迭代性结构( 边值) , 并保持 结构保存语义的核心原则。 一个核心贡献是引入代数- 扩展 扩展 指数化类别, 从而将迭代法的迭代法性能纳入依次的编程, 将基类中的迭代谢性变法性变法( 即: 其自定义性变法性变法性语言的直径直径直径解变法性语言 , 版本变法性变法性变法的分类, 我们将这种代代代代代变法性变法性变法性变法性变法, 变法性变法性变法。
+
+---
+
+## Article 3
+### Title@2025-08-13 (3): Invertible Syntax without the Tuples (Functional Pearl)
+
+**Title**: Invertible Syntax without the Tuples (Functional Pearl) | Invertible Syntax ohne Tupel (Funktionale Perle) | 无图例( 功能珍珠) 的不可逆语法 [2508.09856v1](http://arxiv.org/abs/2508.09856v1)
+
+**Authors** (2): Mathieu Boespflug, Arnaud Spiwack
+
+In the seminal paper Functional unparsing, Olivier Danvy used continuation passing to reanalyse printf-like format strings as combinators. In the intervening decades, the conversation shifted towards a concurrent line of work -- applicative, monadic or arrow-based combinator libraries -- in an effort to find combinators for invertible syntax descriptions that simultaneously determine a parser as well as a printer, and with more expressive power, able to handle inductive structures such as lists and trees. Along the way, continuation passing got lost. This paper argues that Danvy's insight remains as relevant to the general setting as it was to the restricted setting of his original paper. Like him, we present three solutions that exploit continuation-passing style as an alternative to both dependent types and monoidal aggregation via nested pairs, in our case to parse and print structured data with increasing expressive power.
+
+奥利弗·丹维(Olivier Danvy)在创用纸“功能分解”中,用继续转而作为组合器重新分析打印式格式字符串。在这几十年里,对话转向了平行的工作线 -- -- 应用式、monadic或箭型组合库 -- -- 以寻找可翻转的语法描述的组合器,这些描述同时决定一个剖析器和打印机,并具有更清晰的表达力,能够处理诸如列表和树等感应结构。与此同时,继续的传递被丢失了。本文指出,丹维的洞察力仍然与一般设置相关,就像其原始纸张的限定设置一样。和他一样,我们提出了三种解决方案,即利用延续式的通行风格,作为依赖型和通过嵌式组合组合的单项组合的替代方法,就我们的情况而言,是分析和打印结构化数据,其表达力越来越强。
+
+---
+
+## Article 4
+### Title@2025-08-13 (3): SaraCoder: Orchestrating Semantic and Structural Cues for   Profit-Oriented Repository-Level Code Completion
+
+**Title**: SaraCoder: Orchestrating Semantic and Structural Cues for   Profit-Oriented Repository-Level Code Completion | SaraCoder: Orchestrierung semantischer und struktureller Queues für gewinnorientiertes Repository-Level-Code-Vervollständigung | Sara Coder:为以利润为导向的仓库一级规则完成完成而为利润导向的仓库一级规则提供管弦和结构构件 [2508.10068v1](http://arxiv.org/abs/2508.10068v1)
+
+**Authors** (10): Xiaohan Chen, Zhongying Pan, Quan Feng, Yu Tian, Shuqun Yang, Mengru Wang, Lina Gong, Yuxia Geng, Piji Li, Xiang Chen
+
+Retrieval-augmented generation (RAG) for repository-level code completion commonly relies on superficial text similarity, leading to results plagued by semantic misguidance, redundancy, and homogeneity, while also failing to resolve external symbol ambiguity. To address these challenges, we introduce Saracoder, a Hierarchical Feature-Optimized retrieval framework. Its core Hierarchical Feature Optimization module systematically refines candidates by distilling deep semantic relationships, pruning exact duplicates, assessing structural similarity with a novel graph-based metric that weighs edits by their topological importance, and reranking results to maximize both relevance and diversity. Furthermore, an External-Aware Identifier Disambiguator module accurately resolves cross-file symbol ambiguity via dependency analysis. Extensive experiments on the challenging CrossCodeEval and RepoEval-Updated benchmarks demonstrate that Saracoder significantly outperforms existing baselines across multiple programming languages and models. Our work proves that systematically refining retrieval results across multiple dimensions provides a new paradigm for building more accurate and robust repository-level code completion systems.
+
+为了应对这些挑战,我们引入了等级地貌特征优化检索框架Saracoder。其核心的等级地貌特征优化模块通过蒸馏深层的语义关系、剪裁精确的复制品、评估结构相似性、以新颖的图表为基础的衡量标准衡量结构相似性、按其表面重要性对编辑进行权衡的图表衡量结果,以及重新排列结果,以尽量扩大相关性和多样性。此外,一个外部软件识别分解器模块通过依赖性分析准确地解决跨档案标志的模糊性。关于具有挑战性的CrossCodeEval和RepoEval更新基准的广泛实验表明,Saracoder显著超越了多种程序语言和模型的现有基线。我们的工作证明,系统地改进多个层面的检索结果,为建立更准确、更可靠的存储库完成系统提供了新的范例。
+
+---
+
+## Article 5
+### Title@2025-08-12 (2): CRDT Emulation, Simulation, and Representation Independence
+
+**Title**: CRDT Emulation, Simulation, and Representation Independence | CRDT Emulation, Simulation und Repräsentation Unabhängigkeit | CRDT 模拟、模拟和代表独立性 [2504.05398v2](http://arxiv.org/abs/2504.05398v2)
+
+**Authors** (4): Nathan Liittschwager, Jonathan Castello, Stelios Tsampas, Lindsey Kuper
+
+Conflict-free replicated data types (CRDTs) are distributed data structures designed for fault tolerance and high availability. CRDTs have historically been taxonomized into state-based CRDTs, in which replicas apply updates locally and periodically broadcast their state to other replicas over the network, and operation-based (or op-based) CRDTs, in which every state-updating operation is individually broadcast. In the literature, state-based and op-based CRDTs are considered equivalent due to the existence of algorithms that let them emulate each other, and verification techniques and results that apply to one kind of CRDT are said to apply to the other thanks to this equivalence. However, what it means for state-based and op-based CRDTs to emulate each other has never been made fully precise. Emulation is nontrivial since state-based and op-based CRDTs place different requirements on the underlying network with regard to both the causal ordering of message delivery, and the granularity of the messages themselves.   We specify and formalize CRDT emulation in terms of simulation by modeling CRDTs and their interactions with the network as transition systems. We show that emulation can be understood as weak simulations between the transition systems of the original and emulating CRDT systems, thus closing a gap in the CRDT literature. We precisely characterize which properties of CRDT systems are preserved by our weak simulations, and therefore which properties can be said to be preserved by emulation algorithms. Finally, we leverage our emulation results to obtain a general representation independence result for CRDTs: intuitively, clients of a CRDT cannot tell whether they are interacting with a state-based or op-based CRDT in particular.
+
+无冲突复制数据类型(CRDTs)被分发,用于防错容忍度和高可用性。CRDTs历来被归为州级CRDTs,其中复制品在当地进行更新,定期在网络上向其他复制者传播其状态,运行(或基于论坛)CRDTs,其中每个州级更新业务(或基于论坛)都单独广播。在文献中,国家和基于论坛的CRDTs被认为是等效的,因为存在允许它们相互仿效的算法,而由于这种等同性,一种适用于CRDTTs的核查技术和结果据说适用于州级CRDTs。然而,对于基于州级的和基于论坛的CRDTss(或基于论坛的CRDTs),它意味着什么?由于基于州级和基于论坛的运行,每个州级更新的运行(或基于论坛的CRDTTs)对基础网络提出了不同的要求,因此信息本身的发源性要求。我们用CRDTDT的模拟模型来说明和它们之间的虚拟模变的模缩。 我们的CRDDDDDDS的变的系统可以理解, 。
+
+---
+
+## Article 6
+### Title@2025-08-12 (2): Synthesizing JSON Schema Transformers
+
+**Title**: Synthesizing JSON Schema Transformers | JSON-Schema-Transformatoren synthetisieren | Json Schema 转换器合成器 [2405.17681v2](http://arxiv.org/abs/2405.17681v2)
+
+**Authors** (2): Jack Stanek, Daniel Killough
+
+JSON (JavaScript Object Notation) is a data encoding that allows structured data to be used in a standardized and straightforward manner across systems. Schemas for JSON-formatted data can be constructed using the JSON Schema standard, which describes the data types, structure, and meaning of JSON-formatted data. JSON is commonly used for storing and transmitting information such as program configurations, web API requests and responses, or remote procedure calls; or data records, such as healthcare information or other structured documents. Since JSON is a plaintext format with potentially highly complex definitions, it can be an arduous process to change code which handles structured JSON data when its storage or transmission schemas are modified. Our work describes a program synthesis method to generate a program that accepts data conforming to a given input JSON Schema and automatically converts it to conform to a resulting, target JSON Schema. We use a top-down, type-directed approach to search for programs using a set of rewrite rules which constrain the ways in which a schema can be modified without unintended data loss or corruption. Once a satisfying sequence of rewrites has been found, we pass an intermediate representation of the rewrite sequence to a code generation backend, which synthesizes a program which executes the data transformation. This system allows users to quickly and efficiently modify or augment their existing systems in safe ways at their interfaces.
+
+JSON( JavaScript 物件名称) 是一种数据编码, 使结构化数据能够在各系统之间以标准化和直截了当的方式使用。 JSON 格式化数据的图示可以使用JSON Schema 标准来构建 JSON 格式化数据,该标准描述JSON 格式化数据的数据类型、结构和含义。 JSON 通常用于存储和传输信息, 如程序配置、Web API 请求和回应或远程程序呼叫; 或数据记录, 如保健信息或其他结构化文件。 JSON 是一个简单的文本格式, 可能具有高度复杂的定义。 由于 JSON 是一个艰巨的过程, 它可以改变代码, 当JSON 格式化的存储或传输系统被修改时处理结构化 JSonson 格式化数据。 我们的工作描述了一种程序合成方法, 以接受符合给给给给定输入输入输入的 JSONSON Schema 的数据, 并自动将其转换成符合结果, 目标JSON Schemma 。 我们使用自上下、 、 类型式搜索系统来快速的系统搜索方法, , 将一个快速转换成一个中间程序。
+
+---
+
+## Article 7
+### Title@2025-08-11 (1): Empowering Children to Create AI-Enabled Augmented Reality Experiences
+
+**Title**: Empowering Children to Create AI-Enabled Augmented Reality Experiences | Ermächtigen Kinder, KI-fähige Augmented Reality-Erfahrungen zu erstellen | 增强儿童权能以创造独立、可实现和增强的现实经验 [2508.08467v1](http://arxiv.org/abs/2508.08467v1)
+
+**Authors** (7): Lei Zhang, Shuyao Zhou, Amna Liaqat, Tinney Mak, Brian Berengard, Emily Qian, Andrés Monroy-Hernández
+
+Despite their potential to enhance children's learning experiences, AI-enabled AR technologies are predominantly used in ways that position children as consumers rather than creators. We introduce Capybara, an AR-based and AI-powered visual programming environment that empowers children to create, customize, and program 3D characters overlaid onto the physical world. Capybara enables children to create virtual characters and accessories using text-to-3D generative AI models, and to animate these characters through auto-rigging and body tracking. In addition, our system employs vision-based AI models to recognize physical objects, allowing children to program interactive behaviors between virtual characters and their physical surroundings. We demonstrate the expressiveness of Capybara through a set of novel AR experiences. We conducted user studies with 20 children in the United States and Argentina. Our findings suggest that Capybara can empower children to harness AI in authoring personalized and engaging AR experiences that seamlessly bridge the virtual and physical worlds.
+
+尽管有可能提高儿童的学习经验,但AI支持的AR技术主要用于将儿童定位为消费者而不是创造者。我们引入了Capybara,这是一个基于AR和AI驱动的视觉编程环境,使儿童能够创造、定制和编程3D字符,并覆盖在物理世界。Capybara使儿童能够利用文本到-3D的基因化AI模型创建虚拟字符和配件,并通过自动操纵和身体跟踪来使这些字符动画。此外,我们的系统还使用基于愿景的AI模型来识别物理物体,让儿童能够编程虚拟字符及其周围物理环境之间的交互式行为。我们通过一套新的AR经验展示了Capybara的清晰性。我们在美国和阿根廷对20名儿童进行了用户研究。我们的研究结果表明,Capybara能够让儿童利用AI来创作个人化和吸引AR经验,从而无缝地连接虚拟和物理世界。
+
+---
+
+## Article 8
+### Title@2025-08-11 (1): On the Origins of Objects by Means of Careful Selection
+
+**Title**: On the Origins of Objects by Means of Careful Selection | Über die Ursprünge von Objekten durch sorgfältige Auswahl | 以仔细挑选的方式挑选物体的来源 [2206.02585v5](http://arxiv.org/abs/2206.02585v5)
+
+**Authors** (2): Yegor Bugayenko, Maxim Trunnikov
+
+We introduce a taxonomy of objects for EO programming language. This taxonomy is designed with a few principles in mind: non-redundancy, simplicity, and so on. The taxonomy is supposed to be used as a navigation map by EO programmers. It may also be helpful as a guideline for designers of other object-oriented languages or libraries for them.
+
+我们为 EO 编程语言引入对象分类法。 这种分类法的设计考虑到几个原则:非冗余、简单等等。 分类法应该作为 EO 编程员的导航图使用, 也可以作为其他对象语言设计师或为它们设计的图书馆的指南。
+
+---
+
+## Article 9
+### Title@2025-08-11 (1): Towards General-Purpose Data Discovery: A Programming Languages Approach
+
+**Title**: Towards General-Purpose Data Discovery: A Programming Languages Approach | Auf dem Weg zu einer allgemeinen Zieldatenerkundung: Ein Programmiersprache-Ansatz | 争取实现一般目的数据发现:方案编制语文方法 [2508.08074v1](http://arxiv.org/abs/2508.08074v1)
+
+**Authors** (3): Andrew Kang, Yashnil Saha, Sainyam Galhotra
+
+Efficient and effective data discovery is critical for many modern applications in machine learning and data science. One major bottleneck to the development of a general-purpose data discovery tool is the absence of an expressive formal language, and corresponding implementation, for characterizing and solving generic discovery queries. To this end, we present TQL, a domain-specific language for data discovery well-designed to leverage and exploit the results of programming languages research in both its syntax and semantics. In this paper, we fully and formally characterize the core language through an algebraic model, Imperative Relational Algebra with Types (ImpRAT), and implement a modular proof-of-concept system prototype.
+
+高效和有效的数据发现对于机器学习和数据科学的许多现代应用至关重要,在开发普通用途数据发现工具方面的一个主要瓶颈是缺乏一种明确的正式语言和相应的实施,以辨别和解决通用发现查询的特征;为此,我们提出TQL,这是数据发现的一个域名语言,设计得当,目的是在其语法和语义学中利用并利用编程语言研究成果;在本文件中,我们通过代数模型,即带有类型之必有再联系代数(ImpRAT),充分、正式地描述核心语言,并采用模块式概念校准系统原型。
+
+---
+
+## Article 10
+### Title@2025-08-11 (1): TQL: Towards Type-Driven Data Discovery
+
+**Title**: TQL: Towards Type-Driven Data Discovery | TQL: Auf dem Weg zur typgetriebenen Datenerkennung | TQL: 转向类型驱动数据发现 [2508.08054v1](http://arxiv.org/abs/2508.08054v1)
+
+**Authors** (2): Andrew Kang, Sainyam Galhotra
+
+Existing query languages for data discovery exhibit system-driven designs that emphasize database features and functionality over user needs. We propose a re-prioritization of the client through an introduction of a language-driven approach to data discovery systems that can leverage powerful results from programming languages research. In this paper, we describe TQL, a flexible and practical query language which incorporates a type-like system to encompass downstream transformation-context in its discovery queries. The syntax and semantics of TQL (including the underlying evaluation model), are formally defined, and a sketch of its implementation is also provided. Additionally, we provide comparisons to existing languages for data retrieval and data discovery to examine the advantages of TQL's expanded expressive power in real-life settings.
+
+我们建议对数据发现系统采用语文驱动的方法,重新确定客户的优先次序,采用这种方法可以利用编程语言研究的有力成果;在本文件中,我们描述TQL是一种灵活而实用的查询语言,这种语言包含一种类型相似的系统,在查找查询中包括下游转换-文字;对TQL的语法和语义(包括基本评价模式)作了正式界定,并提供了其实施情况的草图;此外,我们还对现有语言进行数据检索和数据发现方面的比较,以审查TQL在现实环境中扩大的表达力的优点。
+
+---
+
+## Article 11
+### Title@2025-08-11 (1): Checking Consistency of Event-driven Traces
+
+**Title**: Checking Consistency of Event-driven Traces | Überprüfung der Konsistenz von ereignisgesteuerten Spuren | 检查事件驱动追踪的一致性 [2508.07855v1](http://arxiv.org/abs/2508.07855v1)
+
+**Authors** (5): Parosh Aziz Abdulla, Mohamed Faouzi Atig, R. Govind, Samuel Grahn, Ramanathan S. Thinniyam
+
+Event-driven programming is a popular paradigm where the flow of execution is controlled by two features: (1) shared memory and (2) sending and receiving of messages between multiple handler threads (just called handler). Each handler has a mailbox (modelled as a queue) for receiving messages, with the constraint that the handler processes its messages sequentially. Executions of messages by different handlers may be interleaved. A central problem in this setting is checking whether a candidate execution is consistent with the semantics of event-driven programs. In this paper, we propose an axiomatic semantics for eventdriven programs based on the standard notion of traces (also known as execution graphs). We prove the equivalence of axiomatic and operational semantics. This allows us to rephrase the consistency problem axiomatically, resulting in the event-driven consistency problem: checking whether a given trace is consistent. We analyze the computational complexity of this problem and show that it is NP-complete, even when the number of handler threads is bounded. We then identify a tractable fragment: in the absence of nested posting, where handlers do not post new messages while processing a message, consistency checking can be performed in polynomial time. Finally, we implement our approach in a prototype tool and report on experimental results on a wide range of benchmarks.
+
+由事件驱动的编程是一个流行范例,其执行流程受以下两个特点的控制:(1) 共享记忆和(2) 发送和接收多个处理线(仅称为处理器)之间的信息。 每个处理器都有接收信件的邮箱( 以队列形式建模) , 其制约是处理器顺序处理信息。 不同处理器执行信息时可能会发生间断。 此设置的一个中心问题是检查候选执行是否与事件驱动程序的语义一致。 在本文中, 我们提出基于标准跟踪概念( 也称为执行图) 的事件驱动程序的逻辑语义。 我们证明, 默认和操作语义的等同性。 这使得我们能够重新表达一致性问题, 导致事件驱动的一致性问题: 检查给定的追踪是否一致。 我们分析这一问题的计算复杂性, 并显示它是否完整, 即便处理的处理器式线条数量被捆绑。 我们然后找出一个可牵引的碎片: 在没有嵌式张贴时, 处理器手则不进行宽度和操作器检查, 最后在处理一个实验性模型处理时, 路径上执行一个测试一个结果。
+
+---
+
+## Article 12
+### Title@2025-08-08 (5): Efficient Decrease-And-Conquer Linearizability Monitoring
+
+**Title**: Efficient Decrease-And-Conquer Linearizability Monitoring | Effiziente Überwachung der Abnahme-und-Eroberung-Linearizierbarkeit | 高效减少和制备线性监测 [2410.04581v4](http://arxiv.org/abs/2410.04581v4)
+
+**Authors** (2): Lee Zheng Han, Umang Mathur
+
+Linearizability has become the de facto correctness specification for implementations of concurrent data structures. While formally verifying such implementations remains challenging, linearizability monitoring has emerged as a promising first step to rule out early problems in the development of custom implementations, and serves as a key component in approaches that stress test such implementations. In this work, we investigate linearizability monitoring -- check if an execution history of an implementation is linearizable. While this problem is intractable in general, a systematic understanding of when it becomes tractable has remained elusive. We revisit this problem and first present a unified `decrease-and-conquer' algorithmic framework for linearizability monitoring. At its heart, this framework asks to identify special linearizability-preserving values in a given history -- values whose presence yields an equilinearizable sub-history when removed, and whose absence indicates non-linearizability. We prove that a polynomial time algorithm for the problem of identifying linearizability-preserving values, yields a polynomial time algorithm for linearizability monitoring, while conversely, intractability of this problem implies intractability of the monitoring problem. We demonstrate our framework's effectiveness by instantiating it for several popular data types -- sets, stacks, queues and priority queues -- deriving polynomial time algorithms for each, with the unambiguity restriction, where each insertion to the underlying data structure adds a distinct value. We optimize these algorithms to achieve the optimal log-linear time complexity by amortizing the cost of solving sub-problems through efficient data structures. Our implementation and evaluation on publicly available implementations show that our approach scales to large histories and outperforms existing tools.
+
+线性测距已成为执行并行数据结构的事实上正确性规格。 虽然正式核查这种执行仍然具有挑战性, 线性测距已成为排除开发自定义执行过程中早期问题的一个有希望的第一步, 并成为压力测试这种执行的方法中的一个关键组成部分。 在这项工作中, 我们调查线性测距监测 -- 检查执行过程的执行历史是否可线性。 虽然这个问题一般难以解决, 系统了解何时可移植的问题仍然难以找到。 我们再次研究这一问题, 首先为线性监测提供一个统一的“ 减少和改变” 算法框架。 在它的心脏上, 这个框架要求找出在特定历史中特别的线性保存值 -- 这些值在清除后会产生一种可线性亚性亚性亚性, 并且没有显示执行不线性。 我们证明, 确定线性保值保存价值的问题是一个多数值算法, 产生一种用于线性调值监测的复合时间算法。 我们的线性测距性测距工具, 产生一种可调度测距性测距性测距工具, , 而与此相对而言, 直线性测距性测距性测距性测距性测距性测距性测距性测距, , 这个测距性测距性测距性测距值在某一值值的值值值值值值值值在某个期间测算值值值上, 我们的数据级测算值的每个数据测算值值值值值值值, 我们的测算的测算框架在每几度上, 通过测算, 我们测算的测程的轨道性测算, 通过期测算算算算算算算算算算算算算算算算法 。
+
+---
+
+## Article 13
+### Title@2025-08-08 (5): CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive   Program Synthesis
+
+**Title**: CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive   Program Synthesis | CodeARC: Benchmarking-Gründerfähigkeiten von LLM-Agenten für induktive Programmsynthese | 守则ARC:用于引入方案合成的LLM代理商基准推理能力 [2503.23145v2](http://arxiv.org/abs/2503.23145v2)
+
+**Authors** (9): Anjiang Wei, Tarun Suresh, Jiannan Cao, Naveen Kannan, Yuheng Wu, Kai Yan, Thiago S. F. X. Teixeira, Ke Wang, Alex Aiken
+
+Inductive program synthesis, or programming by example, requires synthesizing functions from input-output examples that generalize to unseen inputs. While large language model agents have shown promise in programming tasks guided by natural language, their ability to perform inductive program synthesis is underexplored. Existing evaluation protocols rely on static sets of examples and held-out tests, offering no feedback when synthesized functions are incorrect and failing to reflect real-world scenarios such as reverse engineering. We propose CodeARC, the Code Abstraction and Reasoning Challenge, a new evaluation framework where agents interact with a hidden target function by querying it with new inputs, synthesizing candidate functions, and iteratively refining their solutions using a differential testing oracle. This interactive setting encourages agents to perform function calls and self-correction based on feedback. We construct the first large-scale benchmark for general-purpose inductive program synthesis, featuring 1114 functions. Among 18 models evaluated, o3-mini performs best with a success rate of 52.7%, highlighting the difficulty of this task. Fine-tuning LLaMA-3.1-8B-Instruct on curated synthesis traces yields up to a 31% relative performance gain. CodeARC provides a more realistic and challenging testbed for evaluating LLM-based program synthesis and inductive reasoning. Our code, data, and models are publicly available at https://github.com/Anjiang-Wei/CodeARC
+
+引入程序合成,或通过实例编程,要求将输入-输出实例的功能综合起来,将输入-输出实例概括为无形投入。大型语言模式代理商在自然语言指导的方案编制任务中表现出希望,但是他们执行输入程序合成的能力却没有得到充分探讨。现有的评价协议依靠固定的成套实例和不公开的测试,在综合功能不正确时不提供反馈,未能反映反向工程等现实世界情景。我们提议了代码-ARC、守则摘要与解释挑战,这是一个新的评价框架,使代理商与隐藏的目标功能互动,方法是通过新投入进行查询,将候选功能合成功能合成,并利用差异测试或触觉反复完善其解决方案。这种互动环境鼓励代理商根据反馈进行功能调用和自我校正程序校准。我们构建了第一个大规模通用输入程序综合基准,共有1114项功能。在经过评估的18个模型中,O3-min表现最佳,成功率为52.7%,突出了这项任务的难度。精细调Lama-3.1-8B-Instruct 利用差异测试功能,利用差异测试/C 系统化系统化系统化系统化的系统化模型,为31版数据模型提供具有挑战性化的模型。
+
+---
+
+## Article 14
+### Title@2025-08-08 (5): Hybrid Game Control Envelope Synthesis
+
+**Title**: Hybrid Game Control Envelope Synthesis | Hybrid Game Control Envelope Synthesis | 混合控制游戏信封合成 [2508.05997v1](http://arxiv.org/abs/2508.05997v1)
+
+**Authors** (4): Aditi Kabra, Jonathan Laurent, Stefan Mitsch, André Platzer
+
+Control problems for embedded systems like cars and trains can be modeled by two-player hybrid games. Control envelopes, which are families of safe control solutions, correspond to nondeterministic winning policies of hybrid games, where each deterministic specialization of the policy is a control solution. This paper synthesizes nondeterministic winning policies for hybrid games that are as permissive as possible. It introduces subvalue maps, a compositional representation of such policies that enables verification and synthesis along the structure of the game. An inductive logical characterization in differential game logic (dGL) checks whether a subvalue map induces a sound control envelope which always induces a winning play. A policy is said to win if it always achieves the desirable outcome when the player follows it, no matter what actions the opponent plays. The maximal subvalue map, which allows the most action options while still winning, is shown to exist and satisfy a logical characterization. A family of algorithms for nondeterministic policy synthesis can be obtained from the inductive subvalue map soundness characterization. An implementation of these findings is evaluated on examples that use the expressivity of dGL to model a range of diverse control challenges.
+
+汽车和火车等嵌入系统的控制问题可以通过双玩混合游戏来模拟。控制信封是安全控制解决方案的组合,它与混合游戏的非决定性赢取政策相对应,混合游戏的每个确定性专业化政策都是一个控制解决方案。本文综合了尽可能宽松的混合游戏的非决定性赢取政策。它引入了亚值地图,这种政策的构成性代表能够按照游戏结构进行核查和合成。不同游戏逻辑(dGL)的演化逻辑定性检查子值地图是否产生总是引致赢取游戏的健全控制信封。如果一个政策总是在玩游戏时取得理想结果,据说会赢。不管对手的动作如何。最大亚值地图允许大多数行动选项在赢时,显示它的存在和符合逻辑特征。非定义性政策合成的算法组合可以从感化亚数值地图(dGL)稳健性特征中获取。这些结果的落实情况是对使用差异控制模型的直观性参数进行评估。
+
+---
+
+## Article 15
+### Title@2025-08-07 (4): Qunity: A Unified Language for Quantum and Classical Computing (Extended   Version)
+
+**Title**: Qunity: A Unified Language for Quantum and Classical Computing (Extended   Version) | Qunity: Eine einheitliche Sprache für Quanten- und klassisches Rechnen (erweiterte Version) | 纯度:量度和古典计算统一语言(例外版本) [2204.12384v5](http://arxiv.org/abs/2204.12384v5)
+
+**Authors** (4): Finn Voichick, Liyi Li, Robert Rand, Michael Hicks
+
+We introduce Qunity, a new quantum programming language designed to treat quantum computing as a natural generalization of classical computing. Qunity presents a unified syntax where familiar programming constructs can have both quantum and classical effects. For example, one can use sum types to implement the direct sum of linear operators, exception-handling syntax to implement projective measurements, and aliasing to induce entanglement. Further, Qunity takes advantage of the overlooked BQP subroutine theorem, allowing one to construct reversible subroutines from irreversible quantum algorithms through the uncomputation of "garbage" outputs. Unlike existing languages that enable quantum aspects with separate add-ons (like a classical language with quantum gates bolted on), Qunity provides a unified syntax and a novel denotational semantics that guarantees that programs are quantum mechanically valid. We present Qunity's syntax, type system, and denotational semantics, showing how it can cleanly express several quantum algorithms. We also detail how Qunity can be compiled into a low-level qubit circuit language like OpenQASM, proving the realizability of our design.
+
+我们引入了“ 共度 ” , 这是一种新的量子编程语言, 旨在将量子计算作为古典计算的一种自然概括。 “ 共度” 提供了一种统一的语法, 熟悉的编程结构可以同时产生量子效应和古典效应。 例如, 可以使用总类型来实施线性操作员的直接和, 例外处理语法来实施预测性测量, 并用别名诱导纠缠。 此外, 共度利用被忽略的 BQP 子例程理论, 允许人们通过“ garbage” 输出的不转换, 从不可逆转的量子算法中构建可逆的子路程。 与现有的语言不同, 这些语言可以使量子部分具有单独的附加效果( 类似有量子门的古典语言) , 共度提供统一的语法和新的解记性语法, 保证程序在机械上是有效的。 我们展示了“ 共度” 的语法、 类型系统和分解语学, , 表明它如何通过“ 量子算算法” 。 我们还详细说明了Qunity 如何可以编成一个低层次的流。
+
+---
+
+## Article 16
+### Title@2025-08-07 (4): From Code to Correctness: Closing the Last Mile of Code Generation with   Hierarchical Debugging
+
+**Title**: From Code to Correctness: Closing the Last Mile of Code Generation with   Hierarchical Debugging | Vom Code zur Korrektheit: Die letzte Meile der Code-Generation mit Hierarchischem Debugging schließen | 从代码到正确性:结束代码生成的最后一步,使用等级调试 [2410.01215v3](http://arxiv.org/abs/2410.01215v3)
+
+**Authors** (5): Yuling Shi, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
+
+While large language models have made significant strides in code generation, the pass rate of the generated code is bottlenecked on subtle errors, often requiring human intervention to pass tests, especially for complex problems. Existing LLM-based debugging systems treat generated programs as monolithic units, failing to address bugs at multiple levels of granularity, from low-level syntax errors to high-level algorithmic flaws. In this paper, we introduce Multi-Granularity Debugger (MGDebugger), a hierarchical code debugger by isolating, identifying, and resolving bugs at various levels of granularity. MGDebugger decomposes problematic code into a hierarchical tree structure of subfunctions, with each level representing a particular granularity of error. During debugging, it analyzes each subfunction and iteratively resolves bugs in a bottom-up manner. To effectively test each subfunction, we propose an LLM-simulated Python executor, which traces code execution and tracks important variable states to pinpoint errors accurately. Extensive experiments demonstrate that MGDebugger outperforms existing debugging systems, achieving an 18.9% improvement in accuracy over seed generations in HumanEval and a 97.6% repair success rate in HumanEvalFix. Furthermore, MGDebugger effectively fixes bugs across different categories and difficulty levels, demonstrating its robustness and effectiveness.
+
+尽管大型语言模型在代码生成方面取得了显著进步,但生成代码的通过率却因微妙错误而受阻,往往需要人为干预才能通过测试,特别是复杂问题。基于 LLM 的现有调试系统将生成的程序作为单体单位处理,未能在颗粒度的多个层面解决错误,从低层次的语法错误到高层次的算法缺陷。在本文中,我们引入了多语言调试调试器(MGDebugger),一个等级代码调试器,通过分离、识别和解决不同级别颗粒的错误来调试。MGDebuger将问题代码解压缩到子功能的树级结构中,每个级别代表特定错误的颗粒性。在调时,它分析每个子功能的错误,并以自下而上的方式反复解决错误。为了有效地测试每个子功能,我们建议一个LLMM 模拟 PythonExcumentor, 跟踪代码执行和跟踪重要变量的准确定位错误。广泛的实验显示MGDebugereal将问题解析出18.9% 和人类成功等级的错误等级。
+
+---
+
+## Article 17
+### Title@2025-08-07 (4): Modular Reasoning about Error Bounds for Concurrent Probabilistic   Programs (Extended Version)
+
+**Title**: Modular Reasoning about Error Bounds for Concurrent Probabilistic   Programs (Extended Version) | Modulare Begründung über Fehlergrenzen für gleichzeitige probabilistische Programme (Erweiterte Version) | 用于同时概率程序(例外版本)的错误误界的模块原因 [2503.04512v3](http://arxiv.org/abs/2503.04512v3)
+
+**Authors** (6): Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Philipp G. Haselwarter, Joseph Tassarotti, Lars Birkedal
+
+We present Coneris, the first higher-order concurrent separation logic for reasoning about error probability bounds of higher-order concurrent probabilistic programs with higher-order state. To support modular reasoning about concurrent (non-probabilistic) program modules, state-of-the-art program logics internalize the classic notion of linearizability within the logic through the concept of logical atomicity.   Coneris extends this idea to probabilistic concurrent program modules. Thus Coneris supports modular reasoning about probabilistic concurrent modules by capturing a novel notion of randomized logical atomicity within the logic. To do so, Coneris utilizes presampling tapes and a novel probabilistic update modality to describe how state is changed probabilistically at linearization points. We demonstrate this approach by means of smaller synthetic examples and larger case studies.   All of the presented results, including the meta-theory, have been mechanized in the Rocq proof assistant and the Iris separation logic framework   This is the extended version of the same paper accepted at ICFP 2025, where more details of proofs and case studies are included in the Appendix.
+
+我们提出了第一个更高层次的并行分离逻辑Coneris, 用于推理高阶同时概率程序与高阶状态的高度同时概率程序的误差概率界限。 为了支持同时(非概率)程序模块的模块推理, 最先进的程序逻辑通过逻辑原子概念将典型的线性概念内在逻辑范围内。 Coneris 将这一理念扩展至概率并行程序模块。 因此, Coneris 通过在逻辑中捕捉随机化逻辑原子的新概念来支持概率同时模块推理。 为了做到这一点, Coneris 使用预采磁带和新颖的概率更新模式来描述线性点状态的概率变化。 我们通过较小的合成实例和较大的案例研究来展示这一方法。 所介绍的所有结果,包括元理论,已经在Rocq 证据助理和Iris 分离逻辑框架中被机械化。 这是ICFP 2025 所接受的同一文件的扩展版本, 其证据和案例研究的更多细节都包含在附录中。
+
+---
+
