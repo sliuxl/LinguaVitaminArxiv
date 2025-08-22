@@ -1,0 +1,763 @@
+---
+title: "cs.AR @ 2025-08-22: 054"
+date: 2025-08-22
+layout: post
+---
+
+- [00](#article-0) | **08-21 (4)** | Power Stabilization for AI Training Datacenters | Leistungsstabilisierung für KI-Trainings-Rechenzentren | AI 稳定电力用于AI培训数据中心 | [2508.14318v2](http://arxiv.org/abs/2508.14318v2)
+- [01](#article-1) | 08-21 | SecFSM: Knowledge Graph-Guided Verilog Code Generation for Secure Finite   State Machines in Systems-on-Chip | SecFSM: Knowledge Graph-Guided Verilog Code Generation für sichere Finite State Maschinen im System-on-Chip | SecFSM:在芯片上系统安全受限国家机器知识图表指导Verilog代码生成 | [2508.12910v2](http://arxiv.org/abs/2508.12910v2)
+- [02](#article-2) | 08-21 | Row-Column Hybrid Grouping for Fault-Resilient Multi-Bit Weight   Representation on IMC Arrays | Zeilenkolumnen-Hybrid-Gruppierung für fehlerhaft-resiliente Multi-Bit-Gewichtsdarstellung auf IMC-Arrays | 在 IMC 阵列中反过失多比体重代表数的行- 哥伦混合组合 | [2508.15685v1](http://arxiv.org/abs/2508.15685v1)
+- [03](#article-3) | 08-21 | Silent Data Corruption by 10x Test Escapes Threatens Reliable Computing | Silent Data Korruption durch 10x Test Flucht bedroht zuverlässiges Rechnen | 由10x测试 " 逃避威胁 " 进行的无声数据腐败 | [2508.01786v4](http://arxiv.org/abs/2508.01786v4)
+- [04](#article-4) | 08-21 | JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on   FPGAs | JEDI-linear: Schnelle und effiziente Graphen-Neural-Netzwerke für Jet Tagging auf FPGAs | JEDI-线性:快速高效的喷气拖动FPGAs的图形神经网络 | [2508.15468v1](http://arxiv.org/abs/2508.15468v1)
+- [05](#article-5) | 08-21 | Efficient Adaptable High-throughput Streaming Aggregation Engines | Effiziente anpassungsfähige Hochdurchsatz-Streaming-Aggregationsmotoren | 高可调适可调适的高排流量聚合引擎 | [2405.18168v3](http://arxiv.org/abs/2405.18168v3)
+- [06](#article-6) | **08-20 (3)** | CEO-DC: Driving Decarbonization in HPC Data Centers with Actionable   Insights | CEO-DC: Dekarbonisierung in HPC-Rechenzentren mit einführbaren Erkenntnissen | CEO-DC:在高氯三联数据中心推动脱碳,并采用可采取行动的透视 | [2507.08923v2](http://arxiv.org/abs/2507.08923v2)
+- [07](#article-7) | 08-20 | Quantized Neural Networks for Microcontrollers: A Comprehensive Review   of Methods, Platforms, and Applications | Quantisierte Neuronale Netzwerke für Mikrocontroller: Eine umfassende Überprüfung von Methoden, Plattformen und Anwendungen | 微控制器量化神经网络:全面审查方法、平台和应用 | [2508.15008v1](http://arxiv.org/abs/2508.15008v1)
+- [08](#article-8) | 08-20 | ListenToJESD204B: A Lightweight Open-Source JESD204B IP Core for   FPGA-Based Ultrasound Acquisition systems | ListenToJESD204B: Ein leichter Open-Source-JESD204B-IP-Core für FPGA-basierte Ultraschall-Erfassungssysteme | 收听To JESSD204B:以FPGA为基础的超声波购置系统的轻量开源JESD204B IP核心 | [2508.14798v1](http://arxiv.org/abs/2508.14798v1)
+- [09](#article-9) | 08-20 | An Open-Source HW-SW Co-Development Framework Enabling Efficient   Multi-Accelerator Systems | Ein quelloffenes HW-SW-Co-Development-Framework ermöglicht effiziente Multi-Accelerator-Systeme | 开放源码的HW-SW共同发展框架 | [2508.14582v1](http://arxiv.org/abs/2508.14582v1)
+- [10](#article-10) | 08-20 | Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes | Trace-based Rekonstruktion des Quantenkreisdatenflusses in Oberflächenkodizes | 地面编码中量子电路数据流的追踪重建 | [2508.14533v1](http://arxiv.org/abs/2508.14533v1)
+- [11](#article-11) | 08-20 | UpANNS: Enhancing Billion-Scale ANNS Efficiency with Real-World PIM   Architecture | UpANNS: Steigerung der Effizienz von Milliarden ANNS mit realer PIM-Architektur | UPANNS:利用现实世界PIM结构提高十亿个ANS系统规模效率 | [2410.23805v2](http://arxiv.org/abs/2410.23805v2)
+- [12](#article-12) | 08-20 | Wit-HW: Bug Localization in Hardware Design Code via Witness Test Case   Generation | Wit-HW: Fehlerlokalisierung im Hardware Design Code über Witness Test Case Generation | Wit-HW:通过证人测试案例生成在硬件设计代码中将错误定位化 | [2508.14414v1](http://arxiv.org/abs/2508.14414v1)
+- [13](#article-13) | 08-20 | Computing-In-Memory Dataflow for Minimal Buffer Traffic | Computing-in-Memory-Datenfluss für minimalen Pufferverkehr | 最小缓冲流量的计算中模拟数据流 | [2508.14375v1](http://arxiv.org/abs/2508.14375v1)
+- [14](#article-14) | 08-20 | From Concept to Practice: an Automated LLM-aided UVM Machine for RTL   Verification | Vom Konzept zur Praxis: Eine Automatisierte LLM-unterstützte UVM-Maschine zur RTL-Verifikation | 从概念到实践:自动LLM辅助UVM机器,用于RTL核查 | [2504.19959v3](http://arxiv.org/abs/2504.19959v3)
+- [15](#article-15) | **08-19 (2)** | Estimation of Energy-dissipation Lower-bounds for Neuromorphic   Learning-in-memory | Schätzung der Energie-Verteilung Niedrigere Bindungen für neuromorphes Lernen-in-Gedächtnis | 内地学习和模拟学习的低排放能源消耗量估算 | [2402.14878v3](http://arxiv.org/abs/2402.14878v3)
+- [16](#article-16) | 08-19 | Cross-Layer Design of Vector-Symbolic Computing: Bridging Cognition and   Brain-Inspired Hardware Acceleration | Cross-Layer Design von Vector-Symbolic Computing: Überbrückung von Kognition und Brain-Inspired Hardware Acceleration | 矢量 -- -- 交际设计 -- -- 矢量 -- -- 交际设计 -- -- 矢量 -- -- 循环认知和脑驱动硬件加速 | [2508.14245v1](http://arxiv.org/abs/2508.14245v1)
+- [17](#article-17) | 08-19 | Scaling Intelligence: Designing Data Centers for Next-Gen Language   Models | Scaling Intelligence: Konzipieren von Rechenzentren für Sprachmodelle der nächsten Generation | 扩大情报范围:为下一代语言模型设计数据中心 | [2506.15006v2](http://arxiv.org/abs/2506.15006v2)
+- [18](#article-18) | 08-19 | TroLL: Exploiting Structural Similarities between Logic Locking and   Hardware Trojans | TroLL: Nutzung struktureller Ähnlichkeiten zwischen Logic Locking und Hardware-Trojanern | TroLL: 利用逻辑锁定和硬件木制之间的结构相似性 | [2309.15067v2](http://arxiv.org/abs/2309.15067v2)
+- [19](#article-19) | 08-19 | Tasa: Thermal-aware 3D-Stacked Architecture Design with Bandwidth   Sharing for LLM Inference | Tasa: Thermal-aware 3D-Stacked Architecture Design mit Bandbreitenfreigabe für LLM Inferenz | 塔萨:热能3D组合式建筑设计,用带宽分享LLM推理 | [2508.07252v2](http://arxiv.org/abs/2508.07252v2)
+- [20](#article-20) | 08-19 | LP-Spec: Leveraging LPDDR PIM for Efficient LLM Mobile Speculative   Inference with Architecture-Dataflow Co-Optimization | LP-Spec: Leveraging LPDDR PIM für effiziente LLM Mobile Spekulative Schlussfolgerungen mit Architektur-Dataflow Co-Optimierung | LP-规格:利用 LPDDD PIM 进行高效LLM移动投机性推断,与建筑-数据流共同适应 | [2508.07227v2](http://arxiv.org/abs/2508.07227v2)
+- [21](#article-21) | **08-18 (1)** | Harnessing the Full Potential of RRAMs through Scalable and Distributed   In-Memory Computing with Integrated Error Correction | Das volle Potenzial von RRAMs durch skalierbares und verteiltes In-Memory Computing mit integrierter Fehlerkorrektur nutzen | 通过带有综合错误更正的可缩放和分散的模拟计算机,充分利用记录和记录机的全部潜力 | [2508.13298v1](http://arxiv.org/abs/2508.13298v1)
+- [22](#article-22) | 08-18 | AI Agents for Photonic Integrated Circuit Design Automation | KI-Agenten für Photonic Integrated Circuit Design Automation | AI 光感综合电路设计自动化代理 | [2508.14123v1](http://arxiv.org/abs/2508.14123v1)
+- [23](#article-23) | 08-18 | ViTAD: Timing Violation-Aware Debugging of RTL Code using Large Language   Models | ViTAD: Zeitliche Verletzung-Bewusst Debugging von RTL-Code mit großen Sprachmodellen | VTAD: 使用大语言模式对RTL码进行违规软件调试的时间 | [2508.13257v1](http://arxiv.org/abs/2508.13257v1)
+- [24](#article-24) | 08-18 | XR-NPE: High-Throughput Mixed-precision SIMD Neural Processing Engine   for Extended Reality Perception Workloads | XR-NPE: Hochdurchsatz Mischpräzise SIMD-Neuralverarbeitungs-Engine für Extended Reality Perception Workloads | XR-NPE: 扩展现实感知工作量高压混合精度SIMM神经处理引擎 | [2508.13049v1](http://arxiv.org/abs/2508.13049v1)
+- [25](#article-25) | 08-18 | e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact   Solving | e-Boost: Erhöhte E-Graph-Extraktion mit adaptiver Heuristik und exakter Lösung | e-加速:用适应性富营养性和精密溶解法促进电子格导抽取 | [2508.13020v1](http://arxiv.org/abs/2508.13020v1)
+- [26](#article-26) | 08-18 | Multi-Metric Algorithmic Complexity: Beyond Asymptotic Analysis | Multi-metrische algorithmische Komplexität: Jenseits der asymptotischen Analyse | 多计量算法复杂程度:除无药分析之外 | [2508.13249v1](http://arxiv.org/abs/2508.13249v1)
+- [27](#article-27) | 08-18 | IzhiRISC-V -- a RISC-V-based Processor with Custom ISA Extension for   Spiking Neuron Networks Processing with Izhikevich Neurons | IzhiRISC-V -- ein RISC-V-basierter Prozessor mit benutzerdefinierter ISA-Erweiterung für die Spiking Neuron Networks Verarbeitung mit Izhikevich Neuronen | IzhiRIRC-V -- -- IzhiRIRC-V -- -- 一种基于RISCV的处理器,具有用于与Izhikovich神经元进行中子处理的Spiking中子网络处理的自订ISA扩展版 | [2508.12846v1](http://arxiv.org/abs/2508.12846v1)
+- [28](#article-28) | 08-18 | Sub-Millisecond Event-Based Eye Tracking on a Resource-Constrained   Microcontroller | Sub-Millisekunden-Ereignisbasiertes Eye Tracking auf einem ressourcenbeschränkten Mikrocontroller | 关于资源受控微控制器的第二次次级事件观察跟踪 | [2508.13244v1](http://arxiv.org/abs/2508.13244v1)
+- [29](#article-29) | 08-18 | HOMI: Ultra-Fast EdgeAI platform for Event Cameras | HOMI: Ultraschnelle EdgeAI-Plattform für Event-Kameras | HOMMI:超快边缘A事件摄影机平台 | [2508.12637v1](http://arxiv.org/abs/2508.12637v1)
+- [30](#article-30) | 08-18 | MemorySim: An RTL-level, timing accurate simulator model for the Chisel   ecosystem | MemorySim: Ein RTL-Level, Timing-genaues Simulatormodell für das Chisel-Ökosystem | MeineSim:Chisel 生态系统的RTL级、计时准确模拟模型 | [2508.12636v1](http://arxiv.org/abs/2508.12636v1)
+- [31](#article-31) | **08-17 (7)** | Accelerating LLM Inference via Dynamic KV Cache Placement in   Heterogeneous Memory System | Beschleunigung der LLM-Inferenz durch dynamische KV-Cache-Platzierung im Heterogenen Speichersystem | 通过在异种记忆系统中动态 KV 缓存定位加速LLM 推论 | [2508.13231v1](http://arxiv.org/abs/2508.13231v1)
+- [32](#article-32) | 08-17 | ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for   Fine-Grained Time-Based Layout Power Analysis | ATLAS: Ein selbstüberwachtes und stufenübergreifendes Netzlisten-Leistungsmodell für eine feinkörnige zeitbasierte Layout-Leistungsanalyse | ATLAS: 精细、基于时间、基于时间的电源布局分析自我监督、跨系统网络列表动力模型 | [2508.12433v1](http://arxiv.org/abs/2508.12433v1)
+- [33](#article-33) | 08-17 | An ECC-based Fault Tolerance Approach for DNNs | Ein ECC-basierter Fehlertoleranzansatz für DNNs | 以ECC为基础,对DNNs采取基于ECC的容忍办法 | [2508.12347v1](http://arxiv.org/abs/2508.12347v1)
+- [34](#article-34) | 08-17 | Soft Error Probability Estimation of Nano-scale Combinational Circuits | Weiche Fehlerwahrscheinlichkeit Schätzung von Nano-Skala-Kombinationsschaltungen | 纳米规模合并电路的纳米规模合并电路概率估计 | [2508.12345v1](http://arxiv.org/abs/2508.12345v1)
+- [35](#article-35) | 08-17 | AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power   Group Decoupling | AutoPower: Automatisierte wenige Shot-Architektur-Level-Leistungsmodellierung durch Entkoppelung der Power Group | 自动动力:用电源组拆开自动式低热结构级电源模型 | [2508.12294v1](http://arxiv.org/abs/2508.12294v1)
+- [36](#article-36) | 08-17 | TSLA: A Task-Specific Learning Adaptation for Semantic Segmentation on   Autonomous Vehicles Platform | TSLA: Eine aufgabenspezifische Lernanpassung für semantische Segmentierung auf der Plattform Autonomer Fahrzeuge | TSLA: 机动车辆平台语义分割专用专用学习适应 | [2508.12279v1](http://arxiv.org/abs/2508.12279v1)
+- [37](#article-37) | 08-17 | A Time- and Energy-Efficient CNN with Dense Connections on   Memristor-Based Chips | Ein zeit- und energieeffizientes CNN mit Dense-Verbindungen auf Memoristor-basierten Chips | 具有时间和能源效益的CNN,对以记忆为基础的芯片有强烈的连接 | [2508.12251v1](http://arxiv.org/abs/2508.12251v1)
+- [38](#article-38) | 08-17 | Special Session: Sustainable Deployment of Deep Neural Networks on   Non-Volatile Compute-in-Memory Accelerators | Sondersitzung: Nachhaltige Bereitstellung tiefer neuraler Netzwerke auf nicht-volatilen Compute-in-Memory-Beschleunigern | 特别会议:可持续部署关于非自愿计算元中加速器的深神经网络 | [2508.12195v1](http://arxiv.org/abs/2508.12195v1)
+- [39](#article-39) | **08-16 (6)** | NeFT: Negative Feedback Training to Improve Robustness of   Compute-In-Memory DNN Accelerators | NeFT: Negativ-Feedback-Schulung zur Verbesserung der Robustheit von DNN-Beschleunigern für Compute-in-Memory | NeFT:提高计算中 DNN 加速器的可靠性的负面反馈培训 | [2305.14561v5](http://arxiv.org/abs/2305.14561v5)
+- [40](#article-40) | 08-16 | FedUHD: Unsupervised Federated Learning using Hyperdimensional Computing | FedUHD: Unüberwachtes Federated Learning mit Hyperdimensional Computing | FedUHD: 使用多维计算机进行无监督的联邦学习 | [2508.12021v1](http://arxiv.org/abs/2508.12021v1)
+- [41](#article-41) | 08-16 | Extending Straight-Through Estimation for Robust Neural Networks on   Analog CIM Hardware | Extendieren von Straight-Through-Schätzungen für robuste Neuronale Netzwerke auf analoger CIM-Hardware | 扩展模拟 CIM 硬件的强力神经网络的直向通过估计 | [2508.11940v1](http://arxiv.org/abs/2508.11940v1)
+- [42](#article-42) | 08-16 | HPD: Hybrid Projection Decomposition for Robust State Space Models on   Analog CIM Hardware | HPD: Hybride Projektionszersetzung für robuste State Space Modelle auf analoger CIM Hardware | HPD: 模拟CIM硬件的强力州空间模型混合投影分解 | [2508.11935v1](http://arxiv.org/abs/2508.11935v1)
+- [43](#article-43) | **08-15 (5)** | LaZagna: An Open-Source Framework for Flexible 3D FPGA Architectural   Exploration | LaZagna: Ein Open-Source-Framework für flexible 3D-FPGA-Architekturforschung | LaZagna: 灵活3DFPGA建筑探索开放源码框架 | [2505.05579v3](http://arxiv.org/abs/2505.05579v3)
+- [44](#article-44) | 08-15 | OpenCXD: An Open Real-Device-Guided Hybrid Evaluation Framework for   CXL-SSDs | OpenCXD: Ein Open Real-Device-Guided Hybrid Evaluation Framework für CXL-SSDs | OpenCXD: CXL-SSDs 的开放性实际设计辅助混合评价框架 | [2508.11477v1](http://arxiv.org/abs/2508.11477v1)
+- [45](#article-45) | 08-15 | Distributed quantum computing with black-box subroutines | Verteiltes Quanten-Computing mit Black-Box-Unterroutinen | 使用黑盒子路由分配量子计算 | [2505.14519v2](http://arxiv.org/abs/2505.14519v2)
+- [46](#article-46) | 08-15 | Scalable FPGA Framework for Real-Time Denoising in High-Throughput   Imaging: A DRAM-Optimized Pipeline using High-Level Synthesis | Skalierbares FPGA-Framework für Echtzeit-Denoising in High-Throughput-Imaging: Eine DRAM-optimierte Pipeline mit High-Level-Synthese | FPGA 高爆炸成像中实时消化框架:使用高级综合分析法的DRAM-优化管道 | [2508.14917v1](http://arxiv.org/abs/2508.14917v1)
+- [47](#article-47) | 08-15 | The Z1: Architecture and Algorithms of Konrad Zuse's First Computer | Das Z1: Architektur und Algorithmen des ersten Computers von Konrad Zuse | Z1:Konrad Zuse第一台计算机的建筑和算法 | [1406.1886v3](http://arxiv.org/abs/1406.1886v3)
+- [48](#article-48) | **08-14 (4)** | BitDecoding: Unlocking Tensor Cores for Long-Context LLMs with Low-Bit   KV Cache | BitDecoding: Entsperren von Tensorkernen für Langkontext-LLMs mit Low-Bit-KV-Cache | Bit Delting: 使用低Bit KV 缓存解锁长文本 LLM 的时标核心 | [2503.18773v2](http://arxiv.org/abs/2503.18773v2)
+- [49](#article-49) | 08-14 | THERMOS: Thermally-Aware Multi-Objective Scheduling of AI Workloads on   Heterogeneous Multi-Chiplet PIM Architectures | THERMOS: Thermisch-bewusste Multi-Objektive Planung von KI-Workloads auf heterogenen Multi-Chiplet-PIM-Architekturen | THEROMS: 人工智能多芯片多芯片PIM结构中不同基因多芯片结构上的工作负荷的热敏多目的排程 | [2508.10691v1](http://arxiv.org/abs/2508.10691v1)
+- [50](#article-50) | 08-14 | Okapi: Efficiently Safeguarding Speculative Data Accesses in Sandboxed   Environments | Okapi: Spekulative Datenzugriffe in Sandbox-Umgebungen effizient sichern | Okapi:有效保护沙箱环境中的投机数据存取 | [2312.08156v3](http://arxiv.org/abs/2312.08156v3)
+- [51](#article-51) | 08-14 | AnalogSeeker: An Open-source Foundation Language Model for Analog   Circuit Design | AnalogSeeker: Ein Open-Source-Stiftungs-Sprachenmodell für Analog Circuit Design | 模拟寻找者:用于模拟电路设计的开放源基金会语言模型 | [2508.10409v1](http://arxiv.org/abs/2508.10409v1)
+- [52](#article-52) | 08-14 | Multi-objective Optimization in CPU Design Space Exploration: Attention   is All You Need | Multi-objektive Optimierung im CPU Design Space Exploration: Achtung ist alles, was Sie brauchen | 在CPU设计中实现多目标优化 | [2410.18368v2](http://arxiv.org/abs/2410.18368v2)
+- [53](#article-53) | 08-14 | DiffAxE: Diffusion-driven Hardware Accelerator Generation and Design   Space Exploration | DiffAxE: Diffusionsgetriebene Hardware-Beschleuniger-Erzeugung und Design-Weltraum-Exploration | DiffAxE: 扩散驱动的硬件加速器生成和设计空间探索 | [2508.10303v1](http://arxiv.org/abs/2508.10303v1)
+
+## Article 0
+### Title@2025-08-21 (4): Power Stabilization for AI Training Datacenters
+
+**Title**: Power Stabilization for AI Training Datacenters | Leistungsstabilisierung für KI-Trainings-Rechenzentren | AI 稳定电力用于AI培训数据中心 [2508.14318v2](http://arxiv.org/abs/2508.14318v2)
+
+**Authors** (57): Esha Choukse, Brijesh Warrier, Scot Heath, Luz Belmont, April Zhao, Hassan Ali Khan, Brian Harry, Matthew Kappel, Russell J. Hewett, Kushal Datta, Yu Pei, Caroline Lichtenberger, John Siegler, David Lukofsky, Zaid Kahn, Gurpreet Sahota, Andy Sullivan, Charles Frederick, Hien Thai, Rebecca Naughton, Daniel Jurnove, Justin Harp, Reid Carper, Nithish Mahalingam, Srini Varkala, Alok Gautam Kumbhare, Satyajit Desai, Venkatesh Ramamurthy, Praneeth Gottumukkala, Girish Bhatia, Kelsey Wildstone, Laurentiu Olariu, Ileana Incorvaia, Alex Wetmore, Prabhat Ram, Melur Raghuraman, Mohammed Ayna, Mike Kendrick, Ricardo Bianchini, Aaron Hurst, Reza Zamani, Xin Li, Michael Petrov, Gene Oden, Rory Carmichael, Tom Li, Apoorv Gupta, Pratikkumar Patel, Nilesh Dattani, Lawrence Marwong, Rob Nertney, Hirofumi Kobayashi, Jeff Liott, Miro Enev, Divya Ramakrishnan, Ian Buck, Jonah Alben
+
+Large Artificial Intelligence (AI) training workloads spanning several tens of thousands of GPUs present unique power management challenges. These arise due to the high variability in power consumption during the training. Given the synchronous nature of these jobs, during every iteration there is a computation-heavy phase, where each GPU works on the local data, and a communication-heavy phase where all the GPUs synchronize on the data. Because compute-heavy phases require much more power than communication phases, large power swings occur. The amplitude of these power swings is ever increasing with the increase in the size of training jobs. An even bigger challenge arises from the frequency spectrum of these power swings which, if harmonized with critical frequencies of utilities, can cause physical damage to the power grid infrastructure. Therefore, to continue scaling AI training workloads safely, we need to stabilize the power of such workloads. This paper introduces the challenge with production data and explores innovative solutions across the stack: software, GPU hardware, and datacenter infrastructure. We present the pros and cons of each of these approaches and finally present a multi-pronged approach to solving the challenge. The proposed solutions are rigorously tested using a combination of real hardware and Microsoft's in-house cloud power simulator, providing critical insights into the efficacy of these interventions under real-world conditions.
+
+大型人工智能(AI)培训工作量涉及数以万万计的GPU,这带来了独特的电力管理挑战。由于培训期间电流消耗量的波动性很大,因此这些工作具有同步性。鉴于这些工作具有同步性,在每次迭代期间,每个GPU都使用当地数据,每个GPU都使用当地数据,而通信高度,所有GPU都同步使用数据。因为计算重得多的阶段需要比通信阶段多得多的动力,因此出现了巨大的电力波动。随着培训工作规模的增加,这些电流的振幅越来越大。由于这些电流的频率频谱,如果与公用事业的关键频率相协调,就会对电网基础设施造成实际损害,因此,为了继续安全地扩大AI培训工作量,我们需要稳定这些工作量的能量。这份文件提出了生产数据的挑战,并探索了整个堆叠的创新性解决方案:软件、GPU硬件和数据中心基础设施。我们把这些实际方法的大小都放在一起,我们展示了这些实际方法的准和折中。
+
+---
+
+## Article 1
+### Title@2025-08-21 (4): SecFSM: Knowledge Graph-Guided Verilog Code Generation for Secure Finite   State Machines in Systems-on-Chip
+
+**Title**: SecFSM: Knowledge Graph-Guided Verilog Code Generation for Secure Finite   State Machines in Systems-on-Chip | SecFSM: Knowledge Graph-Guided Verilog Code Generation für sichere Finite State Maschinen im System-on-Chip | SecFSM:在芯片上系统安全受限国家机器知识图表指导Verilog代码生成 [2508.12910v2](http://arxiv.org/abs/2508.12910v2)
+
+**Authors** (4): Ziteng Hu, Yingjie Xia, Xiyuan Chen, Li Kuang
+
+Finite State Machines (FSMs) play a critical role in implementing control logic for Systems-on-Chip (SoC). Traditionally, FSMs are implemented by hardware engineers through Verilog coding, which is often tedious and time-consuming. Recently, with the remarkable progress of Large Language Models (LLMs) in code generation, LLMs have been increasingly explored for automating Verilog code generation. However, LLM-generated Verilog code often suffers from security vulnerabilities, which is particularly concerning for security-sensitive FSM implementations. To address this issue, we propose SecFSM, a novel method that leverages a security-oriented knowledge graph to guide LLMs in generating more secure Verilog code. Specifically, we first construct a FSM Security Knowledge Graph (FSKG) as an external aid to LLMs. Subsequently, we analyze users' requirements to identify vulnerabilities and get a list of vulnerabilities in the requirements. Then, we retrieve knowledge from FSKG based on the vulnerabilities list. Finally, we construct security prompts based on the security knowledge for Verilog code generation. To evaluate SecFSM, we build a dedicated dataset collected from academic datasets, artificial datasets, papers, and industrial cases. Extensive experiments demonstrate that SecFSM outperforms state-of-the-art baselines. In particular, on a benchmark of 25 security test cases evaluated by DeepSeek-R1, SecFSM achieves an outstanding pass rate of 21/25.
+
+极小国家机器(FSM)在实施系统对芯片(SOC)的控制逻辑方面发挥着关键作用。 传统上,FSM是由硬件工程师通过Verilog编码(Verilog编码经常是乏味和耗时的)执行的。 最近,随着大语言模型(LLMS)在代码生成方面的显著进展,LLMS(LFKM)越来越多地被探索用于Verilog代码生成自动化。然而,LLMM生成的Verilog代码往往存在安全弱点,这特别关系到对安全敏感的密克罗尼西亚联邦实施。为了解决这一问题,我们提议SecFSM(SecF)是一个创新方法,它利用面向安全的知识图表指导LMS生成更安全的Verilog码。具体地说,我们首先建立一个FSM安全知识模型(LMS),作为LMS的外部援助。随后,我们分析了用户的要求,以查明脆弱性,并获得需求中的弱点清单。然后,我们从FSFKG公司获取知识。最后,我们根据Vilog码代码生成的安全知识来建立安全提示。我们建立安全提示。SecFSMSMSM(SE-SMSM)的深度数据深度图的深度图,我们通过Sec-s-s-romas brealreal lacudroal lax a lax a creal lax a cre credal sual sual sual ex ex subildal sual subildal ex subilva cs ex subilds acuts acuts acuts acuts acuts acuts acuts acuts a ex ex ex ex ex ex ex a ex acuts acuts acuts acuts acuts acuments ex ex ex ex ex ex ex ex ex ex ex ex ex ex acuts acuts acuts acuts acuts a ex ex ex ex ex ex ex ex ex ex a ex ex ex a ex a ex a ex a ex a ex a ex
+
+---
+
+## Article 2
+### Title@2025-08-21 (4): Row-Column Hybrid Grouping for Fault-Resilient Multi-Bit Weight   Representation on IMC Arrays
+
+**Title**: Row-Column Hybrid Grouping for Fault-Resilient Multi-Bit Weight   Representation on IMC Arrays | Zeilenkolumnen-Hybrid-Gruppierung für fehlerhaft-resiliente Multi-Bit-Gewichtsdarstellung auf IMC-Arrays | 在 IMC 阵列中反过失多比体重代表数的行- 哥伦混合组合 [2508.15685v1](http://arxiv.org/abs/2508.15685v1)
+
+**Authors** (6): Kang Eun Jeon, Sangheum Yeon, Jinhee Kim, Hyeonsu Bang, Johnny Rhe, Jong Hwan Ko
+
+This paper addresses two critical challenges in analog In-Memory Computing (IMC) systems that limit their scalability and deployability: the computational unreliability caused by stuck-at faults (SAFs) and the high compilation overhead of existing fault-mitigation algorithms, namely Fault-Free (FF). To overcome these limitations, we first propose a novel multi-bit weight representation technique, termed row-column hybrid grouping, which generalizes conventional column grouping by introducing redundancy across both rows and columns. This structural redundancy enhances fault tolerance and can be effectively combined with existing fault-mitigation solutions. Second, we design a compiler pipeline that reformulates the fault-aware weight decomposition problem as an Integer Linear Programming (ILP) task, enabling fast and scalable compilation through off-the-shelf solvers. Further acceleration is achieved through theoretical insights that identify fault patterns amenable to trivial solutions, significantly reducing computation. Experimental results on convolutional networks and small language models demonstrate the effectiveness of our approach, achieving up to 8%p improvement in accuracy, 150x faster compilation, and 2x energy efficiency gain compared to existing baselines.
+
+为克服这些限制,本文件首先提出一种新的多位权重代表技术,称为行列混合组合,通过在行和列中引入冗余,将常规柱子分组。这种结构冗余会增加过错容忍度,并可以有效地与现有的减少错误解决方案相结合。第二,我们设计了一个编译管道,将现有减少过失算法(即无过失算法)的高度编译间接费用作为Interger线性程序(ILP)任务重新表述出过错的重量分解问题,使通过现成解答器快速和可扩展的汇编成为可能。通过理论洞察,找出容易发生小解的错误模式,大大降低计算,从而进一步加快速度。关于革命网络和小语言模型的实验结果显示了我们方法的有效性,实现了8%的精确性改进,150x更快的编集速度,2x的能源效率比现有基线提高了。
+
+---
+
+## Article 3
+### Title@2025-08-21 (4): Silent Data Corruption by 10x Test Escapes Threatens Reliable Computing
+
+**Title**: Silent Data Corruption by 10x Test Escapes Threatens Reliable Computing | Silent Data Korruption durch 10x Test Flucht bedroht zuverlässiges Rechnen | 由10x测试 " 逃避威胁 " 进行的无声数据腐败 [2508.01786v4](http://arxiv.org/abs/2508.01786v4)
+
+**Authors** (8): Subhasish Mitra, Subho Banerjee, Martin Dixon, Rama Govindaraju, Peter Hochschild, Eric X. Liu, Bharath Parthasarathy, Parthasarathy Ranganathan
+
+Too many defective compute chips are escaping existing manufacturing tests -- at least an order of magnitude more than industrial targets across all compute chip types in data centers. Silent data corruptions (SDCs) caused by test escapes, when left unaddressed, pose a major threat to reliable computing. We present a three-pronged approach outlining future directions for overcoming test escapes: (a) Quick diagnosis of defective chips directly from system-level incorrect behaviors. Such diagnosis is critical for gaining insights into why so many defective chips escape existing manufacturing testing. (b) In-field detection of defective chips. (c) New test experiments to understand the effectiveness of new techniques for detecting defective chips. These experiments must overcome the drawbacks and pitfalls of previous industrial test experiments and case studies.
+
+太多有缺陷的计算芯片正在逃避现有的制造试验 -- -- 至少比数据中心所有计算芯片类型的工业目标高出一个数量级。试验逃逸造成的静态数据腐败(SDCs)在未解决的情况下对可靠的计算构成重大威胁。我们提出了一个三管齐下的方法,概述了克服试验逃逸的未来方向:(a) 直接从系统层面的不正确行为中快速诊断有缺陷的芯片。这种诊断对于深入了解为什么如此多的有缺陷的芯片逃避现有制造试验至关重要。 (b) 实地检测有缺陷的芯片。 (c) 进行新的测试实验,以了解发现有缺陷的芯片的新技术的有效性。这些实验必须克服以往工业试验实验和案例研究的缺陷和缺陷。
+
+---
+
+## Article 4
+### Title@2025-08-21 (4): JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on   FPGAs
+
+**Title**: JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on   FPGAs | JEDI-linear: Schnelle und effiziente Graphen-Neural-Netzwerke für Jet Tagging auf FPGAs | JEDI-线性:快速高效的喷气拖动FPGAs的图形神经网络 [2508.15468v1](http://arxiv.org/abs/2508.15468v1)
+
+**Authors** (11): Zhiqiang Que, Chang Sun, Sudarshan Paramesvaran, Emyr Clement, Katerina Karakoulaki, Christopher Brown, Lauri Laatu, Arianna Cox, Alexander Tapper, Wayne Luk, Maria Spiropulu
+
+Graph Neural Networks (GNNs), particularly Interaction Networks (INs), have shown exceptional performance for jet tagging at the CERN High-Luminosity Large Hadron Collider (HL-LHC). However, their computational complexity and irregular memory access patterns pose significant challenges for deployment on FPGAs in hardware trigger systems, where strict latency and resource constraints apply. In this work, we propose JEDI-linear, a novel GNN architecture with linear computational complexity that eliminates explicit pairwise interactions by leveraging shared transformations and global aggregation. To further enhance hardware efficiency, we introduce fine-grained quantization-aware training with per-parameter bitwidth optimization and employ multiplier-free multiply-accumulate operations via distributed arithmetic. Evaluation results show that our FPGA-based JEDI-linear achieves 3.7 to 11.5 times lower latency, up to 150 times lower initiation interval, and up to 6.2 times lower LUT usage compared to state-of-the-art designs while also delivering higher model accuracy and eliminating the need for DSP blocks entirely. In contrast, state-of-the-art solutions consume over 8,700 DSPs. This is the first interaction-based GNN to achieve less than 60~ns latency and currently meets the requirements for use in the HL-LHC CMS Level-1 trigger system. This work advances the next-generation trigger systems by enabling accurate, scalable, and resource-efficient GNN inference in real-time environments. Our open-sourced templates will further support reproducibility and broader adoption across scientific applications.
+
+内建网络(GNNs),特别是互动网络(INs),显示在CERN高液态大型哈德龙对撞器(HL-LHC)喷气标记的特效。然而,它们的计算复杂性和不规则的内存访问模式对在硬触发系统中的FPGAS的部署提出了重大挑战,在硬件触发系统中,存在严格的悬浮和资源限制。在这项工作中,我们提议JEDI-线性结构,这是一个具有线性计算复杂性的新颖的GNN结构,它通过利用共享转换和全球聚合,消除对等互动。为了进一步提高硬件效率,我们采用每平米微宽宽度对称大型哈德伦对冲对冲培训,并通过分布算术采用无倍倍增量累积操作。评价结果表明,我们基于FPGGGGGA的JED-线系统在硬度上实现了3.7至11.5倍的低延迟度,比基于常规设计的系统设计低6.2倍的LUT使用率,同时提供更高的模型准确性培训,并完全消除对DSP区块的需求。在目前对GS-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S
+
+---
+
+## Article 5
+### Title@2025-08-21 (4): Efficient Adaptable High-throughput Streaming Aggregation Engines
+
+**Title**: Efficient Adaptable High-throughput Streaming Aggregation Engines | Effiziente anpassungsfähige Hochdurchsatz-Streaming-Aggregationsmotoren | 高可调适可调适的高排流量聚合引擎 [2405.18168v3](http://arxiv.org/abs/2405.18168v3)
+
+**Authors** (2): Philippos Papaphilippou, Wayne Luk
+
+Aggregation queries are a series of computationally-demanding analytics operations on counted, grouped or time series data. They include tasks such as summation or finding the median among the items of the same group, and within a specified number of the last observed tuples for sliding window aggregation (SWAG). They have a wide range of applications including database analytics, operating systems, bank security and medical sensors. Existing challenges include the hardware complexity that comes with efficiently handling per-group states using hash-based approaches. This paper presents an adaptable pipeline for calculating a wide range of aggregation queries with high throughput. It is then adapted for SWAG and achieves up to 476x speedup over the CPU core of the same platform. It achieves unparalleled levels of performance and functionality such as a throughput of 1 GT/s on our setup for SWAG without groups, and more advanced operators with up to 4x the window sizes than the state-of-the-art with groups as an approximation for SWAG featuring per-group windows using a fraction of the resources and no DRAM.
+
+聚合查询是一系列计算要求的对计算、分组或时间序列数据的分析操作,包括总和或在同一组项目中找到中位数等任务,以及在最后观察到的滑动窗口聚合图(SWAG)中的具体数量范围内的任务,其应用范围很广,包括数据库分析、操作系统、银行安全和医疗传感器等数据库分析、操作系统、银行安全和医疗传感器等。现有挑战包括硬件的复杂性,这些复杂因素是使用散列方法对每个组国家进行有效处理而带来的。本文为计算大量集成查询和高吞吐量数据提供了一个可调整的管道,然后为SWAG作了调整,在同一个平台的CPU核心上达到476x速度。它达到前所未有的性能和功能水平,例如:无群的SWAG的设置中输出量为1GT/,以及较先进的操作者,其窗口大小比状态技术高4x,其组合是SWAG的近似组合,其每个组窗口使用资源的一部分,没有DRAM。
+
+---
+
+## Article 6
+### Title@2025-08-20 (3): CEO-DC: Driving Decarbonization in HPC Data Centers with Actionable   Insights
+
+**Title**: CEO-DC: Driving Decarbonization in HPC Data Centers with Actionable   Insights | CEO-DC: Dekarbonisierung in HPC-Rechenzentren mit einführbaren Erkenntnissen | CEO-DC:在高氯三联数据中心推动脱碳,并采用可采取行动的透视 [2507.08923v2](http://arxiv.org/abs/2507.08923v2)
+
+**Authors** (4): Rubén Rodríguez Álvarez, Denisa-Andreea Constantinescu, Miguel Peón-Quirós, David Atienza
+
+The rapid growth of data centers is increasing energy demand and widening the carbon gap in the ICT sector, as fossil fuels still dominate global energy production. Addressing this challenge requires collaboration across research, policy, and industry to rethink how computing infrastructures are designed and scaled sustainably. This work addresses central trade-offs in procurement decisions that affect carbon emissions, economic costs, and scaling of compute resources. We present these factors in a holistic decision-making framework for Carbon and Economy Optimization in Data Centers (CEO-DC). CEO-DC introduces new carbon and price metrics that enable DC managers, platform designers, and policymakers to make informed decisions. Applying CEO-DC to current trends in AI and HPC reveals that, in 72% of the cases, platform improvements lag behind demand growth. Moreover, prioritizing energy efficiency over latency can reduce the economic appeal of sustainable designs. Our analysis shows that in many countries with electricity with medium to high carbon intensity, replacing platforms older than four years could reduce their projected emissions by at least 75%. However, current carbon incentives worldwide remain insufficient to steer data center procurement strategies toward sustainable goals. In summary, our findings underscore the need for a shift in hardware design and faster grid decarbonization to ensure sustainability and technological viability.
+
+数据中心的快速增长正在增加能源需求,并扩大了信通技术部门的碳差距,因为化石燃料仍然主宰着全球能源生产。 要应对这一挑战,就需要在研究、政策和工业之间开展合作,重新思考计算机基础设施的设计和规模的可持续性如何。这项工作解决了影响碳排放、经济成本和计算资源规模的采购决策中的核心取舍问题。我们在数据中心碳和经济优化综合决策框架(CEO-DC)中提出了这些因素。CEO-DC引入了新的碳和价格衡量标准,使发展中国家管理人员、平台设计者和决策者能够做出知情的决定。 将CEO-DC应用到目前AI和HPC中的趋势表明,在72%的案例中,平台的改进落后于需求增长。此外,将能源效率置于延缩之上可以减少可持续设计的经济吸引力。我们的分析表明,在许多拥有中度至高碳密度电力的国家,取代四年以上的平台可以将其预测的排放量至少减少75%。然而,目前全球范围内的碳激励机制仍然不足以引导数据中心的采购战略走向可持续的目标。简言之,我们的结论强调,硬件设计和快速的电网可持续性需要转变。
+
+---
+
+## Article 7
+### Title@2025-08-20 (3): Quantized Neural Networks for Microcontrollers: A Comprehensive Review   of Methods, Platforms, and Applications
+
+**Title**: Quantized Neural Networks for Microcontrollers: A Comprehensive Review   of Methods, Platforms, and Applications | Quantisierte Neuronale Netzwerke für Mikrocontroller: Eine umfassende Überprüfung von Methoden, Plattformen und Anwendungen | 微控制器量化神经网络:全面审查方法、平台和应用 [2508.15008v1](http://arxiv.org/abs/2508.15008v1)
+
+**Authors** (4): Hamza A. Abushahla, Dara Varam, Ariel J. N. Panopio, Mohamed I. AlHajri
+
+The deployment of Quantized Neural Networks (QNNs) on resource-constrained devices, such as microcontrollers, has introduced significant challenges in balancing model performance, computational complexity and memory constraints. Tiny Machine Learning (TinyML) addresses these issues by integrating advancements across machine learning algorithms, hardware acceleration, and software optimization to efficiently run deep neural networks on embedded systems. This survey presents a hardware-centric introduction to quantization, systematically reviewing essential quantization techniques employed to accelerate deep learning models for embedded applications. In particular, further emphasis is put on critical trade-offs among model performance and hardware capabilities. The survey further evaluates existing software frameworks and hardware platforms designed specifically for supporting QNN execution on microcontrollers. Moreover, we provide an analysis of the current challenges and an outline of promising future directions in the rapidly evolving domain of QNN deployment.
+
+在微控制器等资源有限的装置上部署量化神经网络,在平衡模型性能、计算复杂性和记忆限制方面带来了重大挑战; 小型机器学习(TinyML)通过将各种机器学习算法、硬件加速和软件优化结合起来来解决这些问题,从而高效率地运行嵌入系统的深神经网络; 这项调查为量化提供了一个以硬件为中心的介绍,系统地审查了用于加速深层学习模型的嵌入应用的基本量化技术; 尤其进一步强调模型性能和硬件能力之间的重大权衡; 进一步评估专门为支持微型控制器的QNN执行而设计的现有软件框架和硬件平台; 此外,我们还分析了目前的挑战,并概述了在QNN部署迅速变化的领域有希望的未来方向。
+
+---
+
+## Article 8
+### Title@2025-08-20 (3): ListenToJESD204B: A Lightweight Open-Source JESD204B IP Core for   FPGA-Based Ultrasound Acquisition systems
+
+**Title**: ListenToJESD204B: A Lightweight Open-Source JESD204B IP Core for   FPGA-Based Ultrasound Acquisition systems | ListenToJESD204B: Ein leichter Open-Source-JESD204B-IP-Core für FPGA-basierte Ultraschall-Erfassungssysteme | 收听To JESSD204B:以FPGA为基础的超声波购置系统的轻量开源JESD204B IP核心 [2508.14798v1](http://arxiv.org/abs/2508.14798v1)
+
+**Authors** (5): Soumyo Bhattacharjee, Federico Villani, Christian Vogt, Andrea Cossettini, Luca Benini
+
+The demand for hundreds of tightly synchronized channels operating at tens of MSPS in ultrasound systems exceeds conventional low-voltage differential signaling links' bandwidth, pin count, and latency. Although the JESD204B serial interface mitigates these limitations, commercial FPGA IP cores are proprietary, costly, and resource-intensive. We present ListenToJESD204B, an open-source receiver IP core released under a permissive Solderpad 0.51 license for AMD Xilinx Zynq UltraScale+ devices. Written in synthesizable SystemVerilog, the core supports four GTH/GTY lanes at 12.8 Gb/s and provides cycle-accurate AXI-Stream data alongside deterministic Subclass~1 latency. It occupies only 107 configurable logic blocks (approximately 437 LUTs), representing a 79\% reduction compared to comparable commercially available IP. A modular data path featuring per-lane elastic buffers, SYSREF-locked LMFC generation, and optional LFSR descrambling facilitates scaling to high lane counts. We verified protocol compliance through simulation against the Xilinx JESD204C IP in JESD204B mode and on hardware using TI AFE58JD48 ADCs. Block stability was verified by streaming 80 MSPS, 16-bit samples over two 12.8 Gb/s links for 30 minutes with no errors.
+
+尽管JESD204B系列界面为四条GTH/GTY航道提供了12.8 Gb/s的支持,并提供了循环精确的AXI-Stream数据,同时提供了确定性亚类-1悬浮的AXI-STRI数据核心,我们仅拥有107个可配置逻辑区块(约437 LUTs),比可比商业可获取的IP减少了79。一个模块化数据路径,由每条弹性缓冲路、SYSREF-内装LMFC生成,以及用于在ASFA-SISB 20 BRMB 的16-JJJJJJJDSFD 模拟中,通过ASMSIS 20 B 20 B 20 B 20 B 标准,通过 IMFSB 20 B 标准,将IMJJJJJJJD 20 B 标准升级为高路段。
+
+---
+
+## Article 9
+### Title@2025-08-20 (3): An Open-Source HW-SW Co-Development Framework Enabling Efficient   Multi-Accelerator Systems
+
+**Title**: An Open-Source HW-SW Co-Development Framework Enabling Efficient   Multi-Accelerator Systems | Ein quelloffenes HW-SW-Co-Development-Framework ermöglicht effiziente Multi-Accelerator-Systeme | 开放源码的HW-SW共同发展框架 [2508.14582v1](http://arxiv.org/abs/2508.14582v1)
+
+**Authors** (7): Ryan Albert Antonio, Joren Dumoulin, Xiaoling Yi, Josse Van Delm, Yunhao Deng, Guilherme Paim, Marian Verhelst
+
+Heterogeneous accelerator-centric compute clusters are emerging as efficient solutions for diverse AI workloads. However, current integration strategies often compromise data movement efficiency and encounter compatibility issues in hardware and software. This prevents a unified approach that balances performance and ease of use. To this end, we present SNAX, an open-source integrated HW-SW framework enabling efficient multi-accelerator platforms through a novel hybrid-coupling scheme, consisting of loosely coupled asynchronous control and tightly coupled data access. SNAX brings reusable hardware modules designed to enhance compute accelerator utilization, and its customizable MLIR-based compiler to automate key system management tasks, jointly enabling rapid development and deployment of customized multi-accelerator compute clusters. Through extensive experimentation, we demonstrate SNAX's efficiency and flexibility in a low-power heterogeneous SoC. Accelerators can easily be integrated and programmed to achieve > 10x improvement in neural network performance compared to other accelerator systems while maintaining accelerator utilization of > 90% in full system operation.
+
+然而,目前的整合战略往往会损害数据流动效率,并在硬件和软件中遇到兼容性问题。这妨碍了采取平衡性能和使用方便度的统一方法。为此,我们提出SNAX,这是一个开放源集综合HW-SW框架,通过新的混合组合组合计划,使高效的多加速平台能够实现高效的多加速平台。 SNAX带来可再使用的硬件模块,目的是加强计算加速器的利用率,其可定制的 MLIR 编译器将关键系统管理任务自动化,共同促成定制多加速器集成的快速开发和部署。通过广泛的实验,我们展示SNAX在低功率混合型SoC中的效率和灵活性。 加速器可以很容易地整合和编程,以便与其他加速器系统相比,在神经网络性能方面实现大于10x的改进,同时保持全系统操作超过90%的加速器利用率。
+
+---
+
+## Article 10
+### Title@2025-08-20 (3): Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes
+
+**Title**: Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes | Trace-based Rekonstruktion des Quantenkreisdatenflusses in Oberflächenkodizes | 地面编码中量子电路数据流的追踪重建 [2508.14533v1](http://arxiv.org/abs/2508.14533v1)
+
+**Authors** (5): Theodoros Trochatos, Christopher Kang, Andrew Wang, Frederic T. Chong, Jakub Szefer
+
+Practical applications of quantum computing depend on fault-tolerant devices that employ error correction. A promising quantum error-correcting code for large-scale quantum computing is the surface code. For this code, Fault-Tolerant Quantum Computing (FTQC) can be performed via lattice surgery, i.e. merging and splitting of encoded qubit patches on a 2D grid. Lattice surgery operations result in space-time patterns of activity that are defined in this work as access traces. This work demonstrates that the access traces reveal when, where, and how logical qubits interact. Leveraging this formulation, this work further introduces TraceQ, a trace-based reconstruction framework that is able to reconstruct the quantum circuit dataflow just by observing the patch activity at each trace entry. The framework is supported by heuristics for handling inherent ambiguity in the traces, and demonstrates its effectiveness on a range of synthetic fault-tolerant quantum benchmarks. The access traces can have applications in a wide range of scenarios, enabling analysis and profiling of execution of quantum programs and the hardware they run on. As one example use of TraceQ, this work investigates whether such traces can act as a side channel through which an observer can recover the circuit's structure and identify known subroutines in a larger program or even whole programs. The findings show that indeed the minimal access traces can be used to recover subroutines or even whole quantum programs with very high accuracy. Only a single trace per program execution is needed and the processing can be done fully offline. Along with the custom heuristics, advanced subgraph matching algorithms used in this work enable a high rate of locating the subroutines while executing in minimal time.
+
+量子计算的实际应用取决于使用错误校正的防错设备。 这项工作显示, 访问痕迹显示大规模量子计算在何时、 何地和如何进行逻辑qubits 互动。 利用这一配方, 这项工作进一步引入了TrayQ, 这是一个基于追踪的重建框架, 可以通过观察每个追踪条目的补丁活动来重建量子电路数据流。 这个框架得到2D 网格上编码的qubit补丁补丁的合并和分割支持, 并显示其在一系列合成过错量基准上的有效性。 访问痕迹可以在广泛的情景中应用, 便于对量子程序的执行和它们运行的硬件进行直径直线分析与剖析。 使用这个公式, 这个基于追踪的重建框架, 仅通过观察每个追踪条目中的补丁流路程, 也可以通过一个已知的直径直径直路径运行程序, 能够让一个已知的直径直径运行的直径操作程序在整个轨道上进行回回溯。 一个已知的亚轨程序可以让一个已知的直径路路路路路路路图在整个轨道上进行。 。 一个已知的运行程序能够在整个恢复一个已知的直路路路路路路路路路路段, , 能够通过一个已知的直到整个的直路路路路路路路路段, 。 一个已知, 向一个已知的直到整个路段可以在整个路路路路路路路路路路路路路路路路路图, 。
+
+---
+
+## Article 11
+### Title@2025-08-20 (3): UpANNS: Enhancing Billion-Scale ANNS Efficiency with Real-World PIM   Architecture
+
+**Title**: UpANNS: Enhancing Billion-Scale ANNS Efficiency with Real-World PIM   Architecture | UpANNS: Steigerung der Effizienz von Milliarden ANNS mit realer PIM-Architektur | UPANNS:利用现实世界PIM结构提高十亿个ANS系统规模效率 [2410.23805v2](http://arxiv.org/abs/2410.23805v2)
+
+**Authors** (5): Sitian Chen, Amelie Chi Zhou, Yucheng Shi, Yusen Li, Xin Yao
+
+Approximate Nearest Neighbor Search (ANNS) is a critical component of modern AI systems, such as recommendation engines and retrieval-augmented large language models (RAG-LLMs). However, scaling ANNS to billion-entry datasets exposes critical inefficiencies: CPU-based solutions are bottlenecked by memory bandwidth limitations, while GPU implementations underutilize hardware resources, leading to suboptimal performance and energy consumption. To address these challenges, we introduce \emph{UpANNS}, a novel framework leveraging Processing-in-Memory (PIM) architecture to accelerate billion-scale ANNS. UpANNS integrates four key innovations, including 1) architecture-aware data placement to minimize latency through workload balancing, 2) dynamic resource management for optimal PIM utilization, 3) co-occurrence optimized encoding to reduce redundant computations, and 4) an early-pruning strategy for efficient top-k selection. Evaluation on commercial UPMEM hardware demonstrates that UpANNS achieves 4.3x higher QPS than CPU-based Faiss, while matching GPU performance with 2.3x greater energy efficiency. Its near-linear scalability ensures practicality for growing datasets, making it ideal for applications like real-time LLM serving and large-scale retrieval systems.
+
+近近邻搜索(ANNS)是现代人工智能系统的关键组成部分,如建议引擎和检索增强的大型语言模型(RAG-LLM)等。然而,将ANNS扩大至10亿个输入数据集暴露出严重的低效率:基于CPU的解决方案被记忆带宽限制所堵塞,而GPU的实施工作未充分利用硬件资源,导致业绩和能源消耗低于最佳水平。为了应对这些挑战,我们引入了一个新的框架,即利用处理机(PIM)结构加速10亿个规模的ANNS。 UpANNS整合了四个关键创新,包括:1) 结构认知数据配置,以通过工作量平衡将耐久性最小化;2) 动态资源管理,以优化PIM的利用;3) 共同同步优化编码,以减少冗余计算;4) 高效顶级选择的早期调整战略。对UPMEM商用硬件的评价表明,UPANNS达到4.3x更高的QPS(QPS),而不是基于CPU的Faiss。同时将GPO的性能与2.3级的更大程度数据回收利用性能保证其接近于更高的实际应用。
+
+---
+
+## Article 12
+### Title@2025-08-20 (3): Wit-HW: Bug Localization in Hardware Design Code via Witness Test Case   Generation
+
+**Title**: Wit-HW: Bug Localization in Hardware Design Code via Witness Test Case   Generation | Wit-HW: Fehlerlokalisierung im Hardware Design Code über Witness Test Case Generation | Wit-HW:通过证人测试案例生成在硬件设计代码中将错误定位化 [2508.14414v1](http://arxiv.org/abs/2508.14414v1)
+
+**Authors** (6): Ruiyang Ma, Daikang Kuang, Ziqian Liu, Jiaxi Zhang, Ping Fan, Guojie Luo
+
+Debugging hardware designs requires significant manual effort during hardware development. After engineers identify a bug-triggering test case in simulation-based hardware verification, they usually spend considerable time analyzing the execution trace to localize the bug. Although numerous automated hardware debugging techniques exist, they are not applicable to large designs and deep bugs. A primary reason for their limitations is that these techniques only utilize the information of a single bug-triggering test case for bug localization, which prevents them from effectively analyzing intricate hardware systems and figure out the root cause of bugs. To solve this problem, in this paper, we transform the hardware bug localization problem into a test generation problem, aiming to find a set of effective witness test cases beyond the initial bug-triggering test case to enhance hardware bug localization. Witness test cases refer to the cases that do not trigger the bug in the faulty design. By analyzing the execution differences between passing and failing test cases with spectrum-based method, we can eliminate innocent design statements and localize the buggy ones. To further refine the suspicious area, we define the criteria for effective witness test cases and use a mutation-based strategy to generate such test cases. Based on this approach, we propose an automated hardware bug localization framework named Wit-HW. We evaluate Wit-HW on 41 bugs from various hardware designs. The experimental results show that Wit-HW effectively localize 49%, 73%, 88% bugs within Top-1, Top-5, Top-10 ranks, significantly outperforming state-of-the-art bug localization techniques. Additionally, we evaluate Wit-HW on 13 real-world bugs collected from open-source hardware projects, showcasing the robust performance of our method.
+
+调试硬件设计需要在硬件开发过程中进行大量手工操作。 在工程师在模拟硬件核查中发现一个触发错误的测试案例后, 他们通常花费大量时间分析执行跟踪, 以将错误定位。 虽然存在许多自动硬件调试技术, 但它们并不适用于大型设计和深错。 其局限性的一个主要原因是, 这些技术仅使用单一的错误触发测试案例的信息, 用于错误定位, 这使得他们无法有效地分析复杂的硬件系统, 并找出错误的根源。 为了解决这个问题, 我们在本文件中将硬件错误本地化问题转换成测试生成问题, 目的是在初始的调试测试案例中找到一套有效的证人测试案例, 以强化硬件错误定位。 证人测试案例指的是那些没有触发错误设计错误的案例。 通过分析通过和失败测试案例之间在基于频谱的方法中存在的执行差异, 我们可以消除无害的设计语句, 并且将错误化的根基区域化。 为了进一步细化, 我们定义了有效的证人测试案例的标准, 并且使用基于网络的41个测试策略, 以显著的 Vi-H 自动测试各种硬件格式 。
+
+---
+
+## Article 13
+### Title@2025-08-20 (3): Computing-In-Memory Dataflow for Minimal Buffer Traffic
+
+**Title**: Computing-In-Memory Dataflow for Minimal Buffer Traffic | Computing-in-Memory-Datenfluss für minimalen Pufferverkehr | 最小缓冲流量的计算中模拟数据流 [2508.14375v1](http://arxiv.org/abs/2508.14375v1)
+
+**Authors** (2): Choongseok Song, Doo Seok Jeong
+
+Computing-In-Memory (CIM) offers a potential solution to the memory wall issue and can achieve high energy efficiency by minimizing data movement, making it a promising architecture for edge AI devices. Lightweight models like MobileNet and EfficientNet, which utilize depthwise convolution for feature extraction, have been developed for these devices. However, CIM macros often face challenges in accelerating depthwise convolution, including underutilization of CIM memory and heavy buffer traffic. The latter, in particular, has been overlooked despite its significant impact on latency and energy consumption. To address this, we introduce a novel CIM dataflow that significantly reduces buffer traffic by maximizing data reuse and improving memory utilization during depthwise convolution. The proposed dataflow is grounded in solid theoretical principles, fully demonstrated in this paper. When applied to MobileNet and EfficientNet models, our dataflow reduces buffer traffic by 77.4-87.0%, leading to a total reduction in data traffic energy and latency by 10.1-17.9% and 15.6-27.8%, respectively, compared to the baseline (conventional weight-stationary dataflow).
+
+economic-In-Meory(CIM)为记忆墙问题提供了潜在的解决办法,并且能够通过尽量减少数据流动实现高能效,使数据流动成为具有希望的边缘AI设备结构。已经为这些设备开发了使用深度变异以提取地貌的移动网络和高效Net等轻量模型;然而,CIM宏大在加速深度变速方面常常面临挑战,包括CIM内存和重型缓冲交通的利用不足,特别是后者尽管对延缓度和能源消耗有重大影响,但却被忽视了。为此,我们引入了一种新的CIM数据流,通过在深度变速过程中最大限度地利用数据并改进记忆利用,大大减少缓冲流量。拟议的数据流以坚实的理论原则为基础,在本文中充分展示。在应用到移动网络和高效Net模型时,我们的数据流将缓冲流量减少77.4-87.0%,导致数据流量和延迟度分别比基线(常规重静态数据流)减少10.1-9%和15.6-27.8 %。
+
+---
+
+## Article 14
+### Title@2025-08-20 (3): From Concept to Practice: an Automated LLM-aided UVM Machine for RTL   Verification
+
+**Title**: From Concept to Practice: an Automated LLM-aided UVM Machine for RTL   Verification | Vom Konzept zur Praxis: Eine Automatisierte LLM-unterstützte UVM-Maschine zur RTL-Verifikation | 从概念到实践:自动LLM辅助UVM机器,用于RTL核查 [2504.19959v3](http://arxiv.org/abs/2504.19959v3)
+
+**Authors** (11): Junhao Ye, Yuchen Hu, Ke Xu, Dingrong Pan, Qichun Chen, Jie Zhou, Shuai Zhao, Xinwei Fang, Xi Wang, Nan Guan, Zhe Jiang
+
+Verification presents a major bottleneck in Integrated Circuit (IC) development, consuming nearly 70% of the total development effort. While the Universal Verification Methodology (UVM) is widely used in industry to improve verification efficiency through structured and reusable testbenches, constructing these testbenches and generating sufficient stimuli remain challenging. These challenges arise from the considerable manual coding effort required, repetitive manual execution of multiple EDA tools, and the need for in-depth domain expertise to navigate complex designs.Here, we present UVM^2, an automated verification framework that leverages Large Language Models (LLMs) to generate UVM testbenches and iteratively refine them using coverage feedback, significantly reducing manual effort while maintaining rigorous verification standards.To evaluate UVM^2, we introduce a benchmark suite comprising Register Transfer Level (RTL) designs of up to 1.6K lines of code.The results show that UVM^2 reduces testbench setup time by up to UVM^2 compared to experienced engineers, and achieve average code and function coverage of 87.44% and 89.58%, outperforming state-of-the-art solutions by 20.96% and 23.51%, respectively.
+
+虽然普遍核查方法(UVM)被广泛用于工业,通过结构化和可重复使用的测试箱来提高核查效率,但建设这些测试箱和产生足够的刺激因素仍具有挑战性。 这些挑战来自所需的大量手工编码工作、重复手工执行多种EDA工具以及需要深入的域域内专门知识来导航复杂设计。 这里,我们提供了UVM/2,这是一个自动核查框架,利用大语言模型(LLLM)生成UVM测试箱,利用覆盖面反馈进行迭接改进,大大减少人工操作,同时保持严格的核查标准。 为了评估UVM#2,我们引入了一套基准套,其中包括登记册传输水平(RTL)设计多达1.6K线的代码。 结果表明,UVM% 2比有经验的工程师减少测试时间,将测试设置时间减少到UVM%2,并实现87.44%和89.58%的平均代码和功能覆盖,分别达到20.96 %和23.51 %的绩效状态解决方案。
+
+---
+
+## Article 15
+### Title@2025-08-19 (2): Estimation of Energy-dissipation Lower-bounds for Neuromorphic   Learning-in-memory
+
+**Title**: Estimation of Energy-dissipation Lower-bounds for Neuromorphic   Learning-in-memory | Schätzung der Energie-Verteilung Niedrigere Bindungen für neuromorphes Lernen-in-Gedächtnis | 内地学习和模拟学习的低排放能源消耗量估算 [2402.14878v3](http://arxiv.org/abs/2402.14878v3)
+
+**Authors** (5): Zihao Chen, Faiek Ahsan, Johannes Leugering, Gert Cauwenberghs, Shantanu Chakrabartty
+
+Neuromorphic or neurally-inspired optimizers rely on local but parallel parameter updates to solve problems that range from quadratic programming to Ising machines. An ideal realization of such an optimizer not only uses a compute-in-memory (CIM) paradigm to address the so-called memory-wall (i.e. energy dissipated due to repeated memory read access), but also uses a learning-in-memory (LIM) paradigm to address the energy bottlenecks due to repeated memory writes at the precision required for optimization (the update-wall), and to address the energy bottleneck due to the repeated transfer of information between short-term and long-term memories (the consolidation-wall). In this paper, we derive theoretical estimates for the energy-to-solution metric that can be achieved by this ideal neuromorphic optimizer which is realized by modulating the energy-barrier of the physical memories such that the dynamics of memory updates and memory consolidation matches the optimization or the annealing dynamics. The analysis presented in this paper captures the out-of-equilibrium thermodynamics of learning and the resulting energy-efficiency estimates are model-agnostic which only depend on the number of model-update operations (OPS), the model-size in terms of number of parameters, the speed of convergence, and the precision of the solution. To show the practical applicability of our results, we apply our analysis for estimating the lower-bound on the energy-to-solution metrics for large-scale AI workloads.
+
+神经失常或神经激励的优化利用本地但平行的参数更新,以解决从二次编程到Ising机器等各种问题。实现这种优化的理想不仅利用计算模拟(CIM)范式来解决所谓的记忆墙(即因反复记忆读取而消散的能量)问题,而且还利用记忆中的能量阻燃器(LIM)范式来解决由于反复记忆中的瓶颈造成的能源瓶颈问题,这些瓶颈是优化所需的精确度(更新墙),并解决由于短期和长期记忆(合并墙)之间反复传递信息而造成的能源瓶颈问题。在本文中,我们不仅从理论角度估算出能源对溶性衡量标准,而这一理想神经失常优化是通过调整物理记忆的能量屏蔽器实现的,因此,记忆更新和记忆整合整合的动态与优化(更新墙)所需的精确度(更新墙)精确度的精确度(更新墙)和内动力瓶颈的精确度,本文中的分析反映了在大规模记忆的精确度(我们学习的精确度的精确度的精确度的模型和精确度的精确度分析) 的模型和结果的精确度的精确度的精确度的精确度(我们学习的精确度的精确度的精确度的精确度的精确度的精确度的精确度的精确度的计算) 的精确度的精确度的精确度的精确度的精确度的精确度的计算,以及结果的精确度的精确度的精确度的精确度的精确度的精确度的精确度的精确度的计算数量。
+
+---
+
+## Article 16
+### Title@2025-08-19 (2): Cross-Layer Design of Vector-Symbolic Computing: Bridging Cognition and   Brain-Inspired Hardware Acceleration
+
+**Title**: Cross-Layer Design of Vector-Symbolic Computing: Bridging Cognition and   Brain-Inspired Hardware Acceleration | Cross-Layer Design von Vector-Symbolic Computing: Überbrückung von Kognition und Brain-Inspired Hardware Acceleration | 矢量 -- -- 交际设计 -- -- 矢量 -- -- 交际设计 -- -- 矢量 -- -- 循环认知和脑驱动硬件加速 [2508.14245v1](http://arxiv.org/abs/2508.14245v1)
+
+**Authors** (10): Shuting Du, Mohamed Ibrahim, Zishen Wan, Luqi Zheng, Boheng Zhao, Zhenkun Fan, Che-Kai Liu, Tushar Krishna, Arijit Raychowdhury, Haitong Li
+
+Vector Symbolic Architectures (VSAs) have been widely deployed in various cognitive applications due to their simple and efficient operations. The widespread adoption of VSAs has, in turn, spurred the development of numerous hardware solutions aimed at optimizing their performance. Despite these advancements, a comprehensive and unified discourse on the convergence of hardware and algorithms in the context of VSAs remains somewhat limited. The paper aims to bridge the gap between theoretical software-level explorations and the development of efficient hardware architectures and emerging technology fabrics for VSAs, providing insights from the co-design aspect for researchers from either side. First, we introduce the principles of vector-symbolic computing, including its core mathematical operations and learning paradigms. Second, we provide an in-depth discussion on hardware technologies for VSAs, analyzing analog, mixed-signal, and digital circuit design styles. We compare hardware implementations of VSAs by carrying out detailed analysis of their performance characteristics and tradeoffs, allowing us to extract design guidelines for the development of arbitrary VSA formulations. Third, we discuss a methodology for cross-layer design of VSAs that identifies synergies across layers and explores key ingredients for hardware/software co-design of VSAs. Finally, as a concrete demonstration of this methodology, we propose the first in-memory computing hierarchical cognition hardware system, showcasing the efficiency, flexibility, and scalability of this co-design approach. The paper concludes with a discussion of open research challenges for future explorations.
+
+在各种认知应用中,由于操作简单而高效的操作,矢量代谢结构(VSA)被广泛广泛应用到各种认知应用中。广泛采用VSA,反过来又推动了旨在优化其性能的多种硬件解决方案的开发。尽管取得了这些进步,关于VSA硬件和算法趋同的全面和统一讨论仍然有些有限。该文件的目的是弥合理论软件层面探索与VSA高效硬件架构和开发VSA高效硬件架构和新兴技术架构之间的差距,从双方研究人员的共同设计方面提供见解。首先,我们介绍了矢量代谢计算原则,包括其核心数学操作和学习范式。第二,我们就VSA硬件技术的整合进行了深入的讨论,分析了模拟、混合设计以及数字电路设计风格。我们通过详细分析VSA的性能特点和利弊关系,使我们能够从设计准则中提取开发任意VSA的公开设计方针。我们讨论了矢量代言的矢量代谢计算方法,确定VSA系统跨层的跨层和学习模式的横向设计,并探索VSA的软质研究方法。我们为VSA的软质代言的硬件和共同设计了VA最终的软体研究方法。
+
+---
+
+## Article 17
+### Title@2025-08-19 (2): Scaling Intelligence: Designing Data Centers for Next-Gen Language   Models
+
+**Title**: Scaling Intelligence: Designing Data Centers for Next-Gen Language   Models | Scaling Intelligence: Konzipieren von Rechenzentren für Sprachmodelle der nächsten Generation | 扩大情报范围:为下一代语言模型设计数据中心 [2506.15006v2](http://arxiv.org/abs/2506.15006v2)
+
+**Authors** (4): Jesmin Jahan Tithi, Hanjiang Wu, Avishaii Abuhatzera, Fabrizio Petrini
+
+The explosive growth of Large Language Models (LLMs), such as GPT-4 with 1.8 trillion parameters, demands a fundamental rethinking of data center architecture to ensure scalability, efficiency, and cost-effectiveness. Our work provides a comprehensive co-design framework that jointly explores FLOPS, HBM bandwidth and capacity, multiple network topologies (two-tier vs. FullFlat optical), the size of the scale-out domain, and popular parallelism/optimization strategies used in LLMs. We introduce and evaluate FullFlat network architectures, which provide uniform high-bandwidth, low-latency connectivity between all nodes, and demonstrate their transformative impact on performance and scalability. Through detailed sensitivity analyses, we quantify the benefits of overlapping compute and communication, leveraging hardware-accelerated collectives, widening the scale-out domain, and increasing memory capacity. Our study spans both sparse (mixture of experts) and dense transformer-based LLMs, revealing how system design choices affect Model FLOPS Utilization (MFU = Model FLOPS per token * Observed tokens per second / Peak FLOPS of the hardware) and overall throughput. For the co-design study, we utilized an analytical performance modeling tool capable of predicting LLM runtime within 10% of real-world measurements. Our findings offer actionable insights and a practical roadmap for designing AI data centers that can efficiently support trillion-parameter models, reduce optimization complexity, and sustain the rapid evolution of AI capabilities.
+
+大型语言模型(LLM)的爆炸性增长,如GPT-4,具有1.8万亿美元参数的GPT-4,要求从根本上重新思考数据中心架构,以确保可缩放性、效率和成本效益。我们的工作提供了一个全面的共同设计框架,共同探索FLOPS、HBM带宽和能力、多网络地形(两层对全Flat光学),扩大范围的规模,以及LLMS所使用的全民平行/优化战略。我们引入并评价了FullFlat网络架构,这些架构提供了所有节点之间统一的高带宽度、低延迟性连接,并展示了它们对业绩和可缩放的变革性的影响。我们通过详细的敏感性分析,量化重叠的计算和通信的好处,利用硬件加速的集体,扩大缩放域,提高记忆能力。我们的研究范围既包括稀缺的(专家组合),也包括以密集变压器为基础的LMMLM,揭示了系统设计如何影响FLOPS利用模型(MUFFFM =FLOPSE /每个象征性的快速直径连接,显示了业绩和缩缩略图的缩缩图,我们使用的10号的IMIMIMSIMU的模型,也利用了我们运行的IMIMD的运行的模型, IMFAL-IMUDLMD IMD 和M IMUAL 的运行的运行的运行了我们内部的运行的运行的模型的模型的运行的运行的模型的模型的模型, IMUTUD IMFALTU 10 IM IM的模型, IM的运行的运行的运行的运行的模型, IM的运行的运行的运行的运行的运行的运行的模型的模型的模型的模型的运行的模型的模型和模型的模型的模型的模型的模型的模型的模型的模型的模型的模型, IMFLMUTFLMDUDUTFLMLMLMLMTFMA的模型, IMFMA IMFAL IMU IMU IMU IMU IM IM IM IM IM IM IM IM IM IM IM IMA IMU IMU IM IM IM IM IM IM IM IM IM IM的
+
+---
+
+## Article 18
+### Title@2025-08-19 (2): TroLL: Exploiting Structural Similarities between Logic Locking and   Hardware Trojans
+
+**Title**: TroLL: Exploiting Structural Similarities between Logic Locking and   Hardware Trojans | TroLL: Nutzung struktureller Ähnlichkeiten zwischen Logic Locking und Hardware-Trojanern | TroLL: 利用逻辑锁定和硬件木制之间的结构相似性 [2309.15067v2](http://arxiv.org/abs/2309.15067v2)
+
+**Authors** (4): Yuntao Liu, Aruna Jayasena, Prabhat Mishra, Ankur Srivastava
+
+Logic locking and hardware Trojans are two fields in hardware security that have been mostly developed independently from each other. In this paper, we identify the relationship between these two fields. We find that a common structure that exists in many logic locking techniques has desirable properties of hardware Trojans (HWT). We then construct a novel type of HWT, called Trojans based on Logic Locking (TroLL), in a way that can evade state-of-the-art ATPG-based HWT detection techniques. In an effort to detect TroLL, we propose customization of existing state-of-the-art ATPG-based HWT detection approaches as well as adapting the SAT-based attacks on logic locking to HWT detection. In our experiments, we use random sampling as reference. It is shown that the customized ATPG-based approaches are the best performing but only offer limited improvement over random sampling. Moreover, their efficacy also diminishes as TroLL's triggers become longer (i.e. have more bits specified). We thereby highlight the need to find a scalable HWT detection approach for TroLL.
+
+逻辑锁定和硬件Trojans是硬件安全的两个领域, 大部分是独立开发的。 在本文中, 我们确定这两个领域之间的关系。 我们发现许多逻辑锁定技术中存在的共同结构具有硬件Trojans (HWT) 的理想特性。 然后我们建造了新型的HWT, 称为Trojans, 以逻辑锁定为基础, 称为Trolls , 其方式可以回避以ATPG 为基础的最先进的HWT探测技术。 为了探测TroLL, 我们提议对以ATPG为基础的现有最先进的HWT检测方法进行定制, 并将基于SAT的攻击与HWT的检测相适应。 我们在实验中使用随机抽样作为参考。 这表明, 定制的ATPGs 方法是最佳的运行方式,但只能对随机取样提供有限的改进。 此外, 随着TroLL的触发器变得更长( 即有更多比数 ) , 它们的功效也会降低。 我们因此强调需要为TroLLL找到可扩展的HWT 检测方法 。
+
+---
+
+## Article 19
+### Title@2025-08-19 (2): Tasa: Thermal-aware 3D-Stacked Architecture Design with Bandwidth   Sharing for LLM Inference
+
+**Title**: Tasa: Thermal-aware 3D-Stacked Architecture Design with Bandwidth   Sharing for LLM Inference | Tasa: Thermal-aware 3D-Stacked Architecture Design mit Bandbreitenfreigabe für LLM Inferenz | 塔萨:热能3D组合式建筑设计,用带宽分享LLM推理 [2508.07252v2](http://arxiv.org/abs/2508.07252v2)
+
+**Authors** (5): Siyuan He, Peiran Yan, Yandong He, Youwei Zhuo, Tianyu Jia
+
+The autoregressive decoding in LLMs is the major inference bottleneck due to the memory-intensive operations and limited hardware bandwidth. 3D-stacked architecture is a promising solution with significantly improved memory bandwidth, which vertically stacked multi DRAM dies on top of logic die. However, our experiments also show the 3D-stacked architecture faces severer thermal issues compared to 2D architecture, in terms of thermal temperature, gradient and scalability. To better exploit the potential of 3D-stacked architecture, we present Tasa, a heterogeneous architecture with cross-stack thermal optimizations to balance the temperature distribution and maximize the performance under the thermal constraints. High-performance core is designed for compute-intensive operations, while high-efficiency core is used for memory-intensive operators, e.g. attention layers. Furthermore, we propose a bandwidth sharing scheduling to improve the bandwidth utilization in such heterogeneous architecture. Extensive thermal experiments show that our Tasa architecture demonstrates greater scalability compared with the homogeneous 3D-stacked architecture, i.e. up to 5.55 $\tccentigrade$, 9.37 $\tccentigrade$, and 7.91 $\tccentigrade$ peak temperature reduction for 48, 60, and 72 core configurations. Our experimental for Llama-65B and GPT-3 66B inferences also demonstrate 2.85x and 2.21x speedup are obtained over the GPU baselines and state-of-the-art heterogeneous PIM-based LLM accelerator
+
+LLM 中的自动递减解码是因记忆密集操作和有限的硬件带宽而导致的主要发酵瓶颈。 3D堆叠架构是一个很有希望的解决方案,其内存带宽得到显著改善, 垂直堆叠多DRAM死在逻辑死亡的顶端。 然而, 我们的实验还显示, 3D堆叠架构在热温、 梯度和可缩放性方面,与 2D 结构相比,面临更严重的热问题。 为了更好地利用 3D 堆叠结构的潜力, 我们介绍Tasa, 是一个具有跨堆热优化的混合结构, 以平衡温度分布和在热限制下最大限度地发挥性能。 高性能核心是设计用于计算密集操作的, 而高效率核心则是用于记忆密集操作者, 例如, 注意层。 此外, 我们提议进行带宽共享时间安排, 以提高这种混合结构的带宽度利用率。 广泛的热实验显示, 我们塔萨架构与平质的 3D- 堆叠结构相比, 显示比平质 3D- 底基结构更具有可缩缩缩缩缩缩缩, 555 美元- 美元- bcrecial- cal- clasle- cal- deal- lasle- cal- liveralational- $ liveral- dal- caltialal- liveraltialtializalizal- dal- $7.
+
+---
+
+## Article 20
+### Title@2025-08-19 (2): LP-Spec: Leveraging LPDDR PIM for Efficient LLM Mobile Speculative   Inference with Architecture-Dataflow Co-Optimization
+
+**Title**: LP-Spec: Leveraging LPDDR PIM for Efficient LLM Mobile Speculative   Inference with Architecture-Dataflow Co-Optimization | LP-Spec: Leveraging LPDDR PIM für effiziente LLM Mobile Spekulative Schlussfolgerungen mit Architektur-Dataflow Co-Optimierung | LP-规格:利用 LPDDD PIM 进行高效LLM移动投机性推断,与建筑-数据流共同适应 [2508.07227v2](http://arxiv.org/abs/2508.07227v2)
+
+**Authors** (4): Siyuan He, Zhantong Zhu, Yandong He, Tianyu Jia
+
+LLM inference on mobile devices faces extraneous challenges due to limited memory bandwidth and computational resources. To address these issues, speculative inference and processing-in-memory (PIM) techniques have been explored at the algorithmic and hardware levels. However, speculative inference results in more compute-intensive GEMM operations, creating new design trade-offs for existing GEMV-accelerated PIM architectures. Furthermore, there exists a significant amount of redundant draft tokens in tree-based speculative inference, necessitating efficient token management schemes to minimize energy consumption. In this work, we present LP-Spec, an architecture-dataflow co-design leveraging hybrid LPDDR5 performance-enhanced PIM architecture with draft token pruning and dynamic workload scheduling to accelerate LLM speculative inference. A near-data memory controller is proposed to enable data reallocation between DRAM and PIM banks. Furthermore, a data allocation unit based on the hardware-aware draft token pruner is developed to minimize energy consumption and fully exploit parallel execution opportunities. Compared to end-to-end LLM inference on other mobile solutions such as mobile NPUs or GEMV-accelerated PIMs, our LP-Spec achieves 13.21x, 7.56x, and 99.87x improvements in performance, energy efficiency, and energy-delay-product (EDP). Compared with prior AttAcc PIM and RTX 3090 GPU, LP-Spec can obtain 12.83x and 415.31x EDP reduction benefits.
+
+由于记忆带宽和计算资源有限,移动装置的LLM误判面临不相干的挑战。为了解决这些问题,已经在算法和硬件层面探索了投机性推断和处理模拟(PIM)技术,然而,投机性推断导致对GEMM操作进行更加计算密集的GEMM操作,为现有的GEMM加速的PIM结构创造了新的设计取舍。此外,在基于树的投机性推断中还存在大量多余的标牌草稿,从而需要有效的象征性管理办法以尽量减少能源消耗。在这项工作中,我们介绍了LP-Spec,一个利用混合LPDDDIS5增强性业绩的建筑-数据流共同设计共同设计,并附有象征性调整和动态工作量表,以加速LIMMMU的投机性推断。提议建立一个近数据存储控制器,以便在DRAM和PIM银行之间重新分配数据。此外,一个基于硬件识别质标书草案的数据分配单位可以最大限度地减少能源消耗,并充分利用平行执行机会。比N-DDP-S-SLM-LM-LMS前和GIM-LVSLV-30-S-S Veal-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-R-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-Sir-Sir-Sir-S-Sir-Sir-S-Sir-Sir-Sir-Sir-S-S-S-S-S-Sir-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-Sir-S-S-S-S-S-S-S-S-Sir-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S
+
+---
+
+## Article 21
+### Title@2025-08-18 (1): Harnessing the Full Potential of RRAMs through Scalable and Distributed   In-Memory Computing with Integrated Error Correction
+
+**Title**: Harnessing the Full Potential of RRAMs through Scalable and Distributed   In-Memory Computing with Integrated Error Correction | Das volle Potenzial von RRAMs durch skalierbares und verteiltes In-Memory Computing mit integrierter Fehlerkorrektur nutzen | 通过带有综合错误更正的可缩放和分散的模拟计算机,充分利用记录和记录机的全部潜力 [2508.13298v1](http://arxiv.org/abs/2508.13298v1)
+
+**Authors** (5): Huynh Q. N. Vo, Md Tawsif Rahman Chowdhury, Paritosh Ramanan, Murat Yildirim, Gozde Tutuncuoglu
+
+Exponential growth in global computing demand is exacerbated due to the higher-energy requirements of conventional architectures, primarily due to energy-intensive data movement. In-memory computing with Resistive Random Access Memory (RRAM) addresses this by co-integrating memory and processing, but faces significant hurdles related to device-level non-idealities and poor scalability for large computing tasks. Here, we introduce \textbf{MELISO+} (In-\textbf{Me}mory \textbf{Li}near \textbf{So}lver), a full-stack, distributed framework for energy-efficient in-memory computing. MELISO+ proposes a novel two-tier error correction mechanism to mitigate device non-idealities and develops a distributed RRAM computing framework to enable matrix computations exceeding dimensions of $65,000 \times 65,000$. This approach reduces first- and second-order arithmetic errors due to device non-idealities by over 90\%, enhances energy efficiency by three to five orders of magnitude, and decreases latency 100-fold. Hence, MELISO+ allows lower-precision RRAM devices to outperform high-precision device alternatives in accuracy, energy and latency metrics. By unifying algorithm-hardware co-design with scalable architecture, MELISO+ significantly advances sustainable, high-dimensional computing suitable for applications like large language models and generative AI.
+
+全球计算需求的指数增长因传统结构的能源需求较高而加剧,这主要是由于能源密集型数据流动。使用耐性随机存取存储(RRAM)进行模拟计算,通过共同整合内存和处理来解决这个问题,但面临与设备级非理想化和大型计算任务缩放能力差有关的重大障碍。在这里,我们引入了\ textbf{MELISO}(In-textb{Me}Meffory\tribf{Li}near\ textbf{So}lver) 等常规结构的能源需求较高。一个全套的、分布式的、在模拟计算中应用节能的完整和配置框架。 MELISO+提出一个新的两层错误修正机制,以缓解设备非理想化,并开发一个分布式的RRAM计算框架,使矩阵计算范围超过65 000美元。由于设备非理想化,将一级和二级的算算错误减少90%以上,将能源效率提高3至5级级级,并且将精度的精度的精度精确性模型降为100级的精度,将精度的精度的精度的精度的精度的精度降为精度的精度的精度,在高级的精度的精度的精度的精度的精度机度的精度的精度的精度的精度的精度的精度的精度的精度的精度的精度的精度级。
+
+---
+
+## Article 22
+### Title@2025-08-18 (1): AI Agents for Photonic Integrated Circuit Design Automation
+
+**Title**: AI Agents for Photonic Integrated Circuit Design Automation | KI-Agenten für Photonic Integrated Circuit Design Automation | AI 光感综合电路设计自动化代理 [2508.14123v1](http://arxiv.org/abs/2508.14123v1)
+
+**Authors** (11): Ankita Sharma, YuQi Fu, Vahid Ansari, Rishabh Iyer, Fiona Kuang, Kashish Mistry, Raisa Islam Aishy, Sara Ahmad, Joaquin Matres, Dirk R. Englund, Joyce K. S. Poon
+
+We present Photonics Intelligent Design and Optimization (PhIDO), a multi-agent framework that converts natural-language photonic integrated circuit (PIC) design requests into layout mask files. We compare 7 reasoning large language models for PhIDO using a testbench of 102 design descriptions that ranged from single devices to 112-component PICs. The success rate for single-device designs was up to 91%. For design queries with less than or equal to 15 components, o1, Gemini-2.5-pro, and Claude Opus 4 achieved the highest end-to-end pass@5 success rates of approximately 57%, with Gemini-2.5-pro requiring the fewest output tokens and lowest cost. The next steps toward autonomous PIC development include standardized knowledge representations, expanded datasets, extended verification, and robotic automation.
+
+我们提出光学智能设计和优化(PhIDO),这是一个多试剂框架,将自然语言光相集成电路设计请求转换成布局遮罩文件。我们比较了7个为PhIDO提供大型语言模型的推理,测试时使用的是102个设计说明,范围从单一装置到112个部件的石化设备。单设备设计的成功率高达91%。对于少于或等于15个部件的设计查询,O1,Gemini-2.5-pro,以及Claude Opus 4 达到最高端到端通过率57%左右的成功率,Gemini-2.5-pro需要最少的输出符号和最低的成本。实现自主的PIC发展下一步包括标准化的知识表达、扩大的数据集、扩展的核查和机器人自动化。
+
+---
+
+## Article 23
+### Title@2025-08-18 (1): ViTAD: Timing Violation-Aware Debugging of RTL Code using Large Language   Models
+
+**Title**: ViTAD: Timing Violation-Aware Debugging of RTL Code using Large Language   Models | ViTAD: Zeitliche Verletzung-Bewusst Debugging von RTL-Code mit großen Sprachmodellen | VTAD: 使用大语言模式对RTL码进行违规软件调试的时间 [2508.13257v1](http://arxiv.org/abs/2508.13257v1)
+
+**Authors** (4): Wenhao Lv, Yingjie Xia, Xiyuan Chen, Li Kuang
+
+In modern Very Large Scale Integrated (VLSI) circuit design flow, the Register-Transfer Level (RTL) stage presents a critical opportunity for timing optimization. Addressing timing violations at this early stage is essential, as modern systems demand higher speeds, where even minor timing violations can lead to functional failures or system crashes. However, traditional timing optimization heavily relies on manual expertise, requiring engineers to iteratively analyze timing reports and debug. To automate this process, this paper proposes ViTAD, a method that efficiently analyzes the root causes of timing violations and dynamically generates targeted repair strategies. Specifically, we first parse Verilog code and timing reports to construct a Signal Timing Dependency Graph (STDG). Based on the STDG, we perform violation path analysis and use large language models (LLMs) to infer the root causes of violations. Finally, by analyzing the causes of violations, we selectively retrieve relevant debugging knowledge from a domain-specific knowledge base to generate customized repair solutions. To evaluate the effectiveness of our method, we construct a timing violation dataset based on real-world open-source projects. This dataset contains 54 cases of violations. Experimental results show that our method achieves a 73.68% success rate in repairing timing violations, while the baseline using only LLM is 54.38%. Our method improves the success rate by 19.30%.
+
+在现代规模非常大的综合(VLSI)电路设计流程中,登记册-传输水平(RTL)阶段为时间优化提供了一个重要机会。在这个早期阶段解决违反时间的问题至关重要,因为现代系统要求更高的速度,即使轻微的违反时间也会导致功能故障或系统崩溃。然而,传统的时间优化在很大程度上依赖人工专长,要求工程师对时间报告进行迭代分析并调试。为了将这一过程自动化,本文件提议了VITAD,这是一个有效分析违反时间现象的根源并动态生成有针对性的修理战略的方法。具体地说,我们首先分析Verilog代码和时间报告,以构建一个信号性时间依赖图(STDG ) 。基于STDG,我们进行违规路径分析并使用大型语言模型(LLLMs)来推断违规的根源。最后,我们通过分析违规原因,有选择地从特定领域知识库中获取相关的调试知识,以产生定制的修理解决方案。为了评估我们的方法的有效性,我们首先根据真实世界开放源项目(STDG) 建立违反时间数据集。根据STDG, 我们进行违规路径分析, 73 实验显示我们成功率率率的54个案例。
+
+---
+
+## Article 24
+### Title@2025-08-18 (1): XR-NPE: High-Throughput Mixed-precision SIMD Neural Processing Engine   for Extended Reality Perception Workloads
+
+**Title**: XR-NPE: High-Throughput Mixed-precision SIMD Neural Processing Engine   for Extended Reality Perception Workloads | XR-NPE: Hochdurchsatz Mischpräzise SIMD-Neuralverarbeitungs-Engine für Extended Reality Perception Workloads | XR-NPE: 扩展现实感知工作量高压混合精度SIMM神经处理引擎 [2508.13049v1](http://arxiv.org/abs/2508.13049v1)
+
+**Authors** (5): Tejas Chaudhari, Akarsh J., Tanushree Dewangan, Mukul Lokhande, Santosh Kumar Vishvakarma
+
+This work proposes XR-NPE, a high-throughput Mixed-precision SIMD Neural Processing Engine, designed for extended reality (XR) perception workloads like visual inertial odometry (VIO), object classification, and eye gaze extraction. XR-NPE is first to support FP4, Posit (4,1), Posit (8,0), and Posit (16,1) formats, with layer adaptive hybrid-algorithmic implementation supporting ultra-low bit precision to significantly reduce memory bandwidth requirements, and accompanied by quantization-aware training for minimal accuracy loss. The proposed Reconfigurable Mantissa Multiplication and Exponent processing Circuitry (RMMEC) reduces dark silicon in the SIMD MAC compute engine, assisted by selective power gating to reduce energy consumption, providing 2.85x improved arithmetic intensity. XR-NPE achieves a maximum operating frequency of 1.72 GHz, area 0.016 mm2 , and arithmetic intensity 14 pJ at CMOS 28nm, reducing 42% area, 38% power compared to the best of state-of-the-art MAC approaches. The proposed XR-NPE based AXI-enabled Matrix-multiplication co-processor consumes 1.4x fewer LUTs, 1.77x fewer FFs, and provides 1.2x better energy efficiency compared to SoTA accelerators on VCU129. The proposed co-processor provides 23% better energy efficiency and 4% better compute density for VIO workloads. XR-NPE establishes itself as a scalable, precision-adaptive compute engine for future resource-constrained XR devices. The complete set for codes for results reproducibility are released publicly, enabling designers and researchers to readily adopt and build upon them. https://github.com/mukullokhande99/XR-NPE.
+
+这项工作提出了XR- NPE格式, 是一个高通量混合精密SIMD神经处理引擎, 用于延长现实( XR) 感知工作量, 如视觉惯性度成像、 对象分类和眼睛凝视提取。 XR- NPE 首先是支持 FP4, Posit (4,1), Posit (8,0) 和 Posit (16,1) 格式, 以层适应性混合- 导航执行支持超低点点精度, 以大幅降低记忆带宽要求, 并伴之以最小精度损失的量化( XRR) 培训。 拟议的可重新配置曼蒂萨乘法和显示精度精度精度的精度精度精度精度精度精度处理( XMMEC ) 降低 SIMD MAC 的暗度。 由选择性的电源定位支持减少能源消耗, 提供了2.85x 计算强度。 XR- NPE 最大操作频率频率为1.72, 在 CMOx 上, 建立更高级的能量- Nex- mass- mass- sal- train 效率 提供更好的自动更精度的节制。
+
+---
+
+## Article 25
+### Title@2025-08-18 (1): e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact   Solving
+
+**Title**: e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact   Solving | e-Boost: Erhöhte E-Graph-Extraktion mit adaptiver Heuristik und exakter Lösung | e-加速:用适应性富营养性和精密溶解法促进电子格导抽取 [2508.13020v1](http://arxiv.org/abs/2508.13020v1)
+
+**Authors** (6): Jiaqi Yin, Zhan Song, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu
+
+E-graphs have attracted growing interest in many fields, particularly in logic synthesis and formal verification. E-graph extraction is a challenging NP-hard combinatorial optimization problem. It requires identifying optimal terms from exponentially many equivalent expressions, serving as the primary performance bottleneck in e-graph based optimization tasks. However, traditional extraction methods face a critical trade-off: heuristic approaches offer speed but sacrifice optimality, while exact methods provide optimal solutions but face prohibitive computational costs on practical problems. We present e-boost, a novel framework that bridges this gap through three key innovations: (1) parallelized heuristic extraction that leverages weak data dependence to compute DAG costs concurrently, enabling efficient multi-threaded performance without sacrificing extraction quality; (2) adaptive search space pruning that employs a parameterized threshold mechanism to retain only promising candidates, dramatically reducing the solution space while preserving near-optimal solutions; and (3) initialized exact solving that formulates the reduced problem as an Integer Linear Program with warm-start capabilities, guiding solvers toward high-quality solutions faster.   Across the diverse benchmarks in formal verification and logic synthesis fields, e-boost demonstrates 558x runtime speedup over traditional exact approaches (ILP) and 19.04% performance improvement over the state-of-the-art extraction framework (SmoothE). In realistic logic synthesis tasks, e-boost produces 7.6% and 8.1% area improvements compared to conventional synthesis tools with two different technology mapping libraries. e-boost is available at https://github.com/Yu-Maryland/e-boost.
+
+电子地图在许多领域引起了越来越多的兴趣,特别是在逻辑合成和正式核查方面。电子地图提取是一个具有挑战性的NP硬组合优化问题。它需要从成倍数的等效表达式中找出最佳术语,作为电子地图优化任务中的主要性能瓶颈。然而,传统提取方法面临一个关键的权衡:超速方法提供了速度,但牺牲了最佳性能,而精确方法则提供了最佳解决方案,但在实际问题上却面临令人难以承受的计算成本。我们提出了一个新的框架,即电子加速,通过三个关键创新来弥合这一差距:(1) 平行的超速提取,利用数据依赖性弱来同时计算DAG成本,使高效的多读化性能能够同时牺牲提取质量;(2) 适应性搜索空间运行,使用参数化门槛机制只保留有希望的候选人,大幅缩小解决方案空间,同时保留近乎最佳的解决方案;(3) 初始化精确解决方案,将问题描述为具有温暖启动能力的Interger线性程序,指导解决方案实现高质量改进。 超越了正式和逻辑化电子合成领域的不同基准,e-broupal-ral-ral-ral-ral-ral-ral-ral-rass-ral-ral-lax-laxxx-lax-lax-laxxxxx
+
+---
+
+## Article 26
+### Title@2025-08-18 (1): Multi-Metric Algorithmic Complexity: Beyond Asymptotic Analysis
+
+**Title**: Multi-Metric Algorithmic Complexity: Beyond Asymptotic Analysis | Multi-metrische algorithmische Komplexität: Jenseits der asymptotischen Analyse | 多计量算法复杂程度:除无药分析之外 [2508.13249v1](http://arxiv.org/abs/2508.13249v1)
+
+**Authors** (1): Sergii Kavun
+
+Traditional algorithm analysis treats all basic operations as equally costly, which hides significant differences in time, energy consumption, and cost between different types of computations on modern processors. We propose a weighted-operation complexity model that assigns realistic cost values to different instruction types across multiple dimensions: computational effort, energy usage, carbon footprint, and monetary cost. The model computes overall efficiency scores based on user-defined priorities and can be applied through automated code analysis or integrated with performance measurement tools. This approach complements existing theoretical models by enabling practical, architecture-aware algorithm comparisons that account for performance, sustainability, and economic factors. We demonstrate an open-source implementation that analyzes code, estimates multi-dimensional costs, and provides efficiency recommendations across various algorithms. We address two research questions: (RQ1) Can a multi-metric model predict time/energy with high accuracy across architectures? (RQ2) How does it compare to baselines like Big-O, ICE, and EVM gas? Validation shows strong correlations (\r{ho}>0.9) with measured data, outperforming baselines in multi-objective scenarios.
+
+传统算法分析将所有基本操作视为同样昂贵的操作,这掩盖了现代处理器不同类型计算之间在时间、能源消耗和成本上的巨大差异。我们提出了一个加权操作复杂模型,为不同教育类型分配了多个层面的现实成本值:计算努力、能源使用、碳足迹和货币成本。模型根据用户定义的优先事项计算了总体效率分数,并可以通过自动代码分析或与绩效衡量工具相结合加以应用。这一方法补充了现有的理论模型,使实际的、符合结构的算法比较能够反映性能、可持续性和经济因素。我们展示了一种可分析代码、估算多维成本并提供跨各种算法效率建议的开放源执行。我们探讨了两个研究问题:(RQ1)多计量模型能够预测跨结构的高精确度时间/能源吗? (RQ2)它如何与大O、ICE和EVM气体等基线进行比较?验证显示在多目标假设情景中与测量的数据和超效基线的强烈关联性(\0.9)。
+
+---
+
+## Article 27
+### Title@2025-08-18 (1): IzhiRISC-V -- a RISC-V-based Processor with Custom ISA Extension for   Spiking Neuron Networks Processing with Izhikevich Neurons
+
+**Title**: IzhiRISC-V -- a RISC-V-based Processor with Custom ISA Extension for   Spiking Neuron Networks Processing with Izhikevich Neurons | IzhiRISC-V -- ein RISC-V-basierter Prozessor mit benutzerdefinierter ISA-Erweiterung für die Spiking Neuron Networks Verarbeitung mit Izhikevich Neuronen | IzhiRIRC-V -- -- IzhiRIRC-V -- -- 一种基于RISCV的处理器,具有用于与Izhikovich神经元进行中子处理的Spiking中子网络处理的自订ISA扩展版 [2508.12846v1](http://arxiv.org/abs/2508.12846v1)
+
+**Authors** (2): Wiktor J. Szczerek, Artur Podobas
+
+Spiking Neural Network processing promises to provide high energy efficiency due to the sparsity of the spiking events. However, when realized on general-purpose hardware -- such as a RISC-V processor -- this promise can be undermined and overshadowed by the inefficient code, stemming from repeated usage of basic instructions for updating all the neurons in the network. One of the possible solutions to this issue is the introduction of a custom ISA extension with neuromorphic instructions for spiking neuron updating, and realizing those instructions in bespoke hardware expansion to the existing ALU. In this paper, we present the first step towards realizing a large-scale system based on the RISC-V-compliant processor called IzhiRISC-V, supporting the custom neuromorphic ISA extension.
+
+Spik Spik Neural Network 的处理由于突飞猛进的事件繁多,有望提供高能效。然而,当在一般用途硬件(如RISC-V处理器)上实现时,由于反复使用基本指令更新网络中的所有神经元而导致的代码效率低下,这一承诺可能会受到削弱和掩盖。这一问题的一个可能解决办法是采用定制的ISA扩展,配有神经形态指令,用于刺激神经元更新,并实现这些指令,将硬件扩增成现有的ALU。在本文件中,我们提出了实现基于符合IRSC-V的处理器(即IzhiRISC-V)的大型系统的第一步,支持定制神经形态的ISA扩展。
+
+---
+
+## Article 28
+### Title@2025-08-18 (1): Sub-Millisecond Event-Based Eye Tracking on a Resource-Constrained   Microcontroller
+
+**Title**: Sub-Millisecond Event-Based Eye Tracking on a Resource-Constrained   Microcontroller | Sub-Millisekunden-Ereignisbasiertes Eye Tracking auf einem ressourcenbeschränkten Mikrocontroller | 关于资源受控微控制器的第二次次级事件观察跟踪 [2508.13244v1](http://arxiv.org/abs/2508.13244v1)
+
+**Authors** (4): Marco Giordano, Pietro Bonazzi, Luca Benini, Michele Magno
+
+This paper presents a novel event-based eye-tracking system deployed on a resource-constrained microcontroller, addressing the challenges of real-time, low-latency, and low-power performance in embedded systems. The system leverages a Dynamic Vision Sensor (DVS), specifically the DVXplorer Micro, with an average temporal resolution of 200 {\mu}s, to capture rapid eye movements with extremely low latency. The system is implemented on a novel low-power and high-performance microcontroller from STMicroelectronics, the STM32N6. The microcontroller features an 800 MHz Arm Cortex-M55 core and AI hardware accelerator, the Neural-ART Accelerator, enabling real-time inference with milliwatt power consumption. The paper propose a hardware-aware and sensor-aware compact Convolutional Neuron Network (CNN) optimized for event-based data, deployed at the edge, achieving a mean pupil prediction error of 5.99 pixels and a median error of 5.73 pixels on the Ini-30 dataset. The system achieves an end-to-end inference latency of just 385 {\mu}s and a neural network throughput of 52 Multiply and Accumulate (MAC) operations per cycle while consuming just 155 {\mu}J of energy. This approach allows for the development of a fully embedded, energy-efficient eye-tracking solution suitable for applications such as smart glasses and wearable devices.
+
+本文展示了一种新型的事件跟踪系统,在资源紧缺的微控制器、STM32N6. 微控制器上安装了一种新型的低功率和高性能微控制器,以应对嵌入系统中实时、低纬度和低功率性能的挑战。该系统利用了动态视觉传感器(DVS),特别是DVXplorer Micro, 平均时间分辨率为200 立方公尺, 以极低的悬浮度捕捉快速眼睛运动。这个系统安装在一个新型的低功率和高性能微控制器上,来自STMIcroepheph、STM32N6. 微控制器的功能是800兆赫 Arm Cortex-M55核心和AI硬件加速器,神经-ART加速器,使实时推断与毫微电消耗量电量消耗有关。 本文提议了一个硬件和传感器小型内装内装内装内装内装内装内装内装内装系统,在边缘部署的事件数据、5.99平级学生平均预测误差和5.73平等内装5.73的内装的内装智能智能智能智能智能智能智能智能智能智能智能智能智能智能智能智能加速加速加速加速器,同时在55和自动循环的网络中, 将自动自动循环的系统通过自动循环进行。
+
+---
+
+## Article 29
+### Title@2025-08-18 (1): HOMI: Ultra-Fast EdgeAI platform for Event Cameras
+
+**Title**: HOMI: Ultra-Fast EdgeAI platform for Event Cameras | HOMI: Ultraschnelle EdgeAI-Plattform für Event-Kameras | HOMMI:超快边缘A事件摄影机平台 [2508.12637v1](http://arxiv.org/abs/2508.12637v1)
+
+**Authors** (6): Shankaranarayanan H, Satyapreet Singh Yadav, Adithya Krishna, Ajay Vikram P, Mahesh Mehendale, Chetan Singh Thakur
+
+Event cameras offer significant advantages for edge robotics applications due to their asynchronous operation and sparse, event-driven output, making them well-suited for tasks requiring fast and efficient closed-loop control, such as gesture-based human-robot interaction. Despite this potential, existing event processing solutions remain limited, often lacking complete end-to-end implementations, exhibiting high latency, and insufficiently exploiting event data sparsity. In this paper, we present HOMI, an ultra-low latency, end-to-end edge AI platform comprising a Prophesee IMX636 event sensor chip with an Xilinx Zynq UltraScale+MPSoC FPGA chip, deploying an in-house developed AI accelerator. We have developed hardware-optimized pre-processing pipelines supporting both constant-time and constant-event modes for histogram accumulation, linear and exponential time surfaces. Our general-purpose implementation caters to both accuracy-driven and low-latency applications. HOMI achieves 94% accuracy on the DVS Gesture dataset as a use case when configured for high accuracy operation and provides a throughput of 1000 fps for low-latency configuration. The hardware-optimised pipeline maintains a compact memory footprint and utilises only 33% of the available LUT resources on the FPGA, leaving ample headroom for further latency reduction, model parallelisation, multi-task deployments, or integration of more complex architectures.
+
+活动相机为边缘机器人应用程序提供了巨大的优势, 原因是其操作不同步, 且由事件驱动的输出数量稀少, 使得它们非常适合快速高效的闭路控制任务, 如基于手势的人体机器人互动。 尽管存在这种潜力, 现有的事件处理解决方案仍然有限, 往往缺乏完整的端到端执行, 显示高度的潜伏, 并且没有充分利用事件的数据宽度。 在本文中, 我们展示了超低悬浮、 端到端边缘的AI 平台, 包括一个配有Xlinx Zynq UltraSURTSUPSUMPC FPGA芯片的Prophes IMX636事件传感器芯片, 安装了内部开发的AI 加速器。 我们开发了硬件优化的预处理管道, 支持恒定时间和恒定事件, 线和指数时间表表面模式。 我们的通用执行仅满足精度驱动和低延度应用程序。 HOMI在DVS高端部署的高级机尾结构上实现了94%的精确度, 将低尾部的存储机尾部配置用作缩缩配置, 。
+
+---
+
+## Article 30
+### Title@2025-08-18 (1): MemorySim: An RTL-level, timing accurate simulator model for the Chisel   ecosystem
+
+**Title**: MemorySim: An RTL-level, timing accurate simulator model for the Chisel   ecosystem | MemorySim: Ein RTL-Level, Timing-genaues Simulatormodell für das Chisel-Ökosystem | MeineSim:Chisel 生态系统的RTL级、计时准确模拟模型 [2508.12636v1](http://arxiv.org/abs/2508.12636v1)
+
+**Authors** (1): Ansh Chaurasia
+
+The rapid growth of AI applications has driven increased demand for specialized AI hardware, highlighting critical opportunities within the memory subsystem, which often serves as a performance bottleneck in high-demand workloads such as large language models (LLMs). Existing high-level memory simulators, such as DRAMSim2 and DRAMSim3, offer timing simulations but frequently compromise on correctness or integration at the register-transfer level (RTL). We present MemorySim, an RTL-level memory simulator designed to deliver both accurate timing and functional correctness. MemorySim integrates seamlessly with existing Chisel and Verilog simulations and is fully compatible with the Chisel/Chipyard ecosystem. This enables users to obtain precise performance and power estimates, supporting downstream evaluation through simulation platforms such as FireSim.
+
+AI应用的迅速增长促使对专用AI硬件的需求增加,突出了记忆子系统内部的关键机会,而记忆子系统往往成为诸如大型语言模型(LLMs)等高需求工作量的一个性能瓶颈;现有的高级记忆模拟器,如DRAMSim2和DRAMSim3, 提供时间模拟,但经常在登记-移交(RTL)一级就正确性或整合问题作出妥协;我们提出M99Sim, RTL级记忆模拟器,旨在提供准确的时间和功能正确性;M99Sim与现有的Chisel和Verilog模拟无缝地结合,并与Chisel/Chityard生态系统完全兼容;这使用户能够获得准确的性能和动力估计,通过FireSim等模拟平台支持下游评估。
+
+---
+
+## Article 31
+### Title@2025-08-17 (7): Accelerating LLM Inference via Dynamic KV Cache Placement in   Heterogeneous Memory System
+
+**Title**: Accelerating LLM Inference via Dynamic KV Cache Placement in   Heterogeneous Memory System | Beschleunigung der LLM-Inferenz durch dynamische KV-Cache-Platzierung im Heterogenen Speichersystem | 通过在异种记忆系统中动态 KV 缓存定位加速LLM 推论 [2508.13231v1](http://arxiv.org/abs/2508.13231v1)
+
+**Authors** (9): Yunhua Fang, Rui Xie, Asad Ul Haq, Linsen Ma, Kaoutar El Maghraoui, Naigang Wang, Meng Wang, Liu Liu, Tong Zhang
+
+Large Language Model (LLM) inference is increasingly constrained by memory bandwidth, with frequent access to the key-value (KV) cache dominating data movement. While attention sparsity reduces some memory traffic, the relevance of past tokens varies over time, requiring the full KV cache to remain accessible and sustaining pressure on both bandwidth and capacity. With advances in interconnects such as NVLink and LPDDR5X, modern AI hardware now integrates high-bandwidth memory (HBM) with high-speed off-package DRAM, making heterogeneous memory systems a practical solution. This work investigates dynamic KV cache placement across such systems to maximize aggregated bandwidth utilization under capacity constraints. Rather than proposing a specific scheduling policy, we formulate the placement problem mathematically and derive a theoretical upper bound, revealing substantial headroom for runtime optimization. To our knowledge, this is the first formal treatment of dynamic KV cache scheduling in heterogeneous memory systems for LLM inference.
+
+大型语言模型(LLM) 推论日益受到记忆带宽的限制, 经常访问关键值( KV) 缓冲缓冲缓冲数据移动。 虽然关注宽度减少了一些记忆流量, 但过去象征的相关性随时间而不同, 要求整个 KV 缓冲保持无障碍并保持对带宽和容量的压力。 随着NVLink 和 LPDDDD5X 等连接的进展, 现代的 AI 硬件现在将高带宽内存(HBM) 与高速离包式 DRAM 整合在一起, 使多种存储系统成为切实可行的解决方案。 这项工作调查了这些系统中的动态 KV 缓冲位置放置, 以便在能力限制下最大限度地实现总体带宽利用率。 我们不是提出具体的时间安排政策, 而是从数学角度来制定放置问题, 并产生理论的上层框, 揭示大量主机床, 用于运行时间优化。 据我们所知, 这是首次正式处理LM Inference 的多种存储系统对动态 KV 缓冲缓冲缓存列表的动态 KV 。
+
+---
+
+## Article 32
+### Title@2025-08-17 (7): ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for   Fine-Grained Time-Based Layout Power Analysis
+
+**Title**: ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for   Fine-Grained Time-Based Layout Power Analysis | ATLAS: Ein selbstüberwachtes und stufenübergreifendes Netzlisten-Leistungsmodell für eine feinkörnige zeitbasierte Layout-Leistungsanalyse | ATLAS: 精细、基于时间、基于时间的电源布局分析自我监督、跨系统网络列表动力模型 [2508.12433v1](http://arxiv.org/abs/2508.12433v1)
+
+**Authors** (6): Wenkai Li, Yao Lu, Wenji Fang, Jing Wang, Qijun Zhang, Zhiyao Xie
+
+Accurate power prediction in VLSI design is crucial for effective power optimization, especially as designs get transformed from gate-level netlist to layout stages. However, traditional accurate power simulation requires time-consuming back-end processing and simulation steps, which significantly impede design optimization. To address this, we propose ATLAS, which can predict the ultimate time-based layout power for any new design in the gate-level netlist. To the best of our knowledge, ATLAS is the first work that supports both time-based power simulation and general cross-design power modeling. It achieves such general time-based power modeling by proposing a new pre-training and fine-tuning paradigm customized for circuit power. Targeting golden per-cycle layout power from commercial tools, our ATLAS achieves the mean absolute percentage error (MAPE) of only 0.58%, 0.45%, and 5.12% for the clock tree, register, and combinational power groups, respectively, without any layout information. Overall, the MAPE for the total power of the entire design is <1%, and the inference speed of a workload is significantly faster than the standard flow of commercial tools.
+
+VLSI设计中的准确电量预测对于有效优化电力至关重要,特别是当设计从门级网络列表转换到布局阶段时。然而,传统的准确电量模拟需要耗时的后端处理和模拟步骤,这严重妨碍设计优化。为此,我们提议ATLAS,它可以预测门级网络列表中任何新设计的最终基于时间的布局能力。据我们所知,ATLAS是第一个支持基于时间的电量模拟和通用交叉设计电量模型的工作。它通过提出针对电路动力的新的预培训和微调模式来实现这种基于时间的通用电量模型。用商业工具瞄准黄金的每周期布局能力,我们的ATLAS在没有任何布局信息的情况下,只达到0.58%、0.45%和5.12%的平均绝对百分率差(MAPE),对时钟树、登记和组合电组而言,总而言,用于整个设计的总功率的MAPE是 < 1%,工作量的推推速度大大快于商业工具的标准流程。
+
+---
+
+## Article 33
+### Title@2025-08-17 (7): An ECC-based Fault Tolerance Approach for DNNs
+
+**Title**: An ECC-based Fault Tolerance Approach for DNNs | Ein ECC-basierter Fehlertoleranzansatz für DNNs | 以ECC为基础,对DNNs采取基于ECC的容忍办法 [2508.12347v1](http://arxiv.org/abs/2508.12347v1)
+
+**Authors** (3): Mohsen Raji, Mohammad Zaree, Kimia Soroush
+
+Deep Neural Network (DNN) has achieve great success in solving a wide range of machine learning problems. Recently, they have been deployed in datacenters (potentially for business-critical or industrial applications) and safety-critical systems such as self-driving cars. So, their correct functionality in the presence of potential bit-flip errors on DNN parameters stored in memories plays the key role in their applicability in safety-critical applications. In this paper, a fault tolerance approach based on Error Correcting Codes (ECC), called SPW, is proposed to ensure the correct functionality of DNNs in the presence of bit-flip faults. In the proposed approach, error occurrence is detected by the stored ECC and then, it is correct in case of a single-bit error or the weight is completely set to zero (i.e. masked) otherwise. A statistical fault injection campaign is proposed and utilized to investigate the efficacy of the proposed approach. The experimental results show that the accuracy of the DNN increases by more than 300% in the presence with Bit Error Rate of 10^(-1) in comparison to the case where ECC technique is applied, in expense of just 47.5% area overhead.
+
+深神经网络(DNN)在解决广泛的机器学习问题方面取得了巨大成功。 最近,它们被安装在数据中心(可能用于商业关键或工业应用)和安全关键系统中,例如自驾驶汽车。因此,在存储在记忆中的 DNN 参数存在可能的位翻差错误的情况下,它们的正确功能在安全关键应用中起着关键作用。在本文中,基于错误校正代码(ECC)的错误容忍方法(称为SPW),建议确保DN在出现位翻差时的正确功能。在拟议方法中,存储的ECC检测出错误发生频率,然后,如果发生单位错误或重量完全设定为零(即遮盖),则正确。提出并使用统计错误注入运动来调查拟议方法的功效。实验结果显示,DNN的准确率比位误差率增加300%以上,比ECC技术应用的情况要高47.5 %。
+
+---
+
+## Article 34
+### Title@2025-08-17 (7): Soft Error Probability Estimation of Nano-scale Combinational Circuits
+
+**Title**: Soft Error Probability Estimation of Nano-scale Combinational Circuits | Weiche Fehlerwahrscheinlichkeit Schätzung von Nano-Skala-Kombinationsschaltungen | 纳米规模合并电路的纳米规模合并电路概率估计 [2508.12345v1](http://arxiv.org/abs/2508.12345v1)
+
+**Authors** (2): Ali Jockar, Mohsen Raji
+
+As technology scales, nano-scale digital circuits face heightened susceptibility to single event upsets (SEUs) and transients (SETs) due to shrinking feature sizes and reduced operating voltages. While logical, electrical, and timing masking effects influence soft error probability (SEP), the combined impact of process variation (PV) and aging-induced degradation further complicates SEP estimation. Existing approaches often address PV or aging in isolation, or rely on computationally intensive methods like Monte Carlo simulations, limiting their practicality for large-scale circuit optimization. This paper introduces a novel framework for SEP analysis that holistically integrates PV and aging effects. We propose an enhanced electrical masking model and a statistical methodology to quantify soft error probability under process and aging variations. Experimental results demonstrate that the proposed approach achieves high accuracy while reducing computational overhead by approximately 2.5% compared to Monte Carlo-based methods. This work advances the design of reliable nano-scale circuits by enabling efficient, accurate SEP estimation in the presence of manufacturing variability and long-term transistor degradation.
+
+由于技术规模,纳米规模的数字电路由于地物大小缩小和运行电压减少,对单一事件失常和瞬态(SETs)的敏感度提高。虽然逻辑、电气和时间遮掩效应会影响软误差概率(SEP),但工艺变异和老化引起的降解的综合影响使SEP的估算更加复杂。现有方法往往处理光电或孤立地老龄化,或依赖蒙特卡洛模拟等计算密集型方法,限制其大规模电路优化的实用性。本文为SEP分析引入了一个新颖的框架,全面整合了光电和老化效应。我们提出了一个强化的电遮掩模型和统计方法,以量化流程中的软误差概率和老化变异。实验结果表明,拟议方法取得了很高的准确性,同时比蒙特卡洛方法减少了约2.5%的计算间接成本。这项工作通过在制造变异性和长期晶体降解中促成高效、准确的SEP估计,从而推进了可靠的纳米规模电路的设计。
+
+---
+
+## Article 35
+### Title@2025-08-17 (7): AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power   Group Decoupling
+
+**Title**: AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power   Group Decoupling | AutoPower: Automatisierte wenige Shot-Architektur-Level-Leistungsmodellierung durch Entkoppelung der Power Group | 自动动力:用电源组拆开自动式低热结构级电源模型 [2508.12294v1](http://arxiv.org/abs/2508.12294v1)
+
+**Authors** (4): Qijun Zhang, Yao Lu, Mengming Li, Zhiyao Xie
+
+Power efficiency is a critical design objective in modern CPU design. Architects need a fast yet accurate architecture-level power evaluation tool to perform early-stage power estimation. However, traditional analytical architecture-level power models are inaccurate. The recently proposed machine learning (ML)-based architecture-level power model requires sufficient data from known configurations for training, making it unrealistic.   In this work, we propose AutoPower targeting fully automated architecture-level power modeling with limited known design configurations. We have two key observations: (1) The clock and SRAM dominate the power consumption of the processor, and (2) The clock and SRAM power correlate with structural information available at the architecture level. Based on these two observations, we propose the power group decoupling in AutoPower. First, AutoPower decouples across power groups to build individual power models for each group. Second, AutoPower designs power models by further decoupling the model into multiple sub-models within each power group. In our experiments, AutoPower can achieve a low mean absolute percentage error (MAPE) of 4.36\% and a high $R^2$ of 0.96 even with only two known configurations for training. This is 5\% lower in MAPE and 0.09 higher in $R^2$ compared with McPAT-Calib, the representative ML-based power model.
+
+电源效率是现代CPU设计中的关键设计目标。 建筑师需要快速而准确的建筑级电力评估工具来进行早期电源估计。 但是, 传统的分析架构级电力模型不准确。 最近提议的机器学习(ML)基于建筑级电力模型需要从已知的配置中获得足够的数据以供培训, 因而不切实际。 在这项工作中, 我们提议自动权力将完全自动化的建筑级电力模型与已知设计配置有限的设计配置相匹配。 我们有两个关键观察:(1) 时钟和SRAM控制了处理器的电耗,(2) 时钟和SRAM动力与建筑一级现有的结构信息相关。 根据这两个观察, 我们提议在自动动力中分离的电力组。 首先, 自动权力分离组需要从已知的已知配置中收集足够的数据, 用于为每个组构建单个电源模型。 第二, 自动权力设计电源模型, 进一步将模型与每个电源组的多个子模型相分离。 在我们的实验中, 自动权力可以实现一个4.36的低绝对百分比错误(MAE)和高R2$0.96, 甚至以0.96美元为0.96美元的高值, MAT=MPL, 进行低的MPL。
+
+---
+
+## Article 36
+### Title@2025-08-17 (7): TSLA: A Task-Specific Learning Adaptation for Semantic Segmentation on   Autonomous Vehicles Platform
+
+**Title**: TSLA: A Task-Specific Learning Adaptation for Semantic Segmentation on   Autonomous Vehicles Platform | TSLA: Eine aufgabenspezifische Lernanpassung für semantische Segmentierung auf der Plattform Autonomer Fahrzeuge | TSLA: 机动车辆平台语义分割专用专用学习适应 [2508.12279v1](http://arxiv.org/abs/2508.12279v1)
+
+**Authors** (12): Jun Liu, Zhenglun Kong, Pu Zhao, Weihao Zeng, Hao Tang, Xuan Shen, Changdi Yang, Wenbin Zhang, Geng Yuan, Wei Niu, Xue Lin, Yanzhi Wang
+
+Autonomous driving platforms encounter diverse driving scenarios, each with varying hardware resources and precision requirements. Given the computational limitations of embedded devices, it is crucial to consider computing costs when deploying on target platforms like the NVIDIA\textsuperscript{\textregistered} DRIVE PX 2. Our objective is to customize the semantic segmentation network according to the computing power and specific scenarios of autonomous driving hardware. We implement dynamic adaptability through a three-tier control mechanism -- width multiplier, classifier depth, and classifier kernel -- allowing fine-grained control over model components based on hardware constraints and task requirements. This adaptability facilitates broad model scaling, targeted refinement of the final layers, and scenario-specific optimization of kernel sizes, leading to improved resource allocation and performance.   Additionally, we leverage Bayesian Optimization with surrogate modeling to efficiently explore hyperparameter spaces under tight computational budgets. Our approach addresses scenario-specific and task-specific requirements through automatic parameter search, accommodating the unique computational complexity and accuracy needs of autonomous driving. It scales its Multiply-Accumulate Operations (MACs) for Task-Specific Learning Adaptation (TSLA), resulting in alternative configurations tailored to diverse self-driving tasks. These TSLA customizations maximize computational capacity and model accuracy, optimizing hardware utilization.
+
+鉴于嵌入装置的计算局限性,在部署目标平台,如NVIDIA\textoverstatictript_text登记}驱动式PX 2. 我们的目标是根据计算机功率和自主驱动硬件的具体假想,定制语义分割网络; 我们通过三层控制机制 -- -- 宽度乘数、分类深度和分级内核 -- -- 实施动态适应性,允许根据硬件限制和任务要求对模型组件进行精密控制。 这种适应性有利于广泛的模型规模,有针对性地改进最后层,并根据具体情况优化内核尺寸,从而改进资源分配和性能。 此外,我们利用贝叶色优化模型,在紧凑的计算预算下高效探索超离子空间。 我们的方法通过自动参数搜索,满足自主驱动的独特计算复杂性和准确性需要,解决情景特定和具体任务要求。 它通过多种组合组合化操作(MACSMAC),有针对性地改进最后层,并优化具体情景内核尺寸,从而改进资源分配和性能。 此外,我们利用比喻模型模型来有效探索超离式的超离层空间的自动计算能力。
+
+---
+
+## Article 37
+### Title@2025-08-17 (7): A Time- and Energy-Efficient CNN with Dense Connections on   Memristor-Based Chips
+
+**Title**: A Time- and Energy-Efficient CNN with Dense Connections on   Memristor-Based Chips | Ein zeit- und energieeffizientes CNN mit Dense-Verbindungen auf Memoristor-basierten Chips | 具有时间和能源效益的CNN,对以记忆为基础的芯片有强烈的连接 [2508.12251v1](http://arxiv.org/abs/2508.12251v1)
+
+**Authors** (5): Wenyong Zhou, Yuan Ren, Jiajun Zhou, Tianshu Hou, Ngai Wong
+
+Designing lightweight convolutional neural network (CNN) models is an active research area in edge AI. Compute-in-memory (CIM) provides a new computing paradigm to alleviate time and energy consumption caused by data transfer in von Neumann architecture. Among competing alternatives, resistive random-access memory (RRAM) is a promising CIM device owing to its reliability and multi-bit programmability. However, classical lightweight designs such as depthwise convolution incurs under-utilization of RRAM crossbars restricted by their inherently dense weight-to-RRAM cell mapping. To build an RRAM-friendly yet efficient CNN, we evaluate the hardware cost of DenseNet which maintains a high accuracy vs other CNNs at a small parameter count. Observing the linearly increasing channels in DenseNet leads to a low crossbar utilization and causes large latency and energy consumption, we propose a scheme that concatenates feature maps of front layers to form the input of the last layer in each stage. Experiments show that our proposed model consumes less time and energy than conventional ResNet and DenseNet, while producing competitive accuracy on CIFAR and ImageNet datasets.
+
+设计轻量级神经网络(CNN)模型是一个活跃的研究领域。 计算内模(CIM)提供了一种新的计算模式,以减缓冯纽曼结构中数据传输造成的时间和能源消耗。 在相互竞争的替代品中,耐性随机存取内存(RRAM)因其可靠性和多位编程性而是一种很有希望的CIM装置。然而,诸如深度演进等典型的轻量设计,受到RRAM跨栏内在密集重到RRAM细胞绘图的限制。为了建立一个对RAM友好而高效的CNN,我们评估了DenseNet的硬件成本,这个网络在小的参数计上保持了高精度相对于其他CNN。观察DenseNet线性增长的频道导致低跨条利用率,并导致大量悬浮和能源消耗。我们提议了一个方案,将前层地图作为对每个阶段最后一个层的投入。实验表明,我们提议的模型消耗的时间和能源比常规ResNet和DenseNet要少,同时对CIFAR和图像网络产生竞争性的准确性。
+
+---
+
+## Article 38
+### Title@2025-08-17 (7): Special Session: Sustainable Deployment of Deep Neural Networks on   Non-Volatile Compute-in-Memory Accelerators
+
+**Title**: Special Session: Sustainable Deployment of Deep Neural Networks on   Non-Volatile Compute-in-Memory Accelerators | Sondersitzung: Nachhaltige Bereitstellung tiefer neuraler Netzwerke auf nicht-volatilen Compute-in-Memory-Beschleunigern | 特别会议:可持续部署关于非自愿计算元中加速器的深神经网络 [2508.12195v1](http://arxiv.org/abs/2508.12195v1)
+
+**Authors** (5): Yifan Qin, Zheyu Yan, Wujie Wen, Xiaobo Sharon Hu, Yiyu Shi
+
+Non-volatile memory (NVM) based compute-in-memory (CIM) accelerators have emerged as a sustainable solution to significantly boost energy efficiency and minimize latency for Deep Neural Networks (DNNs) inference due to their in-situ data processing capabilities. However, the performance of NVCIM accelerators degrades because of the stochastic nature and intrinsic variations of NVM devices. Conventional write-verify operations, which enhance inference accuracy through iterative writing and verification during deployment, are costly in terms of energy and time. Inspired by negative feedback theory, we present a novel negative optimization training mechanism to achieve robust DNN deployment for NVCIM. We develop an Oriented Variational Forward (OVF) training method to implement this mechanism. Experiments show that OVF outperforms existing state-of-the-art techniques with up to a 46.71% improvement in inference accuracy while reducing epistemic uncertainty. This mechanism reduces the reliance on write-verify operations and thus contributes to the sustainable and practical deployment of NVCIM accelerators, addressing performance degradation while maintaining the benefits of sustainable computing with NVCIM accelerators.
+
+以计算模拟(CIM)加速器为基础的非挥发性内存(NVM)计算值(CIM)加速器,已成为一种可持续的解决办法,可以大大提高能源效率,并尽量减少深神经网络(DNN)因现场数据处理能力而导致的延迟性,但NVCIM加速器的性能由于NVM装置的随机性能和内在变异而退化。常规写作核查操作在部署期间通过迭代写作和核查提高推断准确性,在能量和时间方面代价高昂。在负面反馈理论的启发下,我们提出了一个新的负面优化培训机制,以实现为NVOCIM进行强有力的DNNN(DNNN)部署。我们开发了一种定向流动前方(OVF)培训方法来实施这一机制。实验显示,OVCF超越了现有的先进技术,提高了46.71%的准确性,同时降低了认知不确定性。这一机制减少了对书面核查操作的依赖,从而有助于在NVIMC进行可持续和实用性运行的同时,从而维护了NVIMC的降解器的可持续性。
+
+---
+
+## Article 39
+### Title@2025-08-16 (6): NeFT: Negative Feedback Training to Improve Robustness of   Compute-In-Memory DNN Accelerators
+
+**Title**: NeFT: Negative Feedback Training to Improve Robustness of   Compute-In-Memory DNN Accelerators | NeFT: Negativ-Feedback-Schulung zur Verbesserung der Robustheit von DNN-Beschleunigern für Compute-in-Memory | NeFT:提高计算中 DNN 加速器的可靠性的负面反馈培训 [2305.14561v5](http://arxiv.org/abs/2305.14561v5)
+
+**Authors** (8): Yifan Qin, Zheyu Yan, Dailin Gan, Jun Xia, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, Yiyu Shi
+
+Compute-in-memory accelerators built upon non-volatile memory devices excel in energy efficiency and latency when performing deep neural network (DNN) inference, thanks to their in-situ data processing capability. However, the stochastic nature and intrinsic variations of non-volatile memory devices often result in performance degradation during DNN inference. Introducing these non-ideal device behaviors in DNN training enhances robustness, but drawbacks include limited accuracy improvement, reduced prediction confidence, and convergence issues. This arises from a mismatch between the deterministic training and non-deterministic device variations, as such training, though considering variations, relies solely on the model's final output. In this work, inspired by control theory, we propose Negative Feedback Training (NeFT), a novel concept supported by theoretical analysis, to more effectively capture the multi-scale noisy information throughout the network. We instantiate this concept with two specific instances, oriented variational forward (OVF) and intermediate representation snapshot (IRS). Based on device variation models extracted from measured data, extensive experiments show that our NeFT outperforms existing state-of-the-art methods with up to a 45.08% improvement in inference accuracy while reducing epistemic uncertainty, boosting output confidence, and improving convergence probability. These results underline the generality and practicality of our NeFT framework for increasing the robustness of DNNs against device variations. The source code for these two instances is available at https://github.com/YifanQin-ND/NeFT_CIM
+
+以非挥发性记忆装置为基础的计算模拟加速器在进行深神经网络(DNN)的推断时,在能源效率和耐久性方面优于能源效率和耐久性,这归功于其现场数据处理能力。然而,非挥发性记忆装置的随机性和内在变化往往导致DNN的演化期间性能退化。在DNN培训中引入这些非理想性装置行为会增强稳健性,但缺点包括:精确度改进有限、预测信心降低和趋同问题。这是因为,在进行确定性培训和非定性装置变异之间出现不匹配,例如,尽管考虑到各种变异,但仅依赖于模型的最终输出。在这项工作中,我们提出受控制理论分析支持的新概念,即消极反馈培训,以便更有效地捕捉整个网络的多级噪音信息。我们用两个具体实例即定向变异性前(OVFF)和中间显示源(IRS)来概括。基于从测量的数据变异性模型中提取的两部变异性模型,广泛的实验显示在不断递增 NIMF的精确性输出结果中,在不断改进的精确度上显示我们的内置现有数据。
+
+---
+
+## Article 40
+### Title@2025-08-16 (6): FedUHD: Unsupervised Federated Learning using Hyperdimensional Computing
+
+**Title**: FedUHD: Unsupervised Federated Learning using Hyperdimensional Computing | FedUHD: Unüberwachtes Federated Learning mit Hyperdimensional Computing | FedUHD: 使用多维计算机进行无监督的联邦学习 [2508.12021v1](http://arxiv.org/abs/2508.12021v1)
+
+**Authors** (5): You Hak Lee, Xiaofan Yu, Quanling Zhao, Flavio Ponzina, Tajana Rosing
+
+Unsupervised federated learning (UFL) has gained attention as a privacy-preserving, decentralized machine learning approach that eliminates the need for labor-intensive data labeling. However, UFL faces several challenges in practical applications: (1) non-independent and identically distributed (non-iid) data distribution across devices, (2) expensive computational and communication costs at the edge, and (3) vulnerability to communication noise. Previous UFL approaches have relied on deep neural networks (NN), which introduce substantial overhead in both computation and communication. In this paper, we propose FedUHD, the first UFL framework based on Hyperdimensional Computing (HDC). HDC is a brain-inspired computing scheme with lightweight training and inference operations, much smaller model size, and robustness to communication noise. FedUHD introduces two novel HDC-based designs to improve UFL performance. On the client side, a kNN-based cluster hypervector removal method addresses non-iid data samples by eliminating detrimental outliers. On the server side, a weighted HDC aggregation technique balances the non-iid data distribution across clients. Our experiments demonstrate that FedUHD achieves up to 173.6x and 612.7x better speedup and energy efficiency, respectively, in training, up to 271x lower communication cost, and 15.50% higher accuracy on average across diverse settings, along with superior robustness to various types of noise compared to state-of-the-art NN-based UFL approaches.
+
+未经监督的联邦学习(UFL)作为一种隐私保护、分散式的机械学习方法受到关注,它消除了劳动密集型数据标签的需要,然而,UFL在实际应用方面面临着若干挑战:(1) 不独立和同样分布的(非二d)跨装置的数据分布,(2) 边端昂贵的计算和通信成本,(3) 易受通信噪音的影响。前UFL方法依靠深神经网络(NNN),这在计算和通信方面都造成大量间接费用。在本文中,我们提议FedUHLHD,即第一个基于超元计算(HDC)的UFUL框架。HDC是一个由脑驱动的计算机化计算机计划,其轻量培训和推断操作,模型规模要小得多,对通信噪音的稳健。FedUHD提出了两种基于HDC的新设计,以提高UFL的性能。在客户方面,基于kNNNCM的集束方法通过消除有害的外部异常数据样本解决非二种数据样本问题。在服务器方面,加权的HDC汇总技术平衡了跨客户的非二种数据分布数据分布,与6-比较高的UDFIx更高的速度,我们的实验显示FFD-x的精度,在15x的精度上达到173.x的精度达到173.。
+
+---
+
+## Article 41
+### Title@2025-08-16 (6): Extending Straight-Through Estimation for Robust Neural Networks on   Analog CIM Hardware
+
+**Title**: Extending Straight-Through Estimation for Robust Neural Networks on   Analog CIM Hardware | Extendieren von Straight-Through-Schätzungen für robuste Neuronale Netzwerke auf analoger CIM-Hardware | 扩展模拟 CIM 硬件的强力神经网络的直向通过估计 [2508.11940v1](http://arxiv.org/abs/2508.11940v1)
+
+**Authors** (7): Yuannuo Feng, Wenyong Zhou, Yuexi Lyu, Yixiang Zhang, Zhengwu Liu, Ngai Wong, Wang Kang
+
+Analog Compute-In-Memory (CIM) architectures promise significant energy efficiency gains for neural network inference, but suffer from complex hardware-induced noise that poses major challenges for deployment. While noise-aware training methods have been proposed to address this issue, they typically rely on idealized and differentiable noise models that fail to capture the full complexity of analog CIM hardware variations. Motivated by the Straight-Through Estimator (STE) framework in quantization, we decouple forward noise simulation from backward gradient computation, enabling noise-aware training with more accurate but computationally intractable noise modeling in analog CIM systems. We provide theoretical analysis demonstrating that our approach preserves essential gradient directional information while maintaining computational tractability and optimization stability. Extensive experiments show that our extended STE framework achieves up to 5.3% accuracy improvement on image classification, 0.72 perplexity reduction on text generation, 2.2$\times$ speedup in training time, and 37.9% lower peak memory usage compared to standard noise-aware training methods.
+
+模拟计算-内计量(CIM)架构有望为神经网络推断带来显著的能源效率收益,但会遇到复杂的硬件引发的噪音,这给部署工作带来重大挑战。虽然为解决这一问题提出了防噪培训方法,但它们通常依赖理想化和不同的噪音模型,这些模型未能完全捕捉到模拟CIM硬件变异的全复杂程度。在量化中,由直线穿透模拟器(STE)框架推动,我们将前方噪音模拟从逆梯度计算中分离出来,使得在模拟CIM系统中进行有更准确、但计算上难以控制的噪音模型的噪音意识培训。我们提供的理论分析表明,我们的方法保存基本的梯度方向信息,同时保持计算可移动性和优化稳定性。广泛的实验表明,我们的扩展STE框架在图像分类方面实现了5.3%的精度改进,在文本生成方面减少了0.72的易解度,在培训时间上加快了2.2美元的时间,以及比标准防噪度培训方法低37.9%的峰记忆使用率。
+
+---
+
+## Article 42
+### Title@2025-08-16 (6): HPD: Hybrid Projection Decomposition for Robust State Space Models on   Analog CIM Hardware
+
+**Title**: HPD: Hybrid Projection Decomposition for Robust State Space Models on   Analog CIM Hardware | HPD: Hybride Projektionszersetzung für robuste State Space Modelle auf analoger CIM Hardware | HPD: 模拟CIM硬件的强力州空间模型混合投影分解 [2508.11935v1](http://arxiv.org/abs/2508.11935v1)
+
+**Authors** (7): Yuannuo Feng, Wenyong Zhou, Yuexi Lyu, Hanjie Liu, Zhengwu Liu, Ngai Wong, Wang Kang
+
+State Space Models (SSMs) are efficient alternatives to traditional sequence models, excelling at processing long sequences with lower computational complexity. Their reliance on matrix multiplications makes them ideal for compute-in-memory (CIM) architectures, which improve energy efficiency by computing within memory arrays. However, device non-idealities in CIM introduce weight perturbations that can degrade inference accuracy. In this paper, we systematically analyze the robustness of SSMs under noisy conditions, identifying that the final block and output projection layers are more susceptible to perturbations compared to other components. Building on these insights, we propose HPD, a Hybrid Projection Decomposition strategy for the last output projection layer. We replace the original weight matrix with the multiplication of U and {\Sigma} in its SVD to ensure compatibility with existing hardware architectures, while offloading V> to digital hardware for precise and robust correction. Comprehensive tests on Mamba models show that our method reduces perplexity by up to 99.57% under various noise conditions compared to baseline models, with accuracy gains of up to 96.67% on the PIQA benchmark for commonsense reasoning.
+
+国家空间模型(SSMM)是传统序列模型的高效替代物,在处理长序列时优于计算复杂度较低的计算复杂性。它们依赖矩阵乘数使其在计算内存阵列中提高了能源效率,从而提高了能源效率。然而,CIM中的设备非理想性引入了重量扰动,可以降低推导准确性。在本文中,我们系统地分析在噪音条件下的SMM的稳健性,确定最终的区块和产出投影层较其他部分更容易受到扰动。根据这些洞察,我们为最后的产出投影层提出了混合投影战略。我们用SVD中的U和HSigma的倍增取代了原重量矩阵,以确保与现有硬件结构兼容,同时将V > 减为数字硬件,以精确和稳健地校正。关于Mamba模型的全面测试表明,与基线模型相比,我们的方法在各种噪声条件下将不易理解度降低到99.57%。在PIQA通用推理学基准中,精确度达96.67%。
+
+---
+
+## Article 43
+### Title@2025-08-15 (5): LaZagna: An Open-Source Framework for Flexible 3D FPGA Architectural   Exploration
+
+**Title**: LaZagna: An Open-Source Framework for Flexible 3D FPGA Architectural   Exploration | LaZagna: Ein Open-Source-Framework für flexible 3D-FPGA-Architekturforschung | LaZagna: 灵活3DFPGA建筑探索开放源码框架 [2505.05579v3](http://arxiv.org/abs/2505.05579v3)
+
+**Authors** (3): Ismael Youssef, Hang Yang, Cong Hao
+
+While 3D IC technology has been extensively explored for ASICs, their application to FPGAs remains limited. Existing studies on 3D FPGAs are often constrained to fixed prototypes, narrow architectural templates, and simulation-only evaluations. In this work, we present LaZagna, the first open-source framework for automated, end-to-end 3D FPGA architecture generation and evaluation. LaZagna supports high-level architectural specification, synthesizable RTL generation, and bitstream production, enabling comprehensive validation of 3D FPGA designs beyond simulation. It significantly broadens the design space compared to prior work by introducing customizable vertical interconnect patterns, novel 3D switch block designs, and support for heterogeneous logic layers. The framework also incorporates practical design constraints such as inter-layer via density and vertical interconnect delay. We demonstrate the capabilities of LaZagna by generating synthesizable RTL that can be taken through full physical design flows for fabric generation, along with functionally correct bitstreams. Furthermore, we conduct five case studies that explore various architectural parameters and evaluate their impact on wirelength, critical path delay, and routing runtime. These studies showcase the framework's scalability, flexibility, and effectiveness in guiding future 3D FPGA architectural and packaging decisions. LaZagna is fully open-source and available on GitHub.
+
+虽然为ASIC广泛探索了3D IC技术,但其在FPGA中的应用仍然有限,关于3D FPGA的现有研究往往局限于固定的原型、狭窄的建筑模板和模拟评价。在这项工作中,我们介绍了自动、端至端3D FPGA架构的生成和评价的第一个开放源码框架LaZagna。LaZagna支持高层次建筑规格、可合成的RTL生成和比特流生产,使3D FPGA设计在模拟之外得到全面验证。它通过引入可定制的纵向互联模式、新颖的3D开关区块设计以及支持不同逻辑层,大大扩大了设计空间与先前的工作相比。这个框架还包含实际的设计限制,例如通过密度和垂直互联延迟生成3D FPGA架构的跨层,我们展示了拉Zagna的能力,为此可以进行全物理设计流动,同时进行功能正确的比特流。此外,我们进行了5个案例研究,探讨各种建筑参数,并评估其对电线长度、关键路径、延迟以及未来方向框架和LAFAFA的完整展示。
+
+---
+
+## Article 44
+### Title@2025-08-15 (5): OpenCXD: An Open Real-Device-Guided Hybrid Evaluation Framework for   CXL-SSDs
+
+**Title**: OpenCXD: An Open Real-Device-Guided Hybrid Evaluation Framework for   CXL-SSDs | OpenCXD: Ein Open Real-Device-Guided Hybrid Evaluation Framework für CXL-SSDs | OpenCXD: CXL-SSDs 的开放性实际设计辅助混合评价框架 [2508.11477v1](http://arxiv.org/abs/2508.11477v1)
+
+**Authors** (7): Hyunsun Chung, Junhyeok Park, Taewan Noh, Seonghoon Ahn, Kihwan Kim, Ming Zhao, Youngjae Kim
+
+The advent of Compute Express Link (CXL) enables SSDs to participate in the memory hierarchy as large-capacity, byte-addressable memory devices. These CXL-enabled SSDs (CXL-SSDs) offer a promising new tier between DRAM and traditional storage, combining NAND flash density with memory-like access semantics. However, evaluating the performance of CXL-SSDs remains difficult due to the lack of hardware that natively supports the CXL.mem protocol on SSDs. As a result, most prior work relies on hybrid simulators combining CPU models augmented with CXL.mem semantics and SSD simulators that approximate internal flash behaviors. While effective for early-stage exploration, this approach cannot faithfully model firmware-level interactions and low-level storage dynamics critical to CXL-SSD performance. In this paper, we present OpenCXD, a real-device-guided hybrid evaluation framework that bridges the gap between simulation and hardware. OpenCXD integrates a cycle-accurate CXL.mem simulator on the host side with a physical OpenSSD platform running real firmware. This enables in-situ firmware execution triggered by simulated memory requests. Through these contributions, OpenCXD reflects device-level phenomena unobservable in simulation-only setups, providing critical insights for future firmware design tailored to CXL-SSDs.
+
+计算 Express Link (CXL) 的到来使 SSD 能够作为大容量、 可读存储的存储设备参与记忆层。 这些 CXL 驱动的 SSD (CXL-SSD) 提供了在 DRAM 和传统存储之间有希望的新层次, 将 NAND 闪光密度与记忆式访问语义相结合。 但是, 由于缺乏本地支持 CXL. mmem 协议的硬件, 评估 CXL- SSD 的性能仍然很困难。 结果, 大部分先前的工作都依赖于混合模拟器, 结合了与 CXL. em 语义和 SSDSD 模拟器, 近似内部闪烁行为。 虽然这种方法在早期探索中有效, 无法忠实地模拟CXL- SSD 的 级互动和低级存储动态动态。 在本文中, 我们介绍 OpenCXD, 一个不易读的混合评价框架框架, 连接模拟和硬件。 OpenCXD 将一个循环- crocurate-cate- cload- deal- deal- deal- deliflifal- sliver Sliforstal Sliforpal Slistal Serval Slapal Slapal Sladal Slad.
+
+---
+
+## Article 45
+### Title@2025-08-15 (5): Distributed quantum computing with black-box subroutines
+
+**Title**: Distributed quantum computing with black-box subroutines | Verteiltes Quanten-Computing mit Black-Box-Unterroutinen | 使用黑盒子路由分配量子计算 [2505.14519v2](http://arxiv.org/abs/2505.14519v2)
+
+**Authors** (5): X. Xu, Y. -D. Liu, S. Shi, Y. -J. Wang, D. -S. Wang
+
+In this work, we propose a general protocol for distributed quantum computing that accommodates arbitrary unknown subroutines. It can be applied to scale up quantum computing through multi-chip interconnection, as well as to tasks such as estimating unknown parameters or processes for circuit depth reduction and constructing secure quantum cryptographic protocols. Our protocol builds upon a few techniques we develop, such as the oblivious quantum teleportation and control, which can circumvent quantum no-go theorems on the manipulation of unknown objects. Furthermore, we demonstrate that this protocol can be physically implemented using currently available quantum computing platforms. These results suggest that our framework could provide a foundation for developing more advanced quantum algorithms and protocols in the future.
+
+在这项工作中,我们为分布式量子计算提议了一个包含任意的未知子路由的通用协议,它可以用于通过多芯连接扩大量子计算,以及用于估算未知参数或工艺以降低电路深度和构建安全的量子加密程序等任务。我们的协议建立在我们开发的几种技术之上,例如明显的量子传送和控制,这些技术可以绕过对未知物体的操纵的量子不切实际的理论。此外,我们证明这一协议可以利用现有量子计算平台实际实施。这些结果表明,我们的框架可以为未来开发更先进的量子算法和协议奠定基础。
+
+---
+
+## Article 46
+### Title@2025-08-15 (5): Scalable FPGA Framework for Real-Time Denoising in High-Throughput   Imaging: A DRAM-Optimized Pipeline using High-Level Synthesis
+
+**Title**: Scalable FPGA Framework for Real-Time Denoising in High-Throughput   Imaging: A DRAM-Optimized Pipeline using High-Level Synthesis | Skalierbares FPGA-Framework für Echtzeit-Denoising in High-Throughput-Imaging: Eine DRAM-optimierte Pipeline mit High-Level-Synthese | FPGA 高爆炸成像中实时消化框架:使用高级综合分析法的DRAM-优化管道 [2508.14917v1](http://arxiv.org/abs/2508.14917v1)
+
+**Authors** (1): Weichien Liao
+
+High-throughput imaging workflows, such as Parallel Rapid Imaging with Spectroscopic Mapping (PRISM), generate data at rates that exceed conventional real-time processing capabilities. We present a scalable FPGA-based preprocessing pipeline for real-time denoising, implemented via High-Level Synthesis (HLS) and optimized for DRAM-backed buffering. Our architecture performs frame subtraction and averaging directly on streamed image data, minimizing latency through burst-mode AXI4 interfaces. The resulting kernel operates below the inter-frame interval, enabling inline denoising and reducing dataset size for downstream CPU/GPU analysis. Validated under PRISM-scale acquisition, this modular FPGA framework offers a practical solution for latency-sensitive imaging workflows in spectroscopy and microscopy.
+
+高通量成像工作流程,如与光谱映射平行快速成像(PRISM),以超过常规实时处理能力的速度生成数据。我们展示了可缩放的基于FPGA的预处理管道,用于实时拆除,通过高级合成(HLS)实施,并优化用于DRAM支持的缓冲。我们的建筑在流成像数据上进行边框减法和直接平均,通过爆破摩式AXI4界面最大限度地减少悬浮。由此产生的内核在跨机间隔下运行,为下游CPU/GPU分析提供线内分解和减少数据集大小。在光谱学和显微镜中,这个模块化的FPGA框架为对惯性敏感成像流程提供了一个实用的解决方案。
+
+---
+
+## Article 47
+### Title@2025-08-15 (5): The Z1: Architecture and Algorithms of Konrad Zuse's First Computer
+
+**Title**: The Z1: Architecture and Algorithms of Konrad Zuse's First Computer | Das Z1: Architektur und Algorithmen des ersten Computers von Konrad Zuse | Z1:Konrad Zuse第一台计算机的建筑和算法 [1406.1886v3](http://arxiv.org/abs/1406.1886v3)
+
+**Authors** (1): Raul Rojas
+
+This paper provides the first comprehensive description of the Z1, the mechanical computer built by the German inventor Konrad Zuse in Berlin from 1936 to 1938. The paper describes the main structural elements of the machine, the high-level architecture, and the dataflow between components. The computer could execute the four basic arithmetic operations using binary floating-point numbers. Instructions were read from punched tape. A program consisted of a sequence of arithmetical operations, intermixed with memory store and load instructions, interrupted possibly by input and output operations. Numbers were stored in a mechanical memory. The machine did not include conditional branching in the instruction set. While the architecture of the Z1 is similar to the relay computer Zuse finished in 1941 (the Z3) there are some significant differences. The Z1 implements operations as sequences of microinstructions, as in the Z3, but does not use rotary switches as micro-steppers. The Z1 uses a digital counter and a set of conditions which trigger microinstructions for the exponent and mantissa units, as well as for the memory blocks. Microinstructions select one out of 12 layers in a machine with a 3D mechanical structure of binary mechanical elements. The exception circuits for mantissa zero, necessary for normalized floating-point, were lacking; they were first implemented in the Z3. The information for this article was extracted from careful study of the blueprints drawn by Zuse for the reconstruction of the Z1 for the German Technology Museum in Berlin, from some letters, and from sketches in notebooks. Although the machine has been in exhibition since 1989 (non-operational), no detailed high-level description of the machine's architecture had been available. This paper fills that gap.
+
+本文首次全面描述Z1、 德国发明家Konrad Zuse 1936年至1938年在柏林建造的机械计算机、 1936年至1938年德国发明家Konrad Zuse 的机械化计算机。 本文描述了机器的主要结构要素、 高级建筑和组件之间的数据流。 计算机可以使用二进制浮点数执行四个基本算术操作。 指令是从拳击磁带读取的。 程序由一系列算术操作组成, 与内存存储和负载指令交错, 可能受到输入和输出操作的干扰。 数字存储在机械存储器中存储数量。 机器没有包含有条件的分支。 机器1 与1941年完成的中继计算机Z( Z3 ) 相类似, 系统结构也存在一些重大差异。 1989年的平流机机操作中, 机床的机械化结构中有一个例外 。 机器的平流结构中, 有一台平流的平流结构中, 有一台平流的平流层 。
+
+---
+
+## Article 48
+### Title@2025-08-14 (4): BitDecoding: Unlocking Tensor Cores for Long-Context LLMs with Low-Bit   KV Cache
+
+**Title**: BitDecoding: Unlocking Tensor Cores for Long-Context LLMs with Low-Bit   KV Cache | BitDecoding: Entsperren von Tensorkernen für Langkontext-LLMs mit Low-Bit-KV-Cache | Bit Delting: 使用低Bit KV 缓存解锁长文本 LLM 的时标核心 [2503.18773v2](http://arxiv.org/abs/2503.18773v2)
+
+**Authors** (6): Dayou Du, Shijie Cao, Jianyi Cheng, Luo Mai, Ting Cao, Mao Yang
+
+The rise of long-context Large Language Models (LLMs) amplifies memory and bandwidth demands during autoregressive decoding, as the Key-Value (KV) cache grows with each generated token. Low-bit KV-cache quantization (e.g., 4-bit or 2-bit) can reduce memory footprint while preserving accuracy, but existing systems suffer from slow decoding due to their exclusive reliance on CUDA cores, neglecting Tensor Cores (the primary source of compute on modern GPUs). We present BitDecoding, a new long-context LLM inference system with a low-bit KV cache. BitDecoding enables efficient low-bit KV-cache decoding by cooperatively leveraging CUDA cores and Tensor Cores. It introduces methods for automatically inducing optimized layouts to exploit Tensor Cores, along with warp-level parallelization strategies for dequantization. For unified system support, BitDecoding includes a query transformation module supporting diverse attention variants, a quantization kernel that supports both tensor-wise and channel-wise scaling used in various quantization algorithms with high performance, and a dequantization kernel with a software-defined pipeline to coordinate CUDA and Tensor Cores execution for mixed-precision operations. Evaluated on RTX 4090, A100, and H100, BitDecoding accelerates decoding by up to 7.5x, 4.8x, and 8.9x, respectively, over FP16 FlashDecoding-v2, and surpasses the state-of-the-art low-bit system QServe by up to 4.3x. On LLaMA-3.1-8B with a 128K context, BitDecoding reduces single-batch decoding latency by 3x, showing substantial improvements for long-context generation. The code is available at https://github.com/DD-DuDa/BitDecoding.
+
+大型语言模型(LLMS)的上升会减少记忆足迹,同时保持准确性,但现有系统会因完全依赖 CUDA 核心而缓慢解码,忽略了 Tansor 核心( 现代 KPU 的计算的主要来源) 。 我们展示了 BitDecoding, 一个新的远程 LLM 系统, 带有低位 KV 缓冲。 低位 KV 缓冲使 KV 缓冲量量化( 例如, 4比特或 2比特) 能够降低记忆足迹, 但是由于它们完全依赖 CUDA 核心, 忽视了 Tansor Core( 现代 KPUPs 的计算主要来源) , 放大了存储点( 现代 KPUPS 的计算来源) 。 我们展示了 BitDecodrodation, 一个新的长点 LLMMS 新的长点 , 以低位 KLV 缓冲计算系统加速度系统, 一个低位化操作的QV- case decodecodecodeco deco deco decodecodecal , 支持了 和高级的运行运行。
+
+---
+
+## Article 49
+### Title@2025-08-14 (4): THERMOS: Thermally-Aware Multi-Objective Scheduling of AI Workloads on   Heterogeneous Multi-Chiplet PIM Architectures
+
+**Title**: THERMOS: Thermally-Aware Multi-Objective Scheduling of AI Workloads on   Heterogeneous Multi-Chiplet PIM Architectures | THERMOS: Thermisch-bewusste Multi-Objektive Planung von KI-Workloads auf heterogenen Multi-Chiplet-PIM-Architekturen | THEROMS: 人工智能多芯片多芯片PIM结构中不同基因多芯片结构上的工作负荷的热敏多目的排程 [2508.10691v1](http://arxiv.org/abs/2508.10691v1)
+
+**Authors** (6): Alish Kanani, Lukas Pfromm, Harsh Sharma, Janardhan Rao Doppa, Partha Pratim Pande, Umit Y. Ogras
+
+Chiplet-based integration enables large-scale systems that combine diverse technologies, enabling higher yield, lower costs, and scalability, making them well-suited to AI workloads. Processing-in-Memory (PIM) has emerged as a promising solution for AI inference, leveraging technologies such as ReRAM, SRAM, and FeFET, each offering unique advantages and trade-offs. A heterogeneous chiplet-based PIM architecture can harness the complementary strengths of these technologies to enable higher performance and energy efficiency. However, scheduling AI workloads across such a heterogeneous system is challenging due to competing performance objectives, dynamic workload characteristics, and power and thermal constraints. To address this need, we propose THERMOS, a thermally-aware, multi-objective scheduling framework for AI workloads on heterogeneous multi-chiplet PIM architectures. THERMOS trains a single multi-objective reinforcement learning (MORL) policy that is capable of achieving Pareto-optimal execution time, energy, or a balanced objective at runtime, depending on the target preferences. Comprehensive evaluations show that THERMOS achieves up to 89% faster average execution time and 57% lower average energy consumption than baseline AI workload scheduling algorithms with only 0.14% runtime and 0.022% energy overhead.
+
+以芯片为基础的集成使大型系统能够将各种技术结合起来,从而能够提高产量、降低成本和可扩展性,从而使这些系统完全适合AI工作量。 模拟处理(PIM)已经成为AI推理的一个很有希望的解决办法,利用各种技术,如ReRAM、SRAM和FET,这些技术都具有独特的优势和权衡。基于混杂的芯片的PIM架构能够利用这些技术的互补优势,以便提高性能和能源效率。然而,将AI的工作量排在这种混合系统之中,由于业绩目标相互竞争、动态工作量特点以及电力和热力限制,因此具有挑战性。为了满足这一需要,我们建议TERMOS,一个热觉、多功能PIM结构中用于AI工作量的多目标列表框架。TERMOS培训一个单一的多目标强化学习(MOL)政策,它能够实现最佳执行时间、能源,或者在运行时平衡目标,取决于目标偏好。全面评价显示,根据目标选择,TRMOS达到89%的平均执行时间和57%的平均能源成本,只有AI0.1%的平均时间和57%的平均水平。
+
+---
+
+## Article 50
+### Title@2025-08-14 (4): Okapi: Efficiently Safeguarding Speculative Data Accesses in Sandboxed   Environments
+
+**Title**: Okapi: Efficiently Safeguarding Speculative Data Accesses in Sandboxed   Environments | Okapi: Spekulative Datenzugriffe in Sandbox-Umgebungen effizient sichern | Okapi:有效保护沙箱环境中的投机数据存取 [2312.08156v3](http://arxiv.org/abs/2312.08156v3)
+
+**Authors** (9): Philipp Schmitz, Tobias Jauch, Alex Wezel, Mohammad R. Fadiheh, Thore Tiemann, Jonah Heller, Thomas Eisenbarth, Dominik Stoffel, Wolfgang Kunz
+
+This paper introduces Okapi, a new hardware/software cross-layer architecture designed to mitigate Transient Execution Side Channel attacks, including Spectre variants, in modern computing systems. Okapi provides a hardware basis for secure speculation in sandboxed environments and can replace expensive speculation barriers in software.   At its core, it allows for speculative data accesses to a memory page only after the page has been accessed non-speculatively by the current trust domain. The granularity of the trust domains can be controlled in software to achieve different security and performance trade-offs. For environments with less stringent security needs, the features can be deactivated to remove all performance overhead.   Without relying on any software modification, the Okapi hardware features provide full protection against TES breakout attacks, e.g., by Spectre-PHT or Spectre-BTB, at a thread-level granularity. This incurs an average performance overhead of only 3.17% for the SPEC CPU2017 benchmark suite.   Okapi introduces the OkapiReset instruction for additional software-level security support. This instruction allows for fine-grained sandboxing with any custom size, resulting in 2.34% performance overhead in our WebAssembly runtime experiment.   On top, Okapi provides the possibility to eliminate poisoning attacks. For the highest level of security, the OkapiLoad instruction prevents confidential data from being added to the trust domain after a sequential access, thereby enforcing weak speculative non-interference. In addition, we present a hardware extension that limits the exploitable code space for Spectre gadgets to well-defined sections of the program. Therefore, by ensuring the absence of gadgets in these sections, developers can tailor their software towards achieving beneficial trade-offs between the size of a trust domain and performance.
+
+本文介绍 Okapi , 这是一种新的硬件/ 软件跨层结构, 目的是在现代计算机系统中减轻 Transient Expect Spectre Side Channel 袭击, 包括 Spectre 变异器。 Okapi 为沙箱环境中的安全投机提供了一个硬件基础, 可以取代软件中昂贵的投机障碍。 在其核心部分, 它允许在页面被当前信任域无法猜测访问后, 才能对存储页面进行投机性数据访问。 信任域的颗粒性能可以在软件中控制, 以便实现不同的安全和性能交换。 对于安全需求不太严格的环境, 可以解除功能, 包括 Spectre 变异器。 因此, Okapi 硬件功能功能可以在不依赖任何软件修改的情况下对 TES 突破性攻击, 例如, Spectreppregretreme- PHT或 Spectreport-BTB, 等, 其平均性能管理3.17 % , 用于 Spect CPUP2017 基准套。 Okaprefreal developmental developmental development to the ladeal developmental developmental development the the mess.
+
+---
+
+## Article 51
+### Title@2025-08-14 (4): AnalogSeeker: An Open-source Foundation Language Model for Analog   Circuit Design
+
+**Title**: AnalogSeeker: An Open-source Foundation Language Model for Analog   Circuit Design | AnalogSeeker: Ein Open-Source-Stiftungs-Sprachenmodell für Analog Circuit Design | 模拟寻找者:用于模拟电路设计的开放源基金会语言模型 [2508.10409v1](http://arxiv.org/abs/2508.10409v1)
+
+**Authors** (14): Zihao Chen, Ji Zhuang, Jinyi Shen, Xiaoyue Ke, Xinyi Yang, Mingjie Zhou, Zhuoyao Du, Xu Yan, Zhouyang Wu, Zhenyu Xu, Jiangli Huang, Li Shang, Xuan Zeng, Fan Yang
+
+In this paper, we propose AnalogSeeker, an effort toward an open-source foundation language model for analog circuit design, with the aim of integrating domain knowledge and giving design assistance. To overcome the scarcity of data in this field, we employ a corpus collection strategy based on the domain knowledge framework of analog circuits. High-quality, accessible textbooks across relevant subfields are systematically curated and cleaned into a textual domain corpus. To address the complexity of knowledge of analog circuits, we introduce a granular domain knowledge distillation method. Raw, unlabeled domain corpus is decomposed into typical, granular learning nodes, where a multi-agent framework distills implicit knowledge embedded in unstructured text into question-answer data pairs with detailed reasoning processes, yielding a fine-grained, learnable dataset for fine-tuning. To address the unexplored challenges in training analog circuit foundation models, we explore and share our training methods through both theoretical analysis and experimental validation. We finally establish a fine-tuning-centric training paradigm, customizing and implementing a neighborhood self-constrained supervised fine-tuning algorithm. This approach enhances training outcomes by constraining the perturbation magnitude between the model's output distributions before and after training. In practice, we train the Qwen2.5-32B-Instruct model to obtain AnalogSeeker, which achieves 85.04% accuracy on AMSBench-TQA, the analog circuit knowledge evaluation benchmark, with a 15.67% point improvement over the original model and is competitive with mainstream commercial models. Furthermore, AnalogSeeker also shows effectiveness in the downstream operational amplifier design task. AnalogSeeker is open-sourced at https://huggingface.co/analogllm/analogseeker for research use.
+
+在本文中,我们提出AnalogSeerker,这是为模拟电路设计开发的开源基础电路语言模型的一种努力,目的是整合域内知识和提供设计协助。为了克服这一领域数据稀缺的情况,我们采用了基于模拟电路领域知识框架的系统收集战略。相关子领域的高质量、无障碍教科书被系统地整理并清理成文本版域。为了解决模拟电路知识的复杂性,我们引入了颗粒域域知识蒸馏方法。原始、未标记的域域内系统被分解成典型的、颗形学习节节点,其中多剂框架将非结构化文本中隐含的下限知识提取到问答数据配对配对中,并配有详细的推理过程。为了应对模拟电路模型培训中未探索到的挑战,我们通过理论分析和实验验证,探索和分享我们的培训方法。我们最终建立了一个精细的、中心化的训练模式,定制并实施了社区间经过监督的精确校正校正校准的校正校正校正校正算。 这种方法通过精确的模型来增强培训结果,在内部的进度中进行。
+
+---
+
+## Article 52
+### Title@2025-08-14 (4): Multi-objective Optimization in CPU Design Space Exploration: Attention   is All You Need
+
+**Title**: Multi-objective Optimization in CPU Design Space Exploration: Attention   is All You Need | Multi-objektive Optimierung im CPU Design Space Exploration: Achtung ist alles, was Sie brauchen | 在CPU设计中实现多目标优化 [2410.18368v2](http://arxiv.org/abs/2410.18368v2)
+
+**Authors** (7): Runzhen Xue, Hao Wu, Mingyu Yan, Ziheng Xiao, Guangyu Sun, Xiaochun Ye, Dongrui Fan
+
+Design Space Exploration (DSE) is essential to modern CPU design, yet current frameworks struggle to scale and generalize in high-dimensional architectural spaces. As the dimensionality of design spaces continues to grow, existing DSE frameworks face three fundamental challenges: (1) reduced accuracy and poor scalability of surrogate models in large design spaces; (2) inefficient acquisition guided by hand-crafted heuristics or exhaustive search; (3) limited interpretability, making it hard to pinpoint architectural bottlenecks.   In this work, we present \textbf{AttentionDSE}, the first end-to-end DSE framework that \emph{natively integrates} performance prediction and design guidance through an attention-based neural architecture. Unlike traditional DSE workflows that separate surrogate modeling from acquisition and rely heavily on hand-crafted heuristics, AttentionDSE establishes a unified, learning-driven optimization loop, in which attention weights serve a dual role: enabling accurate performance estimation and simultaneously exposing the performance bottleneck. This paradigm shift elevates attention from a passive representation mechanism to an active, interpretable driver of design decision-making.   Key innovations include: (1) a \textbf{Perception-Driven Attention} mechanism that exploits architectural hierarchy and locality, scaling attention complexity from $\mathcal{O}(n^2)$ to $\mathcal{O}(n)$ via sliding windows; (2) an \textbf{Attention-aware Bottleneck Analysis} that automatically surfaces critical parameters for targeted optimization, eliminating the need for domain-specific heuristics.   Evaluated on high-dimensional CPU design space using the SPEC CPU2017 benchmark suite, AttentionDSE achieves up to \textbf{3.9\% higher Pareto Hypervolume} and over \textbf{80\% reduction in exploration time} compared to state-of-the-art baselines.
+
+设计空间探索 (DSE) 是现代 CPU 设计的关键, 然而当前框架在高维建筑空间中挣扎着 缩放 。 随着设计空间的维度继续增长, 现有的 DSE 框架面临着三个根本性挑战:(1) 大型设计空间替代模型的精度降低且缩放性差; (2) 由手工制作的超光速或彻底搜索引导的低效获取; (3) 解释性能有限, 因而很难找到建筑瓶颈。 在此工作中, 我们展示了\ textbf{ 保守DS}, 第一个端端到端 DSE框架, 它通过基于关注的神经结构结构结构架构, 与传统的 DSEE 模型模型不同, 将替代模型建模模型与大量依赖手工制作的超光速搜索; (3) 引力优化循环, 其中的重力起到双重作用: 能够准确的绩效估计, 同时暴露性能瓶颈。 (20) 这个模式将关注度从被动的显示机制, 向上调低压的 E. n= 直流流流流流化的地面预测; a kdeal- drial dalal listrys- dreal deal deal deal deal deal deal deal) extial dal dal deal deal deal deal deal deal deal deal deal dal deal deal deal dal dal deal deal deal deal deal deal driction.
+
+---
+
+## Article 53
+### Title@2025-08-14 (4): DiffAxE: Diffusion-driven Hardware Accelerator Generation and Design   Space Exploration
+
+**Title**: DiffAxE: Diffusion-driven Hardware Accelerator Generation and Design   Space Exploration | DiffAxE: Diffusionsgetriebene Hardware-Beschleuniger-Erzeugung und Design-Weltraum-Exploration | DiffAxE: 扩散驱动的硬件加速器生成和设计空间探索 [2508.10303v1](http://arxiv.org/abs/2508.10303v1)
+
+**Authors** (5): Arkapravo Ghosh, Abhishek Moitra, Abhiroop Bhattacharjee, Ruokai Yin, Priyadarshini Panda
+
+Design space exploration (DSE) is critical for developing optimized hardware architectures, especially for AI workloads such as deep neural networks (DNNs) and large language models (LLMs), which require specialized acceleration. As model complexity grows, accelerator design spaces have expanded to O(10^17), becoming highly irregular, non-convex, and exhibiting many-to-one mappings from design configurations to performance metrics. This complexity renders direct inverse derivation infeasible and necessitates heuristic or sampling-based optimization. Conventional methods - including Bayesian optimization, gradient descent, reinforcement learning, and genetic algorithms - depend on iterative sampling, resulting in long runtimes and sensitivity to initialization. Deep learning-based approaches have reframed DSE as classification using recommendation models, but remain limited to small-scale (O(10^3)), less complex design spaces. To overcome these constraints, we propose a generative approach that models hardware design as 1-D image synthesis conditioned on target performance, enabling efficient learning of non-differentiable, non-bijective hardware-performance mappings. Our framework achieves 0.86% lower generation error than Bayesian optimization with a 17000x speedup, and outperforms GANDSE with 30% lower error at only 1.83x slower search. We further extend the method to a structured DSE setting, attaining 9.8% lower energy-delay product (EDP) and 6% higher performance, with up to 145.6x and 1312x faster search compared to existing optimization methods on O(10^17) design spaces. For LLM inference, our method achieves 3.37x and 7.75x lower EDP on a 32nm ASIC and Xilinx Ultrascale+ VPU13 FPGA, respectively, compared to the state-of-the-art DOSA framework.
+
+设计空间探索(DSE)对于开发优化硬件结构至关重要,特别是对于需要专门加速的深神经网络(DNNS)和大型语言模型(LLMS)等AI工作量而言。随着模型复杂性的提高,加速器设计空间已扩展至O(1017),高度不规则、非冷却,并展示从设计配置到性能度度度的多到一的绘图。为了克服这些限制,我们建议一种归正法方法,将硬件设计作为1D图像合成,使目标性能能够高效率地学习非差别性搜索、梯度下降、强化学习和基因算法,这需要专门的加速。随着模型复杂性的增加,加速器设计空间已扩大到O(1017),加速器设计空间设计空间设计空间(O(10)3),加速器设计空间设计空间设计空间设计(3)和基因算法(5-8-10x),以低度搜索速度(8-8-10x)为标准。我们的框架将DSE-DFI-图像设计扩展为1-D-图像合成,在目标性能性能性、无差异性、非振动性、非硬-上学习-上学习-高级-高级-高级-高级-8.8808和升级,在18x制成型的生成方法中,仅制成为10x。
+
+---
+
