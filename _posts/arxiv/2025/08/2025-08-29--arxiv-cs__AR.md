@@ -1,0 +1,763 @@
+---
+title: "cs.AR @ 2025-08-29: 054"
+date: 2025-08-29
+layout: post
+---
+
+- [00](#article-0) | **08-28 (4)** | Improving Quantization with Post-Training Model Expansion | Verbesserung der Quantisierung durch Erweiterung des Post-Training-Modells | 改进培训后模式扩展的量化 | [2503.17513v2](http://arxiv.org/abs/2503.17513v2)
+- [01](#article-1) | 08-28 | ASiM: Modeling and Analyzing Inference Accuracy of SRAM-Based Analog CiM   Circuits | ASiM: Modellierung und Analyse der Inferenzgenauigkeit von SRAM-basierten analogen CiM-Schaltungen | ASIM: 以SRAM为基础的模拟 CIM 电路的建模和分析推断准确性 | [2411.11022v3](http://arxiv.org/abs/2411.11022v3)
+- [02](#article-2) | 08-28 | Microarchitecture Design and Benchmarking of Custom SHA-3 Instruction   for RISC-V | Microarchitecture Design und Benchmarking der benutzerdefinierten SHA-3 Anleitung für RISC-V | 自订SISCVSHA-3指令的微结构设计和基准制定 | [2508.20653v1](http://arxiv.org/abs/2508.20653v1)
+- [03](#article-3) | 08-28 | The Future of Memory: Limits and Opportunities | Die Zukunft des Gedächtnisses: Grenzen und Chancen | 记忆的未来:局限和机会 | [2508.20425v1](http://arxiv.org/abs/2508.20425v1)
+- [04](#article-4) | **08-27 (3)** | Testing and Fault Tolerance Techniques for Carbon Nanotube-Based FPGAs | Test- und Fehlertoleranztechniken für Kohlenstoff-Nanoröhren-basierte FPGAs | 碳纳米气基燃料元件控制器的测试和失责容忍技术 | [2508.20304v1](http://arxiv.org/abs/2508.20304v1)
+- [05](#article-5) | 08-27 | SpeedMalloc: Improving Multi-threaded Applications via a Lightweight   Core for Memory Allocation | SpeedMalloc: Multi-Threaded-Anwendungen über einen Leichtbaukern zur Speicherallokation verbessern | SpeedMalloc:通过记忆分配轻量核心改进多行应用 | [2508.20253v1](http://arxiv.org/abs/2508.20253v1)
+- [06](#article-6) | 08-27 | Large Language Models (LLMs) for Electronic Design Automation (EDA) | Große Sprachmodelle (LLMs) für elektronische Designautomatisierung (EDA) | 电子设计自动化大语言模型(LLMS) | [2508.20030v1](http://arxiv.org/abs/2508.20030v1)
+- [07](#article-7) | 08-27 | New Tools, Programming Models, and System Support for   Processing-in-Memory Architectures | Neue Tools, Programmiermodelle und Systemunterstützung für Processing-in-Memory-Architekturen | 处理记忆中结构的新工具、编程模型和系统支持 | [2508.19868v1](http://arxiv.org/abs/2508.19868v1)
+- [08](#article-8) | 08-27 | Re-thinking Memory-Bound Limitations in CGRAs | Re-thinking Memory-Bound Limitations in CGRAs | 重新思考《公约》国家集团中的记忆力限制 | [2508.09570v2](http://arxiv.org/abs/2508.09570v2)
+- [09](#article-9) | 08-27 | Exploration of Low-Power Flexible Stress Monitoring Classifiers for   Conformal Wearables | Exploration von Low-Power-Flexiblen Stress-Monitoring-Klassifikatoren für Conformal Wearables | 探索用于正规服装的低功能弹性压力监测分类 | [2508.19661v1](http://arxiv.org/abs/2508.19661v1)
+- [10](#article-10) | 08-27 | Demonstrator Testbed for Effective Precoding in MEO Multibeam Satellites | Demonstrator Testbed für effektive Vorkodierung in MEO-Multibeam-Satelliten | MEO多波束卫星有效预编码示范演示测试台 | [2508.19657v1](http://arxiv.org/abs/2508.19657v1)
+- [11](#article-11) | 08-27 | Support Vector Machines Classification on Bendable RISC-V | Unterstützung Vector Maschinen Klassifizierung auf Bendable RISC-V | 支持性病媒机(RISC-V) | [2508.19656v1](http://arxiv.org/abs/2508.19656v1)
+- [12](#article-12) | 08-27 | When Routers, Switches and Interconnects Compute: A   processing-in-interconnect Paradigm for Scalable Neuromorphic AI | Wenn Router, Switches und Interconnects berechnen: Ein Processing-in-Interconnect Paradigm für skalierbare neuromorphe KI | 当路由器、开关和互连计算时:可缩缩缩的神经变形 AI 的处理内连接参数 | [2508.19548v1](http://arxiv.org/abs/2508.19548v1)
+- [13](#article-13) | 08-27 | RARO: Reliability-aware Conversion with Enhanced Read Performance for   QLC SSDs | RARO: Reliability-aware Konvertierung mit verbesserter Leseleistung für QLC SSDs | RARO: QLC SSDs 具有强化读性且阅读性能增强的可靠性转换 | [2508.19530v1](http://arxiv.org/abs/2508.19530v1)
+- [14](#article-14) | **08-26 (2)** | GENIE-ASI: Generative Instruction and Executable Code for Analog   Subcircuit Identification | GENIE-ASI: Generativer Instruktions- und Ausführbarer Code für die analoge Subcircuit-Identifikation | GENIE-ASI: 模拟分电路识别的生成指令和执行代码 | [2508.19393v1](http://arxiv.org/abs/2508.19393v1)
+- [15](#article-15) | 08-26 | Harnessing the Full Potential of RRAMs through Scalable and Distributed   In-Memory Computing with Integrated Error Correction | Das volle Potenzial von RRAMs durch skalierbares und verteiltes In-Memory Computing mit integrierter Fehlerkorrektur nutzen | 通过带有综合错误更正的可缩放和分散的模拟计算机,充分利用记录和记录机的全部潜力 | [2508.13298v2](http://arxiv.org/abs/2508.13298v2)
+- [16](#article-16) | 08-26 | Architecting Distributed Quantum Computers: Design Insights from   Resource Estimation | Architecting Distributed Quantum Computers: Design Insights from Resource Estimation | 建筑分布量子计算机:资源估算的设计透视 | [2508.19160v1](http://arxiv.org/abs/2508.19160v1)
+- [17](#article-17) | 08-26 | Building an Open CGRA Ecosystem for Agile Innovation | Aufbau eines offenen CGRA-Ökosystems für agile Innovation | 建立开放的CGRAA生态系统,促进 " 危险创新 " ; | [2508.19090v1](http://arxiv.org/abs/2508.19090v1)
+- [18](#article-18) | 08-26 | APT-LLM: Exploiting Arbitrary-Precision Tensor Core Computing for LLM   Acceleration | APT-LLM: Ausnutzung von Willkür-Präzisions-Tensor-Core Computing für LLM-Beschleunigung | APT-LLM: 利用任意精密透镜核心计算加速LLM | [2508.19087v1](http://arxiv.org/abs/2508.19087v1)
+- [19](#article-19) | 08-26 | TaiBai: A fully programmable brain-inspired processor with   topology-aware efficiency | TaiBai: Ein voll programmierbarer, hirninspirierter Prozessor mit topologischer Effizienz | TaiBai:一个完全可编程的、由大脑启发的、具有地貌意识效率的处理器 | [2508.18961v1](http://arxiv.org/abs/2508.18961v1)
+- [20](#article-20) | 08-26 | SeDA: Secure and Efficient DNN Accelerators with Hardware/Software   Synergy | SeDA: Sichere und effiziente DNN-Beschleuniger mit Hardware/Software-Synergie | SeDA: 具有硬件/软件协同效应的安全高效 DNN 加速器 | [2508.18924v1](http://arxiv.org/abs/2508.18924v1)
+- [21](#article-21) | 08-26 | Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph   Learning | Jenseits von Tokens: Verbesserung der RTL-Qualitätsschätzung durch strukturelles Graphenlernen | 超越 Tokens: 通过结构图学习加强RTL质量估算 | [2508.18730v1](http://arxiv.org/abs/2508.18730v1)
+- [22](#article-22) | **08-25 (1)** | OmniSim: Simulating Hardware with C Speed and RTL Accuracy for   High-Level Synthesis Designs | OmniSim: Hardware-Simulation mit C-Geschwindigkeit und RTL-Genauigkeit für High-Level-Synthese-Designs | OmniSim: 用 C 速度和 RTL 精确度模拟高级合成设计硬件 | [2508.19299v1](http://arxiv.org/abs/2508.19299v1)
+- [23](#article-23) | 08-25 | Views: A Hardware-friendly Graph Database Model For Storing Semantic   Information | Ansichten: Ein hardwarefreundliches Graphen-Datenbankmodell zum Speichern semantischer Informationen | 意见:硬件友好型图表数据库模型,用于存储语义信息 | [2508.18123v1](http://arxiv.org/abs/2508.18123v1)
+- [24](#article-24) | 08-25 | Linear Layouts: Robust Code Generation of Efficient Tensor Computation   Using $\mathbb{F}_2$ | Lineare Layouts: Robuste Codegenerierung effizienter Tensor-Computation mit $\mathbb{F}_2$ | 线性布局: 使用 $\ mathbb{F @ @ @ @ @ @% 2$ 的 有效天文计算强力代码生成 | [2505.23819v2](http://arxiv.org/abs/2505.23819v2)
+- [25](#article-25) | 08-25 | Anatomy of the gem5 Simulator: AtomicSimpleCPU, TimingSimpleCPU, O3CPU,   and Their Interaction with the Ruby Memory System | Anatomie des gem5 Simulators: AtomicSimpleCPU, TimingSimpleCPU, O3CPU und deren Interaktion mit dem Ruby Memory System | 宝石模拟器的解剖学5 :原子微小微粒、定时、微小微粒、O3CPU及其与鲁比记忆系统的互动 | [2508.18043v1](http://arxiv.org/abs/2508.18043v1)
+- [26](#article-26) | 08-25 | LLMulator: Generalizable Cost Modeling for Dataflow Accelerators with   Input-Adaptive Control Flow | LLMulator: Generalisierbare Kostenmodellierung für Datenflussbeschleuniger mit Input-Adaptive Control Flow | LLMUL 计算器:投入-适应控制流程数据流加速器的通用成本建模 | [2508.17826v1](http://arxiv.org/abs/2508.17826v1)
+- [27](#article-27) | 08-25 | In-Memory Computing Enabled Deep MIMO Detection to Support   Ultra-Low-Latency Communications | In-Memory Computing ermöglichte eine tiefe MIMO-Erkennung zur Unterstützung der Ultra-Low-Latenz-Kommunikation | 支持超低寿命通信 | [2508.17820v1](http://arxiv.org/abs/2508.17820v1)
+- [28](#article-28) | 08-25 | TLGLock: A New Approach in Logic Locking Using Key-Driven Charge   Recycling in Threshold Logic Gates | TLGLock: Ein neuer Ansatz bei der Logic Locking Verwendung von Key-Driven Charge Recycling in Threshold Logic Gates | TLGLock:在阈值逻辑门使用关键驱动电荷再循环的逻辑锁定新办法 | [2508.17809v1](http://arxiv.org/abs/2508.17809v1)
+- [29](#article-29) | 08-25 | Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via   Bayesian Optimization | Code Difference Geführtes Fuzzing für FPGA Logic Synthesis Compilers über Bayesian Optimization | 通过Bayesian优化化为 FPGA 逻辑合成汇编者 | [2508.17713v1](http://arxiv.org/abs/2508.17713v1)
+- [30](#article-30) | 08-25 | A2HCoder: An LLM-Driven Coding Agent for Hierarchical Algorithm-to-HDL   Translation | A2HCoder: Ein LLM-getriebener Coding Agent für Hierarchische Algorithmen-zu-HDL-Übersetzung | A2HAoder: 高级算法到高分辨法翻译LLM-Driven编码代理人 | [2508.10904v2](http://arxiv.org/abs/2508.10904v2)
+- [31](#article-31) | 08-25 | Characterizing the Behavior of Training Mamba-based State Space Models   on GPUs | Charakterisierung des Verhaltens der Ausbildung von Mamba-basierten State Space Models auf GPUs | 定性培训曼巴基地国家GPU空间模型培训行为 | [2508.17679v1](http://arxiv.org/abs/2508.17679v1)
+- [32](#article-32) | 08-25 | A 28nm 1.80Mb/mm2 Digital/Analog Hybrid SRAM-CIM Macro Using 2D-Weighted   Capacitor Array for Complex Number Mac Operations | Ein 28nm 1,80Mb/mm2 Digital/Analog Hybrid SRAM-CIM Makro mit 2D-gewichteten Kondensator Array für komplexe Anzahl Mac Operationen | 1.80Mb/mm2 数字/大气混合 SRAM-CIM 宏,使用 2D 光重电容阵列进行复杂数字麦克风操作 | [2508.17562v1](http://arxiv.org/abs/2508.17562v1)
+- [33](#article-33) | **08-24 (7)** | VeriCoder: Enhancing LLM-Based RTL Code Generation through Functional   Correctness Validation | VeriCoder: Verbesserung der LLM-basierten RTL-Code-Generierung durch Funktionskorrektheitsvalidierung | VeriCoder:通过功能正确性验证加强基于LLM的RTL码生成 | [2504.15659v2](http://arxiv.org/abs/2504.15659v2)
+- [34](#article-34) | 08-24 | Random-phase Gaussian Wave Splatting for Computer-generated Holography | Random-Phase Gaussian Wave Splatting für computergenerierte Holographie | 计算机生成全传的随机阶段高山波喷射 | [2508.17480v1](http://arxiv.org/abs/2508.17480v1)
+- [35](#article-35) | **08-23 (6)** | e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact   Solving | e-Boost: Erhöhte E-Graph-Extraktion mit adaptiver Heuristik und exakter Lösung | e-加速:用适应性富营养性和精密溶解法促进电子格导抽取 | [2508.13020v2](http://arxiv.org/abs/2508.13020v2)
+- [36](#article-36) | 08-23 | Optimizing Neural Networks with Learnable Non-Linear Activation   Functions via Lookup-Based FPGA Acceleration | Optimierung neuraler Netzwerke mit erlernbaren nicht-linearen Aktivierungsfunktionen über Lookup-basierte FPGA-Beschleunigung | 通过基于查找的 FPGA 加速优化具有可学习的非长期激活功能的神经网络 | [2508.17069v1](http://arxiv.org/abs/2508.17069v1)
+- [37](#article-37) | 08-23 | Invited Paper: FEMU: An Open-Source and Configurable Emulation Framework   for Prototyping TinyAI Heterogeneous Systems | Eingeladenes Papier: FEMU: Ein Open-Source- und Konfigurierbares Emulations-Framework für die Prototyping TinyAI Heterogene Systeme | 特约文件:FEMU: 一种用于制造小丁AI异源系统的开放源码和可配置的模拟框架 | [2508.16981v1](http://arxiv.org/abs/2508.16981v1)
+- [38](#article-38) | 08-23 | X-HEEP: An Open-Source, Configurable and Extendible RISC-V Platform for   TinyAI Applications | X-HEEP: Eine offene, konfigurierbare und erweiterbare RISC-V-Plattform für TinyAI-Anwendungen | X-HEEP:一个用于小AI应用的开放源码、可配置和可扩展的RISC-V平台 | [2508.16959v1](http://arxiv.org/abs/2508.16959v1)
+- [39](#article-39) | 08-23 | Targeted Wearout Attacks in Microprocessor Cores | Gezielte Wearout-Angriffe in Mikroprozessorkernen | 微处理器核心的定点穿甲攻击 | [2508.16868v1](http://arxiv.org/abs/2508.16868v1)
+- [40](#article-40) | **08-22 (5)** | zkPHIRE: A Programmable Accelerator for ZKPs over HIgh-degRee,   Expressive Gates | zkPHIRE: Ein programmierbarer Beschleuniger für ZKPs über HIgh-degRee, Expressive Gates | hig-degree, 表达式关口上的 ZKP 程序加速器 | [2508.16738v1](http://arxiv.org/abs/2508.16738v1)
+- [41](#article-41) | 08-22 | Systematic Characterization of LLM Quantization: A Performance, Energy,   and Quality Perspective | Systematische Charakterisierung der LLM-Quantisierung: Eine Performance-, Energie- und Qualitätsperspektive | LLM 量化:绩效、能源和质量视角 | [2508.16712v1](http://arxiv.org/abs/2508.16712v1)
+- [42](#article-42) | 08-22 | RIROS: A Parallel RTL Fault SImulation FRamework with TwO-Dimensional   Parallelism and Unified Schedule | RIROS: Ein paralleles RTL-Fault-Simulationsschema mit TwO-Dimensional-Parallelismus und einheitlichem Zeitplan | 与TwO - 多元平行和统一时间表平行的RTL 故障模拟 | [2508.16376v1](http://arxiv.org/abs/2508.16376v1)
+- [43](#article-43) | 08-22 | Hardwired-Neurons Language Processing Units as General-Purpose Cognitive   Substrates | Hardwired-Neurons Sprachverarbeitungseinheiten als allgemeingültige Kognitive Substrate | 作为普通用途识别基体的硬电-内伯伦语文处理股 | [2508.16151v1](http://arxiv.org/abs/2508.16151v1)
+- [44](#article-44) | 08-22 | Bare-Metal RISC-V + NVDLA SoC for Efficient Deep Learning Inference | Bare-Metal RISC-V + NVDLA SoC für effiziente Deep Learning Inferenz | + NVDLA 高效深层学习推断 | [2508.16095v1](http://arxiv.org/abs/2508.16095v1)
+- [45](#article-45) | 08-22 | GPT-OSS-20B: A Comprehensive Deployment-Centric Analysis of OpenAI's   Open-Weight Mixture of Experts Model | GPT-OSS-20B: Eine umfassende Implementierungs-Centric-Analyse der OpenAI-Open-Weight-Mixture of Experts-Modell | GPT-OSSS-20B:开放国际公司开放视觉专家混合模型全面部署中心全面分析 | [2508.16700v1](http://arxiv.org/abs/2508.16700v1)
+- [46](#article-46) | 08-22 | HePGA: A Heterogeneous Processing-in-Memory based GNN Training   Accelerator | HePGA: Ein auf der Heterogenen Verarbeitung in Memory basierender GNN-Trainingsbeschleuniger | HePGA: 以GNNN培训加速器为基地的异质在机中处理加速器 | [2508.16011v1](http://arxiv.org/abs/2508.16011v1)
+- [47](#article-47) | **08-21 (4)** | ASIC-Agent: An Autonomous Multi-Agent System for ASIC Design with   Benchmark Evaluation | ASIC-Agent: Ein autonomes Multi-Agenten-System für ASIC-Design mit Benchmark-Bewertung | ASIC-ASIC机构:有基准评价的ACIC设计自主多机构机构系统 | [2508.15940v1](http://arxiv.org/abs/2508.15940v1)
+- [48](#article-48) | 08-21 | Power Stabilization for AI Training Datacenters | Leistungsstabilisierung für KI-Trainings-Rechenzentren | AI 稳定电力用于AI培训数据中心 | [2508.14318v2](http://arxiv.org/abs/2508.14318v2)
+- [49](#article-49) | 08-21 | SecFSM: Knowledge Graph-Guided Verilog Code Generation for Secure Finite   State Machines in Systems-on-Chip | SecFSM: Knowledge Graph-Guided Verilog Code Generation für sichere Finite State Maschinen im System-on-Chip | SecFSM:在芯片上系统安全受限国家机器知识图表指导Verilog代码生成 | [2508.12910v2](http://arxiv.org/abs/2508.12910v2)
+- [50](#article-50) | 08-21 | Row-Column Hybrid Grouping for Fault-Resilient Multi-Bit Weight   Representation on IMC Arrays | Zeilenkolumnen-Hybrid-Gruppierung für fehlerhaft-resiliente Multi-Bit-Gewichtsdarstellung auf IMC-Arrays | 在 IMC 阵列中反过失多比体重代表数的行- 哥伦混合组合 | [2508.15685v1](http://arxiv.org/abs/2508.15685v1)
+- [51](#article-51) | 08-21 | Silent Data Corruption by 10x Test Escapes Threatens Reliable Computing | Silent Data Korruption durch 10x Test Flucht bedroht zuverlässiges Rechnen | 由10x测试 " 逃避威胁 " 进行的无声数据腐败 | [2508.01786v4](http://arxiv.org/abs/2508.01786v4)
+- [52](#article-52) | 08-21 | JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on   FPGAs | JEDI-linear: Schnelle und effiziente Graphen-Neural-Netzwerke für Jet Tagging auf FPGAs | JEDI-线性:快速高效的喷气拖动FPGAs的图形神经网络 | [2508.15468v1](http://arxiv.org/abs/2508.15468v1)
+- [53](#article-53) | 08-21 | Efficient Adaptable High-throughput Streaming Aggregation Engines | Effiziente anpassungsfähige Hochdurchsatz-Streaming-Aggregationsmotoren | 高可调适可调适的高排流量聚合引擎 | [2405.18168v3](http://arxiv.org/abs/2405.18168v3)
+
+## Article 0
+### Title@2025-08-28 (4): Improving Quantization with Post-Training Model Expansion
+
+**Title**: Improving Quantization with Post-Training Model Expansion | Verbesserung der Quantisierung durch Erweiterung des Post-Training-Modells | 改进培训后模式扩展的量化 [2503.17513v2](http://arxiv.org/abs/2503.17513v2)
+
+**Authors** (5): Giuseppe Franco, Pablo Monteagudo-Lago, Ian Colbert, Nicholas Fraser, Michaela Blott
+
+The size of a model has been a strong predictor of its quality, as well as its cost. As such, the trade-off between model cost and quality has been well-studied. Post-training optimizations like quantization and pruning have typically focused on reducing the overall volume of pre-trained models to reduce inference costs while maintaining model quality. However, recent advancements have introduced optimization techniques that, interestingly, expand models post-training, increasing model size to improve quality when reducing volume. For instance, to enable 4-bit weight and activation quantization, incoherence processing often necessitates inserting online Hadamard rotations in the compute graph, and preserving highly sensitive weights often calls for additional higher precision computations. However, if application requirements cannot be met, the prevailing solution is to relax quantization constraints. In contrast, we demonstrate post-training model expansion is a viable strategy to improve model quality within a quantization co-design space, and provide theoretical justification. We show it is possible to progressively and selectively expand the size of a pre-trained large language model (LLM) to improve model quality without end-to-end retraining. In particular, when quantizing the weights and activations to 4 bits for Llama3 1B, we reduce the gap to full-precision perplexity by an average of 9% relative to both QuaRot and SpinQuant with only 5% more parameters, which is still a 3.8% reduction in volume relative to a BF16 reference model.
+
+模型的大小是其质量及其成本的有力预测力。 因此,模型成本和质量之间的权衡取舍已经得到了很好地研究。 培训后优化,如量化和裁剪,通常侧重于减少培训前模型的整体数量,以减少推断成本,同时保持模型质量。然而,最近的进展引入了优化技术,令人感兴趣的是,扩大模型后培训,提高模型规模,以便在减少数量时提高质量。例如,允许4比特的重量和启动量化,不一致性处理往往需要在计算图中插入在线哈达马德相对的旋转,而保持高度敏感的重量往往需要更多精确的计算。然而,如果无法满足应用要求,则普遍的解决办法是放宽量化限制。相比之下,我们展示培训后模式的扩展是一种可行的战略,目的是在量化组合组合组合的组合空间中提高模型质量,提供理论上的理由。我们显示,可以逐步和有选择地扩大经过培训的大型语言模型(LLM)的大小,在计算公式中插入了内部的相对旋转3级的旋转质量,在不进行升级的比值后,将比例降为B级的平级。
+
+---
+
+## Article 1
+### Title@2025-08-28 (4): ASiM: Modeling and Analyzing Inference Accuracy of SRAM-Based Analog CiM   Circuits
+
+**Title**: ASiM: Modeling and Analyzing Inference Accuracy of SRAM-Based Analog CiM   Circuits | ASiM: Modellierung und Analyse der Inferenzgenauigkeit von SRAM-basierten analogen CiM-Schaltungen | ASIM: 以SRAM为基础的模拟 CIM 电路的建模和分析推断准确性 [2411.11022v3](http://arxiv.org/abs/2411.11022v3)
+
+**Authors** (4): Wenlun Zhang, Shimpei Ando, Yung-Chin Chen, Kentaro Yoshioka
+
+SRAM-based Analog Compute-in-Memory (ACiM) demonstrates promising energy efficiency for deep neural network (DNN) processing. Nevertheless, efforts to optimize efficiency frequently compromise accuracy, and this trade-off remains insufficiently studied due to the difficulty of performing full-system validation. Specifically, existing simulation tools rarely target SRAM-based ACiM and exhibit inconsistent accuracy predictions, highlighting the need for a standardized, SRAM CiM circuit-aware evaluation methodology. This paper presents ASiM, a simulation framework for evaluating inference accuracy in SRAM-based ACiM systems. ASiM captures critical effects in SRAM based analog compute in memory systems, such as ADC quantization, bit parallel encoding, and analog noise, which must be modeled with high fidelity due to their distinct behavior in charge domain architectures compared to other memory technologies. ASiM supports a wide range of modern DNN workloads, including CNN and Transformer-based models such as ViT, and scales to large-scale tasks like ImageNet classification. Our results indicate that bit-parallel encoding can improve energy efficiency with only modest accuracy degradation; however, even 1 LSB of analog noise can significantly impair inference performance, particularly in complex tasks such as ImageNet. To address this, we explore hybrid analog-digital execution and majority voting schemes, both of which enhance robustness without negating energy savings. ASiM bridges the gap between hardware design and inference performance, offering actionable insights for energy-efficient, high-accuracy ACiM deployment.
+
+以 SRAM 为基础的模拟分析(ACiM) 显示深神经网络(DNN) 处理的能源效率很有希望。 然而,优化效率的努力往往会降低准确性,而由于难以进行全系统的验证,这种权衡仍然不够研究。具体地说,现有的模拟工具很少针对基于 SRAM 的 ACimM ,并显示不连贯的准确性预测,突出表明需要标准化的 SRAM Cim 电路觉评估方法。本文展示了AsiM 模拟框架,用于评价基于 SRAM 的 ACIM 系统(DNN) 的推断准确性能。 ASimM 捕捉到基于 SRAM 的 SRAM 模拟系统(DNNN) 的模拟框架在存储系统中的模拟精确性能精确性( SRAM ) 的模拟性能精确性能计划(ABLSB ) , 高性能的精性能评估(BEDR) , 高性能评估(LSBA) 的精度分析(SB) , 高性能评估(SBA) 的精度操作(SB) 的精度(SB) 高性能评估(SB) 的精度操作性能、高性能评估(SB)
+
+---
+
+## Article 2
+### Title@2025-08-28 (4): Microarchitecture Design and Benchmarking of Custom SHA-3 Instruction   for RISC-V
+
+**Title**: Microarchitecture Design and Benchmarking of Custom SHA-3 Instruction   for RISC-V | Microarchitecture Design und Benchmarking der benutzerdefinierten SHA-3 Anleitung für RISC-V | 自订SISCVSHA-3指令的微结构设计和基准制定 [2508.20653v1](http://arxiv.org/abs/2508.20653v1)
+
+**Authors** (4): Alperen Bolat, Sakir Sezer, Kieran McLaughlin, Henry Hui
+
+Integrating cryptographic accelerators into modern CPU architectures presents unique microarchitectural challenges, particularly when extending instruction sets with complex and multistage operations. Hardware-assisted cryptographic instructions, such as Intel's AES-NI and ARM's custom instructions for encryption workloads, have demonstrated substantial performance improvements. However, efficient SHA-3 acceleration remains an open problem due to its distinct permutation-based structure and memory access patterns. Existing solutions primarily rely on standalone coprocessors or software optimizations, often avoiding the complexities of direct microarchitectural integration. This study investigates the architectural challenges of embedding a SHA-3 permutation operation as a custom instruction within a general-purpose processor, focusing on pipelined simultaneous execution, storage utilization, and hardware cost. In this paper, we investigated and prototyped a SHA-3 custom instruction for the RISC-V CPU architecture. Using cycle-accurate GEM5 simulations and FPGA prototyping, our results demonstrate performance improvements of up to 8.02x for RISC-V optimized SHA-3 software workloads and up to 46.31x for Keccak-specific software workloads, with only a 15.09% increase in registers and a 11.51% increase in LUT utilization. These findings provide critical insights into the feasibility and impact of SHA-3 acceleration at the microarchitectural level, highlighting practical design considerations for future cryptographic instruction set extensions.
+
+将加密加速器纳入现代CPU结构的加密加速器纳入现代CPU结构,提出了独特的微观构造挑战,特别是在延长具有复杂和多阶段操作的教学组时,这是独特的微观构造挑战。硬件辅助加密指令,如Intel's AES-NI和ARM的加密工作量定制指令,显示出了显著的性能改进。然而,高效的 SHA-3加速器由于其不同的异同结构以及记忆存取模式,仍是一个尚未解决的问题。现有解决方案主要依靠独立联动处理器或软件优化,往往避免直接微观构造整合的复杂性。本项研究调查了将SHA-3调整操作作为定制指令嵌入普通用途处理器的建筑挑战,重点是管道同步执行、储存使用和硬件成本。在本文件中,我们调查并制作了RISC-VCPU架构的SH-3定制指令,使用周期精确的GEM5模拟和FGA节点的配置,我们的成果显示,在RISC-V优化SHA-3级级软件级的8.02x上,将SHA-3级调整作业作为定制指令的建筑定制指令的建筑工程挑战性改进,在15.31x的精确分析中,提高KACKACKA的精确定位的精确定位的精确定位的精确分析,在快速分析中,在快速分析中,在提高的精确的精确分析分析中,这些精确分析任务中,提高的精确的精确的精确定位的精确分析任务和加速度上,在提高的精确性工作。
+
+---
+
+## Article 3
+### Title@2025-08-28 (4): The Future of Memory: Limits and Opportunities
+
+**Title**: The Future of Memory: Limits and Opportunities | Die Zukunft des Gedächtnisses: Grenzen und Chancen | 记忆的未来:局限和机会 [2508.20425v1](http://arxiv.org/abs/2508.20425v1)
+
+**Authors** (8): Shuhan Liu, Samuel Dayo, Peijing Li, Philip Levis, Subhasish Mitra, Thierry Tambe, David Tennenhouse, H. -S. Philip Wong
+
+Memory latency, bandwidth, capacity, and energy increasingly limit performance. In this paper, we reconsider proposed system architectures that consist of huge (many-terabyte to petabyte scale) memories shared among large numbers of CPUs. We argue two practical engineering challenges, scaling and signaling, limit such designs. We propose the opposite approach. Rather than create large, shared, homogenous memories, systems explicitly break memory up into smaller slices more tightly coupled with compute elements. Leveraging advances in 2.5D/3D integration, this compute-memory node provisions private local memory, enabling accesses of node-exclusive data through micrometer-scale distances, and dramatically reduced access cost. In-package memory elements support shared state within a processor, providing far better bandwidth and energy-efficiency than DRAM, which is used as main memory for large working sets and cold data. Hardware making memory capacities and distances explicit allows software to efficiently compose this hierarchy, managing data placement and movement.
+
+记忆延迟度、 带宽、 容量和能量日益限制性能 。 在本文件中, 我们重新考虑了由大量CPU共享的巨大( 多方字形到小字节) 记忆组成的拟议系统结构。 我们论证了两个实际工程挑战, 缩放和信号, 限制这种设计。 我们建议了相反的方法。 系统不是创建大型、 共享的、 同一的记忆, 而是将记忆断裂成与计算元素更为紧密的更小的片段。 利用 2.5D/3D 整合的进步, 这个计算- 模拟节节点提供本地私人记忆, 允许通过微米尺度距离访问节点数据, 并大幅降低访问成本 。 包装内存储元素支持在一个处理器内共享状态, 提供比 DRAM 更好的带宽度和能源效率, DRAM 是用于大型工作器和冷数据的主要记忆存储器。 硬件使记忆能力和距离清晰度允许软件高效地配置这一等级, 管理数据放置和移动 。
+
+---
+
+## Article 4
+### Title@2025-08-27 (3): Testing and Fault Tolerance Techniques for Carbon Nanotube-Based FPGAs
+
+**Title**: Testing and Fault Tolerance Techniques for Carbon Nanotube-Based FPGAs | Test- und Fehlertoleranztechniken für Kohlenstoff-Nanoröhren-basierte FPGAs | 碳纳米气基燃料元件控制器的测试和失责容忍技术 [2508.20304v1](http://arxiv.org/abs/2508.20304v1)
+
+**Authors** (5): Siyuan Lu, Kangwei Xu, Peng Xie, Rui Wang, Yuanqing Cheng
+
+As the semiconductor manufacturing process technology node shrinks into the nanometer-scale, the CMOS-based Field Programmable Gate Arrays (FPGAs) face big challenges in scalability of performance and power consumption. Multi-walled Carbon Nanotube (MWCNT) serves as a promising candidate for Cu interconnects thanks to the superior conductivity. Moreover, Carbon Nanotube Field Transistor (CNFET) also emerges as a prospective alternative to the conventional CMOS device because of high power efficiency and large noise margin. The combination of MWCNT and CNFET enables the promising CNT-based FPGAs. However, the MWCNT interconnects exhibit significant process variations due to immature fabrication process, leading to delay faults. Also, the non-ideal CNFET fabrication process may generate a few metallic CNTs (m-CNTs), rendering correlated faulty blocks. In this article, we propose a ring oscillator (RO) based testing technique to detect delay faults due to the process variation of MWCNT interconnects. Furthermore, we propose an effective testing technique for the carry chains in CLBs, and an improved circuit design based on the lookup table (LUT) is applied to speed up the fault testing of CNT-based FPGAs. In addition, we propose a testing algorithm to detect m-CNTs in CLBs. Finally, we propose a redundant spare row sharing architecture to improve the yield of CNT-based FPGA further. Experimental results show that the test time for a 6-input LUT can be reduced by 35.49% compared with conventional testing, and the proposed algorithm can achieve a high test coverage with little overhead. The proposed redundant architecture can repair the faulty segment effectively and efficiently.
+
+随着半导体制造工艺技术节点缩小到纳米尺度,基于 CMOS 的基于 CMOS 的外地可编程门阵列(FPGAs) 在性能和电力消耗的可缩缩化性方面面临着巨大的挑战。多壁碳纳努贝(MWCNT)是Cu互连的有希望的候选体。此外,碳纳诺托贝(MNFET) 外地晶体管(CNFET) 也由于高导电率而成为常规CMOS 装置的一个可能的替代物。MWCNT 和 CNFET 的组合使得充满希望的CNTFGA(FGA) 能够使CCN 和 CCN 内部互连为一体。然而,MCNT 互连为连接的节能组合在不成熟的编程中显示出巨大的过程变化。此外,非理想的 CNFET 编程过程可能会产生一些金属的CNTT(m-CNT) , 和基于常规变换的测试表可以显示我们CCNT 的延迟的延迟,我们提议CCNT 的C-C-C-C-C-C-lUT 测试过程的节能在升级中可以实现一个有效的测试。
+
+---
+
+## Article 5
+### Title@2025-08-27 (3): SpeedMalloc: Improving Multi-threaded Applications via a Lightweight   Core for Memory Allocation
+
+**Title**: SpeedMalloc: Improving Multi-threaded Applications via a Lightweight   Core for Memory Allocation | SpeedMalloc: Multi-Threaded-Anwendungen über einen Leichtbaukern zur Speicherallokation verbessern | SpeedMalloc:通过记忆分配轻量核心改进多行应用 [2508.20253v1](http://arxiv.org/abs/2508.20253v1)
+
+**Authors** (7): Ruihao Li, Qinzhe Wu, Krishna Kavi, Gayatri Mehta, Jonathan C. Beard, Neeraja J. Yadwadkar, Lizy K. John
+
+Memory allocation, though constituting only a small portion of the executed code, can have a "butterfly effect" on overall program performance, leading to significant and far-reaching impacts. Despite accounting for just approximately 5% of total instructions, memory allocation can result in up to a 2.7x performance variation depending on the allocator used. This effect arises from the complexity of memory allocation in modern multi-threaded multi-core systems, where allocator metadata becomes intertwined with user data, leading to cache pollution or increased cross-thread synchronization overhead. Offloading memory allocators to accelerators, e.g., Mallacc and Memento, is a potential direction to improve the allocator performance and mitigate cache pollution. However, these accelerators currently have limited support for multi-threaded applications, and synchronization between cores and accelerators remains a significant challenge.   We present SpeedMalloc, using a lightweight support-core to process memory allocation tasks in multi-threaded applications. The support-core is a lightweight programmable processor with efficient cross-core data synchronization and houses all allocator metadata in its own caches. This design minimizes cache conflicts with user data and eliminates the need for cross-core metadata synchronization. In addition, using a general-purpose core instead of domain-specific accelerators makes SpeedMalloc capable of adopting new allocator designs. We compare SpeedMalloc with state-of-the-art software and hardware allocators, including Jemalloc, TCMalloc, Mimalloc, Mallacc, and Memento. SpeedMalloc achieves 1.75x, 1.18x, 1.15x, 1.23x, and 1.18x speedups on multithreaded workloads over these five allocators, respectively.
+
+内存分配虽然只是执行代码的一小部分,但对于总体程序性能具有“ 滴滴效应 ” , 从而产生显著和深远的影响。 尽管内存分配仅占全部指令的大约5%, 但根据使用的分解器, 内存分配可能导致2. 7x 性能变化。 这一点来自现代多读多核心系统中记忆分配的复杂性, 在那里, 分配器元数据与用户数据交织在一起, 导致缓存污染或增加交叉同步管理。 将内存所有加速器卸载所有加速器, 例如马拉克和米门托, 是一个潜在的方向, 来改善全方位指示的性能和减少缓存污染。 但是, 这些加速器目前对多读应用程序的支持有限, 核心器和加速器之间的同步仍然是巨大的挑战。 我们展示了SpeedMallic, 使用轻量支持核心- 来在多读应用程序中处理存储器分配任务, 支持核心器是一个较轻的处理器, 所有的可编程进程处理器, 包括高效的跨核心数据同步和内置的内存数据。
+
+---
+
+## Article 6
+### Title@2025-08-27 (3): Large Language Models (LLMs) for Electronic Design Automation (EDA)
+
+**Title**: Large Language Models (LLMs) for Electronic Design Automation (EDA) | Große Sprachmodelle (LLMs) für elektronische Designautomatisierung (EDA) | 电子设计自动化大语言模型(LLMS) [2508.20030v1](http://arxiv.org/abs/2508.20030v1)
+
+**Authors** (13): Kangwei Xu, Denis Schwachhofer, Jason Blocklove, Ilia Polian, Peter Domanski, Dirk Pflüger, Siddharth Garg, Ramesh Karri, Ozgur Sinanoglu, Johann Knechtel, Zhuorui Zhao, Ulf Schlichtmann, Bing Li
+
+With the growing complexity of modern integrated circuits, hardware engineers are required to devote more effort to the full design-to-manufacturing workflow. This workflow involves numerous iterations, making it both labor-intensive and error-prone. Therefore, there is an urgent demand for more efficient Electronic Design Automation (EDA) solutions to accelerate hardware development. Recently, large language models (LLMs) have shown remarkable advancements in contextual comprehension, logical reasoning, and generative capabilities. Since hardware designs and intermediate scripts can be represented as text, integrating LLM for EDA offers a promising opportunity to simplify and even automate the entire workflow. Accordingly, this paper provides a comprehensive overview of incorporating LLMs into EDA, with emphasis on their capabilities, limitations, and future opportunities. Three case studies, along with their outlook, are introduced to demonstrate the capabilities of LLMs in hardware design, testing, and optimization. Finally, future directions and challenges are highlighted to further explore the potential of LLMs in shaping the next-generation EDA, providing valuable insights for researchers interested in leveraging advanced AI technologies for EDA.
+
+随着现代集成电路日益复杂,硬件工程师需要更加努力地完成设计到制造的工作流程,这一工作流程涉及许多迭代,使这种流程既需要劳动密集型,又容易出错,因此迫切需要更高效的电子设计自动化解决方案,以加速硬件开发;最近,大型语言模型(LLMS)在背景理解、逻辑推理和基因化能力方面显示出显著的进步;由于硬件设计和中间脚本可以作为文字体现,整合EDA的LLM为整个工作流程的简化甚至自动化提供了一个充满希望的机会;因此,本文件全面概述了将LLMS纳入EDA的情况,重点是其能力、局限性和未来机会;介绍了三个案例研究及其展望,以展示LLMS在硬件设计、测试和优化方面的能力;最后,重点介绍了今后的方向和挑战,以进一步探索LMS在塑造下一代的EDA方面的潜力,为有兴趣利用先进的AI技术促进EDA的研究人员提供宝贵的见解。
+
+---
+
+## Article 7
+### Title@2025-08-27 (3): New Tools, Programming Models, and System Support for   Processing-in-Memory Architectures
+
+**Title**: New Tools, Programming Models, and System Support for   Processing-in-Memory Architectures | Neue Tools, Programmiermodelle und Systemunterstützung für Processing-in-Memory-Architekturen | 处理记忆中结构的新工具、编程模型和系统支持 [2508.19868v1](http://arxiv.org/abs/2508.19868v1)
+
+**Authors** (1): Geraldo F. Oliveira
+
+Our goal in this dissertation is to provide tools, programming models, and system support for PIM architectures (with a focus on DRAM-based solutions), to ease the adoption of PIM in current and future systems. To this end, we make at least four new major contributions.   First, we introduce DAMOV, the first rigorous methodology to characterize memory-related data movement bottlenecks in modern workloads, and the first data movement benchmark suite. Second, we introduce MIMDRAM, a new hardware/software co-designed substrate that addresses the major current programmability and flexibility limitations of the bulk bitwise execution model of processing-using-DRAM (PUD) architectures. MIMDRAM enables the allocation and control of only the needed computing resources inside DRAM for PUD computing. Third, we introduce Proteus, the first hardware framework that addresses the high execution latency of bulk bitwise PUD operations in state-of-the-art PUD architectures by implementing a data-aware runtime engine for PUD. Proteus reduces the latency of PUD operations in three different ways: (i) Proteus concurrently executes independent in-DRAM primitives belong to a single PUD operation across DRAM arrays. (ii) Proteus dynamically reduces the bit-precision (and consequentially the latency and energy consumption) of PUD operations by exploiting narrow values (i.e., values with many leading zeros or ones). (iii) Proteus chooses and uses the most appropriate data representation and arithmetic algorithm implementation for a given PUD instruction transparently to the programmer. Fourth, we introduce DaPPA (data-parallel processing-in-memory architecture), a new programming framework that eases programmability for general-purpose PNM architectures by allowing the programmer to write efficient PIM-friendly code without the need to manage hardware resources explicitly.
+
+我们在此分解中的目标是为PIM架构提供工具、编程模型和系统支持(重点是基于 DRAM 的解决方案),以方便当前和今后的系统中采用PIM。为此,我们至少做出4项新的主要贡献。首先,我们引入DAMOV,这是在现代工作量中描述记忆相关数据移动瓶颈的第一个严格方法,以及第一个数据移动基准套件。第二,我们引入了MIMDRAM,这是一个新的硬件/软件共同设计的基数,该基数是针对当前处理-DRAM(PUD)架构中大部分略微错误执行模式的可编程和灵活性限制。MIMRAM只能为PUD计算中所需的计算资源进行分配和控制。第三,我们引入了Proteus,第一个硬件框架,解决了在现代PUD结构中实施高执行强度的PUD操作,为此实施了数据运行运行运行的运行周期引擎。 将PUDGOD操作的宽度降为三种不同方式:(i) PRODOD 运行一个不使用原始和动态程序。
+
+---
+
+## Article 8
+### Title@2025-08-27 (3): Re-thinking Memory-Bound Limitations in CGRAs
+
+**Title**: Re-thinking Memory-Bound Limitations in CGRAs | Re-thinking Memory-Bound Limitations in CGRAs | 重新思考《公约》国家集团中的记忆力限制 [2508.09570v2](http://arxiv.org/abs/2508.09570v2)
+
+**Authors** (7): Xiangfeng Liu, Zhe Jiang, Anzhen Zhu, Xiaomeng Han, Mingsong Lyu, Qingxu Deng, Nan Guan
+
+Coarse-Grained Reconfigurable Arrays (CGRAs) are specialized accelerators commonly employed to boost performance in workloads with iterative structures. Existing research typically focuses on compiler or architecture optimizations aimed at improving CGRA performance, energy efficiency, flexibility, and area utilization, under the idealistic assumption that kernels can access all data from Scratchpad Memory (SPM). However, certain complex workloads-particularly in fields like graph analytics, irregular database operations, and specialized forms of high-performance computing (e.g., unstructured mesh simulations)-exhibit irregular memory access patterns that hinder CGRA utilization, sometimes dropping below 1.5%, making the CGRA memory-bound. To address this challenge, we conduct a thorough analysis of the underlying causes of performance degradation, then propose a redesigned memory subsystem and refine the memory model. With both microarchitectural and theoretical optimization, our solution can effectively manage irregular memory accesses through CGRA-specific runahead execution mechanism and cache reconfiguration techniques. Our results demonstrate that we can achieve performance comparable to the original SPM-only system while requiring only 1.27% of the storage size. The runahead execution mechanism achieves an average 3.04x speedup (up to 6.91x), with cache reconfiguration technique providing an additional 6.02% improvement, significantly enhancing CGRA performance for irregular memory access patterns.
+
+然而,某些复杂的工作量,特别是在图形分析、不规则数据库操作和高性能计算(例如,无结构的网状模拟)和特殊形式的高性能计算(例如,无结构的网状模拟)和缓冲技术等特殊形式的超常读取模式,这些模式阻碍着中心利用,有时降到1.5 %以下,使中心记忆具有约束性。为了应对这一挑战,我们对业绩退化的根本原因进行彻底分析,然后提出重新设计的记忆子系统,并改进记忆模型。通过微观和理论优化,我们的解决办法能够有效地管理通过CGRA具体运行执行机制和缓存技术的不规则记忆存访问。我们的结果表明,我们可以实现与最初的SGRA使用模式相似的业绩,有时降到1.5 %以下,使中心记忆具有约束性。为了应对这一挑战,我们对业绩退化的根本原因进行透彻分析,然后提出重新设计记忆系统并改进记忆模型。有了微观和理论优化,我们的解决办法可以有效地管理通过CGRA具体运行头项执行机制和缓存技术等不同形式的存储访问。我们的成果表明,我们能够实现类似于CGRA的最初的升级访问模式,6.02 CRA仅需要大幅改进战略的升级机制。
+
+---
+
+## Article 9
+### Title@2025-08-27 (3): Exploration of Low-Power Flexible Stress Monitoring Classifiers for   Conformal Wearables
+
+**Title**: Exploration of Low-Power Flexible Stress Monitoring Classifiers for   Conformal Wearables | Exploration von Low-Power-Flexiblen Stress-Monitoring-Klassifikatoren für Conformal Wearables | 探索用于正规服装的低功能弹性压力监测分类 [2508.19661v1](http://arxiv.org/abs/2508.19661v1)
+
+**Authors** (9): Florentia Afentaki, Sri Sai Rakesh Nakkilla, Konstantinos Balaskas, Paula Carolina Lozano Duarte, Shiyi Jiang, Georgios Zervakis, Farshad Firouzi, Krishnendu Chakrabarty, Mehdi B. Tahoori
+
+Conventional stress monitoring relies on episodic, symptom-focused interventions, missing the need for continuous, accessible, and cost-efficient solutions. State-of-the-art approaches use rigid, silicon-based wearables, which, though capable of multitasking, are not optimized for lightweight, flexible wear, limiting their practicality for continuous monitoring. In contrast, flexible electronics (FE) offer flexibility and low manufacturing costs, enabling real-time stress monitoring circuits. However, implementing complex circuits like machine learning (ML) classifiers in FE is challenging due to integration and power constraints. Previous research has explored flexible biosensors and ADCs, but classifier design for stress detection remains underexplored. This work presents the first comprehensive design space exploration of low-power, flexible stress classifiers. We cover various ML classifiers, feature selection, and neural simplification algorithms, with over 1200 flexible classifiers. To optimize hardware efficiency, fully customized circuits with low-precision arithmetic are designed in each case. Our exploration provides insights into designing real-time stress classifiers that offer higher accuracy than current methods, while being low-cost, conformable, and ensuring low power and compact size.
+
+常规应激反应监测依靠非常规的、以症状为重点的干预,缺乏持续、无障碍和具有成本效益的解决方案; 先进的先进方法使用硬性、以硅为基础的磨损器,尽管能够多任务、灵活穿戴、限制其持续监测的实用性,但这种磨损器虽不优化,但用于轻量度、弹性穿戴、限制其实用性; 相比之下,灵活的电子(FE)提供灵活性和低制造成本,使实时压力监测电路成为可能; 然而,由于整合和电力限制,采用FE的机器学习(ML)分类器等复杂电路具有挑战性。 以往的研究已经探索了灵活的生物传感器和ADC,但压力检测的分类设计仍然没有得到充分利用。 这项工作展示了对低功率、弹性压力分类器的首次全面设计空间探索。 我们覆盖了各种ML分类、特征选择和神经简化算法,有超过1200个弹性分类器。 为了优化硬件效率,每个情况下都设计了具有低精度算术的完全定制的电路路。 我们的探索为设计实时压力分类提供了设计提供比当前方法更精确度的洞察力,同时确保低精度的精度的精度的精度,同时确保低精度和精度和精度的精度的精度的精度的精度。
+
+---
+
+## Article 10
+### Title@2025-08-27 (3): Demonstrator Testbed for Effective Precoding in MEO Multibeam Satellites
+
+**Title**: Demonstrator Testbed for Effective Precoding in MEO Multibeam Satellites | Demonstrator Testbed für effektive Vorkodierung in MEO-Multibeam-Satelliten | MEO多波束卫星有效预编码示范演示测试台 [2508.19657v1](http://arxiv.org/abs/2508.19657v1)
+
+**Authors** (9): Jorge L. González-Rios, Liz Martínez Marrero, Juan Duncan, Luis M. Garcés-Socarrás, Raudel Cuiman Marquez, Juan A. Vásquez Peralvo, Jevgenij Krivochiza, Symeon Chatzinotas, Björn Ottersten
+
+The use of communication satellites in medium Earth orbit (MEO) is foreseen to provide quasi-global broadband Internet connectivity in the coming networking ecosystems. Multi-user multiple-input single-output (MU-MISO) digital signal processing techniques, such as precoding, emerge as appealing technological enablers in the forward link of multi-beam satellite systems operating in full frequency reuse (FFR). However, the orbit dynamics of MEO satellites pose additional challenges that must be carefully evaluated and addressed. This work presents the design of an in-lab testbed based on software-defined radio (SDR) platforms and the corresponding adaptations required for efficient precoding in a MEO scenario. The setup incorporates a precise orbit model and the radiation pattern of a custom-designed direct radiating array (DRA). We analyze the main impairments affecting precoding performance, including Doppler shifts and payload phase noise, and propose a synchronization loop to mitigate these effects. Preliminary experimental results validate the feasibility and effectiveness of the proposed solution.
+
+在中地球轨道使用通信卫星预计将在即将到来的联网生态系统中提供准全球宽带互联网连接。多用户多投入单输出数字信号处理技术,如预编码,在全频再利用的多波束卫星系统前端链路中成为有吸引力的技术促进器。然而,中地球轨道卫星的轨道动态带来了额外的挑战,必须仔细评估和解决。这项工作提出了基于软件界定的无线电平台的实验室内测试台的设计,以及在MEO情景中有效预编码所需的相应调整。设置包括精确的轨道模型和定制的直接辐射阵列的辐射模式。我们分析了影响预编码性能的主要缺陷,包括多普勒转移和有效载荷阶段噪音,并提出一个同步循环以缓解这些影响。初步实验结果验证了拟议解决办法的可行性和有效性。
+
+---
+
+## Article 11
+### Title@2025-08-27 (3): Support Vector Machines Classification on Bendable RISC-V
+
+**Title**: Support Vector Machines Classification on Bendable RISC-V | Unterstützung Vector Maschinen Klassifizierung auf Bendable RISC-V | 支持性病媒机(RISC-V) [2508.19656v1](http://arxiv.org/abs/2508.19656v1)
+
+**Authors** (5): Polykarpos Vergos, Theofanis Vergos, Florentia Afentaki, Konstantinos Balaskas, Georgios Zervakis
+
+Flexible Electronics (FE) technology offers uniquecharacteristics in electronic manufacturing, providing ultra-low-cost, lightweight, and environmentally-friendly alternatives totraditional rigid electronics. These characteristics enable a rangeof applications that were previously constrained by the costand rigidity of conventional silicon technology. Machine learning (ML) is essential for enabling autonomous, real-time intelligenceon devices with smart sensing capabilities in everyday objects. However, the large feature sizes and high power consumption ofthe devices oppose a challenge in the realization of flexible ML applications. To address the above, we propose an open-source framework for developing ML co-processors for the Bendable RISC-V core. In addition, we present a custom ML accelerator architecture for Support Vector Machine (SVM), supporting both one-vs-one (OvO) and one-vs-rest (OvR) algorithms. Our ML accelerator adopts a generic, precision-scalable design, supporting 4-, 8-, and 16-bit weight representations. Experimental results demonstrate a 21x improvement in both inference execution time and energy efficiency, on average, highlighting its potential for low-power, flexible intelligence on the edge.
+
+灵活电子(FE)技术在电子制造中提供了独特的特征,为传统硬性电子提供了超低成本、轻重量和无害环境的替代品,为传统硬性电子提供了超低成本、轻重量和无害环境替代品。这些特征使以前受传统硅技术成本和僵硬性制约的各种应用得以实现。机器学习(ML)对于在日常物体中使具有智能感应能力的自主、实时智能设备成为可能至关重要。然而,该设备的特质大小和高功率消耗率对于实现灵活的ML应用提出了挑战。针对上述问题,我们提议了一个为易腐化的RIRC-V核心开发ML联合处理器的开放源框架。此外,我们提出了支持矢量机的定制ML加速器(SVM)结构,以支持一至一和一至一和一至再再三(OvR)算法。我们的ML加速器采用了一种通用的、精确尺度设计,支持4、8和16位重表示。此外,我们展示了支持易变速率平均执行率和低能量潜力的21x高空空空空压。
+
+---
+
+## Article 12
+### Title@2025-08-27 (3): When Routers, Switches and Interconnects Compute: A   processing-in-interconnect Paradigm for Scalable Neuromorphic AI
+
+**Title**: When Routers, Switches and Interconnects Compute: A   processing-in-interconnect Paradigm for Scalable Neuromorphic AI | Wenn Router, Switches und Interconnects berechnen: Ein Processing-in-Interconnect Paradigm für skalierbare neuromorphe KI | 当路由器、开关和互连计算时:可缩缩缩的神经变形 AI 的处理内连接参数 [2508.19548v1](http://arxiv.org/abs/2508.19548v1)
+
+**Authors** (4): Madhuvanthi Srivatsav R, Chiranjib Bhattacharyya, Shantanu Chakrabartty, Chetan Singh Thakur
+
+Routing, switching, and the interconnect fabric are essential for large-scale neuromorphic computing. While this fabric only plays a supporting role in the process of computing, for large AI workloads it ultimately determines energy consumption and speed. In this paper, we address this bottleneck by asking: (a) What computing paradigms are inherent in existing routing, switching, and interconnect systems, and how can they be used to implement a processing-in-Interconnect (\pi^2) computing paradigm? and (b) leveraging current and future interconnect trends, how will a \pi^2 system's performance scale compared to other neuromorphic architectures? For (a), we show that operations required for typical AI workloads can be mapped onto delays, causality, time-outs, packet drop, and broadcast operations -- primitives already implemented in packet-switching and packet-routing hardware. We show that existing buffering and traffic-shaping embedded algorithms can be leveraged to implement neuron models and synaptic operations. Additionally, a knowledge-distillation framework can train and cross-map well-established neural network topologies onto $\pi^2$ without degrading generalization performance. For (b), analytical modeling shows that, unlike other neuromorphic platforms, the energy scaling of $\pi^2$ improves with interconnect bandwidth and energy efficiency. We predict that by leveraging trends in interconnect technology, a \pi^2 architecture can be more easily scaled to execute brain-scale AI inference workloads with power consumption levels in the range of hundreds of watts.
+
+路由、 转换和互连结构对于大规模神经变异计算至关重要 。 虽然这一结构在计算过程中只能起到辅助作用, 但对于大型AI工作量来说, 它最终决定了能源消耗和速度 。 在本文中, 我们通过询问解决这一瓶颈问题:(a) 现有路由、 转换和互连系统内有哪些固有的计算模式, 以及如何使用这些模式来实施内部处理( pi2) 计算模式? 以及 (b) 利用当前和未来的互连趋势, 与其他神经变异结构相比, 如何使\pi2 系统的业绩规模与其它神经变异结构相比较? 对于 (a) , 我们表明典型AI工作量所需的操作可以被描绘为延迟、因果关系、 时间流逝、 包流流流和广播操作。 已经在包开和包路由硬件中应用的原始操作。 我们显示,现有的缓冲和阻断流量的内嵌式算算法可以用来实施神经模型和合成的循环操作。 此外, 一个知识蒸馏框架可以培训和交叉的智能结构比其他神经变异的系统内部循环结构 。 (我们所建的智能网络内部智能网络结构的智能结构上, ) 的智能结构的智能结构上, 的智能结构的智能结构的智能分析性能向上 。
+
+---
+
+## Article 13
+### Title@2025-08-27 (3): RARO: Reliability-aware Conversion with Enhanced Read Performance for   QLC SSDs
+
+**Title**: RARO: Reliability-aware Conversion with Enhanced Read Performance for   QLC SSDs | RARO: Reliability-aware Konvertierung mit verbesserter Leseleistung für QLC SSDs | RARO: QLC SSDs 具有强化读性且阅读性能增强的可靠性转换 [2508.19530v1](http://arxiv.org/abs/2508.19530v1)
+
+**Authors** (6): Yanyun Wang, Dingcui Yu, Yina Lv, Yunpeng Song, Yumiao Zhao, Liang Shi
+
+Quad-level cell (QLC) flash offers significant benefits in cost and capacity, but its limited reliability leads to frequent read retries, which severely degrade read performance. A common strategy in high-density flash storage is to program selected blocks in a low-density mode (SLC), sacrificing some capacity to achieve higher I/O performance. This hybrid storage architecture has been widely adopted in consumer-grade storage systems. However, existing hybrid storage schemes typically focus on write performance and rely solely on data temperature for migration decisions. This often results in excessive mode switching, causing substantial capacity overhead.   In this paper, we present RARO (Reliability-Aware Read performance Optimization), a hybrid flash management scheme designed to improve read performance with minimal capacity cost. The key insight behind RARO is that much of the read slowdown in QLC flash is caused by read retries. RARO triggers data migration only when hot data resides in QLC blocks experiencing a high number of read retries, significantly reducing unnecessary conversions and capacity loss. Moreover, RARO supports fine-grained multi-mode conversions (SLC-TLC-QLC) to further minimize capacity overhead. By leveraging real-time read retry statistics and flash characteristics, RARO mitigates over-conversion and optimizes I/O performance. Experiments on the FEMU platform demonstrate that RARO significantly improves read performance across diverse workloads, with negligible impact on usable capacity.
+
+高密度闪存的共同战略是以低密度模式(SLC)对选定区块进行编程,以牺牲一定能力实现更高的I/O性能。这种混合储存结构在消费者级储存系统中被广泛采用。然而,现有的混合储存机制通常侧重于写作性能,仅依靠数据温度来做出迁移决定。这往往导致模式转换过度,造成大量能力管理。在本文件中,我们介绍了一个高密度闪存存储的共同战略,目的是以低密度模式(SLC)的方式对选定区块进行编程,牺牲某些能力以实现更高的I/O性能。这种混合储存结构在消费者级储存系统中被广泛采用。但是,现有的混合储存机制通常侧重于写作性能,并且仅仅依靠高读数的QLC区块的热数据进行数据迁移,大大减少了不必要转换和能力损失。此外,RARO还支持微缩的多式模式转换,目的是以最低的能力成本成本改进阅读性能。RACF-RO的读取性能模型。
+
+---
+
+## Article 14
+### Title@2025-08-26 (2): GENIE-ASI: Generative Instruction and Executable Code for Analog   Subcircuit Identification
+
+**Title**: GENIE-ASI: Generative Instruction and Executable Code for Analog   Subcircuit Identification | GENIE-ASI: Generativer Instruktions- und Ausführbarer Code für die analoge Subcircuit-Identifikation | GENIE-ASI: 模拟分电路识别的生成指令和执行代码 [2508.19393v1](http://arxiv.org/abs/2508.19393v1)
+
+**Authors** (11): Phuoc Pham, Arun Venkitaraman, Chia-Yu Hsieh, Andrea Bonetti, Stefan Uhlich, Markus Leibl, Simon Hofmann, Eisaku Ohbuchi, Lorenzo Servadei, Ulf Schlichtmann, Robert Wille
+
+Analog subcircuit identification is a core task in analog design, essential for simulation, sizing, and layout. Traditional methods often require extensive human expertise, rule-based encoding, or large labeled datasets. To address these challenges, we propose GENIE-ASI, the first training-free, large language model (LLM)-based methodology for analog subcircuit identification. GENIE-ASI operates in two phases: it first uses in-context learning to derive natural language instructions from a few demonstration examples, then translates these into executable Python code to identify subcircuits in unseen SPICE netlists. In addition, to evaluate LLM-based approaches systematically, we introduce a new benchmark composed of operational amplifier netlists (op-amps) that cover a wide range of subcircuit variants. Experimental results on the proposed benchmark show that GENIE-ASI matches rule-based performance on simple structures (F1-score = 1.0), remains competitive on moderate abstractions (F1-score = 0.81), and shows potential even on complex subcircuits (F1-score = 0.31). These findings demonstrate that LLMs can serve as adaptable, general-purpose tools in analog design automation, opening new research directions for foundation model applications in analog design automation.
+
+模拟、缩放和布局所需的模拟、缩放和布局是模拟设计的核心任务。传统方法往往需要广泛的人类专门知识、基于规则的编码或大标记数据集。为了应对这些挑战,我们提议GENIE-ASI,即第一个无培训的大型语言模型(LLLM),用于模拟子电路识别。GENIE-ASI运行分为两个阶段:首先使用内文字学习,从几个示范实例中获取自然语言指令,然后将这些指令转换成可执行的Python代码,以识别看不见的SPICE网络列表中的子路路标。此外,为了系统地评价基于LLM的方法,我们提出了一个新的基准,由操作放大器网络列表(Op-amps)构成,涵盖一系列广泛的亚电路变体。GENIE-ASI的实验结果显示,GENIE-ASI与简单结构(F1核心=1.0)的基于规则的性表现相匹配,然后将这些代码转换成可执行的Python 代码(F1核心=0.81),并显示即使在复杂的子路路标上的潜在潜力(F1-OILMS-ILMS-imalimalimalimalimalimimimimim des上,这些可展示的模型设计为0.31)。
+
+---
+
+## Article 15
+### Title@2025-08-26 (2): Harnessing the Full Potential of RRAMs through Scalable and Distributed   In-Memory Computing with Integrated Error Correction
+
+**Title**: Harnessing the Full Potential of RRAMs through Scalable and Distributed   In-Memory Computing with Integrated Error Correction | Das volle Potenzial von RRAMs durch skalierbares und verteiltes In-Memory Computing mit integrierter Fehlerkorrektur nutzen | 通过带有综合错误更正的可缩放和分散的模拟计算机,充分利用记录和记录机的全部潜力 [2508.13298v2](http://arxiv.org/abs/2508.13298v2)
+
+**Authors** (5): Huynh Q. N. Vo, Md Tawsif Rahman Chowdhury, Paritosh Ramanan, Murat Yildirim, Gozde Tutuncuoglu
+
+Exponential growth in global computing demand is exacerbated due to the higher-energy requirements of conventional architectures, primarily due to energy-intensive data movement. In-memory computing with Resistive Random Access Memory (RRAM) addresses this by co-integrating memory and processing, but faces significant hurdles related to device-level non-idealities and poor scalability for large computing tasks. Here, we introduce MELISO+ (In-Memory Linear Solver), a full-stack, distributed framework for energy-efficient in-memory computing. MELISO+ proposes a novel two-tier error correction mechanism to mitigate device non-idealities and develops a distributed RRAM computing framework to enable matrix computations exceeding dimensions of $65,000\times65,000$. This approach reduces first- and second-order arithmetic errors due to device non-idealities by over $90\%$, enhances energy efficiency by three to five orders of magnitude, and decreases latency 100-fold. Hence, MELISO+ allows lower-precision RRAM devices to outperform high-precision device alternatives in accuracy, energy and latency metrics. By unifying algorithm-hardware co-design with scalable architecture, MELISO+ significantly advances sustainable, high-dimensional computing suitable for applications like large language models and generative AI.
+
+全球计算需求的指数增长因传统结构的能源需求较高而加剧,这主要是由于能源密集型数据流动。使用耐性随机存取存储(RRAM)进行模拟计算,通过共同整合内存和处理来解决这个问题,但面临与设备级非理想和大型计算任务缩放能力差有关的重大障碍。在这里,我们引入了MELISO+(Memory Linearina Solveer),这是一个全套、分布式的高能效模拟模拟计算机框架。因此,MELISO+允许低精度RRAM装置使用新型双层错误纠正机制,以减少设备非理想性,并开发分布式RRAM计算框架,以便能够进行超过65 000美元时间的矩阵计算。这一方法将由于设备非理想性而导致的一级和二级计算错误减少90美元以上,将能源效率提高3至5级,并将拉里特度降低100倍。因此,MELISO+允许低精度的RAM装置在高精确度类似语言模型上超越高精确度的高度稳定度、高清晰度电子格式应用中,将高清晰度和高清晰度电子格式应用的模型替代品降低。
+
+---
+
+## Article 16
+### Title@2025-08-26 (2): Architecting Distributed Quantum Computers: Design Insights from   Resource Estimation
+
+**Title**: Architecting Distributed Quantum Computers: Design Insights from   Resource Estimation | Architecting Distributed Quantum Computers: Design Insights from Resource Estimation | 建筑分布量子计算机:资源估算的设计透视 [2508.19160v1](http://arxiv.org/abs/2508.19160v1)
+
+**Authors** (3): Dmitry Filippov, Peter Yang, Prakash Murali
+
+To enable practically useful quantum computing, we require hundreds to thousands of logical qubits (collections of physical qubits with error correction). Current monolithic device architectures have scaling limits beyond few tens of logical qubits. To scale up, we require architectures that orchestrate several monolithic devices into a distributed quantum computing system. Currently, resource estimation, which is crucial for determining hardware needs and bottlenecks, focuses exclusively on monolithic systems. Our work fills this gap and answers key architectural design questions about distributed systems, including the impact of distribution on application resource needs, the organization of qubits across nodes and the requirements of entanglement distillation (quantum network). To answer these questions, we develop a novel resource estimation framework that models the key components of the distributed execution stack. We analyse the performance of practical quantum algorithms on various hardware configurations, spanning different qubit speeds, entanglement generation rates and distillation protocols. We show that distributed architectures have practically feasible resource requirements; for a node size of 45K qubits, distributed systems need on average 1.4X higher number of physical qubits and 4X higher execution time compared to monolithic architectures, but with more favourable hardware implementation prospects. Our insights on entanglement generation rates, node sizes and architecture have the potential to inform system designs in the coming years.
+
+实现实用的量子计算,我们需要数以万至千千计的逻辑量子计算(通过错误校正的物理量子的收集)。当前单流设备结构的缩放限制超过少数几十个逻辑量子。为了扩大规模,我们需要将几个单流设备合用成一个分布式量子计算系统的结构。目前,资源估算对于确定硬件需求和瓶颈至关重要,它只侧重于单流系统。我们的工作填补了这一缺口,并回答了分布式系统的关键建筑设计问题,包括分配对应用资源需求的影响、横跨节点的方位的组织和混合蒸馏(量子网络)的要求。为了回答这些问题,我们开发了一个新的资源估算框架,以模拟分布式执行堆的关键组成部分。我们分析了各种硬件配置的实用量子算法的性能,覆盖了不同的量子速度、纠结生成率和蒸馏协议。我们显示,分布式结构实际上有可行的资源需求;对于45K方位的量子资源需求,在交替式的交替式结构中,分布式的系统需要比 1.4 和高度的硬度的硬度结构,比值比值比值更高。
+
+---
+
+## Article 17
+### Title@2025-08-26 (2): Building an Open CGRA Ecosystem for Agile Innovation
+
+**Title**: Building an Open CGRA Ecosystem for Agile Innovation | Aufbau eines offenen CGRA-Ökosystems für agile Innovation | 建立开放的CGRAA生态系统,促进 " 危险创新 " ; [2508.19090v1](http://arxiv.org/abs/2508.19090v1)
+
+**Authors** (7): Rohan Juneja, Pranav Dangi, Thilini Kaushalya Bandara, Zhaoying Li, Dhananjaya Wijerathne, Li-Shiuan Peh, Tulika Mitra
+
+Modern computing workloads, particularly in AI and edge applications, demand hardware-software co-design to meet aggressive performance and energy targets. Such co-design benefits from open and agile platforms that replace closed, vertically integrated development with modular, community-driven ecosystems. Coarse-Grained Reconfigurable Architectures (CGRAs), with their unique balance of flexibility and efficiency are particularly well-suited for this paradigm. When built on open-source hardware generators and software toolchains, CGRAs provide a compelling foundation for architectural exploration, cross-layer optimization, and real-world deployment. In this paper, we will present an open CGRA ecosystem that we have developed to support agile innovation across the stack. Our contributions include HyCUBE, a CGRA with a reconfigurable single-cycle multi-hop interconnect for efficient data movement; PACE, which embeds a power-efficient HyCUBE within a RISC-V SoC targeting edge computing; and Morpher, a fully open-source, architecture-adaptive CGRA design framework that supports design space exploration, compilation, simulation, and validation. By embracing openness at every layer, we aim to lower barriers to innovation, enable reproducible research, and demonstrate how CGRAs can anchor the next wave of agile hardware development. We will conclude with a call for a unified abstraction layer for CGRAs and spatial accelerators, one that decouples hardware specialization from software development. Such a representation would unlock architectural portability, compiler innovation, and a scalable, open foundation for spatial computing.
+
+现代计算工作量,特别是在AI和边缘应用中,要求硬件软件共同设计,以达到积极的业绩和能源目标。这些共同设计受益于开放和灵活的平台,这些平台以模块化、社区驱动的生态系统取代封闭的纵向一体化发展。粗糙的重塑结构,具有独特的灵活性和效率平衡,特别适合这一模式。在以开放源码硬件生成器和软件工具链为基础建立时,CGRA为建筑探索、跨层优化和现实世界部署提供了令人信服的基础。在本文件中,我们将展示一个开放和灵活的CGRA生态系统,我们开发该平台是为了支持整个堆的灵活创新。我们的贡献包括:HyCUBE,一个具有可重新配置的单一周期多功能连接的CGRA;PACE,它将节能的HYCUBE嵌入RIC-VSOUCT目标边缘计算;以及Merpher,一个完全开放的源码、结构调整的CGRA设计框架,我们开发空间探索、汇编、模拟、升级和升级的CRA,从而实现一个可升级的硬化的硬件创新和升级的标准化的系统,让我们在每一层次上展示一个可升级的硬化的硬件创新。
+
+---
+
+## Article 18
+### Title@2025-08-26 (2): APT-LLM: Exploiting Arbitrary-Precision Tensor Core Computing for LLM   Acceleration
+
+**Title**: APT-LLM: Exploiting Arbitrary-Precision Tensor Core Computing for LLM   Acceleration | APT-LLM: Ausnutzung von Willkür-Präzisions-Tensor-Core Computing für LLM-Beschleunigung | APT-LLM: 利用任意精密透镜核心计算加速LLM [2508.19087v1](http://arxiv.org/abs/2508.19087v1)
+
+**Authors** (4): Shaobo Ma, Chao Fang, Haikuo Shao, Zhongfeng Wang
+
+Large language models (LLMs) have revolutionized AI applications, yet their enormous computational demands severely limit deployment and real-time performance. Quantization methods can help reduce computational costs, however, attaining the extreme efficiency associated with ultra-low-bit quantized LLMs at arbitrary precision presents challenges on GPUs. This is primarily due to the limited support for GPU Tensor Cores, inefficient memory management, and inflexible kernel optimizations. To tackle these challenges, we propose a comprehensive acceleration scheme for arbitrary precision LLMs, namely APT-LLM. Firstly, we introduce a novel data format, bipolar-INT, which allows for efficient and lossless conversion with signed INT, while also being more conducive to parallel computation. We also develop a matrix multiplication (MatMul) method allowing for arbitrary precision by dismantling and reassembling matrices at the bit level. This method provides flexible precision and optimizes the utilization of GPU Tensor Cores. In addition, we propose a memory management system focused on data recovery, which strategically employs fast shared memory to substantially increase kernel execution speed and reduce memory access latency. Finally, we develop a kernel mapping method that dynamically selects the optimal configurable hyperparameters of kernels for varying matrix sizes, enabling optimal performance across different LLM architectures and precision settings. In LLM inference, APT-LLM achieves up to a 3.99$\times$ speedup compared to FP16 baselines and a 2.16$\times$ speedup over NVIDIA CUTLASS INT4 acceleration on RTX 3090. On RTX 4090 and H800, APT-LLM achieves up to 2.44$\times$ speedup over FP16 and 1.65$\times$ speedup over CUTLASS integer baselines.
+
+大型语言模型(LLMS)使AI 应用程序发生了革命性的变化, 但它们巨大的计算要求严重限制了部署速度和实时性能。 然而, 量化方法可以帮助降低计算成本, 然而, 任意精确地实现超低位量化的LLMS的极端效率会给GPU带来挑战。 这主要是由于对 GPU Tensor Corress 的支持有限, 记忆管理效率低下, 以及不灵活内核优化。 为了应对这些挑战, 我们提议了一个任意精密LMS( APT- LLM) 的全面加速计划。 首先, 我们引入了一个新的数据格式, 双极INT, 允许与注册的INT公司进行高效和无损的转换, 同时更有利于平行的计算。 我们还开发了一个矩阵增量(MatMultML)方法, 通过拆解和重新安装基底基矩阵, 将GPUTTTS TER值优化到GISOR 核心。 此外, 我们提议了一个记忆管理系统, 战略性地使用快速共享的存储, 提高CON- 速度速度速度速度速度, 并降低CLDODMLDFTFTM 30; 最后, 实现SLVDFSLIFTFTM 实现最佳的平流的平压30。
+
+---
+
+## Article 19
+### Title@2025-08-26 (2): TaiBai: A fully programmable brain-inspired processor with   topology-aware efficiency
+
+**Title**: TaiBai: A fully programmable brain-inspired processor with   topology-aware efficiency | TaiBai: Ein voll programmierbarer, hirninspirierter Prozessor mit topologischer Effizienz | TaiBai:一个完全可编程的、由大脑启发的、具有地貌意识效率的处理器 [2508.18961v1](http://arxiv.org/abs/2508.18961v1)
+
+**Authors** (9): Qianpeng Li, Yu Song, Xin Liu, Wenna Song, Boshi Zhao, Zhichao Wang, Aoxin Chen, Tielin Zhang, Liang Chen
+
+Brain-inspired computing has emerged as a promising paradigm to overcome the energy-efficiency limitations of conventional intelligent systems by emulating the brain's partitioned architecture and event-driven sparse computation. However, existing brain-inspired chips often suffer from rigid network topology constraints and limited neuronal programmability, hindering their adaptability. To address these challenges, we present TaiBai, an event-driven, programmable many-core brain-inspired processor that leverages temporal and spatial spike sparsity to minimize bandwidth and computational overhead. TaiBai chip contains three key features: First, a brain-inspired hierarchical topology encoding scheme is designed to flexibly support arbitrary network architectures while slashing storage overhead for large-scale networks; Second, a multi-granularity instruction set enables programmability of brain-like spiking neuron or synapses with various dynamics and on-chip learning rules; Third, a co-designed compiler stack optimizes task mapping and resource allocation. After evaluating across various tasks, such as speech recognition, ECG classification, and cross-day brain-computer interface decoding, we found spiking neural networks embedded on the TaiBai chip could achieve more than 200 times higher energy efficiency than a standard NVIDIA RTX 3090 GPU at a comparable accuracy. These results demonstrated its high potentiation as a scalable, programmable, and ultra-efficient solution for both multi-scale brain simulation and brain-inspired computation.
+
+由大脑启发的计算已经成为一个充满希望的范例,通过模拟大脑的分割结构和事件驱动的稀释计算,克服常规智能系统的节能限制。然而,现有的由大脑启发的芯片往往受到严格的网络地形限制和有限的神经编程能力的限制,妨碍了其适应性。为了应对这些挑战,我们向TaiBaii介绍一个由事件驱动、可编程的多核心脑启发处理器,它利用时间和空间的峰值宽度来尽量减少带宽和计算间接费用。TaiBai芯片包含三个关键特征:首先,一个由大脑启发的等级表层编码计划旨在灵活支持任意的网络结构,同时为大型网络削减存储的间接费用;第二,一个多层次的芯片指令使具有各种动态和在芯片上学习规则的像大脑一样的神经神经神经神经或神经神经神经神经的可编程具有可编程性;第三,一个共同设计的编程优化任务绘图和资源分配。在对各种任务进行评估后,例如语音识别、ECG分类和跨天的大脑界面界面界面连接,同时对大型网络进行灵活地支持,我们发现在高层次的SVI-30级的智能智能定序中可以实现一个比高级的智能级的智能级的智能级的智能定序图。
+
+---
+
+## Article 20
+### Title@2025-08-26 (2): SeDA: Secure and Efficient DNN Accelerators with Hardware/Software   Synergy
+
+**Title**: SeDA: Secure and Efficient DNN Accelerators with Hardware/Software   Synergy | SeDA: Sichere und effiziente DNN-Beschleuniger mit Hardware/Software-Synergie | SeDA: 具有硬件/软件协同效应的安全高效 DNN 加速器 [2508.18924v1](http://arxiv.org/abs/2508.18924v1)
+
+**Authors** (9): Wei Xuan, Zhongrui Wang, Lang Feng, Ning Lin, Zihao Xuan, Rongliang Fu, Tsung-Yi Ho, Yuzhong Jiao, Luhong Liang
+
+Ensuring the confidentiality and integrity of DNN accelerators is paramount across various scenarios spanning autonomous driving, healthcare, and finance. However, current security approaches typically require extensive hardware resources, and incur significant off-chip memory access overheads. This paper introduces SeDA, which utilizes 1) a bandwidth-aware encryption mechanism to improve hardware resource efficiency, 2) optimal block granularity through intra-layer and inter-layer tiling patterns, and 3) a multi-level integrity verification mechanism that minimizes, or even eliminates, memory access overheads. Experimental results show that SeDA decreases performance overhead by over 12% for both server and edge neural processing units (NPUs), while ensuring robust scalability.
+
+确保DNN加速器的保密性和完整性在包括自主驾驶、保健和财务等各种情景中至关重要。然而,目前的安全方法通常需要大量硬件资源,并产生大量的离芯内存连接间接费用。本文介绍了Seda, 该系统利用1) 带宽识别加密机制提高硬件资源效率,2) 通过层内和层间平铺模式优化块状颗粒,3) 一种多层次的完整核查机制,最大限度地减少甚至消除记忆存取间接费用。 实验结果表明,SDA将服务器和边缘神经处理器的性能管理降低12%以上,同时确保稳健的可扩展性。
+
+---
+
+## Article 21
+### Title@2025-08-26 (2): Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph   Learning
+
+**Title**: Beyond Tokens: Enhancing RTL Quality Estimation via Structural Graph   Learning | Jenseits von Tokens: Verbesserung der RTL-Qualitätsschätzung durch strukturelles Graphenlernen | 超越 Tokens: 通过结构图学习加强RTL质量估算 [2508.18730v1](http://arxiv.org/abs/2508.18730v1)
+
+**Authors** (7): Yi Liu, Hongji Zhang, Yiwen Wang, Dimitris Tsaras, Lei Chen, Mingxuan Yuan, Qiang Xu
+
+Estimating the quality of register transfer level (RTL) designs is crucial in the electronic design automation (EDA) workflow, as it enables instant feedback on key metrics like area and delay without the need for time-consuming logic synthesis. While recent approaches have leveraged large language models (LLMs) to derive embeddings from RTL code and achieved promising results, they overlook the structural semantics essential for accurate quality estimation. In contrast, the control data flow graph (CDFG) view exposes the design's structural characteristics more explicitly, offering richer cues for representation learning. In this work, we introduce a novel structure-aware graph self-supervised learning framework, StructRTL, for improved RTL design quality estimation. By learning structure-informed representations from CDFGs, our method significantly outperforms prior art on various quality estimation tasks. To further boost performance, we incorporate a knowledge distillation strategy that transfers low-level insights from post-mapping netlists into the CDFG predictor. Experiments show that our approach establishes new state-of-the-art results, demonstrating the effectiveness of combining structural learning with cross-stage supervision.
+
+在电子设计自动化工作流程中,估计登记册传输水平设计的质量至关重要,因为它能够对诸如领域和延迟等关键指标进行即时反馈,而无需花费时间的逻辑合成。虽然最近的办法利用了大型语言模型(LLMs)从RTL代码中嵌入,并取得了有希望的成果,但它们忽视了准确质量估计所必需的结构语义学。相比之下,控制数据流图(CDFG)视图更明确地暴露了设计的结构特征,为代表学习提供了更丰富的提示。在这项工作中,我们引入了一种新颖的有结构的图形自我监督的学习框架(StructRTL),以改进RTL的设计质量估计。通过从CDFG中学习结构知情的表述,我们的方法大大超越了各种质量估算任务先前的艺术。为了进一步提高绩效,我们引入了一种知识蒸馏战略,将绘图后网络列表中的低层次洞察力传输到CDFG预测器。实验显示,我们的方法建立了新的结构状态和跨阶段学习相结合的监督效果。
+
+---
+
+## Article 22
+### Title@2025-08-25 (1): OmniSim: Simulating Hardware with C Speed and RTL Accuracy for   High-Level Synthesis Designs
+
+**Title**: OmniSim: Simulating Hardware with C Speed and RTL Accuracy for   High-Level Synthesis Designs | OmniSim: Hardware-Simulation mit C-Geschwindigkeit und RTL-Genauigkeit für High-Level-Synthese-Designs | OmniSim: 用 C 速度和 RTL 精确度模拟高级合成设计硬件 [2508.19299v1](http://arxiv.org/abs/2508.19299v1)
+
+**Authors** (2): Rishov Sarkar, Cong Hao
+
+High-Level Synthesis (HLS) is increasingly popular for hardware design using C/C++ instead of Register-Transfer Level (RTL). To express concurrent hardware behavior in a sequential language like C/C++, HLS tools introduce constructs such as infinite loops and dataflow modules connected by FIFOs. However, efficiently and accurately simulating these constructs at C level remains challenging. First, without hardware timing information, functional verification typically requires slow RTL synthesis and simulation, as the current approaches in commercial HLS tools. Second, cycle-accurate performance metrics, such as end-to-end latency, also rely on RTL simulation. No existing HLS tool fully overcomes the first limitation. For the second, prior work such as LightningSim partially improves simulation speed but lacks support for advanced dataflow features like cyclic dependencies and non-blocking FIFO accesses.   To overcome both limitations, we propose OmniSim, a framework that significantly extends the simulation capabilities of both academic and commercial HLS tools. First, OmniSim enables fast and accurate simulation of complex dataflow designs, especially those explicitly declared unsupported by commercial tools. It does so through sophisticated software multi-threading, where threads are orchestrated by querying and updating a set of FIFO tables that explicitly record exact hardware timing of each FIFO access. Second, OmniSim achieves near-C simulation speed with near-RTL accuracy for both functionality and performance, via flexibly coupled and overlapped functionality and performance simulations.   We demonstrate that OmniSim successfully simulates eleven designs previously unsupported by any HLS tool, achieving up to 35.9x speedup over traditional C/RTL co-simulation, and up to 6.61x speedup over the state-of-the-art yet less capable simulator, LightningSim, on its own benchmark suite.
+
+高级合成(HLS)对于使用 C/C+++ 而不是 登记册- 传输级别( RTL) 的硬件设计越来越受欢迎。 为了用C/ C++ 这样的连续语言表达同时的硬件行为, HLS 工具引入了FIFO连接的无限环和数据流模块等结构。 然而,在 C 层面上,高效和准确地模拟这些结构仍然具有挑战性。 首先,没有硬件定时信息,功能核查通常需要缓慢的 RTL 合成和模拟,因为当前在商业HLS 工具中采用的方法。 其次, 周期- 精确的性能衡量标准,例如端- 端- 延迟, 也依赖 RTL 模拟。 没有现有的 HLS 工具能完全克服第一个限制。 对于第二个, 之前的工作, 如 LightningS 部分提高了模拟速度和数据流模式, 但是缺乏支持 高级数据流特性,例如循环依赖 FIFIFO 访问。 为了克服这两种限制,我们建议 OmniSimal Simal , 一个框架大大扩展到任何学术- 和商用 HLS 的模拟工具的模拟能力。
+
+---
+
+## Article 23
+### Title@2025-08-25 (1): Views: A Hardware-friendly Graph Database Model For Storing Semantic   Information
+
+**Title**: Views: A Hardware-friendly Graph Database Model For Storing Semantic   Information | Ansichten: Ein hardwarefreundliches Graphen-Datenbankmodell zum Speichern semantischer Informationen | 意见:硬件友好型图表数据库模型,用于存储语义信息 [2508.18123v1](http://arxiv.org/abs/2508.18123v1)
+
+**Authors** (4): Yanjun Yang, Adrian Wheeldon, Yihan Pan, Alex Serb
+
+The graph database (GDB) is an increasingly common storage model for data involving relationships between entries. Beyond its widespread usage in database industries, the advantages of GDBs indicate a strong potential in constructing symbolic artificial intelligences (AIs) and retrieval-augmented generation (RAG), where knowledge of data inter-relationships takes a critical role in implementation. However, current GDB models are not optimised for hardware acceleration, leading to bottlenecks in storage capacity and computational efficiency. In this paper, we propose a hardware-friendly GDB model, called Views. We show its data structure and organisation tailored for efficient storage and retrieval of graph data and demonstrate its equivalence to represent traditional graph representations. We further demonstrate its symbolic processing abilities in semantic reasoning and cognitive modelling with practical examples and provide a short perspective on future developments.
+
+图表数据库(GDB)是一个日益常见的数据存储模式,涉及条目之间的关系。GDB除了在数据库行业中广泛使用外,其优点表明,在构建象征性人工智能和检索增强生成(RAG)方面有很大的潜力,而数据相互关系知识在实施过程中发挥着关键作用。然而,当前的GDB模型对于硬件加速来说并不理想,导致存储能力和计算效率的瓶颈。我们在本文件中提议了一个硬件友好的GDB模型,称为Vision。我们展示了它为高效存储和检索图表数据而专门设计的数据结构和组织,并展示了它代表传统图形的等同性。我们还在语义推理和认知建模中展示了它象征性的处理能力,并举出了实际例子,为未来发展提供了简短的视角。
+
+---
+
+## Article 24
+### Title@2025-08-25 (1): Linear Layouts: Robust Code Generation of Efficient Tensor Computation   Using $\mathbb{F}_2$
+
+**Title**: Linear Layouts: Robust Code Generation of Efficient Tensor Computation   Using $\mathbb{F}_2$ | Lineare Layouts: Robuste Codegenerierung effizienter Tensor-Computation mit $\mathbb{F}_2$ | 线性布局: 使用 $\ mathbb{F @ @ @ @ @ @% 2$ 的 有效天文计算强力代码生成 [2505.23819v2](http://arxiv.org/abs/2505.23819v2)
+
+**Authors** (11): Keren Zhou, Mario Lezcano, Adam Goucher, Akhmed Rakhmati, Jeff Niu, Justin Lebar, Pawel Szczerbuk, Peter Bell, Phil Tillet, Thomas Raoux, Zahi Moudallal
+
+Efficient tensor computation is a cornerstone of modern deep learning (DL) workloads, yet existing approaches struggle to achieve flexible and performant design and implementation of tensor layouts -- mappings between logical tensors and hardware resources. The increasing complexity of DL algorithms and hardware demands a generic and systematic approach to handling tensor layouts. In this work, we introduce Linear Layouts, a novel approach that models tensor layouts using linear algebra over $\mathbb{F}_2$. By representing tensor layouts as binary matrices acting on the bits of the hardware representation, our approach enables a generic layout definition -- as opposed to the classical case-by-case approach -- and allows for generic layout-to-layout conversions, eliminating the quadratic explosion that plagues existing solutions. We integrate linear layouts with Triton and demonstrate their effectiveness in optimizing individual Triton operators as well as kernels written in Triton. We also show that linear layouts reduce engineering effort in the compiler backend while fixing several bugs in Triton's legacy layout system.
+
+高效高压计算是现代深层学习(DL)工作量的基石,然而,现有方法在努力实现弹性和性能设计及实施高压布局 -- -- 逻辑高压和硬件资源之间的映射。 DL算法和硬件的日益复杂性要求用通用和系统的方法处理高压布局。在这项工作中,我们引入了线形布局,这是一种新型方法,即使用以$\mathbb{F2$以上的线性代数来模拟高压布局。通过将高压布局作为二进制矩阵,在硬件表达方式的位子上发挥作用,我们的方法使通用布局定义 -- -- 不同于典型的个案处理方法 -- -- 得以进行通用布局定义,并允许通用布局到布局转换,消除困扰现有解决方案的四面爆炸。我们将线形布局与Triton结合起来,并展示其在优化单个Triton操作员以及在Triton书写的内核内核内核内核内壳方面的效力。我们还表明,线式布局减少了汇编器后端的工程努力,同时确定了Triton的遗留布局系统中的若干错误布局系统。
+
+---
+
+## Article 25
+### Title@2025-08-25 (1): Anatomy of the gem5 Simulator: AtomicSimpleCPU, TimingSimpleCPU, O3CPU,   and Their Interaction with the Ruby Memory System
+
+**Title**: Anatomy of the gem5 Simulator: AtomicSimpleCPU, TimingSimpleCPU, O3CPU,   and Their Interaction with the Ruby Memory System | Anatomie des gem5 Simulators: AtomicSimpleCPU, TimingSimpleCPU, O3CPU und deren Interaktion mit dem Ruby Memory System | 宝石模拟器的解剖学5 :原子微小微粒、定时、微小微粒、O3CPU及其与鲁比记忆系统的互动 [2508.18043v1](http://arxiv.org/abs/2508.18043v1)
+
+**Authors** (2): Johan Söderström, Yuan Yao
+
+gem5 is a popular modular-based computer system simulator, widely used in computer architecture research and known for its long simulation time and steep learning curve. This report examines its three major CPU models: the AtomicSimpleCPU (AS CPU), the TimingSimpleCPU (TS CPU), the Out-of-order (O3) CPU, and their interactions with the memory subsystem. We provide a detailed anatomical overview of each CPU's function call-chains and present how gem5 partitions its execution time for each simulated hardware layer.   We perform our analysis using a lightweight profiler built on Linux's perf_event interface, with user-configurable options to target specific functions and examine their interactions in detail. By profiling each CPU across a wide selection of benchmarks, we identify their software bottlenecks. Our results show that the Ruby memory subsystem consistently accounts for the largest share of execution time in the sequential AS and TS CPUs, primarily during the instruction fetch stage. In contrast, the O3 CPU spends a relatively smaller fraction of time in Ruby, with most of its time devoted to constructing instruction instances and the various pipeline stages of the CPU.   We believe that the anatomical view of each CPU's execution flow is valuable for educational purposes, as it clearly illustrates the interactions among simulated components. These insights form a foundation for optimizing gem5's performance, particularly for the AS, TS, and O3 CPUs. Moreover, our framework can be readily applied to analyze other gem5 components or to develop and evaluate new models.
+
+宝石5是一个流行的模块化计算机系统模拟器,广泛用于计算机架构研究,以其长期模拟时间和陡峭的学习曲线著称。本报告审查了其三大CPU模型:原子SupeCPU(AS CPU),TiningSpeCPU(TS CPU),断序(O3) CPU及其与记忆子的互动。我们提供了每个CPU功能调试链的详细解剖式概览,并介绍了宝石5如何分割每个模拟硬件层的执行时间。相比之下,我们使用Linux perf_event 界面上建立的轻量化剖析器进行分析,使用用户可配置的选项来针对特定功能并详细审查它们的互动。通过对每个CPU进行广泛选择,我们找出了它们的软件瓶颈。我们的结果显示,Ruby记忆子系统在顺序 AS 和 TSCPUs 的调试运行时间中所占的最大比例,主要是在调试阶段。O3 CPU在鲁比的界面中花费了相对小的一小部分时间,大部分时间用于构建C的运行过程。
+
+---
+
+## Article 26
+### Title@2025-08-25 (1): LLMulator: Generalizable Cost Modeling for Dataflow Accelerators with   Input-Adaptive Control Flow
+
+**Title**: LLMulator: Generalizable Cost Modeling for Dataflow Accelerators with   Input-Adaptive Control Flow | LLMulator: Generalisierbare Kostenmodellierung für Datenflussbeschleuniger mit Input-Adaptive Control Flow | LLMUL 计算器:投入-适应控制流程数据流加速器的通用成本建模 [2508.17826v1](http://arxiv.org/abs/2508.17826v1)
+
+**Authors** (5): Kaiyan Chang, Wenlong Zhu, Shengwen Liang, Huawei Li, Ying Wang
+
+Accurate and fast performance prediction for dataflow-based accelerators is vital for efficient hardware design and design space exploration, yet existing methods struggle to generalize across architectures, applications, and input-dependent control flows. We present LLMulator, a progressive numeric modeling framework leveraging the program semantic knowledge of pre-trained large language models (LLMs) for robust, hardware- and application-aware prediction. Our numeric model treats performance values as categorical token sequences, enabling range-agnostic estimates and confidence-aware predictions for unseen applications. To handle input-dependent control flows, we introduce a reinforcement learning-based dynamic calibration method, reducing cycle prediction error by 9.7% over static models and converging to 11.2% error after a few iterations. For cross-hardware generalization, we develop a progressive data augmentation strategy that generates diverse datasets covering multi-level dataflow structures, memory parameters, and loop mapping primitives, significantly boosting prediction accuracy across architectures and configurations.
+
+对基于数据流加速器的准确和快速性能预测对于高效的硬件设计和设计空间探索至关重要,但现有的方法很难在结构、应用和依赖投入的控制流之间实现总体化。我们展示了LLMulator,这是一个渐进的数学模型框架,它利用了预先训练的大型语言模型(LLMs)的语义学知识来进行强力、硬件和应用认知的预测。我们的数字模型将性能值作为绝对象征性序列处理,允许对范围进行不可测的估算和对未知应用的可信度预测。为了处理基于投入的控制流,我们采用了一种基于学习的强化动态校准方法,将周期预测误差比静态模型减少9.7%,并在几处迭代之后将周期误差合并到11.2%。。关于跨硬件的概括化,我们开发了一种渐进的数据增强战略,它生成涵盖多层次数据流结构、记忆参数和环图原始数据,大大提高了各个结构和配置的预测准确度。
+
+---
+
+## Article 27
+### Title@2025-08-25 (1): In-Memory Computing Enabled Deep MIMO Detection to Support   Ultra-Low-Latency Communications
+
+**Title**: In-Memory Computing Enabled Deep MIMO Detection to Support   Ultra-Low-Latency Communications | In-Memory Computing ermöglichte eine tiefe MIMO-Erkennung zur Unterstützung der Ultra-Low-Latenz-Kommunikation | 支持超低寿命通信 [2508.17820v1](http://arxiv.org/abs/2508.17820v1)
+
+**Authors** (3): Tingyu Ding, Qunsong Zeng, Kaibin Huang
+
+The development of sixth-generation (6G) mobile networks imposes unprecedented latency and reliability demands on multiple-input multiple-output (MIMO) communication systems, a key enabler of high-speed radio access. Recently, deep unfolding-based detectors, which map iterative algorithms onto neural network architectures, have emerged as a promising approach, combining the strengths of model-driven and data-driven methods to achieve high detection accuracy with relatively low complexity. However, algorithmic innovation alone is insufficient; software-hardware co-design is essential to meet the extreme latency requirements of 6G (i.e., 0.1 milliseconds). This motivates us to propose leveraging in-memory computing, which is an analog computing technology that integrates memory and computation within memristor circuits, to perform the intensive matrix-vector multiplication (MVM) operations inherent in deep MIMO detection at the nanosecond scale. Specifically, we introduce a novel architecture, called the deep in-memory MIMO (IM-MIMO) detector, characterized by two key features. First, each of its cascaded computational blocks is decomposed into channel-dependent and channel-independent neural network modules. Such a design minimizes the latency of memristor reprogramming in response to channel variations, which significantly exceeds computation time. Second, we develop a customized detector-training method that exploits prior knowledge of memristor-value statistics to enhance robustness against programming noise. Furthermore, we conduct a comprehensive analysis of the IM-MIMO detector's performance, evaluating detection accuracy, processing latency, and hardware complexity. Our study quantifies detection error as a function of various factors, including channel noise, memristor programming noise, and neural network size.
+
+六代(6G)移动网络的开发给多投入多输出(MIMO)多输出(MIMO)通信系统带来了前所未有的延迟性和可靠性要求,这是高速无线电接入的关键推进器。最近,将迭代算法映射到神经网络结构的深层发展中检测器,作为一种充满希望的方法,结合模型驱动和数据驱动方法的优势,在相对较低的复杂度下实现高检测准确性。然而,光是算创新是不够的;软件硬件联合设计对于满足6G(即0.1毫秒)多输出(MIMO)通信系统的极端延迟性要求至关重要。这促使我们提出利用模拟计算,这是一种模拟计算技术,将记忆和计算整合到神经网络结构结构架构的模拟计算技术,在纳米第二规模的深度检测中,我们引入了一个新的结构,称之为深层的 mIMO(IMO)程序编程(IMIMO)探测器,以两个关键特征为特征。首先,每个其级定序的轨道探测器探测器探测器的探测探测速度, 包括前导线的测试模型的演算模型的演算变变。
+
+---
+
+## Article 28
+### Title@2025-08-25 (1): TLGLock: A New Approach in Logic Locking Using Key-Driven Charge   Recycling in Threshold Logic Gates
+
+**Title**: TLGLock: A New Approach in Logic Locking Using Key-Driven Charge   Recycling in Threshold Logic Gates | TLGLock: Ein neuer Ansatz bei der Logic Locking Verwendung von Key-Driven Charge Recycling in Threshold Logic Gates | TLGLock:在阈值逻辑门使用关键驱动电荷再循环的逻辑锁定新办法 [2508.17809v1](http://arxiv.org/abs/2508.17809v1)
+
+**Authors** (2): Abdullah Sahruri, Martin Margala
+
+Logic locking remains one of the most promising defenses against hardware piracy, yet current approaches often face challenges in scalability and design overhead. In this paper, we present TLGLock, a new design paradigm that leverages the structural expressiveness of Threshold Logic Gates (TLGs) and the energy efficiency of charge recycling to enforce key-dependent functionality at the gate level. By embedding the key into the gate's weighted logic and utilizing dynamic charge sharing, TLGLock provides a stateless and compact alternative to conventional locking techniques. We implement a complete synthesis-to-locking flow and evaluate it using ISCAS, ITC, and MCNC benchmarks. Results show that TLGLock achieves up to 30% area, 50% delay, and 20% power savings compared to latch-based locking schemes. In comparison with XOR and SFLL-HD methods, TLGLock offers up to 3x higher SAT attack resistance with significantly lower overhead. Furthermore, randomized key-weight experiments demonstrate that TLGLock can reach up to 100% output corruption under incorrect keys, enabling tunable security at minimal cost. These results position TLGLock as a scalable and resilient solution for secure hardware design.
+
+逻辑锁定仍然是防止硬件盗版的最有希望的防御手段之一,然而,目前的做法往往在可缩放性和设计管理费用方面面临着挑战。在本文中,我们介绍了TLGLock,这是一个新的设计范例,它利用了临界逻辑门(TLGs)的结构性表现和收费回收的能源效率,在门一级执行关键依赖功能。TLGLock将钥匙嵌入大门的加权逻辑,并利用动态电荷共享,提供了一种无国籍和紧凑的常规锁定技术的替代方法。我们实施了完整的合成锁定流程,并使用ISCAS、ITC和MCNC基准对其进行了评估。结果显示,TLGLock在高达30%的区域、50%的延迟和20%的节能率,与基于拉特的锁计划相比,可以实现30%的区域。与XOR和SFLLL-HD方法相比,TLock提供了高达3x的SAT攻击抵抗力,高得多的顶部。此外,随机化的关键重量实验表明,TLock可以在错误的钥匙下达到100%的产出腐败程度,使Talgsblegle 安全设计成本。
+
+---
+
+## Article 29
+### Title@2025-08-25 (1): Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via   Bayesian Optimization
+
+**Title**: Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via   Bayesian Optimization | Code Difference Geführtes Fuzzing für FPGA Logic Synthesis Compilers über Bayesian Optimization | 通过Bayesian优化化为 FPGA 逻辑合成汇编者 [2508.17713v1](http://arxiv.org/abs/2508.17713v1)
+
+**Authors** (8): Zhihao Xu, Shikai Guo, Guilin Zhao, Peiyu Zou, Siwen Wang, Qian Ma, Hui Li, Furui Zhan
+
+Field Programmable Gate Arrays (FPGAs) play a crucial role in Electronic Design Automation (EDA) applications, which have been widely used in safety-critical environments, including aerospace, chip manufacturing, and medical devices. A critical step in FPGA development is logic synthesis, which enables developers to translate their software designs into hardware net lists, which facilitates the physical implementation of the chip, detailed timing and power analysis, gate-level simulation, test vector generation, and optimization and consistency checking. However, bugs or incorrect implementations in FPGA logic synthesis compilers may lead to unexpected behaviors in target wapplications, posing security risks. Therefore, it is crucial to eliminate such bugs in FPGA logic synthesis compilers. The effectiveness of existing works is still limited by its simple, blind mutation strategy. To address this challenge, we propose a guided mutation strategy based on Bayesian optimization called LSC-Fuzz to detect bugs in FPGA logic synthesis compilers. Specifically, LSC-Fuzz consists of three components: the test-program generation component, the Bayesian diversity selection component, and the equivalent check component. By performing test-program generation and Bayesian diversity selection, LSC-Fuzz generates diverse and complex HDL code, thoroughly testing the FPGA logic synthesis compilers using equivalent check to detect bugs. Through three months, LSC-Fuzz has found 16 bugs, 12 of these has been confirmed by official technical support.
+
+外地可编程门阵列(FPGAs)在电子设计自动化(EDA)应用中发挥着关键作用,这些应用在安全关键环境中被广泛使用,包括航空航天、芯片制造和医疗装置。FPGA发展的一个关键步骤是逻辑合成,使开发商能够将其软件设计转化为硬件网列表,从而便利芯片的物理实施、详细的定时和功率分析、门级模拟、测试矢量生成以及优化和一致性检查。然而,FPGA逻辑合成汇编器中的错误或不正确执行可能导致目标应用程序出现意外行为,从而带来安全风险。因此,在FPGA逻辑合成器的合成器中消除此类错误至关重要。现有工作的效力仍然受到其简单、盲目突变战略的限制。为了应对这一挑战,我们提议以Bayesian优化(称为LSC-Fzz)为基础,在FF3级逻辑合成合成器中检测错误。具体来说,LSC-FSC-F级的测试、BayP- 多样性选择部分和FS-LSBS-CR 进行测试,这些测试和F级的模拟系统测试、LVCR-CRC-C-C-C-C-C-C-C-C-CR-C-CR-CR-C-CR-C-C-C-C-C-C-C-C-SD-C-C-C-C-C-CR-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-CR-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-L-C-C-C-C-L-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C
+
+---
+
+## Article 30
+### Title@2025-08-25 (1): A2HCoder: An LLM-Driven Coding Agent for Hierarchical Algorithm-to-HDL   Translation
+
+**Title**: A2HCoder: An LLM-Driven Coding Agent for Hierarchical Algorithm-to-HDL   Translation | A2HCoder: Ein LLM-getriebener Coding Agent für Hierarchische Algorithmen-zu-HDL-Übersetzung | A2HAoder: 高级算法到高分辨法翻译LLM-Driven编码代理人 [2508.10904v2](http://arxiv.org/abs/2508.10904v2)
+
+**Authors** (4): Jie Lei, Ruofan Jia, J. Andrew Zhang, Hao Zhang
+
+In wireless communication systems, stringent requirements such as ultra-low latency and power consumption have significantly increased the demand for efficient algorithm-to-hardware deployment. However, a persistent and substantial gap remains between algorithm design and hardware implementation. Bridging this gap traditionally requires extensive domain expertise and time-consuming manual development, due to fundamental mismatches between high-level programming languages like MATLAB and hardware description languages (HDLs) such as Verilog-in terms of memory access patterns, data processing manners, and datatype representations. To address this challenge, we propose A2HCoder: a Hierarchical Algorithm-to-HDL Coding Agent, powered by large language models (LLMs), designed to enable agile and reliable algorithm-to-hardware translation. A2HCoder introduces a hierarchical framework that enhances both robustness and interpretability while suppressing common hallucination issues in LLM-generated code. In the horizontal dimension, A2HCoder decomposes complex algorithms into modular functional blocks, simplifying code generation and improving consistency. In the vertical dimension, instead of relying on end-to-end generation, A2HCoder performs step-by-step, fine-grained translation, leveraging external toolchains such as MATLAB and Vitis HLS for debugging and circuit-level synthesis. This structured process significantly mitigates hallucinations and ensures hardware-level correctness. We validate A2HCoder through a real-world deployment case in the 5G wireless communication domain, demonstrating its practicality, reliability, and deployment efficiency.
+
+在无线通信系统中,超低悬浮度和电力消耗等严格要求大大增加了对高效算法到硬件部署的需求,然而,在算法设计和硬件实施之间仍然存在持续和巨大的差距。缩小这一差距传统上需要广泛的域内专门知识和耗时的手工开发,因为诸如MATLAB和硬件描述语言(HDLs)等高层次编程语言在存储存取模式、数据处理方式和数据类型表达方面存在着根本的不匹配,为了应对这一挑战,我们提议A2Hoter:一个高等级的Agorithm到HDL编码域域名,由大型语言模型(LLMS)提供动力,目的是便于灵活和可靠的算法到硬件翻译。A2HCoder引入一个等级框架,既加强稳健性和可解释性,同时又抑制LLMMDM代码中常见的幻觉问题。在横向层面,A2HCoder解将复杂的算法纳入模块功能组,简化代码生成,并改进一致性。在纵向层面,而不是依靠最终的部署水平的AT-ADLCS级的升级流程,通过SLADR的升级,通过SLU化和逐步的流程进行。
+
+---
+
+## Article 31
+### Title@2025-08-25 (1): Characterizing the Behavior of Training Mamba-based State Space Models   on GPUs
+
+**Title**: Characterizing the Behavior of Training Mamba-based State Space Models   on GPUs | Charakterisierung des Verhaltens der Ausbildung von Mamba-basierten State Space Models auf GPUs | 定性培训曼巴基地国家GPU空间模型培训行为 [2508.17679v1](http://arxiv.org/abs/2508.17679v1)
+
+**Authors** (4): Trinayan Baruah, Kaustubh Shivdikar, Sara Prescott, David Kaeli
+
+Mamba-based State Space Models (SSM) have emerged as a promising alternative to the ubiquitous transformers. Despite the expressive power of transformers, the quadratic complexity of computing attention is a major impediment to scaling performance as we increase the sequence length. SSMs provide an alternative path that addresses this problem, reducing the computational complexity requirements of self-attention with novel model architectures for different domains and fields such as video, text generation and graphs. Thus, it is important to characterize the behavior of these emerging workloads on GPUs and understand their requirements during GPU microarchitectural design. In this work we evaluate Mamba-based SSMs and characterize their behavior during training on GPUs. We construct a workload suite that offers representative models that span different model architectures. We then use this suite to analyze the architectural implications of running Mamba-based SSMs on GPUs. Our work sheds new light on potential optimizations to continue scaling the performance for such models.
+
+以 Mamba 为基础的国家空间模型(SSM) 已成为无处不在的变压器的一种很有希望的替代物。 尽管变压器具有显眼力,但计算注意力的二次复杂性是随着我们增加序列长度而提高性能的一个主要障碍。 SSMM提供了一种解决这一问题的替代路径,减少了与视频、文本生成和图表等不同领域和领域的新模型结构进行自我关注的计算复杂性要求。因此,必须描述这些正在形成的GPU系统工作量的行为,并理解其在GPU微观构造设计期间的需求。 在这项工作中,我们评估以 Mamba 为基础的 SMS 系统,并在GPU培训期间描述其行为特征。我们建立了一个工作量套件,提供跨越不同模型的具有代表性的模型。我们随后利用这套套件来分析在GPUs上运行 Mamba 以MSM 为基础的 SMSMs 的建筑影响。我们的工作为继续提升这些模型的性能的潜在优化提供了新的线索。
+
+---
+
+## Article 32
+### Title@2025-08-25 (1): A 28nm 1.80Mb/mm2 Digital/Analog Hybrid SRAM-CIM Macro Using 2D-Weighted   Capacitor Array for Complex Number Mac Operations
+
+**Title**: A 28nm 1.80Mb/mm2 Digital/Analog Hybrid SRAM-CIM Macro Using 2D-Weighted   Capacitor Array for Complex Number Mac Operations | Ein 28nm 1,80Mb/mm2 Digital/Analog Hybrid SRAM-CIM Makro mit 2D-gewichteten Kondensator Array für komplexe Anzahl Mac Operationen | 1.80Mb/mm2 数字/大气混合 SRAM-CIM 宏,使用 2D 光重电容阵列进行复杂数字麦克风操作 [2508.17562v1](http://arxiv.org/abs/2508.17562v1)
+
+**Authors** (5): Shota Konno, Che-Kai Liu, Sigang Ryu, Samuel Spetalnick, Arijit Raychowdhury
+
+A 28nm dense 6T-SRAM Digital(D)/Analog(A) Hybrid compute-in-memory (CIM) macro supporting complex num-ber MAC operation is presented. By introducing a 2D-weighted Capacitor Array, a hybrid configuration is adopted where digital CIM is applied only to the upper bits and ana-log CIM is applied to the rest, without the need for input DACs resulting in improved accuracy and lower area overhead. The CIM prototype macro achieves 1.80 Mb/mm2 memory density and 0.435% RMS error. Complex CIM unit outputs real and imaginary part with a single conversion to reduce latency.
+
+演示了28纳米密度 6T-SRAM 数字(D)/Analog(A)混合计算模拟(CIM)宏支持复合纳米-纤维MAC 操作。通过引入 2D 加权电动阵列,采用了混合配置,数字CIM 仅应用于上部位,对其余部分则采用反向CIM,而不需要输入的发援会,从而提高精确度和降低区域管理费用。CIM 原型宏达到1.80 Mb/mm2 内存密度和0.435% RMS 错误。复杂的 CIM 单位输出真实和想象部分,单次转换以降低延时率。
+
+---
+
+## Article 33
+### Title@2025-08-24 (7): VeriCoder: Enhancing LLM-Based RTL Code Generation through Functional   Correctness Validation
+
+**Title**: VeriCoder: Enhancing LLM-Based RTL Code Generation through Functional   Correctness Validation | VeriCoder: Verbesserung der LLM-basierten RTL-Code-Generierung durch Funktionskorrektheitsvalidierung | VeriCoder:通过功能正确性验证加强基于LLM的RTL码生成 [2504.15659v2](http://arxiv.org/abs/2504.15659v2)
+
+**Authors** (8): Anjiang Wei, Huanmi Tan, Tarun Suresh, Daniel Mendoza, Thiago S. F. X. Teixeira, Ke Wang, Caroline Trippel, Alex Aiken
+
+Recent advances in Large Language Models (LLMs) have sparked growing interest in applying them to Electronic Design Automation (EDA) tasks, particularly Register Transfer Level (RTL) code generation. While several RTL datasets have been introduced, most focus on syntactic validity rather than functional validation with tests, leading to training examples that compile but may not implement the intended behavior. We present VERICODER, a model for RTL code generation fine-tuned on a dataset validated for functional correctness. This fine-tuning dataset is constructed using a novel methodology that combines unit test generation with feedback-directed refinement. Given a natural language specification and an initial RTL design, we prompt a teacher model (GPT-4o-mini) to generate unit tests and iteratively revise the RTL design based on its simulation results using the generated tests. If necessary, the teacher model also updates the tests to ensure they comply with the natural language specification. As a result of this process, every example in our dataset is functionally validated, consisting of a natural language description, an RTL implementation, and passing tests. Fine-tuned on this dataset of 125,777 examples, VERICODER achieves state-of-the-art metrics in functional correctness on VerilogEval and RTLLM, with relative gains of up to 71.7% and 27.4%, respectively. An ablation study further shows that models trained on our functionally validated dataset outperform those trained on functionally non-validated datasets, underscoring the importance of high-quality datasets in RTL code generation. Our code, data, and models are publicly available at https://github.com/Anjiang-Wei/VeriCoder
+
+大语言模型(LLMS)最近的进展激发了人们越来越有兴趣将其应用于电子设计自动化任务(EDA),特别是登记册传输级别代码的生成。虽然引入了几个 RTL 数据集,但大多侧重于合成有效性,而不是功能验证,通过测试,导致培训实例汇编但可能不执行预期行为。我们展示了VERICODER,这是RTL 代码生成模型,根据功能正确性验证的数据集进行微调。这个微调数据集是使用一种新方法构建的,该方法将单位测试生成与反馈导向的改进结合起来。鉴于自然功能性语言规格和初始RTLDL设计,我们推动了一个教师模型(GPT-4o-mini),以生成单位测试,而不是功能性验证为主,并基于模拟结果,利用生成的测试,对RTLLDER进行迭代号模型更新测试,以确保它们符合自然语言规范。由于这一过程,我们数据集中的每个示例都是功能更新的,由自然语言描述、RTLL执行和通过测试的 RTDRDR 的相对价值模型来进行验证。我们数据生成了12RDRA的精确数据模型,在VADRDRDRDRDR 数据生成中,在12 Rest的成绩分析结果中分别的成绩中,这些模型中分别显示了。
+
+---
+
+## Article 34
+### Title@2025-08-24 (7): Random-phase Gaussian Wave Splatting for Computer-generated Holography
+
+**Title**: Random-phase Gaussian Wave Splatting for Computer-generated Holography | Random-Phase Gaussian Wave Splatting für computergenerierte Holographie | 计算机生成全传的随机阶段高山波喷射 [2508.17480v1](http://arxiv.org/abs/2508.17480v1)
+
+**Authors** (6): Brian Chao, Jacqueline Yang, Suyeon Choi, Manu Gopakumar, Ryota Koiso, Gordon Wetzstein
+
+Holographic near-eye displays offer ultra-compact form factors for virtual and augmented reality systems, but rely on advanced computer-generated holography (CGH) algorithms to convert 3D scenes into interference patterns that can be displayed on spatial light modulators (SLMs). Gaussian Wave Splatting (GWS) has recently emerged as a powerful CGH paradigm that allows for the conversion of Gaussians, a state-of-the-art neural 3D representation, into holograms. However, GWS assumes smooth-phase distributions over the Gaussian primitives, limiting their ability to model view-dependent effects and reconstruct accurate defocus blur, and severely under-utilizing the space-bandwidth product of the SLM. In this work, we propose random-phase GWS (GWS-RP) to improve bandwidth utilization, which has the effect of increasing eyebox size, reconstructing accurate defocus blur and parallax, and supporting time-multiplexed rendering to suppress speckle artifacts.   At the core of GWS-RP are (1) a fundamentally new wavefront compositing procedure and (2) an alpha-blending scheme specifically designed for random-phase Gaussian primitives, ensuring physically correct color reconstruction and robust occlusion handling. Additionally, we present the first formally derived algorithm for applying random phase to Gaussian primitives, grounded in rigorous statistical optics analysis and validated through practical near-eye display applications. Through extensive simulations and experimental validations, we demonstrate that these advancements, collectively with time-multiplexing, uniquely enables full-bandwith light field CGH that supports accurate accurate parallax and defocus, yielding state-of-the-art image quality and perceptually faithful 3D holograms for next-generation near-eye displays.
+
+近视全息显示显示为虚拟和强化现实系统提供了超复杂的形式要素,但依赖先进的计算机生成的全息学算法,将三维场景转换成干扰模式,这些模式可以在空间光调器(SLMs)上展示。 高山波螺旋(GWS)最近作为一个强大的CGH模式出现,允许将高山(一个最先进的神经3D代表制)转换成全息图。然而,GWS在高山原始地带上采用平滑的分布,限制了他们模拟依赖效应的能力,并重建了精确的瞄准模糊度,使3DSM(CWS)图像转换成干扰模式。在这项工作中,我们提出了随机阶段GWS(GWS-RP)来改善带宽度利用,其效果是提高眼箱尺寸,重建精确的模糊度和负压度,以及支持时间变异性地粉,在GWS-RP(G-R)核心领域(1) 将直径直观应用新的直观直径直观直径直径直径直径直径直径直径直径的直径直径直径直径直径直径直径直径直的直径直径直径直判,并直径直直直直直直的直直直直直直直直直直的平压的平压的平压的平压的平压的平压平压的平流的平流的平流的平面的平面的平面平面平面的平面的平面的平面的平面平面图。
+
+---
+
+## Article 35
+### Title@2025-08-23 (6): e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact   Solving
+
+**Title**: e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact   Solving | e-Boost: Erhöhte E-Graph-Extraktion mit adaptiver Heuristik und exakter Lösung | e-加速:用适应性富营养性和精密溶解法促进电子格导抽取 [2508.13020v2](http://arxiv.org/abs/2508.13020v2)
+
+**Authors** (6): Jiaqi Yin, Zhan Song, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu
+
+E-graphs have attracted growing interest in many fields, particularly in logic synthesis and formal verification. E-graph extraction is a challenging NP-hard combinatorial optimization problem. It requires identifying optimal terms from exponentially many equivalent expressions, serving as the primary performance bottleneck in e-graph based optimization tasks. However, traditional extraction methods face a critical trade-off: heuristic approaches offer speed but sacrifice optimality, while exact methods provide optimal solutions but face prohibitive computational costs on practical problems. We present e-boost, a novel framework that bridges this gap through three key innovations: (1) parallelized heuristic extraction that leverages weak data dependence to compute DAG costs concurrently, enabling efficient multi-threaded performance without sacrificing extraction quality; (2) adaptive search space pruning that employs a parameterized threshold mechanism to retain only promising candidates, dramatically reducing the solution space while preserving near-optimal solutions; and (3) initialized exact solving that formulates the reduced problem as an Integer Linear Program with warm-start capabilities, guiding solvers toward high-quality solutions faster.   Across the diverse benchmarks in formal verification and logic synthesis fields, e-boost demonstrates 558x runtime speedup over traditional exact approaches (ILP) and 19.04% performance improvement over the state-of-the-art extraction framework (SmoothE). In realistic logic synthesis tasks, e-boost produces 7.6% and 8.1% area improvements compared to conventional synthesis tools with two different technology mapping libraries. e-boost is available at https://github.com/Yu-Maryland/e-boost.
+
+电子地图在许多领域引起了越来越多的兴趣,特别是在逻辑合成和正式核查方面。电子地图提取是一个具有挑战性的NP硬组合优化问题。它需要从成倍数的等效表达式中找出最佳术语,作为电子地图优化任务中的主要性能瓶颈。然而,传统提取方法面临一个关键的权衡:超速方法提供了速度,但牺牲了最佳性能,而精确方法则提供了最佳解决方案,但在实际问题上却面临令人难以承受的计算成本。我们提出了一个新的框架,即电子加速,通过三个关键创新来弥合这一差距:(1) 平行的超速提取,利用数据依赖性弱来同时计算DAG成本,使高效的多读化性能能够同时牺牲提取质量;(2) 适应性搜索空间运行,使用参数化门槛机制只保留有希望的候选人,大幅缩小解决方案空间,同时保留近乎最佳的解决方案;(3) 初始化精确解决方案,将问题描述为具有温暖启动能力的Interger线性程序,指导解决方案实现高质量改进。 超越了正式和逻辑化电子合成领域的不同基准,e-broupal-ral-ral-ral-ral-ral-ral-ral-rass-ral-ral-lax-laxxx-lax-lax-laxxxxx
+
+---
+
+## Article 36
+### Title@2025-08-23 (6): Optimizing Neural Networks with Learnable Non-Linear Activation   Functions via Lookup-Based FPGA Acceleration
+
+**Title**: Optimizing Neural Networks with Learnable Non-Linear Activation   Functions via Lookup-Based FPGA Acceleration | Optimierung neuraler Netzwerke mit erlernbaren nicht-linearen Aktivierungsfunktionen über Lookup-basierte FPGA-Beschleunigung | 通过基于查找的 FPGA 加速优化具有可学习的非长期激活功能的神经网络 [2508.17069v1](http://arxiv.org/abs/2508.17069v1)
+
+**Authors** (6): Mengyuan Yin, Benjamin Chen Ming Choong, Chuping Qu, Rick Siow Mong Goh, Weng-Fai Wong, Tao Luo
+
+Learned activation functions in models like Kolmogorov-Arnold Networks (KANs) outperform fixed-activation architectures in terms of accuracy and interpretability; however, their computational complexity poses critical challenges for energy-constrained edge AI deployments. Conventional CPUs/GPUs incur prohibitive latency and power costs when evaluating higher order activations, limiting deployability under ultra-tight energy budgets. We address this via a reconfigurable lookup architecture with edge FPGAs. By coupling fine-grained quantization with adaptive lookup tables, our design minimizes energy-intensive arithmetic operations while preserving activation fidelity. FPGA reconfigurability enables dynamic hardware specialization for learned functions, a key advantage for edge systems that require post-deployment adaptability. Evaluations using KANs - where unique activation functions play a critical role - demonstrate that our FPGA-based design achieves superior computational speed and over $10^4$ times higher energy efficiency compared to edge CPUs and GPUs, while maintaining matching accuracy and minimal footprint overhead. This breakthrough positions our approach as a practical enabler for energy-critical edge AI, where computational intensity and power constraints traditionally preclude the use of adaptive activation networks.
+
+Kolmogorov-Arnold Networks (KANs) 等模型的启动功能在精确性和可解释性方面优于固定激活结构;然而,这些模型的计算复杂性对受能源限制的边缘AI的部署提出了严峻的挑战。常规CPU/GPU在评估更高订单的启动时,产生令人望而却步的悬浮和电费成本。我们在超紧的能源预算下限制部署能力。我们通过一个可重新配置的外观结构与边缘的FPGA和GPU的边际结构来解决这个问题。我们的设计通过将微小的微分数分数与适应性外观表相结合,最大限度地减少了能源密集型的计算操作,同时保持了激活的忠诚性。 FPGA 重新配置性能能能能能能能的可操作性能能能能能能能能能,使边际系统能够动态的硬件专业化,这是需要部署后适应性适应性的系统的关键优势。使用KANS(其中独特的激活功能发挥关键作用)的评估表明,我们的FPGAGA设计实现了更高级的计算速度和超过10+4美元的能源效率,同时保持了精确和最低足迹管理。这一突破位置位置位置位置位置位置位置,从而无法实际地进行能量驱动力驱动力的网络。
+
+---
+
+## Article 37
+### Title@2025-08-23 (6): Invited Paper: FEMU: An Open-Source and Configurable Emulation Framework   for Prototyping TinyAI Heterogeneous Systems
+
+**Title**: Invited Paper: FEMU: An Open-Source and Configurable Emulation Framework   for Prototyping TinyAI Heterogeneous Systems | Eingeladenes Papier: FEMU: Ein Open-Source- und Konfigurierbares Emulations-Framework für die Prototyping TinyAI Heterogene Systeme | 特约文件:FEMU: 一种用于制造小丁AI异源系统的开放源码和可配置的模拟框架 [2508.16981v1](http://arxiv.org/abs/2508.16981v1)
+
+**Authors** (8): Simone Machetti, Deniz Kasap, Juan Sapriza, Rubén Rodríguez Álvarez, Hossein Taji, José Miranda, Miguel Peón-Quirós, David Atienza
+
+In this paper, we present the new FPGA EMUlation (FEMU), an open-source and configurable emulation framework for prototyping and evaluating TinyAI heterogeneous systems (HS). FEMU leverages the capability of system-on-chip (SoC)-based FPGAs to combine the under-development HS implemented in a reconfigurable hardware region (RH) for quick prototyping with a software environment running under a standard operating system in a control software region (CS) for supervision and communication. To evaluate our approach, we built the X-HEEP FPGA EMUlation (X-HEEP-FEMU) platform by instantiating the proposed framework with real-world hardware and software components. X-HEEP-FEMU is deployed on the Xilinx Zynq-7020 SoC and integrates the eXtendible Heterogeneous Energy Efficient Platform (X-HEEP) host in the RH, a Linux-based Python environment on the ARM Cortex-A9 CS, and energy models derived from a TSMC 65 nm CMOS silicon implementation of X-HEEP, called HEEPocrates.
+
+在本文中,我们介绍了新的FPGA EMUlation(FEMU),这是用于原型和评估TinyAI多种系统(HS)的开放源码和可配置的模拟框架。FEMU利用基于系统芯片(SoC)的FPGA能力,将在一个可重新配置的硬件区域实施的开发不足的HS(HR)结合起来,用于快速原型和在一个控制软件区域的一个标准操作系统下运行的用于监督和通信的软件环境。为了评估我们的方法,我们建立了X-HEEP FPGA EMUlation(X-HEEP-FMUMU)平台,利用现实世界硬件和软件组件对拟议框架进行同步。X-HEP-FMU在Xlinx Zynq-7020C上部署,并将电子可氧化地热能节能节能平台(X-HEEEP)安装在生殖健康标准操作系统中,一个基于Linux Python的环境,用于ARM Cortex-A9CS-CS,以及一个称为EPEPEBTAS AS 的能源模型。
+
+---
+
+## Article 38
+### Title@2025-08-23 (6): X-HEEP: An Open-Source, Configurable and Extendible RISC-V Platform for   TinyAI Applications
+
+**Title**: X-HEEP: An Open-Source, Configurable and Extendible RISC-V Platform for   TinyAI Applications | X-HEEP: Eine offene, konfigurierbare und erweiterbare RISC-V-Plattform für TinyAI-Anwendungen | X-HEEP:一个用于小AI应用的开放源码、可配置和可扩展的RISC-V平台 [2508.16959v1](http://arxiv.org/abs/2508.16959v1)
+
+**Authors** (5): Simone Machetti, Pasquale Davide Schiavone, Giovanni Ansaloni, Miguel Peón-Quirós, David Atienza
+
+In this work, we present X-HEEP, an open-source, configurable, and extendible RISC-V platform for ultra-low-power edge applications (TinyAI). X-HEEP features the eXtendible Accelerator InterFace (XAIF), which enables seamless integration of accelerators with varying requirements along with an extensive internal configuration of cores, memory, bus, and peripherals. Moreover, it supports various development flows, including FPGA prototyping, ASIC implementation, and mixed SystemC-RTL modeling, enabling efficient exploration and optimization. Implemented in TSMC's 65 nm CMOS technology (300 MHz, 0.8 V), X-HEEP achieves a minimal footprint of only 0.15 mm2 and consumes just 29 uW of leakage power. As a demonstrator of the configurability and low overhead of X-HEEP as a host platform, we present a study integrating it with near-memory accelerators targeting early-exit dynamic network applications, achieving up to 7.3 x performance speedup and 3.6 x energy improvement on the resulting heterogeneous system compared to CPU-only execution.
+
+在这项工作中,我们介绍了用于超低功率边缘应用的开放源码、可配置和可扩展的RISC-V平台X-HEEEP,这是一个用于超低功率应用的开放源码、可配置和可扩展的RISC-V平台。 X-HEEP 的特征是,可递出加速器的无缝整合,其要求各异,核心、记忆、公车和外围装置的内部配置广泛。此外,它支持各种发展流动,包括FPGA 原型、ASIC 实施和混合系统C-RTL模型化,从而能够进行有效的探索和优化。在TSCMC的65 nm CMOS技术(300 MH,0.8 V)中实施,X-HEP 最小的足迹仅达到0.15毫米2,仅消耗了29瓦的泄漏功率。我们作为X-HEEEEEP作为主平台的可配置和低间接费用的示范器,我们介绍了一项研究,将它与近模加速加速器的加速器结合,针对早期外向动态网络应用,达到7.3x性性加速执行速度,并随后对C-SUI的系统进行了3.6的改进。
+
+---
+
+## Article 39
+### Title@2025-08-23 (6): Targeted Wearout Attacks in Microprocessor Cores
+
+**Title**: Targeted Wearout Attacks in Microprocessor Cores | Gezielte Wearout-Angriffe in Mikroprozessorkernen | 微处理器核心的定点穿甲攻击 [2508.16868v1](http://arxiv.org/abs/2508.16868v1)
+
+**Authors** (6): Joshua Mashburn, Johann Knechtel, Florian Klemme, Hussam Amrouch, Ozgur Sinanoglu, Paul V. Gratz
+
+Negative-Bias Temperature Instability is a dominant aging mechanism in nanoscale CMOS circuits such as microprocessors. With this aging mechanism, the rate of device aging is dependent not only on overall operating conditions, such as heat, but also on user controllable inputs to the transistors. This dependence on input implies a possible timing fault-injection attack wherein a targeted path of logic is intentionally degraded through the purposeful, software-driven actions of an attacker, rendering a targeted bit effectively stuck.   In this work, we describe such an attack mechanism, which we dub a "$\textbf{Targeted Wearout Attack}$", wherein an attacker with sufficient knowledge of the processor core, executing a carefully crafted software program with only user privilege, is able to degrade a functional unit within the processor with the aim of eliciting a particular desired incorrect calculation in a victim application. Here we give a general methodology for the attack. We then demonstrate a case study where a targeted path within the fused multiply-add pipeline in a RISC-V CPU sees a $>7x$ increase in wear over time than would be experienced under typical workloads. We show that an attacker could leverage such an attack, leading to targeted and silent data corruption in a co-running victim application using the same unit.
+
+负生物温度不稳定性是微处理器等纳米级 CMOS 电路中一个主要的老化机制。 有了这个老化机制, 设备老化的速度不仅取决于整个操作条件( 如热等) , 而且还取决于对晶体器的用户控制输入。 这种对输入的依赖意味着一种可能的计时错误注射攻击, 即攻击者有目的的、 软件驱动的逻辑路径通过攻击者有目的的、 软件驱动的动作故意退化, 使目标的点点点点卡住。 在这项工作中, 我们描述了一种攻击机制, 我们把它称为“ $\ textbf{ 标签 wegeted wearout attack $ $ $ ” 。 其中, 一个对处理器核心有足够知识的攻击者, 执行精心设计的软件程序, 只有用户特权才能控制。 这种输入器内的一个功能单位, 目的是在受害者应用程序中获取特别需要的错误的计算。 在这里我们给出了攻击的一般方法。 我们然后展示了一种案例研究, 一个目标化的管道内增装管道的路径, 在RISC- VPU 中看到一个目标式攻击中, 耗损耗时, 耗损数据。
+
+---
+
+## Article 40
+### Title@2025-08-22 (5): zkPHIRE: A Programmable Accelerator for ZKPs over HIgh-degRee,   Expressive Gates
+
+**Title**: zkPHIRE: A Programmable Accelerator for ZKPs over HIgh-degRee,   Expressive Gates | zkPHIRE: Ein programmierbarer Beschleuniger für ZKPs über HIgh-degRee, Expressive Gates | hig-degree, 表达式关口上的 ZKP 程序加速器 [2508.16738v1](http://arxiv.org/abs/2508.16738v1)
+
+**Authors** (6): Alhad Daftardar, Jianqiao Mo, Joey Ah-kiow, Benedikt Bünz, Siddharth Garg, Brandon Reagen
+
+Zero-Knowledge Proofs (ZKPs) have emerged as powerful tools for secure and privacy-preserving computation. ZKPs enable one party to convince another of a statement's validity without revealing anything else. This capability has profound implications in many domains, including: machine learning, blockchain, image authentication, and electronic voting. Despite their potential, ZKPs have seen limited deployment because of their exceptionally high computational overhead, which manifests primarily during proof generation. To mitigate these overheads, a (growing) body of researchers has proposed hardware accelerators and GPU implementations for kernels and complete protocols. Prior art spans a wide variety of ZKP schemes that vary significantly in computational overhead, proof size, verifier cost, protocol setup, and trust. The latest, and widely used ZKP protocols are intentionally designed to balance these trade-offs. A particular challenge in modern ZKP systems is supporting complex, high-degree gates using the SumCheck protocol. We address this challenge with a novel programmable accelerator that efficiently handles arbitrary custom gates via SumCheck. Our accelerator achieves upwards of $1000\times$ geomean speedup over CPU-based SumChecks across a range of gate types. We integrate this unit into a full-system accelerator, zkPHIRE, which achieves $1486\times$ geomean speedup over CPU and $11.87\times$ speedup over the state-of-the-art at iso-area. zkPHIRE is the first accelerator to scale to problem sizes of $2^{30}$ nominal constraints while maintaining small proof sizes and programmability.
+
+ZKP使一方能够说服另一方相信声明的有效性,而无需透露其他任何东西。这种能力在许多领域具有深远的影响,包括:机器学习、链条、图像认证和电子投票。尽管存在潜力,但ZKP的部署有限,因为它们的计算间接费用极高,主要表现在制模过程中。为了减轻这些间接费用,一个(增长的)研究人员机构提议了内核和完整协议的硬件加速器和GPU实施。以前的艺术跨越了多种ZKP的系统,在计算管理、验证大小、校验成本、协议设置和信任方面有很大差异。最新和广泛使用的ZKP协议旨在平衡这些交易。现代ZKP系统面临的一个特殊挑战是使用Summecker协议支持复杂、高度的大门。我们用一个新的程序加速器来应对这一挑战,通过Sumergild处理任意的小用户端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端端。
+
+---
+
+## Article 41
+### Title@2025-08-22 (5): Systematic Characterization of LLM Quantization: A Performance, Energy,   and Quality Perspective
+
+**Title**: Systematic Characterization of LLM Quantization: A Performance, Energy,   and Quality Perspective | Systematische Charakterisierung der LLM-Quantisierung: Eine Performance-, Energie- und Qualitätsperspektive | LLM 量化:绩效、能源和质量视角 [2508.16712v1](http://arxiv.org/abs/2508.16712v1)
+
+**Authors** (2): Tianyao Shi, Yi Ding
+
+Large language models (LLMs) have demonstrated remarkable capabilities across diverse domains, but their heavy resource demands make quantization-reducing precision to lower-bit formats-critical for efficient serving. While many quantization methods exist, a systematic understanding of their performance, energy, and quality tradeoffs in realistic serving conditions remains a gap. In this work, we first develop a fully automated online characterization framework qMeter, and then conduct an in-depth characterization of 11 post-training LLM quantization methods across 4 model sizes (7B-70B) and two GPU architectures (A100, H100). We evaluate quantization at the application, workload, parallelism, and hardware levels under online serving conditions. Our study reveals highly task- and method-dependent tradeoffs, strong sensitivity to workload characteristics, and complex interactions with parallelism and GPU architecture. We further present three optimization case studies illustrating deployment challenges in capacity planning, energy-efficient scheduling, and multi-objective tuning. To the best of our knowledge, this is one of the first comprehensive application-, system-, and hardware-level characterization of LLM quantization from a joint performance, energy, and quality perspective.
+
+大型语言模型(LLMS)在不同领域表现出了非凡的能力,但是它们巨大的资源需求使得降低量化精确度成为低位格式的精确度,对于高效服务来说,低位格式至关重要。虽然存在许多量化方法,但在现实服务条件下,对其性能、能源和质量权衡的系统理解仍是一个差距。在这项工作中,我们首先开发一个完全自动化的在线定性框架 qMeter,然后对培训后LLM量化方法进行深入的定性,覆盖4个模型(7B-70B)和2个GPU结构(A100,H100)。我们从联合性能、能源、质量和硬件角度评价应用、系统和硬件层面对LLM量化的首次量化。
+
+---
+
+## Article 42
+### Title@2025-08-22 (5): RIROS: A Parallel RTL Fault SImulation FRamework with TwO-Dimensional   Parallelism and Unified Schedule
+
+**Title**: RIROS: A Parallel RTL Fault SImulation FRamework with TwO-Dimensional   Parallelism and Unified Schedule | RIROS: Ein paralleles RTL-Fault-Simulationsschema mit TwO-Dimensional-Parallelismus und einheitlichem Zeitplan | 与TwO - 多元平行和统一时间表平行的RTL 故障模拟 [2508.16376v1](http://arxiv.org/abs/2508.16376v1)
+
+**Authors** (9): Jiaping Tang, Jianan Mu, Zizhen Liu, Ge Yu, Tenghui Hua, Bin Sun, Silin Liu, Jing Ye, Huawei Li
+
+With the rapid development of safety-critical applications such as autonomous driving and embodied intelligence, the functional safety of the corresponding electronic chips becomes more critical. Ensuring chip functional safety requires performing a large number of time-consuming RTL fault simulations during the design phase, significantly increasing the verification cycle. To meet time-to-market demands while ensuring thorough chip verification, parallel acceleration of RTL fault simulation is necessary. Due to the dynamic nature of fault propagation paths and varying fault propagation capabilities, task loads in RTL fault simulation are highly imbalanced, making traditional singledimension parallel methods, such as structural-level parallelism, ineffective. Through an analysis of fault propagation paths and task loads, we identify two types of tasks in RTL fault simulation: tasks that are few in number but high in load, and tasks that are numerous but low in load. Based on this insight, we propose a two-dimensional parallel approach that combines structurallevel and fault-level parallelism to minimize bubbles in RTL fault simulation. Structural-level parallelism combining with workstealing mechanism is used to handle the numerous low-load tasks, while fault-level parallelism is applied to split the high-load tasks. Besides, we deviate from the traditional serial execution model of computation and global synchronization in RTL simulation by proposing a unified computation/global synchronization scheduling approach, which further eliminates bubbles. Finally, we implemented a parallel RTL fault simulation framework, RIROS. Experimental results show a performance improvement of 7.0 times and 11.0 times compared to the state-of-the-art RTL fault simulation and a commercial tool.
+
+随着自动驾驶和内装智能等安全关键应用程序的迅速发展,相应的电子芯片的功能安全变得更加关键。确保芯片的功能安全要求在设计阶段进行大量耗时的RTL故障模拟,大大增加核查周期。为了满足时间到市场的需求,同时确保彻底的芯片核查,必须同时加速RTL故障模拟。由于错误传播路径的动态性质和差错传播能力的不同,RTL故障模拟中的任务负荷高度不平衡,使传统的单倍平行方法,例如结构级平行方法无效。通过分析错误传播路径和任务负荷,我们在RTL错误模拟中确定两类任务:数量不多但工作量大的任务,以及工作量大但工作量小的任务。基于这一认识,我们提出了一种双维平行方法,将结构层面和过失水平平行方法结合起来,以尽量减少RTL错误模拟中的泡沫。 结构层面的平行改进与工作机制用来处理大量低负荷的平行任务,例如结构级平行方法无效。通过分析错误传播路径和任务负荷模拟,我们确定了两种任务类型平行任务:数量不多的任务,但工作量大的任务,而负重的任务是工作量,我们采用商业级的平行的同步计算,最后的计算,我们使用了一种水平的周期的周期,我们使用了一种高度的计算,我们使用了一种高度的计算。
+
+---
+
+## Article 43
+### Title@2025-08-22 (5): Hardwired-Neurons Language Processing Units as General-Purpose Cognitive   Substrates
+
+**Title**: Hardwired-Neurons Language Processing Units as General-Purpose Cognitive   Substrates | Hardwired-Neurons Sprachverarbeitungseinheiten als allgemeingültige Kognitive Substrate | 作为普通用途识别基体的硬电-内伯伦语文处理股 [2508.16151v1](http://arxiv.org/abs/2508.16151v1)
+
+**Authors** (27): Yang Liu, Yi Chen, Yongwei Zhao, Yifan Hao, Zifu Zheng, Weihao Kong, Zhangmai Li, Dongchen Jiang, Ruiyang Xia, Zhihong Ma, Zisheng Liu, Zhaoyong Wan, Yunqi Lu, Ximing Liu, Hongrui Guo, Zhihao Yang, Zhe Wang, Tianrui Ma, Mo Zou, Rui Zhang, Ling Li, Xing Hu, Zidong Du, Zhiwei Xu, Qi Guo, Tianshi Chen, Yunji Chen
+
+The rapid advancement of Large Language Models (LLMs) has established language as a core general-purpose cognitive substrate, driving the demand for specialized Language Processing Units (LPUs) tailored for LLM inference. To overcome the growing energy consumption of LLM inference systems, this paper proposes a Hardwired-Neurons Language Processing Unit (HNLPU), which physically hardwires LLM weight parameters into the computational fabric, achieving several orders of magnitude computational efficiency improvement by extreme specialization. However, a significant challenge still lies in the scale of modern LLMs. An ideal estimation on hardwiring gpt-oss 120 B requires fabricating at least 6 billion dollars of photomask sets, rendering the straightforward solution economically impractical. Addressing this challenge, we propose the novel Metal-Embedding methodology. Instead of embedding weights in a 2D grid of silicon device cells, Metal-Embedding embeds weight parameters into the 3D topology of metal wires. This brings two benefits: (1) a 15x increase in density, and (2) 60 out of 70 layers of photomasks are made homogeneous across chips, including all EUV photomasks. In total, Metal-Embedding reduced the photomask cost by 112x, bringing the Non-Recurring Engineering (NRE) cost of HNLPU into an economically viable range. Experimental results show that HNLPU achieved 249,960 tokens/s (5,555x/85x of GPU/WSE), 36 tokens/J (1,047x/283x of GPU/WSE), 13,232 mm2 total die area (29% inscribed rectangular area in a 300 mm wafer), \$184M estimated NRE at 5 nm technology. Analysis shows that HNLPU achieved 8.57x cost-effectiveness and 230x carbon footprint reduction compared to H100 clusters, under an annual weight updating assumption.
+
+大型语言模型(LLMS)的快速进步将语言确定为核心通用认知子节,驱动对专门语言处理单位(LPUs)的需求,专门为LLM的推断而定制。为了克服LLM推断系统不断增长的能量消耗,本文提议建立Hardwired-Neurons语言处理单位(HNLPU),该单位的物理硬电路将LLM重量参数嵌入计算结构中,通过极端专业化实现数级计算效率的提高。然而,现代LMS的规模仍是一个重大挑战。对硬接线NMS120 B公司(LPUPUs)的理想估计需要至少60亿美元的照片处理器(LPLPS),使直接解决方案在经济上不切实际。我们提议新的金属-内嵌入方法。而不是在2D硅装置电池的电网中嵌入重量,金属铁丝网3REOVS(MVS)的密度增加15x,以及总共60层的HMDM(NMLS),使IMS-SIFSO的数值降低成本。
+
+---
+
+## Article 44
+### Title@2025-08-22 (5): Bare-Metal RISC-V + NVDLA SoC for Efficient Deep Learning Inference
+
+**Title**: Bare-Metal RISC-V + NVDLA SoC for Efficient Deep Learning Inference | Bare-Metal RISC-V + NVDLA SoC für effiziente Deep Learning Inferenz | + NVDLA 高效深层学习推断 [2508.16095v1](http://arxiv.org/abs/2508.16095v1)
+
+**Authors** (5): Vineet Kumar, Ajay Kumar M, Yike Li, Shreejith Shanker, Deepu John
+
+This paper presents a novel System-on-Chip (SoC) architecture for accelerating complex deep learning models for edge computing applications through a combination of hardware and software optimisations. The hardware architecture tightly couples the open-source NVIDIA Deep Learning Accelerator (NVDLA) to a 32-bit, 4-stage pipelined RISC-V core from Codasip called uRISC_V. To offload the model acceleration in software, our toolflow generates bare-metal application code (in assembly), overcoming complex OS overheads of previous works that have explored similar architectures. This tightly coupled architecture and bare-metal flow leads to improvements in execution speed and storage efficiency, making it suitable for edge computing solutions. We evaluate the architecture on AMD's ZCU102 FPGA board using NVDLA-small configuration and test the flow using LeNet-5, ResNet-18 and ResNet-50 models. Our results show that these models can perform inference in 4.8 ms, 16.2 ms and 1.1 s respectively, at a system clock frequency of 100 MHz.
+
+本文展示了一个新的系统芯片(SOC)结构,通过硬件和软件优化相结合,加快了边缘计算应用的复杂深层次学习模式。硬件结构将开放源码 NVIDIA 深层学习加速器(NVDLA)紧紧结合到一个32位的、4级管道的RISC-V核心,由Codasip称为 URISC_V。要卸载软件模型加速器,我们的工具流产生光金属应用代码(组装),克服以前探索类似结构的工程的复杂的OS间接费用。这种紧密结合的建筑和光金属流导致执行速度和储存效率的提高,使之适合进行边缘计算解决方案。我们利用NVDLA小型配置对AM ZCU 102 FPGA板的建筑进行了评估,并用NVDLA-SNet-18和ResNet-50模型测试流量。我们的结果表明,这些模型可以以100MzMz的系统时钟频率,分别进行4.8米、16.2米和1.1秒的推断。
+
+---
+
+## Article 45
+### Title@2025-08-22 (5): GPT-OSS-20B: A Comprehensive Deployment-Centric Analysis of OpenAI's   Open-Weight Mixture of Experts Model
+
+**Title**: GPT-OSS-20B: A Comprehensive Deployment-Centric Analysis of OpenAI's   Open-Weight Mixture of Experts Model | GPT-OSS-20B: Eine umfassende Implementierungs-Centric-Analyse der OpenAI-Open-Weight-Mixture of Experts-Modell | GPT-OSSS-20B:开放国际公司开放视觉专家混合模型全面部署中心全面分析 [2508.16700v1](http://arxiv.org/abs/2508.16700v1)
+
+**Authors** (3): Deepak Kumar, Divakar Yadav, Yash Patel
+
+We present a single-GPU (H100, bf16) evaluation of GPT-OSS-20B (Mixture-of-Experts; 20.9B total, approx. 3.61B active) against dense baselines Qwen3-32B and Yi-34B across multiple dimensions. We measure true time-to-first-token (TTFT), full-decode throughput (TPOT), end-to-end latency percentiles, peak VRAM with past key values (PKV) held, and energy via a consistent nvidia-smi-based sampler. At a 2048-token context with 64-token decode, GPT-OSS-20B delivers higher decode throughput and tokens per Joule than dense baselines Qwen3-32B and Yi-34B, while substantially reducing peak VRAM and energy per 1000 generated tokens; its TTFT is higher due to MoE routing overhead. With only 17.3% of parameters active (3.61B of 20.9B), GPT-OSS-20B provides about 31.8% higher decode throughput and 25.8% lower energy per 1000 generated tokens than Qwen3-32B at 2048/64, while using 31.7% less peak VRAM. Normalized by active parameters, GPT-OSS-20B shows markedly stronger per-active-parameter efficiency (APE), underscoring MoE's deployment advantages. We do not evaluate accuracy; this is a deployment-focused study. We release code and consolidated results to enable replication and extension.
+
+我们针对密度基准Quwen3-32B和Yi-34B进行单一GPU(H100, bf16)评价。 我们测量的是真实的一到一对一(TTFT)、全解码通量(TPOT)、终端到终端的中位百分点、持有过去关键值(PKV)的VRAM峰值以及通过一个一致的 nvidia-smi 样板(PKV) 解码(共20.9B) 的高级 VRAM(共20.9B) 和能量。 在2048tok(共64吨解码,约3.61B)的背景下,GPT-OS-20B提供比密度基准Queen QWwen3-32B 高的解码量和符号。我们测量的是真正的VRAM和能量每1000个商品的峰值;它的TTFT因移动路标值(PE)而高。只有17.3%的参数(我们每20.9B)的升级,GPT-20B没有进行精确的升级。 GPT-2038的升级的升级的部署,而提供大约31.8%的比S-RIS-rdexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx。
+
+---
+
+## Article 46
+### Title@2025-08-22 (5): HePGA: A Heterogeneous Processing-in-Memory based GNN Training   Accelerator
+
+**Title**: HePGA: A Heterogeneous Processing-in-Memory based GNN Training   Accelerator | HePGA: Ein auf der Heterogenen Verarbeitung in Memory basierender GNN-Trainingsbeschleuniger | HePGA: 以GNNN培训加速器为基地的异质在机中处理加速器 [2508.16011v1](http://arxiv.org/abs/2508.16011v1)
+
+**Authors** (6): Chukwufumnanya Ogbogu, Gaurav Narang, Biresh Kumar Joardar, Janardhan Rao Doppa, Krishnendu Chakrabarty, Partha Pratim Pande
+
+Processing-In-Memory (PIM) architectures offer a promising approach to accelerate Graph Neural Network (GNN) training and inference. However, various PIM devices such as ReRAM, FeFET, PCM, MRAM, and SRAM exist, with each device offering unique trade-offs in terms of power, latency, area, and non-idealities. A heterogeneous manycore architecture enabled by 3D integration can combine multiple PIM devices on a single platform, to enable energy-efficient and high-performance GNN training. In this work, we propose a 3D heterogeneous PIM-based accelerator for GNN training referred to as HePGA. We leverage the unique characteristics of GNN layers and associated computing kernels to optimize their mapping on to different PIM devices as well as planar tiers. Our experimental analysis shows that HePGA outperforms existing PIM-based architectures by up to 3.8x and 6.8x in energy-efficiency (TOPS/W) and compute efficiency (TOPS/mm2) respectively, without sacrificing the GNN prediction accuracy. Finally, we demonstrate the applicability of HePGA to accelerate inferencing of emerging transformer models.
+
+模拟处理(PIM)架构为加速图形神经网络(GNN)培训和推断提供了很有希望的方法,然而,各种PIM装置,如RRAM、FFET、PCM、MRAM和SRAM等,都存在各种PIM装置,每个装置在电力、延迟度、面积和非理想方面都有独特的取舍。由3D整合促成的多种多功能结构可以将单一平台上的多个PIM装置结合起来,以便能够进行节能和高性能GNN培训。在这项工作中,我们提议为GNN培训(称为HPGA)建立一个3D多种PIM加速器。我们利用GNND层和相关的计算机内核的独有特性,优化对不同PIM装置以及平板层的绘图。我们的实验分析显示,HPGA在能源效率方面分别达到3.8x和6.8x(TOOPS/W)和计算效率(TOOPS/mm2),同时不牺牲GNN的预测模型的精确性。我们展示了GA的新兴模型的可加速应用性。
+
+---
+
+## Article 47
+### Title@2025-08-21 (4): ASIC-Agent: An Autonomous Multi-Agent System for ASIC Design with   Benchmark Evaluation
+
+**Title**: ASIC-Agent: An Autonomous Multi-Agent System for ASIC Design with   Benchmark Evaluation | ASIC-Agent: Ein autonomes Multi-Agenten-System für ASIC-Design mit Benchmark-Bewertung | ASIC-ASIC机构:有基准评价的ACIC设计自主多机构机构系统 [2508.15940v1](http://arxiv.org/abs/2508.15940v1)
+
+**Authors** (3): Ahmed Allam, Youssef Mansour, Mohamed Shalan
+
+Large Language Models (LLMs) have demonstrated remarkable capabilities in Register Transfer Level (RTL) design, enabling high-quality code generation from natural language descriptions. However, LLMs alone face significant limitations in real-world hardware design workflows, including the inability to execute code, lack of debugging capabilities, and absence of long-term memory. To address these challenges, we present ASIC-Agent, an autonomous system designed specifically for digital ASIC design tasks. ASIC-Agent enhances base LLMs with a multi-agent architecture incorporating specialized sub-agents for RTL generation, verification, OpenLane hardening, and Caravel chip integration, all operating within a comprehensive sandbox environment with access to essential hardware design tools. The system leverages a vector database containing documentation, API references, error knowledge, and curated insights from the open-source silicon community. To evaluate ASIC-Agent's performance, we introduce ASIC-Agent-Bench, the first benchmark specifically designed to assess agentic systems in hardware design tasks. We evaluate ASIC-Agent with various base LLMs, providing quantitative comparisons and qualitative insights into agent behavior across different design scenarios. Our results demonstrate that ASIC-Agent, when powered by Claude 4 Sonnet, successfully automates a broad range of ASIC design tasks spanning varying levels of complexity, showing the potential of significantly accelerating the ASIC design workflow.
+
+大型语言模型(LLMS)在登记册传输级别设计上表现出了非凡的能力,使高质量的代码能够从自然语言描述中生成,然而,单是LLMS在现实世界硬件设计工作流程中面临重大限制,包括无法执行代码,缺乏调试能力,缺乏长期记忆。为了应对这些挑战,我们介绍了ASIC代理系统,这是一个专为数字的ASIC设计任务设计的自主系统。ASIC代理系统加强了基础LMS,它有一个包含TRL生成、核查、OpenLane硬化和Caravel芯片整合等专门分剂的多试剂结构。我们以各种基础LOMS为对象,在全面沙箱环境中运作,并获得基本硬件设计工具。该系统利用一个包含文件、API参考、错误知识的矢量数据库,以及来自开放源的硅社区的精辟见解。为了评估ASICA代理商的绩效,我们引入了ASICIS-A-A-Bench,这是专门设计硬件设计任务的首个基准,用于评估代理系统,包括各种基础LMSLMSU,提供定量比较的定量比较和定性的SISICA的系统,通过不同设计方案展示A的A级的A级设计结果,从而显示A级的A级的高级设计结果。
+
+---
+
+## Article 48
+### Title@2025-08-21 (4): Power Stabilization for AI Training Datacenters
+
+**Title**: Power Stabilization for AI Training Datacenters | Leistungsstabilisierung für KI-Trainings-Rechenzentren | AI 稳定电力用于AI培训数据中心 [2508.14318v2](http://arxiv.org/abs/2508.14318v2)
+
+**Authors** (57): Esha Choukse, Brijesh Warrier, Scot Heath, Luz Belmont, April Zhao, Hassan Ali Khan, Brian Harry, Matthew Kappel, Russell J. Hewett, Kushal Datta, Yu Pei, Caroline Lichtenberger, John Siegler, David Lukofsky, Zaid Kahn, Gurpreet Sahota, Andy Sullivan, Charles Frederick, Hien Thai, Rebecca Naughton, Daniel Jurnove, Justin Harp, Reid Carper, Nithish Mahalingam, Srini Varkala, Alok Gautam Kumbhare, Satyajit Desai, Venkatesh Ramamurthy, Praneeth Gottumukkala, Girish Bhatia, Kelsey Wildstone, Laurentiu Olariu, Ileana Incorvaia, Alex Wetmore, Prabhat Ram, Melur Raghuraman, Mohammed Ayna, Mike Kendrick, Ricardo Bianchini, Aaron Hurst, Reza Zamani, Xin Li, Michael Petrov, Gene Oden, Rory Carmichael, Tom Li, Apoorv Gupta, Pratikkumar Patel, Nilesh Dattani, Lawrence Marwong, Rob Nertney, Hirofumi Kobayashi, Jeff Liott, Miro Enev, Divya Ramakrishnan, Ian Buck, Jonah Alben
+
+Large Artificial Intelligence (AI) training workloads spanning several tens of thousands of GPUs present unique power management challenges. These arise due to the high variability in power consumption during the training. Given the synchronous nature of these jobs, during every iteration there is a computation-heavy phase, where each GPU works on the local data, and a communication-heavy phase where all the GPUs synchronize on the data. Because compute-heavy phases require much more power than communication phases, large power swings occur. The amplitude of these power swings is ever increasing with the increase in the size of training jobs. An even bigger challenge arises from the frequency spectrum of these power swings which, if harmonized with critical frequencies of utilities, can cause physical damage to the power grid infrastructure. Therefore, to continue scaling AI training workloads safely, we need to stabilize the power of such workloads. This paper introduces the challenge with production data and explores innovative solutions across the stack: software, GPU hardware, and datacenter infrastructure. We present the pros and cons of each of these approaches and finally present a multi-pronged approach to solving the challenge. The proposed solutions are rigorously tested using a combination of real hardware and Microsoft's in-house cloud power simulator, providing critical insights into the efficacy of these interventions under real-world conditions.
+
+大型人工智能(AI)培训工作量涉及数以万万计的GPU,这带来了独特的电力管理挑战。由于培训期间电流消耗量的波动性很大,因此这些工作具有同步性。鉴于这些工作具有同步性,在每次迭代期间,每个GPU都使用当地数据,每个GPU都使用当地数据,而通信高度,所有GPU都同步使用数据。因为计算重得多的阶段需要比通信阶段多得多的动力,因此出现了巨大的电力波动。随着培训工作规模的增加,这些电流的振幅越来越大。由于这些电流的频率频谱,如果与公用事业的关键频率相协调,就会对电网基础设施造成实际损害,因此,为了继续安全地扩大AI培训工作量,我们需要稳定这些工作量的能量。这份文件提出了生产数据的挑战,并探索了整个堆叠的创新性解决方案:软件、GPU硬件和数据中心基础设施。我们把这些实际方法的大小都放在一起,我们展示了这些实际方法的准和折中。
+
+---
+
+## Article 49
+### Title@2025-08-21 (4): SecFSM: Knowledge Graph-Guided Verilog Code Generation for Secure Finite   State Machines in Systems-on-Chip
+
+**Title**: SecFSM: Knowledge Graph-Guided Verilog Code Generation for Secure Finite   State Machines in Systems-on-Chip | SecFSM: Knowledge Graph-Guided Verilog Code Generation für sichere Finite State Maschinen im System-on-Chip | SecFSM:在芯片上系统安全受限国家机器知识图表指导Verilog代码生成 [2508.12910v2](http://arxiv.org/abs/2508.12910v2)
+
+**Authors** (4): Ziteng Hu, Yingjie Xia, Xiyuan Chen, Li Kuang
+
+Finite State Machines (FSMs) play a critical role in implementing control logic for Systems-on-Chip (SoC). Traditionally, FSMs are implemented by hardware engineers through Verilog coding, which is often tedious and time-consuming. Recently, with the remarkable progress of Large Language Models (LLMs) in code generation, LLMs have been increasingly explored for automating Verilog code generation. However, LLM-generated Verilog code often suffers from security vulnerabilities, which is particularly concerning for security-sensitive FSM implementations. To address this issue, we propose SecFSM, a novel method that leverages a security-oriented knowledge graph to guide LLMs in generating more secure Verilog code. Specifically, we first construct a FSM Security Knowledge Graph (FSKG) as an external aid to LLMs. Subsequently, we analyze users' requirements to identify vulnerabilities and get a list of vulnerabilities in the requirements. Then, we retrieve knowledge from FSKG based on the vulnerabilities list. Finally, we construct security prompts based on the security knowledge for Verilog code generation. To evaluate SecFSM, we build a dedicated dataset collected from academic datasets, artificial datasets, papers, and industrial cases. Extensive experiments demonstrate that SecFSM outperforms state-of-the-art baselines. In particular, on a benchmark of 25 security test cases evaluated by DeepSeek-R1, SecFSM achieves an outstanding pass rate of 21/25.
+
+极小国家机器(FSM)在实施系统对芯片(SOC)的控制逻辑方面发挥着关键作用。 传统上,FSM是由硬件工程师通过Verilog编码(Verilog编码经常是乏味和耗时的)执行的。 最近,随着大语言模型(LLMS)在代码生成方面的显著进展,LLMS(LFKM)越来越多地被探索用于Verilog代码生成自动化。然而,LLMM生成的Verilog代码往往存在安全弱点,这特别关系到对安全敏感的密克罗尼西亚联邦实施。为了解决这一问题,我们提议SecFSM(SecF)是一个创新方法,它利用面向安全的知识图表指导LMS生成更安全的Verilog码。具体地说,我们首先建立一个FSM安全知识模型(LMS),作为LMS的外部援助。随后,我们分析了用户的要求,以查明脆弱性,并获得需求中的弱点清单。然后,我们从FSFKG公司获取知识。最后,我们根据Vilog码代码生成的安全知识来建立安全提示。我们建立安全提示。SecFSMSMSM(SE-SMSM)的深度数据深度图的深度图,我们通过Sec-s-s-romas brealreal lacudroal lax a lax a creal lax a cre credal sual sual sual ex ex subildal sual subildal ex subilva cs ex subilds acuts acuts acuts acuts acuts acuts acuts acuts a ex ex ex ex ex ex ex a ex acuts acuts acuts acuts acuts acuments ex ex ex ex ex ex ex ex ex ex ex ex ex ex acuts acuts acuts acuts acuts a ex ex ex ex ex ex ex ex ex ex a ex ex ex a ex a ex a ex a ex a ex a ex
+
+---
+
+## Article 50
+### Title@2025-08-21 (4): Row-Column Hybrid Grouping for Fault-Resilient Multi-Bit Weight   Representation on IMC Arrays
+
+**Title**: Row-Column Hybrid Grouping for Fault-Resilient Multi-Bit Weight   Representation on IMC Arrays | Zeilenkolumnen-Hybrid-Gruppierung für fehlerhaft-resiliente Multi-Bit-Gewichtsdarstellung auf IMC-Arrays | 在 IMC 阵列中反过失多比体重代表数的行- 哥伦混合组合 [2508.15685v1](http://arxiv.org/abs/2508.15685v1)
+
+**Authors** (6): Kang Eun Jeon, Sangheum Yeon, Jinhee Kim, Hyeonsu Bang, Johnny Rhe, Jong Hwan Ko
+
+This paper addresses two critical challenges in analog In-Memory Computing (IMC) systems that limit their scalability and deployability: the computational unreliability caused by stuck-at faults (SAFs) and the high compilation overhead of existing fault-mitigation algorithms, namely Fault-Free (FF). To overcome these limitations, we first propose a novel multi-bit weight representation technique, termed row-column hybrid grouping, which generalizes conventional column grouping by introducing redundancy across both rows and columns. This structural redundancy enhances fault tolerance and can be effectively combined with existing fault-mitigation solutions. Second, we design a compiler pipeline that reformulates the fault-aware weight decomposition problem as an Integer Linear Programming (ILP) task, enabling fast and scalable compilation through off-the-shelf solvers. Further acceleration is achieved through theoretical insights that identify fault patterns amenable to trivial solutions, significantly reducing computation. Experimental results on convolutional networks and small language models demonstrate the effectiveness of our approach, achieving up to 8%p improvement in accuracy, 150x faster compilation, and 2x energy efficiency gain compared to existing baselines.
+
+为克服这些限制,本文件首先提出一种新的多位权重代表技术,称为行列混合组合,通过在行和列中引入冗余,将常规柱子分组。这种结构冗余会增加过错容忍度,并可以有效地与现有的减少错误解决方案相结合。第二,我们设计了一个编译管道,将现有减少过失算法(即无过失算法)的高度编译间接费用作为Interger线性程序(ILP)任务重新表述出过错的重量分解问题,使通过现成解答器快速和可扩展的汇编成为可能。通过理论洞察,找出容易发生小解的错误模式,大大降低计算,从而进一步加快速度。关于革命网络和小语言模型的实验结果显示了我们方法的有效性,实现了8%的精确性改进,150x更快的编集速度,2x的能源效率比现有基线提高了。
+
+---
+
+## Article 51
+### Title@2025-08-21 (4): Silent Data Corruption by 10x Test Escapes Threatens Reliable Computing
+
+**Title**: Silent Data Corruption by 10x Test Escapes Threatens Reliable Computing | Silent Data Korruption durch 10x Test Flucht bedroht zuverlässiges Rechnen | 由10x测试 " 逃避威胁 " 进行的无声数据腐败 [2508.01786v4](http://arxiv.org/abs/2508.01786v4)
+
+**Authors** (8): Subhasish Mitra, Subho Banerjee, Martin Dixon, Rama Govindaraju, Peter Hochschild, Eric X. Liu, Bharath Parthasarathy, Parthasarathy Ranganathan
+
+Too many defective compute chips are escaping existing manufacturing tests -- at least an order of magnitude more than industrial targets across all compute chip types in data centers. Silent data corruptions (SDCs) caused by test escapes, when left unaddressed, pose a major threat to reliable computing. We present a three-pronged approach outlining future directions for overcoming test escapes: (a) Quick diagnosis of defective chips directly from system-level incorrect behaviors. Such diagnosis is critical for gaining insights into why so many defective chips escape existing manufacturing testing. (b) In-field detection of defective chips. (c) New test experiments to understand the effectiveness of new techniques for detecting defective chips. These experiments must overcome the drawbacks and pitfalls of previous industrial test experiments and case studies.
+
+太多有缺陷的计算芯片正在逃避现有的制造试验 -- -- 至少比数据中心所有计算芯片类型的工业目标高出一个数量级。试验逃逸造成的静态数据腐败(SDCs)在未解决的情况下对可靠的计算构成重大威胁。我们提出了一个三管齐下的方法,概述了克服试验逃逸的未来方向:(a) 直接从系统层面的不正确行为中快速诊断有缺陷的芯片。这种诊断对于深入了解为什么如此多的有缺陷的芯片逃避现有制造试验至关重要。 (b) 实地检测有缺陷的芯片。 (c) 进行新的测试实验,以了解发现有缺陷的芯片的新技术的有效性。这些实验必须克服以往工业试验实验和案例研究的缺陷和缺陷。
+
+---
+
+## Article 52
+### Title@2025-08-21 (4): JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on   FPGAs
+
+**Title**: JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on   FPGAs | JEDI-linear: Schnelle und effiziente Graphen-Neural-Netzwerke für Jet Tagging auf FPGAs | JEDI-线性:快速高效的喷气拖动FPGAs的图形神经网络 [2508.15468v1](http://arxiv.org/abs/2508.15468v1)
+
+**Authors** (11): Zhiqiang Que, Chang Sun, Sudarshan Paramesvaran, Emyr Clement, Katerina Karakoulaki, Christopher Brown, Lauri Laatu, Arianna Cox, Alexander Tapper, Wayne Luk, Maria Spiropulu
+
+Graph Neural Networks (GNNs), particularly Interaction Networks (INs), have shown exceptional performance for jet tagging at the CERN High-Luminosity Large Hadron Collider (HL-LHC). However, their computational complexity and irregular memory access patterns pose significant challenges for deployment on FPGAs in hardware trigger systems, where strict latency and resource constraints apply. In this work, we propose JEDI-linear, a novel GNN architecture with linear computational complexity that eliminates explicit pairwise interactions by leveraging shared transformations and global aggregation. To further enhance hardware efficiency, we introduce fine-grained quantization-aware training with per-parameter bitwidth optimization and employ multiplier-free multiply-accumulate operations via distributed arithmetic. Evaluation results show that our FPGA-based JEDI-linear achieves 3.7 to 11.5 times lower latency, up to 150 times lower initiation interval, and up to 6.2 times lower LUT usage compared to state-of-the-art designs while also delivering higher model accuracy and eliminating the need for DSP blocks entirely. In contrast, state-of-the-art solutions consume over 8,700 DSPs. This is the first interaction-based GNN to achieve less than 60~ns latency and currently meets the requirements for use in the HL-LHC CMS Level-1 trigger system. This work advances the next-generation trigger systems by enabling accurate, scalable, and resource-efficient GNN inference in real-time environments. Our open-sourced templates will further support reproducibility and broader adoption across scientific applications.
+
+内建网络(GNNs),特别是互动网络(INs),显示在CERN高液态大型哈德龙对撞器(HL-LHC)喷气标记的特效。然而,它们的计算复杂性和不规则的内存访问模式对在硬触发系统中的FPGAS的部署提出了重大挑战,在硬件触发系统中,存在严格的悬浮和资源限制。在这项工作中,我们提议JEDI-线性结构,这是一个具有线性计算复杂性的新颖的GNN结构,它通过利用共享转换和全球聚合,消除对等互动。为了进一步提高硬件效率,我们采用每平米微宽宽度对称大型哈德伦对冲对冲培训,并通过分布算术采用无倍倍增量累积操作。评价结果表明,我们基于FPGGGGGA的JED-线系统在硬度上实现了3.7至11.5倍的低延迟度,比基于常规设计的系统设计低6.2倍的LUT使用率,同时提供更高的模型准确性培训,并完全消除对DSP区块的需求。在目前对GS-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S
+
+---
+
+## Article 53
+### Title@2025-08-21 (4): Efficient Adaptable High-throughput Streaming Aggregation Engines
+
+**Title**: Efficient Adaptable High-throughput Streaming Aggregation Engines | Effiziente anpassungsfähige Hochdurchsatz-Streaming-Aggregationsmotoren | 高可调适可调适的高排流量聚合引擎 [2405.18168v3](http://arxiv.org/abs/2405.18168v3)
+
+**Authors** (2): Philippos Papaphilippou, Wayne Luk
+
+Aggregation queries are a series of computationally-demanding analytics operations on counted, grouped or time series data. They include tasks such as summation or finding the median among the items of the same group, and within a specified number of the last observed tuples for sliding window aggregation (SWAG). They have a wide range of applications including database analytics, operating systems, bank security and medical sensors. Existing challenges include the hardware complexity that comes with efficiently handling per-group states using hash-based approaches. This paper presents an adaptable pipeline for calculating a wide range of aggregation queries with high throughput. It is then adapted for SWAG and achieves up to 476x speedup over the CPU core of the same platform. It achieves unparalleled levels of performance and functionality such as a throughput of 1 GT/s on our setup for SWAG without groups, and more advanced operators with up to 4x the window sizes than the state-of-the-art with groups as an approximation for SWAG featuring per-group windows using a fraction of the resources and no DRAM.
+
+聚合查询是一系列计算要求的对计算、分组或时间序列数据的分析操作,包括总和或在同一组项目中找到中位数等任务,以及在最后观察到的滑动窗口聚合图(SWAG)中的具体数量范围内的任务,其应用范围很广,包括数据库分析、操作系统、银行安全和医疗传感器等数据库分析、操作系统、银行安全和医疗传感器等。现有挑战包括硬件的复杂性,这些复杂因素是使用散列方法对每个组国家进行有效处理而带来的。本文为计算大量集成查询和高吞吐量数据提供了一个可调整的管道,然后为SWAG作了调整,在同一个平台的CPU核心上达到476x速度。它达到前所未有的性能和功能水平,例如:无群的SWAG的设置中输出量为1GT/,以及较先进的操作者,其窗口大小比状态技术高4x,其组合是SWAG的近似组合,其每个组窗口使用资源的一部分,没有DRAM。
+
+---
+
