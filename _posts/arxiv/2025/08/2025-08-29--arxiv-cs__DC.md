@@ -1,0 +1,1547 @@
+---
+title: "cs.DC @ 2025-08-29: 110"
+date: 2025-08-29
+layout: post
+---
+
+- [00](#article-0) | **08-28 (4)** | HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation   for SLO-aware Serverless Inferences | HAS-GPU: Effizientes Hybrid-Autoskalieren mit feinkörniger GPU-Zuteilung für SLO-aware serverlose Schlussfolgerungen | HASS-GPU: 高效混合自动调整,为 SLO-awawe 服务器无服务器引用配置精制的GPU配置 | [2505.01968v2](http://arxiv.org/abs/2505.01968v2)
+- [01](#article-1) | 08-28 | Policy Design in Zero-Trust Distributed Networks: Challenges and   Solutions | Politikgestaltung in zero-Trust Distributed Networks: Herausforderungen und Lösungen | 零信任分配网络的政策设计:挑战和解决办法 | [2508.04526v2](http://arxiv.org/abs/2508.04526v2)
+- [02](#article-2) | 08-28 | A Hybrid Stochastic Gradient Tracking Method for Distributed Online   Optimization Over Time-Varying Directed Networks | Eine Hybrid-Stochastische Gradient Tracking-Methode für verteilte Online-Optimierung über Zeit-Varying gerichtete Netzwerke | 用于在时间变化的定向网络中分配在线优化的混合存储渐进跟踪方法 | [2508.20645v1](http://arxiv.org/abs/2508.20645v1)
+- [03](#article-3) | 08-28 | High performance visualization for Astronomy and Cosmology: the VisIVO's   pathway toward Exascale systems | Hochleistungsvisualisierung für Astronomie und Kosmologie: Der Weg des VisIVO in Richtung Exascale-Systeme | 天文学和宇宙学高性能可视化:VisIVO通往Exascal系统的道路 | [2508.20603v1](http://arxiv.org/abs/2508.20603v1)
+- [04](#article-4) | 08-28 | Collaborative Evolution of Intelligent Agents in Large-Scale   Microservice Systems | Gemeinsame Entwicklung intelligenter Agenten in großräumigen Mikroservice-Systemen | 大型微观服务系统智能代理机构的协作演变 | [2508.20508v1](http://arxiv.org/abs/2508.20508v1)
+- [05](#article-5) | 08-28 | FLASH: Federated Learning Across Simultaneous Heterogeneities | FLASH: Föderiertes Lernen über gleichzeitige Heterogenitäten | FLASH: 同期不同差异的联邦学习 | [2402.08769v2](http://arxiv.org/abs/2402.08769v2)
+- [06](#article-6) | 08-28 | Melding the Serverless Control Plane with the Conventional Cluster   Manager for Speed and Resource Efficiency | Verschmelzen des serverlosen Regelplans mit dem konventionellen Clustermanager für Geschwindigkeit und Ressourceneffizienz | 与负责速度和资源使用效率的常规集群管理员一起,将无服务器控制计划与无服务器控制计划进行熔化 | [2505.24551v3](http://arxiv.org/abs/2505.24551v3)
+- [07](#article-7) | 08-28 | pdGRASS: A Fast Parallel Density-Aware Algorithm for Graph Spectral   Sparsification | pdGRASS: Ein schneller paralleler Dichte-Bewusst-Algorithmus für Graphenspektralsparsifikation | pdGRASS: 用于图形光谱分立的快速平行密度- 软件算法 | [2508.20403v1](http://arxiv.org/abs/2508.20403v1)
+- [08](#article-8) | 08-28 | CoFormer: Collaborating with Heterogeneous Edge Devices for Scalable   Transformer Inference | CoFormer: Zusammenarbeit mit Heterogenen Edge-Geräten für skalierbare Transformer-Inferenz | 复合:与可缩缩变换器推断的异异异边缘设备合作 | [2508.20375v1](http://arxiv.org/abs/2508.20375v1)
+- [09](#article-9) | 08-28 | HPC Digital Twins for Evaluating Scheduling Policies, Incentive   Structures and their Impact on Power and Cooling | HPC Digital Twins zur Bewertung von Scheduling-Politiken, Anreizstrukturen und deren Auswirkungen auf Leistung und Kühlung | HPC 评价日程政策、激励结构及其对电力和冷却的影响的数码双对评价政策、激励结构及其对电力和冷却的影响 | [2508.20016v2](http://arxiv.org/abs/2508.20016v2)
+- [10](#article-10) | 08-28 | Poison Once, Refuse Forever: Weaponizing Alignment for Injecting Bias in   LLMs | Gift einmal, lehnen Sie für immer: Weaponizing Alignment für die Injektion von Bias in LLMs | 毒一次,永远拒绝:在LLM中注入Bias时武器化一致 | [2508.20333v1](http://arxiv.org/abs/2508.20333v1)
+- [11](#article-11) | **08-27 (3)** | Predictable LLM Serving on GPU Clusters | Voraussichtlicher LLM-Einsatz auf GPU-Clustern | 在 GPU 集群上服务 | [2508.20274v1](http://arxiv.org/abs/2508.20274v1)
+- [12](#article-12) | 08-27 | SwizzlePerf: Hardware-Aware LLMs for GPU Kernel Performance Optimization | SwizzlePerf: Hardware-Aware LLMs für GPU Kernel Performance Optimierung | SwizzlePerf: GPU 内核性能优化的硬件- 软件软件LMLM | [2508.20258v1](http://arxiv.org/abs/2508.20258v1)
+- [13](#article-13) | 08-27 | SpeedMalloc: Improving Multi-threaded Applications via a Lightweight   Core for Memory Allocation | SpeedMalloc: Multi-Threaded-Anwendungen über einen Leichtbaukern zur Speicherallokation verbessern | SpeedMalloc:通过记忆分配轻量核心改进多行应用 | [2508.20253v1](http://arxiv.org/abs/2508.20253v1)
+- [14](#article-14) | 08-27 | Scaling Decentralized Learning with FLock | Skalierung dezentrales Lernen mit FLock | 与 FLock 的分散化学习 | [2507.15349v2](http://arxiv.org/abs/2507.15349v2)
+- [15](#article-15) | 08-27 | New Tools, Programming Models, and System Support for   Processing-in-Memory Architectures | Neue Tools, Programmiermodelle und Systemunterstützung für Processing-in-Memory-Architekturen | 处理记忆中结构的新工具、编程模型和系统支持 | [2508.19868v1](http://arxiv.org/abs/2508.19868v1)
+- [16](#article-16) | 08-27 | Hybrid Classical-Quantum Supercomputing: A demonstration of a   multi-user, multi-QPU and multi-GPU environment | Hybrid Classical-Quantum Supercomputing: Eine Demonstration einer Multi-User-, Multi-QPU- und Multi-GPU-Umgebung | 超量计算:多用户、多QPU和多GPU环境的演示 | [2508.16297v2](http://arxiv.org/abs/2508.16297v2)
+- [17](#article-17) | 08-27 | Fray: An Efficient General-Purpose Concurrency Testing Platform for the   JVM (Extended Version) | Fray: Eine effiziente General-Purpose Concurrency Testing Plattform für die JVM (erweiterte Version) | Fray:为JVM(扩展版本)建立一个高效的普通用途货币计算测试平台 | [2501.12618v2](http://arxiv.org/abs/2501.12618v2)
+- [18](#article-18) | 08-27 | A Sheaf-Theoretic Characterization of Tasks in Distributed Systems | Eine schaftheoretische Charakterisierung von Aufgaben in verteilten Systemen | 分配系统中任务Aaf-分配系统中任务理论特征 | [2503.02556v2](http://arxiv.org/abs/2503.02556v2)
+- [19](#article-19) | 08-27 | Separation of Three or More Autonomous Mobile Models under Hierarchical   Schedulers | Trennung von drei oder mehr autonomen Mobilmodellen unter Hierarchischen Schedulern | 三级或三级以上自主移动模式在等级表下分离 | [2508.19805v1](http://arxiv.org/abs/2508.19805v1)
+- [20](#article-20) | 08-27 | Distributed Subgraph Finding: Progress and Challenges | Distributed Subgraph Finding: Fortschritt und Herausforderungen | 分布式藏书查找:进展和挑战 | [2203.06597v5](http://arxiv.org/abs/2203.06597v5)
+- [21](#article-21) | 08-27 | Optimal Distributed Replacement Paths | Optimal verteilte Ersatzwege | 最佳分布式最佳替换路径 | [2502.15378v4](http://arxiv.org/abs/2502.15378v4)
+- [22](#article-22) | 08-27 | Beyond the Bermuda Triangle of Contention: IOMMU Interference in Mixed   Criticality Systems | Jenseits des Bermuda-Dreiecks der Zufriedenheit: IOMMU-Interferenz in gemischten Critalitätssystemen | 百慕大内涵三角以外的百慕大三角:IOMMU 混合临界系统干扰 | [2508.19670v1](http://arxiv.org/abs/2508.19670v1)
+- [23](#article-23) | 08-27 | Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian   Processes | Beschleunigte Spatio-Temporale Bayesische Modellierung für multivariate Gaußische Prozesse | 加速多变量高斯进程SPatio-Te时海湾模型模型 | [2507.06938v2](http://arxiv.org/abs/2507.06938v2)
+- [24](#article-24) | 08-27 | A Model-agnostic Strategy to Mitigate Embedding Degradation in   Personalized Federated Recommendation | Eine modell-agnostische Strategie, um Degradation in personalisierte Federierte Empfehlung einzubinden | 减少个性化联邦建议中嵌入性退化的示范不可知战略 | [2508.19591v1](http://arxiv.org/abs/2508.19591v1)
+- [25](#article-25) | 08-27 | Taming the Chaos: Coordinated Autoscaling for Heterogeneous and   Disaggregated LLM Inference | Zähmen des Chaos: Koordinierte Autoskalierung für heterogene und disaggregierte LLM-Inferenz | 防止混乱:为异基因和分解的LLM推论协调自动升级 | [2508.19559v1](http://arxiv.org/abs/2508.19559v1)
+- [26](#article-26) | 08-27 | A Survey on Parallel Text Generation: From Parallel Decoding to   Diffusion Language Models | Eine Umfrage zur parallelen Textgenerierung: Von Paralleldekodierung zu Diffusions-Sprachenmodellen | 关于平行制文本的调查:从平行解码到传播语言模式 | [2508.08712v3](http://arxiv.org/abs/2508.08712v3)
+- [27](#article-27) | 08-27 | Online-Score-Aided Federated Learning: Taming the Resource Constraints   in Wireless Networks | Föderiertes Online-Score-Lernen: Ressourcenbeschränkungen in drahtlosen Netzwerken zügeln | 在线核心援助联邦学习:在无线网络中限制资源 | [2408.05886v4](http://arxiv.org/abs/2408.05886v4)
+- [28](#article-28) | 08-27 | Aegis: Taxonomy and Optimizations for Overcoming Agent-Environment   Failures in LLM Agents | Aegis: Taxonomie und Optimierungen zur Überwindung von Versäumnissen bei LLM-Agenten | Aegis:克服LLLM剂中代理环境故障的分类和优化 | [2508.19504v1](http://arxiv.org/abs/2508.19504v1)
+- [29](#article-29) | 08-27 | FedProtoKD: Dual Knowledge Distillation with Adaptive Class-wise   Prototype Margin for Heterogeneous Federated Learning | FedProtoKD: Dual Knowledge Destillation mit adaptivem Class-Wise-Prototyp-Marge für heterogenes Federated Learning | Fed protoKD: 以适应性级分类方法的原型边际效应进行双重知识蒸馏,促进异质联邦学习 | [2508.19009v2](http://arxiv.org/abs/2508.19009v2)
+- [30](#article-30) | 08-27 | Towards 6G Intelligence: The Role of Generative AI in Future Wireless   Networks | Towards 6G Intelligence: Die Rolle der Generativen KI in künftigen drahtlosen Netzwerken | 走向6G情报:未来无线网络中创造的AI的作用 | [2508.19495v1](http://arxiv.org/abs/2508.19495v1)
+- [31](#article-31) | **08-26 (2)** | Formal Modeling and Verification of the Algorand Consensus Protocol in   CADP | Formelle Modellierung und Überprüfung des Algorand-Konsensusprotokolls in CADP | 《非洲农业发展综合方案阿尔及尔共识议定书》的示范和核查 | [2508.19452v1](http://arxiv.org/abs/2508.19452v1)
+- [32](#article-32) | 08-26 | HAP: Hybrid Adaptive Parallelism for Efficient Mixture-of-Experts   Inference | HAP: Hybride Adaptive Parallelität für effiziente Mixture-of-Experts-Schlussfolgerung | HAP: 高效混合混合专家的混合调适平行主义 | [2508.19373v1](http://arxiv.org/abs/2508.19373v1)
+- [33](#article-33) | 08-26 | Harnessing the Full Potential of RRAMs through Scalable and Distributed   In-Memory Computing with Integrated Error Correction | Das volle Potenzial von RRAMs durch skalierbares und verteiltes In-Memory Computing mit integrierter Fehlerkorrektur nutzen | 通过带有综合错误更正的可缩放和分散的模拟计算机,充分利用记录和记录机的全部潜力 | [2508.13298v2](http://arxiv.org/abs/2508.13298v2)
+- [34](#article-34) | 08-26 | Architecting Distributed Quantum Computers: Design Insights from   Resource Estimation | Architecting Distributed Quantum Computers: Design Insights from Resource Estimation | 建筑分布量子计算机:资源估算的设计透视 | [2508.19160v1](http://arxiv.org/abs/2508.19160v1)
+- [35](#article-35) | 08-26 | Ab-initio Quantum Transport with the GW Approximation, 42,240 Atoms, and   Sustained Exascale Performance | Ab-initio Quantum Transport mit der GW-Annäherung, 42.240 Atome und Sustained Exascale Performance | Ab-initio 量吨运输,与GW接近,42 240原子和持续加速性能 | [2508.19138v1](http://arxiv.org/abs/2508.19138v1)
+- [36](#article-36) | 08-26 | Federated Fine-Tuning of Sparsely-Activated Large Language Models on   Resource-Constrained Devices | Federated Fine-Tuning von Sparsely-Activated Large Language Models auf ressourcengebundenen Geräten | 资源限制设备零散启动的大型语言模型的联邦精度 | [2508.19078v1](http://arxiv.org/abs/2508.19078v1)
+- [37](#article-37) | 08-26 | CARMA: Collocation-Aware Resource Manager with GPU Memory Estimator | CARMA: Collocation-Aware Resource Manager mit GPU-Speicher-Estimator | CARMA: 与 GPU 内存模拟器合用同一地点软件资源管理器 | [2508.19073v1](http://arxiv.org/abs/2508.19073v1)
+- [38](#article-38) | 08-26 | Large Language Model Aided QoS Prediction for Service Recommendation | Großes Sprachmodell unterstützte QoS-Vorhersage für Service-Empfehlung | 大语言模拟助助QOS服务建议预测 | [2408.02223v3](http://arxiv.org/abs/2408.02223v3)
+- [39](#article-39) | 08-26 | Databelt: A Continuous Data Path for Serverless Workflows in the 3D   Compute Continuum | Databelt: Ein kontinuierlicher Datenpfad für serverlose Workflows im 3D Compute Continuum | 数据带: 3D 计算连续性的无服务器工作流程的持续数据路径 | [2508.15351v2](http://arxiv.org/abs/2508.15351v2)
+- [40](#article-40) | 08-26 | Deep Learning-Enabled Supercritical Flame Simulation at Detailed   Chemistry and Real-Fluid Accuracy Towards Trillion-Cell Scale | Deep Learning-Enabled Supercritical Flame Simulation bei detaillierter Chemie und real-Fluid Genauigkeit auf Trillion-Zell-Skala | 在详细化学和真实流流准确度对三亿千分之千分之球规模的 深化学和真实流精度模拟深学、可读取的超临界火焰模拟 | [2508.18969v1](http://arxiv.org/abs/2508.18969v1)
+- [41](#article-41) | 08-26 | SIREN: Software Identification and Recognition in HPC Systems | SIREN: Software-Identifikation und -Erkennung in HPC-Systemen | SIREN:HPC系统中的软件识别和识别 | [2508.18950v1](http://arxiv.org/abs/2508.18950v1)
+- [42](#article-42) | 08-26 | ClusterFusion: Expanding Operator Fusion Scope for LLM Inference via   Cluster-Level Collective Primitive | ClusterFusion: Erweiterung der Operator-Fusion-Scope für LLM-Inferenz über Cluster-Level-Kollektiv Primitive | 集束法:通过集束级集体原始机制扩大LLM 推理的经营人拆解范围 | [2508.18850v1](http://arxiv.org/abs/2508.18850v1)
+- [43](#article-43) | 08-26 | Examining MPI and its Extensions for Asynchronous Multithreaded   Communication | Prüfung des MPI und seiner Erweiterungen für die asynchrone Multithreaded-Kommunikation | 检查MPI及其非同步多读通信扩展 | [2508.18667v1](http://arxiv.org/abs/2508.18667v1)
+- [44](#article-44) | 08-26 | AGILE: Lightweight and Efficient Asynchronous GPU-SSD Integration | AGILE: Leichte und effiziente asynchrone GPU-SSD-Integration | AGILE: 轻量和高效同步的GPU-SSD整合 | [2504.19365v3](http://arxiv.org/abs/2504.19365v3)
+- [45](#article-45) | 08-26 | History Rhymes: Accelerating LLM Reinforcement Learning with RhymeRL | Geschichte Rhyme: Beschleunigendes LLM-Verstärkungslernen mit RhymerL | 历史时速:与RhymeRL一起加快LLM强化学习 | [2508.18588v1](http://arxiv.org/abs/2508.18588v1)
+- [46](#article-46) | 08-26 | Strata: Hierarchical Context Caching for Long Context Language Model   Serving | Strata: Hierarchischer Kontext Caching für lange Kontext Language Model Serving | Strata:长语语言示范服务按等级顺序排列的背景 | [2508.18572v1](http://arxiv.org/abs/2508.18572v1)
+- [47](#article-47) | **08-25 (1)** | Managing Multi Instance GPUs for High Throughput and Energy Savings | Verwaltung von Multi-Instance-GPUs für hohe Durchsatz- und Energieeinsparungen | 管理高输送量和节能的多事例 | [2508.18556v1](http://arxiv.org/abs/2508.18556v1)
+- [48](#article-48) | 08-25 | Experiences with Model Context Protocol Servers for Science and High   Performance Computing | Erfahrungen mit Model Context Protocol Servern für Wissenschaft und High Performance Computing | 科学和高性能计算模型示范背景协议服务器的经验 | [2508.18489v1](http://arxiv.org/abs/2508.18489v1)
+- [49](#article-49) | 08-25 | DualSparse-MoE: Coordinating Tensor/Neuron-Level Sparsity with Expert   Partition and Reconstruction | DualSparse-MoE: Abstimmung von Tensor/Neuron-Level-Sparsität mit Fachpartition und Rekonstruktion | 双分-MOE:协调Tensor/Neuron级与专家分区和重建 | [2508.18376v1](http://arxiv.org/abs/2508.18376v1)
+- [50](#article-50) | 08-25 | LCI: a Lightweight Communication Interface for Efficient Asynchronous   Multithreaded Communication | LCI: Eine leichte Kommunikationsschnittstelle für effiziente asynchrone multithreaded Kommunikation | LCI: 高效非同步多读多读通信的轻量级通信界面 | [2505.01864v2](http://arxiv.org/abs/2505.01864v2)
+- [51](#article-51) | 08-25 | Flash Sparse Attention: An Alternative Efficient Implementation of   Native Sparse Attention Kernel | Flash Sparse Achtung: Eine alternative effiziente Implementierung von nativen Sparse Aufmerksamkeit Kernel | 闪光散散散注意:以其他方式有效地落实本地散散散注意核心 | [2508.18224v1](http://arxiv.org/abs/2508.18224v1)
+- [52](#article-52) | 08-25 | Highly Dynamic and Fully Distributed Data Structures | Hochdynamische und vollständig verteilte Datenstrukturen | 高度动态和充分分配的数据结构 | [2409.10235v2](http://arxiv.org/abs/2409.10235v2)
+- [53](#article-53) | 08-25 | Practical GPU Choices for Earth Observation: ResNet-50 Training   Throughput on Integrated, Laptop, and Cloud Accelerators | Praktische GPU-Wahlmöglichkeiten für Erdbeobachtung: ResNet-50-Trainingsdurchsatz auf integrierten, Laptop- und Cloud-Beschleunigern | GPU地球观测实用GPU选择:ResNet-50综合、膝上型和云加速器培训投入 | [2508.18206v1](http://arxiv.org/abs/2508.18206v1)
+- [54](#article-54) | 08-25 | Wait-free Replicated Data Types and Fair Reconciliation | Wait-free replicated Datentypen und Fair Reconciliation | 免费无等待的复制数据类型和公平核对 | [2508.18193v1](http://arxiv.org/abs/2508.18193v1)
+- [55](#article-55) | 08-25 | HeteroTune: Efficient Federated Learning for Large Heterogeneous Models | HeteroTune: Effizientes Federated Learning für große Heterogene Modelle | 异血图:采用高效的联邦学习促进大型异异种模型 | [2411.16796v2](http://arxiv.org/abs/2411.16796v2)
+- [56](#article-56) | 08-25 | Views: A Hardware-friendly Graph Database Model For Storing Semantic   Information | Ansichten: Ein hardwarefreundliches Graphen-Datenbankmodell zum Speichern semantischer Informationen | 意见:硬件友好型图表数据库模型,用于存储语义信息 | [2508.18123v1](http://arxiv.org/abs/2508.18123v1)
+- [57](#article-57) | 08-25 | Linear Layouts: Robust Code Generation of Efficient Tensor Computation   Using $\mathbb{F}_2$ | Lineare Layouts: Robuste Codegenerierung effizienter Tensor-Computation mit $\mathbb{F}_2$ | 线性布局: 使用 $\ mathbb{F @ @ @ @ @ @% 2$ 的 有效天文计算强力代码生成 | [2505.23819v2](http://arxiv.org/abs/2505.23819v2)
+- [58](#article-58) | 08-25 | Scalable Engine and the Performance of Different LLM Models in a SLURM   based HPC architecture | Skalierbare Engine und die Leistung verschiedener LLM-Modelle in einer SLURM-basierten HPC-Architektur | 在基于 SLURM 的 HPC 结构中可缩放引擎和不同 LLM 模型的性能 | [2508.17814v1](http://arxiv.org/abs/2508.17814v1)
+- [59](#article-59) | 08-25 | DAG it off: Latency Prefers No Common Coins | DAG it off: Latency bevorzugt keine gemeinsamen Münzen | DAG 它关闭: 长期优先没有共同的硬币 | [2508.14716v2](http://arxiv.org/abs/2508.14716v2)
+- [60](#article-60) | 08-25 | ExpertWeave: Efficiently Serving Expert-Specialized Fine-Tuned Adapters   at Scale | ExpertWeave: Effizient bedienende, sachkundig-spezialisierte Feintuned-Adapter im Maßstab | 专家编织:在规模上高效率地服务于专家专业化的微调适应器 | [2508.17624v1](http://arxiv.org/abs/2508.17624v1)
+- [61](#article-61) | 08-25 | Zen-Attention: A Compiler Framework for Dynamic Attention Folding on AMD   NPUs | Zen-Achtung: Ein Compiler-Framework für dynamische Aufmerksamkeit Folding auf AMD NPUs | Zen-Atention: 动态关注在AMD NPU上折叠的汇编框架 | [2508.17593v1](http://arxiv.org/abs/2508.17593v1)
+- [62](#article-62) | **08-24 (7)** | Easy Acceleration with Distributed Arrays | Einfache Beschleunigung mit verteilten Arrays | 使用分布式阵列快速加速 | [2508.17493v1](http://arxiv.org/abs/2508.17493v1)
+- [63](#article-63) | 08-24 | MetaFed: Advancing Privacy, Performance, and Sustainability in Federated   Metaverse Systems | MetaFed: Datenschutz, Performance und Nachhaltigkeit in Federated Metaverse Systems verbessern | MetFed:促进联邦元系统中的隐私、性能和可持续性 | [2508.17341v1](http://arxiv.org/abs/2508.17341v1)
+- [64](#article-64) | 08-24 | Bine Trees: Enhancing Collective Operations by Optimizing Communication   Locality | Bine Trees: Verbesserung kollektiver Operationen durch Optimierung der Kommunikationslokalität | Bine树:通过优化通信地点,加强集体业务 | [2508.17311v1](http://arxiv.org/abs/2508.17311v1)
+- [65](#article-65) | 08-24 | PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief   Propagation | PixRO: Pixel-verteilte Rotations-Odometrie mit Gauß-Belief-Propagation | PixRO: 带有高斯人信仰传播的像素分布式旋转测量 | [2406.09726v2](http://arxiv.org/abs/2406.09726v2)
+- [66](#article-66) | 08-24 | TokenLake: A Unified Segment-level Prefix Cache Pool for Fine-grained   Elastic Long-Context LLM Serving | TokenLake: Ein einheitlicher Segment-Level-Präfix-Cache-Pool für feinkörnige elastische Long-Context LLM Serving | TokenLake: 精制弹性长文本LLM 服务统一部门级前缀缓存库 | [2508.17219v1](http://arxiv.org/abs/2508.17219v1)
+- [67](#article-67) | 08-24 | Memory-Efficient Federated Fine-Tuning of Large Language Models via   Layer Pruning | Memory-Efficient Federated Fine-Tuning von großen Sprachmodellen über Layer Pruning | 通过 " 层环流 " 改进大语言模型 | [2508.17209v1](http://arxiv.org/abs/2508.17209v1)
+- [68](#article-68) | 08-24 | Universal Finite-State and Self-Stabilizing Computation in Anonymous   Dynamic Networks | Universelle Finite-State- und Selbststabilisierungsrechnung in anonymen dynamischen Netzwerken | 匿名动态网络普遍有限状态和自我稳定计算 | [2409.00688v3](http://arxiv.org/abs/2409.00688v3)
+- [69](#article-69) | **08-23 (6)** | Enhancing Memory Efficiency in Large Language Model Training Through   Chronos-aware Pipeline Parallelism | Verbesserung der Speichereffizienz bei großsprachlichen Modellschulungen durch Chronos-aware-Pipeline-Parallelismus | 通过Chronos-aware管道平行式提高大语言示范培训的记忆效率 | [2503.03182v2](http://arxiv.org/abs/2503.03182v2)
+- [70](#article-70) | **08-22 (5)** | I/O in Machine Learning Applications on HPC Systems: A 360-degree Survey | I/O in Machine Learning Anwendungen auf HPC-Systemen: Eine 360-Grad-Umfrage | 高级PC系统机器学习应用一/O:360度调查 | [2404.10386v3](http://arxiv.org/abs/2404.10386v3)
+- [71](#article-71) | 08-22 | PICO: Performance Insights for Collective Operations | PICO: Performance-Insights für kollektive Operationen | PICO: 集体业务业绩透视 | [2508.16809v1](http://arxiv.org/abs/2508.16809v1)
+- [72](#article-72) | 08-22 | Neuromorphic Simulation of Drosophila Melanogaster Brain Connectome on   Loihi 2 | Neuromorphe Simulation von Drosophila Melanogaster Brain Connectome auf Loihi 2 | Loihi 2上的Drosophicra Melanagaster脑连接器神经形态模拟 | [2508.16792v1](http://arxiv.org/abs/2508.16792v1)
+- [73](#article-73) | 08-22 | TOAST: Fast and scalable auto-partitioning based on principled static   analysis | TOAST: Schnelles und skalierbares Auto-Partitionieren auf Basis einer prinzipiell statischen Analyse | TOAST:基于原则静态分析的快速和可缩放自动分割 | [2508.15010v2](http://arxiv.org/abs/2508.15010v2)
+- [74](#article-74) | 08-22 | Denoising Application Performance Models with Noise-Resilient Priors | Denoisierende Anwendungs-Performance-Modelle mit geräuschbeständigen Prioren | 具有噪音-抗应前置物的低度应用性性能模型 | [2504.10996v3](http://arxiv.org/abs/2504.10996v3)
+- [75](#article-75) | 08-22 | On the Duality of Task and Actor Programming Models | Über die Dualität von Task- und Actor-Programmierungsmodellen | 任务质量和行为者方案编制模式 | [2508.16522v1](http://arxiv.org/abs/2508.16522v1)
+- [76](#article-76) | 08-22 | Systematic Characterization of LLM Quantization: A Performance, Energy,   and Quality Perspective | Systematische Charakterisierung der LLM-Quantisierung: Eine Performance-, Energie- und Qualitätsperspektive | LLM 量化:绩效、能源和质量视角 | [2508.16712v1](http://arxiv.org/abs/2508.16712v1)
+- [77](#article-77) | 08-22 | Robustness of deep learning classification to adversarial input on GPUs:   asynchronous parallel accumulation is a source of vulnerability | Robustheit der Deep-Learning-Klassifizierung gegenüber konversitären Eingaben auf GPUs: asynchrone parallele Akkumulation ist eine Quelle der Verwundbarkeit | 深深层次学习分类的强力与对抗性投入在GPU上的对抗性投入:非同步平行平行积累是脆弱性的一个来源 | [2503.17173v2](http://arxiv.org/abs/2503.17173v2)
+- [78](#article-78) | 08-22 | Information-Theoretic Decentralized Secure Aggregation with Collusion   Resilience | Information-Theoretik dezentralisiert Sichere Aggregation mit Kollusionsresilienz | 信息理论分散化安全聚合与协作复原力 | [2508.00596v2](http://arxiv.org/abs/2508.00596v2)
+- [79](#article-79) | 08-22 | Generalizing Brooks' theorem via Partial Coloring is Hard Classically   and Locally | Verallgemeinern Brooks' Theorem über Partial Coloring ist hart klassisch und lokal | 通过部分配色普遍化布鲁克斯的理论 | [2508.16308v1](http://arxiv.org/abs/2508.16308v1)
+- [80](#article-80) | 08-22 | Scalable Hybrid quantum Monte Carlo simulation of U(1) gauge field   coupled to fermions on GPU | Skalierbare Hybrid-Quantum Monte Carlo-Simulation des U(1)-Messfeldes gekoppelt mit Fermionen auf GPU | U(1)测量场和GPU上发酵的可缩缩放混合量Monte Carlo模拟 | [2508.16298v1](http://arxiv.org/abs/2508.16298v1)
+- [81](#article-81) | 08-22 | Distributed Computation with Local Advice | Verteilte Berechnung mit lokaler Beratung | 分配的当地咨询计算 | [2405.04519v2](http://arxiv.org/abs/2405.04519v2)
+- [82](#article-82) | 08-22 | Self-Healing Network of Interconnected Edge Devices Empowered by   Infrastructure-as-Code and LoRa Communication | Selbstheilendes Netzwerk von miteinander verbundenen Edge-Geräten, die durch Infrastruktur-as-Code und LoRa-Kommunikation gestärkt werden | 基础设施-规范化和洛拉通信所赋权的相互连接的边缘装置自愈合网络 | [2508.16268v1](http://arxiv.org/abs/2508.16268v1)
+- [83](#article-83) | 08-22 | Did we miss P In CAP? Partial Progress Conjecture under Asynchrony | Vermissen wir P in CAP? Teilweise Progress Conjecture unter Asynchrony | 我们错过了P在CAP吗? | [2501.00021v2](http://arxiv.org/abs/2501.00021v2)
+- [84](#article-84) | 08-22 | GPT-OSS-20B: A Comprehensive Deployment-Centric Analysis of OpenAI's   Open-Weight Mixture of Experts Model | GPT-OSS-20B: Eine umfassende Implementierungs-Centric-Analyse der OpenAI-Open-Weight-Mixture of Experts-Modell | GPT-OSSS-20B:开放国际公司开放视觉专家混合模型全面部署中心全面分析 | [2508.16700v1](http://arxiv.org/abs/2508.16700v1)
+- [85](#article-85) | 08-22 | Dynamic Optimization of Storage Systems Using Reinforcement Learning   Techniques | Dynamische Optimierung von Speichersystemen unter Einsatz von Verstärkungs-Lerntechniken | 使用强化学习技术的储存系统动态优化 | [2501.00068v2](http://arxiv.org/abs/2501.00068v2)
+- [86](#article-86) | 08-22 | BandPilot: Towards Performance-Aware GPU Dispatching in AI Clusters | BandPilot: Auf dem Weg zur Performance-Aware-GPU Dispatching in KI-Clustern | BandPilot:争取在AI 类集中进行性能软件 GPU 调度 | [2506.15595v3](http://arxiv.org/abs/2506.15595v3)
+- [87](#article-87) | **08-21 (4)** | MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI   Applications | MSCCL++: Überdenken von GPU-Kommunikationsabzügen für modernste KI-Anwendungen | MSCCL++: 重新思考GPU 用于尖端AI 应用的 GPU 通信摘要 | [2504.09014v3](http://arxiv.org/abs/2504.09014v3)
+- [88](#article-88) | 08-21 | ASIC-Agent: An Autonomous Multi-Agent System for ASIC Design with   Benchmark Evaluation | ASIC-Agent: Ein autonomes Multi-Agenten-System für ASIC-Design mit Benchmark-Bewertung | ASIC-ASIC机构:有基准评价的ACIC设计自主多机构机构系统 | [2508.15940v1](http://arxiv.org/abs/2508.15940v1)
+- [89](#article-89) | 08-21 | HyperFlexis: Joint Design of Algorithms and Systems for Multi-SLO   Serving and Fast Scaling | HyperFlexis: Gemeinsames Design von Algorithmen und Systemen für Multi-SLO-Skalierung und -Skalierung | 超硬缩:多功能服务和快速缩放的数值和系统联合设计 | [2508.15919v1](http://arxiv.org/abs/2508.15919v1)
+- [90](#article-90) | 08-21 | Power Stabilization for AI Training Datacenters | Leistungsstabilisierung für KI-Trainings-Rechenzentren | AI 稳定电力用于AI培训数据中心 | [2508.14318v2](http://arxiv.org/abs/2508.14318v2)
+- [91](#article-91) | 08-21 | Mitigating context switching in densely packed Linux clusters with   Latency-Aware Group Scheduling | Kontext-Umschaltung in dicht gepackten Linux-Clustern mit Latency-Aware Group Scheduling | 与Latency-Aware Group日程安排一起在密集包装的Linux群集中进行环境变换 | [2508.15703v1](http://arxiv.org/abs/2508.15703v1)
+- [92](#article-92) | 08-21 | Cooperative SGD with Dynamic Mixing Matrices | Kooperative SGD mit dynamischen Mischmatrizen | SGD 与动态混合矩阵合作 | [2508.14565v2](http://arxiv.org/abs/2508.14565v2)
+- [93](#article-93) | 08-21 | CausalMesh: A Formally Verified Causal Cache for Stateful Serverless   Computing | CausalMesh: Ein formal verifizierter Causal Cache für Stateful Serverless Computing | CausalMesh: 国家无服务器计算机正式验证的 Causal Causal Caess 缓存 | [2508.15647v1](http://arxiv.org/abs/2508.15647v1)
+- [94](#article-94) | 08-21 | Scalable Time-Series Causal Discovery with Approximate Causal Ordering | Skalierbare Zeit-Serie Causal Discovery mit annähernder Causal Ordering | 可缩缩的时序因果系列 发现带有近似因果排序的诱因 | [2409.05500v3](http://arxiv.org/abs/2409.05500v3)
+- [95](#article-95) | 08-21 | Efficient Mixed-Precision Large Language Model Inference with TurboMind | Effiziente Mixed-Precision Großsprachige Modellinferenz mit TurboMind | 与TurboMind的高效混合精密大语言模型推断 | [2508.15601v1](http://arxiv.org/abs/2508.15601v1)
+- [96](#article-96) | 08-21 | Lower Bounds for $k$-Set Agreement in Fault-Prone Networks | Niedrigere Bounds für $k$-Set-Vereinbarung in Fault-Prone-Netzwerken | 违约/项目网络中以美元-美元协议为基础的下下界封口 | [2508.15562v1](http://arxiv.org/abs/2508.15562v1)
+- [97](#article-97) | 08-21 | On the $h$-majority dynamics with many opinions | Auf der $h$-Mehrheitsdynamik mit vielen Meinungen | 关于以美元为多数的动态, | [2506.20218v3](http://arxiv.org/abs/2506.20218v3)
+- [98](#article-98) | 08-21 | Universal Dancing by Luminous Robots under Sequential Schedulers | Universal Dancing by Luminous Robots unter Sequential Schedulers | 由按顺序排列的微微机器人普遍跳舞 | [2508.15484v1](http://arxiv.org/abs/2508.15484v1)
+- [99](#article-99) | 08-21 | On the Effectiveness of Graph Reordering for Accelerating Approximate   Nearest Neighbor Search on GPU | Über die Wirksamkeit der Graphenumstellung für die Beschleunigung der annähernd nächsten Nachbarschaftssuche auf der GPU | 加速近近邻搜索GPU的图表重新排序效果 | [2508.15436v1](http://arxiv.org/abs/2508.15436v1)
+- [100](#article-100) | 08-21 | Optimizing Cross-Client Domain Coverage for Federated Instruction Tuning   of Large Language Models | Optimierung der Cross-Client Domain Coverage für die Federated Instruction Tuning von großen Sprachmodellen | 优化大语言模式联邦指示调整的跨气候域覆盖面 | [2409.20135v6](http://arxiv.org/abs/2409.20135v6)
+- [101](#article-101) | 08-21 | SparkAttention: High-Performance Multi-Head Attention for Large Models   on Volta GPU Architecture | SparkAchtung: Hochleistungs-Mehrkopf-Achtung für große Modelle auf Volta GPU-Architektur | SparkAttention: Volta GPU 建筑大模型的高性能多级关注 | [2502.12784v3](http://arxiv.org/abs/2502.12784v3)
+- [102](#article-102) | 08-21 | Near-Optimal Sparse Allreduce for Distributed Deep Learning | Nah-Optimal Sparse Allreduce für verteiltes Deep Learning | 分布式深层学习的近最佳微片缩放 减法 | [2201.07598v4](http://arxiv.org/abs/2201.07598v4)
+- [103](#article-103) | 08-21 | Chimera: Efficiently Training Large-Scale Neural Networks with   Bidirectional Pipelines | Chimera: Effizientes Training von großräumigen Neuralnetzen mit bidirektionalen Pipelines | Chimera:有效培训使用双向管道的大型神经网络 | [2107.06925v5](http://arxiv.org/abs/2107.06925v5)
+- [104](#article-104) | 08-21 | Taming Unbalanced Training Workloads in Deep Learning with Partial   Collective Operations | Unausgewogene Trainingsarbeitslasten im Deep Learning mit teilweisen kollektiven Operationen zu zähmen | 减少部分集体经营的深学习中不平衡的培训工作量 | [1908.04207v5](http://arxiv.org/abs/1908.04207v5)
+- [105](#article-105) | 08-21 | Optimizing Compilation for Distributed Quantum Computing via Clustering   and Annealing | Optimierung der Zusammenstellung für verteiltes Quantenrechnen über Clustering und Annealing | 通过集群和Annaaling优化分布量子计算机编集 | [2508.15267v1](http://arxiv.org/abs/2508.15267v1)
+- [106](#article-106) | 08-21 | Breaking (Global) Barriers in Parallel Stochastic Optimization with   Wait-Avoiding Group Averaging | Breaking (Global) Barrieren in der parallelen stochastischen Optimierung mit Warte-Vermeidung Gruppe durchschnittlich | 与避候群体进行平行斯托卡优化的打破(全球)障碍 | [2005.00124v5](http://arxiv.org/abs/2005.00124v5)
+- [107](#article-107) | 08-21 | Edge-Cloud Collaborative Computing on Distributed Intelligence and Model   Optimization: A Survey | Edge-Cloud Collaborative Computing on Distributed Intelligence und Modelloptimierung: Eine Umfrage | 分布式情报和模式优化:调查 | [2505.01821v4](http://arxiv.org/abs/2505.01821v4)
+- [108](#article-108) | 08-21 | AutoDDL: Automatic Distributed Deep Learning with Near-Optimal Bandwidth   Cost | AutoDDL: Automatisches verteiltes Deep Learning mit nahezu optimalen Bandbreitenkosten | 自动DDL: 以近最佳带宽成本自动分配深层学习 | [2301.06813v3](http://arxiv.org/abs/2301.06813v3)
+- [109](#article-109) | 08-21 | Reliable Multi-view 3D Reconstruction for `Just-in-time' Edge   Environments | Zuverlässige Multi-View 3D-Rekonstruktion für `Just-in-time' Edge-Umgebungen | 重建“正时”边缘环境 | [2508.15158v1](http://arxiv.org/abs/2508.15158v1)
+
+## Article 0
+### Title@2025-08-28 (4): HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation   for SLO-aware Serverless Inferences
+
+**Title**: HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation   for SLO-aware Serverless Inferences | HAS-GPU: Effizientes Hybrid-Autoskalieren mit feinkörniger GPU-Zuteilung für SLO-aware serverlose Schlussfolgerungen | HASS-GPU: 高效混合自动调整,为 SLO-awawe 服务器无服务器引用配置精制的GPU配置 [2505.01968v2](http://arxiv.org/abs/2505.01968v2)
+
+**Authors** (5): Jianfeng Gu, Puxuan Wang, Isaac David Nunez Araya, Kai Huang, Michael Gerndt
+
+Serverless Computing (FaaS) has become a popular paradigm for deep learning inference due to the ease of deployment and pay-per-use benefits. However, current serverless inference platforms encounter the coarse-grained and static GPU resource allocation problems during scaling, which leads to high costs and Service Level Objective (SLO) violations in fluctuating workloads. Meanwhile, current platforms only support horizontal scaling for GPU inferences, thus the cold start problem further exacerbates the problems. In this paper, we propose HAS-GPU, an efficient Hybrid Auto-scaling Serverless architecture with fine-grained GPU allocation for deep learning inferences. HAS-GPU proposes an agile scheduler capable of allocating GPU Streaming Multiprocessor (SM) partitions and time quotas with arbitrary granularity and enables significant vertical quota scalability at runtime. To resolve performance uncertainty introduced by massive fine-grained resource configuration spaces, we propose the Resource-aware Performance Predictor (RaPP). Furthermore, we present an adaptive hybrid auto-scaling algorithm with both horizontal and vertical scaling to ensure inference SLOs and minimize GPU costs. The experiments demonstrated that compared to the mainstream serverless inference platform, HAS-GPU reduces function costs by an average of 10.8x with better SLO guarantees. Compared to state-of-the-art spatio-temporal GPU sharing serverless framework, HAS-GPU reduces function SLO violation by 4.8x and cost by 1.72x on average.
+
+无服务器计算器(FaaS)由于便于部署和支付,已成为一个流行的深层次学习推理范例,因为便于部署和支付;然而,目前没有服务器的无服务器推理平台在规模化过程中遇到粗略和静态的GPU资源分配问题,导致在波动工作量中高成本和服务级目标(SLO)违反。同时,目前的平台只支持对GPU推理的横向缩放,从而冷开始问题进一步加剧了问题。在本文中,我们提议了Has-GPU,这是一个高效的混合自动升级无服务器结构,为深层学习推理分配了精巧的GPU。HA-GPU提出一个灵活的调度器,能够在任意的微缩缩中分配GPU的分布和时间配额。为了解决大量微缩放资源配置空间带来的绩效不确定性,我们提议了资源认知度预测仪(RAPP) 。 此外,我们提出了一个适应性混合自动缩放的GPUP(G)配置值配置值配置,通过横向和垂直的共享性平价框架来降低SLO(SLO)的平均成本,通过测试降低SLO(SLO)的平级平级平比值的平比值,确保10的平级平级的平级的平级的平级的平比值操作的平级的平比值成本降低了SLOLO)的平比值成本。
+
+---
+
+## Article 1
+### Title@2025-08-28 (4): Policy Design in Zero-Trust Distributed Networks: Challenges and   Solutions
+
+**Title**: Policy Design in Zero-Trust Distributed Networks: Challenges and   Solutions | Politikgestaltung in zero-Trust Distributed Networks: Herausforderungen und Lösungen | 零信任分配网络的政策设计:挑战和解决办法 [2508.04526v2](http://arxiv.org/abs/2508.04526v2)
+
+**Authors** (6): Fannya R. Sandjaja, Ayesha A. Majeed, Abdullah Abdullah, Gyan Wickremasinghe, Karen Rafferty, Vishal Sharma
+
+Traditional security architectures are becoming more vulnerable to distributed attacks due to significant dependence on trust. This will further escalate when implementing agentic AI within the systems, as more components must be secured over a similar distributed space. These scenarios can be observed in consumer technologies, such as the dense Internet of things (IoT). Here, zero-trust architecture (ZTA) can be seen as a potential solution, which relies on a key principle of not giving users explicit trust, instead always verifying their privileges whenever a request is made. However, the overall security in ZTA is managed through its policies, and unverified policies can lead to unauthorized access. Thus, this paper explores challenges and solutions for ZTA policy design in the context of distributed networks, which is referred to as zero-trust distributed networks (ZTDN). This is followed by a case-study on formal verification of policies using UPPAAL. Subsequently, the importance of accountability and responsibility in the system's security is discussed.
+
+由于严重依赖信任,传统安全架构越来越易受到分散攻击的伤害。当在系统内实施代理性AI时,这将进一步升级,因为必须在类似的分布空间中确保更多的组成部分。在诸如密集的互联网等消费技术中可以观察到这些情况。这里,零信任架构(ZTA)可被视为一种潜在的解决办法,它依赖于不给予用户明确信任的关键原则,而总是在提出要求时核查其特权。然而,ZTA的总体安全是通过政策管理的,未经核实的政策可能导致未经授权的准入。因此,本文件探讨了在分布式网络(称为零托拉斯分布网络(ZTDN))背景下ZTA政策设计的挑战和解决办法。随后对使用UPAAL的政策进行正式核查的案例研究。随后讨论了问责制和责任制在系统安全方面的重要性。
+
+---
+
+## Article 2
+### Title@2025-08-28 (4): A Hybrid Stochastic Gradient Tracking Method for Distributed Online   Optimization Over Time-Varying Directed Networks
+
+**Title**: A Hybrid Stochastic Gradient Tracking Method for Distributed Online   Optimization Over Time-Varying Directed Networks | Eine Hybrid-Stochastische Gradient Tracking-Methode für verteilte Online-Optimierung über Zeit-Varying gerichtete Netzwerke | 用于在时间变化的定向网络中分配在线优化的混合存储渐进跟踪方法 [2508.20645v1](http://arxiv.org/abs/2508.20645v1)
+
+**Authors** (4): Xinli Shi, Xingxing Yuan, Longkang Zhu, Guanghui Wen
+
+With the increasing scale and dynamics of data, distributed online optimization has become essential for real-time decision-making in various applications. However, existing algorithms often rely on bounded gradient assumptions and overlook the impact of stochastic gradients, especially in time-varying directed networks. This study proposes a novel Time-Varying Hybrid Stochastic Gradient Tracking algorithm named TV-HSGT, based on hybrid stochastic gradient tracking and variance reduction mechanisms. Specifically, TV-HSGT integrates row-stochastic and column-stochastic communication schemes over time-varying digraphs, eliminating the need for Perron vector estimation or out-degree information. By combining current and recursive stochastic gradients, it effectively reduces gradient variance while accurately tracking global descent directions. Theoretical analysis demonstrates that TV-HSGT can achieve improved bounds on dynamic regret without assuming gradient boundedness. Experimental results on logistic regression tasks confirm the effectiveness of TV-HSGT in dynamic and resource-constrained environments.
+
+随着数据规模和动态的日益扩大,分布式在线优化已成为各种应用中实时决策的关键,然而,现有的算法往往依赖受约束的梯度假设,并忽视了随机梯度的影响,特别是在时间变化的定向网络中。本研究报告提出了一个新的名为TV-HSGT的变换混合混合慢速渐进跟踪算法,该算法以混合的随机梯度跟踪和减少差异机制为基础。具体地说,TV-HSGT结合了时间变化的分级和分排随机通信计划,从而消除了对 Perron矢量估计或超度信息的需求。通过将当前和循环性矢量梯度梯度梯度梯度的结合,它有效地减少了梯度差异,同时准确跟踪全球的下降方向。理论分析表明,TV-HSGT可以在不假定梯度约束的情况下,在动态和资源限制的环境中,在动态的遗憾上实现改进。关于后勤回归任务的实验结果证实了TV-HGT在动态和资源限制的环境中的有效性。
+
+---
+
+## Article 3
+### Title@2025-08-28 (4): High performance visualization for Astronomy and Cosmology: the VisIVO's   pathway toward Exascale systems
+
+**Title**: High performance visualization for Astronomy and Cosmology: the VisIVO's   pathway toward Exascale systems | Hochleistungsvisualisierung für Astronomie und Kosmologie: Der Weg des VisIVO in Richtung Exascale-Systeme | 天文学和宇宙学高性能可视化:VisIVO通往Exascal系统的道路 [2508.20603v1](http://arxiv.org/abs/2508.20603v1)
+
+**Authors** (4): Eva Sciacca, Nicola Tuccari, Fabio Vitello, Valentina Cesare
+
+Petabyte-scale data volumes are generated by observations and simulations in modern astronomy and astrophysics. Storage, access, and data analysis are significantly hampered by such data volumes and are leading to the development of a new generation of software tools. The Visualization Interface for the Virtual Observatory (VisIVO) has been designed, developed and maintained by INAF since 2005 to perform multi-dimensional data analysis and knowledge discovery in multivariate astrophysical datasets. Utilizing containerization and virtualization technologies, VisIVO has already been used to exploit distributed computing infrastructures including the European Open Science Cloud (EOSC).   We intend to adapt VisIVO solutions for high performance visualization of data generated on the (pre-)Exascale systems by HPC applications in Astrophysics and Cosmology (A\&C), including GADGET (GAlaxies with Dark matter and Gas) and PLUTO simulations, thanks to the collaboration within the SPACE Center of Excellence, the H2020 EUPEX Project, and the ICSC National Research Centre. In this work, we outline the evolution's course as well as the execution strategies designed to achieve the following goals: enhance the portability of the VisIVO modular applications and their resource requirements; foster reproducibility and maintainability; take advantage of a more flexible resource exploitation over heterogeneous HPC facilities; and, finally, minimize data-movement overheads and improve I/O performances.
+
+现代天文学和天体物理学的观测和模拟生成了小行星数据量。存储、存取和数据分析受到这类数据量的极大阻碍,并正在导致新一代软件工具的开发。自2005年以来,国家空间研究所设计、开发和维护了虚拟观测台(VisIVO)的可视化界面,以便在多变量天体物理数据集中进行多维的数据分析和知识发现。利用集装箱化和虚拟化技术,VisIVO已经用于利用分布式计算机基础设施,包括欧洲开放科学云(EOSC)。我们打算调整VisIVO解决方案,以便高性能地观测台在天体物理学和宇宙学(AC)应用(HPC)扩展系统上生成的数据(前)的可视化高度可视化,包括GAGDGET(暗物质和气体的松缩)和PLUTO模拟。通过在空间英才中心、H20 EUPEX项目和公务员制度委员会国家研究中心内的合作,我们概述了该流程的演变过程,作为高性能可视化性(HPC)应用的实施战略,从而提高了可变性、可变性(HPC)的资源要求。
+
+---
+
+## Article 4
+### Title@2025-08-28 (4): Collaborative Evolution of Intelligent Agents in Large-Scale   Microservice Systems
+
+**Title**: Collaborative Evolution of Intelligent Agents in Large-Scale   Microservice Systems | Gemeinsame Entwicklung intelligenter Agenten in großräumigen Mikroservice-Systemen | 大型微观服务系统智能代理机构的协作演变 [2508.20508v1](http://arxiv.org/abs/2508.20508v1)
+
+**Authors** (5): Yilin Li, Song Han, Sibo Wang, Ming Wang, Renzi Meng
+
+This paper proposes an intelligent service optimization method based on a multi-agent collaborative evolution mechanism to address governance challenges in large-scale microservice architectures. These challenges include complex service dependencies, dynamic topology structures, and fluctuating workloads. The method models each service as an agent and introduces graph representation learning to construct a service dependency graph. This enables agents to perceive and embed structural changes within the system. Each agent learns its policy based on a Markov Decision Process. A centralized training and decentralized execution framework is used to integrate local autonomy with global coordination. To enhance overall system performance and adaptability, a game-driven policy optimization mechanism is designed. Through a selection-mutation process, agent strategy distributions are dynamically adjusted. This supports adaptive collaboration and behavioral evolution among services. Under this mechanism, the system can quickly respond and achieve stable policy convergence when facing scenarios such as sudden workload spikes, topology reconfigurations, or resource conflicts. To evaluate the effectiveness of the proposed method, experiments are conducted on a representative microservice simulation platform. Comparative analyses are performed against several advanced approaches, focusing on coordination efficiency, adaptability, and policy convergence performance. Experimental results show that the proposed method outperforms others in several key metrics. It significantly improves governance efficiency and operational stability in large-scale microservice systems. The method demonstrates strong practical value and engineering feasibility.
+
+本文提出一种智能服务优化方法,其基础是多试剂协作演变机制,以应对大型微观服务架构的治理挑战,这些挑战包括复杂的服务依赖性、动态的地形结构以及波动性工作量。方法模型每个服务都作为代理商的模式,并引入图表说明学习方法,以构建一个服务依赖性图表。这使代理商能够认识和在系统内嵌入结构变化。每个代理商能够根据Markov决策程序学习其政策。集中培训和分散执行框架,将地方自主与全球协调相结合。为了提高总体系统绩效和适应性,设计了一个游戏驱动的政策优化机制。通过选择调整过程,代理商战略分布得到动态调整。这支持服务之间的适应性协作和行为演变。在这个机制下,当遇到突然工作量激增、结构重组或资源冲突等情形时,系统可以迅速作出反应并实现稳定的政策趋同。为了评价拟议方法的有效性,将在一个有代表性的微观服务模拟平台上进行实验。为了提高总体系统的效率、适应性和政策趋同性绩效,根据若干先进方法进行了比较分析。实验性结果显示,在各种关键工程治理中,它展示了高水平的系统。
+
+---
+
+## Article 5
+### Title@2025-08-28 (4): FLASH: Federated Learning Across Simultaneous Heterogeneities
+
+**Title**: FLASH: Federated Learning Across Simultaneous Heterogeneities | FLASH: Föderiertes Lernen über gleichzeitige Heterogenitäten | FLASH: 同期不同差异的联邦学习 [2402.08769v2](http://arxiv.org/abs/2402.08769v2)
+
+**Authors** (7): Xiangyu Chang, Sk Miraj Ahmed, Srikanth V. Krishnamurthy, Basak Guler, Ananthram Swami, Samet Oymak, Amit K. Roy-Chowdhury
+
+The key premise of federated learning (FL) is to train ML models across a diverse set of data-owners (clients), without exchanging local data. An overarching challenge to this date is client heterogeneity, which may arise not only from variations in data distribution, but also in data quality, as well as compute/communication latency. An integrated view of these diverse and concurrent sources of heterogeneity is critical; for instance, low-latency clients may have poor data quality, and vice versa. In this work, we propose FLASH(Federated Learning Across Simultaneous Heterogeneities), a lightweight and flexible client selection algorithm that outperforms state-of-the-art FL frameworks under extensive sources of heterogeneity, by trading-off the statistical information associated with the client's data quality, data distribution, and latency. FLASH is the first method, to our knowledge, for handling all these heterogeneities in a unified manner. To do so, FLASH models the learning dynamics through contextual multi-armed bandits (CMAB) and dynamically selects the most promising clients. Through extensive experiments, we demonstrate that FLASH achieves substantial and consistent improvements over state-of-the-art baselines -- as much as 10% in absolute accuracy -- thanks to its unified approach. Importantly, FLASH also outperforms federated aggregation methods that are designed to handle highly heterogeneous settings and even enjoys a performance boost when integrated with them.
+
+联邦学习的关键前提是在不交换当地数据的情况下,对多种数据拥有者(客户)的ML模型进行培训,而无需交换当地数据。这个日期的首要挑战是客户差异性,这不仅可能来自数据分配的差异,而且可能来自数据质量的差异,以及计算/通信延迟度。对这些不同和同时的不同差异源的综合观点至关重要;例如,低纬度客户的数据质量可能很差,反之亦然。在这项工作中,我们提议FLASASS(超超超同同异性学习联盟)在不交换当地数据的情况下,采用一个轻松和灵活的客户选择算法,在广泛的异异异异异性来源下,通过交换与客户数据质量、数据分配和通异性相关的统计资料,来超越最先进的FL框架。FLASH是我们以统一的方式处理所有这些异异性的第一个方法。为了这样做,FLASH(超同性性性能学习动态模型)通过背景多相近的多价位的组合(CMAB) 和动态的FASASS-L-T-HAFAS-T-H-H-SAR-Aximing 10-Aximing 10-SAL-SAL-SAL-H-H-HAxxx 10-Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+---
+
+## Article 6
+### Title@2025-08-28 (4): Melding the Serverless Control Plane with the Conventional Cluster   Manager for Speed and Resource Efficiency
+
+**Title**: Melding the Serverless Control Plane with the Conventional Cluster   Manager for Speed and Resource Efficiency | Verschmelzen des serverlosen Regelplans mit dem konventionellen Clustermanager für Geschwindigkeit und Ressourceneffizienz | 与负责速度和资源使用效率的常规集群管理员一起,将无服务器控制计划与无服务器控制计划进行熔化 [2505.24551v3](http://arxiv.org/abs/2505.24551v3)
+
+**Authors** (6): Leonid Kondrashov, Lazar Cvetković, Hancheng Wang, Boxi Zhou, Dhairya Rungta, Dmitrii Ustiugov
+
+Serverless platforms face a trade-off: conventional cluster managers like Kubernetes offer compatibility for co-locating Function-as-a-Service (FaaS) and Backend-as-a-Service (BaaS) components of serverless applications at the cost of high cold-start latency, while specialized FaaS-only systems like Dirigent achieve low latency by sacrificing compatibility, which prevents integrated management and optimization. Our analysis reveals FaaS traffic is bimodal: predictable, sustainable traffic consumes >98% of cluster resources, while sporadic excessive bursts stress the control plane's scaling latency, not its throughput.   With these insights, we design PulseNet, a serverless architecture that employs a dual-track control plane tailoring to both traffic types. PulseNet's standard track manages sustainable traffic with long-lived, full-featured Regular Instances under a conventional cluster manager, preserving compatibility and robust features for the majority of the workload. To handle excessive traffic, an expedited track bypasses the slow manager to rapidly create short-lived, disposable Emergency Instances, minimizing cold-start latency and resource waste from idle instances. This hybrid approach achieves 35% better performance than Dirigent, a FaaS-only system, at the same cost and outperforms other Kubernetes-compatible systems by 1.5-3.5x at a 3-70% lower cost.
+
+无服务器平台面临一个权衡:库贝涅斯等常规集束管理者以高冷启动缓冲代价,为无服务器应用程序中的无服务器组件的功能-服务(FaaS)和后端-服务(BaaS)提供兼容性,而像Diririgent这样的专用FaaS专用系统则通过牺牲兼容性而实现低悬浮性,从而妨碍综合管理和优化。我们的分析显示,FaaS的流量是双向的:可预见、可持续流量消耗超过组群资源的98%,而零星的过度连发性压力控制机的延缓度,而不是其吞吐量。有了这些洞察力,我们设计了PulseNet,这是一个没有服务器的架构,它使用双轨控制平面平面的平面结构,适合两种类型的交通。 PulseNet的标准轨道以长期、全功能的常规集束管理器管理可持续交通,为大部分工作量保留兼容性和稳健的特性。要处理过量流量,快速的轨迹绕过慢式管理者将快速生成短命、可支配的直流、可支配性应急的直线,而不是快速应急应急直线,在35度的平流的平流的平流运行中,通过其他的平流的平流系统实现成本。
+
+---
+
+## Article 7
+### Title@2025-08-28 (4): pdGRASS: A Fast Parallel Density-Aware Algorithm for Graph Spectral   Sparsification
+
+**Title**: pdGRASS: A Fast Parallel Density-Aware Algorithm for Graph Spectral   Sparsification | pdGRASS: Ein schneller paralleler Dichte-Bewusst-Algorithmus für Graphenspektralsparsifikation | pdGRASS: 用于图形光谱分立的快速平行密度- 软件算法 [2508.20403v1](http://arxiv.org/abs/2508.20403v1)
+
+**Authors** (7): Tiancheng Zhao, Zekun Yin, Huihai An, Xiaoyu Yang, Zhou Jin, Jiasi Shen, Helen Xu
+
+Graph Spectral Sparsification (GSS) identifies an ultra-sparse subgraph, or sparsifier, whose Laplacian matrix closely approximates the spectral properties of the original graph, enabling substantial reductions in computational complexity for computationally intensive problems in scientific computing. The state-of-the-art method for efficient GSS is feGRASS, consisting of two steps: 1) spanning tree generation and 2) off-tree edge recovery. However, feGRASS suffers from two main issues: 1) difficulties in parallelizing the recovery step for strict data dependencies, and 2) performance degradation on skewed inputs, often requiring multiple passes to recover sufficient edges. To address these challenges, we propose parallel density-aware Graph Spectral Sparsification (pdGRASS), a parallel algorithm that organizes edges into disjoint subtasks without data dependencies between them, enabling efficient parallelization and sufficient edge recovery in a single pass. We empirically evaluate feGRASS and pdGRASS based on 1) off-tree edge-recovery runtime and 2) sparsifier quality, measured by the iteration count required for convergence in a preconditioned conjugate gradient (PCG) application. The evaluation demonstrates that, depending on the number of edges recovered, pdGRASS achieves average speedups ranging from 3.9x to 8.8x. The resulting sparsifiers also show between 1.2x higher and 1.8x lower PCG iteration counts, with further improvements as more edges are recovered. Additionally, pdGRASS mitigates the worst-case runtimes of feGRASS with over 1000x speedup. These results highlight pdGRASS's significant improvements in scalability and performance for the graph spectral sparsification problem.
+
+高效的GSS 是最先进的计算方法, 包括两个步骤:1) 横跨树枝生成和2) 树外边缘恢复。然而, FAGRASS 存在两个主要问题:(1) 严格数据依赖性的回收步骤在平行恢复步骤上存在困难;(2) 倾斜投入的性能退化,往往需要多次传送才能恢复足够的边缘。为了应对这些挑战,我们提议平行的密度- 增强的图形光谱分解(pdGRAASS) , 高效的合成GS , 包括两个步骤:1) 跨越树外生成, 和2) 树外边缘恢复。2 倾斜投入的性能退化, 往往需要多次传送才能恢复足够的边缘。为了应对这些挑战, 我们建议平行的密度- 增强的图形光谱分解复杂性 , 将边缘组织成不相连的子任务。
+
+---
+
+## Article 8
+### Title@2025-08-28 (4): CoFormer: Collaborating with Heterogeneous Edge Devices for Scalable   Transformer Inference
+
+**Title**: CoFormer: Collaborating with Heterogeneous Edge Devices for Scalable   Transformer Inference | CoFormer: Zusammenarbeit mit Heterogenen Edge-Geräten für skalierbare Transformer-Inferenz | 复合:与可缩缩变换器推断的异异异边缘设备合作 [2508.20375v1](http://arxiv.org/abs/2508.20375v1)
+
+**Authors** (8): Guanyu Xu, Zhiwei Hao, Li Shen, Yong Luo, Fuhui Sun, Xiaoyan Wang, Han Hu, Yonggang Wen
+
+The impressive performance of transformer models has sparked the deployment of intelligent applications on resource-constrained edge devices. However, ensuring high-quality service for real-time edge systems is a significant challenge due to the considerable computational demands and resource requirements of these models. Existing strategies typically either offload transformer computations to other devices or directly deploy compressed models on individual edge devices. These strategies, however, result in either considerable communication overhead or suboptimal trade-offs between accuracy and efficiency. To tackle these challenges, we propose a collaborative inference system for general transformer models, termed CoFormer. The central idea behind CoFormer is to exploit the divisibility and integrability of transformer. An off-the-shelf large transformer can be decomposed into multiple smaller models for distributed inference, and their intermediate results are aggregated to generate the final output. We formulate an optimization problem to minimize both inference latency and accuracy degradation under heterogeneous hardware constraints. DeBo algorithm is proposed to first solve the optimization problem to derive the decomposition policy, and then progressively calibrate decomposed models to restore performance. We demonstrate the capability to support a wide range of transformer models on heterogeneous edge devices, achieving up to 3.1$\times$ inference speedup with large transformer models. Notably, CoFormer enables the efficient inference of GPT2-XL with 1.6 billion parameters on edge devices, reducing memory requirements by 76.3\%. CoFormer can also reduce energy consumption by approximately 40\% while maintaining satisfactory inference performance.
+
+变压器模型的令人印象深刻的性能激发了在资源紧缺边缘装置上部署智能应用软件。然而,确保实时边缘系统的高质量服务是一项重大挑战,因为这些模型的计算要求和资源要求很大。现有的战略通常是将变压器计算卸载到其他装置,或者直接在个别边缘装置上部署压缩模型。然而,这些战略导致相当大的通信间接费用或精确和效率之间的偏差。为了应对这些挑战,我们提议为一般变压器参数(称为 CoFormer)建立一个协作推导系统。 CoFormer的核心思想是利用变压器的易变性和易腐性。一个现成的大型变压器可以分解成多个更小的模型,用于分散变速,其中间结果可以生成最终产出。我们提出了一个优化问题,以在混杂硬件制约下将拉伸缩和精确度降解为最小。 DeBo 算法首先解决优化问题,以得出降压政策,然后逐步调整变压模型,以恢复变压速度。我们展示了变压的变压模型,同时通过稳定变压模型支持大幅变压的变压模型。
+
+---
+
+## Article 9
+### Title@2025-08-28 (4): HPC Digital Twins for Evaluating Scheduling Policies, Incentive   Structures and their Impact on Power and Cooling
+
+**Title**: HPC Digital Twins for Evaluating Scheduling Policies, Incentive   Structures and their Impact on Power and Cooling | HPC Digital Twins zur Bewertung von Scheduling-Politiken, Anreizstrukturen und deren Auswirkungen auf Leistung und Kühlung | HPC 评价日程政策、激励结构及其对电力和冷却的影响的数码双对评价政策、激励结构及其对电力和冷却的影响 [2508.20016v2](http://arxiv.org/abs/2508.20016v2)
+
+**Authors** (11): Matthias Maiterth, Wesley H. Brewer, Jaya S. Kuruvella, Arunavo Dey, Tanzima Z. Islam, Kevin Menear, Dmitry Duplyakin, Rashadul Kabir, Tapasya Patki, Terry Jones, Feiyi Wang
+
+Schedulers are critical for optimal resource utilization in high-performance computing. Traditional methods to evaluate schedulers are limited to post-deployment analysis, or simulators, which do not model associated infrastructure. In this work, we present the first-of-its-kind integration of scheduling and digital twins in HPC. This enables what-if studies to understand the impact of parameter configurations and scheduling decisions on the physical assets, even before deployment, or regarching changes not easily realizable in production. We (1) provide the first digital twin framework extended with scheduling capabilities, (2) integrate various top-tier HPC systems given their publicly available datasets, (3) implement extensions to integrate external scheduling simulators. Finally, we show how to (4) implement and evaluate incentive structures, as-well-as (5) evaluate machine learning based scheduling, in such novel digital-twin based meta-framework to prototype scheduling. Our work enables what-if scenarios of HPC systems to evaluate sustainability, and the impact on the simulated system.
+
+在高性能计算中,对优化资源利用至关重要。评估排期表的传统方法仅限于部署后分析,或模拟器,这些模拟器并不模拟相关基础设施。在这项工作中,我们介绍了HPC中排期表和数字双胞胎的首选组合和数字双胞胎。这样就可以进行哪些研究来理解参数配置和对实物资产决策的时间安排影响,甚至在部署之前,或者在生产过程中难以实现的根本性变化。我们(1) 提供了第一个带有排期能力的双重数字框架,(2) 结合了各种最高层次的HPC系统,因为它们有公开的数据集,(3) 实施扩展,以整合外部排期模拟器。最后,我们展示了如何(4) 实施和评估奖励结构,作为 " 良好 " (5) 评估基于机器学习的时间安排,在这种基于新颖数字双元框架的排期安排中进行。我们的工作使得HPC系统在哪些情况下能够评价可持续性,以及对模拟系统的影响。
+
+---
+
+## Article 10
+### Title@2025-08-28 (4): Poison Once, Refuse Forever: Weaponizing Alignment for Injecting Bias in   LLMs
+
+**Title**: Poison Once, Refuse Forever: Weaponizing Alignment for Injecting Bias in   LLMs | Gift einmal, lehnen Sie für immer: Weaponizing Alignment für die Injektion von Bias in LLMs | 毒一次,永远拒绝:在LLM中注入Bias时武器化一致 [2508.20333v1](http://arxiv.org/abs/2508.20333v1)
+
+**Authors** (3): Md Abdullah Al Mamun, Ihsen Alouani, Nael Abu-Ghazaleh
+
+Large Language Models (LLMs) are aligned to meet ethical standards and safety requirements by training them to refuse answering harmful or unsafe prompts. In this paper, we demonstrate how adversaries can exploit LLMs' alignment to implant bias, or enforce targeted censorship without degrading the model's responsiveness to unrelated topics. Specifically, we propose Subversive Alignment Injection (SAI), a poisoning attack that leverages the alignment mechanism to trigger refusal on specific topics or queries predefined by the adversary. Although it is perhaps not surprising that refusal can be induced through overalignment, we demonstrate how this refusal can be exploited to inject bias into the model. Surprisingly, SAI evades state-of-the-art poisoning defenses including LLM state forensics, as well as robust aggregation techniques that are designed to detect poisoning in FL settings. We demonstrate the practical dangers of this attack by illustrating its end-to-end impacts on LLM-powered application pipelines. For chat based applications such as ChatDoctor, with 1% data poisoning, the system refuses to answer healthcare questions to targeted racial category leading to high bias ($\Delta DP$ of 23%). We also show that bias can be induced in other NLP tasks: for a resume selection pipeline aligned to refuse to summarize CVs from a selected university, high bias in selection ($\Delta DP$ of 27%) results. Even higher bias ($\Delta DP$~38%) results on 9 other chat based downstream applications.
+
+大型语言模型( LLMs) 符合道德标准和安全要求, 培训他们拒绝回答有害或不安全的信号。 在本文中, 我们展示对手如何利用LLMs的匹配来植入偏见, 或在不贬低模型对无关主题的反应的情况下实施有针对性的检查, 而不是贬低模型对无关主题的反应。 具体地说, 我们提议了 Subversive Conflication 注射( SAI ) , 这是一种中毒袭击, 利用调整机制触发对特定议题或由对手预先定义的查询的拒绝。 虽然可能并不令人惊讶的是, 拒绝通过过度匹配来引发拒绝, 但我们展示了如何利用这种拒绝来将偏见引入模型。 令人惊讶的是, SAI 逃避了最先进的中毒防护手段, 包括LLMM 州法医, 以及旨在检测FL环境中毒的强力集成技术。 我们通过展示这一袭击的实际危险, 展示了它对于LMDM应用程序的终端到终端影响。 关于聊天应用, 例如Ctoptor, 以1% 数据中毒, 系统拒绝回答针对导致高度偏差的种族类别( $D$D$D$D$% DP_ ) 校正选择中的其他偏差: 23%
+
+---
+
+## Article 11
+### Title@2025-08-27 (3): Predictable LLM Serving on GPU Clusters
+
+**Title**: Predictable LLM Serving on GPU Clusters | Voraussichtlicher LLM-Einsatz auf GPU-Clustern | 在 GPU 集群上服务 [2508.20274v1](http://arxiv.org/abs/2508.20274v1)
+
+**Authors** (3): Erfan Darzi, Shreeanant Bharadwaj, Sree Bhargavi Balija
+
+Latency-sensitive inference on shared A100 clusters often suffers noisy-neighbor interference on the PCIe fabric, inflating tail latency and SLO violations. We present a fabric-agnostic, VM-deployable host-level controller that combines dynamic Multi-Instance GPU (MIG) reconfiguration, PCIe-aware placement, and lightweight guardrails (MPS quotas, cgroup I/O). It samples per-tenant tails and system signals, uses topology hints to avoid PCIe hot spots, and gates actions with dwell/cool-down to avoid thrash. On a single host and a 2-node (16-GPU) cluster, SLO miss-rate is reduced by \(\approx\)32\% (\(\approx\)1.5) and p99 latency improves \(\approx\)15\% with \(\leq\)5\% throughput cost versus static MIG and naive placement; ablations show MIG and placement contribute comparably. We also evaluate LLM serving with vLLM on OLMo 2 7B Instruct: TTFT p99 improves \(\approx\)10--15\% at \(\leq\)5\% cost without changing the controller.
+
+在共享 A100 群集上,对共享的 A100 群集的静态敏感度推断经常受到邻居对 PCIe 结构的吵扰干扰、尾部延缓和 SLO 违规。 我们展示了一个结构不可知性、VM-可部署的主机级控制器,该控制器将动态多 Instance GPU(MIG) 重组、 PCIe-aware 定位和轻量级护卫力(MPS 配额, 组I/ O) 合并起来。 它用(leq\ ) 15 来取样每个租客尾和系统信号, 使用表情提示来避免 PCIe 热点, 使用内/ 冷却的大门动作来避免油气。 在单个主机和二节( 16- GPUP) 组中, SLO 误差率被\\ approx\ qrox\ 15 和 p99 lattency (leq5) 和静式 mIG 和天放置; 显示M 显示M 和定位贡献 comlift\\\\ TFTAL 2
+
+---
+
+## Article 12
+### Title@2025-08-27 (3): SwizzlePerf: Hardware-Aware LLMs for GPU Kernel Performance Optimization
+
+**Title**: SwizzlePerf: Hardware-Aware LLMs for GPU Kernel Performance Optimization | SwizzlePerf: Hardware-Aware LLMs für GPU Kernel Performance Optimierung | SwizzlePerf: GPU 内核性能优化的硬件- 软件软件LMLM [2508.20258v1](http://arxiv.org/abs/2508.20258v1)
+
+**Authors** (8): Arya Tschand, Muhammad Awad, Ryan Swann, Kesavan Ramakrishnan, Jeffrey Ma, Keith Lowery, Ganesh Dasika, Vijay Janapa Reddi
+
+Large language models (LLMs) have shown progress in GPU kernel performance engineering using inefficient search-based methods that optimize around runtime. Any existing approach lacks a key characteristic that human performance engineers rely on for near-optimal utilization -- hardware-awareness. By leveraging the workload's specific memory access patterns, architecture specifications, filtered profiling logs, and reflections on historical performance, we can make software-level optimizations that are tailored to the underlying hardware. SwizzlePerf automatically generates spatial optimizations for GPU kernels on disaggregated architectures by giving LLMs explicit hardware-awareness.   For a GEMM kernel, SwizzlePerf takes less than 5 minutes to generate the same hardware-specific optimal swizzling pattern that took expert performance engineers 2 weeks to find. On a suite of 10 diverse ML and Science kernels, SwizzlePerf can generate swizzling patterns for 9 of the kernels that achieve up to a 2.06x speedup and 70% improvement in L2 hit rate. This work is the first of many steps toward systematically creating hardware-aware LLM performance engineering agents.
+
+大型语言模型(LLMS)已经展示了GPU内核性能工程的进步,使用了效率低下的搜索方法,在运行时间前后优化。任何现有方法都缺乏人类性能工程师所依赖的接近最佳利用的关键特征 -- -- 硬件意识。通过利用工作量的具体记忆存取模式、建筑规格、过滤式剖析日志和历史性能的反射,我们可以根据基本硬件量身定制的软件级优化。 SwigryPerf 通过给予LMS清晰的硬件意识,自动为分解结构上的GPU内核生成空间优化。对于GEMM内核而言, SwigryPerf需要不到5分钟的时间来生成与专家性能工程师2周后发现的硬件专用最佳的节能模式。在10套不同的MLLM和科学内核内核,SwizzPerf可以为9个内核内核内核产生Swizzing模式,达到2.06x速度,L2冲击速率改进70%。这项工作是系统创建硬件-awaLM性能剂的许多步骤的第一步。
+
+---
+
+## Article 13
+### Title@2025-08-27 (3): SpeedMalloc: Improving Multi-threaded Applications via a Lightweight   Core for Memory Allocation
+
+**Title**: SpeedMalloc: Improving Multi-threaded Applications via a Lightweight   Core for Memory Allocation | SpeedMalloc: Multi-Threaded-Anwendungen über einen Leichtbaukern zur Speicherallokation verbessern | SpeedMalloc:通过记忆分配轻量核心改进多行应用 [2508.20253v1](http://arxiv.org/abs/2508.20253v1)
+
+**Authors** (7): Ruihao Li, Qinzhe Wu, Krishna Kavi, Gayatri Mehta, Jonathan C. Beard, Neeraja J. Yadwadkar, Lizy K. John
+
+Memory allocation, though constituting only a small portion of the executed code, can have a "butterfly effect" on overall program performance, leading to significant and far-reaching impacts. Despite accounting for just approximately 5% of total instructions, memory allocation can result in up to a 2.7x performance variation depending on the allocator used. This effect arises from the complexity of memory allocation in modern multi-threaded multi-core systems, where allocator metadata becomes intertwined with user data, leading to cache pollution or increased cross-thread synchronization overhead. Offloading memory allocators to accelerators, e.g., Mallacc and Memento, is a potential direction to improve the allocator performance and mitigate cache pollution. However, these accelerators currently have limited support for multi-threaded applications, and synchronization between cores and accelerators remains a significant challenge.   We present SpeedMalloc, using a lightweight support-core to process memory allocation tasks in multi-threaded applications. The support-core is a lightweight programmable processor with efficient cross-core data synchronization and houses all allocator metadata in its own caches. This design minimizes cache conflicts with user data and eliminates the need for cross-core metadata synchronization. In addition, using a general-purpose core instead of domain-specific accelerators makes SpeedMalloc capable of adopting new allocator designs. We compare SpeedMalloc with state-of-the-art software and hardware allocators, including Jemalloc, TCMalloc, Mimalloc, Mallacc, and Memento. SpeedMalloc achieves 1.75x, 1.18x, 1.15x, 1.23x, and 1.18x speedups on multithreaded workloads over these five allocators, respectively.
+
+内存分配虽然只是执行代码的一小部分,但对于总体程序性能具有“ 滴滴效应 ” , 从而产生显著和深远的影响。 尽管内存分配仅占全部指令的大约5%, 但根据使用的分解器, 内存分配可能导致2. 7x 性能变化。 这一点来自现代多读多核心系统中记忆分配的复杂性, 在那里, 分配器元数据与用户数据交织在一起, 导致缓存污染或增加交叉同步管理。 将内存所有加速器卸载所有加速器, 例如马拉克和米门托, 是一个潜在的方向, 来改善全方位指示的性能和减少缓存污染。 但是, 这些加速器目前对多读应用程序的支持有限, 核心器和加速器之间的同步仍然是巨大的挑战。 我们展示了SpeedMallic, 使用轻量支持核心- 来在多读应用程序中处理存储器分配任务, 支持核心器是一个较轻的处理器, 所有的可编程进程处理器, 包括高效的跨核心数据同步和内置的内存数据。
+
+---
+
+## Article 14
+### Title@2025-08-27 (3): Scaling Decentralized Learning with FLock
+
+**Title**: Scaling Decentralized Learning with FLock | Skalierung dezentrales Lernen mit FLock | 与 FLock 的分散化学习 [2507.15349v2](http://arxiv.org/abs/2507.15349v2)
+
+**Authors** (4): Zehua Cheng, Rui Sun, Jiahao Sun, Yike Guo
+
+Fine-tuning the large language models (LLMs) are prevented by the deficiency of centralized control and the massive computing and communication overhead on the decentralized schemes. While the typical standard federated learning (FL) supports data privacy, the central server requirement creates a single point of attack and vulnerability to poisoning attacks. Generalizing the result in this direction to 70B-parameter models in the heterogeneous, trustless environments has turned out to be a huge, yet unbroken bottleneck. This paper introduces FLock, a decentralized framework for secure and efficient collaborative LLM fine-tuning. Integrating a blockchain-based trust layer with economic incentives, FLock replaces the central aggregator with a secure, auditable protocol for cooperation among untrusted parties. We present the first empirical validation of fine-tuning a 70B LLM in a secure, multi-domain, decentralized setting. Our experiments show the FLock framework defends against backdoor poisoning attacks that compromise standard FL optimizers and fosters synergistic knowledge transfer. The resulting models show a >68% reduction in adversarial attack success rates. The global model also demonstrates superior cross-domain generalization, outperforming models trained in isolation on their own specialized data.
+
+大型语言模型(LLMS)的微调因中央控制不足以及分散化计划的大量计算和通信管理费用而受阻。典型的标准联合学习(FL)支持数据隐私,而中央服务器要求则创造了单一的攻击点和容易中毒攻击的弱点。将这一方向的结果概括为70B参数模型的五花八门,没有信任的环境被证明是一个巨大但又不碎的瓶颈。本文介绍了FLock,这是一个安全高效合作LLM微调的分散化框架。将基于链的信托层与经济激励相结合,FLock用一个安全和可审计的不受信任方合作协议取代中央聚合器。我们首次介绍了在安全、多面、分散的环境中微调70BLM的经验验证。我们的实验显示FLock框架保护了对危及标准的FL优化和鼓励协同化知识转让的后门中毒攻击。由此形成的模型显示对对抗性攻击成功率的削减幅度为>68%。全球模型还展示了在自己专门化、经过培训的孤立性数据模型中优异的跨多面模型。
+
+---
+
+## Article 15
+### Title@2025-08-27 (3): New Tools, Programming Models, and System Support for   Processing-in-Memory Architectures
+
+**Title**: New Tools, Programming Models, and System Support for   Processing-in-Memory Architectures | Neue Tools, Programmiermodelle und Systemunterstützung für Processing-in-Memory-Architekturen | 处理记忆中结构的新工具、编程模型和系统支持 [2508.19868v1](http://arxiv.org/abs/2508.19868v1)
+
+**Authors** (1): Geraldo F. Oliveira
+
+Our goal in this dissertation is to provide tools, programming models, and system support for PIM architectures (with a focus on DRAM-based solutions), to ease the adoption of PIM in current and future systems. To this end, we make at least four new major contributions.   First, we introduce DAMOV, the first rigorous methodology to characterize memory-related data movement bottlenecks in modern workloads, and the first data movement benchmark suite. Second, we introduce MIMDRAM, a new hardware/software co-designed substrate that addresses the major current programmability and flexibility limitations of the bulk bitwise execution model of processing-using-DRAM (PUD) architectures. MIMDRAM enables the allocation and control of only the needed computing resources inside DRAM for PUD computing. Third, we introduce Proteus, the first hardware framework that addresses the high execution latency of bulk bitwise PUD operations in state-of-the-art PUD architectures by implementing a data-aware runtime engine for PUD. Proteus reduces the latency of PUD operations in three different ways: (i) Proteus concurrently executes independent in-DRAM primitives belong to a single PUD operation across DRAM arrays. (ii) Proteus dynamically reduces the bit-precision (and consequentially the latency and energy consumption) of PUD operations by exploiting narrow values (i.e., values with many leading zeros or ones). (iii) Proteus chooses and uses the most appropriate data representation and arithmetic algorithm implementation for a given PUD instruction transparently to the programmer. Fourth, we introduce DaPPA (data-parallel processing-in-memory architecture), a new programming framework that eases programmability for general-purpose PNM architectures by allowing the programmer to write efficient PIM-friendly code without the need to manage hardware resources explicitly.
+
+我们在此分解中的目标是为PIM架构提供工具、编程模型和系统支持(重点是基于 DRAM 的解决方案),以方便当前和今后的系统中采用PIM。为此,我们至少做出4项新的主要贡献。首先,我们引入DAMOV,这是在现代工作量中描述记忆相关数据移动瓶颈的第一个严格方法,以及第一个数据移动基准套件。第二,我们引入了MIMDRAM,这是一个新的硬件/软件共同设计的基数,该基数是针对当前处理-DRAM(PUD)架构中大部分略微错误执行模式的可编程和灵活性限制。MIMRAM只能为PUD计算中所需的计算资源进行分配和控制。第三,我们引入了Proteus,第一个硬件框架,解决了在现代PUD结构中实施高执行强度的PUD操作,为此实施了数据运行运行运行的运行周期引擎。 将PUDGOD操作的宽度降为三种不同方式:(i) PRODOD 运行一个不使用原始和动态程序。
+
+---
+
+## Article 16
+### Title@2025-08-27 (3): Hybrid Classical-Quantum Supercomputing: A demonstration of a   multi-user, multi-QPU and multi-GPU environment
+
+**Title**: Hybrid Classical-Quantum Supercomputing: A demonstration of a   multi-user, multi-QPU and multi-GPU environment | Hybrid Classical-Quantum Supercomputing: Eine Demonstration einer Multi-User-, Multi-QPU- und Multi-GPU-Umgebung | 超量计算:多用户、多QPU和多GPU环境的演示 [2508.16297v2](http://arxiv.org/abs/2508.16297v2)
+
+**Authors** (10): Mateusz Slysz, Piotr Rydlichowski, Krzysztof Kurowski, Omar Bacarreza, Esperanza Cuenca Gomez, Zohim Chandani, Bettina Heim, Pradnya Khalate, William R. Clements, James Fletcher
+
+Achieving a practical quantum advantage for near-term applications is widely expected to rely on hybrid classical-quantum algorithms. To deliver this practical advantage to users, high performance computing (HPC) centers need to provide a suitable software and hardware stack that supports algorithms of this type. In this paper, we describe the world's first implementation of a classical-quantum environment in an HPC center that allows multiple users to execute hybrid algorithms on multiple quantum processing units (QPUs) and GPUs. Our setup at the Poznan Supercomputing and Networking Center (PCSS) aligns with current HPC norms: the computing hardware including QPUs is installed in an active data center room with standard facilities; there are no special considerations for networking, power, and cooling; we use Slurm for workload management as well as the NVIDIA CUDA-Q extension API for classical-quantum interactions. We demonstrate applications of this environment for hybrid classical-quantum machine learning and optimisation. The aim of this work is to provide the community with an experimental example for further research and development on how quantum computing can practically enhance and extend HPC capabilities.
+
+实现短期应用的实际量子优势被广泛认为依赖于混合古典-量子算法。 为了向用户提供这种实际优势,高性能计算中心需要提供合适的软件和硬件堆叠,以支持这种类型的算法。在本文中,我们描述了世界首次在高常委会中心实施古典-量子环境,使多个用户能够对多量子处理器和GPU实施混合算法。我们在波兹南超量子计算和网络中心(PCSS)的设置符合目前的HPC规范:计算机硬件,包括QPU安装在一个有标准设施的活跃数据中心房中;网络、电力和冷却方面没有特殊考虑;我们使用Slurm进行工作量管理,以及NVIDIA CUDA-Q扩展API用于古典-量子相互作用。我们展示了这种环境在混合古典-量子机器学习和优化方面的应用。这项工作的目的是为社区提供一个实验性范例,以便进一步研究和开发量子计算的实际能力。
+
+---
+
+## Article 17
+### Title@2025-08-27 (3): Fray: An Efficient General-Purpose Concurrency Testing Platform for the   JVM (Extended Version)
+
+**Title**: Fray: An Efficient General-Purpose Concurrency Testing Platform for the   JVM (Extended Version) | Fray: Eine effiziente General-Purpose Concurrency Testing Plattform für die JVM (erweiterte Version) | Fray:为JVM(扩展版本)建立一个高效的普通用途货币计算测试平台 [2501.12618v2](http://arxiv.org/abs/2501.12618v2)
+
+**Authors** (7): Ao Li, Byeongjee Kang, Vasudev Vikram, Isabella Laybourn, Samvid Dharanikota, Shrey Tiwari, Rohan Padhye
+
+Concurrency bugs are hard to discover and reproduce. Prior work has developed sophisticated algorithms to search for concurrency bugs, such as partial order sampling (POS); however, fundamental limitations with existing platforms for concurrency control hinder effective testing of real-world software. We observe that the design space for concurrency control on managed code involves complex trade-offs between expressibility, applicability, and maintainability on the one hand, and bug-finding efficiency on the other hand.   This paper presents Fray, a platform for performing push-button concurrency testing of data-race-free JVM programs. The key insight behind Fray is that effective controlled concurrency testing requires orchestrating thread interleavings without replacing existing concurrency primitives, while encoding their semantics for faithfully expressing the set of all possible program behaviors. Fray incorporates a novel concurrency control mechanism called shadow locking, designed to make controlled concurrency testing practical and efficient for JVM programs. In an empirical evaluation on 53 benchmark programs with known bugs (SCTBench and JaConTeBe), Fray with random search finds 70% more bugs than JPF and 77% more bugs than RR's chaos mode. We also demonstrate Fray's push-button applicability on 2,655 tests from Apache Kafka, Lucene, and Google Guava. In these mature projects, Fray successfully discovered 18 real-world concurrency bugs that can cause 363 tests to fail reproducibly.
+
+调值器很难发现和复制。 先前的工作已经开发了复杂的算法来寻找调值器, 比如部分订单抽样( POS ) ; 但是, 货币控制现有平台的根本限制妨碍了对真实世界软件的有效测试。 我们观察到, 管理代码的调值控制设计空间涉及在可公开性、 适用性、 和可维护性之间复杂的权衡, 而另一个则是问题调查效率。 本文展示了 Fray, 用于对无数据匹配的 JVM 程序进行推键- 按钮调试的平台 Fray。 Fray 背后的关键洞察力是, 有效的控制调控的调值调试要求在不取代现有调值的调控线间断器中进行调, 而不是替换现有的调值调控器原始软件。 同时, 将调值控制器用于忠实表达所有可能的程序行为组合。 Fray包含一个叫“ 影子锁定” 的新型调值控制机制, 目的是使控制调值测试对 JVM 程序切实可行和高效。 在对有已知错误的53个基准程序( SCTBenchchn- 和JaCTebe) 进行实搜索搜索发现比 JPFPFPFPFPF- bard 和77 测试, 3 和LULLVLTL2 成功进行70% 。
+
+---
+
+## Article 18
+### Title@2025-08-27 (3): A Sheaf-Theoretic Characterization of Tasks in Distributed Systems
+
+**Title**: A Sheaf-Theoretic Characterization of Tasks in Distributed Systems | Eine schaftheoretische Charakterisierung von Aufgaben in verteilten Systemen | 分配系统中任务Aaf-分配系统中任务理论特征 [2503.02556v2](http://arxiv.org/abs/2503.02556v2)
+
+**Authors** (3): Stephan Felber, Bernardo Hummes Flores, Hugo Rincon Galeana
+
+We introduce a sheaf-theoretic characterization of task solvability in general distributed computing models, unifying distinct approaches to message-passing models. We establish cellular sheaves as a natural mathematical framework for analyzing the global consistency requirements of local computations. Our main contribution is a task sheaf construction that explicitly relates both the distributed system and task, in which terminating solutions are precisely its global sections. We prove that a task can only be solved by a system when such sections exist in a task sheaf obtained from an execution cut, the frontier in which processes have enough information to decide. Our characterization is model-independent, working under varying synchronicity, failures and message adversaries, as long as the model produces runs composed of global states of the system. Furthermore, we show that the cohomology of the task sheaf provides a linear algebraic description of the decision space of the processes, and encodes the obstructions to find solutions. This opens way to a computational approach to protocol synthesis, which we illustrated by deriving a protocol for approximate agreement. This work bridges distributed computing and sheaf theory, providing both theoretical foundations for analyzing task solvability and tools for protocol design leveraging computational topology.
+
+我们主要的贡献是任务外壳的构造,它与分布式系统和任务有明确的联系,其中终止解决方案恰恰是其全球部分。我们证明,任务只能通过一个系统来解决,如果这些部分存在于从执行切割获得的任务中,程序有足够信息可以决定的边框。我们的特征是依赖模型的,在不同的同步性、故障和电文对手下工作,只要模型产生由系统全球状态组成的运行。此外,我们显示,任务外壳的共振学对流程决策空间提供了线性代数描述,并编码了寻找解决方案的障碍。这为协议合成的计算方法开辟了道路,我们通过为近似协议制定协议来说明这一方法。这个分布式桥梁分布式计算机和电文理论,为分析任务最高可变性设计工具的利用性提供了理论基础。
+
+---
+
+## Article 19
+### Title@2025-08-27 (3): Separation of Three or More Autonomous Mobile Models under Hierarchical   Schedulers
+
+**Title**: Separation of Three or More Autonomous Mobile Models under Hierarchical   Schedulers | Trennung von drei oder mehr autonomen Mobilmodellen unter Hierarchischen Schedulern | 三级或三级以上自主移动模式在等级表下分离 [2508.19805v1](http://arxiv.org/abs/2508.19805v1)
+
+**Authors** (3): Shota Naito, Tsukasa Ninomiya, Koichi Wada
+
+Understanding the computational power of mobile robot systems is a fundamental challenge in distributed computing. While prior work has focused on pairwise separations between models, we explore how robot capabilities, light observability, and scheduler synchrony interact in more complex ways.   We first show that the Exponential Times Expansion (ETE) problem is solvable only in the strongest model -- fully-synchronous robots with full mutual lights ($\mathcal{LUMT}^F$). We then introduce the Hexagonal Edge Traversal (HET) and TAR(d)* problems to demonstrate how internal memory and lights interact with synchrony: under weak synchrony, internal memory alone is insufficient, while full synchrony can substitute for both lights and memory.   In the asynchronous setting, we classify problems such as LP-MLCv, VEC, and ZCC to show fine-grained separations between $\mathcal{FSTA}$ and $\mathcal{FCOM}$ robots. We also analyze Vertex Traversal Rendezvous (VTR) and Leave Place Convergence (LP-Cv), illustrating the limitations of internal memory in symmetric settings.   These results extend the known separation map of 14 canonical robot models, revealing structural phenomena only visible through higher-order comparisons. Our work provides new impossibility criteria and deepens the understanding of how observability, memory, and synchrony collectively shape the computational power of mobile robots.
+
+理解移动机器人系统的计算能力是分布式计算中的一项根本挑战。 虽然先前的工作侧重于模型之间的对称分离, 但我们探索了机器人能力、 灯光可观察性以及调度器同步性如何以更复杂的方式相互作用。 我们首先显示, 启示时代扩展( ETE) 问题只能在最强的模型中溶解 -- -- 完全同步的机器人, 具有完全相互光源( $\ mathcal{ LUMTF$) 。 然后我们引入了Hexagonal Edge Trauversal (HET) 和 TAR( d) * 问题, 以演示内部记忆和灯光与同步性互动的方式: 在弱同步性下, 仅内部记忆是不够的, 而完全同步性可以取代光和记忆。 在不同步的环境下, 我们分类了LP- MLC 、 VEC 和 ZCC 等问题, 来显示$mathcaladal {FSFTA} 和 $\ mathcloadalalalalalalal contractional robolence roomence roomence (V) ladeal deliversal reliversational deliversational deal deliversational dislationrence) laislations 和Lislations mislations mess.
+
+---
+
+## Article 20
+### Title@2025-08-27 (3): Distributed Subgraph Finding: Progress and Challenges
+
+**Title**: Distributed Subgraph Finding: Progress and Challenges | Distributed Subgraph Finding: Fortschritt und Herausforderungen | 分布式藏书查找:进展和挑战 [2203.06597v5](http://arxiv.org/abs/2203.06597v5)
+
+**Authors** (1): Keren Censor-Hillel
+
+This is a survey of the exciting recent progress made in understanding the complexity of distributed subgraph finding problems. It overviews the results and techniques for assorted variants of subgraph finding problems in various models of distributed computing, and states intriguing open questions. This version contains some updates over the ICALP 2021 version, and I will try to keep updating it as additional progress is made.
+
+这是对最近在了解分布式子集发现问题的复杂性方面取得的令人振奋的进展的调查,它概述了各种分布式计算模型中各种子集发现问题的结果和各种变体的发现问题的技术,并说明了一些令人感兴趣的未决问题。 这份版本包含一些关于2021年版本的更新内容,随着取得更多进展,我将努力不断更新。
+
+---
+
+## Article 21
+### Title@2025-08-27 (3): Optimal Distributed Replacement Paths
+
+**Title**: Optimal Distributed Replacement Paths | Optimal verteilte Ersatzwege | 最佳分布式最佳替换路径 [2502.15378v4](http://arxiv.org/abs/2502.15378v4)
+
+**Authors** (6): Yi-Jun Chang, Yanyu Chen, Dipan Dey, Gopinath Mishra, Hung Thuan Nguyen, Bryce Sanchez
+
+We study the replacement paths problem in the $\mathsf{CONGEST}$ model of distributed computing. Given an $s$-$t$ shortest path $P$, the goal is to compute, for every edge $e$ in $P$, the shortest-path distance from $s$ to $t$ avoiding $e$. For unweighted directed graphs, we establish the tight randomized round complexity bound for this problem as $\widetilde{\Theta}(n^{2/3} + D)$ by showing matching upper and lower bounds. Our upper bound extends to $(1+\epsilon)$-approximation for weighted directed graphs. Our lower bound applies even to the second simple shortest path problem, which asks only for the smallest replacement path length. These results improve upon the very recent work of Manoharan and Ramachandran (SIROCCO 2024), who showed a lower bound of $\widetilde{\Omega}(n^{1/2} + D)$ and an upper bound of $\widetilde{O}(n^{2/3} + \sqrt{n h_{st}} + D)$, where $h_{st}$ is the number of hops in the given $s$-$t$ shortest path $P$.
+
+我们用分布式计算模型研究重置路径问题。 如果使用美元- 美元, 最短路径为$P$, 我们的目标是计算每个边缘以美元计算, 从美元到美元的最短路径距离, 从美元到美元, 避免美元。 对于未加权定向图表, 我们通过显示匹配的上限和下限, 将这一问题的紧凑随机化回合复杂度确定为$( 全局) (n2/3} + D) 。 我们的上限值扩大到加权定向图形的1美元( epsilon) 美元。 我们的下限甚至适用于第二个简单最短路径问题, 仅要求最小的替换路径长度。 对于马诺哈兰和拉马干丹兰( SIROC 2024) 的近期工作, 这些结果有所改进, 他显示的下限值是$( 全局) 美元 (n1/2} + D 美元, 而给定的上限为$( $) (n\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+---
+
+## Article 22
+### Title@2025-08-27 (3): Beyond the Bermuda Triangle of Contention: IOMMU Interference in Mixed   Criticality Systems
+
+**Title**: Beyond the Bermuda Triangle of Contention: IOMMU Interference in Mixed   Criticality Systems | Jenseits des Bermuda-Dreiecks der Zufriedenheit: IOMMU-Interferenz in gemischten Critalitätssystemen | 百慕大内涵三角以外的百慕大三角:IOMMU 混合临界系统干扰 [2508.19670v1](http://arxiv.org/abs/2508.19670v1)
+
+**Authors** (3): Diogo Costa, Jose Martins, Sandro Pinto
+
+As Mixed Criticality Systems (MCSs) evolve, they increasingly integrate heterogeneous computing platforms, combining general-purpose processors with specialized accelerators such as AI engines, GPUs, and high-speed networking interfaces. This heterogeneity introduces challenges, as these accelerators and DMA-capable devices act as independent bus masters, directly accessing memory. Consequently, ensuring both security and timing predictability in such environments becomes critical. To address these concerns, the Input-Output Memory Management Unit (IOMMU) plays a key role in mediating and regulating memory access, preventing unauthorized transactions while enforcing isolation and access control policies. While prior work has explored IOMMU-related side-channel vulnerabilities from a security standpoint, its role in performance interference remains largely unexplored. Moreover, many of the same architectural properties that enable side-channel leakage, such as shared TLBs, caching effects, and translation overheads, can also introduce timing unpredictability. In this work, we analyze the contention effects within IOMMU structures using the Xilinx UltraScale+ ZCU104 platform, demonstrating how their shared nature introduce unpredictable delays. Our findings reveal that IOMMU-induced interference primarily affects small memory transactions, where translation overheads significantly impact execution time. Additionally, we hypothesize that contention effects arising from IOTLBs exhibit similar behavior across architectures due to shared caching principles, such as prefetching and hierarchical TLB structures. Notably, our experiments show that IOMMU interference can delay DMA transactions by up to 1.79x for lower-size transfers on the Arm SMMUv2 implementation.
+
+随着混合临界系统(MCS)的演进,它们日益融合了多种不同的计算平台,将通用处理器与专用加速器(如AI引擎、GPU和高速网络界面)相结合。这种异质性带来了挑战,因为这些加速器和DMA能力装置作为独立的公共汽车主机,直接存取记忆。因此,确保这种环境中的安全和时间可预测性变得至关重要。为了解决这些问题,输入-输出记忆管理股(IOMMU)在调解和管理记忆存取方面发挥着关键作用,在执行隔离和访问控制政策的同时防止未经授权的交易。先前的工作从安全角度探索了与IMMU有关的侧通道脆弱性,但其在绩效干扰方面的作用基本上没有被挖掘出来。此外,许多相同的建筑特性,如共享的TLB、缓冲效应和翻译间接费用,也可以带来时间上的不可预测性。 在这项工作中,我们利用Xilinx Ultrataimate+ ZCUUMU平台,分析IMMU结构内部的争议效应,表明其共同性交易在IMB执行过程中产生何种不可预测的影响。
+
+---
+
+## Article 23
+### Title@2025-08-27 (3): Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian   Processes
+
+**Title**: Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian   Processes | Beschleunigte Spatio-Temporale Bayesische Modellierung für multivariate Gaußische Prozesse | 加速多变量高斯进程SPatio-Te时海湾模型模型 [2507.06938v2](http://arxiv.org/abs/2507.06938v2)
+
+**Authors** (8): Lisa Gaedke-Merzhäuser, Vincent Maillou, Fernando Rodriguez Avellaneda, Olaf Schenk, Mathieu Luisier, Paula Moraga, Alexandros Nikolaos Ziogas, Håvard Rue
+
+Multivariate Gaussian processes (GPs) offer a powerful probabilistic framework to represent complex interdependent phenomena. They pose, however, significant computational challenges in high-dimensional settings, which frequently arise in spatial-temporal applications. We present DALIA, a highly scalable framework for performing Bayesian inference tasks on spatio-temporal multivariate GPs, based on the methodology of integrated nested Laplace approximations. Our approach relies on a sparse inverse covariance matrix formulation of the GP, puts forward a GPU-accelerated block-dense approach, and introduces a hierarchical, triple-layer, distributed memory parallel scheme. We showcase weak scaling performance surpassing the state-of-the-art by two orders of magnitude on a model whose parameter space is 8$\times$ larger and measure strong scaling speedups of three orders of magnitude when running on 496 GH200 superchips on the Alps supercomputer. Applying DALIA to air pollution data from northern Italy over 48 days, we showcase refined spatial resolutions over the aggregated pollutant measurements.
+
+多变量高斯进程(GPs)为代表复杂的相互依存现象提供了一个强大的概率框架。但是,在高维环境中,这些现象在空间时空应用中经常出现,在高维环境中构成了重大的计算挑战。我们展示了DALIA,这是一个在以综合嵌巢式拉普特近距离方法为基础的阵列时空多变量GP中执行巴伊西亚推论任务的高度可扩展的框架。我们的方法依赖于对GP的微弱反相异矩阵配制,提出了GPU加速的区块密度方法,并引入了等级、三层、分布式的记忆平行计划。我们展示了一个模型,其参数空间为8美元时值较大,其缩放性工作能力以两个数量级的速度超过最新水平。在Alps超级计算机运行496 GH200超级奇普时,我们用DALIA对意大利北部的空气污染数据应用了48天,我们展示了在综合污染物测量中改进的空间分辨率。
+
+---
+
+## Article 24
+### Title@2025-08-27 (3): A Model-agnostic Strategy to Mitigate Embedding Degradation in   Personalized Federated Recommendation
+
+**Title**: A Model-agnostic Strategy to Mitigate Embedding Degradation in   Personalized Federated Recommendation | Eine modell-agnostische Strategie, um Degradation in personalisierte Federierte Empfehlung einzubinden | 减少个性化联邦建议中嵌入性退化的示范不可知战略 [2508.19591v1](http://arxiv.org/abs/2508.19591v1)
+
+**Authors** (5): Jiakui Shen, Yunqi Mi, Guoshuai Zhao, Jialie Shen, Xueming Qian
+
+Centralized recommender systems encounter privacy leakage due to the need to collect user behavior and other private data. Hence, federated recommender systems (FedRec) have become a promising approach with an aggregated global model on the server. However, this distributed training paradigm suffers from embedding degradation caused by suboptimal personalization and dimensional collapse, due to the existence of sparse interactions and heterogeneous preferences. To this end, we propose a novel model-agnostic strategy for FedRec to strengthen the personalized embedding utility, which is called Personalized Local-Global Collaboration (PLGC). It is the first research in federated recommendation to alleviate the dimensional collapse issue. Particularly, we incorporate the frozen global item embedding table into local devices. Based on a Neural Tangent Kernel strategy that dynamically balances local and global information, PLGC optimizes personalized representations during forward inference, ultimately converging to user-specific preferences. Additionally, PLGC carries on a contrastive objective function to reduce embedding redundancy by dissolving dependencies between dimensions, thereby improving the backward representation learning process. We introduce PLGC as a model-agnostic personalized training strategy for federated recommendations that can be applied to existing baselines to alleviate embedding degradation. Extensive experiments on five real-world datasets have demonstrated the effectiveness and adaptability of PLGC, which outperforms various baseline algorithms.
+
+中央推荐人系统由于需要收集用户行为和其他私人数据而出现隐私渗漏。因此,联合推荐人系统(FedRec)已经成为一个充满希望的方法,在服务器上采用一个综合的全球模型。然而,这种分布式培训模式由于缺乏互动和多种偏好而因次优的个人化和立体崩溃而导致退化。为此,我们为FedRec提议了一个新型模式-不可知性战略,以加强个性化嵌入功能,即称为个人化地方-全球协作(PLGC),这是对联合推荐的首个研究,以缓解维度崩溃问题。特别是,我们将冻结的全球项目嵌入表纳入本地设备。基于动态平衡当地和全球信息的Neural Tangnel战略,PLGC优化了前导中的个人化表达方式,最终与用户特有偏好相融合。此外,PLDC还具有对比性客观功能,通过分解不同层面的相互依存,减少嵌入后的代表学习过程。我们引入了PLGC,将冻结的全球项目嵌入式嵌入表,将个人性模型化模型化的模型化模型性模型升级为个人升级。
+
+---
+
+## Article 25
+### Title@2025-08-27 (3): Taming the Chaos: Coordinated Autoscaling for Heterogeneous and   Disaggregated LLM Inference
+
+**Title**: Taming the Chaos: Coordinated Autoscaling for Heterogeneous and   Disaggregated LLM Inference | Zähmen des Chaos: Koordinierte Autoskalierung für heterogene und disaggregierte LLM-Inferenz | 防止混乱:为异基因和分解的LLM推论协调自动升级 [2508.19559v1](http://arxiv.org/abs/2508.19559v1)
+
+**Authors** (11): Rongzhi Li, Ruogu Du, Zefang Chu, Sida Zhao, Chunlei Han, Zuocheng Shi, Yiwen Shao, Huanle Han, Long Huang, Zherui Liu, Shufan Liu
+
+Serving Large Language Models (LLMs) is a GPU-intensive task where traditional autoscalers fall short, particularly for modern Prefill-Decode (P/D) disaggregated architectures. This architectural shift, while powerful, introduces significant operational challenges, including inefficient use of heterogeneous hardware, network bottlenecks, and critical imbalances between prefill and decode stages. We introduce HeteroScale, a coordinated autoscaling framework that addresses the core challenges of P/D disaggregated serving. HeteroScale combines a topology-aware scheduler that adapts to heterogeneous hardware and network constraints with a novel metric-driven policy derived from the first large-scale empirical study of autoscaling signals in production. By leveraging a single, robust metric to jointly scale prefill and decode pools, HeteroScale maintains architectural balance while ensuring efficient, adaptive resource management. Deployed in a massive production environment on tens of thousands of GPUs, HeteroScale has proven its effectiveness, increasing average GPU utilization by a significant 26.6 percentage points and saving hundreds of thousands of GPU-hours daily, all while upholding stringent service level objectives.
+
+大型语言模型(LLMS)是一项GPU密集型任务,传统自动标尺标准落后,特别是现代Prefill-Decode(P/D)分类结构。这一结构转变虽然有力,但带来了巨大的操作挑战,包括各种硬件的使用效率低下、网络瓶颈以及填充前阶段和解码阶段之间的严重不平衡。我们引入了Hetero Case,这是一个协调的自动标尺框架,解决P/D分类服务的核心挑战。HeteroSulation将一个适应各种硬件和网络限制的地表意识排程器与一项创新的多指标驱动政策结合起来,该政策源自对生产中自动标尺信号的首次大规模实验性研究。通过利用一个单一的、强有力的指标来联合缩放预填和解码集合,HeteroStual在确保高效和适应性资源管理的同时保持建筑平衡。在成千上万个GPUPS的大型生产环境中部署, HeteroACSU证明了其有效性,提高了平均GPU的使用率26.6个百分点,并节省了数十万个GPU-小时的日常,同时保持严格的服务水平目标。
+
+---
+
+## Article 26
+### Title@2025-08-27 (3): A Survey on Parallel Text Generation: From Parallel Decoding to   Diffusion Language Models
+
+**Title**: A Survey on Parallel Text Generation: From Parallel Decoding to   Diffusion Language Models | Eine Umfrage zur parallelen Textgenerierung: Von Paralleldekodierung zu Diffusions-Sprachenmodellen | 关于平行制文本的调查:从平行解码到传播语言模式 [2508.08712v3](http://arxiv.org/abs/2508.08712v3)
+
+**Authors** (11): Lingzhe Zhang, Liancheng Fang, Chiming Duan, Minghua He, Leyi Pan, Pei Xiao, Shiyu Huang, Yunpeng Zhai, Xuming Hu, Philip S. Yu, Aiwei Liu
+
+As text generation has become a core capability of modern Large Language Models (LLMs), it underpins a wide range of downstream applications. However, most existing LLMs rely on autoregressive (AR) generation, producing one token at a time based on previously generated context-resulting in limited generation speed due to the inherently sequential nature of the process. To address this challenge, an increasing number of researchers have begun exploring parallel text generation-a broad class of techniques aimed at breaking the token-by-token generation bottleneck and improving inference efficiency. Despite growing interest, there remains a lack of comprehensive analysis on what specific techniques constitute parallel text generation and how they improve inference performance. To bridge this gap, we present a systematic survey of parallel text generation methods. We categorize existing approaches into AR-based and Non-AR-based paradigms, and provide a detailed examination of the core techniques within each category. Following this taxonomy, we assess their theoretical trade-offs in terms of speed, quality, and efficiency, and examine their potential for combination and comparison with alternative acceleration strategies. Finally, based on our findings, we highlight recent advancements, identify open challenges, and outline promising directions for future research in parallel text generation. We have also created a GitHub repository for indexing relevant papers and open resources available at https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation.
+
+由于文本生成已成为现代大语言模型的核心能力,因此它成为了现代大语言模型的核心能力,它支持了一系列广泛的下游应用,然而,大多数现有的LLMS依赖自动递增(AR)生成,在以前产生的因过程的内在顺序性质而导致的生成速度有限而导致的生成速度有限的情况下,在一个时刻产生一个象征;为了应对这一挑战,越来越多的研究人员开始探索平行的文本生成——一种旨在打破代代代代相传瓶颈和提高推论效率的广泛技术类别;尽管人们日益感兴趣,但对于哪些具体技术构成平行文本生成,以及这些技术如何改进推断性绩效,仍然缺乏全面分析。为了缩小这一差距,我们提出了对平行文本生成方法的系统调查。我们将现有方法分类为基于AR和不以AR为基础的模式,并对每一类别的核心技术进行详细审查。在进行这种分类之后,我们从速度、质量和效率的角度评估其理论上的权衡取舍,并审查它们与替代加速战略的组合和比较潜力。最后,我们根据我们的调查结果,强调了近期的进步,我们提出了公开的挑战,GLO-O-H 相关文件的平行数据库。
+
+---
+
+## Article 27
+### Title@2025-08-27 (3): Online-Score-Aided Federated Learning: Taming the Resource Constraints   in Wireless Networks
+
+**Title**: Online-Score-Aided Federated Learning: Taming the Resource Constraints   in Wireless Networks | Föderiertes Online-Score-Lernen: Ressourcenbeschränkungen in drahtlosen Netzwerken zügeln | 在线核心援助联邦学习:在无线网络中限制资源 [2408.05886v4](http://arxiv.org/abs/2408.05886v4)
+
+**Authors** (3): Ferdous Pervej, Minseok Choi, Andreas F. Molisch
+
+While federated learning (FL) is a widely popular distributed machine learning (ML) strategy that protects data privacy, time-varying wireless network parameters and heterogeneous configurations of the wireless devices pose significant challenges. Although the limited radio and computational resources of the network and the clients, respectively, are widely acknowledged, two critical yet often ignored aspects are (a) wireless devices can only dedicate a small chunk of their limited storage for the FL task and (b) new training samples may arrive in an online manner in many practical wireless applications. Therefore, we propose a new FL algorithm called online-score-aided federated learning (OSAFL), specifically designed to learn tasks relevant to wireless applications under these practical considerations. Since clients' local training steps differ under resource constraints, which may lead to client drift under statistically heterogeneous data distributions, we leverage normalized gradient similarities and exploit weighting clients' updates based on optimized scores that facilitate the convergence rate of the proposed OSAFL algorithm without incurring any communication overheads to the clients or requiring any statistical data information from them. We theoretically show how the new factors, i.e., online score and local data distribution shifts, affect the convergence bound and derive the necessary conditions for a sublinear convergence rate. Our extensive simulation results on two different tasks with multiple popular ML models validate the effectiveness of the proposed OSAFL algorithm compared to modified state-of-the-art FL baselines.
+
+虽然联邦学习(FL)是一项广泛流行的机器学习(ML)战略,它保护数据隐私,但时间变化式的无线网络参数和无线装置的多元配置构成重大挑战,尽管网络和客户的有限无线电和计算资源分别得到广泛承认,但两个关键但经常被忽视的方面是:(a) 无线设备只能将其有限的储存中的一小部分用于FL任务,而(b) 新的培训样本可能在许多实用的无线应用程序中以在线方式到达。因此,我们提议一种新的FL算法,称为在线核心辅助学习(OSAFL),具体目的是在这些实际考虑下学习与无线应用有关的任务。由于客户的当地培训步骤在资源限制下各不相同,可能导致客户在统计性差异性数据分布下漂移,因此我们利用标准化的梯度相似性,利用客户根据最优化的分数进行的最新加权,从而便利拟议的OSAL算法的趋同率,而不会给客户带来任何通信间接费用,或需要从他们获得任何统计数据信息。我们从理论上展示新的因素,即在线得分和地方数据趋同率的多级统一率,从而得出了我们所拟的MLLLL的双重模模模模模模模模模模模模范的LLLLLLLLL的双重任务。
+
+---
+
+## Article 28
+### Title@2025-08-27 (3): Aegis: Taxonomy and Optimizations for Overcoming Agent-Environment   Failures in LLM Agents
+
+**Title**: Aegis: Taxonomy and Optimizations for Overcoming Agent-Environment   Failures in LLM Agents | Aegis: Taxonomie und Optimierungen zur Überwindung von Versäumnissen bei LLM-Agenten | Aegis:克服LLLM剂中代理环境故障的分类和优化 [2508.19504v1](http://arxiv.org/abs/2508.19504v1)
+
+**Authors** (7): Kevin Song, Anand Jayarajan, Yaoyao Ding, Qidong Su, Zhanda Zhu, Sihang Liu, Gennady Pekhimenko
+
+Large Language Models (LLMs) agents augmented with domain tools promise to autonomously execute complex tasks requiring human-level intelligence, such as customer service and digital assistance. However, their practical deployment is often limited by their low success rates under complex real-world environments. To tackle this, prior research has primarily focused on improving the agents themselves, such as developing strong agentic LLMs, while overlooking the role of the system environment in which the agent operates.   In this paper, we study a complementary direction: improving agent success rates by optimizing the system environment in which the agent operates. We collect 142 agent traces (3,656 turns of agent-environment interactions) across 5 state-of-the-art agentic benchmarks. By analyzing these agent failures, we propose a taxonomy for agent-environment interaction failures that includes 6 failure modes. Guided by these findings, we design Aegis, a set of targeted environment optimizations: 1) environment observability enhancement, 2) common computation offloading, and 3) speculative agentic actions. These techniques improve agent success rates on average by 6.7-12.5%, without any modifications to the agent and underlying LLM.
+
+大型语言模型(LLMS)代理商,加上域名工具,可以自动执行需要人际情报的复杂任务,例如客户服务和数字协助,但是,实际部署往往受到复杂的现实环境中低成功率的限制。为了解决这个问题,先前的研究主要侧重于改进代理商本身,例如开发强大的代理商LLMS,同时忽视代理商运作的系统环境的作用。在本文件中,我们研究一个补充方向:通过优化代理商运作的系统环境来提高代理商成功率。我们收集了跨5个最先进的代理商基准的142个代理商痕迹(3 656个代理商与环境互动转折)。我们通过分析这些代理商的失败,我们建议对代理商与环境互动失败进行分类,其中包括6个失败模式。我们根据这些研究结果设计了一套有针对性的环境优化办法:1) 环境防腐蚀性增强,2个常见的计算卸载,3个投机性代理商行动。这些技术使代理商的平均成功率提高了6.7-12.5 %,对代理商和基础LLMM不作任何修改。
+
+---
+
+## Article 29
+### Title@2025-08-27 (3): FedProtoKD: Dual Knowledge Distillation with Adaptive Class-wise   Prototype Margin for Heterogeneous Federated Learning
+
+**Title**: FedProtoKD: Dual Knowledge Distillation with Adaptive Class-wise   Prototype Margin for Heterogeneous Federated Learning | FedProtoKD: Dual Knowledge Destillation mit adaptivem Class-Wise-Prototyp-Marge für heterogenes Federated Learning | Fed protoKD: 以适应性级分类方法的原型边际效应进行双重知识蒸馏,促进异质联邦学习 [2508.19009v2](http://arxiv.org/abs/2508.19009v2)
+
+**Authors** (5): Md Anwar Hossen, Fatema Siddika, Wensheng Zhang, Anuj Sharma, Ali Jannesari
+
+Heterogeneous Federated Learning (HFL) has gained attention for its ability to accommodate diverse models and heterogeneous data across clients. Prototype-based HFL methods emerge as a promising solution to address statistical heterogeneity and privacy challenges, paving the way for new advancements in HFL research. This method focuses on sharing only class-representative prototypes among heterogeneous clients. However, these prototypes are often aggregated on the server using weighted averaging, leading to sub-optimal global knowledge; these cause the shrinking of aggregated prototypes, which negatively affects the model performance in scenarios when models are heterogeneous and data distributions are extremely non-IID. We propose FedProtoKD in a Heterogeneous Federated Learning setting, using an enhanced dual-knowledge distillation mechanism to improve the system performance with clients' logits and prototype feature representation. We aim to resolve the prototype margin-shrinking problem using a contrastive learning-based trainable server prototype by leveraging a class-wise adaptive prototype margin. Furthermore, we assess the importance of public samples using the closeness of the sample's prototype to its class representative prototypes, which enhances learning performance. FedProtoKD achieved average improvements of 1.13% up to 34.13% accuracy across various settings and significantly outperforms existing state-of-the-art HFL methods.
+
+以原型为基础的氢氟碳化物方法作为解决统计异质性和隐私挑战的有希望的解决办法,为氢氟化碳研究的新进展铺平了道路。这种方法侧重于在各种客户中只共享具有类代表性的原型。然而,这些原型往往在服务器上使用平均加权法汇总,导致全球知识低于最佳水平;这导致综合原型的缩缩缩,这对模型多样性和数据分布极非IID的假设情景中的模型性能产生了负面影响。我们提议在异质混合学习环境中采用Fed ProtoKD,使用强化的双知识蒸馏机制,用客户的登录和原型特征代表来改进系统性能。我们的目标是利用以对比学习为基础的培训服务器原型,利用以类比的适应性原型差来解决原型。此外,我们评估了使用样品原型接近其具有类代表性的原型与H.13级原型密切性能的公众样本的重要性。我们提议在异质联学习过程中采用34种方法,大大改进了FD-ROT-13的现有平均性能。
+
+---
+
+## Article 30
+### Title@2025-08-27 (3): Towards 6G Intelligence: The Role of Generative AI in Future Wireless   Networks
+
+**Title**: Towards 6G Intelligence: The Role of Generative AI in Future Wireless   Networks | Towards 6G Intelligence: Die Rolle der Generativen KI in künftigen drahtlosen Netzwerken | 走向6G情报:未来无线网络中创造的AI的作用 [2508.19495v1](http://arxiv.org/abs/2508.19495v1)
+
+**Authors** (4): Muhammad Ahmed Mohsin, Junaid Ahmad, Muhammad Hamza Nawaz, Muhammad Ali Jamshed
+
+Ambient intelligence (AmI) is a computing paradigm in which physical environments are embedded with sensing, computation, and communication so they can perceive people and context, decide appropriate actions, and respond autonomously. Realizing AmI at global scale requires sixth generation (6G) wireless networks with capabilities for real time perception, reasoning, and action aligned with human behavior and mobility patterns. We argue that Generative Artificial Intelligence (GenAI) is the creative core of such environments. Unlike traditional AI, GenAI learns data distributions and can generate realistic samples, making it well suited to close key AmI gaps, including generating synthetic sensor and channel data in under observed areas, translating user intent into compact, semantic messages, predicting future network conditions for proactive control, and updating digital twins without compromising privacy.   This chapter reviews foundational GenAI models, GANs, VAEs, diffusion models, and generative transformers, and connects them to practical AmI use cases, including spectrum sharing, ultra reliable low latency communication, intelligent security, and context aware digital twins. We also examine how 6G enablers, such as edge and fog computing, IoT device swarms, intelligent reflecting surfaces (IRS), and non terrestrial networks, can host or accelerate distributed GenAI. Finally, we outline open challenges in energy efficient on device training, trustworthy synthetic data, federated generative learning, and AmI specific standardization. We show that GenAI is not a peripheral addition, but a foundational element for transforming 6G from a faster network into an ambient intelligent ecosystem.
+
+与传统的AI不同的是,GenAI学会了数据分布,能够产生现实的样本,使智能更适合缩小关键AMI差距,包括在观察到的地区生成合成传感器和频道数据,将用户意图转换为紧凑的语义信息,预测未来网络条件以进行主动控制,更新数字双胞胎,同时不损害隐私。 本章审查GenAI基础模型、GANs、VAE、传播模型和基因变异器,并将它们与实用的ANI案例连接起来,包括频谱共享、超可靠的低延时通讯、智能安全以及了解数字双胞胎。 我们还研究6G推进器,例如边际和雾变异网络、IAI、IT最后的GOVE、GE、GIA、GIA、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、I、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、IA、I、I、I、I、I、I、IA、IA、IA、IA、IA、I、I、I、G、G、S、A、S、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、I、、等等等等等等等等等等等等等等等等等等等等等系统、不智能、S、从等等等等等等等等系统、从智能、快速、不透明、不智能、快速等等等等等等等等等等等等的系统、快速、快速、快速、快速、快速、不透明、不加速的系统、不透明、快速、快速、快速、可快速、可快速、可快速、可快速、可快速、可快速、可快速、可快速、可快速、可快速、可快速、可快速、可
+
+---
+
+## Article 31
+### Title@2025-08-26 (2): Formal Modeling and Verification of the Algorand Consensus Protocol in   CADP
+
+**Title**: Formal Modeling and Verification of the Algorand Consensus Protocol in   CADP | Formelle Modellierung und Überprüfung des Algorand-Konsensusprotokolls in CADP | 《非洲农业发展综合方案阿尔及尔共识议定书》的示范和核查 [2508.19452v1](http://arxiv.org/abs/2508.19452v1)
+
+**Authors** (5): Andrea Esposito, Francesco P. Rossi, Marco Bernardo, Francesco Fabris, Hubert Garavel
+
+Algorand is a scalable and secure permissionless blockchain that achieves proof-of-stake consensus via cryptographic self-sortition and binary Byzantine agreement. In this paper, we present a process algebraic model of the Algorand consensus protocol with the aim of enabling rigorous formal verification. Our model captures the behavior of participants with respect to the structured alternation of consensus steps toward a committee-based agreement by means of a probabilistic process calculus. We validate the correctness of the protocol in the absence of adversaries and then extend our model to capture the influence of coordinated malicious nodes that can force the commit of an empty block instead of the proposed one. The adversarial scenario is analyzed by using an equivalence-checking-based noninterference framework that we have implemented in the CADP verification toolkit. In addition to highlighting both the robustness and the limitations of the Algorand protocol under adversarial assumptions, this work illustrates the added value of using formal methods for the analysis of blockchain consensus algorithms.
+
+Algorand 是一个可扩展的、安全的无许可的链条,通过加密自园和二进制拜占庭协议取得共识的证明。我们在本文件中展示了阿尔哥尔和协商一致协议的一个过程代数模型,目的是进行严格的正式核查。我们的模型通过一种概率化过程的计算法,捕捉了参与者在以委员会为基础的协议的协商一致步骤结构变化方面的行为。我们验证了在对手缺席的情况下协议的正确性,然后扩展了我们的模型,以捕捉协调的恶意节点的影响,这些节点可以迫使一个空区而不是拟议的节点实施。通过使用我们在CADP核查工具包中执行的基于等同检查的不干涉框架来分析对抗性情景。除了强调在对抗性假设下使用阿尔哥尔协议的稳健性和局限性外,这项工作还说明了使用正式方法分析链式共识算法的附加价值。
+
+---
+
+## Article 32
+### Title@2025-08-26 (2): HAP: Hybrid Adaptive Parallelism for Efficient Mixture-of-Experts   Inference
+
+**Title**: HAP: Hybrid Adaptive Parallelism for Efficient Mixture-of-Experts   Inference | HAP: Hybride Adaptive Parallelität für effiziente Mixture-of-Experts-Schlussfolgerung | HAP: 高效混合混合专家的混合调适平行主义 [2508.19373v1](http://arxiv.org/abs/2508.19373v1)
+
+**Authors** (10): Haoran Lin, Xianzhi Yu, Kang Zhao, Han Bao, Zongyuan Zhan, Ting Hu, Wulong Liu, Zekun Yin, Xin Li, Weiguo Liu
+
+Current inference systems for Mixture-of-Experts (MoE) models primarily employ static parallelization strategies. However, these static approaches cannot consistently achieve optimal performance across different inference scenarios, as they lack the flexibility to adapt to varying computational requirements. In this work, we propose HAP (Hybrid Adaptive Parallelism), a novel method that dynamically selects hybrid parallel strategies to enhance MoE inference efficiency. The fundamental innovation of HAP lies in hierarchically decomposing MoE architectures into two distinct computational modules: the Attention module and the Expert module, each augmented with a specialized inference latency simulation model. This decomposition promotes the construction of a comprehensive search space for seeking model parallel strategies. By leveraging Integer Linear Programming (ILP), HAP could solve the optimal hybrid parallel configurations to maximize inference efficiency under varying computational constraints. Our experiments demonstrate that HAP consistently determines parallel configurations that achieve comparable or superior performance to the TP strategy prevalent in mainstream inference systems. Compared to the TP-based inference, HAP-based inference achieves speedups of 1.68x, 1.77x, and 1.57x on A100, A6000, and V100 GPU platforms, respectively. Furthermore, HAP showcases remarkable generalization capability, maintaining performance effectiveness across diverse MoE model configurations, including Mixtral and Qwen series models.
+
+在这项工作中,我们提出HAP(Hybrid 适应性平行),这是动态选择混合平行战略以提高计算效率的一种新方法。HAP的基本创新在于将MOE结构结构分解为两个不同的计算模块:注意模块和专家模块,每个模块都配有一个专门的推力延缓模拟模型。这些静态方法无法在不同的推力假设情景中始终实现最佳绩效,因为它们缺乏适应不同计算要求的灵活性。在这项工作中,我们提议HAP(HAB(Hybrid 适应性平行)),这是动态选择混合平行战略以提高计算效率的一种新颖方法。我们的实验表明,HAP(HAP)始终在等级上决定平行配置,使其达到在主流推力系统中流行的TP模式的可比或优异性绩效。与TP的推力模型相比,HAP(HAP)-100x的模拟模拟模型,以及GAV.00x的快速性能。
+
+---
+
+## Article 33
+### Title@2025-08-26 (2): Harnessing the Full Potential of RRAMs through Scalable and Distributed   In-Memory Computing with Integrated Error Correction
+
+**Title**: Harnessing the Full Potential of RRAMs through Scalable and Distributed   In-Memory Computing with Integrated Error Correction | Das volle Potenzial von RRAMs durch skalierbares und verteiltes In-Memory Computing mit integrierter Fehlerkorrektur nutzen | 通过带有综合错误更正的可缩放和分散的模拟计算机,充分利用记录和记录机的全部潜力 [2508.13298v2](http://arxiv.org/abs/2508.13298v2)
+
+**Authors** (5): Huynh Q. N. Vo, Md Tawsif Rahman Chowdhury, Paritosh Ramanan, Murat Yildirim, Gozde Tutuncuoglu
+
+Exponential growth in global computing demand is exacerbated due to the higher-energy requirements of conventional architectures, primarily due to energy-intensive data movement. In-memory computing with Resistive Random Access Memory (RRAM) addresses this by co-integrating memory and processing, but faces significant hurdles related to device-level non-idealities and poor scalability for large computing tasks. Here, we introduce MELISO+ (In-Memory Linear Solver), a full-stack, distributed framework for energy-efficient in-memory computing. MELISO+ proposes a novel two-tier error correction mechanism to mitigate device non-idealities and develops a distributed RRAM computing framework to enable matrix computations exceeding dimensions of $65,000\times65,000$. This approach reduces first- and second-order arithmetic errors due to device non-idealities by over $90\%$, enhances energy efficiency by three to five orders of magnitude, and decreases latency 100-fold. Hence, MELISO+ allows lower-precision RRAM devices to outperform high-precision device alternatives in accuracy, energy and latency metrics. By unifying algorithm-hardware co-design with scalable architecture, MELISO+ significantly advances sustainable, high-dimensional computing suitable for applications like large language models and generative AI.
+
+全球计算需求的指数增长因传统结构的能源需求较高而加剧,这主要是由于能源密集型数据流动。使用耐性随机存取存储(RRAM)进行模拟计算,通过共同整合内存和处理来解决这个问题,但面临与设备级非理想和大型计算任务缩放能力差有关的重大障碍。在这里,我们引入了MELISO+(Memory Linearina Solveer),这是一个全套、分布式的高能效模拟模拟计算机框架。因此,MELISO+允许低精度RRAM装置使用新型双层错误纠正机制,以减少设备非理想性,并开发分布式RRAM计算框架,以便能够进行超过65 000美元时间的矩阵计算。这一方法将由于设备非理想性而导致的一级和二级计算错误减少90美元以上,将能源效率提高3至5级,并将拉里特度降低100倍。因此,MELISO+允许低精度的RAM装置在高精确度类似语言模型上超越高精确度的高度稳定度、高清晰度电子格式应用中,将高清晰度和高清晰度电子格式应用的模型替代品降低。
+
+---
+
+## Article 34
+### Title@2025-08-26 (2): Architecting Distributed Quantum Computers: Design Insights from   Resource Estimation
+
+**Title**: Architecting Distributed Quantum Computers: Design Insights from   Resource Estimation | Architecting Distributed Quantum Computers: Design Insights from Resource Estimation | 建筑分布量子计算机:资源估算的设计透视 [2508.19160v1](http://arxiv.org/abs/2508.19160v1)
+
+**Authors** (3): Dmitry Filippov, Peter Yang, Prakash Murali
+
+To enable practically useful quantum computing, we require hundreds to thousands of logical qubits (collections of physical qubits with error correction). Current monolithic device architectures have scaling limits beyond few tens of logical qubits. To scale up, we require architectures that orchestrate several monolithic devices into a distributed quantum computing system. Currently, resource estimation, which is crucial for determining hardware needs and bottlenecks, focuses exclusively on monolithic systems. Our work fills this gap and answers key architectural design questions about distributed systems, including the impact of distribution on application resource needs, the organization of qubits across nodes and the requirements of entanglement distillation (quantum network). To answer these questions, we develop a novel resource estimation framework that models the key components of the distributed execution stack. We analyse the performance of practical quantum algorithms on various hardware configurations, spanning different qubit speeds, entanglement generation rates and distillation protocols. We show that distributed architectures have practically feasible resource requirements; for a node size of 45K qubits, distributed systems need on average 1.4X higher number of physical qubits and 4X higher execution time compared to monolithic architectures, but with more favourable hardware implementation prospects. Our insights on entanglement generation rates, node sizes and architecture have the potential to inform system designs in the coming years.
+
+实现实用的量子计算,我们需要数以万至千千计的逻辑量子计算(通过错误校正的物理量子的收集)。当前单流设备结构的缩放限制超过少数几十个逻辑量子。为了扩大规模,我们需要将几个单流设备合用成一个分布式量子计算系统的结构。目前,资源估算对于确定硬件需求和瓶颈至关重要,它只侧重于单流系统。我们的工作填补了这一缺口,并回答了分布式系统的关键建筑设计问题,包括分配对应用资源需求的影响、横跨节点的方位的组织和混合蒸馏(量子网络)的要求。为了回答这些问题,我们开发了一个新的资源估算框架,以模拟分布式执行堆的关键组成部分。我们分析了各种硬件配置的实用量子算法的性能,覆盖了不同的量子速度、纠结生成率和蒸馏协议。我们显示,分布式结构实际上有可行的资源需求;对于45K方位的量子资源需求,在交替式的交替式结构中,分布式的系统需要比 1.4 和高度的硬度的硬度结构,比值比值比值更高。
+
+---
+
+## Article 35
+### Title@2025-08-26 (2): Ab-initio Quantum Transport with the GW Approximation, 42,240 Atoms, and   Sustained Exascale Performance
+
+**Title**: Ab-initio Quantum Transport with the GW Approximation, 42,240 Atoms, and   Sustained Exascale Performance | Ab-initio Quantum Transport mit der GW-Annäherung, 42.240 Atome und Sustained Exascale Performance | Ab-initio 量吨运输,与GW接近,42 240原子和持续加速性能 [2508.19138v1](http://arxiv.org/abs/2508.19138v1)
+
+**Authors** (10): Nicolas Vetsch, Alexander Maeder, Vincent Maillou, Anders Winka, Jiang Cao, Grzegorz Kwasniewski, Leonard Deuschle, Torsten Hoefler, Alexandros Nikolaos Ziogas, Mathieu Luisier
+
+Designing nanoscale electronic devices such as the currently manufactured nanoribbon field-effect transistors (NRFETs) requires advanced modeling tools capturing all relevant quantum mechanical effects. State-of-the-art approaches combine the non-equilibrium Green's function (NEGF) formalism and density functional theory (DFT). However, as device dimensions do not exceed a few nanometers anymore, electrons are confined in ultra-small volumes, giving rise to strong electron-electron interactions. To account for these critical effects, DFT+NEGF solvers should be extended with the GW approximation, which massively increases their computational intensity. Here, we present the first implementation of the NEGF+GW scheme capable of handling NRFET geometries with dimensions comparable to experiments. This package, called QuaTrEx, makes use of a novel spatial domain decomposition scheme, can treat devices made of up to 84,480 atoms, scales very well on the Alps and Frontier supercomputers (>80% weak scaling efficiency), and sustains an exascale FP64 performance on 42,240 atoms (1.15 Eflop/s).
+
+设计纳米规模电子装置,例如目前制造的纳米里脊柱外效应晶体管(NRFETs)需要先进的模型工具,以捕捉所有相关的量子机械效应。 最先进的方法将非平衡绿色功能(NEGF)的正规化和密度功能理论(DFT)结合起来。 但是,由于设备尺寸不再超过几纳米,电子被限制在超小容量中,从而产生强大的电子-电子互动。为了说明这些关键效应,DFT+NEGF解答器应该与GW近似相配,从而大大提高其计算强度。在这里,我们介绍能够处理NEGFF+GW的功能和与实验相类似的尺寸的NEGFT的首次实施。这个包名为QuaTREx,利用了新型的空间域分包,可以治疗高达84,480原子的装置,在阿尔卑斯和前沿超级计算机(>80%的缩缩放效率)上,并维持42,240个表(Efos)的FP64的缩式(1/15)。
+
+---
+
+## Article 36
+### Title@2025-08-26 (2): Federated Fine-Tuning of Sparsely-Activated Large Language Models on   Resource-Constrained Devices
+
+**Title**: Federated Fine-Tuning of Sparsely-Activated Large Language Models on   Resource-Constrained Devices | Federated Fine-Tuning von Sparsely-Activated Large Language Models auf ressourcengebundenen Geräten | 资源限制设备零散启动的大型语言模型的联邦精度 [2508.19078v1](http://arxiv.org/abs/2508.19078v1)
+
+**Authors** (5): Fahao Chen, Jie Wan, Peng Li, Zhou Su, Dongxiao Yu
+
+Federated fine-tuning of Mixture-of-Experts (MoE)-based large language models (LLMs) is challenging due to their massive computational requirements and the resource constraints of participants. Existing working attempts to fill this gap through model quantization, computation offloading, or expert pruning. However, they cannot achieve desired performance due to impractical system assumptions and a lack of consideration for MoE-specific characteristics. In this paper, we propose FLUX, a system designed to enable federated fine-tuning of MoE-based LLMs across participants with constrained computing resources (e.g., consumer-grade GPUs), aiming to minimize time-to-accuracy. FLUX introduces three key innovations: (1) quantization-based local profiling to estimate expert activation with minimal overhead, (2) adaptive layer-aware expert merging to reduce resource consumption while preserving accuracy, and (3) dynamic expert role assignment using an exploration-exploitation strategy to balance tuning and non-tuning experts. Extensive experiments on LLaMA-MoE and DeepSeek-MoE with multiple benchmark datasets demonstrate that FLUX significantly outperforms existing methods, achieving up to 4.75X speedup in time-to-accuracy.
+
+由于计算要求庞大,而且参与者资源有限,因此对基于混合专家的大型语言模型(LLMS)进行联邦微调具有挑战性。目前通过模型量化、计算卸载或专家裁剪来填补这一差距的工作尝试,但由于系统假设不切实际,而且没有考虑到教育部的具体特点,因此无法取得预期的绩效。在本文件中,我们提议FLUX,该系统旨在对计算机资源有限(例如消费者级GPUs)的参与者对基于移动专家的LMS进行联合微调,目的是最大限度地减少时间到准确性。FLUX推出了三项关键创新:(1) 基于四分化的本地剖面图,以估计专家在最低间接费用下的活动;(2) 适应性层对等专家进行整合,以减少资源消耗,同时保持准确性;(3) 利用探索性开发性战略来平衡调控和不调的专家任务。LLMA-MoE和Deep Seek-MoE进行广泛的实验,以多种基准数据元组的速度向4.X级调整,显示FLX在大大超前现有方法。
+
+---
+
+## Article 37
+### Title@2025-08-26 (2): CARMA: Collocation-Aware Resource Manager with GPU Memory Estimator
+
+**Title**: CARMA: Collocation-Aware Resource Manager with GPU Memory Estimator | CARMA: Collocation-Aware Resource Manager mit GPU-Speicher-Estimator | CARMA: 与 GPU 内存模拟器合用同一地点软件资源管理器 [2508.19073v1](http://arxiv.org/abs/2508.19073v1)
+
+**Authors** (5): Ehsan Yousefzadeh-Asl-Miandoab, Reza Karimzadeh, Bulat Ibragimov, Florina M. Ciorba, Pınar Tözün
+
+Studies conducted on enterprise-scale infrastructure have shown that GPUs -- the core computational resource for deep learning (DL) training -- are often significantly underutilized. DL task collocation on GPUs is an opportunity to address this challenge. However, it may result in (1) out-of-memory crashes for the subsequently arriving task and (2) slowdowns for all tasks sharing the GPU due to resource interference. The former challenge poses a threat to robustness, while the latter affects the quality of service and energy efficiency.   We propose CARMA, a server-scale task-level collocation-aware resource management system that handles both collocation challenges. CARMA encompasses GPUMemNet, a novel ML-based GPU memory estimator framework for DL training tasks, to minimize out-of-memory errors and introduces collocation policies that cap GPU utilization to minimize interference. Furthermore, CARMA introduces a recovery method to ensure robust restart of tasks that crash. Our evaluation on traces modeled after real-world DL training task traces shows that CARMA increases the GPU utilization over time by 39.3\%, decreases the end-to-end execution time by $\sim$26.7\%, and reduces the GPU energy use by $\sim$14.2\%.
+
+对企业规模基础设施进行的研究显示,GPU -- -- 深层次学习(DL)培训的核心计算资源 -- -- 往往没有得到充分利用。DL任务在GPU上的任务同地办公是应对这一挑战的一个机会,但是,这可能导致:(1) 后到的任务发生意外事故,(2) 由于资源干扰,所有共享GPU的任务都出现减速。前一个挑战对稳健构成威胁,而后者则影响服务质量和能源效率。我们建议CARMA,一个处理同地办公挑战的服务器级任务级同地办公资源管理系统。CARMA包括GPUMemNet,一个基于GPU的新型GPU记忆估计框架,用于DL培训任务,以尽量减少模拟错误,并引入将GPU的利用率限制在最小化,以尽量减少干扰。此外,CARMA还引入了一种恢复方法,以确保崩溃任务的有力恢复。我们对现实世界DL培训任务跟踪的跟踪显示,CARMA将GPU的利用率随着时间的推移提高39.3美元,将GL的GM-42+的能源使用量减少。
+
+---
+
+## Article 38
+### Title@2025-08-26 (2): Large Language Model Aided QoS Prediction for Service Recommendation
+
+**Title**: Large Language Model Aided QoS Prediction for Service Recommendation | Großes Sprachmodell unterstützte QoS-Vorhersage für Service-Empfehlung | 大语言模拟助助QOS服务建议预测 [2408.02223v3](http://arxiv.org/abs/2408.02223v3)
+
+**Authors** (5): Huiying Liu, Zekun Zhang, Honghao Li, Qilin Wu, Yiwen Zhang
+
+Large language models (LLMs) have seen rapid improvement in the recent years, and have been used in a wider range of applications. After being trained on large text corpus, LLMs obtain the capability of extracting rich features from textual data. Such capability is potentially useful for the web service recommendation task, where the web users and services have intrinsic attributes that can be described using natural language sentences and are useful for recommendation. In this paper, we explore the possibility and practicality of using LLMs for web service recommendation. We propose the large language model aided QoS prediction (llmQoS) model, which use LLMs to extract useful information from attributes of web users and services via descriptive sentences. This information is then used in combination with the QoS values of historical interactions of users and services, to predict QoS values for any given user-service pair. On the WSDream dataset, llmQoS is shown to overcome the data sparsity issue inherent to the QoS prediction problem, and outperforms comparable baseline models consistently.
+
+大型语言模型(LLMS)近年来迅速改善,并被广泛应用。在接受了关于大文本程序的培训后,LLMS获得了从文本数据中提取丰富特征的能力,这种能力对网络服务建议任务可能有用,因为网络用户和服务具有使用自然语言句子可以描述的内在属性,并且对建议有用。在本文中,我们探讨了使用LLMS进行网络服务建议的可能性和实用性。我们提议使用大型语言模型帮助QOS预测(llmQos)模型,该模型利用LMS从网络用户的属性和通过描述性句子提供的服务中提取有用的信息。然后,这种信息与用户和服务的历史互动的QOS值相结合,用来预测任何特定用户-服务配对的QOS值。在WSDream数据集上,llmQoS显示克服QOS预测问题所固有的数据紧张性问题,以及超越可比基线模型。
+
+---
+
+## Article 39
+### Title@2025-08-26 (2): Databelt: A Continuous Data Path for Serverless Workflows in the 3D   Compute Continuum
+
+**Title**: Databelt: A Continuous Data Path for Serverless Workflows in the 3D   Compute Continuum | Databelt: Ein kontinuierlicher Datenpfad für serverlose Workflows im 3D Compute Continuum | 数据带: 3D 计算连续性的无服务器工作流程的持续数据路径 [2508.15351v2](http://arxiv.org/abs/2508.15351v2)
+
+**Authors** (4): Cynthia Marcelino, Leonard Guelmino, Thomas Pusztai, Stefan Nastic
+
+Typically, serverless functions rely on remote storage services for managing state, which can result in increased latency and network communication overhead. In a dynamic environment such as the 3D (Edge-Cloud-Space) Compute Continuum, serverless functions face additional challenges due to frequent changes in network topology. As satellites move in and out of the range of ground stations, functions must make multiple hops to access cloud services, leading to high-latency state access and unnecessary data transfers. In this paper, we present Databelt, a state management framework for serverless workflows designed for the dynamic environment of the 3D Compute Continuum. Databelt introduces an SLO-aware state propagation mechanism that enables the function state to move continuously in orbit. Databelt proactively offloads function states to the most suitable node, such that when functions execute, the data is already present on the execution node or nearby, thus minimizing state access latency and reducing the number of network hops. Additionally, Databelt introduces a function state fusion mechanism that abstracts state management for functions sharing the same serverless runtime. When functions are fused, Databelt seamlessly retrieves their state as a group, reducing redundant network and storage operations and improving overall workflow efficiency. Our experimental results show that Databelt reduces workflow execution time by up to 66% and increases throughput by 50% compared to the baselines. Furthermore, our results show that Databelt function state fusion reduces storage operations latency by up to 20%, by reducing repetitive storage requests for functions within the same runtime, ensuring efficient execution of serverless workflows in highly dynamic network environments such as the 3D Continuum.
+
+普通情况下,无服务器功能依赖于远程存储服务来管理状态,这可能导致延迟度和网络通信管理管理增加。在3D(Edge-Cloud-Space)等动态环境中,计算Continuum,无服务器功能由于网络地形的频繁变化而面临额外的挑战。随着卫星进出地面站,功能必须让多个跳跃进入云层服务,从而导致高度延迟状态访问和不必要的数据传输。在本文中,我们为3D Comput Conduum 动态环境设计的无服务器工作流程提供Databelt。在3D(Edge-Cloud-Cloud-Space) 等动态环境中,为3D(Edge-Cload-Cload-Space-Space-Sload-Scload-Sload-Space) 引入了 SLOV-aware 状态传播机制,使该功能能够让该功能在轨道上持续运行。数据安全性卸载功能显示最合适的节点,在运行点或附近,从而将状态访问延迟度缩短,数据流流流流流流流运行。 当运行运行中, 将数据显示数据机运行结果显示,通过整个运行结果显示,通过系统运行,通过系统运行中,通过安全性能将数据流将数据链显示,通过运行到系统运行将数据流运行结果显示,以降低速度将结果。
+
+---
+
+## Article 40
+### Title@2025-08-26 (2): Deep Learning-Enabled Supercritical Flame Simulation at Detailed   Chemistry and Real-Fluid Accuracy Towards Trillion-Cell Scale
+
+**Title**: Deep Learning-Enabled Supercritical Flame Simulation at Detailed   Chemistry and Real-Fluid Accuracy Towards Trillion-Cell Scale | Deep Learning-Enabled Supercritical Flame Simulation bei detaillierter Chemie und real-Fluid Genauigkeit auf Trillion-Zell-Skala | 在详细化学和真实流流准确度对三亿千分之千分之球规模的 深化学和真实流精度模拟深学、可读取的超临界火焰模拟 [2508.18969v1](http://arxiv.org/abs/2508.18969v1)
+
+**Authors** (6): Zhuoqiang Guo, Runze Mao, Lijun Liu, Guangming Tan, Weile Jia, Zhi X. Chen
+
+For decades, supercritical flame simulations incorporating detailed chemistry and real-fluid transport have been limited to millions of cells, constraining the resolved spatial and temporal scales of the physical system. We optimize the supercritical flame simulation software DeepFlame -- which incorporates deep neural networks while retaining the real-fluid mechanical and chemical accuracy -- from three perspectives: parallel computing, computational efficiency, and I/O performance. Our highly optimized DeepFlame achieves supercritical liquid oxygen/methane (LOX/\ce{CH4}) turbulent combustion simulation of up to 618 and 154 billion cells with unprecedented time-to-solution, attaining 439/1186 and 187/316 PFlop/s (32.3\%/21.8\% and 37.4\%/31.8\% of the peak) in FP32/mixed-FP16 precision on Sunway (98,304 nodes) and Fugaku (73,728 nodes) supercomputers, respectively. This computational capability surpasses existing capacities by three orders of magnitude, enabling the first practical simulation of rocket engine combustion with >100 LOX/\ce{CH4} injectors. This breakthrough establishes high-fidelity supercritical flame modeling as a critical design tool for next-generation rocket propulsion and ultra-high energy density systems.
+
+数十年来,包含详细化学和真实流体迁移的超临界火焰模拟限于数百万个细胞,限制了物理系统的溶解空间和时间尺度。我们从三个角度优化了超临界火焰模拟软件DeepFlame -- -- 它包含深神经网络,同时保留实际流体机械和化学精度 -- -- 从太阳线(98,304节节)和Fugaku(73,728节节)的同步计算和超临界液氧/甲烷(LOX/\ce{CH4})的超临界火焰模拟。这一计算能力以三个级别超过现有能力,首次实际模拟火箭发动机燃烧,以100个模型LOX/CE/CH4}为主,首次实际模拟火箭发动机燃烧(339/118和187/316PFlop/s)(峰值为32.3/21.8和37.4/31.8/31)。
+
+---
+
+## Article 41
+### Title@2025-08-26 (2): SIREN: Software Identification and Recognition in HPC Systems
+
+**Title**: SIREN: Software Identification and Recognition in HPC Systems | SIREN: Software-Identifikation und -Erkennung in HPC-Systemen | SIREN:HPC系统中的软件识别和识别 [2508.18950v1](http://arxiv.org/abs/2508.18950v1)
+
+**Authors** (5): Thomas Jakobsche, Fredrik Robertsén, Jessica R. Jones, Utz-Uwe Haus, Florina M. Ciorba
+
+HPC systems use monitoring and operational data analytics to ensure efficiency, performance, and orderly operations. Application-specific insights are crucial for analyzing the increasing complexity and diversity of HPC workloads, particularly through the identification of unknown software and recognition of repeated executions, which facilitate system optimization and security improvements. However, traditional identification methods using job or file names are unreliable for arbitrary user-provided names (a.out). Fuzzy hashing of executables detects similarities despite changes in executable version or compilation approach while preserving privacy and file integrity, overcoming these limitations. We introduce SIREN, a process-level data collection framework for software identification and recognition. SIREN improves observability in HPC by enabling analysis of process metadata, environment information, and executable fuzzy hashes. Findings from a first opt-in deployment campaign on LUMI show SIREN's ability to provide insights into software usage, recognition of repeated executions of known applications, and similarity-based identification of unknown applications.
+
+HPC系统使用监测和操作数据分析方法,以确保效率、性能和有序运作; 具体应用的洞察力对于分析高常委会工作量日益复杂和多样化至关重要,尤其是通过识别未知软件和确认多次处决,促进系统优化和安全改进; 然而,使用工作或文件名称的传统识别方法对于任意使用用户提供的名称(a.out)是不可靠的; 尽管可执行版本或汇编方法有所改变,但模糊的散列发现相似之处,同时维护隐私和档案完整性,克服这些限制; 我们引入了SIREN,这是一个用于软件识别和识别的流程级数据收集框架; SIREN通过对流程元数据、环境信息和可执行的模糊信息进行有利的分析,提高了高常委会的可视性; 关于LUMI的首次选择部署运动的结果显示SUREN有能力对软件使用情况提供洞察,承认对已知应用程序的多次执行,以及以类似方式识别未知应用程序。
+
+---
+
+## Article 42
+### Title@2025-08-26 (2): ClusterFusion: Expanding Operator Fusion Scope for LLM Inference via   Cluster-Level Collective Primitive
+
+**Title**: ClusterFusion: Expanding Operator Fusion Scope for LLM Inference via   Cluster-Level Collective Primitive | ClusterFusion: Erweiterung der Operator-Fusion-Scope für LLM-Inferenz über Cluster-Level-Kollektiv Primitive | 集束法:通过集束级集体原始机制扩大LLM 推理的经营人拆解范围 [2508.18850v1](http://arxiv.org/abs/2508.18850v1)
+
+**Authors** (11): Xinhao Luo, Zihan Liu, Yangjie Zhou, Shihan Fang, Ziyu Huang, Yu Feng, Chen Zhang, Shixuan Sun, Zhenzhe Zheng, Jingwen Leng, Minyi Guo
+
+Large language model (LLM) decoding suffers from high latency due to fragmented execution across operators and heavy reliance on off-chip memory for data exchange and reduction. This execution model limits opportunities for fusion and incurs significant memory traffic and kernel launch overhead. While modern architectures such as NVIDIA Hopper provide distributed shared memory and low-latency intra-cluster interconnects, they expose only low-level data movement instructions, lacking structured abstractions for collective on-chip communication. To bridge this software-hardware gap, we introduce two cluster-level communication primitives, ClusterReduce and ClusterGather, which abstract common communication patterns and enable structured, high-speed data exchange and reduction between thread blocks within a cluster, allowing intermediate results to be on-chip without involving off-chip memory. Building on these abstractions, we design ClusterFusion, an execution framework that schedules communication and computation jointly to expand operator fusion scope by composing decoding stages such as QKV Projection, Attention, and Output Projection into a single fused kernels. Evaluations on H100 GPUs show that ClusterFusion outperforms state-of-the-art inference frameworks by 1.61x on average in end-to-end latency across different models and configurations. The source code is available at https://github.com/xinhao-luo/ClusterFusion.
+
+大型语言模型(LLM)的解码因操作者之间执行零散和大量依赖离芯存储来交换和减少数据而存在高度悬浮,因为操作者之间使用零散的操作和大量依赖离芯存储来交换和减少数据。这一执行模式限制了聚合的机会,并产生了大量的内存流量和内核发射管理管理管理。虽然NVIDIA Hopper等现代结构提供了分布式的共享记忆和低纬度集群内部连接,但它们只暴露了低层次的数据移动指示,缺乏集体芯片通信的结构抽象。为了缩小软件-硬件的距离,我们引入了两个集群级通信原始系统,即Croup-Reduce和GroupGroupGather,这两类信息是抽象的通用通用通信模式,使得一个集成、高速的数据交换和减少在一个集群内的线块块之间,使得中间结果可以在不包含离芯存储存储存储存储的内存储。我们设计了CroupFusionion,一个执行框架,通过将QKV/Proto, at, 和输出投影投影投影投影式投影成一个单一组合/内核结构。
+
+---
+
+## Article 43
+### Title@2025-08-26 (2): Examining MPI and its Extensions for Asynchronous Multithreaded   Communication
+
+**Title**: Examining MPI and its Extensions for Asynchronous Multithreaded   Communication | Prüfung des MPI und seiner Erweiterungen für die asynchrone Multithreaded-Kommunikation | 检查MPI及其非同步多读通信扩展 [2508.18667v1](http://arxiv.org/abs/2508.18667v1)
+
+**Authors** (3): Jiakun Yan, Marc Snir, Yanfei Guo
+
+The increasing complexity of HPC architectures and the growing adoption of irregular scientific algorithms demand efficient support for asynchronous, multithreaded communication. This need is especially pronounced with Asynchronous Many-Task (AMT) systems. This communication pattern was not a consideration during the design of the original MPI specification. The MPI community has recently introduced several extensions to address these evolving requirements. This work evaluates two such extensions, the Virtual Communication Interface (VCI) and the Continuation extensions, in the context of an established AMT runtime HPX. We begin by using an MPI-level microbenchmark, modeled from HPX's low-level communication mechanism, to measure the peak performance potential of these extensions. We then integrate them into HPX to evaluate their effectiveness in real-world scenarios. Our results show that while these extensions can enhance performance compared to standard MPI, areas for improvement remain. The current continuation proposal limits the maximum multithreaded message rate achievable in the multi-VCI setting. Furthermore, the recommended one-VCI-per-thread mode proves ineffective in real-world systems due to the attentiveness problem. These findings underscore the importance of improving intra-VCI threading efficiency to achieve scalable multithreaded communication and fully realize the benefits of recent MPI extensions.
+
+HPC结构日益复杂,而且越来越多地采用不正常的科学算法,这要求为非同步、多轨通信提供有效支持。这种需要在Asynchronousous Many-Task(AMT)系统中尤为明显。这种通信模式在设计最初的MPI规格时并不是一个考虑因素。MPI社区最近推出了若干扩展,以满足这些不断变化的要求。这项工作评估了两个这样的扩展,即虚拟通信接口(VCI)和在既定的AMT运行时HPX背景下的继续扩展。我们首先使用MPI级微信标,以HPX低级通信机制为模型,衡量这些扩展的高峰性能潜力。我们随后将其纳入HPX,以评价其在现实世界情景中的有效性。我们的结果表明,虽然这些扩展可以提高绩效,而与标准的MPI相比,有待改进的领域仍然存在。目前的持续提案限制了在多维CI环境下可以实现的最大多读信息速率。此外,我们建议采用一VCI级读式微信标,这证明在现实世界范围内实现高效性结果的重要性。这些是,这些系统最终实现通俗的扩展的问题。
+
+---
+
+## Article 44
+### Title@2025-08-26 (2): AGILE: Lightweight and Efficient Asynchronous GPU-SSD Integration
+
+**Title**: AGILE: Lightweight and Efficient Asynchronous GPU-SSD Integration | AGILE: Leichte und effiziente asynchrone GPU-SSD-Integration | AGILE: 轻量和高效同步的GPU-SSD整合 [2504.19365v3](http://arxiv.org/abs/2504.19365v3)
+
+**Authors** (5): Zhuoping Yang, Jinming Zhuang, Xingzhen Chen, Alex K. Jones, Peipei Zhou
+
+GPUs are critical for compute-intensive applications, yet emerging workloads such as recommender systems, graph analytics, and data analytics often exceed GPU memory capacity. Existing solutions allow GPUs to use CPU DRAM or SSDs as external memory, and the GPU-centric approach enables GPU threads to directly issue NVMe requests, further avoiding CPU intervention. However, current GPU-centric approaches adopt synchronous I/O, forcing threads to stall during long communication delays.   We propose AGILE, a lightweight asynchronous GPU-centric I/O library that eliminates deadlock risks and integrates a flexible HBM-based software cache. AGILE overlaps computation and I/O, improving performance by up to 1.88$\times$ across workloads with diverse computation-to-communication ratios. Compared to BaM on DLRM, AGILE achieves up to 1.75$\times$ speedup through efficient design and overlapping; on graph applications, AGILE reduces software cache overhead by up to 3.12$\times$ and NVMe I/O overhead by up to 2.85$\times$; AGILE also lowers per-thread register usage by up to 1.32$\times$.
+
+GPU对于计算密集应用至关重要,但新出现的工作量往往超过GPU存储能力。现有的解决方案允许GPU使用CPU DRAM或SSD作为外部内存,而GPU中心办法允许GPU直接发布NVME请求,进一步避免CPU干预。然而,目前GPU中心办法采用同步 I/O,在长时间通信延误期间迫使线条延缓。我们提议AGILE,即一个轻巧的、非同步的GPU-中心I/O图书馆,可以消除僵局风险,并整合一个灵活的HBM软件缓存。AGILE的计算和I/O,在各种计算和通信比率的工作量中,将业绩提高至1.88美元。与DLRM的BAM相比,AGILE通过高效设计和重叠,达到1.75美元/时间,在图形应用方面,AGILE将软件缓存管理费降低3.12美元,在最低一级,在最低一级,在最低一级,在最低一级,在最低一级,将IGIME/O的登记册上,每升1至2美元。
+
+---
+
+## Article 45
+### Title@2025-08-26 (2): History Rhymes: Accelerating LLM Reinforcement Learning with RhymeRL
+
+**Title**: History Rhymes: Accelerating LLM Reinforcement Learning with RhymeRL | Geschichte Rhyme: Beschleunigendes LLM-Verstärkungslernen mit RhymerL | 历史时速:与RhymeRL一起加快LLM强化学习 [2508.18588v1](http://arxiv.org/abs/2508.18588v1)
+
+**Authors** (8): Jingkai He, Tianjian Li, Erhu Feng, Dong Du, Qian Liu, Tao Liu, Yubin Xia, Haibo Chen
+
+With the rapid advancement of large language models (LLMs), reinforcement learning (RL) has emerged as a pivotal methodology for enhancing the reasoning capabilities of LLMs. Unlike traditional pre-training approaches, RL encompasses multiple stages: rollout, reward, and training, which necessitates collaboration among various worker types. However, current RL systems continue to grapple with substantial GPU underutilization, due to two primary factors: (1) The rollout stage dominates the overall RL process due to test-time scaling; (2) Imbalances in rollout lengths (within the same batch) result in GPU bubbles. While prior solutions like asynchronous execution and truncation offer partial relief, they may compromise training accuracy for efficiency.   Our key insight stems from a previously overlooked observation: rollout responses exhibit remarkable similarity across adjacent training epochs. Based on the insight, we introduce RhymeRL, an LLM RL system designed to accelerate RL training with two key innovations. First, to enhance rollout generation, we present HistoSpec, a speculative decoding inference engine that utilizes the similarity of historical rollout token sequences to obtain accurate drafts. Second, to tackle rollout bubbles, we introduce HistoPipe, a two-tier scheduling strategy that leverages the similarity of historical rollout distributions to balance workload among rollout workers. We have evaluated RhymeRL within a real production environment, demonstrating scalability from dozens to thousands of GPUs. Experimental results demonstrate that RhymeRL achieves a 2.6x performance improvement over existing methods, without compromising accuracy or modifying the RL paradigm.
+
+随着大型语言模型(LLM)的快速发展,强化学习(RL)已成为提高LLM推理能力的关键方法。 与传统的培训前方法不同,RL包含多个阶段:推出、奖励和培训,这要求不同工人类型之间开展合作。然而,由于两个主要因素,当前的RL系统继续应对大量GPU利用不足的问题,原因是以下两个因素:(1) 由于测试时间的扩大,推出阶段是整个RL流程的主导因素;(2) 推出时间长度(在同一批内)的不平衡导致GPU泡沫。先前的解决方案,如非同步执行和超速实验等,部分缓解了培训效率的准确性。我们的主要洞察力源自于以前忽视的观察:推出答复在邻近的培训中表现出惊人的相似性能。基于洞察,我们引入了RhymeR(LLL)(一个LLLL)系统,旨在加速RL培训,同时进行两次关键的创新。首先,为了提高推出的稳定性,我们展示其目前的StoSpec,一个投机性解析的推导引擎,在不使用类似Rlalalimalalalal laimal assal ass laimal ass laimal ass lading lading lading labs) lading lading laild surview des lading lading lax roild lading lading lading lautus lading lades cumental
+
+---
+
+## Article 46
+### Title@2025-08-26 (2): Strata: Hierarchical Context Caching for Long Context Language Model   Serving
+
+**Title**: Strata: Hierarchical Context Caching for Long Context Language Model   Serving | Strata: Hierarchischer Kontext Caching für lange Kontext Language Model Serving | Strata:长语语言示范服务按等级顺序排列的背景 [2508.18572v1](http://arxiv.org/abs/2508.18572v1)
+
+**Authors** (8): Zhiqiang Xie, Ziyi Xu, Mark Zhao, Yuwei An, Vikram Sharma Mailthody, Scott Mahlke, Michael Garland, Christos Kozyrakis
+
+Large Language Models (LLMs) with expanding context windows face significant performance hurdles. While caching key-value (KV) states is critical for avoiding redundant computation, the storage footprint of long-context caches quickly exceeds GPU memory capacity, forcing production systems to adopt hierarchical caching across memory hierarchies. However, transferring large cached contexts back to the GPU introduces severe performance bottlenecks: fragmented I/O from paged layouts prevents full bandwidth utilization, and existing schedulers fail to account for cache-loading delays, leaving systems loading-bound rather than compute-bound. We present Strata, a hierarchical context caching framework designed for efficient long context LLM serving. Strata introduces GPU-assisted I/O to combat KV cache fragmentation, decoupling GPU and CPU memory layouts and employs cache-aware request scheduling to balance compute with I/O latency and overlapping unavoidable stalls with complementary tasks. Built on SGLang and deployed in production, Strata achieves up to 5x lower Time-To-First-Token (TTFT) compared to vLLM + LMCache and 3.75x speedup over NVIDIA TensorRT-LLM on long-context benchmarks, without degrading short-context performance.
+
+大型语言模型(LLMS)在扩展背景窗口时面临巨大的性能障碍。 虽然缓存关键值(KV)状态对于避免冗余计算至关重要,但长相缓存缓存的足迹迅速超过 GPU 存储能力,迫使生产系统在记忆级结构中采用级级缓存。 但是,将大缓存环境重新转到 GPU 带来严重的性能瓶颈: 页面版式的零碎 I/ O 无法完全使用带宽,而现有排程器无法对缓存装载延迟负责,使系统进入装载而不是计算。 我们介绍了Strata,这是为高效的长期LLOM服务设计的等级背景缓存框架。 Strata引入了 GPU 辅助 I/ O 的 I/ O 缓存缓存框架, 以打击 KVV的缓存碎裂, 拆分解 GPU 和 CPU 记忆布局, 使用缓存状态请求表来平衡与 I/ O 惯用和重叠的不可避免的缓存, 任务。 在 SGLM 3 和 VLV- LM- LSS- LS- LS- LS-LS-S-S-S-S- Sl-S-S-S-S-S-S-S-S-R-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-SL-S-S-SL-S-S-S-SL-SL-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-
+
+---
+
+## Article 47
+### Title@2025-08-25 (1): Managing Multi Instance GPUs for High Throughput and Energy Savings
+
+**Title**: Managing Multi Instance GPUs for High Throughput and Energy Savings | Verwaltung von Multi-Instance-GPUs für hohe Durchsatz- und Energieeinsparungen | 管理高输送量和节能的多事例 [2508.18556v1](http://arxiv.org/abs/2508.18556v1)
+
+**Authors** (4): Abhijeet Saraha, Yuanbo Li, Chris Porter, Santosh Pande
+
+Modern GPUs such as the Ampere series (A30, A100) as well as the Hopper series (H100, H200) offer performance as well as security isolation features. They also support a good amount of concurrency, but taking advantage of it can be quite challenging due to the complex constraints on partitioning the chip.   In this work, we develop partitioning and scheduling schemes for a variety of workloads, ranging from scientific to modern ML workloads, including LLMs. We develop several schemes involving dynamic memory estimation, partition fusion and partition fission. We also support process restart to recover from out-of-memory errors for workloads and early restart as an optimization. This approach yields up to 6.20x throughput and 5.93x energy improvements for general workloads; and we see 1.59x and 1.12x improvement to throughput and energy, respectively, for ML workloads on an A100 GPU. We leverage this technique on LLM workloads and show good improvements, including up to 1.43x throughput improvement and 1.11x energy savings.
+
+现代GPU,如Ampere系列(A30, A100)和Hopper系列(H100, H200)提供性能和安全隔离特征,它们也支持大量的计算货币,但由于芯片分割的复杂限制,利用它可能具有相当大的挑战性。在这项工作中,我们为从科学到现代ML工作量(包括LLMs)等各种工作量制定了分割和时间安排计划。我们制定了若干计划,涉及动态记忆估计、分区聚变和分区裂变。我们还支持重新启动进程,以便从工作负荷和早期重新启动的模拟错误中恢复过来,作为优化。这一方法可以使一般工作量达到6.20倍的吞吐量和5.93x的能源改善;我们看到,在100 GPU的ML工作量方面,我们分别改进1.59x和1.12x的吞吐量和能量。我们将这一技术用于LM工作量,并显示良好的改进,包括1.43x吞吐量改进和1.11x的能源节省量。
+
+---
+
+## Article 48
+### Title@2025-08-25 (1): Experiences with Model Context Protocol Servers for Science and High   Performance Computing
+
+**Title**: Experiences with Model Context Protocol Servers for Science and High   Performance Computing | Erfahrungen mit Model Context Protocol Servern für Wissenschaft und High Performance Computing | 科学和高性能计算模型示范背景协议服务器的经验 [2508.18489v1](http://arxiv.org/abs/2508.18489v1)
+
+**Authors** (15): Haochen Pan, Ryan Chard, Reid Mello, Christopher Grams, Tanjin He, Alexander Brace, Owen Price Skelly, Will Engler, Hayden Holbrook, Song Young Oh, Maxime Gonthier, Michael Papka, Ben Blaiszik, Kyle Chard, Ian Foster
+
+Large language model (LLM)-powered agents are increasingly used to plan and execute scientific workflows, yet most research cyberinfrastructure (CI) exposes heterogeneous APIs and implements security models that present barriers for use by agents. We report on our experience using the Model Context Protocol (MCP) as a unifying interface that makes research capabilities discoverable, invokable, and composable. Our approach is pragmatic: we implement thin MCP servers over mature services, including Globus Transfer, Compute, and Search; status APIs exposed by computing facilities; Octopus event fabric; and domain-specific tools such as Garden and Galaxy. We use case studies in computational chemistry, bioinformatics, quantum chemistry, and filesystem monitoring to illustrate how this MCP-oriented architecture can be used in practice. We distill lessons learned and outline open challenges in evaluation and trust for agent-led science.
+
+大型语言模型(LLM)动力代理商越来越多地被用于规划和实施科学工作流程,然而,大多数研究网络基础设施(CI)暴露了多种不同的API,并采用了安全模型,给代理商造成障碍。我们报告我们使用示范背景协议(MCP)的经验,这是一个统一界面,使研究能力能够发现、可援引和可比较。我们的方法是务实的:我们在成熟的服务(包括Globus传输、计算和搜索)上安装薄的MCP服务器;计算机设施暴露的状况API;Octopus事件结构;以及园艺和银河等特定领域工具。我们利用计算化学、生物信息学、量子化学和档案系统监测方面的案例研究来说明如何在实践中使用这种面向MCP的架构。我们总结了经验教训,并概述了在评估与信任代理商主导的科学方面的公开挑战。
+
+---
+
+## Article 49
+### Title@2025-08-25 (1): DualSparse-MoE: Coordinating Tensor/Neuron-Level Sparsity with Expert   Partition and Reconstruction
+
+**Title**: DualSparse-MoE: Coordinating Tensor/Neuron-Level Sparsity with Expert   Partition and Reconstruction | DualSparse-MoE: Abstimmung von Tensor/Neuron-Level-Sparsität mit Fachpartition und Rekonstruktion | 双分-MOE:协调Tensor/Neuron级与专家分区和重建 [2508.18376v1](http://arxiv.org/abs/2508.18376v1)
+
+**Authors** (6): Weilin Cai, Le Qin, Shwai He, Junwei Cui, Ang Li, Jiayi Huang
+
+Mixture of Experts (MoE) has become a mainstream architecture for building Large Language Models (LLMs) by reducing per-token computation while enabling model scaling. It can be viewed as partitioning a large Feed-Forward Network (FFN) at the tensor level into fine-grained sub-FFNs, or experts, and activating only a sparse subset for each input. While this sparsity improves efficiency, MoE still faces substantial challenges due to their massive computational scale and unpredictable activation patterns.   To enable efficient MoE deployment, we identify dual sparsity at the tensor and neuron levels in pre-trained MoE modules as a key factor for both accuracy and efficiency. Unlike prior work that increases tensor-level sparsity through finer-grained expert design during pre-training, we introduce post-training expert partitioning to induce such sparsity without retraining. This preserves the mathematical consistency of model transformations and enhances both efficiency and accuracy in subsequent fine-tuning and inference. Building upon this, we propose DualSparse-MoE, an inference system that integrates dynamic tensor-level computation dropping with static neuron-level reconstruction to deliver significant efficiency gains with minimal accuracy loss.   Experimental results show that enforcing an approximate 25% drop rate with our approach reduces average accuracy by only 0.08%-0.28% across three prevailing MoE models, while nearly all degrees of computation dropping consistently yield proportional computational speedups. Furthermore, incorporating load-imbalance awareness into expert parallelism achieves a 1.41x MoE module speedup with just 0.5% average accuracy degradation.
+
+专家混合(MoE) 已经成为构建大型语言模型的主流架构。 通过降低每吨计算单位的计算单位, 并同时使模型规模扩大。 它可以被视为将高压水平的大型Feed-Forward 网络(FFN)分割成细制子FFN或专家, 并且只为每项输入启动一个稀少的子集。 虽然这种偏狭性提高了效率, 但由于模型转换的数学一致性以及随后的微调和推断模式, 教育部仍然面临着巨大的挑战。 为了能够高效地部署教育部, 我们发现, 在经过培训的MOE模块中, 高调和神经加速度的双神经水平的平行水平是精确度和效率的一个关键因素。 与以前通过精细化的专家设计来增加高压水平的种子- Exforward 网络( FFN) 不同, 我们引入了培训后的专家分流分解, 以不经过再培训, 保持模型的数学一致性, 提高随后的精度和精确性调整和推力。 在此基础上, 我们建议, 仅进行双向 0 递递递增 递增 系统, 递增 递增 , 递增 递增 递增 递增 递增 递增 递增 递增 递增 递增 递增 递增 递增 递增 递增 递增 递增 递增 递增 递增 度 递增 度 度 递增 度 度 度 度 递增 递增 度
+
+---
+
+## Article 50
+### Title@2025-08-25 (1): LCI: a Lightweight Communication Interface for Efficient Asynchronous   Multithreaded Communication
+
+**Title**: LCI: a Lightweight Communication Interface for Efficient Asynchronous   Multithreaded Communication | LCI: Eine leichte Kommunikationsschnittstelle für effiziente asynchrone multithreaded Kommunikation | LCI: 高效非同步多读多读通信的轻量级通信界面 [2505.01864v2](http://arxiv.org/abs/2505.01864v2)
+
+**Authors** (2): Jiakun Yan, Marc Snir
+
+The evolution of architectures, programming models, and algorithms is driving communication towards greater asynchrony and concurrency, usually in multithreaded environments. We present LCI, a communication library designed for efficient asynchronous multithreaded communication. LCI provides a concise interface that supports common point-to-point primitives and diverse completion mechanisms, along with flexible controls for incrementally fine-tuning communication resources and runtime behavior. It features a threading-efficient runtime built on atomic data structures, fine-grained non-blocking locks, and low-level network insights. We evaluate LCI on both Infiniband and Slingshot-11 clusters with microbenchmarks and two application-level benchmarks. Experimental results show that LCI significantly outperforms existing communication libraries in various multithreaded scenarios, achieving performance that exceeds the traditional multi-process execution mode and unlocking new possibilities for emerging programming models and applications. LCI is open-source and available at https://github.com/uiuc-hpc/lci.
+
+结构、编程模型和算法的演进正在推动通信走向更大的无同步和共通货币,通常是在多轨环境中。我们介绍了LCI,这是一个通信图书馆,旨在高效的无同步多轨多轨通信。LCI提供一个简明的界面,支持共同的点对点原始和不同的完成机制,同时对逐步微调通信资源和运行时间行为实行灵活的控制。它有一个以原子数据结构、细制非阻塞锁和低级网络洞察为基础的螺纹高效运行时间。我们用微分标记和两个应用级基准对Infiniband和Slingshot-11集群进行LCI评估。实验结果表明,LCI大大超越了多种多读情景中的现有通信图书馆,实现了超过传统的多进程执行模式的绩效,并为新兴的编程模式和应用打开了新的可能性。LCI是开放源,可在https://githuub.com/uuc-hpc/lci查阅。
+
+---
+
+## Article 51
+### Title@2025-08-25 (1): Flash Sparse Attention: An Alternative Efficient Implementation of   Native Sparse Attention Kernel
+
+**Title**: Flash Sparse Attention: An Alternative Efficient Implementation of   Native Sparse Attention Kernel | Flash Sparse Achtung: Eine alternative effiziente Implementierung von nativen Sparse Aufmerksamkeit Kernel | 闪光散散散注意:以其他方式有效地落实本地散散散注意核心 [2508.18224v1](http://arxiv.org/abs/2508.18224v1)
+
+**Authors** (3): Ran Yan, Youhe Jiang, Binhang Yuan
+
+Recent progress in sparse attention mechanisms has demonstrated strong potential for reducing the computational cost of long-context training and inference in large language models (LLMs). Native Sparse Attention (NSA), a state-of-the-art approach, introduces natively trainable, hardware-aligned sparse attention that delivers substantial system-level performance gains while maintaining accuracy comparable to full attention. However, the kernel implementation of NSA relies on a query-grouping strategy that is efficient only with large Grouped Query Attention (GQA) sizes, whereas modern LLMs typically adopt much smaller GQA groups, which limits the applicability of this sparse algorithmic advance. In this work, we propose Flash Sparse Attention (FSA), which includes an alternative kernel design that enables efficient NSA computation across a wide range of popular LLMs with varied smaller GQA group sizes on modern GPUs. Compared to vanilla NSA kernel implementation, our empirical evaluation demonstrates that FSA achieves (i) up to 3.5$\times$ and on average 1.6$\times$ kernel-level latency reduction, (ii) up to 1.25$\times$ and 1.09$\times$ on average end-to-end training speedup on state-of-the-art LLMs, and (iii) up to 1.36$\times$ and 1.11$\times$ on average end-to-end prefill speedup on state-of-the-art LLMs. The source code is open-sourced and publicly available at https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention.
+
+关注机制不全的最近进展表明,在大型语言模型(LLMs)中,短期培训和推断的计算成本有巨大的潜力。当地零星关注(NSA)是一种最先进的方法,引进了当地经过训练的、硬件调整的零散关注,从而在系统一级实现大量绩效收益,同时保持与充分关注相匹配的准确性。然而,国家安全局的核心实施取决于一个查询组合战略,只有大组的查询美元规模才有效,而现代LLMS通常采用小得多的GQA小组,这限制了这种稀薄的算法进步的可适用性。在这项工作中,我们建议闪散垃圾关注(NSAA),其中包括一种替代的可高效计算,在现代GQA集团规模各异的广大受欢迎的LMs。 与Vanilla国家安全局内部网络的实施相比,我们的实证评估表明,FSA(一)最高为3.5美元,平均为1.6美元,在1美元至1美元的平均水平和1美元的水平上,最高为1美元。
+
+---
+
+## Article 52
+### Title@2025-08-25 (1): Highly Dynamic and Fully Distributed Data Structures
+
+**Title**: Highly Dynamic and Fully Distributed Data Structures | Hochdynamische und vollständig verteilte Datenstrukturen | 高度动态和充分分配的数据结构 [2409.10235v2](http://arxiv.org/abs/2409.10235v2)
+
+**Authors** (3): John Augustine, Antonio Cruciani, Iqra Altaf Gillani
+
+We study robust and efficient distributed algorithms for building and maintaining distributed data structures in dynamic Peer-to-Peer (P2P) networks. P2P networks are characterized by a high level of dynamicity with abrupt heavy node \emph{churn} (nodes that join and leave the network continuously over time). We present a novel algorithm that builds and maintains with high probability a skip list for $poly(n)$ rounds despite $\mathcal{O}(n/\log n)$ churn \emph{per round} ($n$ is the stable network size). We assume that the churn is controlled by an oblivious adversary (that has complete knowledge and control of what nodes join and leave and at what time and has unlimited computational power, but is oblivious to the random choices made by the algorithm). Moreover, the maintenance overhead is proportional to the churn rate. Furthermore, the algorithm is scalable in that the messages are small (i.e., at most $polylog(n)$ bits) and every node sends and receives at most $polylog(n)$ messages per round.   Our algorithm crucially relies on novel distributed and parallel algorithms to merge two $n$-elements skip lists and delete a large subset of items, both in $\mathcal{O}(\log n)$ rounds with high probability. These procedures may be of independent interest due to their elegance and potential applicability in other contexts in distributed data structures.   To the best of our knowledge, our work provides the first-known fully-distributed data structure that provably works under highly dynamic settings (i.e., high churn rate). Furthermore, they are localized (i.e., do not require any global topological knowledge). Finally, we believe that our framework can be generalized to other distributed and dynamic data structures including graphs, potentially leading to stable distributed computation despite heavy churn.
+
+我们为在动态的Peper-Per(P2P)网络中建立和维护分布式数据结构而研究强大而高效的分布式算法。 P2P网络的特征是动态性强,突如其来,结结结和离开网络的节点在一段时间内不断加入和离开网络的节点。我们提出了一个新奇算法,尽管$\mathcal{O}(n/\log nn),却以很高的概率建立和保持美元回合的跳过列表。此外,计算法可以缩到小(i.n),最多为美元,网络规模稳定。我们最接近的平面值是网络规模,在最模糊的对节点进行控制,在时间和时间上拥有无限的计算能力,但对于算法的随机选择却视而不见。此外,维护管理费用比值与速度成比例成正比。我们的信息(i.we,最多为美元),在最接近的平面的平面上,每个双端发送和接收着最接近的双位数据,在最接近的平流的平流的轨道中,需要。
+
+---
+
+## Article 53
+### Title@2025-08-25 (1): Practical GPU Choices for Earth Observation: ResNet-50 Training   Throughput on Integrated, Laptop, and Cloud Accelerators
+
+**Title**: Practical GPU Choices for Earth Observation: ResNet-50 Training   Throughput on Integrated, Laptop, and Cloud Accelerators | Praktische GPU-Wahlmöglichkeiten für Erdbeobachtung: ResNet-50-Trainingsdurchsatz auf integrierten, Laptop- und Cloud-Beschleunigern | GPU地球观测实用GPU选择:ResNet-50综合、膝上型和云加速器培训投入 [2508.18206v1](http://arxiv.org/abs/2508.18206v1)
+
+**Authors** (1): Ritvik Chaturvedi
+
+This project implements a ResNet-based pipeline for land use and land cover (LULC) classification on Sentinel-2 imagery, benchmarked across three heterogeneous GPUs. The workflow automates data acquisition, geospatial preprocessing, tiling, model training, and visualization, and is fully containerized for reproducibility. Performance evaluation reveals up to a 2x training speed-up on an NVIDIA RTX 3060 and a Tesla T4 compared to the Apple M3 Pro baseline, while maintaining high classification accuracy on the EuroSAT dataset. These results demonstrate the feasibility of deploying deep learning LULC models on consumer and free cloud GPUs for scalable geospatial analytics.
+
+该项目在Sentinel-2图像方面实施基于ResNet的土地使用和土地覆盖(LULC)分类管道(LULC),以三个不同GPU为基准基准,工作流程自动化数据采集、地理空间预处理、平铺、模型培训和可视化,并完全集装箱化,可复制;绩效评估显示,与苹果M3 Pro基线相比,NVIDIA RTX 3060和Tesla T4培训速度高达2x,同时保持欧洲卫星数据集的高分类准确度,这些结果表明,为可缩放的地理空间分析,在消费和自由云中安装深入学习的LULLLC模型的可行性。
+
+---
+
+## Article 54
+### Title@2025-08-25 (1): Wait-free Replicated Data Types and Fair Reconciliation
+
+**Title**: Wait-free Replicated Data Types and Fair Reconciliation | Wait-free replicated Datentypen und Fair Reconciliation | 免费无等待的复制数据类型和公平核对 [2508.18193v1](http://arxiv.org/abs/2508.18193v1)
+
+**Authors** (3): Petr Kuznetsov, Maxence Perion, Sara Tucci-Piergiovanni
+
+Replication is a standard way to maintain availability of shared data in fault-prone distributed systems. To make sure that the data replicas are up-to-date, they need to synchronize, which typically means engaging the replicas in waiting for coherent responses from each other. The amount of waiting depends on the consistency and availability guarantees we impose on the system. The folklore CAP theory states that strong consistency (the set of replicas create an illusion of one correct server) and strong availability (the replicas' states are reachable despite network partitions) cannot be implemented in the same system. A popular way to deal with this impossibility is to relax consistency to be only eventual: the replicas eventually converge to the same state. In return, the replicas can be wait-free, i.e., the clients can get the data from the closest replica without waiting for other ones.   Wait-free data replication faces two important challenges. First, the operations issued by the clients may be constantly revoked, i.e., their effects can be repeatedly recomputed due to asynchrony and concurrency. Second, even if some operations eventually stabilize in their effects, a particular client may still experience starvation if, from some point onward, each of its operations is later revoked. In this paper, we address these challenges through a general DAG-based framework for replicated data types, where replicas exchange their local views and merge them using a reconciliation function. Within this framework, we design reconciliation functions that implement a wait-free eventually consistent replicated state machine ensuring both stable convergence and fair progress. Specifically, every replica maintains a growing sequence of client operations, and we guarantee that: (1) all replicas share a common, monotonically growing stable prefix of operations, and (2) no client starves.
+
+复制是一种标准的方式,可以维持在易出错分布的系统中提供共享数据。为确保数据复制品更新,它们需要同步化,这通常意味着让复制品等待彼此一致的反应。等待的数量取决于我们给系统带来的一致性和可用性保障。民俗CAP理论指出,强大的一致性(复制品组创造了一个正确的服务器的幻觉)和强大的可获取性(复制品的状态尽管网络连接可以实现)无法在同一系统中实施。 处理这种可能性的流行方式是放松一致性,最终只能做到:复制品最终会聚集在同一状态。 反过来,等待量的量取决于我们给系统带来的一致性和可用性保障。 民俗Cople Capital理论指出,强大的一致性(复制品组的复制品组组造一个复制品组)和强大的可获取性(复制品的状态尽管网络已实现网络连接,但复制品的可不易实现) 在同一系统里执行。 一种流行的方法是, 处理一致性的兼容性(复制品复制品的状态) , 一种常用的方法是, 最终只能使一致性的复制品复制品复制品最终会聚集到同一状态: 客户的复制品复制品的复制品的复制品最终会聚集到同一阶段的复制品操作 。
+
+---
+
+## Article 55
+### Title@2025-08-25 (1): HeteroTune: Efficient Federated Learning for Large Heterogeneous Models
+
+**Title**: HeteroTune: Efficient Federated Learning for Large Heterogeneous Models | HeteroTune: Effizientes Federated Learning für große Heterogene Modelle | 异血图:采用高效的联邦学习促进大型异异种模型 [2411.16796v2](http://arxiv.org/abs/2411.16796v2)
+
+**Authors** (6): Ruofan Jia, Weiying Xie, Jie Lei, Jitao Ma, Haonan Qin, Leyuan Fang
+
+While large pre-trained models have achieved impressive performance across AI tasks, their deployment in privacy-sensitive and distributed environments remains challenging. Federated learning (FL) offers a viable solution by enabling decentralized fine-tuning without data sharing, but real-world applications face significant obstacles due to heterogeneous client resources in compute and memory. To address this, we propose HeteroTune, a novel federated fine-tuning paradigm for large, heterogeneous models operating under limited communication and computation budgets. The core of our method lies in a novel architecture, DeMA (Dense Mixture of Adapters), which enables flexible and efficient aggregation of heterogeneous models by preserving their full representational capacity while facilitating seamless cross-model knowledge fusion. We further introduce CMGA (Cross-Model Gradient Alignment), a lightweight yet effective mechanism that enhances training stability by harmonizing gradient directions across heterogeneous client models during aggregation, mitigating update conflicts and promoting more consistent convergence in federated settings. We provide both theoretical analysis and empirical evidence showing that HeteroTune achieves state-of-the-art performance and efficiency across diverse tasks and model architectures. For example, on LLaMA models, it reduces communication overhead by 99.5%, cuts peak memory usage by ~50%, and improves performance by 4.61%.
+
+虽然经过培训的大型模型在AI任务中取得了令人印象深刻的成绩,但在隐私敏感和分布式环境中的部署仍然具有挑战性。 联邦学习(FL)提供了一个可行的解决方案,它使得在不共享数据的情况下进行分散的微调,但现实世界应用由于客户资源在计算和记忆方面差异化而面临重大障碍。为了解决这个问题,我们提议HeteroTune,这是一个新的在有限的通信和计算预算下运行的大型、多样化模型的联合会式微调范例。我们的方法核心在于一个新的结构DeMA(适应者常识混合),它通过保持其充分的代表性能力,促进无缝的跨模范知识融合,使多样化模型得以灵活和高效地融合。我们进一步引入了CMGA(Cross-Modelgradient Connational),这是一个轻量而有效的机制,通过在汇总过程中协调不同客户模式的梯度方向,减轻冲突,促进在进化环境中更加一致。我们提供了理论分析和经验证据,表明HeteroTune实现了不同任务和模型的状态性能和效率。我们进一步引入CMGMAA(LS-50%),通过存储MLAMLA(MA)模式降低通信的进度)。
+
+---
+
+## Article 56
+### Title@2025-08-25 (1): Views: A Hardware-friendly Graph Database Model For Storing Semantic   Information
+
+**Title**: Views: A Hardware-friendly Graph Database Model For Storing Semantic   Information | Ansichten: Ein hardwarefreundliches Graphen-Datenbankmodell zum Speichern semantischer Informationen | 意见:硬件友好型图表数据库模型,用于存储语义信息 [2508.18123v1](http://arxiv.org/abs/2508.18123v1)
+
+**Authors** (4): Yanjun Yang, Adrian Wheeldon, Yihan Pan, Alex Serb
+
+The graph database (GDB) is an increasingly common storage model for data involving relationships between entries. Beyond its widespread usage in database industries, the advantages of GDBs indicate a strong potential in constructing symbolic artificial intelligences (AIs) and retrieval-augmented generation (RAG), where knowledge of data inter-relationships takes a critical role in implementation. However, current GDB models are not optimised for hardware acceleration, leading to bottlenecks in storage capacity and computational efficiency. In this paper, we propose a hardware-friendly GDB model, called Views. We show its data structure and organisation tailored for efficient storage and retrieval of graph data and demonstrate its equivalence to represent traditional graph representations. We further demonstrate its symbolic processing abilities in semantic reasoning and cognitive modelling with practical examples and provide a short perspective on future developments.
+
+图表数据库(GDB)是一个日益常见的数据存储模式,涉及条目之间的关系。GDB除了在数据库行业中广泛使用外,其优点表明,在构建象征性人工智能和检索增强生成(RAG)方面有很大的潜力,而数据相互关系知识在实施过程中发挥着关键作用。然而,当前的GDB模型对于硬件加速来说并不理想,导致存储能力和计算效率的瓶颈。我们在本文件中提议了一个硬件友好的GDB模型,称为Vision。我们展示了它为高效存储和检索图表数据而专门设计的数据结构和组织,并展示了它代表传统图形的等同性。我们还在语义推理和认知建模中展示了它象征性的处理能力,并举出了实际例子,为未来发展提供了简短的视角。
+
+---
+
+## Article 57
+### Title@2025-08-25 (1): Linear Layouts: Robust Code Generation of Efficient Tensor Computation   Using $\mathbb{F}_2$
+
+**Title**: Linear Layouts: Robust Code Generation of Efficient Tensor Computation   Using $\mathbb{F}_2$ | Lineare Layouts: Robuste Codegenerierung effizienter Tensor-Computation mit $\mathbb{F}_2$ | 线性布局: 使用 $\ mathbb{F @ @ @ @ @ @% 2$ 的 有效天文计算强力代码生成 [2505.23819v2](http://arxiv.org/abs/2505.23819v2)
+
+**Authors** (11): Keren Zhou, Mario Lezcano, Adam Goucher, Akhmed Rakhmati, Jeff Niu, Justin Lebar, Pawel Szczerbuk, Peter Bell, Phil Tillet, Thomas Raoux, Zahi Moudallal
+
+Efficient tensor computation is a cornerstone of modern deep learning (DL) workloads, yet existing approaches struggle to achieve flexible and performant design and implementation of tensor layouts -- mappings between logical tensors and hardware resources. The increasing complexity of DL algorithms and hardware demands a generic and systematic approach to handling tensor layouts. In this work, we introduce Linear Layouts, a novel approach that models tensor layouts using linear algebra over $\mathbb{F}_2$. By representing tensor layouts as binary matrices acting on the bits of the hardware representation, our approach enables a generic layout definition -- as opposed to the classical case-by-case approach -- and allows for generic layout-to-layout conversions, eliminating the quadratic explosion that plagues existing solutions. We integrate linear layouts with Triton and demonstrate their effectiveness in optimizing individual Triton operators as well as kernels written in Triton. We also show that linear layouts reduce engineering effort in the compiler backend while fixing several bugs in Triton's legacy layout system.
+
+高效高压计算是现代深层学习(DL)工作量的基石,然而,现有方法在努力实现弹性和性能设计及实施高压布局 -- -- 逻辑高压和硬件资源之间的映射。 DL算法和硬件的日益复杂性要求用通用和系统的方法处理高压布局。在这项工作中,我们引入了线形布局,这是一种新型方法,即使用以$\mathbb{F2$以上的线性代数来模拟高压布局。通过将高压布局作为二进制矩阵,在硬件表达方式的位子上发挥作用,我们的方法使通用布局定义 -- -- 不同于典型的个案处理方法 -- -- 得以进行通用布局定义,并允许通用布局到布局转换,消除困扰现有解决方案的四面爆炸。我们将线形布局与Triton结合起来,并展示其在优化单个Triton操作员以及在Triton书写的内核内核内核内核内壳方面的效力。我们还表明,线式布局减少了汇编器后端的工程努力,同时确定了Triton的遗留布局系统中的若干错误布局系统。
+
+---
+
+## Article 58
+### Title@2025-08-25 (1): Scalable Engine and the Performance of Different LLM Models in a SLURM   based HPC architecture
+
+**Title**: Scalable Engine and the Performance of Different LLM Models in a SLURM   based HPC architecture | Skalierbare Engine und die Leistung verschiedener LLM-Modelle in einer SLURM-basierten HPC-Architektur | 在基于 SLURM 的 HPC 结构中可缩放引擎和不同 LLM 模型的性能 [2508.17814v1](http://arxiv.org/abs/2508.17814v1)
+
+**Authors** (3): Anderson de Lima Luiz, Shubham Vijay Kurlekar, Munir Georges
+
+This work elaborates on a High performance computing (HPC) architecture based on Simple Linux Utility for Resource Management (SLURM) [1] for deploying heterogeneous Large Language Models (LLMs) into a scalable inference engine. Dynamic resource scheduling and seamless integration of containerized microservices have been leveraged herein to manage CPU, GPU, and memory allocations efficiently in multi-node clusters. Extensive experiments, using Llama 3.2 (1B and 3B parameters) [2] and Llama 3.1 (8B and 70B) [3], probe throughput, latency, and concurrency and show that small models can handle up to 128 concurrent requests at sub-50 ms latency, while for larger models, saturation happens with as few as two concurrent users, with a latency of more than 2 seconds. This architecture includes Representational State Transfer Application Programming Interfaces (REST APIs) [4] endpoints for single and bulk inferences, as well as advanced workflows such as multi-step "tribunal" refinement. Experimental results confirm minimal overhead from container and scheduling activities and show that the approach scales reliably both for batch and interactive settings. We further illustrate real-world scenarios, including the deployment of chatbots with retrievalaugmented generation, which helps to demonstrate the flexibility and robustness of the architecture. The obtained results pave ways for significantly more efficient, responsive, and fault-tolerant LLM inference on large-scale HPC infrastructures.
+
+这项工作阐述了基于资源管理简单Linux工具的高性能计算架构(HPC)[SLURM][1],用于将多种大语言模型(LLMM)安装到可缩放的推导引擎中。此处利用了封闭式微服务动态资源调度和无缝整合,以有效管理多节组群中的CPU、GPU和记忆分配。广泛实验,使用Llama 3.2(1B和3B参数) [2] 和Llama 3.1 (8B和70B参数) [3],探测通过量、延缓度和通货计算,并表明小型模型能够以50米的延缓度处理多达128个并行请求,而对于更大的模型,饱和与两个同时使用的用户少于2秒钟以上。这一架构包括代表式国家传输应用程序规划接口[4] 单项和大批量推断的端点,以及多步式“任务”的改进等高级工作流程。实验结果证实集装箱和排流的最小顶部和排期,同时处理,而大型模型则由两个平行用户进行通融的饱和预估,从而展示了真实的智能结构。
+
+---
+
+## Article 59
+### Title@2025-08-25 (1): DAG it off: Latency Prefers No Common Coins
+
+**Title**: DAG it off: Latency Prefers No Common Coins | DAG it off: Latency bevorzugt keine gemeinsamen Münzen | DAG 它关闭: 长期优先没有共同的硬币 [2508.14716v2](http://arxiv.org/abs/2508.14716v2)
+
+**Authors** (4): Amores-Sesar Ignacio, Grøndal Viktor, Holmgård Adam, Ottendal Mads
+
+We introduce Black Marlin, the first Directed Acyclic Graph (DAG)-based Byzantine atomic broadcast protocol in a partially synchronous setting that successfully forgoes the reliable broadcast and common coin primitives while delivering transactions every round. Black Marlin achieves the optimal latency of 3 rounds of communication (4.25 with Byzantine faults) while maintaining optimal communication and amortized communication complexities. We present a formal security analysis of the protocol, accompanied by empirical evidence that Black Marlin outperforms state-of-the-art DAG-based protocols in both throughput and latency.
+
+我们引入了Black Marlin(Black Marlin ) , 这是第一个以Byzantine为主的Byzantine原子广播协议(DAG ) , 在部分同步的环境中成功放弃可靠的广播和普通硬币原体,同时每轮交易都进行。 Black Marlin(Black Marlin)在保持最佳通信和摊销通信复杂性的同时,实现了三轮通信的最佳延迟度(Byzantine断层为4.25次 ) 。 我们对协议进行了正式的安全分析,同时提供了经验性证据,证明Black Marlin(Black Marlin)在吞吐量和延缓度两方面都超过了基于DAG的最新协议。
+
+---
+
+## Article 60
+### Title@2025-08-25 (1): ExpertWeave: Efficiently Serving Expert-Specialized Fine-Tuned Adapters   at Scale
+
+**Title**: ExpertWeave: Efficiently Serving Expert-Specialized Fine-Tuned Adapters   at Scale | ExpertWeave: Effizient bedienende, sachkundig-spezialisierte Feintuned-Adapter im Maßstab | 专家编织:在规模上高效率地服务于专家专业化的微调适应器 [2508.17624v1](http://arxiv.org/abs/2508.17624v1)
+
+**Authors** (7): Ge Shi, Hanieh Sadri, Qian Wang, Yu Zhang, Ying Xiong, Yong Zhang, Zhenan Fan
+
+Expert-Specialized Fine-Tuning (ESFT) adapts Mixture-of-Experts (MoE) large language models to enhance their task-specific performance by selectively tuning the top-activated experts for the task. Serving these fine-tuned models at scale is challenging: deploying merged models in isolation is prohibitively resource-hungry, while existing multi-adapter serving systems with LoRA-style additive updates are incompatible with ESFT's expert-oriented paradigm. We present ExpertWeave, a system that serves multiple ESFT adapters concurrently over a single shared MoE base model, drastically reducing the memory footprint and improving resource utilization. To seamlessly integrate into existing inference pipelines for MoE models with non-intrusive modifications and minimal latency overhead, ExpertWeave introduces a virtual-memory-assisted expert weight manager that co-locates base-model and adapter experts without incurring memory overhead from fragmentation, and a fused kernel for batched rerouting to enable lightweight redirection of tokens to the appropriate experts at runtime. Our evaluations show that ExpertWeave can simultaneously serve multiple adapters of a 16B MoE model on a single accelerator where the baseline runs out of memory, or provides up to 94x more KV cache capacity and achieves up to 18% higher throughput while using comparable resources, all without compromising model accuracy. ExpertWeave maintains low overhead even when scaling to 20 adapters, with a 4-11% latency increase compared with serving the base model alone. Source code will be released soon.
+
+专门化精密测试(ESFT) 调整大型语言模型,通过有选择地调整最活跃的专家来提高他们的任务性表现。 为这些微调模型提供规模上的挑战性:在孤立状态下部署合并模型令人望而生畏,而现有与LORA式添加剂更新的多适应型服务系统与ESFT的专家导向模式不兼容。我们介绍了专家Weave,这个系统为多个ESFT适应者同时服务于单一共享的MOE基准模型,大幅度降低记忆足迹,改进资源利用。为了将非侵扰性修改和最小缩压式模型的混合整合到现有的 MoE模型导管中,专家Weave引入了一个虚拟-模拟辅助专家重量管理器,该模型和调适配型专家不产生存储器破碎的记忆管理管理器,而一个精密的精密内存库,可以将标志更轻的重置到运行的模型上,甚至提高资源利用率。我们的评估显示,在运行一个可比较的模型上,可以同时使用可比较的MEOIV 4 运行一个虚拟模型,同时提供多级的模型,在18级上提供多级的源调。
+
+---
+
+## Article 61
+### Title@2025-08-25 (1): Zen-Attention: A Compiler Framework for Dynamic Attention Folding on AMD   NPUs
+
+**Title**: Zen-Attention: A Compiler Framework for Dynamic Attention Folding on AMD   NPUs | Zen-Achtung: Ein Compiler-Framework für dynamische Aufmerksamkeit Folding auf AMD NPUs | Zen-Atention: 动态关注在AMD NPU上折叠的汇编框架 [2508.17593v1](http://arxiv.org/abs/2508.17593v1)
+
+**Authors** (3): Aadesh Deshmukh, Venkata Yaswanth Raparti, Samuel Hsu
+
+Transformer-based deep learning models are increasingly deployed on energy, and DRAM bandwidth constrained devices such as laptops and gaming consoles, which presents significant challenges in meeting the latency requirements of the models. The industry is turning to neural processing units (NPUs) for superior performance-per-watt (perf/watt); however, efficiently mapping dynamic attention layers to the NPUs remains a challenging task. For optimizing perf/watt, AMD XDNA NPUs employ software managed caches and share system memory with host. This requires substantial engineering effort to unlock efficient tiling, buffer allocation, and data movement to extract the maximum efficiency from the device. This paper introduces Zen-Attention, a framework that optimizes DRAM bandwidth utilization in the attention layer of models by systematically exploring the complex design space of layer folding, tiling, and data-movement on the interconnect, and the tensor layouts to come up with an optimal solution. Our evaluation includes comparative analysis of end-to-end model latency and specific attention latency in each model. We demonstrate how the framework enhances mapping capabilities by varying input dimensions, which require padding and masking in the attention block. For representative transformer models, the Zen-Attention Framework achieves up to 4x improvement in the latency of the attention block and up to 32% improvement in end-to-end network latency compared to the baseline Unfolded- approaches.
+
+基于变换的深层学习模型越来越多地用于能源,而DRAM带宽限制设备,如膝上型计算机和赌博控制台等,在满足这些模型的潜值要求方面提出了重大挑战。该行业正在转向神经处理器(NPUs),以优化性能-每瓦特(perf/watt);然而,高效地绘制NPU的动态关注层图仍然是一项艰巨的任务。为了优化 perf/wat,AMD XDNA NPUs使用了软件管理缓存并与主机共享系统记忆。这需要大量工程工作,以释放高效的拖动、缓冲分配和数据移动,从而从每个模型中提取最大效率。本文介绍了Zen-Atention,这是一个通过系统探索层折叠、图和数据移动的复杂设计空间,将电路段布局布局转化为最佳的解决方案。我们的评估包括对终端至终端模型的对比分析、缓冲分配和每个模型的具体耐受关注度,以最大效率提取。本文介绍了Zen-A-A-DR-S-Ax-SDM-DM-S-S-S-SDM-M-S-S-SDL-S-S-SOND-S-SOND-S-SOND-D-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-SON-S-S-S-S-S-SD-S-S-SD-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S
+
+---
+
+## Article 62
+### Title@2025-08-24 (7): Easy Acceleration with Distributed Arrays
+
+**Title**: Easy Acceleration with Distributed Arrays | Einfache Beschleunigung mit verteilten Arrays | 使用分布式阵列快速加速 [2508.17493v1](http://arxiv.org/abs/2508.17493v1)
+
+**Authors** (23): Jeremy Kepner, Chansup Byun, LaToya Anderson, William Arcand, David Bestor, William Bergeron, Alex Bonn, Daniel Burrill, Vijay Gadepally, Ryan Haney, Michael Houle, Matthew Hubbell, Hayden Jananthan, Michael Jones, Piotr Luszczek, Lauren Milechin, Guillermo Morales, Julie Mullen, Andrew Prout, Albert Reuther, Antonio Rosa, Charles Yee, Peter Michaleas
+
+High level programming languages and GPU accelerators are powerful enablers for a wide range of applications. Achieving scalable vertical (within a compute node), horizontal (across compute nodes), and temporal (over different generations of hardware) performance while retaining productivity requires effective abstractions. Distributed arrays are one such abstraction that enables high level programming to achieve highly scalable performance. Distributed arrays achieve this performance by deriving parallelism from data locality, which naturally leads to high memory bandwidth efficiency. This paper explores distributed array performance using the STREAM memory bandwidth benchmark on a variety of hardware. Scalable performance is demonstrated within and across CPU cores, CPU nodes, and GPU nodes. Horizontal scaling across multiple nodes was linear. The hardware used spans decades and allows a direct comparison of hardware improvements for memory bandwidth over this time range; showing a 10x increase in CPU core bandwidth over 20 years, 100x increase in CPU node bandwidth over 20 years, and 5x increase in GPU node bandwidth over 5 years. Running on hundreds of MIT SuperCloud nodes simultaneously achieved a sustained bandwidth $>$1 PB/s.
+
+高水平编程语言和 GPU 加速器是一系列应用的强大推进器。 实现可缩放垂直( 计算节点内) 、 水平( 跨计算节点内) 和时间( 不同世代的硬件) 性能同时保持生产率需要有效的抽象化。 分布式阵列是一个这样的抽象性,它使得高水平编程能够实现高度可缩放性能。 分布式阵列通过从数据位置从数据位置产生平行性能, 自然导致高记忆带宽效率。 本文利用STREAM 存储带宽基准, 探索分布式阵列的性能。 可缩放性能在CPU 核心、 CPU 节点和 GPU 节点内和跨 CPU 节点内和跨端点内和间运行。 多节点的横向缩放是线性。 所使用的硬件跨越了几十年,可以直接比较本时段内存储带宽的硬件改进情况; 显示 CPUPU C 核心带宽度在20 年中增加了10x , 20 增加100 , GPU 节带宽在5 上增加 。 。 运行上数百 超超Cloud节点 。
+
+---
+
+## Article 63
+### Title@2025-08-24 (7): MetaFed: Advancing Privacy, Performance, and Sustainability in Federated   Metaverse Systems
+
+**Title**: MetaFed: Advancing Privacy, Performance, and Sustainability in Federated   Metaverse Systems | MetaFed: Datenschutz, Performance und Nachhaltigkeit in Federated Metaverse Systems verbessern | MetFed:促进联邦元系统中的隐私、性能和可持续性 [2508.17341v1](http://arxiv.org/abs/2508.17341v1)
+
+**Authors** (3): Muhammet Anil Yagiz, Zeynep Sude Cengiz, Polat Goktas
+
+The rapid expansion of immersive Metaverse applications introduces complex challenges at the intersection of performance, privacy, and environmental sustainability. Centralized architectures fall short in addressing these demands, often resulting in elevated energy consumption, latency, and privacy concerns. This paper proposes MetaFed, a decentralized federated learning (FL) framework that enables sustainable and intelligent resource orchestration for Metaverse environments. MetaFed integrates (i) multi-agent reinforcement learning for dynamic client selection, (ii) privacy-preserving FL using homomorphic encryption, and (iii) carbon-aware scheduling aligned with renewable energy availability. Evaluations on MNIST and CIFAR-10 using lightweight ResNet architectures demonstrate that MetaFed achieves up to 25\% reduction in carbon emissions compared to conventional approaches, while maintaining high accuracy and minimal communication overhead. These results highlight MetaFed as a scalable solution for building environmentally responsible and privacy-compliant Metaverse infrastructures.
+
+在业绩、隐私和环境可持续性的交汇点上,隐性元体应用的迅速扩展带来了复杂的挑战;中央化结构未能满足这些需求,往往导致能源消耗、延缓和隐私问题增加;本文件提出MetFed,这是一个分散化的联邦学习框架,为代相体环境提供可持续和智能的资源调控;MetFed综合了(一) 动态客户选择的多剂强化学习,(二) 使用同质加密保护隐私的FL,(三) 与可再生能源供应相适应的碳觉能安排;利用轻量的ResNet结构对MedIST和CIFAR-10进行的评估表明,MetFed与常规方法相比,碳排放量减少多达25,同时保持高的准确性和最低的通信间接费用;这些结果突出表明,MetFed是建立对环境负责和符合隐私的Metfevers基础设施的可扩展解决方案。
+
+---
+
+## Article 64
+### Title@2025-08-24 (7): Bine Trees: Enhancing Collective Operations by Optimizing Communication   Locality
+
+**Title**: Bine Trees: Enhancing Collective Operations by Optimizing Communication   Locality | Bine Trees: Verbesserung kollektiver Operationen durch Optimierung der Kommunikationslokalität | Bine树:通过优化通信地点,加强集体业务 [2508.17311v1](http://arxiv.org/abs/2508.17311v1)
+
+**Authors** (8): Daniele De Sensi, Saverio Pasqualoni, Lorenzo Piarulli, Tommaso Bonato, Seydou Ba, Matteo Turisini, Jens Domke, Torsten Hoefler
+
+Communication locality plays a key role in the performance of collective operations on large HPC systems, especially on oversubscribed networks where groups of nodes are fully connected internally but sparsely linked through global connections. We present Bine (binomial negabinary) trees, a family of collective algorithms that improve communication locality. Bine trees maintain the generality of binomial trees and butterflies while cutting global-link traffic by up to 33%. We implement eight Bine-based collectives and evaluate them on four large-scale supercomputers with Dragonfly, Dragonfly+, oversubscribed fat-tree, and torus topologies, achieving up to 5x speedups and consistent reductions in global-link traffic across different vector sizes and node counts.
+
+通信地点在大型高聚苯乙烯系统的集体行动中发挥着关键作用,特别是在超标网络中,在超标网络中,各节点集团在内部完全连接,但通过全球连接却很少连接。我们展示了Bine(binomial negabinary)树,这是一套改善通信地点的集体算法。白树保持二联树和蝴蝶的普遍性,同时将全球链接流量削减高达33%。我们实施了8个基于Bine的集体,并评价了4台大型超大型超大型计算机,这些超大型超大型计算机与龙蝇、龙蝇+、超标脂肪树和托鲁斯地形连接在一起,实现了多达5x的加速,并持续减少了不同矢量大小和节点之间的全球链接流量。
+
+---
+
+## Article 65
+### Title@2025-08-24 (7): PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief   Propagation
+
+**Title**: PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief   Propagation | PixRO: Pixel-verteilte Rotations-Odometrie mit Gauß-Belief-Propagation | PixRO: 带有高斯人信仰传播的像素分布式旋转测量 [2406.09726v2](http://arxiv.org/abs/2406.09726v2)
+
+**Authors** (3): Ignacio Alzugaray, Riku Murai, Andrew Davison
+
+Images are the standard input for most computer vision algorithms. However, their processing often reduces to parallelizable operations applied locally and independently to individual pixels. Yet, many of these low-level raw pixel readings only provide redundant or noisy information for specific high-level tasks, leading to inefficiencies in both energy consumption during their transmission off-sensor and computational resources in their subsequent processing.   As novel sensors featuring advanced in-pixel processing capabilities emerge, we envision a paradigm shift toward performing increasingly complex visual processing directly in-pixel, reducing computational overhead downstream. We advocate for synthesizing high-level cues at the pixel level, enabling their off-sensor transmission to directly support downstream tasks more effectively than raw pixel readings.   This paper conceptualizes a novel photometric rotation estimation algorithm to be distributed at pixel level, where each pixel estimates the global motion of the camera by exchanging information with other pixels to achieve global consensus. We employ a probabilistic formulation and leverage Gaussian Belief Propagation (GBP) for decentralized inference using messaging-passing. The proposed proposed technique is evaluated on real-world public datasets and we offer a in-depth analysis of the practicality of applying GBP to distributed rotation estimation at pixel level.
+
+图像是大多数计算机视觉算法的标准输入。 但是,它们的处理通常会降低到本地和独立应用到个体像素的平行操作。 然而,许多低水平的原始像素读数只为特定高级任务提供了冗余或噪音的信息,导致在传输离传感器期间能源消耗效率低下和随后处理过程中计算资源效率低下。 以像素中先进处理能力为特征的新传感器出现, 我们设想了向直接进行日益复杂的像素中视觉处理的范式转变, 减少下游的计算性上下游。 我们主张在像素一级综合高层次的高级提示, 使得它们的离传感器传输能够比生像素读数更有效地直接支持下游任务。 本文设想了一种新型的光度旋转估计算法, 将在像素中分布, 每个像素处理能力都通过与其他像素交换信息来估计摄影机的全球运动, 从而实现全球共识。 我们采用了一种概率化的配方, 利用高斯的信仰 Propagation(GBP) 将高级信号传送到直接支持下游任务, 比原始读取数据水平上的拟议技术是用于我们发送全球数据的分析。 。 在发送上, 传播全球数据水平上拟议的技术是在发送上进行分流分析。
+
+---
+
+## Article 66
+### Title@2025-08-24 (7): TokenLake: A Unified Segment-level Prefix Cache Pool for Fine-grained   Elastic Long-Context LLM Serving
+
+**Title**: TokenLake: A Unified Segment-level Prefix Cache Pool for Fine-grained   Elastic Long-Context LLM Serving | TokenLake: Ein einheitlicher Segment-Level-Präfix-Cache-Pool für feinkörnige elastische Long-Context LLM Serving | TokenLake: 精制弹性长文本LLM 服务统一部门级前缀缓存库 [2508.17219v1](http://arxiv.org/abs/2508.17219v1)
+
+**Authors** (7): Bingyang Wu, Zili Zhang, Yinmin Zhong, Guanzhe Huang, Yibo Zhu, Xuanzhe Liu, Xin Jin
+
+Prefix caching is crucial to accelerate multi-turn interactions and requests with shared prefixes. At the cluster level, existing prefix caching systems are tightly coupled with request scheduling to optimize cache efficiency and computation performance together, leading to load imbalance, data redundancy, and memory fragmentation of caching systems across instances. To address these issues, memory pooling is promising to shield the scheduler from the underlying cache management so that it can focus on the computation optimization. However, because existing prefix caching systems only transfer increasingly longer prefix caches between instances, they cannot achieve low-latency memory pooling.   To address these problems, we propose a unified segment-level prefix cache pool, TokenLake. It uses a declarative cache interface to expose requests' query tensors, prefix caches, and cache-aware operations to TokenLake for efficient pooling. Powered by this abstraction, TokenLake can manage prefix cache at the segment level with a heavy-hitter-aware load balancing algorithm to achieve better cache load balance, deduplication, and defragmentation. TokenLake also transparently minimizes the communication volume of query tensors and new caches. Based on TokenLake, the scheduler can schedule requests elastically by using existing techniques without considering prefix cache management. Evaluations on real-world workloads show that TokenLake can improve throughput by up to 2.6$\times$ and 2.0$\times$ and boost hit rate by 2.0$\times$ and 2.1$\times$, compared to state-of-the-art cache-aware routing and cache-centric PD-disaggregation solutions, respectively.
+
+在组群一级,现有的前缀缓存系统与请求列表紧密配合,以优化缓存效率和一起计算性能,从而导致缓存系统的负荷失衡、数据冗余和存储分散。为解决这些问题,记忆集合将有望保护调度器不受基本的缓存管理的影响,从而能够专注于计算优化。然而,由于现有的前缀缓存系统只能在不同实例之间传输越来越多的前缀缓存,因此它们无法实现低延迟存储。为了解决这些问题,我们建议采用统一的分部级前缀缓存系统,以优化缓存效率并一起计算性能,从而导致在多个实例中出现缓存系统装载不平衡、数据冗余和内存系统。为了解决这些问题,记忆集合库有可能保护调度器不受基本的缓存管理影响,以便集中到计算优化。TokenLake系统可以管理前端的预扣存存储器,通过重速中值的缓存量计算法来改善缓存状态的缓存平衡,降低缓存率,并消除和退缩。 TokenLake 缓存的缓存技术也可以在新的缓存时间表上透明地显示新的缓存速度,通过现有的缓存时间规则,通过现有的缓存程序来显示新的缓存存储,并显示新的缓存程序。
+
+---
+
+## Article 67
+### Title@2025-08-24 (7): Memory-Efficient Federated Fine-Tuning of Large Language Models via   Layer Pruning
+
+**Title**: Memory-Efficient Federated Fine-Tuning of Large Language Models via   Layer Pruning | Memory-Efficient Federated Fine-Tuning von großen Sprachmodellen über Layer Pruning | 通过 " 层环流 " 改进大语言模型 [2508.17209v1](http://arxiv.org/abs/2508.17209v1)
+
+**Authors** (5): Yebo Wu, Jingguang Li, Chunlin Tian, Zhijiang Guo, Li Li
+
+Federated fine-tuning enables privacy-preserving Large Language Model (LLM) adaptation, but its high memory cost limits participation from resource-constrained devices. We propose FedPruner, an innovative federated fine-tuning paradigm that tackles this via intelligent layer pruning. FedPruner flexibly prunes the global model, creating personalized submodels based on device memory constraints. It employs a macro-micro synergistic pruning framework: a macro-level functionality-driven layer orchestration mechanism groups layers, while a micro-level importance-aware layer selection strategy prunes within groups to build device-specific submodels. We further introduce a fine-grained variant that independently prunes Multi-Head Attention and Feed-Forward Network components to precisely preserve critical architectural elements. Extensive experimental results demonstrate that FedPruner significantly outperforms state-of-the-art approaches, achieving up to a 1.98\% improvement in average model accuracy while reducing peak memory usage by 75\%.
+
+联邦微调使隐私保护大语言模型(LLM)适应,但其高记忆成本限制了资源限制装置的参与。 我们提出FedPruner,这是一个创新的联邦微调范例,通过智能层修剪处理。 FedPruner灵活地将全球模型推平,创建基于设备内存限制的个性化子模型。它采用宏观-微观协同操纵框架:一个宏观级功能驱动层调控机制层,而一个微级重要层选择战略,在组内进行微级重要层选择,以建立特定装置的子模型。我们进一步引入一个精细的变体,独立地利用Prunes多层关注和Feed-Forward网络组件来精确保存关键的建筑元素。广泛的实验结果显示,FedPruner明显超越了最先进的方法,实现了平均模型精度的1.98改善,同时将最大记忆用量减少75。
+
+---
+
+## Article 68
+### Title@2025-08-24 (7): Universal Finite-State and Self-Stabilizing Computation in Anonymous   Dynamic Networks
+
+**Title**: Universal Finite-State and Self-Stabilizing Computation in Anonymous   Dynamic Networks | Universelle Finite-State- und Selbststabilisierungsrechnung in anonymen dynamischen Netzwerken | 匿名动态网络普遍有限状态和自我稳定计算 [2409.00688v3](http://arxiv.org/abs/2409.00688v3)
+
+**Authors** (2): Giuseppe A. Di Luna, Giovanni Viglietta
+
+A communication network is said to be "anonymous" if its agents are indistinguishable from each other; it is "dynamic" if its communication links may appear or disappear unpredictably over time. Assuming that each of the $n$ agents of an anonymous dynamic network is initially given an input, it takes $2\tau n$ communication rounds for the agents to compute an arbitrary (frequency-based) function of such inputs (Di Luna-Viglietta, DISC 2023), where $\tau$ is a parameter called "dynamic disconnectivity", and measures how far the network is from being always connected (for always connected dynamic networks, $\tau=1$).   It is known that, without making additional assumptions on the network and without knowing the number of agents $n$, it is impossible to compute most functions and explicitly terminate. In fact, current state-of-the-art algorithms only achieve stabilization, i.e., allow each agent to return an output after every communication round. Outputs can be changed, and are guaranteed to be all correct after $2\tau n$ rounds. Such algorithms rely on the incremental construction of a data structure called "history tree", which is augmented at every round. Thus, they end up consuming an unlimited amount of memory, and are also prone to errors in case of memory loss or corruption.   In this paper, we provide a general self-stabilizing algorithm for anonymous dynamic networks that stabilizes in $\max\{4\tau n-2\mu,2\mu\}$ rounds (where $\mu$ measures the amount of corrupted data initially present in the memory of each agent), as well as a general finite-state algorithm that stabilizes in $\tau(2n^2+n)$ rounds.   Our work improves upon previously known methods that only apply to static networks (Boldi-Vigna, Dist. Comp. 2002). In addition, we develop new fundamental techniques and operations involving history trees, which are of independent interest.
+
+如果一个通信网络的代理商相互之间无法区分,它就被称为“匿名 ” ; 如果它的通信链接在一段时间内可能出现或消失, 它就是“动态 ” 。 假设一个匿名动态网络的每个美元代理商最初都会得到输入, 代理商需要2美元来计算这种输入的任意( 以频率为基础的) 函数( Di Luna- Viglietta, DISC 2023) , 美元是一个被称为“ 动力脱节性” 的参数; 如果它的通信链接在一段时间内可能出现或消失, 它就会是“ 动力性 ” 。 假设一个匿名动态网络的每个美元代理商最初都会得到输入。 假设如果在网络上不做更多的假设, 并且不知道代理商 美元, 则无法计算最大部分的功能和明确终止。 事实上, 当前最先进的算法只能实现稳定, 也就是说, 每个代理商在每次通信回合后返回一个已知的输出。 产出可以被修改, 并且保证在2美元之后完全正确, 美元动态代理商 。 这样的算算算算算一个不断的每十年内积 。
+
+---
+
+## Article 69
+### Title@2025-08-23 (6): Enhancing Memory Efficiency in Large Language Model Training Through   Chronos-aware Pipeline Parallelism
+
+**Title**: Enhancing Memory Efficiency in Large Language Model Training Through   Chronos-aware Pipeline Parallelism | Verbesserung der Speichereffizienz bei großsprachlichen Modellschulungen durch Chronos-aware-Pipeline-Parallelismus | 通过Chronos-aware管道平行式提高大语言示范培训的记忆效率 [2503.03182v2](http://arxiv.org/abs/2503.03182v2)
+
+**Authors** (8): Xinyuan Lin, Chenlu Li, Zongle Huang, Chunyu Wang, Bo Xiao, Huazhong Yang, Shishi Duan, Yongpan Liu
+
+Larger model sizes and longer sequence lengths have empowered the Large Language Model (LLM) to achieve outstanding performance across various domains. However, this progress brings significant storage capacity challenges for LLM pretraining. High Bandwidth Memory (HBM) is expensive and requires more advanced packaging technologies for capacity expansion, creating an urgent need for memory-efficient scheduling strategies. Yet, prior pipeline parallelism schedules have primarily focused on reducing bubble overhead, often neglecting memory efficiency and lacking compatibility with other memory-efficient strategies. Consequently, these methods struggle to meet the storage demands of storage capacity for next-generation LLM. This work presents ChronosPipe, a Chronos-aware pipeline parallelism for memory-efficient LLM pretraining. The core insight of ChronosPipe is to treat HBM as a fast but small 'cache,' optimizing and exploiting temporal locality within LLM pretraining to enhance HBM utilization. ChronosPipe introduces a pipeline scheduling strategy, Chronos-Pipe, to reduce the extrinsic overhead that disrupts the temporal locality of activations. Additionally, it leverages Chronos-Recomp and Chronos-Offload to efficiently harness the intrinsic temporal locality of activations and weights in Deep Neural Networks. Experiment results show that ChronosPipe can expand the trainable model size by 2.4x while maintaining comparable throughput, achieving 1.5x better than the 1F1B strategy combined with recomputation.
+
+大型模型和较长序列长度的大型模型规模和较长序列长度使大语言模型(LLM)能够实现不同领域的杰出业绩,然而,这一进展为LLM预培训带来了巨大的储存能力挑战。高带宽内存(HBM)昂贵,需要更先进的包装技术来扩展能力,从而迫切需要记忆高效的时间安排战略。然而,前管道平行时间表主要侧重于减少泡沫管理,往往忽视记忆效率,与其他记忆效率战略不相容。因此,这些方法难以满足下一代LLM存储能力储存能力的储存需求。这项工作为ChronosPipe提供了ChronosPipe,一种Chronos-aware管道中为记忆高效的LLMM预培训提供的同步平行主义。ChronosPipe的核心洞察力是将HBMM作为快速但小型的“缓冲”处理,优化和利用LLMM前的时空地点,以提高HB的利用率。CronFPipe引入了管道调度模式战略,即Chronos-Pipe,以减少干扰激活时间定位定位定位位置的Chreal-emalimalimpilal-emal Restal Restal mamama maxmax maxildal max maildal maildal max max max max max max maxildalsildalmax max max max max max max max max max maxildaldaldaltingsxilds maxildaldows
+
+---
+
+## Article 70
+### Title@2025-08-22 (5): I/O in Machine Learning Applications on HPC Systems: A 360-degree Survey
+
+**Title**: I/O in Machine Learning Applications on HPC Systems: A 360-degree Survey | I/O in Machine Learning Anwendungen auf HPC-Systemen: Eine 360-Grad-Umfrage | 高级PC系统机器学习应用一/O:360度调查 [2404.10386v3](http://arxiv.org/abs/2404.10386v3)
+
+**Authors** (3): Noah Lewis, Jean Luca Bez, Surendra Byna
+
+Growing interest in Artificial Intelligence (AI) has resulted in a surge in demand for faster methods of Machine Learning (ML) model training and inference. This demand for speed has prompted the use of high performance computing (HPC) systems that excel in managing distributed workloads. Because data is the main fuel for AI applications, the performance of the storage and I/O subsystem of HPC systems is critical. In the past, HPC applications accessed large portions of data written by simulations or experiments or ingested data for visualizations or analysis tasks. ML workloads perform small reads spread across a large number of random files. This shift of I/O access patterns poses several challenges to modern parallel storage systems. In this paper, we survey I/O in ML applications on HPC systems, and target literature within a 6-year time window from 2019 to 2024. We define the scope of the survey, provide an overview of the common phases of ML, review available profilers and benchmarks, examine the I/O patterns encountered during offline data preparation, training, and inference, and explore I/O optimizations utilized in modern ML frameworks and proposed in recent literature. Lastly, we seek to expose research gaps that could spawn further R&D
+
+由于对人工智能(人工智能)的兴趣日益增加,对机器学习(ML)模型培训和推断的更快方法的需求激增,对机械学习(ML)模型培训和推断的需求激增。这种对速度的需求促使使用在管理分配工作量方面擅长的高效计算(HPC)系统。由于数据是AI应用的主要燃料,因此数据是HPC系统储存和I/O子系统的业绩至关重要。过去,HPC应用系统获得大量模拟或实验或成品数据为可视化或分析任务而编写的大量数据,ML工作量小于许多随机文件。I/O访问模式的这种转变给现代平行储存系统带来了若干挑战。在本文件中,我们调查HPC系统ML应用中的I/O以及2019-2024年6年时间窗口中的目标文献。我们界定了调查的范围,概述了ML的共同阶段,审查了现有概况和基准,审查了离线数据编制、培训和推断过程中遇到的I/O模式,并探索了现代ML框架中利用的I/O优化,并提议在最新文献中进一步探索。
+
+---
+
+## Article 71
+### Title@2025-08-22 (5): PICO: Performance Insights for Collective Operations
+
+**Title**: PICO: Performance Insights for Collective Operations | PICO: Performance-Insights für kollektive Operationen | PICO: 集体业务业绩透视 [2508.16809v1](http://arxiv.org/abs/2508.16809v1)
+
+**Authors** (3): Saverio Pasqualoni, Lorenzo Piarulli, Daniele De Sensi
+
+Collective operations are cornerstones of both HPC application and large-scale AI training and inference. Yet, comprehensive, systematic and reproducible performance evaluation and benchmarking of said operations is not straightforward. Existing frameworks do not provide sufficiently detailed profiling information, nor they ensure reproducibility and extensibility. In this paper, we present PICO (Performance Insights for Collective Operations), a novel lightweight, extensible framework built with the aim of simplifying collective operations benchmarking.
+
+集体行动既是高常委会应用的基石,也是大规模AI培训和推论的基石,然而,全面、系统和可复制的业绩评估和上述行动的基准并非直截了当,现有框架没有提供足够详细的概况信息,也没有确保可复制和可推广性。
+
+---
+
+## Article 72
+### Title@2025-08-22 (5): Neuromorphic Simulation of Drosophila Melanogaster Brain Connectome on   Loihi 2
+
+**Title**: Neuromorphic Simulation of Drosophila Melanogaster Brain Connectome on   Loihi 2 | Neuromorphe Simulation von Drosophila Melanogaster Brain Connectome auf Loihi 2 | Loihi 2上的Drosophicra Melanagaster脑连接器神经形态模拟 [2508.16792v1](http://arxiv.org/abs/2508.16792v1)
+
+**Authors** (6): Felix Wang, Bradley H. Theilman, Fred Rothganger, William Severa, Craig M. Vineyard, James B. Aimone
+
+We demonstrate the first-ever nontrivial, biologically realistic connectome simulated on neuromorphic computing hardware. Specifically, we implement the whole-brain connectome of the adult Drosophila melanogaster (fruit fly) from the FlyWire Consortium containing 140K neurons and 50M synapses on the Intel Loihi 2 neuromorphic platform. This task is particularly challenging due to the characteristic connectivity structure of biological networks. Unlike artificial neural networks and most abstracted neural models, real biological circuits exhibit sparse, recurrent, and irregular connectivity that is poorly suited to conventional computing methods intended for dense linear algebra. Though neuromorphic hardware is architecturally better suited to discrete event-based biological communication, mapping the connectivity structure to frontier systems still faces challenges from low-level hardware constraints, such as fan-in and fan-out memory limitations. We describe solutions to these challenges that allow for the full FlyWire connectome to fit onto 12 Loihi 2 chips. We statistically validate our implementation by comparing network behavior across multiple reference simulations. Significantly, we achieve a neuromorphic implementation that is orders of magnitude faster than numerical simulations on conventional hardware, and we also find that performance advantages increase with sparser activity. These results affirm that today's scalable neuromorphic platforms are capable of implementing and accelerating biologically realistic models -- a key enabling technology for advancing neuro-inspired AI and computational neuroscience.
+
+具体地说,我们从FlyWire财团(FlyWire conformoration)中实施由140K神经元和50M神经突触组成的成人Droosophila melanogaster(fruit fly)的全脑连接器。由于生物网络具有独特的连通性结构,这项任务特别具有挑战性。与人工神经网络和最抽象的神经模型不同,真正的生物回路显示稀少、经常和不正常的连通性,不适合用于密度直线代数的常规计算方法。尽管神经变形硬件在结构上更适合离散事件生物通信,但测绘连接到前沿系统的连接结构仍面临低层次硬件限制的挑战,如粉丝和扇出记忆限制。我们描述这些挑战的解决方案,使全FlyWire连通能够适应12 Loihi 2芯片。我们通过在多个参考模拟中比较网络行为,从统计上验证我们的执行情况。重要的是,我们今天的神经变形硬件的递增性执行能力,而这种递增性机能性机能的递增性机能性运行。
+
+---
+
+## Article 73
+### Title@2025-08-22 (5): TOAST: Fast and scalable auto-partitioning based on principled static   analysis
+
+**Title**: TOAST: Fast and scalable auto-partitioning based on principled static   analysis | TOAST: Schnelles und skalierbares Auto-Partitionieren auf Basis einer prinzipiell statischen Analyse | TOAST:基于原则静态分析的快速和可缩放自动分割 [2508.15010v2](http://arxiv.org/abs/2508.15010v2)
+
+**Authors** (8): Sami Alabed, Dominik Grewe, Norman Alexander Rink, Masha Samsikova, Timur Sitdikov, Agnieszka Swietlik, Dimitrios Vytiniotis, Daniel Belov
+
+Partitioning large machine learning models across distributed accelerator systems is a complex process, requiring a series of interdependent decisions that are further complicated by internal sharding ambiguities. Consequently, existing auto-partitioners often suffer from out-of-memory errors or are prohibitively slow when exploring the exponentially large space of possible partitionings. To mitigate this, they artificially restrict the search space, but this approach frequently yields infeasible solutions that violate device memory constraints or lead to sub-optimal performance.   We propose a system that combines a novel static compiler analysis with a Monte Carlo Tree Search. Our analysis constructs an efficient decision space by identifying (i) tensor dimensions requiring identical sharding, and (ii) partitioning "conflicts" that require resolution.   Our system significantly outperforms state-of-the-art industrial methods across diverse hardware platforms and model architectures, discovering previously unknown, superior solutions, and the process is fully automated even for complex and large models.
+
+在分布式加速器系统中分离大型机器学习模型是一个复杂的过程,需要一系列相互依存的决定,这些决定又因内部碎片模糊不清而进一步复杂化。 因此,现有的自动分割器往往会发生超模错误,或者在探索巨大的分布空间时速度极慢。 为了缓解这种情况,它们人为地限制搜索空间,但这种方法经常产生违反设备内存限制或导致亚最佳性能的不可行解决方案。 我们建议建立一个系统,将新颖的静态编译器分析与蒙特卡洛树搜索结合起来。 我们的分析通过识别(一) 需要相同碎片的多维度和(二) 需要解析的“冲突”分区来构建一个高效的决策空间。 我们的系统大大超越了不同硬件平台和模型结构中最先进的工业方法,发现以前未知的高级解决方案,而整个过程甚至对复杂和大型模型来说都是完全自动化的。
+
+---
+
+## Article 74
+### Title@2025-08-22 (5): Denoising Application Performance Models with Noise-Resilient Priors
+
+**Title**: Denoising Application Performance Models with Noise-Resilient Priors | Denoisierende Anwendungs-Performance-Modelle mit geräuschbeständigen Prioren | 具有噪音-抗应前置物的低度应用性性能模型 [2504.10996v3](http://arxiv.org/abs/2504.10996v3)
+
+**Authors** (8): Gustavo de Morais, Alexander Geiß, Alexandru Calotoiu, Gregor Corbin, Ahmad Tarraf, Torsten Hoefler, Bernd Mohr, Felix Wolf
+
+As parallel codes are scaled to larger computing systems, performance models play a crucial role in identifying potential bottlenecks. However, constructing these models analytically is often challenging. Empirical models based on performance measurements provide a practical alternative, but measurements on high-performance computing (HPC) systems are frequently affected by noise, which can lead to misleading predictions. To mitigate the impact of noise, we introduce application-specific dynamic priors into the modeling process. These priors are derived from noise-resilient measurements of computational effort, combined with domain knowledge about common algorithms used in communication routines. By incorporating these priors, we effectively constrain the model's search space, eliminating complexity classes that capture noise rather than true performance characteristics. This approach keeps the models closely aligned with theoretical expectations and substantially enhances their predictive accuracy. Moreover, it reduces experimental overhead by cutting the number of repeated measurements by half.
+
+由于平行代码被扩大到更大的计算系统,性能模型在查明潜在瓶颈方面发挥着关键作用。然而,用分析方法构建这些模型往往具有挑战性。基于性能测量的经验模型提供了一个实用的替代方法,但高性能计算系统的测量经常受到噪音的影响,这可能导致误导性预测。为了减轻噪音的影响,我们在建模过程中引入了针对具体应用的动态前科。这些前科来自对计算努力的耐噪音测量,加上对通信常规中使用的通用算法的域知识。通过纳入这些前科,我们有效地限制模型的搜索空间,消除捕捉噪音而不是真正性能特征的复杂类别。这一方法使模型与理论期望密切吻合,并大大提高其预测准确性。此外,通过将重复测量的数量减半,它减少了实验性间接费用。
+
+---
+
+## Article 75
+### Title@2025-08-22 (5): On the Duality of Task and Actor Programming Models
+
+**Title**: On the Duality of Task and Actor Programming Models | Über die Dualität von Task- und Actor-Programmierungsmodellen | 任务质量和行为者方案编制模式 [2508.16522v1](http://arxiv.org/abs/2508.16522v1)
+
+**Authors** (7): Rohan Yadav, Joseph Guman, Sean Treichler, Michael Garland, Alex Aiken, Fredrik Kjolstad, Michael Bauer
+
+Programming models for distributed and heterogeneous machines are rapidly growing in popularity to meet the demands of modern workloads. Task and actor models are common choices that offer different trade-offs between development productivity and achieved performance. Task-based models offer better productivity and composition of software, whereas actor-based models routinely deliver better peak performance due to lower overheads. While task-based and actor-based models appear to be different superficially, we demonstrate these programming models are duals of each other. Importantly, we show that this duality extends beyond functionality to performance, and elucidate techniques that let task-based systems deliver performance competitive with actor-based systems without compromising productivity. We apply these techniques to both Realm, an explicitly parallel task-based runtime, as well as Legion, an implicitly parallel task-based runtime. We show these techniques reduce Realm's overheads by between 1.7-5.3x, coming within a factor of two of the overheads imposed by heavily optimized actor-based systems like Charm++ and MPI. We further show that our techniques enable between 1.3-5.0x improved strong scaling of unmodified Legion applications.
+
+任务模型和行为者模型是通用的选择,在发展生产率和已实现的绩效之间提供不同的权衡。基于任务的模式提供了更好的生产率和软件构成,而基于行为者的模式则由于管理费用较低而经常提供更好的高峰业绩。虽然任务模型和基于行为者的模式表面上似乎不同,但我们证明这些程序模型是双重的。重要的是,我们表明,这种双重性超越了功能到绩效,并阐明了使基于任务的系统能够以基于行为者的系统提供业绩竞争力而不损害生产力的技术。我们将这些技术应用到房地产公司,一个明确平行的任务运行时间,以及一个隐含平行的任务运行时间。我们显示这些技术将Realm的间接费用减少1.7-5.3x,这是由严重优化的基于行为者的系统(如Charm+和MPI)所强加的双重间接费用。我们进一步表明,我们的技术能够在1.3-5.0x之间改进未修改的组合应用程序的强大规模。
+
+---
+
+## Article 76
+### Title@2025-08-22 (5): Systematic Characterization of LLM Quantization: A Performance, Energy,   and Quality Perspective
+
+**Title**: Systematic Characterization of LLM Quantization: A Performance, Energy,   and Quality Perspective | Systematische Charakterisierung der LLM-Quantisierung: Eine Performance-, Energie- und Qualitätsperspektive | LLM 量化:绩效、能源和质量视角 [2508.16712v1](http://arxiv.org/abs/2508.16712v1)
+
+**Authors** (2): Tianyao Shi, Yi Ding
+
+Large language models (LLMs) have demonstrated remarkable capabilities across diverse domains, but their heavy resource demands make quantization-reducing precision to lower-bit formats-critical for efficient serving. While many quantization methods exist, a systematic understanding of their performance, energy, and quality tradeoffs in realistic serving conditions remains a gap. In this work, we first develop a fully automated online characterization framework qMeter, and then conduct an in-depth characterization of 11 post-training LLM quantization methods across 4 model sizes (7B-70B) and two GPU architectures (A100, H100). We evaluate quantization at the application, workload, parallelism, and hardware levels under online serving conditions. Our study reveals highly task- and method-dependent tradeoffs, strong sensitivity to workload characteristics, and complex interactions with parallelism and GPU architecture. We further present three optimization case studies illustrating deployment challenges in capacity planning, energy-efficient scheduling, and multi-objective tuning. To the best of our knowledge, this is one of the first comprehensive application-, system-, and hardware-level characterization of LLM quantization from a joint performance, energy, and quality perspective.
+
+大型语言模型(LLMS)在不同领域表现出了非凡的能力,但是它们巨大的资源需求使得降低量化精确度成为低位格式的精确度,对于高效服务来说,低位格式至关重要。虽然存在许多量化方法,但在现实服务条件下,对其性能、能源和质量权衡的系统理解仍是一个差距。在这项工作中,我们首先开发一个完全自动化的在线定性框架 qMeter,然后对培训后LLM量化方法进行深入的定性,覆盖4个模型(7B-70B)和2个GPU结构(A100,H100)。我们从联合性能、能源、质量和硬件角度评价应用、系统和硬件层面对LLM量化的首次量化。
+
+---
+
+## Article 77
+### Title@2025-08-22 (5): Robustness of deep learning classification to adversarial input on GPUs:   asynchronous parallel accumulation is a source of vulnerability
+
+**Title**: Robustness of deep learning classification to adversarial input on GPUs:   asynchronous parallel accumulation is a source of vulnerability | Robustheit der Deep-Learning-Klassifizierung gegenüber konversitären Eingaben auf GPUs: asynchrone parallele Akkumulation ist eine Quelle der Verwundbarkeit | 深深层次学习分类的强力与对抗性投入在GPU上的对抗性投入:非同步平行平行积累是脆弱性的一个来源 [2503.17173v2](http://arxiv.org/abs/2503.17173v2)
+
+**Authors** (6): Sanjif Shanmugavelu, Mathieu Taillefumier, Christopher Culver, Vijay Ganesh, Oscar Hernandez, Ada Sedova
+
+The ability of machine learning (ML) classification models to resist small, targeted input perturbations -- known as adversarial attacks -- is a key measure of their safety and reliability. We show that floating-point non-associativity (FPNA) coupled with asynchronous parallel programming on GPUs is sufficient to result in misclassification, without any perturbation to the input. Additionally, we show that standard adversarial robustness results may be overestimated up to 4.6 when not considering machine-level details. We develop a novel black-box attack using Bayesian optimization to discover external workloads that can change the instruction scheduling which bias the output of reductions on GPUs and reliably lead to misclassification. Motivated by these results, we present a new learnable permutation (LP) gradient-based approach to learning floating-point operation orderings that lead to misclassifications. The LP approach provides a worst-case estimate in a computationally efficient manner, avoiding the need to run identical experiments tens of thousands of times over a potentially large set of possible GPU states or architectures. Finally, using instrumentation-based testing, we investigate parallel reduction ordering across different GPU architectures under external background workloads, when utilizing multi-GPU virtualization, and when applying power capping. Our results demonstrate that parallel reduction ordering varies significantly across architectures under the first two conditions, substantially increasing the search space required to fully test the effects of this parallel scheduler-based vulnerability. These results and the methods developed here can help to include machine-level considerations into adversarial robustness assessments, which can make a difference in safety and mission critical applications.
+
+机器学习(ML)分类模型能够抵御小的、有针对性的输入扰动(称为对抗性攻击),这是衡量其安全和可靠性的一个关键尺度。我们显示,在GPU上,浮动点非联合性(FPNA)加上不同步平行的平行编程足以导致错误分类,而不会对输入造成任何干扰。此外,我们显示,标准对称稳健性结果在不考虑机器一级细节的情况下可能高估到4.6。我们开发了一种新型的黑箱攻击,利用Bayesian优化发现外部工作量,这种任务可以改变指令的时间安排,偏重于GPU的削减产出,并可靠地导致分类错误。我们借助这些结果的动力,提出了一种新的可学习性调整(LP)的梯度方法,以学习导致错误分类的浮点操作。 LPP方法在不考虑机器一级的细节时,可能会被高估出最坏的情况估计值,在可能大型的GPUP条件或结构下,避免进行数以千计次的临界性实验。最后,在使用基于仪器进行平行的进度的进度测试时,我们可以对不同结构进行大幅度的压压压压压下,在不同的机结构下进行。
+
+---
+
+## Article 78
+### Title@2025-08-22 (5): Information-Theoretic Decentralized Secure Aggregation with Collusion   Resilience
+
+**Title**: Information-Theoretic Decentralized Secure Aggregation with Collusion   Resilience | Information-Theoretik dezentralisiert Sichere Aggregation mit Kollusionsresilienz | 信息理论分散化安全聚合与协作复原力 [2508.00596v2](http://arxiv.org/abs/2508.00596v2)
+
+**Authors** (6): Xiang Zhang, Zhou Li, Shuangyang Li, Kai Wan, Derrick Wing Kwan Ng, Giuseppe Caire
+
+In decentralized federated learning (FL), multiple clients collaboratively learn a shared machine learning (ML) model by leveraging their privately held datasets distributed across the network, through interactive exchange of the intermediate model updates. To ensure data security, cryptographic techniques are commonly employed to protect model updates during aggregation. Despite growing interest in secure aggregation, existing works predominantly focus on protocol design and computational guarantees, with limited understanding of the fundamental information-theoretic limits of such systems. Moreover, optimal bounds on communication and key usage remain unknown in decentralized settings, where no central aggregator is available. Motivated by these gaps, we study the problem of decentralized secure aggregation (DSA) from an information-theoretic perspective. Specifically, we consider a network of $K$ fully-connected users, each holding a private input -- an abstraction of local training data -- who aim to securely compute the sum of all inputs. The security constraint requires that no user learns anything beyond the input sum, even when colluding with up to $T$ other users. We characterize the optimal rate region, which specifies the minimum achievable communication and secret key rates for DSA. In particular, we show that to securely compute one symbol of the desired input sum, each user must (i) transmit at least one symbol to others, (ii) hold at least one symbol of secret key, and (iii) all users must collectively hold no fewer than $K - 1$ independent key symbols. Our results establish the fundamental performance limits of DSA, providing insights for the design of provably secure and communication-efficient protocols in distributed learning systems.
+
+在分散化的联邦学习(FL)中,多个客户通过利用在网络中传播的私人持有的数据集,通过互动交流中间模型更新,合作学习共享的机器学习模式。为了确保数据安全,通常使用加密技术来保护集成过程中的模型更新。尽管人们对安全集成的兴趣日益浓厚,但现有工作主要侧重于协议设计和计算保障,对此类系统的基本信息理论限制了解有限。此外,在没有中央聚合器的分散化环境中,通信和关键使用的最佳界限仍然未知。受这些差距驱动,我们从信息理论角度研究分散化的安全汇总(DSA)问题。具体地说,我们考虑建立一个由完全连接的用户组成的网络来保护模型更新。尽管对安全整合的兴趣日益浓厚,但现有工作主要侧重于协议设计和计算所有投入的总和。安全限制要求用户学习超出输入总和的任何内容,即使与美元的其他用户相调时,我们以这些差距为动力,我们从信息-理论化区域,我们从信息-理论和秘密关键键速率的最小通信速度,我们必须为DSA提供一个最起码的服务器。
+
+---
+
+## Article 79
+### Title@2025-08-22 (5): Generalizing Brooks' theorem via Partial Coloring is Hard Classically   and Locally
+
+**Title**: Generalizing Brooks' theorem via Partial Coloring is Hard Classically   and Locally | Verallgemeinern Brooks' Theorem über Partial Coloring ist hart klassisch und lokal | 通过部分配色普遍化布鲁克斯的理论 [2508.16308v1](http://arxiv.org/abs/2508.16308v1)
+
+**Authors** (4): Jan Bok, Avinandan Das, Anna Gujgiczer, Nikola Jedličková
+
+We investigate the classical and distributed complexity of \emph{$k$-partial $c$-coloring} where $c=k$, a natural generalization of Brooks' theorem where each vertex should be colored from the palette $\{1,\ldots,c\} = \{1,\ldots,k\}$ such that it must have at least $\min\{k, \deg(v)\}$ neighbors colored differently. Das, Fraigniaud, and Ros{\'{e}}n~[OPODIS 2023] showed that the problem of $k$-partial $(k+1)$-coloring admits efficient centralized and distributed algorithms and posed an open problem about the status of the distributed complexity of $k$-partial $k$-coloring. We show that the problem becomes significantly harder when the number of colors is reduced from $k+1$ to $k$ for every constant $k\geq 3$.   In the classical setting, we prove that deciding whether a graph admits a $k$-partial $k$-coloring is NP-complete for every constant $k \geq 3$, revealing a sharp contrast with the linear-time solvable $(k+1)$-color case. For the distributed LOCAL model, we establish an $\Omega(n)$-round lower bound for computing $k$-partial $k$-colorings, even when the graph is guaranteed to be $k$-partial $k$-colorable. This demonstrates an exponential separation from the $O(\log^2 k \cdot \log n)$-round algorithms known for $(k+1)$-colorings.   Our results leverage novel structural characterizations of ``hard instances'' where partial coloring reduces to proper coloring, and we construct intricate graph gadgets to prove lower bounds via indistinguishability arguments.
+
+我们调查了\ emph{ $k$- 平方美元 $- 彩色} 的经典和分配复杂度, 其中, 美元=k美元, 布鲁克斯理论的自然概括化, 每一个顶端都应该从调色板 $$1,\ldots, c= $1,\ldots, k, 以至于它必须至少有至少美元=mink, \deg(v) +美元邻居的纯度。 Das, Fraigniaud, 和 Ros_'recrialalalal_ ligiard $[Ocolors ] 美元(k+k) 美元(k+k) 美元=k 美元(k) 美元- 美元- 美元- 美元- 美元- 美元- 美元- 彩色 的自然概括问题, 当我们不断变色的时候, 美元- 美元- 美元- 美元- 美元- 美元- 美元- 美元- 美元- 美元- 美元- 美元- 美元- 美元- 美元- 美元- 美元- 直观 的货币- 直观- 表示我们 显示一个不断变色- 显示- 显示- 显示- 显示- 显示- 显示- 显示- 显示- 美元- 显示- 美元- 显示- 美元- c- 度- c- 显示- 度- 直色- 显示- 显示- 显示- 度- 度- 显示- 度- c- 显示- 度- 平色- 显示- 度- 显示- 平色- 显示- 度- 。
+
+---
+
+## Article 80
+### Title@2025-08-22 (5): Scalable Hybrid quantum Monte Carlo simulation of U(1) gauge field   coupled to fermions on GPU
+
+**Title**: Scalable Hybrid quantum Monte Carlo simulation of U(1) gauge field   coupled to fermions on GPU | Skalierbare Hybrid-Quantum Monte Carlo-Simulation des U(1)-Messfeldes gekoppelt mit Fermionen auf GPU | U(1)测量场和GPU上发酵的可缩缩放混合量Monte Carlo模拟 [2508.16298v1](http://arxiv.org/abs/2508.16298v1)
+
+**Authors** (3): Kexin Feng, Chuang Chen, Zi Yang Meng
+
+We develop a GPU-accelerated hybrid quantum Monte Carlo (QMC) algorithm to solve the fundamental yet difficult problem of $U(1)$ gauge field coupled to fermions, which gives rise to a $U(1)$ Dirac spin liquid state under the description of (2+1)d quantum electrodynamics QED$_3$. The algorithm renders a good acceptance rate and, more importantly, nearly linear space-time volume scaling in computational complexity $O(N_{\tau} V_s)$, where $N_\tau$ is the imaginary time dimension and $V_s$ is spatial volume, which is much more efficient than determinant QMC with scaling behavior of $O(N_\tau V_s^3)$. Such acceleration is achieved via a collection of technical improvements, including (i) the design of the efficient problem-specific preconditioner, (ii) customized CUDA kernel for matrix-vector multiplication, and (iii) CUDA Graph implementation on the GPU. These advances allow us to simulate the $U(1)$ Dirac spin liquid state with unprecedentedly large system sizes, which is up to $N_\tau\times L\times L = 660\times66\times66$, and reveal its novel properties. With these technical improvements, we see the asymptotic convergence in the scaling dimensions of various fermion bilinear operators and the conserved current operator when approaching the thermodynamic limit. The scaling dimensions find good agreement with field-theoretical expectation, which provides supporting evidence for the conformal nature of the $U(1)$ Dirac spin liquid state in the \qed. Our technical advancements open an avenue to study the Dirac spin liquid state and its transition towards symmetry-breaking phases at larger system sizes and with less computational burden.
+
+我们开发了一个GPU加速混合量蒙特卡洛(QMC)算法,以解决一个基本但困难的问题,即美元(1美元)的仪表场和发酵,这在(2+1美元)的量子电动量子体的描述下产生了1美元(1美元)的旋转液体状态,QED$3美元。这个算法使得一个高可接受率,更重要的是,计算复杂度(O(NTau}V_s)的近线性时空量缩放量缩放量,美元(Ntau)是想象的时间尺寸,美元(V_s)是空间体积体积,这比确定QMC的效率要高得多。这种加速是通过一系列技术改进实现的,包括(一) 设计高效的特有问题的前提,(二) 定制的CUDA内积体积,用于矩阵的倍增,以及(三)GPU的 CUDA图执行量。这些进展使我们能够模拟 $(1美元)的流体积(Dirac) 和流体积(x) 流体积) 和超前期的运的运的运体积(xalalalalalalalalalalalalalalalalalal) imalalalalalalalal) imal) imalalisalisal dealisal laxxxxxxxxxxxxxxxxxx。
+
+---
+
+## Article 81
+### Title@2025-08-22 (5): Distributed Computation with Local Advice
+
+**Title**: Distributed Computation with Local Advice | Verteilte Berechnung mit lokaler Beratung | 分配的当地咨询计算 [2405.04519v2](http://arxiv.org/abs/2405.04519v2)
+
+**Authors** (7): Alkida Balliu, Sebastian Brandt, Fabian Kuhn, Krzysztof Nowicki, Dennis Olivetti, Eva Rotenberg, Jukka Suomela
+
+In this work we study local computation with advice: the goal is to solve a graph problem $\Pi$ with a distributed algorithm in $T(\Delta)$ communication rounds, for some function $T$ that only depends on the maximum degree $\Delta$ of the graph, and the key question is how many bits of advice per node are needed.   Some of our results regard Locally Checkable Labeling problems (LCLs), which are constraint-satisfaction graph problems that can be defined with a finite set of valid input/output-labeled neighborhoods.   Our main results are:   - Any LCL can be solved with only $1$ bit of advice per node in graphs with sub-exponential growth. Moreover, we can make the set of nodes that carry advice bits arbitrarily sparse. As a corollary, any LCL admits a locally checkable proof with $1$ bit per node in graphs with sub-exponential growth.   - The assumption of sub-exponential growth is complemented by a conditional lower bound: assuming the Exponential-Time Hypothesis, there are locally checkable labeling problems that cannot be solved in general with any constant number of bits per node.   - In any graph we can find an almost-balanced orientation with $1$ bit of advice per node, and again we can make the advice arbitrarily sparse. As a corollary, we can also compress an arbitrary subset of edges so that a node of degree $d$ stores only $d/2 + 2$ bits, and we can decompress it locally, in $T(\Delta)$ rounds.   - In any graph of maximum degree $\Delta$, we can find a $\Delta$-coloring (if it exists) with $1$ bit of advice per node, and again, we can make the advice arbitrarily sparse.   - In any $3$-colorable graph, we can find a $3$-coloring with $1$ bit of advice per node. As a corollary, in bounded-degree graphs there is a locally checkable proof that certifies $3$-colorability with $1$ bit of advice per node.
+
+在这项工作中,我们用建议研究本地计算:目标是用以$T (Delta) 美元通信周期的分布式算法解决图表问题$\Pi$,对于某些函数$T$,仅取决于图形的最大度$Delta$,关键的问题是每个节点需要多少点建议。有些结果考虑到本地可核实的标签问题(LCL),这些是制约性-满意度图表问题,可以用一套有限的、低效率的输入/输出标签社区来定义。我们的主要结果是: 任何LCL只能用1美元在图表中每个节点只提供1美元的建议来解决。 此外,我们可以设置一组带有建议的节点,作为必然结果,任何LCLCL承认一个本地可核对的证据,每点1美元,其分数是分数,其分数只能找到。任何分数的直径直值增长,我们也可以用一个固定的平价数字来补充一个有条件的下限的内限值:假设: 假设是美元- 美元- 美元直径比 方向,我们几乎无法确定一个比值方向。
+
+---
+
+## Article 82
+### Title@2025-08-22 (5): Self-Healing Network of Interconnected Edge Devices Empowered by   Infrastructure-as-Code and LoRa Communication
+
+**Title**: Self-Healing Network of Interconnected Edge Devices Empowered by   Infrastructure-as-Code and LoRa Communication | Selbstheilendes Netzwerk von miteinander verbundenen Edge-Geräten, die durch Infrastruktur-as-Code und LoRa-Kommunikation gestärkt werden | 基础设施-规范化和洛拉通信所赋权的相互连接的边缘装置自愈合网络 [2508.16268v1](http://arxiv.org/abs/2508.16268v1)
+
+**Authors** (3): Rob Carson, Mohamed Chahine Ghanem, Feriel Bouakkaz
+
+This Paper proposes a self-healing, automated network of Raspberry Pi devices designed for deployment in scenarios where traditional networking is unavailable. Leveraging the low-power, long-range capabilities of the LoRa (Long Range) protocol alongside Infrastructure as Code (IaC) methodologies, the research addresses challenges such as limited bandwidth, data collisions, and node failures. Given that LoRa's packet-based system is incompatible with conventional IaC tools like Ansible and Terraform, which rely on TCP/IP networking, the research adapts IaC principles within a containerised architecture deployed across a Raspberry Pi cluster. Evaluation experiments indicate that fragmenting data packets and retransmitting any missed fragments can mitigate LoRa's inherent throughput and packet size limitations, although issues such as collisions and line-of-sight interference persist. An automated failover mechanism was integrated into the architecture, enabling unresponsive services to be redeployed to alternative nodes within one second, demonstrating the system's resilience in maintaining operational continuity despite node or service failures. The paper also identifies practical challenges, including the necessity for time-slotting transmissions to prevent data packet overlap and collisions. Future research should explore the integration of mesh networking to enhance range, develop more advanced scheduling algorithms, and adopt cutting-edge low-power wide-area network (LPWAN) techniques.
+
+本文建议建立一个自愈合、自动化的Raspberry Pi 设备网络,用于在传统网络无法建立的情况下部署。将LoRa(Long Ranger)协议的低功率、远程能力与基础设施作为代码(IaC)方法一起运用,研究解决了带宽有限、数据碰撞和节点故障等挑战。鉴于LoRa的包基系统与Ansable和Terraform等常规IaC工具不兼容,这些工具依赖TCP/IP网络,研究在Raspberry Pi集群中部署的集装箱化结构中调整了IaC原则。评价实验表明,将数据包碎片和任何遗漏的碎片进行分解和再传送可以减轻Lora的固有吞吐量和包体大小限制,尽管碰撞和视线干扰等问题依然存在。自动故障处理机制被纳入了建筑结构,使不反应灵敏的服务能够在一秒内被重新部署到替代节点,表明尽管有节点或服务故障,系统在维持业务连续性方面的复原力。该文件还确定了一些实际挑战,包括必须使网络升级的网络升级化技术升级,从而改进数据组合。
+
+---
+
+## Article 83
+### Title@2025-08-22 (5): Did we miss P In CAP? Partial Progress Conjecture under Asynchrony
+
+**Title**: Did we miss P In CAP? Partial Progress Conjecture under Asynchrony | Vermissen wir P in CAP? Teilweise Progress Conjecture unter Asynchrony | 我们错过了P在CAP吗? [2501.00021v2](http://arxiv.org/abs/2501.00021v2)
+
+**Authors** (4): Junchao Chen, Suyash Gupta, Daniel P. Hughes, Mohammad Sadoghi
+
+Each application developer desires to provide its users with consistent results and an always-available system despite failures. Boldly, the CALM theorem disagrees. It states that it is hard to design a system that is both consistent and available under network partitions; select at most two out of these three properties. One possible solution is to design coordination-free monotonic applications. However, a majority of real-world applications require coordination. We resolve this dilemma by conjecturing that partial progress is possible under network partitions. This partial progress ensures the system appears responsive to a subset of clients and achieves non-zero throughput during failures. To this extent, we present the design of our CASSANDRA consensus protocol that allows partitioned replicas to order client requests.
+
+每个应用程序开发者都希望向用户提供一致的结果和始终可用的系统,尽管失败。 大胆地说, CALM 论者意见不一。 它指出,很难设计一个在网络分割区下既一致又可用的系统; 最多选择三个属性中的两个。 一个可能的解决办法是设计无协调的单调应用程序。 但是,大多数现实世界应用程序都需要协调。 我们通过假设网络分割区可能取得部分进展来解决这一难题。 这种部分进展确保系统对一组客户有反应,并在失败时实现非零产出。 为此,我们提出了CASANDRA协商一致协议的设计,允许分解复制软件订购客户请求。
+
+---
+
+## Article 84
+### Title@2025-08-22 (5): GPT-OSS-20B: A Comprehensive Deployment-Centric Analysis of OpenAI's   Open-Weight Mixture of Experts Model
+
+**Title**: GPT-OSS-20B: A Comprehensive Deployment-Centric Analysis of OpenAI's   Open-Weight Mixture of Experts Model | GPT-OSS-20B: Eine umfassende Implementierungs-Centric-Analyse der OpenAI-Open-Weight-Mixture of Experts-Modell | GPT-OSSS-20B:开放国际公司开放视觉专家混合模型全面部署中心全面分析 [2508.16700v1](http://arxiv.org/abs/2508.16700v1)
+
+**Authors** (3): Deepak Kumar, Divakar Yadav, Yash Patel
+
+We present a single-GPU (H100, bf16) evaluation of GPT-OSS-20B (Mixture-of-Experts; 20.9B total, approx. 3.61B active) against dense baselines Qwen3-32B and Yi-34B across multiple dimensions. We measure true time-to-first-token (TTFT), full-decode throughput (TPOT), end-to-end latency percentiles, peak VRAM with past key values (PKV) held, and energy via a consistent nvidia-smi-based sampler. At a 2048-token context with 64-token decode, GPT-OSS-20B delivers higher decode throughput and tokens per Joule than dense baselines Qwen3-32B and Yi-34B, while substantially reducing peak VRAM and energy per 1000 generated tokens; its TTFT is higher due to MoE routing overhead. With only 17.3% of parameters active (3.61B of 20.9B), GPT-OSS-20B provides about 31.8% higher decode throughput and 25.8% lower energy per 1000 generated tokens than Qwen3-32B at 2048/64, while using 31.7% less peak VRAM. Normalized by active parameters, GPT-OSS-20B shows markedly stronger per-active-parameter efficiency (APE), underscoring MoE's deployment advantages. We do not evaluate accuracy; this is a deployment-focused study. We release code and consolidated results to enable replication and extension.
+
+我们针对密度基准Quwen3-32B和Yi-34B进行单一GPU(H100, bf16)评价。 我们测量的是真实的一到一对一(TTFT)、全解码通量(TPOT)、终端到终端的中位百分点、持有过去关键值(PKV)的VRAM峰值以及通过一个一致的 nvidia-smi 样板(PKV) 解码(共20.9B) 的高级 VRAM(共20.9B) 和能量。 在2048tok(共64吨解码,约3.61B)的背景下,GPT-OS-20B提供比密度基准Queen QWwen3-32B 高的解码量和符号。我们测量的是真正的VRAM和能量每1000个商品的峰值;它的TTFT因移动路标值(PE)而高。只有17.3%的参数(我们每20.9B)的升级,GPT-20B没有进行精确的升级。 GPT-2038的升级的升级的部署,而提供大约31.8%的比S-RIS-rdexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx。
+
+---
+
+## Article 85
+### Title@2025-08-22 (5): Dynamic Optimization of Storage Systems Using Reinforcement Learning   Techniques
+
+**Title**: Dynamic Optimization of Storage Systems Using Reinforcement Learning   Techniques | Dynamische Optimierung von Speichersystemen unter Einsatz von Verstärkungs-Lerntechniken | 使用强化学习技术的储存系统动态优化 [2501.00068v2](http://arxiv.org/abs/2501.00068v2)
+
+**Authors** (3): Chiyu Cheng, Chang Zhou, Yang Zhao
+
+The exponential growth of data-intensive applications has placed unprecedented demands on modern storage systems, necessitating dynamic and efficient optimization strategies. Traditional heuristics employed for storage performance optimization often fail to adapt to the variability and complexity of contemporary workloads, leading to significant performance bottlenecks and resource inefficiencies. To address these challenges, this paper introduces RL-Storage, a novel reinforcement learning (RL)-based framework designed to dynamically optimize storage system configurations. RL-Storage leverages deep Q-learning algorithms to continuously learn from real-time I/O patterns and predict optimal storage parameters, such as cache size, queue depths, and readahead settings[1].This work underscores the transformative potential of reinforcement learning techniques in addressing the dynamic nature of modern storage systems. By autonomously adapting to workload variations in real time, RL-Storage provides a robust and scalable solution for optimizing storage performance, paving the way for next-generation intelligent storage infrastructures.
+
+数据密集型应用的指数式增长对现代储存系统提出了前所未有的要求,要求采取动态和有效的优化战略;为优化储存性能而采用的传统惯性往往无法适应当代工作量的变异性和复杂性,导致重大的业绩瓶颈和资源效率低下;为应对这些挑战,本文件介绍了基于RL-Storage的新颖强化学习(RL-Storage)框架,旨在动态优化储存系统配置;RL-Storage利用深层次的Q-学习算法,不断从实时I/O模式中学习,预测最佳储存参数,如缓存大小、排队深度和读头设置[1]。 这项工作强调了强化学习技术在应对现代储存系统的动态性质方面的变革潜力;通过在实时上自主适应工作量的变化,RL-Storage为优化储存性提供了强有力和可扩展的解决方案,为下一代智能储存基础设施铺平了道路。
+
+---
+
+## Article 86
+### Title@2025-08-22 (5): BandPilot: Towards Performance-Aware GPU Dispatching in AI Clusters
+
+**Title**: BandPilot: Towards Performance-Aware GPU Dispatching in AI Clusters | BandPilot: Auf dem Weg zur Performance-Aware-GPU Dispatching in KI-Clustern | BandPilot:争取在AI 类集中进行性能软件 GPU 调度 [2506.15595v3](http://arxiv.org/abs/2506.15595v3)
+
+**Authors** (4): Kunming Zhang, Hanlong Liao, Junyu Xue, Guoming Tang
+
+In modern AI clusters, the performance of parallel computing critically depends on the communication bandwidth among the allocated GPUs. Existing GPU dispatchers rely on static, locality-based heuristics that prioritize resource compactness. However, this approach proves suboptimal as it overlooks key performance factors. We introduce BandPilot, a performance-aware GPU dispatching system that maximizes effective communication bandwidth while eliminating manual topology configuration. BandPilot addresses the dispatching problem in two stages: i) a hierarchical Transformer model that accurately predicts end-to-end NCCL bandwidth for arbitrary GPU configurations, and ii) a lightweight search algorithm combining an Equilibrium-driven Heuristic with Pruned Tree Search to identify near-optimal GPU allocations. We implement and evaluate BandPilot on a real-world AI cluster and in trace-driven simulations. Experimental results demonstrate that BandPilot consistently achieves high bandwidth efficiency with negligible overhead, outperforming state-of-the-art topology-aware dispatchers by $12\sim 31\%$ across diverse AI cluster configurations.
+
+在现代AI类组中,平行计算的业绩在很大程度上取决于分配的GPU之间的通信带宽。现有的 GPU调度器依赖于静态的、基于地点的超光速的、优先考虑资源紧凑性的静态、基于地点的超光速的发送器。 然而,这一方法证明不理想,因为它忽略了关键性能因素。 我们引入了有性能的GPU发送系统BandPilot,这是一个能最大限度地提高有效通信带宽,同时消除手动地形结构。 BandPilot分两个阶段处理发送问题:i) 一个等级变压器模型,精确预测任意性GPU配置的NCCL带宽到终端,以及ii) 一个轻量级搜索算法,将平衡驱动的Heurist和普林氏树搜索相结合,以确定接近最佳的GPUPU分配量。我们在现实世界的AI集群和微动模拟中实施和评价BandPilot。实验结果表明,BandPilot始终以微不足道的间接费用和超强的顶端的顶级顶级顶级顶级顶级顶级顶级顶级顶级发送器,以12\sim 31 。
+
+---
+
+## Article 87
+### Title@2025-08-21 (4): MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI   Applications
+
+**Title**: MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI   Applications | MSCCL++: Überdenken von GPU-Kommunikationsabzügen für modernste KI-Anwendungen | MSCCL++: 重新思考GPU 用于尖端AI 应用的 GPU 通信摘要 [2504.09014v3](http://arxiv.org/abs/2504.09014v3)
+
+**Authors** (13): Aashaka Shah, Abhinav Jangda, Binyang Li, Caio Rocha, Changho Hwang, Jithin Jose, Madan Musuvathi, Olli Saarikivi, Peng Cheng, Qinghua Zhou, Roshan Dathathri, Saeed Maleki, Ziyue Yang
+
+Modern cutting-edge AI applications are being developed over fast-evolving, heterogeneous, nascent hardware devices. This requires frequent reworking of the AI software stack to adopt bottom-up changes from new hardware, which takes time for general-purpose software libraries. Consequently, real applications often develop custom software stacks optimized for their specific workloads and hardware. Custom stacks help in quick development and optimization, but incur a lot of redundant efforts across applications in writing non-portable code. This paper discusses an alternative communication library interface for AI applications that offers both portability and performance by reducing redundant efforts while maintaining flexibility for customization. We present MSCCL++, a novel abstraction of GPU communication based on separation of concerns: (1) a primitive interface provides a minimal hardware abstraction as a common ground for software and hardware developers to write custom communication, and (2) higher-level portable interfaces and specialized implementations enable optimization for different workloads and hardware environments. This approach makes the primitive interface reusable across applications while enabling highly flexible optimization. Compared to state-of-the-art baselines (NCCL, RCCL, and MSCCL), MSCCL++ achieves speedups of up to 5.4$\times$ for collective communication and up to 15% for real-world AI inference workloads. MSCCL++ is in production of multiple AI services provided by Microsoft Azure, and is also adopted by RCCL, the GPU collective communication library maintained by AMD. MSCCL++ is open-source and available at https://github.com/microsoft/mscclpp.
+
+正在针对快速发展、多样化和新兴硬件设备开发现代尖端的AI应用软件。这需要经常地对AI软件堆进行重整,以采用新硬件的自下而上的变化,这需要一般用途软件库花费时间。因此,真正的应用常常开发定制软件堆堆,优化其特定的工作量和硬件。定制堆叠有助于快速开发和优化,但在各种应用中,在非单式代码的写法方面需要大量重复努力。本文件讨论了AI应用程序的替代通信图书馆界面,通过减少多余的工作,同时保持定制的灵活性,提供可移植性和性能。 我们介绍了MSCCL++,这是GPU通信的新型抽象,基于对各种关切的分解:(1) 原始界面为软件和硬件开发者提供了最低限度的硬件抽象化基础,作为编写定制通信和硬件的优化。 更高层次的便携式界面和专门实施系统有助于优化不同工作量和硬件环境。 这种方法使原始界面在各种应用中可重复使用,同时允许高度灵活地优化通信。通过开放的基线(NCCL、RCL和MSCLCL)、MSC+++17在标准上实现了15美元(MSCB)的AS-G) AS-CRBRB 的快速生产到15美元和AS-CRBRAS-CM AS-CLUDRBR 15xxxxxxxxxxxxxxxxx 15x AS AS AS AS ASxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+---
+
+## Article 88
+### Title@2025-08-21 (4): ASIC-Agent: An Autonomous Multi-Agent System for ASIC Design with   Benchmark Evaluation
+
+**Title**: ASIC-Agent: An Autonomous Multi-Agent System for ASIC Design with   Benchmark Evaluation | ASIC-Agent: Ein autonomes Multi-Agenten-System für ASIC-Design mit Benchmark-Bewertung | ASIC-ASIC机构:有基准评价的ACIC设计自主多机构机构系统 [2508.15940v1](http://arxiv.org/abs/2508.15940v1)
+
+**Authors** (3): Ahmed Allam, Youssef Mansour, Mohamed Shalan
+
+Large Language Models (LLMs) have demonstrated remarkable capabilities in Register Transfer Level (RTL) design, enabling high-quality code generation from natural language descriptions. However, LLMs alone face significant limitations in real-world hardware design workflows, including the inability to execute code, lack of debugging capabilities, and absence of long-term memory. To address these challenges, we present ASIC-Agent, an autonomous system designed specifically for digital ASIC design tasks. ASIC-Agent enhances base LLMs with a multi-agent architecture incorporating specialized sub-agents for RTL generation, verification, OpenLane hardening, and Caravel chip integration, all operating within a comprehensive sandbox environment with access to essential hardware design tools. The system leverages a vector database containing documentation, API references, error knowledge, and curated insights from the open-source silicon community. To evaluate ASIC-Agent's performance, we introduce ASIC-Agent-Bench, the first benchmark specifically designed to assess agentic systems in hardware design tasks. We evaluate ASIC-Agent with various base LLMs, providing quantitative comparisons and qualitative insights into agent behavior across different design scenarios. Our results demonstrate that ASIC-Agent, when powered by Claude 4 Sonnet, successfully automates a broad range of ASIC design tasks spanning varying levels of complexity, showing the potential of significantly accelerating the ASIC design workflow.
+
+大型语言模型(LLMS)在登记册传输级别设计上表现出了非凡的能力,使高质量的代码能够从自然语言描述中生成,然而,单是LLMS在现实世界硬件设计工作流程中面临重大限制,包括无法执行代码,缺乏调试能力,缺乏长期记忆。为了应对这些挑战,我们介绍了ASIC代理系统,这是一个专为数字的ASIC设计任务设计的自主系统。ASIC代理系统加强了基础LMS,它有一个包含TRL生成、核查、OpenLane硬化和Caravel芯片整合等专门分剂的多试剂结构。我们以各种基础LOMS为对象,在全面沙箱环境中运作,并获得基本硬件设计工具。该系统利用一个包含文件、API参考、错误知识的矢量数据库,以及来自开放源的硅社区的精辟见解。为了评估ASICA代理商的绩效,我们引入了ASICIS-A-A-Bench,这是专门设计硬件设计任务的首个基准,用于评估代理系统,包括各种基础LMSLMSU,提供定量比较的定量比较和定性的SISICA的系统,通过不同设计方案展示A的A级的A级设计结果,从而显示A级的A级的高级设计结果。
+
+---
+
+## Article 89
+### Title@2025-08-21 (4): HyperFlexis: Joint Design of Algorithms and Systems for Multi-SLO   Serving and Fast Scaling
+
+**Title**: HyperFlexis: Joint Design of Algorithms and Systems for Multi-SLO   Serving and Fast Scaling | HyperFlexis: Gemeinsames Design von Algorithmen und Systemen für Multi-SLO-Skalierung und -Skalierung | 超硬缩:多功能服务和快速缩放的数值和系统联合设计 [2508.15919v1](http://arxiv.org/abs/2508.15919v1)
+
+**Authors** (15): Zahra Yousefijamarani, Xinglu Wang, Qian Wang, Morgan Lindsay Heisler, Taha Shabani, Niloofar Gholipour, Parham Yassini, Hong Chang, Kan Chen, Qiantao Zhang, Xiaolong Bai, Jiannan Wang, Ying Xiong, Yong Zhang, Zhenan Fan
+
+Modern large language model (LLM) serving systems face challenges from highly variable requests with diverse lengths, priorities, and stage-specific service-level objectives (SLOs). Meeting these requires real-time scheduling, rapid and cost-effective scaling, and support for both collocated and disaggregated Prefill/Decode (P/D) architectures.   We present \textbf{HyperFlexis}, a unified LLM serving system that integrates algorithmic and system-level innovations to jointly optimize scheduling and scaling under multiple SLOs. It features a multi-SLO-aware scheduler that leverages budget estimation and request prioritization to ensure proactive SLO compliance for both new and ongoing requests. The system supports prefill- and decode-stage multi-SLO scheduling for P/D-disaggregated architectures and KV cache transfers. It also enables cost-effective scaling decisions, prefill-decode instance linking during scaling, and rapid P/D role transitions. To accelerate scaling and reduce cold-start latency, a device-to-device (D2D) weight transfer mechanism is proposed that lowers weight loading overhead by up to \textbf{19.39$\times$}. These optimizations allow the system to achieve up to \textbf{4.44$\times$} higher SLO attainment, \textbf{65.82\%} lower request latency, and cost parity with state-of-the-art baselines. The code will be released soon.
+
+现代大型语言模式(LLM)服务系统面临来自不同长度、优先事项和特定阶段服务级别目标的高度变化性要求的挑战,满足这些要求需要实时列表、快速和具有成本效益的推广,以及支持合用和分解的P/D预填/Decode(P/D)结构。我们介绍一个统一的LLM服务系统,将算法和系统级创新结合起来,以在多个SLO下共同优化时间安排和规模。它有一个多SLO认知的排程器,利用预算估算和请求优先排序,以确保在新的和正在进行的请求中都积极主动地遵守SLO。这个系统支持P/D分列架构和KV缓存传输的预填和解码多版本多版本安排。它还能够做出具有成本效益的扩展决定,在缩放过程中和快速的P/D角色转换过程中连接。为了加速缩放和减少冷启动的LALO,一个设备到设计(D2D)加权转移机制,可以很快将较低的重量装入P/DRO 直至S-r_rental_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+---
+
+## Article 90
+### Title@2025-08-21 (4): Power Stabilization for AI Training Datacenters
+
+**Title**: Power Stabilization for AI Training Datacenters | Leistungsstabilisierung für KI-Trainings-Rechenzentren | AI 稳定电力用于AI培训数据中心 [2508.14318v2](http://arxiv.org/abs/2508.14318v2)
+
+**Authors** (57): Esha Choukse, Brijesh Warrier, Scot Heath, Luz Belmont, April Zhao, Hassan Ali Khan, Brian Harry, Matthew Kappel, Russell J. Hewett, Kushal Datta, Yu Pei, Caroline Lichtenberger, John Siegler, David Lukofsky, Zaid Kahn, Gurpreet Sahota, Andy Sullivan, Charles Frederick, Hien Thai, Rebecca Naughton, Daniel Jurnove, Justin Harp, Reid Carper, Nithish Mahalingam, Srini Varkala, Alok Gautam Kumbhare, Satyajit Desai, Venkatesh Ramamurthy, Praneeth Gottumukkala, Girish Bhatia, Kelsey Wildstone, Laurentiu Olariu, Ileana Incorvaia, Alex Wetmore, Prabhat Ram, Melur Raghuraman, Mohammed Ayna, Mike Kendrick, Ricardo Bianchini, Aaron Hurst, Reza Zamani, Xin Li, Michael Petrov, Gene Oden, Rory Carmichael, Tom Li, Apoorv Gupta, Pratikkumar Patel, Nilesh Dattani, Lawrence Marwong, Rob Nertney, Hirofumi Kobayashi, Jeff Liott, Miro Enev, Divya Ramakrishnan, Ian Buck, Jonah Alben
+
+Large Artificial Intelligence (AI) training workloads spanning several tens of thousands of GPUs present unique power management challenges. These arise due to the high variability in power consumption during the training. Given the synchronous nature of these jobs, during every iteration there is a computation-heavy phase, where each GPU works on the local data, and a communication-heavy phase where all the GPUs synchronize on the data. Because compute-heavy phases require much more power than communication phases, large power swings occur. The amplitude of these power swings is ever increasing with the increase in the size of training jobs. An even bigger challenge arises from the frequency spectrum of these power swings which, if harmonized with critical frequencies of utilities, can cause physical damage to the power grid infrastructure. Therefore, to continue scaling AI training workloads safely, we need to stabilize the power of such workloads. This paper introduces the challenge with production data and explores innovative solutions across the stack: software, GPU hardware, and datacenter infrastructure. We present the pros and cons of each of these approaches and finally present a multi-pronged approach to solving the challenge. The proposed solutions are rigorously tested using a combination of real hardware and Microsoft's in-house cloud power simulator, providing critical insights into the efficacy of these interventions under real-world conditions.
+
+大型人工智能(AI)培训工作量涉及数以万万计的GPU,这带来了独特的电力管理挑战。由于培训期间电流消耗量的波动性很大,因此这些工作具有同步性。鉴于这些工作具有同步性,在每次迭代期间,每个GPU都使用当地数据,每个GPU都使用当地数据,而通信高度,所有GPU都同步使用数据。因为计算重得多的阶段需要比通信阶段多得多的动力,因此出现了巨大的电力波动。随着培训工作规模的增加,这些电流的振幅越来越大。由于这些电流的频率频谱,如果与公用事业的关键频率相协调,就会对电网基础设施造成实际损害,因此,为了继续安全地扩大AI培训工作量,我们需要稳定这些工作量的能量。这份文件提出了生产数据的挑战,并探索了整个堆叠的创新性解决方案:软件、GPU硬件和数据中心基础设施。我们把这些实际方法的大小都放在一起,我们展示了这些实际方法的准和折中。
+
+---
+
+## Article 91
+### Title@2025-08-21 (4): Mitigating context switching in densely packed Linux clusters with   Latency-Aware Group Scheduling
+
+**Title**: Mitigating context switching in densely packed Linux clusters with   Latency-Aware Group Scheduling | Kontext-Umschaltung in dicht gepackten Linux-Clustern mit Latency-Aware Group Scheduling | 与Latency-Aware Group日程安排一起在密集包装的Linux群集中进行环境变换 [2508.15703v1](http://arxiv.org/abs/2508.15703v1)
+
+**Authors** (3): Al Amjad Tawfiq Isstaif, Evangelia Kalyvianaki, Richard Mortier
+
+Cluster orchestrators such as Kubernetes depend on accurate estimates of node capacity and job requirements. Inaccuracies in either lead to poor placement decisions and degraded cluster performance. In this paper, we show that in densely packed workloads, such as serverless applications, CPU context switching overheads can become so significant that a node's performance is severely degraded, even when the orchestrator placement is theoretically sound. In practice this issue is typically mitigated by over-provisioning the cluster, leading to wasted resources.   We show that these context switching overhead arise from both an increase in the average cost of an individual context switch and a higher rate of context switching, which together amplify overhead multiplicatively when managing large numbers of concurrent cgroups, Linux's group scheduling mechanism for managing multi-threaded colocated workloads. We propose and evaluate modifications to the standard Linux kernel scheduler that mitigate these effects, achieving the same effective performance with a 28% smaller cluster size. The key insight behind our approach is to prioritise task completion over low-level per-task fairness, enabling the scheduler to drain contended CPU run queues more rapidly and thereby reduce time spent on context switching.
+
+Kubernetes 等集束管弦乐队取决于节点容量和工作要求的准确估计。 组合管弦乐队的不准确性导致定位决定不力和集束性能退化。 在本文中, 我们显示, 在诸如无服务器应用程序等密集包装工作量中, CPU 环境切换管理费用会变得如此之大, 以致节点的性能会严重退化, 即使管弦乐队的布局理论上是健全的。 实际上, 这个问题通常会通过多提供集束来缓解, 导致资源浪费。 我们发现, 这些环境转换管理费用来自个人上下文切换的平均费用的增加和上下文切换率的提高, 在管理大量并行的组群时, CPU 管理多读合用的工作时, CPU 的组排程机制会倍增高。 我们提议并评价对减少这些影响的标准 Linux 内核内核排排程的修改, 以更小的集束尺寸达到同样的有效性能, 导致资源浪费。 我们的方法背后的关键洞察力是, 将任务完成比低层次的任务完成低层次的每个任务公平性调整, 使排流控制排队列的排队速度能够更快地转换。
+
+---
+
+## Article 92
+### Title@2025-08-21 (4): Cooperative SGD with Dynamic Mixing Matrices
+
+**Title**: Cooperative SGD with Dynamic Mixing Matrices | Kooperative SGD mit dynamischen Mischmatrizen | SGD 与动态混合矩阵合作 [2508.14565v2](http://arxiv.org/abs/2508.14565v2)
+
+**Authors** (2): Soumya Sarkar, Shweta Jain
+
+One of the most common methods to train machine learning algorithms today is the stochastic gradient descent (SGD). In a distributed setting, SGD-based algorithms have been shown to converge theoretically under specific circumstances. A substantial number of works in the distributed SGD setting assume a fixed topology for the edge devices. These papers also assume that the contribution of nodes to the global model is uniform. However, experiments have shown that such assumptions are suboptimal and a non uniform aggregation strategy coupled with a dynamically shifting topology and client selection can significantly improve the performance of such models. This paper details a unified framework that covers several Local-Update SGD-based distributed algorithms with dynamic topologies and provides improved or matching theoretical guarantees on convergence compared to existing work.
+
+当今最常用的机械学习算法培训方法之一是随机梯度下降(SGD)。在分布式环境中,SGD的算法显示在特定情况下理论上趋于一致。分布式SGD设置中的大量工程假定边缘装置具有固定的地形学。这些文件还假定节点对全球模型的贡献是统一的。然而,实验表明,这些假设不尽人意,而且非统一的组合战略,加上动态变化式的地形学和客户选择,可以大大改善这些模型的性能。本文详细介绍了一个统一框架,涵盖若干基于本地更新SGD的分布式算法,并带有动态地形学,为与现有工作趋同提供更好的或匹配的理论保证。
+
+---
+
+## Article 93
+### Title@2025-08-21 (4): CausalMesh: A Formally Verified Causal Cache for Stateful Serverless   Computing
+
+**Title**: CausalMesh: A Formally Verified Causal Cache for Stateful Serverless   Computing | CausalMesh: Ein formal verifizierter Causal Cache für Stateful Serverless Computing | CausalMesh: 国家无服务器计算机正式验证的 Causal Causal Caess 缓存 [2508.15647v1](http://arxiv.org/abs/2508.15647v1)
+
+**Authors** (5): Haoran Zhang, Zihao Zhang, Shuai Mu, Sebastian Angel, Vincent Liu
+
+Stateful serverless workflows consist of multiple serverless functions that access state on a remote database. Developers sometimes add a cache layer between the serverless runtime and the database to improve I/O latency. However, in a serverless environment, functions in the same workflow may be scheduled to different nodes with different caches, which can cause non-intuitive anomalies. This paper presents CausalMesh, a novel approach to causally consistent caching in environments where a computation may migrate from one machine to another, such as in serverless computing. CausalMesh is the first cache system that supports coordination-free and abort-free read/write operations and read transactions when clients roam among multiple servers. CausalMesh also supports read-write transactional causal consistency in the presence of client roaming, but at the cost of abort-freedom.   We have formally verified CausalMesh's protocol in Dafny, and our experimental evaluation shows that CausalMesh has lower latency and higher throughput than existing proposals
+
+无状态服务器的工作流程由多个无服务器功能组成,这些功能可以在远程数据库中访问状态。 开发者有时会在无运行时间的服务器和数据库之间添加缓存层, 以改善 I/ O 长期性。 但是, 在无服务器的环境中, 同一工作流程中的功能可以排在不同节点上, 不同的缓存可导致非直观的异常。 本文展示了 CausalMesh , 这是在计算可能从一个机器向另一个机器迁移的环境( 如无服务器的计算)中进行因果一致的缓存的新方法。 CausalMesh 是第一个支持协调、 中止的读/ 写操作, 以及当客户在多个服务器之间流动时读取交易的缓存系统。 CausalMesh 也支持在客户漫游时进行读写交易的因果关系一致性, 但代价是中止自由。 我们已经正式验证了 CausalMesh 在 Dafny 的协议, 我们的实验评估显示, CausalMesh 的通量比现有建议要低一点, 多。
+
+---
+
+## Article 94
+### Title@2025-08-21 (4): Scalable Time-Series Causal Discovery with Approximate Causal Ordering
+
+**Title**: Scalable Time-Series Causal Discovery with Approximate Causal Ordering | Skalierbare Zeit-Serie Causal Discovery mit annähernder Causal Ordering | 可缩缩的时序因果系列 发现带有近似因果排序的诱因 [2409.05500v3](http://arxiv.org/abs/2409.05500v3)
+
+**Authors** (3): Ziyang Jiao, Ce Guo, Wayne Luk
+
+Causal discovery in time-series data presents a significant computational challenge. Standard algorithms are often prohibitively expensive for datasets with many variables or samples. This study introduces and validates a heuristic approximation of the VarLiNGAM algorithm to address this scalability problem. The standard VarLiNGAM method relies on an iterative search, recalculating statistical dependencies after each step. Our heuristic modifies this procedure by omitting the iterative refinement. This change permits a one-time precomputation of all necessary statistical values. The algorithmic modification reduces the time complexity from $O(m^3n)$ to $O(m^2n + m^3)$ while keeping the space complexity at $O(m^2)$, where $m$ is the number of variables and $n$ is the number of samples. While an approximation, our approach retains VarLiNGAM's essential structure and empirical reliability. On large-scale financial data with up to 400 variables, our algorithm achieves a 7--13x speedup over the standard implementation and a 4.5x speedup over a GPU-accelerated version. Evaluations across medical imaging, web server monitoring, and finance demonstrate the heuristic's robustness and practical scalability. This work offers a validated balance between computational efficiency and discovery quality, making large-scale causal analysis feasible on personal computers.
+
+时间序列数据中的因果发现是一个巨大的计算挑战。 标准算法对于包含许多变数或样本的数据集来说往往过于昂贵。 本研究介绍并验证了 VarLiNGAM 算法的超光速近似值,以解决这一可缩放问题。 VarLinGAM 标准方法依赖于迭接搜索,在每步之后重新计算统计依赖性。 我们的偏执性通过略去迭接合调整来改变这一程序。 这一修改允许一次性地预先计算所有必要的统计值。 算法的修改将时间复杂性从1美元(m%3n)降低至1美元(m%2n +m%3),同时将空间复杂性保持在$O(m%2) 上。 标准 VarliNGNGAM 方法依靠的是反复搜索, 并在每步后重新计算一次统计数据。 我们的方法保留了 VarLiNGAM 的基本结构和经验可靠性。 在有400个变量的大规模财务数据方面, 我们的算法实现了7- 13x 加速标准实施速度, 和4.5x 加速速度速度, 使GPU- serviewalalalalalalimalalalalalalalalalal 提供一个有效的医学和 。
+
+---
+
+## Article 95
+### Title@2025-08-21 (4): Efficient Mixed-Precision Large Language Model Inference with TurboMind
+
+**Title**: Efficient Mixed-Precision Large Language Model Inference with TurboMind | Effiziente Mixed-Precision Großsprachige Modellinferenz mit TurboMind | 与TurboMind的高效混合精密大语言模型推断 [2508.15601v1](http://arxiv.org/abs/2508.15601v1)
+
+**Authors** (8): Li Zhang, Youhe Jiang, Guoliang He, Xin Chen, Han Lv, Qian Yao, Fangcheng Fu, Kai Chen
+
+Mixed-precision inference techniques reduce the memory and computational demands of Large Language Models (LLMs) by applying hybrid precision formats to model weights, activations, and KV caches. This work introduces mixed-precision LLM inference techniques that encompass (i) systematic memory and compute optimization across hierarchical storage and tensor core architectures, and (ii) comprehensive end-to-end mixed-precision optimization across diverse precision formats and hardware configurations. Our approach features two novel mixed-precision pipelines designed for optimal hardware utilization: a General Matrix Multiply (GEMM) pipeline that optimizes matrix operations through offline weight packing and online acceleration, and an attention pipeline that enables efficient attention computation with arbitrary Query, Key, and Value precision combinations. The key implementation of the pipelines includes (i) hardware-aware weight packing for automatic format optimization, (ii) adaptive head alignment for efficient attention computation, (iii) instruction-level parallelism for memory hierarchy exploitation, and (iv) KV memory loading pipeline for enhanced inference efficiency. We conduct comprehensive evaluations across 16 popular LLMs and 4 representative GPU architectures. Results demonstrate that our approach achieves up to 61% lower serving latency (30% on average) and up to 156% higher throughput (58% on average) in mixed-precision workloads compared to existing mixed-precision frameworks, establishing consistent performance improvements across all tested configurations and hardware types. This work is integrated into TurboMind, a high-performance inference engine of the LMDeploy project, which is open-sourced and publicly available at https://github.com/InternLM/lmdeploy.
+
+混合精密推断技术减少了大语言模型(LLMS)的内存和计算需求,对模型重量、启动和 KV 缓冲器采用混合精密格式,从而降低大语言模型(LLMS)的内存和计算需求。这项工作引入混合精密 LLM 推断技术,包括(一) 等级储存和高压核心结构的系统内存和计算优化,以及(二) 各种精确格式和硬件配置的全面端至端混合精密优化。我们的方法包括两个为优化硬件利用设计的新型混合精密管道:一个通用Mitalblockly(GEMM)管道,通过离线性重量包装和在线加速优化矩阵操作,以及一个关注管道,使得能够以任意的Query、Key和价值精密组合进行高效的计算。管道的主要实施包括(一) 用于自动格式优化的硬件比重包装,(二) 高效的注意力计算,(三) 利用记忆层层层的平行操作,以及(四) KV 内装的内存改进管道,以提高效率。我们在16个通用LMS和4级的混合精度结构中进行全面评价。
+
+---
+
+## Article 96
+### Title@2025-08-21 (4): Lower Bounds for $k$-Set Agreement in Fault-Prone Networks
+
+**Title**: Lower Bounds for $k$-Set Agreement in Fault-Prone Networks | Niedrigere Bounds für $k$-Set-Vereinbarung in Fault-Prone-Netzwerken | 违约/项目网络中以美元-美元协议为基础的下下界封口 [2508.15562v1](http://arxiv.org/abs/2508.15562v1)
+
+**Authors** (5): Pierre Fraigniaud, Minh Hang Nguyen, Ami Paz, Ulrich Schmid, Hugo Rincon Galeana
+
+We develop a new lower bound for k-set agreement in synchronous message-passing systems connected by an arbitrary directed communication network, where up to t processes may crash. Our result thus generalizes the t/k+1 lower bound for complete networks in the t-resilient model by Chaudhuri, Herlihy, Lynch, and Tuttle [JACM'00]. Moreover, it generalizes two lower bounds for oblivious algorithms in synchronous systems connected by an arbitrary undirected communication network known to the processes, namely, the domination number-based lower bound by Castaneda, Fraigniaud, Paz, Rajsbaum, Roy, and Travers [TCS'21] for failure-free processes, and the radius-based lower bound in the t-resilient model by Fraigniaud, Nguyen, and Paz [STACS'24].   Our topological proof non-trivially generalizes and extends the connectivity-based approach for the complete network, as presented in the book by Herlihy, Kozlov, and Rajsbaum (2013). It is based on a sequence of shellable carrier maps that, starting from a shellable input complex, determine the evolution of the protocol complex: During the first t/k rounds, carrier maps that crash exactly k processes per round are used, ensuring high connectivity of their images. A Sperner's lemma style argument is used to prove that k-set agreement is still impossible by that round. From round t/k+1 up to our lower bound, we employ a novel carrier map that maintains high connectivity. Our proof also provides a strikingly simple lower bound for k-set agreement in synchronous systems with an arbitrary communication network with initial crashes. We express the resulting additional agreement overhead via an appropriately defined radius of the communication graphs. Finally, we prove that the usual input pseudosphere complex for k-set agreement can be replaced by an exponentially smaller input complex based on Kuhn triangulations, which we prove to be also shellable.
+
+我们开发了一个由任意定向通信网络连接到同步传递信息系统的K-set 协议的新的下限。 我们由此得出的结果是,Chaudhuri、Herlihy、 Lynch 和 Tuttle 的T-reslient 模式的t-reslient 协议的t/k+1 下限。 此外,它泛化了两个在同步传递信息系统中的隐含逻辑的下限,这些系统被一个过程所知道的任意且无方向的通信网络连接起来,即,Castaneda、Fraigniaudiault、Paz、Rajsbaum、Roy和Travers [TCS'21] 以无故障模式的t-k+1 下限连接到完整网络的t-set-settlemental 协议。 我们的表层证据非三流化且以直线连接方式扩展了整个网络的基于我们的历史协议, 正如Herlihy、Kozlov、Krajsbablational 的talalalalalalalalalalal 协议的基文件。
+
+---
+
+## Article 97
+### Title@2025-08-21 (4): On the $h$-majority dynamics with many opinions
+
+**Title**: On the $h$-majority dynamics with many opinions | Auf der $h$-Mehrheitsdynamik mit vielen Meinungen | 关于以美元为多数的动态, [2506.20218v3](http://arxiv.org/abs/2506.20218v3)
+
+**Authors** (4): Francesco d'Amore, Niccolò D'Archivio, George Giakkoupis, Emanuele Natale
+
+We present the first upper bound on the convergence time to consensus of the well-known $h$-majority dynamics with $k$ opinions, in the synchronous setting, for $h$ and $k$ that are both non-constant values. We suppose that, at the beginning of the process, there is some initial additive bias towards some plurality opinion, that is, there is an opinion that is supported by $x$ nodes while any other opinion is supported by strictly fewer nodes. We prove that, with high probability, if the bias is $\omega(\sqrt{x})$ and the initial plurality opinion is supported by at least $x = \omega(\log n)$ nodes, then the process converges to plurality consensus in $O(\log n)$ rounds whenever $h = \omega(n \log n / x)$. A main corollary is the following: if $k = o(n / \log n)$ and the process starts from an almost-balanced configuration with an initial bias of magnitude $\omega(\sqrt{n/k})$ towards the initial plurality opinion, then any function $h = \omega(k \log n)$ suffices to guarantee convergence to consensus in $O(\log n)$ rounds, with high probability. Our upper bound shows that the lower bound of $\Omega(k / h^2)$ rounds to reach consensus given by Becchetti et al. (2017) cannot be pushed further than $\widetilde{\Omega}(k / h)$. Moreover, the bias we require is asymptotically smaller than the $\Omega(\sqrt{n\log n})$ bias that guarantees plurality consensus in the $3$-majority dynamics: in our case, the required bias is at most any (arbitrarily small) function in $\omega(\sqrt{x})$ for any value of $k \ge 2$.
+
+在同步环境下,我们展示了在趋同时间的首个附加值 { 已知的 $ h$- 多数动态与 $k$ 意见的共识 。 我们认为, 在进程开始时, 有一些初始添加性偏向某些多元观点的偏向, 也就是说, 一种观点得到 $x 的偏向的支持, 而任何其他观点则得到 绝对更少的偏向的支持 。 我们证明, 很有可能, 如果偏差是$\ omga (\ sqrt{x} 美元) 和初始多元观点得到至少 $x =\ omga (\\ log n) 美元支持。 那么, 当 $ = 3 log n/ x 美元时, 进程会趋同 。 如果 $k = oq orma( n/ ilog n) 任何偏差( lig) , 则进程从初始偏差为 $\\ rock= 美元 美元 yal\\\ yal 函数显示, ral= $ leqm yal yal 。
+
+---
+
+## Article 98
+### Title@2025-08-21 (4): Universal Dancing by Luminous Robots under Sequential Schedulers
+
+**Title**: Universal Dancing by Luminous Robots under Sequential Schedulers | Universal Dancing by Luminous Robots unter Sequential Schedulers | 由按顺序排列的微微机器人普遍跳舞 [2508.15484v1](http://arxiv.org/abs/2508.15484v1)
+
+**Authors** (5): Caterina Feletti, Paola Flocchini, Debasish Pattanayak, Giuseppe Prencipe, Nicola Santoro
+
+The Dancing problem requires a swarm of $n$ autonomous mobile robots to form a sequence of patterns, aka perform a choreography. Existing work has proven that some crucial restrictions on choreographies and initial configurations (e.g., on repetitions of patterns, periodicity, symmetries, contractions/expansions) must hold so that the Dancing problem can be solved under certain robot models. Here, we prove that these necessary constraints can be dropped by considering the LUMI model (i.e., where robots are endowed with a light whose color can be chosen from a constant-size palette) under the quite unexplored sequential scheduler. We formalize the class of Universal Dancing problems which require a swarm of $n$ robots starting from any initial configuration to perform a (periodic or finite) sequence of arbitrary patterns, only provided that each pattern consists of $n$ vertices (including multiplicities). However, we prove that, to be solvable under LUMI, the length of the feasible choreographies is bounded by the compositions of $n$ into the number of colors available to the robots. We provide an algorithm solving the Universal Dancing problem by exploiting the peculiar capability of sequential robots to implement a distributed counter mechanism. Even assuming non-rigid movements, our algorithm ensures spatial homogeneity of the performed choreography.
+
+舞蹈问题需要一组美元自主移动机器人来形成一系列模式, aka 进行舞蹈。 现有工作已经证明,对舞蹈和初始配置(如模式重复、周期性、对称性、收缩/扩缩)必须保持一些关键的限制,以便在某些机器人模型下解决舞蹈问题。 这里, 我们证明,考虑到LUMI模式(即机器人拥有一种光线,其颜色可以从一个不变大小的调色板中选择),可以减少这些必要的限制。 我们正式确定对舞蹈和初始配置(例如,关于模式重复、周期性、对称性、收缩/扩缩)的一些关键限制,要求从任何初始配置开始的一大批美元机器人来进行任意模式的(定期或限量)序列。 我们证明,考虑到LUMI模式(即机器人拥有一种光线性,其颜色可以从一个固定大小调色调调中选择出)的色调。 我们通过机器人的配置,将一个可操作的不固定的旋转性变式的变式的变式的变式的变式的变式的变式的变式,通过我们可以将一个稳定的机器人变式的变式的变式的变式变的变式变的变的变的变的变的变的变的变的变的变的变的变的变的变的变的变的变式的变式, 。
+
+---
+
+## Article 99
+### Title@2025-08-21 (4): On the Effectiveness of Graph Reordering for Accelerating Approximate   Nearest Neighbor Search on GPU
+
+**Title**: On the Effectiveness of Graph Reordering for Accelerating Approximate   Nearest Neighbor Search on GPU | Über die Wirksamkeit der Graphenumstellung für die Beschleunigung der annähernd nächsten Nachbarschaftssuche auf der GPU | 加速近近邻搜索GPU的图表重新排序效果 [2508.15436v1](http://arxiv.org/abs/2508.15436v1)
+
+**Authors** (3): Yutaro Oguri, Mai Nishimura, Yusuke Matsui
+
+We present the first systematic investigation of graph reordering effects for graph-based Approximate Nearest Neighbor Search (ANNS) on a GPU. While graph-based ANNS has become the dominant paradigm for modern AI applications, recent approaches focus on algorithmic innovations while neglecting memory layout considerations that significantly affect execution time. Our unified evaluation framework enables comprehensive evaluation of diverse reordering strategies across different graph indices through a graph adapter that converts arbitrary graph topologies into a common representation and a GPU-optimized graph traversal engine. We conduct a comprehensive analysis across diverse datasets and state-of-the-art graph indices, introducing analysis metrics that quantify the relationship between structural properties and memory layout effectiveness. Our GPU-targeted reordering achieves up to 15$\%$ QPS improvements while preserving search accuracy, demonstrating that memory layout optimization operates orthogonally to existing algorithmic innovations. We will release all code upon publication to facilitate reproducibility and foster further research.
+
+我们首次系统地调查GPU上基于图形的近邻搜索(ANNS)的图形重新排序效果。虽然基于图形的ANNS已成为现代AI应用的主要范式,但最近的做法侧重于算法创新,而忽视了对执行时间有重大影响的记忆布局考虑。我们的统一评价框架使得能够通过图形调整器对不同图形指数的不同重新排序战略进行全面评估,该调整器将任意的图形表层转换为共同代表制和GPU优化的图形穿透引擎。我们将对不同的数据集和最新图表指数进行全面分析,引入量化结构属性与记忆布局有效性之间关系的分析指标。我们的GPU目标重新排序在保持搜索准确性的同时达到最高15 $+$QPS的改进,表明记忆布局优化在操作上或机械地对现有的算法创新起作用。我们将在出版时发布所有代码,以便于复制并促进进一步研究。
+
+---
+
+## Article 100
+### Title@2025-08-21 (4): Optimizing Cross-Client Domain Coverage for Federated Instruction Tuning   of Large Language Models
+
+**Title**: Optimizing Cross-Client Domain Coverage for Federated Instruction Tuning   of Large Language Models | Optimierung der Cross-Client Domain Coverage für die Federated Instruction Tuning von großen Sprachmodellen | 优化大语言模式联邦指示调整的跨气候域覆盖面 [2409.20135v6](http://arxiv.org/abs/2409.20135v6)
+
+**Authors** (6): Zezhou Wang, Yaxin Du, Xingjun Ma, Yugang Jiang, Zhuzhong Qian, Siheng Chen
+
+Federated domain-specific instruction tuning (FedDIT) for large language models (LLMs) aims to enhance performance in specialized domains using distributed private and limited data, yet identifying key performance drivers and optimal augmentation strategies remains challenging. We empirically establish that cross-client domain coverage, rather than data heterogeneity, is the pivotal factor. We then introduce FedDCA, an algorithm that explicitly maximizes this coverage through diversity-oriented client center selection and retrieval-based augmentation, constructing diverse, non-redundant cross-client instruction sets. Extensive experiments across multiple domains demonstrate FedDCA's superiority over eleven baselines, achieving performance gains of up to 29.19\% and domain coverage improvements of 4.82\%-21.36\%. FedDCA maintains its effectiveness in diverse and challenging scenarios, including data selection, held-out settings where task-specific public data is scarce and various data heterogeneity, with manageable privacy risks. This work clarifies critical FedDIT dynamics and presents FedDCA as an effective, privacy-preserving, and scalable solution for advancing domain-specific LLM tuning.
+
+为大型语言模型(LLMs)进行的联邦具体指导调整(FedDIT)旨在利用分布式私人和有限数据,提高专门领域的绩效,但确定关键绩效驱动因素和最佳增强战略仍具有挑战性。我们从经验上确定,跨客户域覆盖面而不是数据差异性是关键因素。我们随后引入FedDCA(FedDCA)算法,该算法通过面向多样性的客户中心选择和检索增强,明确将覆盖面最大化,构建多样、非冗余的跨客户教学套件。多个领域的广泛实验表明,FedDCA优于11个基线,实现了高达29.19 的绩效增益,域覆盖面改进4.82-21.36。FedDCA在各种具有挑战性的情景中保持其有效性,包括数据选择,在特定任务公共数据稀缺和各种数据差异性的情况下,存在易于管理隐私风险。这项工作澄清了FDDIT的动态,并将FedDCA作为推进特定域LM调整的有效、隐私保护和可扩展的解决方案。
+
+---
+
+## Article 101
+### Title@2025-08-21 (4): SparkAttention: High-Performance Multi-Head Attention for Large Models   on Volta GPU Architecture
+
+**Title**: SparkAttention: High-Performance Multi-Head Attention for Large Models   on Volta GPU Architecture | SparkAchtung: Hochleistungs-Mehrkopf-Achtung für große Modelle auf Volta GPU-Architektur | SparkAttention: Volta GPU 建筑大模型的高性能多级关注 [2502.12784v3](http://arxiv.org/abs/2502.12784v3)
+
+**Authors** (5): Youxuan Xu, Tong Wu, Shigang Li, Xueying Wang, Jingjing Wang
+
+Transformer are widely used in various fields such as natural language processing and computer vision. However, the training time for large Transformer models can be challenging due to the Multi-Head Attention (MHA) mechanism. Especially as models become larger, training becomes more costly. So it is crucial to utilize various resources for efficient model training. Currently, NVIDIA Volta GPU is still widely used. However, because the computational shapes supported by Tensor Core Units (TCU) of Volta GPU differ from other GPU architectures, most efforts have not focused on using them to accelerate Transformer training. To address this issue, we propose SparkAttention, an acceleration library designed to speed up MHA training on the Volta GPU. SparkAttention leverages TCU and kernel fusion to reduce the number of high bandwidth memory (HBM) accesses and overhead. Our End-to-End experimental results on an NVIDIA V100 GPU show that SparkAttention achieves on average 1.80$\times$ (up to 2.46$\times$) speedup compared to using PyTorch.
+
+在自然语言处理和计算机视觉等不同领域广泛使用变压器,然而,大型变压器模型的培训时间由于多领导人关注机制(MHA)而具有挑战性。特别是随着模型的扩大,培训成本会更高。因此,利用各种资源进行高效模型培训至关重要。目前,NVIDIA Volta GPU仍然被广泛使用。然而,由于伏尔塔GPU的Tensor核心单位(TCU)支持的计算形状不同于其他GPU结构,大多数努力的重点不是利用它们加速变压器培训。为了解决这一问题,我们建议建立一个加速Volta GPU培训的加速图书馆,SparkAttention利用TCU和内核聚,以减少高带宽内存和顶部的数量。我们关于VIDA V100 GPUP的终端至终端实验结果显示,SparkAtention平均在180美元(最高达2.46美元)下实现了加速速度。
+
+---
+
+## Article 102
+### Title@2025-08-21 (4): Near-Optimal Sparse Allreduce for Distributed Deep Learning
+
+**Title**: Near-Optimal Sparse Allreduce for Distributed Deep Learning | Nah-Optimal Sparse Allreduce für verteiltes Deep Learning | 分布式深层学习的近最佳微片缩放 减法 [2201.07598v4](http://arxiv.org/abs/2201.07598v4)
+
+**Authors** (2): Shigang Li, Torsten Hoefler
+
+Communication overhead is one of the major obstacles to train large deep learning models at scale. Gradient sparsification is a promising technique to reduce the communication volume. However, it is very challenging to obtain real performance improvement because of (1) the difficulty of achieving an scalable and efficient sparse allreduce algorithm and (2) the sparsification overhead. This paper proposes O$k$-Top$k$, a scheme for distributed training with sparse gradients. O$k$-Top$k$ integrates a novel sparse allreduce algorithm (less than 6$k$ communication volume which is asymptotically optimal) with the decentralized parallel Stochastic Gradient Descent (SGD) optimizer, and its convergence is proved. To reduce the sparsification overhead, O$k$-Top$k$ efficiently selects the top-$k$ gradient values according to an estimated threshold. Evaluations are conducted on the Piz Daint supercomputer with neural network models from different deep learning domains. Empirical results show that O$k$-Top$k$ achieves similar model accuracy to dense allreduce. Compared with the optimized dense and the state-of-the-art sparse allreduces, O$k$-Top$k$ is more scalable and significantly improves training throughput (e.g., 3.29x-12.95x improvement for BERT on 256 GPUs).
+
+通信管理费是培养大规模深层次学习模式的主要障碍之一。 渐进式宽度是减少通信量的一个大有希望的技术, 然而, 实现真正的绩效改进是非常困难的, 因为:(1) 实现可缩放和高效的稀释全部减排算法和(2) 垃圾处理管理费的困难。 本文建议Ok$- Top$k$, 这是一种使用稀薄梯度的分布式培训计划。 Ok$- Top$ 将新的稀薄的稀释式降价算法( 低于6k$的通信量, 且不那么理想 ) 与分散的平行托恰奇梯源优化( SGD) 和 其趋同 。 要降低垃圾处理的间接费用, Ok$- Topk$ 有效选择了最高至k$的梯度值, 并且根据估计的阈值进行评估。 在Piz Daint超级计算机上进行了不同深层次学习领域的神经网络模型的评估。 Empricalal 结果显示, Ok$k$k$ 实现类似模型的精确度, 在Odrevlex- dreal- dest- destaltraction 3x 上大大改进。
+
+---
+
+## Article 103
+### Title@2025-08-21 (4): Chimera: Efficiently Training Large-Scale Neural Networks with   Bidirectional Pipelines
+
+**Title**: Chimera: Efficiently Training Large-Scale Neural Networks with   Bidirectional Pipelines | Chimera: Effizientes Training von großräumigen Neuralnetzen mit bidirektionalen Pipelines | Chimera:有效培训使用双向管道的大型神经网络 [2107.06925v5](http://arxiv.org/abs/2107.06925v5)
+
+**Authors** (2): Shigang Li, Torsten Hoefler
+
+Training large deep learning models at scale is very challenging. This paper proposes Chimera, a novel pipeline parallelism scheme which combines bidirectional pipelines for efficiently training large-scale models. Chimera is a synchronous approach and therefore no loss of accuracy, which is more convergence-friendly than asynchronous approaches. Compared with the latest synchronous pipeline approach, Chimera reduces the number of bubbles by up to 50%; benefiting from the sophisticated scheduling of bidirectional pipelines, Chimera has a more balanced activation memory consumption. Evaluations are conducted on Transformer based language models. For a GPT-2 model with 1.3 billion parameters running on 2,048 GPU nodes of the Piz Daint supercomputer, Chimera improves the training throughput by 1.16x-2.34x over the state-of-the-art synchronous and asynchronous pipeline approaches.
+
+大规模培训大型深层学习模式非常具有挑战性。 本文提出了齐梅拉(Chimera),这是一个将双向管道联合起来,高效培训大型模型的新型管道平行计划。 齐梅拉是一个同步方法,因此准确性不会丧失,这比非同步方法更有利于趋同。 与最新的同步管道方法相比,奇梅拉将泡沫数量减少高达50%;从双向管道的复杂时间安排中获益,奇梅拉拥有更平衡的激活记忆消耗。 以变换器为基础的语言模型进行了评估。 对于GPT-2模型,其13亿参数运行在皮兹·丹特超级计算机的2 048 GPU节点上,奇梅拉将培训吞吐量增加了1. 16x 2. 34x, 用于最新同步和无同步管道方法。
+
+---
+
+## Article 104
+### Title@2025-08-21 (4): Taming Unbalanced Training Workloads in Deep Learning with Partial   Collective Operations
+
+**Title**: Taming Unbalanced Training Workloads in Deep Learning with Partial   Collective Operations | Unausgewogene Trainingsarbeitslasten im Deep Learning mit teilweisen kollektiven Operationen zu zähmen | 减少部分集体经营的深学习中不平衡的培训工作量 [1908.04207v5](http://arxiv.org/abs/1908.04207v5)
+
+**Authors** (5): Shigang Li, Tal Ben-Nun, Salvatore Di Girolamo, Dan Alistarh, Torsten Hoefler
+
+Load imbalance pervasively exists in distributed deep learning training systems, either caused by the inherent imbalance in learned tasks or by the system itself. Traditional synchronous Stochastic Gradient Descent (SGD) achieves good accuracy for a wide variety of tasks, but relies on global synchronization to accumulate the gradients at every training step. In this paper, we propose eager-SGD, which relaxes the global synchronization for decentralized accumulation. To implement eager-SGD, we propose to use two partial collectives: solo and majority. With solo allreduce, the faster processes contribute their gradients eagerly without waiting for the slower processes, whereas with majority allreduce, at least half of the participants must contribute gradients before continuing, all without using a central parameter server. We theoretically prove the convergence of the algorithms and describe the partial collectives in detail. Experimental results on load-imbalanced environments (CIFAR-10, ImageNet, and UCF101 datasets) show that eager-SGD achieves 1.27x speedup over the state-of-the-art synchronous SGD, without losing accuracy.
+
+分布式深层学习培训系统中普遍存在的负载不平衡现象,要么是由于学习任务的内在不平衡造成的,要么是由于系统本身造成的。传统同步的斯托克渐变源(SGD)对于各种各样的任务都非常准确,但依靠全球同步在每个培训步骤中积累梯度。在本文件中,我们提议热度的SGD,放松全球对分散积累的同步。为了实施热度的SGD,我们提议使用两个部分集体:单独和多数。随着单向减速,更快的过程会急切地贡献其梯度,而不必等待较慢的过程,而大多数的参与者至少一半必须在不使用中央参数服务器的情况下,在继续之前贡献梯度。我们理论上证明算法的趋同,并详细描述部分集体。负载平衡环境(CIFAR-10、图像网和UCFC-101数据集)的实验结果显示,热度SGD在不失去准确性的情况下,在状态的同步 SGD上实现了1.27x速度。
+
+---
+
+## Article 105
+### Title@2025-08-21 (4): Optimizing Compilation for Distributed Quantum Computing via Clustering   and Annealing
+
+**Title**: Optimizing Compilation for Distributed Quantum Computing via Clustering   and Annealing | Optimierung der Zusammenstellung für verteiltes Quantenrechnen über Clustering und Annealing | 通过集群和Annaaling优化分布量子计算机编集 [2508.15267v1](http://arxiv.org/abs/2508.15267v1)
+
+**Authors** (5): Ruilin Zhou, Jinglei Cheng, Yuhang Gan, Junyu Liu, Chen Qian
+
+Efficiently mapping quantum programs onto Distributed quantum computing (DQC) are challenging, particularly when considering the heterogeneous quantum processing units (QPUs) with different structures. In this paper, we present a comprehensive compilation framework that addresses these challenges with three key insights: exploiting structural patterns within quantum circuits, using clustering for initial qubit placement, and adjusting qubit mapping with annealing algorithms. Experimental results demonstrate the effectiveness of our methods and the capability to handle complex heterogeneous distributed quantum systems. Our evaluation shows that our method reduces the objective value at most 88.40\% compared to the baseline.
+
+在分布量子计算(DQC)上高效绘制量子程序具有挑战性,特别是考虑到结构不同的量子处理单位(QPUs)时。在本文中,我们提出了一个综合汇编框架,以三个关键洞察力应对这些挑战:利用量子电路内部的结构模式,利用组群进行初始qubit定位,以及调整qubit绘图,使用annealing算法。实验结果表明我们的方法和处理复杂多元分布量子系统的能力是有效的。我们的评估表明,我们的方法比基线减少了最多88.40的目标值。
+
+---
+
+## Article 106
+### Title@2025-08-21 (4): Breaking (Global) Barriers in Parallel Stochastic Optimization with   Wait-Avoiding Group Averaging
+
+**Title**: Breaking (Global) Barriers in Parallel Stochastic Optimization with   Wait-Avoiding Group Averaging | Breaking (Global) Barrieren in der parallelen stochastischen Optimierung mit Warte-Vermeidung Gruppe durchschnittlich | 与避候群体进行平行斯托卡优化的打破(全球)障碍 [2005.00124v5](http://arxiv.org/abs/2005.00124v5)
+
+**Authors** (7): Shigang Li, Tal Ben-Nun, Giorgi Nadiradze, Salvatore Di Girolamo, Nikoli Dryden, Dan Alistarh, Torsten Hoefler
+
+Deep learning at scale is dominated by communication time. Distributing samples across nodes usually yields the best performance, but poses scaling challenges due to global information dissemination and load imbalance across uneven sample lengths. State-of-the-art decentralized optimizers mitigate the problem, but require more iterations to achieve the same accuracy as their globally-communicating counterparts. We present Wait-Avoiding Group Model Averaging (WAGMA) SGD, a wait-avoiding stochastic optimizer that reduces global communication via subgroup weight exchange. The key insight is a combination of algorithmic changes to the averaging scheme and the use of a group allreduce operation. We prove the convergence of WAGMA-SGD, and empirically show that it retains convergence rates similar to Allreduce-SGD. For evaluation, we train ResNet-50 on ImageNet; Transformer for machine translation; and deep reinforcement learning for navigation at scale. Compared with state-of-the-art decentralized SGD variants, WAGMA-SGD significantly improves training throughput (e.g., 2.1x on 1,024 GPUs for reinforcement learning), and achieves the fastest time-to-solution (e.g., the highest score using the shortest training time for Transformer).
+
+深度学习以交流时间为主。 通过节点分配样本通常产生最佳性能,但由于全球信息传播和不同抽样长度的负载不平衡而带来规模化挑战。 最先进的分散化优化优化器缓解了问题,但需要更多迭代才能达到与全球交流的对应方相同的准确性。 我们提供等待避免小组模型变异(WAGMA) SGD(WAGMA) SGD),这是一个通过分组重量交换减少全球通信的等待式随机优化器。 关键洞察力是将算法变化与平均办法和使用组合全速减速操作相结合。 我们证明WAGMA-SGD的趋同,以及经验显示它保留了类似于Alledudes-SGD的趋同率。 为了评估,我们在图像网络上培训ResNet-50; 机器翻译变异器; 以及大规模导航的深度强化学习。 与最先进的分散式 SGD变异,WAGMA-SGD(W) 显著改进了通过产出培训(例如,2.14x对1 024GD-GPD) 进行最高级的升级学习, 并实现最快的升级。
+
+---
+
+## Article 107
+### Title@2025-08-21 (4): Edge-Cloud Collaborative Computing on Distributed Intelligence and Model   Optimization: A Survey
+
+**Title**: Edge-Cloud Collaborative Computing on Distributed Intelligence and Model   Optimization: A Survey | Edge-Cloud Collaborative Computing on Distributed Intelligence und Modelloptimierung: Eine Umfrage | 分布式情报和模式优化:调查 [2505.01821v4](http://arxiv.org/abs/2505.01821v4)
+
+**Authors** (11): Jing Liu, Yao Du, Kun Yang, Jiaqi Wu, Yan Wang, Xiping Hu, Zehua Wang, Yang Liu, Peng Sun, Azzedine Boukerche, Victor C. M. Leung
+
+Edge-cloud collaborative computing (ECCC) has emerged as a pivotal paradigm for addressing the computational demands of modern intelligent applications, integrating cloud resources with edge devices to enable efficient, low-latency processing. Recent advancements in AI, particularly deep learning and large language models (LLMs), have dramatically enhanced the capabilities of these distributed systems, yet introduce significant challenges in model deployment and resource management. In this survey, we comprehensive examine the intersection of distributed intelligence and model optimization within edge-cloud environments, providing a structured tutorial on fundamental architectures, enabling technologies, and emerging applications. Additionally, we systematically analyze model optimization approaches, including compression, adaptation, and neural architecture search, alongside AI-driven resource management strategies that balance performance, energy efficiency, and latency requirements. We further explore critical aspects of privacy protection and security enhancement within ECCC systems and examines practical deployments through diverse applications, spanning autonomous driving, healthcare, and industrial automation. Performance analysis and benchmarking techniques are also thoroughly explored to establish evaluation standards for these complex systems. Furthermore, the review identifies critical research directions including LLMs deployment, 6G integration, neuromorphic computing, and quantum computing, offering a roadmap for addressing persistent challenges in heterogeneity management, real-time processing, and scalability. By bridging theoretical advancements and practical deployments, this survey offers researchers and practitioners a holistic perspective on leveraging AI to optimize distributed computing environments, fostering innovation in next-generation intelligent systems.
+
+此外,我们系统分析模型优化方法,包括压缩、适应和神经结构搜索,以及由AI驱动的资源管理战略,这些战略平衡业绩、能源效率和延时要求;我们进一步探索核心信息技术系统内隐私保护和加强安全的关键方面,并通过多种应用,跨越自主驱动、保健和工业自动化,审查实际部署情况;还透彻探讨业绩分析和基准制定技术,以便为这些复杂系统建立评价标准;此外,审查还确定了关键的研究方向,包括LLMS部署、6G整合、未来神经变迁计算和量子计算;在实际部署过程中,提供解决持续挑战的理论升级和升级分析;在实际部署过程中,提供一张路线图;在实际部署过程中,提供解决持续挑战的理论升级和升级分析;在实际部署过程中,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度出发,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,从理论角度,走向,从研究,从理论角度,从理论角度,从研究,从理论角度,从理论角度,从理论角度,从理论角度,走向,从理论角度,从理论角度,从理论角度,从研究,从理论角度,从理论角度,从理论角度,从理论角度,到,从,从,从研究,走向,从研究,从理论角度,走向,从理论角度,从研究,从研究,到,从,从,从,从,从,从,从,从,从,从,从,从,从,从,从,从,从,从,从,从,从,从,从,从,到,从,从,从,从,从,从,到,从,从,从,从,从,从,从,从,从,到,从,从,从,从,从,从,从,从,到,从,从,从,从,从,从,从,从,从,从,从,从,从,从,从,到,从,从,从,从,从,从,从,从,从,从,到,从,从,从,从
+
+---
+
+## Article 108
+### Title@2025-08-21 (4): AutoDDL: Automatic Distributed Deep Learning with Near-Optimal Bandwidth   Cost
+
+**Title**: AutoDDL: Automatic Distributed Deep Learning with Near-Optimal Bandwidth   Cost | AutoDDL: Automatisches verteiltes Deep Learning mit nahezu optimalen Bandbreitenkosten | 自动DDL: 以近最佳带宽成本自动分配深层学习 [2301.06813v3](http://arxiv.org/abs/2301.06813v3)
+
+**Authors** (5): Jinfan Chen, Shigang Li, Ran Gun, Jinhui Yuan, Torsten Hoefler
+
+Recent advances in deep learning are driven by the growing scale of computation, data, and models. However, efficiently training large-scale models on distributed systems requires an intricate combination of data, operator, and pipeline parallelism, which exerts heavy burden on machine learning practitioners. To this end, we propose AutoDDL, a distributed training framework that automatically explores and exploits new parallelization schemes with near-optimal bandwidth cost. AutoDDL facilitates the description and implementation of different schemes by utilizing OneFlow's Split, Broadcast, and Partial Sum (SBP) abstraction. AutoDDL is equipped with an analytical performance model combined with a customized Coordinate Descent algorithm, which significantly reduces the scheme searching overhead. We conduct evaluations on Multi-Node-Single-GPU and Multi-Node-Multi-GPU machines using different models, including VGG and Transformer. Compared to the expert-optimized implementations, AutoDDL reduces the end-to-end training time by up to 31.1% and 10% for Transformer and up to 17.7% and 71.5% for VGG on the two parallel systems, respectively.
+
+最近深层次学习的进展是由日益扩大的计算、数据和模型规模驱动的。然而,高效地在分布式系统上培训大型模型需要复杂的数据、操作员和管道平行性能组合,这对机器学习实践者造成沉重负担。为此,我们提议AutoDDL,这是一个分布式培训框架,自动探索和利用具有近最佳带宽成本的新的平行计划。AutoDDL通过使用OneFlow的分隔、广播和部分总和(SBP)抽象化来便利描述和实施不同的计划。AutoDL配备了一个分析性能模型,加上一个定制的“协调源码算法”,这大大降低了搜索计划的管理费用。我们使用不同模型,包括VGG和变压器,对多点-Sing-Sing-GPU和多点-Multi-GPU进行评价。与专家优化实施相比,AutDDL将两个平行系统中的端到端培训时间分别减少31.1%和10%,VGGG为17.7%和71.5%。
+
+---
+
+## Article 109
+### Title@2025-08-21 (4): Reliable Multi-view 3D Reconstruction for `Just-in-time' Edge   Environments
+
+**Title**: Reliable Multi-view 3D Reconstruction for `Just-in-time' Edge   Environments | Zuverlässige Multi-View 3D-Rekonstruktion für `Just-in-time' Edge-Umgebungen | 重建“正时”边缘环境 [2508.15158v1](http://arxiv.org/abs/2508.15158v1)
+
+**Authors** (4): Md. Nurul Absur, Abhinav Kumar, Swastik Brahma, Saptarshi Debroy
+
+Multi-view 3D reconstruction applications are revolutionizing critical use cases that require rapid situational-awareness, such as emergency response, tactical scenarios, and public safety. In many cases, their near-real-time latency requirements and ad-hoc needs for compute resources necessitate adoption of `Just-in-time' edge environments where the system is set up on the fly to support the applications during the mission lifetime. However, reliability issues can arise from the inherent dynamism and operational adversities of such edge environments, resulting in spatiotemporally correlated disruptions that impact the camera operations, which can lead to sustained degradation of reconstruction quality. In this paper, we propose a novel portfolio theory inspired edge resource management strategy for reliable multi-view 3D reconstruction against possible system disruptions. Our proposed methodology can guarantee reconstruction quality satisfaction even when the cameras are prone to spatiotemporally correlated disruptions. The portfolio theoretic optimization problem is solved using a genetic algorithm that converges quickly for realistic system settings. Using publicly available and customized 3D datasets, we demonstrate the proposed camera selection strategy's benefits in guaranteeing reliable 3D reconstruction against traditional baseline strategies, under spatiotemporal disruptions.
+
+多视图 3D 重建应用程序正在使需要快速了解紧急情况反应、战术情景和公共安全等情况的关键使用案例发生革命性变化,在许多情况下,由于近实时潜伏要求和对计算资源的临时需要,必须采用“正时”边缘环境,使系统在飞行期间能够安装在空中支持应用;然而,由于这种边缘环境的内在活力和操作不灵,可靠性问题可能会产生,从而导致对摄影机操作造成波长的干扰,从而可能导致重建质量的持续退化。在本文中,我们提出了新的组合理论,激发了边缘资源管理战略,以便进行可靠的多视图 3D 重建,防止可能的系统中断。我们提议的方法可以保证重建质量满意度,即使摄影机很容易发生波段相连的干扰。组合的理论优化问题可以通过基因算法加以解决,而基因算法可以迅速结合到现实的系统环境。我们利用公开和定制的3D数据集,展示了拟议的摄影机选择战略在保证可靠的3D重建不受传统的基线战略破坏方面的好处。
+
+---
+
